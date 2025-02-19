@@ -1,21 +1,42 @@
 {
   "name": "vsix-download",
-  "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "dev": "vite",
+    "autocorrect": "autocorrect --fix .",
+    "biome": "biome check --write --files-ignore-unknown=true --no-errors-on-unmatched",
     "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "dev": "vite",
+    "format": "prettier --write . --ignore-unknown",
+    "lint:fix": "eslint . --fix",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "up": "taze major -I"
   },
   "dependencies": {
     "@nuxt/ui": "3.0.0-alpha.10",
+    "@vueuse/core": "^12.5.0",
+    "defu": "^6.1.4",
+    "reka-ui": "1.0.0-alpha.10",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^4.2.0",
+    "@biomejs/biome": "^1.9.4",
+    "@iconify-json/carbon": "^1.2.7",
+    "@types/node": "^22.13.2",
     "@vitejs/plugin-vue": "^5.2.1",
+    "@vue/compiler-sfc": "^3.5.13",
     "@vue/tsconfig": "^0.7.0",
+    "eslint": "^9.20.1",
+    "eslint-plugin-format": "^1.0.1",
+    "jsdom": "^26.0.0",
+    "pnpm": "^10.3.0",
+    "prettier": "^3.5.0",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "taze": "^18.5.0",
     "typescript": "~5.7.2",
     "vite": "^6.1.0",
     "vue-tsc": "^2.2.0"
