@@ -1,7 +1,7 @@
-import { defineConfig } from "vite";
-import vue from "@vitejs/plugin-vue";
-
-import ui from "@nuxt/ui/vite";
+import { fileURLToPath, URL } from 'node:url'
+import ui from '@nuxt/ui/vite'
+import vue from '@vitejs/plugin-vue'
+import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -10,10 +10,15 @@ export default defineConfig({
     ui({
       ui: {
         colors: {
-          primary: "green",
-          neutral: "slate",
+          primary: 'green',
+          neutral: 'slate',
         },
       },
     }),
   ],
-});
+  resolve: {
+    alias: {
+      '@': fileURLToPath(new URL('./src', import.meta.url)),
+    },
+  },
+})
