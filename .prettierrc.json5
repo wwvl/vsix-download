@@ -1,0 +1,31 @@
+{
+  "experimentalTernaries": true, // 启用实验性的三元运算符格式
+  "printWidth": 200, // 每行代码的长度限制
+  "tabWidth": 2, // 一个制表符等于的空格数
+  "useTabs": false, // 使用空格而不是制表符缩进
+  "semi": false, // 在语句末尾不加分号
+  "singleQuote": true, // 使用单引号
+  "quoteProps": "as-needed", // 对象属性按需加引号
+  "jsxSingleQuote": true, // JSX 中使用单引号
+  "trailingComma": "all", // 尾后逗号：尽可能添加
+  "bracketSpacing": true, // 花括号内侧加空格
+  "bracketSameLine": false, // 多行 HTML 的 `>` 换行
+  "arrowParens": "always", // 单参数箭头函数加括号
+  "requirePragma": false, // 仅格式化包含特定注释的文件
+  "insertPragma": false, // 在文件头添加 `@format` 标记
+  "proseWrap": "preserve", // Markdown 换行保持原样
+  "htmlWhitespaceSensitivity": "css", // HTML 空白符敏感度
+  "vueIndentScriptAndStyle": true, // Vue `<script>` 和 `<style>` 缩进
+  "endOfLine": "auto", // 自动识别换行符
+  "embeddedLanguageFormatting": "auto", // 自动格式化嵌入语言代码
+  "singleAttributePerLine": false, // HTML 属性不强制单行显示
+  "plugins": ["prettier-plugin-tailwindcss"], // 使用 Tailwind CSS 插件
+  "overrides": [
+    {
+      "files": ["biome.jsonc"],
+      "options": {
+        "trailingComma": "none" // 禁止尾后逗号
+      }
+    }
+  ]
+}
