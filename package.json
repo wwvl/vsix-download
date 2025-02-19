@@ -15,7 +15,7 @@
     "up": "taze major -I"
   },
   "dependencies": {
-    "@nuxt/ui": "3.0.0-alpha.10",
+    "@nuxt/ui": "3.0.0-alpha.13",
     "@vueuse/core": "^12.7.0",
     "defu": "^6.1.4",
     "reka-ui": "1.0.0-alpha.10",
