@@ -1,3 +1,12 @@
 {
-  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+  "recommendations": [
+    "antfu.goto-alias",
+    "antfu.iconify",
+    "antfu.unocss",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "vue.volar",
+    "Vue.vscode-typescript-vue-plugin"
+  ]
 }
