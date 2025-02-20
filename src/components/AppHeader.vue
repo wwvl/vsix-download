@@ -3,6 +3,11 @@
 
   const items = computed(() => [
     {
+      label: '列表视图',
+      to: '/list',
+      icon: 'i-carbon-table',
+    },
+    {
       label: 'wwvl',
       href: 'https://www.wwvl.asia',
       target: '_blank',
