@@ -1,45 +1,23 @@
 <script setup lang="ts">
-import { createReusableTemplate } from '@vueuse/core'
-import { Primitive } from 'reka-ui'
-import { computed, ref, watch } from 'vue'
-import { useRoute } from 'vue-router'
+  import type { HeaderMode, HeaderProps, HeaderSlots } from '@/types/header'
+  import { createReusableTemplate } from '@vueuse/core'
+  import { Primitive } from 'reka-ui'
+  import { computed, ref, watch } from 'vue'
+  import { useRoute } from 'vue-router'
 
-const props = withDefaults(
-  defineProps<{
-    as?: any
-    title?: string
-    to?: string
-    class?: any
-    toggleSide?: 'left' | 'right'
-    toggle?: {
-      color?: 'error' | 'neutral' | 'primary' | 'secondary' | 'success' | 'info' | 'warning'
-      variant?: 'ghost' | 'link' | 'solid' | 'outline' | 'soft' | 'subtle'
-      class?: string
-    }
-  }>(),
-  {
+  // Props 定义
+  const props = withDefaults(defineProps<HeaderProps<HeaderMode>>(), {
     as: 'header',
     to: '/',
     title: 'Sub',
     toggleSide: 'right',
-  },
-)
+  })
 
-const slots = defineSlots<{
-  title: (props?: Record<string, unknown>) => any
-  left: (props?: Record<string, unknown>) => any
-  default: (props?: Record<string, unknown>) => any
-  right: (props?: Record<string, unknown>) => any
-  content: (props?: Record<string, unknown>) => any
-  top: (props?: Record<string, unknown>) => any
-  bottom: (props?: Record<string, unknown>) => any
-  toggle: (props?: { open: boolean }) => any
-}>()
+  // 插槽定义
+  const slots = defineSlots<HeaderSlots>()
 
-const open = ref(false)
-
-const header = {
-  slots: {
+  // 样式系统
+  const ui = computed(() => ({
     root: 'bg-[var(--ui-bg)]/75 backdrop-blur border-b border-[var(--ui-border)] sticky top-0 z-50',
     container: 'flex items-center justify-between gap-3 h-[var(--ui-header-height)]',
     left: 'lg:flex-1 flex items-center gap-1.5',
@@ -51,41 +29,25 @@ const header = {
     overlay: 'lg:hidden',
     header: '',
     body: 'p-4 sm:p-6 overflow-y-auto',
-    toggleSide: 'right',
-  },
-} as const
+  }))
 
-const route = useRoute()
-const ariaLabel = ref('Sub')
+  // 状态管理
+  const open = ref(false)
+  const route = useRoute()
+  const ariaLabel = ref('Sub')
 
-watch(
-  () => route.fullPath,
-  () => {
-    open.value = false
-  },
-)
+  // 监听路由变化
+  watch(
+    () => route.fullPath,
+    () => {
+      open.value = false
+    },
+  )
 
-const ui = computed(() => {
-  const baseStyles = header.slots
-  return {
-    root: baseStyles.root,
-    container: baseStyles.container,
-    left: baseStyles.left,
-    center: baseStyles.center,
-    right: baseStyles.right,
-    title: baseStyles.title,
-    toggle: baseStyles.toggle,
-    content: baseStyles.content,
-    overlay: baseStyles.overlay,
-    header: baseStyles.header,
-    body: baseStyles.body,
-    toggleSide: baseStyles.toggleSide,
-  }
-})
-
-const [DefineLeftTemplate, ReuseLeftTemplate] = createReusableTemplate()
-const [DefineRightTemplate, ReuseRightTemplate] = createReusableTemplate()
-const [DefineToggleTemplate, ReuseToggleTemplate] = createReusableTemplate()
+  // 模板复用
+  const [DefineLeftTemplate, ReuseLeftTemplate] = createReusableTemplate()
+  const [DefineRightTemplate, ReuseRightTemplate] = createReusableTemplate()
+  const [DefineToggleTemplate, ReuseToggleTemplate] = createReusableTemplate()
 </script>
 
 <template>
