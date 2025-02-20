@@ -4,6 +4,8 @@ import { defineStore } from 'pinia'
 export const useExtensionStore = defineStore('extension', {
   state: () => ({
     extensions: [] as Extension[],
+    loading: false,
+    error: null as string | null,
     searchQuery: '',
     selectedCategories: [] as string[],
     currentPage: 1,
@@ -39,12 +41,24 @@ export const useExtensionStore = defineStore('extension', {
 
   actions: {
     async fetchExtensions() {
+      this.loading = true
+      this.error = null
+
       try {
-        const response = await fetch('/data/extensions.json')
-        const data = await response.json()
-        this.extensions = data
+        const modules = import.meta.glob<{ default: Extension }>('../data/*.json')
+        const results = await Promise.all(
+          Object.entries(modules).map(async ([_path, loader]) => {
+            const module = await loader()
+            return module.default
+          }),
+        )
+
+        this.extensions = results.filter(Boolean)
       } catch (error) {
         console.error('Failed to fetch extensions:', error)
+        this.error = error instanceof Error ? error.message : '加载扩展数据失败'
+      } finally {
+        this.loading = false
       }
     },
   },
