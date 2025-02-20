@@ -1,0 +1,60 @@
+{
+  "extensionId": "ea6a6046-2132-421f-a984-664909fcf0b8",
+  "extensionName": "vscode-drawio",
+  "displayName": "Draw.io Integration",
+  "shortDescription": "This unofficial extension integrates Draw.io into VS Code.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250219012/vspackage",
+  "filename": "hediet.vscode-drawio-1.9.250219012.vsix",
+  "categories": [
+    "Visualization"
+  ],
+  "tags": [
+    "__ext_dio",
+    "__ext_diopng",
+    "__ext_diosvg",
+    "__ext_drawio",
+    "__ext_drawiopng",
+    "__ext_drawiosvg",
+    "__web_extension",
+    "architecture",
+    "code link",
+    "diagram",
+    "diagrams.net",
+    "Draw.io",
+    "drawio",
+    "keybindings",
+    "uml",
+    "visio"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio",
+  "latest_version": {
+    "version": "1.9.250219012",
+    "lastUpdated": "2025-02-19T19:50:06.18Z"
+  },
+  "version_history": [
+    {
+      "version": "1.9.250219012",
+      "lastUpdated": "2025-02-19T19:50:06.18Z"
+    },
+    {
+      "version": "1.9.0",
+      "lastUpdated": "2025-02-19T19:47:43.633Z"
+    },
+    {
+      "version": "1.8.250217011",
+      "lastUpdated": "2025-02-17T10:51:54.547Z"
+    },
+    {
+      "version": "1.8.0",
+      "lastUpdated": "2025-02-17T10:49:13.377Z"
+    },
+    {
+      "version": "1.7.2025012806",
+      "lastUpdated": "2025-01-28T18:14:01.147Z"
+    },
+    {
+      "version": "1.7.2025012805",
+      "lastUpdated": "2025-01-28T16:56:49.127Z"
+    }
+  ]
+}

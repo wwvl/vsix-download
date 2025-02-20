@@ -1,0 +1,61 @@
+{
+  "extensionId": "14933acc-ee13-48c1-9320-e39310c683b1",
+  "extensionName": "iconify",
+  "displayName": "Iconify IntelliSense",
+  "shortDescription": "Intelligent Iconify previewing and searching for VS Code",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.10.2/vspackage",
+  "filename": "antfu.iconify-0.10.2.vsix",
+  "categories": [
+    "Snippets",
+    "Visualization"
+  ],
+  "tags": [
+    "__sponsor_extension",
+    "css",
+    "django-html",
+    "handlebars",
+    "html",
+    "iconify",
+    "icons",
+    "javascript",
+    "javascriptreact",
+    "markdown",
+    "mdx",
+    "snippet",
+    "svelte",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=antfu.iconify",
+  "latest_version": {
+    "version": "0.10.2",
+    "lastUpdated": "2024-11-18T04:01:18.243Z"
+  },
+  "version_history": [
+    {
+      "version": "0.10.2",
+      "lastUpdated": "2024-11-18T04:01:18.243Z"
+    },
+    {
+      "version": "0.10.1",
+      "lastUpdated": "2024-11-17T15:20:40.967Z"
+    },
+    {
+      "version": "0.10.0",
+      "lastUpdated": "2024-11-16T08:55:18.45Z"
+    },
+    {
+      "version": "0.9.5",
+      "lastUpdated": "2024-10-12T05:42:25.72Z"
+    },
+    {
+      "version": "0.9.4",
+      "lastUpdated": "2024-09-27T05:57:15.67Z"
+    },
+    {
+      "version": "0.9.3",
+      "lastUpdated": "2024-08-12T10:55:07.12Z"
+    }
+  ]
+}

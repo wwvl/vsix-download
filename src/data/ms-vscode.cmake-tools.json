@@ -1,0 +1,57 @@
+{
+  "extensionId": "7c889349-8749-43d4-8b5e-08939936d7f4",
+  "extensionName": "cmake-tools",
+  "displayName": "CMake Tools",
+  "shortDescription": "Extended CMake support in Visual Studio Code",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.20.52/vspackage",
+  "filename": "ms-vscode.cmake-tools-1.20.52.vsix",
+  "categories": [
+    "Programming Languages",
+    "Debuggers"
+  ],
+  "tags": [
+    "__ext_cmake",
+    "build",
+    "c++",
+    "cmake",
+    "CMake Cache",
+    "cmake-cache",
+    "debuggers",
+    "json",
+    "keybindings",
+    "native",
+    "syntaxes",
+    "tools"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools",
+  "latest_version": {
+    "version": "1.20.52",
+    "lastUpdated": "2025-02-19T21:45:33.403Z"
+  },
+  "version_history": [
+    {
+      "version": "1.20.52",
+      "lastUpdated": "2025-02-19T21:45:33.403Z"
+    },
+    {
+      "version": "1.20.51",
+      "lastUpdated": "2025-02-18T20:43:04.817Z"
+    },
+    {
+      "version": "1.20.50",
+      "lastUpdated": "2025-02-12T04:22:14.87Z"
+    },
+    {
+      "version": "1.20.49",
+      "lastUpdated": "2025-02-11T18:38:08.603Z"
+    },
+    {
+      "version": "1.20.48",
+      "lastUpdated": "2025-02-10T04:24:01.583Z"
+    },
+    {
+      "version": "1.20.47",
+      "lastUpdated": "2025-02-05T04:24:14.913Z"
+    }
+  ]
+}

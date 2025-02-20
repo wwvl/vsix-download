@@ -1,0 +1,47 @@
+{
+  "extensionId": "04f49bfc-8330-4eee-8237-ea938fb755ef",
+  "extensionName": "vscode-github-actions",
+  "displayName": "GitHub Actions",
+  "shortDescription": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.27.1/vspackage",
+  "filename": "GitHub.vscode-github-actions-0.27.1.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "__web_extension",
+    "GitHub Actions Workflow",
+    "github-actions-workflow"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions",
+  "latest_version": {
+    "version": "0.27.1",
+    "lastUpdated": "2025-01-30T20:19:50.583Z"
+  },
+  "version_history": [
+    {
+      "version": "0.27.1",
+      "lastUpdated": "2025-01-30T20:19:50.583Z"
+    },
+    {
+      "version": "0.27.0",
+      "lastUpdated": "2024-09-24T18:29:42.81Z"
+    },
+    {
+      "version": "0.26.5",
+      "lastUpdated": "2024-09-10T21:09:42.663Z"
+    },
+    {
+      "version": "0.26.3",
+      "lastUpdated": "2024-05-30T17:35:55.373Z"
+    },
+    {
+      "version": "0.26.2",
+      "lastUpdated": "2023-09-06T16:20:00.99Z"
+    },
+    {
+      "version": "0.26.1",
+      "lastUpdated": "2023-08-04T21:42:32.447Z"
+    }
+  ]
+}

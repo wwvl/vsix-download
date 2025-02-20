@@ -1,0 +1,54 @@
+{
+  "extensionId": "55cc8ddf-63e1-4b19-bc28-00e9352d04be",
+  "extensionName": "vscode-git-cruise",
+  "displayName": "Git History",
+  "shortDescription": "Git history panel in your VS Code",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GuodongSun/vsextensions/vscode-git-cruise/0.2.5/vspackage",
+  "filename": "GuodongSun.vscode-git-cruise-0.2.5.vsix",
+  "categories": [
+    "SCM Providers"
+  ],
+  "tags": [
+    "branch",
+    "commit",
+    "diff",
+    "flow",
+    "git",
+    "graph",
+    "history",
+    "log",
+    "scm",
+    "tag"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise",
+  "latest_version": {
+    "version": "0.2.5",
+    "lastUpdated": "2025-02-19T12:50:53.58Z"
+  },
+  "version_history": [
+    {
+      "version": "0.2.5",
+      "lastUpdated": "2025-02-19T12:50:53.58Z"
+    },
+    {
+      "version": "0.2.4",
+      "lastUpdated": "2023-06-20T16:30:12.943Z"
+    },
+    {
+      "version": "0.2.3",
+      "lastUpdated": "2022-11-27T14:43:04.18Z"
+    },
+    {
+      "version": "0.2.2",
+      "lastUpdated": "2022-11-14T14:23:59.483Z"
+    },
+    {
+      "version": "0.2.1",
+      "lastUpdated": "2022-10-23T11:16:27.387Z"
+    },
+    {
+      "version": "0.2.0",
+      "lastUpdated": "2022-10-23T11:02:00.527Z"
+    }
+  ]
+}

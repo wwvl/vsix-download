@@ -1,0 +1,55 @@
+{
+  "extensionId": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
+  "extensionName": "js-debug-nightly",
+  "displayName": "JavaScript Debugger (Nightly)",
+  "shortDescription": "An extension for debugging Node.js programs and Chrome.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.2.1117/vspackage",
+  "filename": "ms-vscode.js-debug-nightly-2025.2.1117.vsix",
+  "categories": [
+    "Debuggers"
+  ],
+  "tags": [
+    "__ext_wasm",
+    "__ext_wat",
+    "chrome",
+    "debugger",
+    "debuggers",
+    "javascript",
+    "keybindings",
+    "node",
+    "pwa",
+    "wat",
+    "WebAssembly Text Format"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly",
+  "latest_version": {
+    "version": "2025.2.1117",
+    "lastUpdated": "2025-02-12T01:14:39.95Z"
+  },
+  "version_history": [
+    {
+      "version": "2025.2.1117",
+      "lastUpdated": "2025-02-12T01:14:39.95Z"
+    },
+    {
+      "version": "2025.1.2717",
+      "lastUpdated": "2025-01-28T01:17:07.493Z"
+    },
+    {
+      "version": "2025.1.817",
+      "lastUpdated": "2025-01-09T01:14:14.9Z"
+    },
+    {
+      "version": "2025.1.717",
+      "lastUpdated": "2025-01-08T01:15:26.89Z"
+    },
+    {
+      "version": "2024.12.1917",
+      "lastUpdated": "2024-12-20T01:14:37.44Z"
+    },
+    {
+      "version": "2024.12.1817",
+      "lastUpdated": "2024-12-19T01:15:12.283Z"
+    }
+  ]
+}

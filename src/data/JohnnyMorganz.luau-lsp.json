@@ -1,0 +1,51 @@
+{
+  "extensionId": "9637e997-bdbb-4b8b-9dd1-73a8431bfb1f",
+  "extensionName": "luau-lsp",
+  "displayName": "Luau Language Server",
+  "shortDescription": "A Language Server Client for Luau",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.39.2/vspackage",
+  "filename": "JohnnyMorganz.luau-lsp-1.39.2.vsix",
+  "categories": [
+    "Programming Languages",
+    "Linters"
+  ],
+  "tags": [
+    "__ext_lua",
+    "__ext_luau",
+    "json",
+    "lua",
+    "luau",
+    "roblox"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp",
+  "latest_version": {
+    "version": "1.39.2",
+    "lastUpdated": "2025-02-15T11:29:42.87Z"
+  },
+  "version_history": [
+    {
+      "version": "1.39.2",
+      "lastUpdated": "2025-02-15T11:29:42.87Z"
+    },
+    {
+      "version": "1.39.2",
+      "lastUpdated": "2025-02-15T11:28:58.37Z"
+    },
+    {
+      "version": "1.39.2",
+      "lastUpdated": "2025-02-15T11:26:47.767Z"
+    },
+    {
+      "version": "1.39.2",
+      "lastUpdated": "2025-02-15T11:26:38.057Z"
+    },
+    {
+      "version": "1.39.2",
+      "lastUpdated": "2025-02-15T11:26:22.413Z"
+    },
+    {
+      "version": "1.39.2",
+      "lastUpdated": "2025-02-15T11:25:40.167Z"
+    }
+  ]
+}

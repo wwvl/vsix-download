@@ -1,0 +1,57 @@
+{
+  "extensionId": "1fbbc8b0-7432-4b7e-8774-3336151da2f3",
+  "extensionName": "astro-vscode",
+  "displayName": "Astro",
+  "shortDescription": "Language support for Astro",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.15.4/vspackage",
+  "filename": "astro-build.astro-vscode-2.15.4.vsix",
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "__ext_astro",
+    "__web_extension",
+    "astro",
+    "javascript",
+    "node",
+    "react",
+    "snippet",
+    "Static site generator",
+    "svelte",
+    "typescript",
+    "vue"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode",
+  "latest_version": {
+    "version": "2.15.4",
+    "lastUpdated": "2024-10-25T19:20:42.533Z"
+  },
+  "version_history": [
+    {
+      "version": "2.15.4",
+      "lastUpdated": "2024-10-25T19:20:42.533Z"
+    },
+    {
+      "version": "2.15.4",
+      "lastUpdated": "2024-10-25T19:20:33.81Z"
+    },
+    {
+      "version": "2.15.4",
+      "lastUpdated": "2024-10-25T19:20:04.98Z"
+    },
+    {
+      "version": "2.15.4",
+      "lastUpdated": "2024-10-25T19:19:43.54Z"
+    },
+    {
+      "version": "2.15.4",
+      "lastUpdated": "2024-10-25T19:19:33.71Z"
+    },
+    {
+      "version": "2.15.4",
+      "lastUpdated": "2024-10-25T19:19:26.34Z"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "extensionId": "91f56290-03a6-4860-bd71-7f7dce888548",
+  "extensionName": "nuxtr-vscode",
+  "displayName": "Nuxtr",
+  "shortDescription": "An extension for Nuxt offering commands and tools to make your experience more pleasant.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxtr/vsextensions/nuxtr-vscode/0.2.16/vspackage",
+  "filename": "Nuxtr.nuxtr-vscode-0.2.16.vsix",
+  "categories": [
+    "Programming Languages",
+    "Snippets"
+  ],
+  "tags": [
+    "__ext_log",
+    "__ext_nuxtignore",
+    "__ext_nuxtrc",
+    "Log",
+    "nuxt",
+    "Nuxt Framework",
+    "nuxtignore",
+    "Nuxtr",
+    "Nuxtr VSCode",
+    "nuxtrc",
+    "snippet",
+    "VSCode",
+    "Vue"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode",
+  "latest_version": {
+    "version": "0.2.16",
+    "lastUpdated": "2024-03-18T19:08:40.85Z"
+  },
+  "version_history": [
+    {
+      "version": "0.2.16",
+      "lastUpdated": "2024-03-18T19:08:40.85Z"
+    },
+    {
+      "version": "0.2.15",
+      "lastUpdated": "2024-01-24T19:09:24.727Z"
+    },
+    {
+      "version": "0.2.14",
+      "lastUpdated": "2024-01-23T21:36:55.203Z"
+    },
+    {
+      "version": "0.2.13",
+      "lastUpdated": "2024-01-12T04:50:20.673Z"
+    },
+    {
+      "version": "0.2.12",
+      "lastUpdated": "2024-01-02T13:58:35.74Z"
+    },
+    {
+      "version": "0.2.11",
+      "lastUpdated": "2023-12-16T15:06:04.643Z"
+    }
+  ]
+}

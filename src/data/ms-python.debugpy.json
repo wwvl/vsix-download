@@ -1,0 +1,48 @@
+{
+  "extensionId": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615",
+  "extensionName": "debugpy",
+  "displayName": "Python Debugger",
+  "shortDescription": "Python Debugger extension using debugpy.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.1.2025021701/vspackage",
+  "filename": "ms-python.debugpy-2025.1.2025021701.vsix",
+  "categories": [
+    "Debuggers"
+  ],
+  "tags": [
+    "debugger",
+    "debuggers",
+    "debugpy",
+    "python"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy",
+  "latest_version": {
+    "version": "2025.1.2025021701",
+    "lastUpdated": "2025-02-17T10:38:36.443Z"
+  },
+  "version_history": [
+    {
+      "version": "2025.1.2025021701",
+      "lastUpdated": "2025-02-17T10:38:36.443Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "lastUpdated": "2025-02-17T10:38:31.25Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "lastUpdated": "2025-02-17T10:38:29.72Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "lastUpdated": "2025-02-17T10:38:26.517Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "lastUpdated": "2025-02-17T10:37:29.917Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "lastUpdated": "2025-02-17T10:37:27.3Z"
+    }
+  ]
+}

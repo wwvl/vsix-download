@@ -1,0 +1,49 @@
+{
+  "extensionId": "726dd888-7465-4e27-a016-4288df7be24a",
+  "extensionName": "vscode-commitizen",
+  "displayName": "Visual Studio Code Commitizen Support",
+  "shortDescription": "commitizen - git commit with conventions",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/KnisterPeter/vsextensions/vscode-commitizen/1.1.0/vspackage",
+  "filename": "KnisterPeter.vscode-commitizen-1.1.0.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "changelog",
+    "commit",
+    "commitizen",
+    "conventional-changelog",
+    "git"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen",
+  "latest_version": {
+    "version": "1.1.0",
+    "lastUpdated": "2022-02-15T08:07:14.807Z"
+  },
+  "version_history": [
+    {
+      "version": "1.1.0",
+      "lastUpdated": "2022-02-15T08:07:14.807Z"
+    },
+    {
+      "version": "1.0.3",
+      "lastUpdated": "2022-01-12T08:17:23.037Z"
+    },
+    {
+      "version": "1.0.2",
+      "lastUpdated": "2021-11-11T16:50:08.063Z"
+    },
+    {
+      "version": "1.0.1",
+      "lastUpdated": "2021-08-30T07:22:35.787Z"
+    },
+    {
+      "version": "0.15.1",
+      "lastUpdated": "2021-07-26T11:26:38.017Z"
+    },
+    {
+      "version": "0.14.1",
+      "lastUpdated": "2021-04-16T07:07:50.133Z"
+    }
+  ]
+}

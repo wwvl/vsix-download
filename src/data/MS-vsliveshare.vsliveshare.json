@@ -1,0 +1,54 @@
+{
+  "extensionId": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+  "extensionName": "vsliveshare",
+  "displayName": "Live Share",
+  "shortDescription": "Real-time collaborative development from the comfort of your favorite tools.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5948/vspackage",
+  "filename": "MS-vsliveshare.vsliveshare-1.0.5948.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "__web_extension",
+    "Co-Debug",
+    "Co-Edit",
+    "Collaboration",
+    "debuggers",
+    "keybindings",
+    "liveshare",
+    "Remote",
+    "remote-menu",
+    "Sharing"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+  "latest_version": {
+    "version": "1.0.5948",
+    "lastUpdated": "2025-01-06T23:10:34.203Z"
+  },
+  "version_history": [
+    {
+      "version": "1.0.5948",
+      "lastUpdated": "2025-01-06T23:10:34.203Z"
+    },
+    {
+      "version": "1.0.5941",
+      "lastUpdated": "2024-09-23T20:43:52.637Z"
+    },
+    {
+      "version": "1.0.5940",
+      "lastUpdated": "2024-09-16T16:48:21.897Z"
+    },
+    {
+      "version": "1.0.5936",
+      "lastUpdated": "2024-07-15T20:01:04.837Z"
+    },
+    {
+      "version": "1.0.5932",
+      "lastUpdated": "2024-06-12T17:59:04.923Z"
+    },
+    {
+      "version": "1.0.5918",
+      "lastUpdated": "2024-03-05T20:21:09.13Z"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "extensionId": "2392d4a0-3976-49ea-af95-7001abb8c75a",
+  "extensionName": "markmap-vscode",
+  "displayName": "Markmap",
+  "shortDescription": "Visualize your markdown in VSCode",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gera2ld/vsextensions/markmap-vscode/0.2.10/vspackage",
+  "filename": "gera2ld.markmap-vscode-0.2.10.vsix",
+  "categories": [
+    "Visualization"
+  ],
+  "tags": [
+    "__web_extension",
+    "markdown",
+    "markmap",
+    "mindmap"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode",
+  "latest_version": {
+    "version": "0.2.10",
+    "lastUpdated": "2025-02-14T17:00:09.36Z"
+  },
+  "version_history": [
+    {
+      "version": "0.2.10",
+      "lastUpdated": "2025-02-14T17:00:09.36Z"
+    },
+    {
+      "version": "0.2.9",
+      "lastUpdated": "2025-02-13T14:30:45.963Z"
+    },
+    {
+      "version": "0.2.8",
+      "lastUpdated": "2025-01-13T16:11:01.7Z"
+    },
+    {
+      "version": "0.2.7",
+      "lastUpdated": "2025-01-08T04:49:24.173Z"
+    },
+    {
+      "version": "0.2.6",
+      "lastUpdated": "2025-01-04T14:01:01.82Z"
+    },
+    {
+      "version": "0.2.5",
+      "lastUpdated": "2025-01-01T06:53:42.517Z"
+    }
+  ]
+}

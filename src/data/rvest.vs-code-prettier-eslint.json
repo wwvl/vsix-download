@@ -1,0 +1,66 @@
+{
+  "extensionId": "d4b06bd6-36a0-469f-be55-c0a73413b688",
+  "extensionName": "vs-code-prettier-eslint",
+  "displayName": "Prettier ESLint",
+  "shortDescription": "A Visual Studio Extension to format JavaScript and Typescript code using prettier-eslint package",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rvest/vsextensions/vs-code-prettier-eslint/6.0.0/vspackage",
+  "filename": "rvest.vs-code-prettier-eslint-6.0.0.vsix",
+  "categories": [
+    "Formatters"
+  ],
+  "tags": [
+    "__sponsor_extension",
+    "css",
+    "eslint",
+    "graphql",
+    "html",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "less",
+    "linters",
+    "markdown",
+    "mdx",
+    "multi-root ready",
+    "prettier",
+    "prettier-eslint",
+    "scss",
+    "svelte",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "yaml"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint",
+  "latest_version": {
+    "version": "6.0.0",
+    "lastUpdated": "2024-02-06T19:19:08.337Z"
+  },
+  "version_history": [
+    {
+      "version": "6.0.0",
+      "lastUpdated": "2024-02-06T19:19:08.337Z"
+    },
+    {
+      "version": "5.1.0",
+      "lastUpdated": "2023-03-11T00:38:49.58Z"
+    },
+    {
+      "version": "5.0.4",
+      "lastUpdated": "2022-07-25T20:44:56.183Z"
+    },
+    {
+      "version": "5.0.3",
+      "lastUpdated": "2022-06-21T20:30:16.927Z"
+    },
+    {
+      "version": "5.0.2",
+      "lastUpdated": "2022-06-21T19:36:13.663Z"
+    },
+    {
+      "version": "5.0.1",
+      "lastUpdated": "2022-04-28T02:23:22.287Z"
+    }
+  ]
+}

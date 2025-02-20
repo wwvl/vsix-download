@@ -1,0 +1,71 @@
+{
+  "extensionId": "5fb19573-2183-4cf2-b53d-0fb869dae7ae",
+  "extensionName": "shell-format",
+  "displayName": "shell-format",
+  "shortDescription": "A formatter for shell scripts, Dockerfile, gitignore, dotenv, /etc/hosts, jvmoptions, and other file types",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/foxundermoon/vsextensions/shell-format/7.2.5/vspackage",
+  "filename": "foxundermoon.shell-format-7.2.5.vsix",
+  "categories": [
+    "Formatters"
+  ],
+  "tags": [
+    "__ext_azcli",
+    "__ext_bats",
+    "__ext_properties",
+    "__ext_vmoptions",
+    "azcli",
+    "azure cli tool",
+    "bash",
+    "bashrc",
+    "bats",
+    "beautify",
+    "docker",
+    "dockerfile",
+    "dockerignore",
+    "dotenv",
+    "env",
+    "format",
+    "formatter",
+    "gitignore",
+    "hosts",
+    "ignore",
+    "jvmoptions",
+    "Properties",
+    "shell",
+    "shellscript",
+    "spring-boot-properties",
+    "vmoptions",
+    "zshrc"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format",
+  "latest_version": {
+    "version": "7.2.5",
+    "lastUpdated": "2023-02-21T09:01:02.063Z"
+  },
+  "version_history": [
+    {
+      "version": "7.2.5",
+      "lastUpdated": "2023-02-21T09:01:02.063Z"
+    },
+    {
+      "version": "7.2.4",
+      "lastUpdated": "2023-02-21T08:38:19.523Z"
+    },
+    {
+      "version": "7.2.3",
+      "lastUpdated": "2023-02-21T08:09:01.59Z"
+    },
+    {
+      "version": "7.2.2",
+      "lastUpdated": "2021-11-07T09:44:36.677Z"
+    },
+    {
+      "version": "7.2.1",
+      "lastUpdated": "2021-11-06T16:21:22.817Z"
+    },
+    {
+      "version": "7.2.0",
+      "lastUpdated": "2021-11-06T15:39:03.523Z"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "extensionId": "ef045c7e-5053-478e-9d0b-d6ade7bd99a7",
+  "extensionName": "cake-vscode",
+  "displayName": "Cake",
+  "shortDescription": "Cake build script language support.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/cake-build/vsextensions/cake-vscode/2.1.1/vspackage",
+  "filename": "cake-build.cake-vscode-2.1.1.vsix",
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Debuggers"
+  ],
+  "tags": [
+    "csharp",
+    "debuggers",
+    "ini",
+    "snippet"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=cake-build.cake-vscode",
+  "latest_version": {
+    "version": "2.1.1",
+    "lastUpdated": "2022-10-11T20:29:04.86Z"
+  },
+  "version_history": [
+    {
+      "version": "2.1.1",
+      "lastUpdated": "2022-10-11T20:29:04.86Z"
+    },
+    {
+      "version": "2.1.0",
+      "lastUpdated": "2022-10-09T19:55:43.553Z"
+    },
+    {
+      "version": "2.0.0",
+      "lastUpdated": "2021-12-13T22:13:34.73Z"
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2020-12-01T21:28:06.21Z"
+    },
+    {
+      "version": "0.13.0",
+      "lastUpdated": "2020-03-06T18:10:33.02Z"
+    },
+    {
+      "version": "0.12.0",
+      "lastUpdated": "2019-04-09T20:36:00.003Z"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "extensionId": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
+  "extensionName": "remote-containers",
+  "displayName": "Dev Containers",
+  "shortDescription": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.398.0/vspackage",
+  "filename": "ms-vscode-remote.remote-containers-0.398.0.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "containers",
+    "continueOn",
+    "dev container",
+    "devcontainer",
+    "development container",
+    "docker",
+    "json",
+    "jsonc",
+    "remote",
+    "remote development",
+    "remote-menu"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers",
+  "latest_version": {
+    "version": "0.398.0",
+    "lastUpdated": "2025-02-06T16:33:14.397Z"
+  },
+  "version_history": [
+    {
+      "version": "0.398.0",
+      "lastUpdated": "2025-02-06T16:33:14.397Z"
+    },
+    {
+      "version": "0.397.0",
+      "lastUpdated": "2025-02-06T17:21:45.523Z"
+    },
+    {
+      "version": "0.396.0",
+      "lastUpdated": "2025-01-27T22:48:02.387Z"
+    },
+    {
+      "version": "0.395.0",
+      "lastUpdated": "2024-12-11T18:06:29.433Z"
+    },
+    {
+      "version": "0.394.0",
+      "lastUpdated": "2024-12-11T19:11:07.243Z"
+    },
+    {
+      "version": "0.393.0",
+      "lastUpdated": "2024-12-09T15:03:32.173Z"
+    }
+  ]
+}

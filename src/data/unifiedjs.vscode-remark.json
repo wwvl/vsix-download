@@ -1,0 +1,46 @@
+{
+  "extensionId": "fb2da10c-d116-420d-bf07-97f9208e23a6",
+  "extensionName": "vscode-remark",
+  "displayName": "remark",
+  "shortDescription": "Lint and format markdown code with remark",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-remark/3.0.0/vspackage",
+  "filename": "unifiedjs.vscode-remark-3.0.0.vsix",
+  "categories": [
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "__sponsor_extension",
+    "format",
+    "ignore",
+    "json",
+    "lint",
+    "linters",
+    "markdown",
+    "remark",
+    "validate"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-remark",
+  "latest_version": {
+    "version": "3.0.0",
+    "lastUpdated": "2024-04-17T14:51:35.27Z"
+  },
+  "version_history": [
+    {
+      "version": "3.0.0",
+      "lastUpdated": "2024-04-17T14:51:35.27Z"
+    },
+    {
+      "version": "2.1.0",
+      "lastUpdated": "2022-07-30T10:03:35.65Z"
+    },
+    {
+      "version": "2.0.0",
+      "lastUpdated": "2022-07-23T15:35:04.86Z"
+    },
+    {
+      "version": "1.3.0",
+      "lastUpdated": "2021-03-21T15:24:09.687Z"
+    }
+  ]
+}

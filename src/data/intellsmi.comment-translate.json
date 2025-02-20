@@ -1,0 +1,54 @@
+{
+  "extensionId": "85668beb-15e7-48c4-86a1-6a02f3133292",
+  "extensionName": "comment-translate",
+  "displayName": "Comment Translate",
+  "shortDescription": "This extension helps developers translate comments, strings, code hints, error messages, and variable names in their code.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/intellsmi/vsextensions/comment-translate/3.0.0/vspackage",
+  "filename": "intellsmi.comment-translate-3.0.0.vsix",
+  "categories": [
+    "AI",
+    "Chat"
+  ],
+  "tags": [
+    "comment",
+    "GitHub Copilot Chat Participant",
+    "google translate",
+    "hover",
+    "keybindings",
+    "translate",
+    "注释",
+    "翻訳",
+    "翻译"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate",
+  "latest_version": {
+    "version": "3.0.0",
+    "lastUpdated": "2024-09-19T11:46:51.69Z"
+  },
+  "version_history": [
+    {
+      "version": "3.0.0",
+      "lastUpdated": "2024-09-19T11:46:51.69Z"
+    },
+    {
+      "version": "2.3.3",
+      "lastUpdated": "2023-12-10T13:31:25.327Z"
+    },
+    {
+      "version": "2.3.2",
+      "lastUpdated": "2023-09-16T02:53:09.91Z"
+    },
+    {
+      "version": "2.3.1",
+      "lastUpdated": "2023-07-12T12:59:05.433Z"
+    },
+    {
+      "version": "2.3.0",
+      "lastUpdated": "2023-06-13T12:55:48.92Z"
+    },
+    {
+      "version": "2.2.4",
+      "lastUpdated": "2022-06-29T11:30:15.48Z"
+    }
+  ]
+}

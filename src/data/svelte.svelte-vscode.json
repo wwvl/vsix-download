@@ -1,0 +1,52 @@
+{
+  "extensionId": "c5463f77-75d9-4a25-8cc4-d8541a461285",
+  "extensionName": "svelte-vscode",
+  "displayName": "Svelte for VS Code",
+  "shortDescription": "Svelte language support for VS Code",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.5.2/vspackage",
+  "filename": "svelte.svelte-vscode-109.5.2.vsix",
+  "categories": [
+    "Programming Languages",
+    "Formatters"
+  ],
+  "tags": [
+    "__ext_svelte",
+    "javascript",
+    "json",
+    "snippet",
+    "svelte",
+    "typescript",
+    "vscode"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode",
+  "latest_version": {
+    "version": "109.5.2",
+    "lastUpdated": "2025-01-13T09:38:32.7Z"
+  },
+  "version_history": [
+    {
+      "version": "109.5.2",
+      "lastUpdated": "2025-01-13T09:38:32.7Z"
+    },
+    {
+      "version": "109.5.1",
+      "lastUpdated": "2025-01-08T14:54:15.253Z"
+    },
+    {
+      "version": "109.5.0",
+      "lastUpdated": "2025-01-08T12:47:11.257Z"
+    },
+    {
+      "version": "109.4.0",
+      "lastUpdated": "2024-12-17T15:56:11.96Z"
+    },
+    {
+      "version": "109.3.3",
+      "lastUpdated": "2024-12-03T18:27:12.653Z"
+    },
+    {
+      "version": "109.3.2",
+      "lastUpdated": "2024-11-22T20:27:05.197Z"
+    }
+  ]
+}

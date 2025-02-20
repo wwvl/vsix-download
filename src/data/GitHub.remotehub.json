@@ -1,0 +1,45 @@
+{
+  "extensionId": "fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd",
+  "extensionName": "remotehub",
+  "displayName": "GitHub Repositories",
+  "shortDescription": "Remotely browse and edit any GitHub repository",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2024112101/vspackage",
+  "filename": "GitHub.remotehub-0.65.2024112101.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "__web_extension"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub",
+  "latest_version": {
+    "version": "0.65.2024112101",
+    "lastUpdated": "2024-11-21T09:22:11.343Z"
+  },
+  "version_history": [
+    {
+      "version": "0.65.2024112101",
+      "lastUpdated": "2024-11-21T09:22:11.343Z"
+    },
+    {
+      "version": "0.65.2024111901",
+      "lastUpdated": "2024-11-19T09:24:21.977Z"
+    },
+    {
+      "version": "0.64.0",
+      "lastUpdated": "2024-09-05T20:10:31.67Z"
+    },
+    {
+      "version": "0.63.2024082601",
+      "lastUpdated": "2024-08-26T09:21:27.77Z"
+    },
+    {
+      "version": "0.63.2024080801",
+      "lastUpdated": "2024-08-08T09:24:16.613Z"
+    },
+    {
+      "version": "0.63.2024061801",
+      "lastUpdated": "2024-06-18T09:23:47.777Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "extensionId": "7ad42776-8f7e-4214-bf67-4f0b518ef629",
+  "extensionName": "csdevkit",
+  "displayName": "C# Dev Kit",
+  "shortDescription": "Official C# extension from Microsoft",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.27/vspackage",
+  "filename": "ms-dotnettools.csdevkit-1.17.27.vsix",
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Debuggers",
+    "Testing"
+  ],
+  "tags": [
+    "asp.net",
+    "c#",
+    "csharp",
+    "devkit",
+    "dotnet",
+    "json",
+    "keybindings"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit",
+  "latest_version": {
+    "version": "1.17.27",
+    "lastUpdated": "2025-02-19T22:06:52.463Z"
+  },
+  "version_history": [
+    {
+      "version": "1.17.27",
+      "lastUpdated": "2025-02-19T22:06:52.463Z"
+    },
+    {
+      "version": "1.17.27",
+      "lastUpdated": "2025-02-19T22:05:21.66Z"
+    },
+    {
+      "version": "1.17.27",
+      "lastUpdated": "2025-02-19T22:04:52.133Z"
+    },
+    {
+      "version": "1.17.27",
+      "lastUpdated": "2025-02-19T22:04:30.09Z"
+    },
+    {
+      "version": "1.17.27",
+      "lastUpdated": "2025-02-19T22:03:42.713Z"
+    },
+    {
+      "version": "1.17.27",
+      "lastUpdated": "2025-02-19T22:03:40.9Z"
+    }
+  ]
+}

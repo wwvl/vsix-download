@@ -1,0 +1,69 @@
+{
+  "extensionId": "9d96b65c-c227-4a9e-80b7-e52b8a58c5f2",
+  "extensionName": "platformio-ide",
+  "displayName": "PlatformIO IDE",
+  "shortDescription": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/platformio/vsextensions/platformio-ide/3.3.4/vspackage",
+  "filename": "platformio.platformio-ide-3.3.4.vsix",
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Debuggers",
+    "Testing"
+  ],
+  "tags": [
+    "__ext_asm",
+    "__ext_dbgasm",
+    "__ext_dbgmem",
+    "__ext_inc",
+    "__ext_nasm",
+    "__ext_s",
+    "__ext_yasm",
+    "__web_extension",
+    "arduino",
+    "arm",
+    "asm",
+    "Assembly",
+    "debuggers",
+    "Disassembly",
+    "embedded",
+    "keybindings",
+    "Memory",
+    "microcontroller",
+    "platformio-debug.asm",
+    "platformio-debug.disassembly",
+    "platformio-debug.memoryview",
+    "risc-v"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide",
+  "latest_version": {
+    "version": "3.3.4",
+    "lastUpdated": "2025-01-11T15:02:25.52Z"
+  },
+  "version_history": [
+    {
+      "version": "3.3.4",
+      "lastUpdated": "2025-01-11T15:02:25.52Z"
+    },
+    {
+      "version": "3.3.4",
+      "lastUpdated": "2025-01-11T15:02:11.817Z"
+    },
+    {
+      "version": "3.3.4",
+      "lastUpdated": "2025-01-11T15:01:34.96Z"
+    },
+    {
+      "version": "3.3.4",
+      "lastUpdated": "2025-01-11T15:00:39.64Z"
+    },
+    {
+      "version": "3.3.4",
+      "lastUpdated": "2025-01-11T15:00:19.917Z"
+    },
+    {
+      "version": "3.3.4",
+      "lastUpdated": "2025-01-11T15:00:16.847Z"
+    }
+  ]
+}

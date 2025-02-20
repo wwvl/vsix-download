@@ -1,0 +1,66 @@
+{
+  "extensionId": "c5c6e24d-14be-49d2-9251-af57491b74bf",
+  "extensionName": "oracledevtools",
+  "displayName": "Oracle Developer Tools for VS Code (SQL and PLSQL)",
+  "shortDescription": "Develop SQL and PL/SQL with Oracle Database and Oracle Autonomous Database",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracledevtools/23.4.1/vspackage",
+  "filename": "Oracle.oracledevtools-23.4.1.vsix",
+  "categories": [
+    "Programming Languages"
+  ],
+  "tags": [
+    "__ext_bdy",
+    "__ext_fnc",
+    "__ext_pck",
+    "__ext_pkb",
+    "__ext_pkh",
+    "__ext_pks",
+    "__ext_plb",
+    "__ext_pls",
+    "__ext_plsql",
+    "__ext_prc",
+    "__ext_spc",
+    "__ext_sql",
+    "__ext_trg",
+    "debuggers",
+    "keybindings",
+    "Oracle",
+    "oraclesql",
+    "Oracle-SQL and PLSQL",
+    "PL/SQL",
+    "plsql",
+    "snippet",
+    "sql"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracledevtools",
+  "latest_version": {
+    "version": "23.4.1",
+    "lastUpdated": "2024-08-29T16:51:18.807Z"
+  },
+  "version_history": [
+    {
+      "version": "23.4.1",
+      "lastUpdated": "2024-08-29T16:51:18.807Z"
+    },
+    {
+      "version": "23.4.0",
+      "lastUpdated": "2024-07-22T18:52:46.947Z"
+    },
+    {
+      "version": "21.10.0",
+      "lastUpdated": "2024-05-30T18:19:42.437Z"
+    },
+    {
+      "version": "21.9.0",
+      "lastUpdated": "2024-04-10T17:43:16.03Z"
+    },
+    {
+      "version": "21.8.0",
+      "lastUpdated": "2024-01-08T18:08:51.34Z"
+    },
+    {
+      "version": "21.7.1",
+      "lastUpdated": "2023-10-30T16:42:58.913Z"
+    }
+  ]
+}

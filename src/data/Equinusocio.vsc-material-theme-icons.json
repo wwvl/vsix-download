@@ -1,0 +1,48 @@
+{
+  "extensionId": "6959958f-be4d-42c4-8aa4-dc2c2f086b0a",
+  "extensionName": "vsc-material-theme-icons",
+  "displayName": "Material Theme Icons — Free",
+  "shortDescription": "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme-icons/3.8.12/vspackage",
+  "filename": "Equinusocio.vsc-material-theme-icons-3.8.12.vsix",
+  "categories": [
+    "Themes"
+  ],
+  "tags": [
+    "icon-theme",
+    "theme",
+    "Themes",
+    "VSCode"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons",
+  "latest_version": {
+    "version": "3.8.12",
+    "lastUpdated": "2025-01-03T13:42:46.37Z"
+  },
+  "version_history": [
+    {
+      "version": "3.8.12",
+      "lastUpdated": "2025-01-03T13:42:46.37Z"
+    },
+    {
+      "version": "3.8.10",
+      "lastUpdated": "2024-11-08T21:17:08.75Z"
+    },
+    {
+      "version": "3.8.9",
+      "lastUpdated": "2024-11-08T19:16:31.553Z"
+    },
+    {
+      "version": "3.8.8",
+      "lastUpdated": "2024-08-28T07:56:49.917Z"
+    },
+    {
+      "version": "3.8.7",
+      "lastUpdated": "2024-08-10T12:39:17.657Z"
+    },
+    {
+      "version": "3.8.6",
+      "lastUpdated": "2024-08-10T12:19:31.93Z"
+    }
+  ]
+}

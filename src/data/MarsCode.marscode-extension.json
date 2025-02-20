@@ -1,0 +1,74 @@
+{
+  "extensionId": "f290d85b-b5cc-451c-a3a0-9cdf457cdbad",
+  "extensionName": "marscode-extension",
+  "displayName": "MarsCode AI: Coding Assistant",
+  "shortDescription": "Code and Innovate Faster with AI",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.62/vspackage",
+  "filename": "MarsCode.marscode-extension-1.1.62.vsix",
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Machine Learning",
+    "Education"
+  ],
+  "tags": [
+    "ai",
+    "AI 编程助手",
+    "autocomplete",
+    "C#",
+    "C++",
+    "code-referencing",
+    "co-pilot",
+    "cpp",
+    "documentation",
+    "go",
+    "golang",
+    "html",
+    "intellisense",
+    "java",
+    "javascript",
+    "keybindings",
+    "kotlin",
+    "llm",
+    "marscode",
+    "php",
+    "pilot",
+    "python",
+    "refactor",
+    "ruby",
+    "snippets",
+    "typescript",
+    "豆包"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension",
+  "latest_version": {
+    "version": "1.1.62",
+    "lastUpdated": "2025-02-18T13:50:56.79Z"
+  },
+  "version_history": [
+    {
+      "version": "1.1.62",
+      "lastUpdated": "2025-02-18T13:50:56.79Z"
+    },
+    {
+      "version": "1.1.61",
+      "lastUpdated": "2025-02-17T12:39:09.06Z"
+    },
+    {
+      "version": "1.1.60",
+      "lastUpdated": "2025-02-11T03:18:12.9Z"
+    },
+    {
+      "version": "1.1.59",
+      "lastUpdated": "2025-02-07T07:47:03.6Z"
+    },
+    {
+      "version": "1.1.58",
+      "lastUpdated": "2025-01-21T12:19:25.523Z"
+    },
+    {
+      "version": "1.1.57",
+      "lastUpdated": "2025-01-20T14:43:04.03Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "extensionId": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+  "extensionName": "vscode-icons",
+  "displayName": "vscode-icons",
+  "shortDescription": "Icons for Visual Studio Code",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.11.0/vspackage",
+  "filename": "vscode-icons-team.vscode-icons-12.11.0.vsix",
+  "categories": [
+    "Themes"
+  ],
+  "tags": [
+    "__sponsor_extension",
+    "__web_extension",
+    "icons",
+    "icon-theme",
+    "multi-root ready",
+    "portable mode ready",
+    "theme"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons",
+  "latest_version": {
+    "version": "12.11.0",
+    "lastUpdated": "2025-01-29T20:48:14.633Z"
+  },
+  "version_history": [
+    {
+      "version": "12.11.0",
+      "lastUpdated": "2025-01-29T20:48:14.633Z"
+    },
+    {
+      "version": "12.10.0",
+      "lastUpdated": "2024-12-14T23:15:03.74Z"
+    },
+    {
+      "version": "12.9.0",
+      "lastUpdated": "2024-09-15T20:26:26.02Z"
+    },
+    {
+      "version": "12.8.0",
+      "lastUpdated": "2024-06-01T18:13:07.783Z"
+    },
+    {
+      "version": "12.7.0",
+      "lastUpdated": "2024-01-14T17:14:49.037Z"
+    },
+    {
+      "version": "12.6.0",
+      "lastUpdated": "2023-10-21T14:46:19.75Z"
+    }
+  ]
+}

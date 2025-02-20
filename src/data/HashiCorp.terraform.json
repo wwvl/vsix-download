@@ -1,0 +1,70 @@
+{
+  "extensionId": "4a23294b-fd16-4c51-9759-da9936474cf8",
+  "extensionName": "terraform",
+  "displayName": "HashiCorp Terraform",
+  "shortDescription": "Syntax highlighting and autocompletion for Terraform",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HashiCorp/vsextensions/terraform/2.34.2025012311/vspackage",
+  "filename": "HashiCorp.terraform-2.34.2025012311.vsix",
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "__ext_terraformversion",
+    "__ext_tf",
+    "__ext_tfdeployhcl",
+    "__ext_tfmockhcl",
+    "__ext_tfstackhcl",
+    "__ext_tfstate",
+    "__ext_tftesthcl",
+    "__ext_tfvars",
+    "__web_extension",
+    "devops",
+    "hcl",
+    "json",
+    "terraform",
+    "Terraform Deployment",
+    "Terraform Mock",
+    "Terraform Stack",
+    "Terraform Test",
+    "Terraform Version",
+    "terraform-deploy",
+    "terraform-mock",
+    "terraform-stack",
+    "terraform-test",
+    "terraform-vars",
+    "terraform-version"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform",
+  "latest_version": {
+    "version": "2.34.2025012311",
+    "lastUpdated": "2025-01-23T17:35:06.357Z"
+  },
+  "version_history": [
+    {
+      "version": "2.34.2025012311",
+      "lastUpdated": "2025-01-23T17:35:06.357Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "lastUpdated": "2025-01-23T17:33:12.39Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "lastUpdated": "2025-01-23T17:33:08.987Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "lastUpdated": "2025-01-23T17:33:07.12Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "lastUpdated": "2025-01-23T17:33:06.233Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "lastUpdated": "2025-01-23T17:33:04.93Z"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "extensionId": "39890405-1721-462d-93be-1edc38378f89",
+  "extensionName": "go-nightly",
+  "displayName": "Go Nightly",
+  "shortDescription": "Rich Go language support for Visual Studio Code (Nightly)",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/go-nightly/2024.8.2217/vspackage",
+  "filename": "golang.go-nightly-2024.8.2217.vsix",
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers",
+    "Formatters",
+    "Testing"
+  ],
+  "tags": [
+    "__ext_go",
+    "__ext_gotmpl",
+    "__ext_tmpl",
+    "debuggers",
+    "go",
+    "Go Checksum File",
+    "Go Module File",
+    "Go Template File",
+    "Go Work File",
+    "go.mod",
+    "go.sum",
+    "go.work",
+    "golang",
+    "gopls",
+    "gotmpl",
+    "multi-root ready",
+    "snippet"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=golang.go-nightly",
+  "latest_version": {
+    "version": "2024.8.2217",
+    "lastUpdated": "2024-08-26T14:10:33.54Z"
+  },
+  "version_history": [
+    {
+      "version": "2024.8.2217",
+      "lastUpdated": "2024-08-26T14:10:33.54Z"
+    },
+    {
+      "version": "2024.8.2017",
+      "lastUpdated": "2024-08-21T14:11:18.123Z"
+    },
+    {
+      "version": "2024.8.1921",
+      "lastUpdated": "2024-08-20T14:07:27.81Z"
+    },
+    {
+      "version": "2024.8.804",
+      "lastUpdated": "2024-08-08T14:12:13.84Z"
+    },
+    {
+      "version": "2024.8.603",
+      "lastUpdated": "2024-08-06T14:11:08.83Z"
+    },
+    {
+      "version": "2024.7.2502",
+      "lastUpdated": "2024-07-25T14:11:38.36Z"
+    }
+  ]
+}

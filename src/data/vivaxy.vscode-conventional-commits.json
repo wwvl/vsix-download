@@ -1,0 +1,52 @@
+{
+  "extensionId": "b6b26bce-33f4-4bce-bf92-89812388ed0a",
+  "extensionName": "vscode-conventional-commits",
+  "displayName": "Conventional Commits",
+  "shortDescription": "💬Conventional Commits for VSCode.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vivaxy/vsextensions/vscode-conventional-commits/1.26.0/vspackage",
+  "filename": "vivaxy.vscode-conventional-commits-1.26.0.vsix",
+  "categories": [
+    "Snippets",
+    "SCM Providers"
+  ],
+  "tags": [
+    "commit",
+    "commitizen",
+    "conventional-changelog",
+    "conventional-commits",
+    "cz",
+    "gacp",
+    "git"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits",
+  "latest_version": {
+    "version": "1.26.0",
+    "lastUpdated": "2024-08-27T03:48:54.613Z"
+  },
+  "version_history": [
+    {
+      "version": "1.26.0",
+      "lastUpdated": "2024-08-27T03:48:54.613Z"
+    },
+    {
+      "version": "1.25.0",
+      "lastUpdated": "2022-12-30T11:30:38.3Z"
+    },
+    {
+      "version": "1.24.5",
+      "lastUpdated": "2022-12-30T09:35:50.677Z"
+    },
+    {
+      "version": "1.24.4",
+      "lastUpdated": "2022-12-09T01:42:26.357Z"
+    },
+    {
+      "version": "1.24.3",
+      "lastUpdated": "2022-10-01T01:03:19.71Z"
+    },
+    {
+      "version": "1.24.2",
+      "lastUpdated": "2022-08-23T02:09:35.407Z"
+    }
+  ]
+}

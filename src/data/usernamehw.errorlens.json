@@ -1,0 +1,55 @@
+{
+  "extensionId": "9d8c32ab-354c-4daf-a9bf-20b633734435",
+  "extensionName": "errorlens",
+  "displayName": "Error Lens",
+  "shortDescription": "Improve highlighting of errors, warnings and other language diagnostics.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.23.0/vspackage",
+  "filename": "usernamehw.errorlens-3.23.0.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "__web_extension",
+    "diagnostic",
+    "error",
+    "gutter",
+    "highlight",
+    "inline",
+    "message",
+    "problem",
+    "problems",
+    "status bar",
+    "warning"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+  "latest_version": {
+    "version": "3.23.0",
+    "lastUpdated": "2025-01-30T13:09:10.163Z"
+  },
+  "version_history": [
+    {
+      "version": "3.23.0",
+      "lastUpdated": "2025-01-30T13:09:10.163Z"
+    },
+    {
+      "version": "3.22.1",
+      "lastUpdated": "2025-01-28T18:52:04.87Z"
+    },
+    {
+      "version": "3.22.0",
+      "lastUpdated": "2024-12-20T09:27:13.473Z"
+    },
+    {
+      "version": "3.21.0",
+      "lastUpdated": "2024-12-16T10:38:13.69Z"
+    },
+    {
+      "version": "3.20.0",
+      "lastUpdated": "2024-06-22T08:30:38.4Z"
+    },
+    {
+      "version": "3.19.0",
+      "lastUpdated": "2024-06-21T14:56:10.1Z"
+    }
+  ]
+}

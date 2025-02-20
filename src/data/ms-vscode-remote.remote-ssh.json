@@ -1,0 +1,50 @@
+{
+  "extensionId": "607fd052-be03-4363-b657-2bd62b83d28a",
+  "extensionName": "remote-ssh",
+  "displayName": "Remote - SSH",
+  "shortDescription": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
+  "downloadUrl": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.118.2025021215/vspackage",
+  "filename": "ms-vscode-remote.remote-ssh-0.118.2025021215.vsix",
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "chat-participant",
+    "github-copilot",
+    "remote",
+    "remote development",
+    "remote-menu",
+    "ssh"
+  ],
+  "marketplaceUrl": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
+  "latest_version": {
+    "version": "0.118.2025021215",
+    "lastUpdated": "2025-02-12T15:23:54.61Z"
+  },
+  "version_history": [
+    {
+      "version": "0.118.2025021215",
+      "lastUpdated": "2025-02-12T15:23:54.61Z"
+    },
+    {
+      "version": "0.118.2025021015",
+      "lastUpdated": "2025-02-10T15:22:22.61Z"
+    },
+    {
+      "version": "0.118.2025020720",
+      "lastUpdated": "2025-02-07T20:58:29.713Z"
+    },
+    {
+      "version": "0.118.2025020715",
+      "lastUpdated": "2025-02-07T15:25:04.327Z"
+    },
+    {
+      "version": "0.118.2025020617",
+      "lastUpdated": "2025-02-06T18:10:21.637Z"
+    },
+    {
+      "version": "0.117.2025013120",
+      "lastUpdated": "2025-01-31T20:35:33.95Z"
+    }
+  ]
+}
