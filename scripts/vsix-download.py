@@ -207,9 +207,9 @@ def save_extension_info_to_json(
         "version_history": versions_info,
     }
 
-    # 创建上一层目录的 data 目录
+    # 创建上一层目录的 src/data  目录
     output_dir = os.path.join(
-        os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "src", "data"
     )
     os.makedirs(output_dir, exist_ok=True)
 
