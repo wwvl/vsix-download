@@ -15,6 +15,7 @@
   const UCheckbox = resolveComponent('UCheckbox')
   const UDropdownMenu = resolveComponent('UDropdownMenu')
   const UPagination = resolveComponent('UPagination')
+  const UInput = resolveComponent('UInput')
 
   // 添加行选择状态
   const rowSelection = ref({})
@@ -34,6 +35,9 @@
     pageIndex: 0,
     pageSize: 36,
   })
+
+  // 添加全局搜索状态
+  const globalFilter = ref('')
 
   interface TableColumnDef {
     id: string
@@ -293,40 +297,46 @@
 
       <div class="flex w-full flex-1 flex-col rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden">
         <div class="flex items-center justify-between gap-4 border-b border-(--ui-border-accented) px-4 py-3.5">
-          <UButton
-            :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
-            color="neutral"
-            variant="outline"
-            icon="i-carbon-copy"
-            class="transform transition-all duration-300 hover:scale-[1.02]"
-            @click="copySelectedCommands"
-          >
-            复制选中的扩展 ID
-          </UButton>
+          <div class="flex items-center gap-4">
+            <UButton
+              :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
+              color="neutral"
+              variant="outline"
+              icon="i-carbon-copy"
+              class="transform transition-all duration-300 hover:scale-[1.02]"
+              @click="copySelectedCommands"
+            >
+              复制选中的扩展 ID
+            </UButton>
 
-          <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
+            <UInput v-model="globalFilter" placeholder="搜索扩展..." icon="i-carbon-search" class="w-64" />
+          </div>
 
-          <UDropdownMenu
-            :items="
-              table?.tableApi
-                ?.getAllColumns()
-                .filter((column) => column.getCanHide())
-                .map((column) => ({
-                  label: columnLabels[column.id] || upperFirst(column.id),
-                  type: 'checkbox',
-                  checked: column.getIsVisible(),
-                  onUpdateChecked(checked: boolean) {
-                    table?.tableApi?.getColumn(column.id)?.toggleVisibility(!!checked)
-                  },
-                  onSelect(e?: Event) {
-                    e?.preventDefault()
-                  },
-                }))
-            "
-            :content="{ align: 'end' }"
-          >
-            <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
-          </UDropdownMenu>
+          <div class="flex items-center gap-4">
+            <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
+
+            <UDropdownMenu
+              :items="
+                table?.tableApi
+                  ?.getAllColumns()
+                  .filter((column) => column.getCanHide())
+                  .map((column) => ({
+                    label: columnLabels[column.id] || upperFirst(column.id),
+                    type: 'checkbox',
+                    checked: column.getIsVisible(),
+                    onUpdateChecked(checked: boolean) {
+                      table?.tableApi?.getColumn(column.id)?.toggleVisibility(!!checked)
+                    },
+                    onSelect(e?: Event) {
+                      e?.preventDefault()
+                    },
+                  }))
+              "
+              :content="{ align: 'end' }"
+            >
+              <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
+            </UDropdownMenu>
+          </div>
         </div>
 
         <UTable
@@ -336,6 +346,7 @@
           v-model:row-selection="rowSelection"
           v-model:sorting="sorting"
           v-model:pagination="pagination"
+          v-model:global-filter="globalFilter"
           sticky
           :data="store.extensions"
           :columns="columns"
