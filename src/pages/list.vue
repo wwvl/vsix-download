@@ -3,6 +3,7 @@
   import type { DropdownMenuItem, TableColumn } from '@nuxt/ui'
   import type { Column } from '@tanstack/vue-table'
   import { useExtensionStore } from '@/stores/extension'
+  import { getPaginationRowModel } from '@tanstack/vue-table'
   import { useClipboard } from '@vueuse/core'
   import { upperFirst } from 'scule'
   import { computed, h, onMounted, ref, resolveComponent, watch } from 'vue'
@@ -13,6 +14,7 @@
   const UButton = resolveComponent('UButton')
   const UCheckbox = resolveComponent('UCheckbox')
   const UDropdownMenu = resolveComponent('UDropdownMenu')
+  const UPagination = resolveComponent('UPagination')
 
   // 添加行选择状态
   const rowSelection = ref({})
@@ -26,6 +28,49 @@
       desc: true,
     },
   ])
+
+  // 添加分页状态
+  const pagination = ref({
+    pageIndex: 0,
+    pageSize: 36,
+  })
+
+  interface TableColumnDef {
+    id: string
+    getCanHide: () => boolean
+    getIsVisible: () => boolean
+  }
+
+  interface TableApi {
+    getAllColumns: () => TableColumnDef[]
+    getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
+    getFilteredSelectedRowModel: () => { rows: Extension[] }
+    getFilteredRowModel: () => { rows: Extension[] }
+    getIsSomePageRowsSelected: () => boolean
+    getIsAllPageRowsSelected: () => boolean
+    toggleAllPageRowsSelected: (value: boolean) => void
+    toggleAllRowsSelected: (value: boolean) => void
+    getSelectedRowModel: () => { rows: Extension[] }
+    getState: () => {
+      pagination: {
+        pageIndex: number
+        pageSize: number
+      }
+    }
+    setPageIndex: (index: number) => void
+  }
+
+  interface TableInstance {
+    tableApi: TableApi
+  }
+
+  const table = ref<TableInstance | null>(null)
+
+  // 添加当前页码状态
+  const currentPage = computed({
+    get: () => (table.value?.tableApi?.getState().pagination.pageIndex || 0) + 1,
+    set: (page: number) => table.value?.tableApi?.setPageIndex(page - 1),
+  })
 
   // 获取表头组件
   function getHeader(column: Column<Extension>, label: string) {
@@ -45,30 +90,6 @@
       onClick: () => column.toggleSorting(column.getIsSorted() === 'asc'),
     })
   }
-
-  interface TableColumnDef {
-    id: string
-    getCanHide: () => boolean
-    getIsVisible: () => boolean
-  }
-
-  interface TableApi {
-    getAllColumns: () => TableColumnDef[]
-    getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
-    getFilteredSelectedRowModel: () => { rows: Extension[] }
-    getFilteredRowModel: () => { rows: Extension[] }
-    getIsSomePageRowsSelected: () => boolean
-    getIsAllPageRowsSelected: () => boolean
-    toggleAllPageRowsSelected: (value: boolean) => void
-    toggleAllRowsSelected: (value: boolean) => void
-    getSelectedRowModel: () => { rows: Extension[] }
-  }
-
-  interface TableInstance {
-    tableApi: TableApi
-  }
-
-  const table = ref<TableInstance | null>(null)
 
   // 获取下载链接
   function getDownloadUrl(extensionFullName: string, version: string): string {
@@ -283,6 +304,8 @@
             复制选中的扩展 ID
           </UButton>
 
+          <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
+
           <UDropdownMenu
             :items="
               table?.tableApi
@@ -312,10 +335,14 @@
           v-model:column-visibility="columnVisibility"
           v-model:row-selection="rowSelection"
           v-model:sorting="sorting"
+          v-model:pagination="pagination"
           sticky
           :data="store.extensions"
           :columns="columns"
           :loading="store.loading"
+          :pagination-options="{
+            getPaginationRowModel: getPaginationRowModel(),
+          }"
           :ui="{
             tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
           }"
@@ -416,8 +443,9 @@
           </template>
         </UTable>
 
-        <div class="border-t border-(--ui-border-accented) px-4 py-3.5 text-sm">
-          已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行
+        <div class="flex items-center justify-between gap-4 border-t border-(--ui-border-accented) px-4 py-3.5 text-sm">
+          <div>已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行</div>
+          <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
         </div>
       </div>
     </div>
