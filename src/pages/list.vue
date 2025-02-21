@@ -10,6 +10,36 @@
   const toast = useToast()
   const { copy } = useClipboard()
   const UButton = resolveComponent('UButton')
+  const UCheckbox = resolveComponent('UCheckbox')
+
+  // 添加行选择状态
+  const rowSelection = ref({})
+  const expanded = ref({})
+  const selectedRows = ref<Extension[]>([])
+
+  interface TableColumnDef {
+    id: string
+    getCanHide: () => boolean
+    getIsVisible: () => boolean
+  }
+
+  interface TableApi {
+    getAllColumns: () => TableColumnDef[]
+    getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
+    getFilteredSelectedRowModel: () => { rows: Extension[] }
+    getFilteredRowModel: () => { rows: Extension[] }
+    getIsSomePageRowsSelected: () => boolean
+    getIsAllPageRowsSelected: () => boolean
+    toggleAllPageRowsSelected: (value: boolean) => void
+    toggleAllRowsSelected: (value: boolean) => void
+    getSelectedRowModel: () => { rows: Extension[] }
+  }
+
+  interface TableInstance {
+    tableApi: TableApi
+  }
+
+  const table = ref<TableInstance | null>(null)
 
   // 获取下载链接
   function getDownloadUrl(extensionFullName: string, version: string): string {
@@ -23,28 +53,33 @@
       toast.add({
         title: '扩展 ID 已复制到剪贴板！',
         description: `ID: ${extensionId} `,
-        icon: 'i-lucide-check-circle',
+        icon: 'i-carbon-checkmark-outline',
         color: 'success',
       })
     })
   }
 
-  interface TableColumnDef {
-    id: string
-    getCanHide: () => boolean
-    getIsVisible: () => boolean
-  }
+  // 复制选中行的扩展 ID
+  async function copySelectedExtensionIds() {
+    const selectedRows = table.value?.tableApi?.getSelectedRowModel().rows || []
+    if (selectedRows.length === 0) {
+      toast.add({
+        title: '请先选择要复制的扩展',
+        color: 'warning',
+        icon: 'i-carbon-warning-alt',
+      })
+      return
+    }
 
-  interface TableApi {
-    getAllColumns: () => TableColumnDef[]
-    getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
+    const ids = selectedRows.map((row: any) => row.original.extension_full_name).join('\n')
+    await copy(ids)
+    toast.add({
+      title: '已复制选中的扩展 ID！',
+      description: `共复制 ${selectedRows.length} 个扩展 ID`,
+      icon: 'i-carbon-checkmark-outline',
+      color: 'success',
+    })
   }
-
-  interface TableInstance {
-    tableApi?: TableApi
-  }
-
-  const table = ref<TableInstance | null>(null)
 
   // 添加计算属性来监控数据变化
   const extensionsCount = computed(() => store.extensions?.length || 0)
@@ -60,17 +95,41 @@
     actions: true,
   })
 
-  // 添加展开状态
-  const expanded = ref({})
+  // 监听选择状态变化
+  watch(
+    rowSelection,
+    (newValue) => {
+      if (Object.keys(newValue).length) {
+        // 更新选中状态
+        selectedRows.value = table.value?.tableApi?.getSelectedRowModel().rows || []
+      }
+    },
+    { deep: true },
+  )
 
   const columns: TableColumn<Extension>[] = [
+    {
+      id: 'select',
+      header: ({ table }) =>
+        h(UCheckbox, {
+          modelValue: table.getIsSomePageRowsSelected() ? 'indeterminate' : table.getIsAllPageRowsSelected(),
+          'onUpdate:modelValue': (value: boolean | 'indeterminate') => table.toggleAllPageRowsSelected(!!value),
+          ariaLabel: '选择全部',
+        }),
+      cell: ({ row }) =>
+        h(UCheckbox, {
+          modelValue: row.getIsSelected(),
+          'onUpdate:modelValue': (value: boolean | 'indeterminate') => row.toggleSelected(!!value),
+          ariaLabel: '选择行',
+        }),
+    },
     {
       id: 'expand',
       cell: ({ row }) =>
         h(UButton, {
           color: 'neutral',
           variant: 'ghost',
-          icon: 'i-lucide-chevron-down',
+          icon: 'i-carbon-chevron-down',
           square: true,
           ui: {
             leadingIcon: ['transition-transform', row.getIsExpanded() ? 'duration-200 rotate-180' : ''],
@@ -168,7 +227,7 @@
         class="transform shadow-sm transition-all duration-300 hover:scale-[1.01]"
       />
 
-      <div class="flex justify-end">
+      <div class="flex items-center justify-end gap-4">
         <UDropdownMenu
           :items="
             table?.tableApi
@@ -190,12 +249,24 @@
         >
           <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
         </UDropdownMenu>
+
+        <UButton
+          v-if="table?.tableApi?.getFilteredSelectedRowModel().rows.length"
+          color="primary"
+          variant="solid"
+          icon="i-carbon-copy"
+          class="transform transition-all duration-300 hover:scale-[1.02]"
+          @click="copySelectedExtensionIds"
+        >
+          复制选中的扩展 ID
+        </UButton>
       </div>
 
       <UTable
         ref="table"
         v-model:expanded="expanded"
         v-model:column-visibility="columnVisibility"
+        v-model:row-selection="rowSelection"
         sticky
         :data="store.extensions"
         :columns="columns"
@@ -251,7 +322,7 @@
 
         <template #extension_full_name-cell="{ row }">
           <div
-            class="hover:text-primary-500 flex max-w-[200px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300"
+            class="hover:text-primary-500 flex max-w-[266px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300"
             @click="() => copyExtensionId(row.original.extension_full_name)"
           >
             {{ row.original.extension_full_name }}
@@ -259,7 +330,7 @@
         </template>
 
         <template #display_name-cell="{ row }">
-          <div class="max-w-[200px] leading-relaxed break-words whitespace-normal">
+          <div class="max-w-[266px] leading-relaxed break-words whitespace-normal">
             {{ row.original.display_name }}
           </div>
         </template>
@@ -298,6 +369,16 @@
           </div>
         </template>
       </UTable>
+
+      <div class="border-t border-gray-200 px-4 py-3 text-sm text-gray-600 dark:border-gray-700 dark:text-gray-300">
+        已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行
+      </div>
     </div>
   </div>
 </template>
+
+<style>
+  .container {
+    min-height: 100vh;
+  }
+</style>
