@@ -250,7 +250,10 @@
         </template>
 
         <template #extension_full_name-cell="{ row }">
-          <div class="hover:text-primary-500 flex cursor-pointer items-center gap-2 transition-colors duration-300" @click="() => copyExtensionId(row.original.extension_full_name)">
+          <div
+            class="hover:text-primary-500 flex max-w-[200px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300"
+            @click="() => copyExtensionId(row.original.extension_full_name)"
+          >
             {{ row.original.extension_full_name }}
           </div>
         </template>
