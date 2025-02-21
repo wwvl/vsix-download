@@ -224,7 +224,7 @@
         {
           label: '查看详情',
           icon: 'i-lucide-external-link',
-          to: extension.marketplace_url,
+          href: extension.marketplace_url,
           target: '_blank',
         },
       ],
@@ -359,9 +359,15 @@
         </template>
 
         <template #display_name-cell="{ row }">
-          <div class="max-w-[266px] leading-relaxed break-words whitespace-normal">
+          <UButton
+            :href="row.original.marketplace_url"
+            target="_blank"
+            color="neutral"
+            variant="link"
+            class="hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300"
+          >
             {{ row.original.display_name }}
-          </div>
+          </UButton>
         </template>
 
         <template #categories-cell="{ row }">
