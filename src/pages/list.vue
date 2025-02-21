@@ -243,9 +243,9 @@
 <template>
   <div class="container mx-auto px-4 py-8 transition-all duration-300">
     <div v-if="store.loading" class="space-y-4 text-center">
-      <USkeleton class="mx-auto h-8 w-full max-w-sm rounded-lg" />
-      <USkeleton class="h-32 w-full rounded-lg" />
-      <USkeleton class="h-32 w-full rounded-lg" />
+      <USkeleton class="mx-auto h-8 w-full max-w-sm rounded-[calc(var(--ui-radius)*1.5)]" />
+      <USkeleton class="h-32 w-full rounded-[calc(var(--ui-radius)*1.5)]" />
+      <USkeleton class="h-32 w-full rounded-[calc(var(--ui-radius)*1.5)]" />
     </div>
     <div v-else-if="store.error" class="transform text-center transition-transform duration-300 hover:scale-[1.02]">
       <UAlert :title="store.error.message" color="error" variant="soft" icon="i-carbon-warning-alt" class="shadow-lg" />
@@ -259,154 +259,155 @@
         class="transform shadow-sm transition-all duration-300 hover:scale-[1.01]"
       />
 
-      <div class="flex items-center justify-between gap-4">
-        <UButton
-          :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
-          color="neutral"
-          variant="outline"
-          icon="i-carbon-copy"
-          class="transform transition-all duration-300 hover:scale-[1.02]"
-          @click="copySelectedCommands"
+      <div class="flex w-full flex-1 flex-col rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden">
+        <div class="flex items-center justify-between gap-4 border-b border-(--ui-border-accented) px-4 py-3.5">
+          <UButton
+            :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
+            color="neutral"
+            variant="outline"
+            icon="i-carbon-copy"
+            class="transform transition-all duration-300 hover:scale-[1.02]"
+            @click="copySelectedCommands"
+          >
+            复制选中的扩展 ID
+          </UButton>
+
+          <UDropdownMenu
+            :items="
+              table?.tableApi
+                ?.getAllColumns()
+                .filter((column) => column.getCanHide())
+                .map((column) => ({
+                  label: columnLabels[column.id] || upperFirst(column.id),
+                  type: 'checkbox',
+                  checked: column.getIsVisible(),
+                  onUpdateChecked(checked: boolean) {
+                    table?.tableApi?.getColumn(column.id)?.toggleVisibility(!!checked)
+                  },
+                  onSelect(e?: Event) {
+                    e?.preventDefault()
+                  },
+                }))
+            "
+            :content="{ align: 'end' }"
+          >
+            <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
+          </UDropdownMenu>
+        </div>
+
+        <UTable
+          ref="table"
+          v-model:expanded="expanded"
+          v-model:column-visibility="columnVisibility"
+          v-model:row-selection="rowSelection"
+          v-model:sorting="sorting"
+          sticky
+          :data="store.extensions"
+          :columns="columns"
+          :loading="store.loading"
+          :ui="{
+            tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
+          }"
         >
-          复制选中的扩展 ID
-        </UButton>
+          <template #expanded="{ row }">
+            <div class="bg-gray-50/50 p-6 transition-all duration-300 dark:bg-gray-800/30">
+              <div class="mb-6 transform transition-all duration-300 hover:scale-[1.01]">
+                <h3 class="mb-3 text-lg font-medium text-gray-900 dark:text-gray-100">扩展描述</h3>
+                <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+                  {{ row.original.short_description }}
+                </p>
+              </div>
 
-        <UDropdownMenu
-          :items="
-            table?.tableApi
-              ?.getAllColumns()
-              .filter((column) => column.getCanHide())
-              .map((column) => ({
-                label: columnLabels[column.id] || upperFirst(column.id),
-                type: 'checkbox',
-                checked: column.getIsVisible(),
-                onUpdateChecked(checked: boolean) {
-                  table?.tableApi?.getColumn(column.id)?.toggleVisibility(!!checked)
-                },
-                onSelect(e?: Event) {
-                  e?.preventDefault()
-                },
-              }))
-          "
-          :content="{ align: 'end' }"
-        >
-          <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
-        </UDropdownMenu>
-      </div>
-
-      <UTable
-        ref="table"
-        v-model:expanded="expanded"
-        v-model:column-visibility="columnVisibility"
-        v-model:row-selection="rowSelection"
-        v-model:sorting="sorting"
-        sticky
-        :data="store.extensions"
-        :columns="columns"
-        :loading="store.loading"
-        :ui="{
-          tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
-        }"
-        class="flex-1 rounded-lg border border-gray-200 shadow-lg dark:border-gray-800"
-      >
-        <template #expanded="{ row }">
-          <div class="bg-gray-50/50 p-6 transition-all duration-300 dark:bg-gray-800/30">
-            <div class="mb-6 transform transition-all duration-300 hover:scale-[1.01]">
-              <h3 class="mb-3 text-lg font-medium text-gray-900 dark:text-gray-100">扩展描述</h3>
-              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
-                {{ row.original.short_description }}
-              </p>
-            </div>
-
-            <div class="transform transition-all duration-300 hover:scale-[1.01]">
-              <h3 class="mb-3 text-lg font-medium text-gray-900 dark:text-gray-100">版本历史</h3>
-              <div class="space-y-3">
-                <div
-                  v-for="(version, index) in row.original.version_history"
-                  :key="index"
-                  class="flex items-center gap-3 rounded-lg p-2 transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-700/50"
-                >
-                  <UBadge color="primary" variant="subtle" class="min-w-[60px] justify-center">
-                    {{ version.version }}
-                  </UBadge>
-                  <span class="flex-1 text-sm text-gray-600 dark:text-gray-300">
-                    {{ new Date(version.lastUpdated).toLocaleString() }}
-                  </span>
-                  <UTooltip :text="`下载 v${version.version}`">
-                    <UButton
-                      size="xs"
-                      color="primary"
-                      variant="ghost"
-                      icon="i-carbon-download"
-                      :href="getDownloadUrl(row.original.extension_full_name, version.version)"
-                      target="_blank"
-                      class="transform transition-all duration-300 hover:scale-110"
-                    />
-                  </UTooltip>
+              <div class="transform transition-all duration-300 hover:scale-[1.01]">
+                <h3 class="mb-3 text-lg font-medium text-gray-900 dark:text-gray-100">版本历史</h3>
+                <div class="space-y-3">
+                  <div
+                    v-for="(version, index) in row.original.version_history"
+                    :key="index"
+                    class="flex items-center gap-3 rounded-[calc(var(--ui-radius)*1.5)] p-2 transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-700/50"
+                  >
+                    <UBadge color="primary" variant="subtle" class="min-w-[60px] justify-center">
+                      {{ version.version }}
+                    </UBadge>
+                    <span class="flex-1 text-sm text-gray-600 dark:text-gray-300">
+                      {{ new Date(version.lastUpdated).toLocaleString() }}
+                    </span>
+                    <UTooltip :text="`下载 v${version.version}`">
+                      <UButton
+                        size="xs"
+                        color="primary"
+                        variant="ghost"
+                        icon="i-carbon-download"
+                        :href="getDownloadUrl(row.original.extension_full_name, version.version)"
+                        target="_blank"
+                        class="transform transition-all duration-300 hover:scale-110"
+                      />
+                    </UTooltip>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </template>
+          </template>
 
-        <template #extension_full_name-cell="{ row }">
-          <div
-            class="hover:text-primary-500 flex max-w-[266px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300"
-            @click="() => copyInstallCommand(row.original.extension_full_name)"
-          >
-            {{ row.original.extension_full_name }}
-          </div>
-        </template>
+          <template #extension_full_name-cell="{ row }">
+            <div
+              class="hover:text-primary-500 flex max-w-[266px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300"
+              @click="() => copyInstallCommand(row.original.extension_full_name)"
+            >
+              {{ row.original.extension_full_name }}
+            </div>
+          </template>
 
-        <template #display_name-cell="{ row }">
-          <UButton
-            :href="row.original.marketplace_url"
-            target="_blank"
-            color="neutral"
-            variant="link"
-            class="hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300"
-          >
-            {{ row.original.display_name }}
-          </UButton>
-        </template>
+          <template #display_name-cell="{ row }">
+            <UButton
+              :href="row.original.marketplace_url"
+              target="_blank"
+              color="neutral"
+              variant="link"
+              class="hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300"
+            >
+              {{ row.original.display_name }}
+            </UButton>
+          </template>
 
-        <template #categories-cell="{ row }">
-          <div class="flex flex-wrap gap-1.5">
-            <UBadge
-              v-for="category in row.original.categories"
-              :key="category"
-              :label="category"
-              color="primary"
-              variant="subtle"
-              size="sm"
-              class="transform transition-all duration-300 hover:scale-105"
-            />
-          </div>
-        </template>
+          <template #categories-cell="{ row }">
+            <div class="flex flex-wrap gap-1.5">
+              <UBadge
+                v-for="category in row.original.categories"
+                :key="category"
+                :label="category"
+                color="primary"
+                variant="subtle"
+                size="sm"
+                class="transform transition-all duration-300 hover:scale-105"
+              />
+            </div>
+          </template>
 
-        <template #tags-cell="{ row }">
-          <div class="flex flex-wrap gap-1.5">
-            <UBadge v-for="tag in row.original.tags" :key="tag" :label="tag" color="neutral" variant="subtle" size="xs" class="transform transition-all duration-300 hover:scale-105" />
-          </div>
-        </template>
+          <template #tags-cell="{ row }">
+            <div class="flex flex-wrap gap-1.5">
+              <UBadge v-for="tag in row.original.tags" :key="tag" :label="tag" color="neutral" variant="subtle" size="xs" class="transform transition-all duration-300 hover:scale-105" />
+            </div>
+          </template>
 
-        <template #last_updated-cell="{ row }">
-          <span class="text-gray-600 dark:text-gray-300">
-            {{ new Date(row.original.last_updated).toLocaleString() }}
-          </span>
-        </template>
+          <template #last_updated-cell="{ row }">
+            <span class="text-gray-600 dark:text-gray-300">
+              {{ new Date(row.original.last_updated).toLocaleString() }}
+            </span>
+          </template>
 
-        <template #actions-cell="{ row }">
-          <div class="flex justify-end">
-            <UDropdownMenu :items="getDropdownActions(row.original)">
-              <UButton icon="i-carbon-overflow-menu-vertical" color="neutral" variant="ghost" class="transform transition-all duration-300 hover:scale-110" />
-            </UDropdownMenu>
-          </div>
-        </template>
-      </UTable>
+          <template #actions-cell="{ row }">
+            <div class="flex justify-end">
+              <UDropdownMenu :items="getDropdownActions(row.original)">
+                <UButton icon="i-carbon-overflow-menu-vertical" color="neutral" variant="ghost" class="transform transition-all duration-300 hover:scale-110" />
+              </UDropdownMenu>
+            </div>
+          </template>
+        </UTable>
 
-      <div class="border-t border-gray-200 px-4 py-3 text-sm text-gray-600 dark:border-gray-700 dark:text-gray-300">
-        已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行
+        <div class="border-t border-(--ui-border-accented) px-4 py-3.5 text-sm">
+          已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行
+        </div>
       </div>
     </div>
   </div>
