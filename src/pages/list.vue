@@ -168,12 +168,12 @@
     },
     {
       accessorKey: 'extension_full_name',
-      header: ({ column }) => getHeader(column, 'ID'),
+      header: ({ column }) => getHeader(column, '扩展 ID'),
       enableSorting: true,
     },
     {
       accessorKey: 'display_name',
-      header: ({ column }) => getHeader(column, '名称'),
+      header: ({ column }) => getHeader(column, '扩展名称'),
       enableSorting: true,
     },
     {
@@ -201,7 +201,18 @@
   ]
 
   // 从列定义中生成列名映射
-  const columnLabels = computed(() => Object.fromEntries(columns.map((col) => [(col as any).accessorKey, (col as any).header || upperFirst((col as any).accessorKey as string)])))
+  const columnLabels = computed(() => {
+    const labels: Record<string, string> = {
+      extension_full_name: '扩展 ID',
+      display_name: '扩展名称',
+      latest_version: '最新版本',
+      last_updated: '更新时间',
+      categories: '分类',
+      tags: '标签',
+      actions: '操作',
+    }
+    return Object.fromEntries(columns.filter((col) => (col as any).accessorKey).map((col) => [(col as any).accessorKey, labels[(col as any).accessorKey] || upperFirst((col as any).accessorKey)]))
+  })
 
   function getDropdownActions(extension: Extension): DropdownMenuItem[][] {
     return [
