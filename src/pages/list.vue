@@ -2,22 +2,89 @@
   import type { Extension } from '@/types/extension'
   import type { DropdownMenuItem, TableColumn } from '@nuxt/ui'
   import { useExtensionStore } from '@/stores/extension'
-  import { computed, h, onMounted } from 'vue'
+  import { useClipboard } from '@vueuse/core'
+  import { upperFirst } from 'scule'
+  import { computed, h, onMounted, ref, resolveComponent, watch } from 'vue'
 
   const store = useExtensionStore()
   const toast = useToast()
+  const { copy } = useClipboard()
+  const UButton = resolveComponent('UButton')
+
+  // 获取下载链接
+  function getDownloadUrl(extensionFullName: string, version: string): string {
+    const [publisher, name] = extensionFullName.split('.')
+    return `https://marketplace.visualstudio.com/_apis/public/gallery/publishers/${publisher}/vsextensions/${name}/${version}/vspackage`
+  }
+
+  // 复制扩展 ID 到剪贴板
+  function copyExtensionId(extensionId: string): Promise<void> {
+    return copy(extensionId).then(() => {
+      toast.add({
+        title: '扩展 ID 已复制到剪贴板！',
+        description: `ID: ${extensionId} `,
+        icon: 'i-lucide-check-circle',
+        color: 'success',
+      })
+    })
+  }
+
+  interface TableColumnDef {
+    id: string
+    getCanHide: () => boolean
+    getIsVisible: () => boolean
+  }
+
+  interface TableApi {
+    getAllColumns: () => TableColumnDef[]
+    getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
+  }
+
+  interface TableInstance {
+    tableApi?: TableApi
+  }
+
+  const table = ref<TableInstance | null>(null)
 
   // 添加计算属性来监控数据变化
   const extensionsCount = computed(() => store.extensions?.length || 0)
 
+  // 添加列可见性状态
+  const columnVisibility = ref({
+    extension_full_name: true,
+    display_name: true,
+    latest_version: true,
+    last_updated: true,
+    categories: true,
+    tags: true,
+    actions: true,
+  })
+
+  // 添加展开状态
+  const expanded = ref({})
+
   const columns: TableColumn<Extension>[] = [
     {
+      id: 'expand',
+      cell: ({ row }) =>
+        h(UButton, {
+          color: 'neutral',
+          variant: 'ghost',
+          icon: 'i-lucide-chevron-down',
+          square: true,
+          ui: {
+            leadingIcon: ['transition-transform', row.getIsExpanded() ? 'duration-200 rotate-180' : ''],
+          },
+          onClick: () => row.toggleExpanded(),
+        }),
+    },
+    {
       accessorKey: 'extension_full_name',
-      header: '扩展名称',
+      header: 'ID',
     },
     {
       accessorKey: 'display_name',
-      header: '显示名称',
+      header: '名称',
     },
     {
       accessorKey: 'latest_version',
@@ -38,9 +105,12 @@
     },
     {
       accessorKey: 'actions',
-      header: '',
+      header: '操作',
     },
   ]
+
+  // 从列定义中生成列名映射
+  const columnLabels = computed(() => Object.fromEntries(columns.map((col) => [(col as any).accessorKey, (col as any).header || upperFirst((col as any).accessorKey as string)])))
 
   function getDropdownActions(extension: Extension): DropdownMenuItem[][] {
     return [
@@ -49,29 +119,22 @@
           label: '复制扩展 ID',
           icon: 'i-lucide-copy',
           onSelect: () => {
-            navigator.clipboard.writeText(extension.extension_id)
-            toast.add({
-              title: '扩展 ID 已复制到剪贴板！',
-              color: 'success',
-              icon: 'i-lucide-circle-check',
-            })
+            copyExtensionId(extension.extension_full_name)
           },
         },
       ],
       [
         {
           label: '下载',
-          icon: 'i-lucide-download',
-          onSelect: () => {
-            window.open(extension.download_url, '_blank')
-          },
+          icon: 'i-carbon-download',
+          href: getDownloadUrl(extension.extension_full_name, extension.latest_version),
+          target: '_blank',
         },
         {
           label: '查看详情',
           icon: 'i-lucide-external-link',
-          onSelect: () => {
-            window.open(extension.marketplace_url, '_blank')
-          },
+          to: extension.marketplace_url,
+          target: '_blank',
         },
       ],
     ]
@@ -87,47 +150,147 @@
 </script>
 
 <template>
-  <div class="container mx-auto px-4 py-8">
-    <div v-if="store.loading" class="text-center">
-      <USkeleton class="mx-auto h-8 w-full max-w-sm" />
-      <USkeleton class="mt-4 h-32 w-full" />
-      <USkeleton class="mt-4 h-32 w-full" />
+  <div class="container mx-auto px-4 py-8 transition-all duration-300">
+    <div v-if="store.loading" class="space-y-4 text-center">
+      <USkeleton class="mx-auto h-8 w-full max-w-sm rounded-lg" />
+      <USkeleton class="h-32 w-full rounded-lg" />
+      <USkeleton class="h-32 w-full rounded-lg" />
     </div>
-    <div v-else-if="store.error" class="text-center">
-      <UAlert :title="store.error.message" color="error" variant="soft" icon="i-carbon-warning-alt" />
+    <div v-else-if="store.error" class="transform text-center transition-transform duration-300 hover:scale-[1.02]">
+      <UAlert :title="store.error.message" color="error" variant="soft" icon="i-carbon-warning-alt" class="shadow-lg" />
     </div>
-    <div v-else>
-      <UAlert :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`" color="primary" variant="subtle" icon="i-carbon-application-web" class="mb-4" />
+    <div v-else class="space-y-6">
+      <UAlert
+        :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`"
+        color="primary"
+        variant="subtle"
+        icon="i-carbon-data-vis-1"
+        class="transform shadow-sm transition-all duration-300 hover:scale-[1.01]"
+      />
 
-      <UTable :data="store.extensions" :columns="columns" :loading="store.loading" :sort="{ column: 'last_updated', direction: 'desc' }" class="w-full">
-        <template #extension_name-cell="{ row }">
-          <div class="flex items-center gap-3">
-            <div class="font-medium text-gray-900">
-              {{ row.original.extension_name }}
+      <div class="flex justify-end">
+        <UDropdownMenu
+          :items="
+            table?.tableApi
+              ?.getAllColumns()
+              .filter((column) => column.getCanHide())
+              .map((column) => ({
+                label: columnLabels[column.id] || upperFirst(column.id),
+                type: 'checkbox',
+                checked: column.getIsVisible(),
+                onUpdateChecked(checked: boolean) {
+                  table?.tableApi?.getColumn(column.id)?.toggleVisibility(!!checked)
+                },
+                onSelect(e?: Event) {
+                  e?.preventDefault()
+                },
+              }))
+          "
+          :content="{ align: 'end' }"
+        >
+          <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
+        </UDropdownMenu>
+      </div>
+
+      <UTable
+        ref="table"
+        v-model:expanded="expanded"
+        v-model:column-visibility="columnVisibility"
+        sticky
+        :data="store.extensions"
+        :columns="columns"
+        :loading="store.loading"
+        :sort="{ column: 'last_updated', direction: 'desc' }"
+        :ui="{
+          tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
+          td: 'py-3 px-4',
+          th: 'py-3 px-4 font-semibold',
+          thead: 'bg-gray-50/50 dark:bg-gray-800/50',
+        }"
+        class="flex-1 rounded-lg border border-gray-200 shadow-lg dark:border-gray-800"
+      >
+        <template #expanded="{ row }">
+          <div class="bg-gray-50/50 p-6 transition-all duration-300 dark:bg-gray-800/30">
+            <div class="mb-6 transform transition-all duration-300 hover:scale-[1.01]">
+              <h3 class="mb-3 text-lg font-medium text-gray-900 dark:text-gray-100">扩展描述</h3>
+              <p class="leading-relaxed text-gray-600 dark:text-gray-300">
+                {{ row.original.short_description }}
+              </p>
+            </div>
+
+            <div class="transform transition-all duration-300 hover:scale-[1.01]">
+              <h3 class="mb-3 text-lg font-medium text-gray-900 dark:text-gray-100">版本历史</h3>
+              <div class="space-y-3">
+                <div
+                  v-for="(version, index) in row.original.version_history"
+                  :key="index"
+                  class="flex items-center gap-3 rounded-lg p-2 transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-700/50"
+                >
+                  <UBadge color="primary" variant="subtle" class="min-w-[60px] justify-center">
+                    {{ version.version }}
+                  </UBadge>
+                  <span class="flex-1 text-sm text-gray-600 dark:text-gray-300">
+                    {{ new Date(version.lastUpdated).toLocaleString() }}
+                  </span>
+                  <UTooltip :text="`下载 v${version.version}`">
+                    <UButton
+                      size="xs"
+                      color="primary"
+                      variant="ghost"
+                      icon="i-carbon-download"
+                      :href="getDownloadUrl(row.original.extension_full_name, version.version)"
+                      target="_blank"
+                      class="transform transition-all duration-300 hover:scale-110"
+                    />
+                  </UTooltip>
+                </div>
+              </div>
             </div>
           </div>
         </template>
 
+        <template #extension_full_name-cell="{ row }">
+          <div class="hover:text-primary-500 flex cursor-pointer items-center gap-2 transition-colors duration-300" @click="() => copyExtensionId(row.original.extension_full_name)">
+            {{ row.original.extension_full_name }}
+          </div>
+        </template>
+
+        <template #display_name-cell="{ row }">
+          <div class="max-w-[200px] leading-relaxed break-words whitespace-normal">
+            {{ row.original.display_name }}
+          </div>
+        </template>
+
         <template #categories-cell="{ row }">
-          <div class="flex flex-wrap gap-1">
-            <UBadge v-for="category in row.original.categories" :key="category" :label="category" color="primary" variant="subtle" size="sm" />
+          <div class="flex flex-wrap gap-1.5">
+            <UBadge
+              v-for="category in row.original.categories"
+              :key="category"
+              :label="category"
+              color="primary"
+              variant="subtle"
+              size="sm"
+              class="transform transition-all duration-300 hover:scale-105"
+            />
           </div>
         </template>
 
         <template #tags-cell="{ row }">
-          <div class="flex flex-wrap gap-1">
-            <UBadge v-for="tag in row.original.tags" :key="tag" :label="tag" color="neutral" variant="subtle" size="xs" />
+          <div class="flex flex-wrap gap-1.5">
+            <UBadge v-for="tag in row.original.tags" :key="tag" :label="tag" color="neutral" variant="subtle" size="xs" class="transform transition-all duration-300 hover:scale-105" />
           </div>
         </template>
 
         <template #last_updated-cell="{ row }">
-          {{ new Date(row.original.last_updated).toLocaleString() }}
+          <span class="text-gray-600 dark:text-gray-300">
+            {{ new Date(row.original.last_updated).toLocaleString() }}
+          </span>
         </template>
 
         <template #actions-cell="{ row }">
           <div class="flex justify-end">
             <UDropdownMenu :items="getDropdownActions(row.original)">
-              <UButton icon="i-lucide-ellipsis-vertical" color="neutral" variant="ghost" />
+              <UButton icon="i-carbon-overflow-menu-vertical" color="neutral" variant="ghost" class="transform transition-all duration-300 hover:scale-110" />
             </UDropdownMenu>
           </div>
         </template>
