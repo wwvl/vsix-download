@@ -269,35 +269,42 @@
 
   // 添加 UI 配置
   const ui = {
-    container: 'container mx-auto px-4 py-8 transition-all duration-300 min-h-screen',
+    container: 'container mx-auto px-4 py-8 md:py-6 sm:py-4 transition-all duration-300 min-h-screen',
     loadingWrapper: 'space-y-4 text-center',
     errorAlert: 'transform text-center transition-transform duration-300 hover:scale-[1.02]',
-    statsAlert: 'transform shadow-sm transition-all duration-300 hover:scale-[1.01]',
-    tableWrapper: 'flex w-full flex-1 flex-col rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden',
-    tableHeader: 'grid grid-cols-3 items-center gap-4 border-b border-(--ui-border-accented) px-4 py-3.5',
-    copyButton: 'transform transition-all duration-300 hover:scale-[1.02]',
-    searchInput: 'w-64',
-    columnButton: 'transform shadow-sm transition-all duration-300 hover:scale-[1.02]',
-    expandedContent: 'bg-gray-50/50 p-6 transition-all duration-300 dark:bg-gray-800/30',
-    descriptionWrapper: 'mb-6 transform transition-all duration-300 hover:scale-[1.01]',
-    descriptionTitle: 'mb-3 text-lg font-medium text-gray-900 dark:text-gray-100',
-    descriptionText: 'leading-relaxed text-gray-600 dark:text-gray-300',
+    statsAlert: 'transform shadow-sm transition-all duration-300 hover:scale-[1.01] mx-2 sm:mx-0',
+    tableWrapper: 'flex w-full flex-1 flex-col rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden overflow-x-auto',
+    tableHeader: 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center gap-4 border-b border-(--ui-border-accented) px-4 py-3.5',
+    headerLeft: 'flex items-center justify-center md:justify-start gap-2 md:gap-4 w-full',
+    headerCenter: 'flex items-center justify-center mt-4 md:mt-0',
+    headerRight: 'flex items-center justify-center md:justify-end mt-4 md:mt-0',
+    copyButton: 'transform transition-all duration-300 hover:scale-[1.02] text-sm md:text-base whitespace-nowrap',
+    searchInput: 'flex-1 min-w-0',
+    columnButton: 'transform shadow-sm transition-all duration-300 hover:scale-[1.02] text-sm md:text-base w-full md:w-auto',
+    expandedContent: 'bg-gray-50/50 p-4 md:p-6 transition-all duration-300 dark:bg-gray-800/30',
+    descriptionWrapper: 'mb-4 md:mb-6 transform transition-all duration-300 hover:scale-[1.01]',
+    descriptionTitle: 'mb-2 md:mb-3 text-base md:text-lg font-medium text-gray-900 dark:text-gray-100',
+    descriptionText: 'text-sm md:text-base leading-relaxed text-gray-600 dark:text-gray-300',
     versionHistoryWrapper: 'transform transition-all duration-300 hover:scale-[1.01]',
-    versionHistoryTitle: 'mb-3 text-lg font-medium text-gray-900 dark:text-gray-100',
-    versionList: 'space-y-3',
-    versionItem: 'flex items-center gap-3 rounded-[calc(var(--ui-radius)*1.5)] p-2 transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-700/50',
-    versionBadge: 'min-w-[60px] justify-center',
-    versionDate: 'flex-1 text-sm text-gray-600 dark:text-gray-300',
+    versionHistoryTitle: 'mb-2 md:mb-3 text-base md:text-lg font-medium text-gray-900 dark:text-gray-100',
+    versionList: 'space-y-2 md:space-y-3',
+    versionItem: 'flex items-center gap-2 md:gap-3 rounded-[calc(var(--ui-radius)*1.5)] p-2 transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-700/50 text-sm md:text-base',
+    versionBadge: 'min-w-[50px] md:min-w-[60px] justify-center text-xs md:text-sm',
+    versionDate: 'flex-1 text-xs md:text-sm text-gray-600 dark:text-gray-300',
     downloadButton: 'transform transition-all duration-300 hover:scale-110',
-    extensionId: 'hover:text-primary-500 flex max-w-[266px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300',
-    extensionName: 'hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300',
-    badgeWrapper: 'flex flex-wrap gap-1.5',
-    badge: 'transform transition-all duration-300 hover:scale-105',
-    dateText: 'text-gray-600 dark:text-gray-300',
+    extensionId:
+      'hover:text-primary-500 flex max-w-full md:max-w-[266px] cursor-pointer items-center gap-1 md:gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300 text-sm md:text-base',
+    extensionName: 'hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300 text-sm md:text-base',
+    badgeWrapper: 'flex flex-wrap gap-1 md:gap-1.5',
+    badge: 'transform transition-all duration-300 hover:scale-105 text-xs md:text-sm',
+    dateText: 'text-xs md:text-sm text-gray-600 dark:text-gray-300',
     actionButton: 'transform transition-all duration-300 hover:scale-110',
-    tableFooter: 'flex items-center justify-between gap-4 border-t border-(--ui-border-accented) px-4 py-3.5 text-sm',
+    tableFooter: 'flex flex-col md:flex-row items-center justify-between gap-2 md:gap-4 border-t border-(--ui-border-accented) px-4 py-3.5 text-xs md:text-sm',
     table: {
+      base: 'min-w-full overflow-x-auto',
       tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
+      td: 'whitespace-normal break-words text-sm md:text-base p-2 md:p-4',
+      th: 'whitespace-normal break-words text-sm md:text-base p-2 md:p-4',
     },
   }
 
@@ -313,19 +320,19 @@
 <template>
   <div :class="ui.container">
     <div v-if="store.loading" :class="ui.loadingWrapper">
-      <USkeleton class="mx-auto h-8 w-full max-w-sm rounded-[calc(var(--ui-radius)*1.5)]" />
-      <USkeleton class="h-32 w-full rounded-[calc(var(--ui-radius)*1.5)]" />
-      <USkeleton class="h-32 w-full rounded-[calc(var(--ui-radius)*1.5)]" />
+      <USkeleton class="mx-auto h-6 w-full max-w-sm rounded-[calc(var(--ui-radius)*1.5)] md:h-8" />
+      <USkeleton class="h-24 w-full rounded-[calc(var(--ui-radius)*1.5)] md:h-32" />
+      <USkeleton class="h-24 w-full rounded-[calc(var(--ui-radius)*1.5)] md:h-32" />
     </div>
     <div v-else-if="store.error" :class="ui.errorAlert">
       <UAlert :title="store.error.message" color="error" variant="soft" icon="i-carbon-warning-alt" class="shadow-lg" />
     </div>
-    <div v-else class="space-y-6">
+    <div v-else class="space-y-4 md:space-y-6">
       <UAlert :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`" color="primary" variant="subtle" icon="i-carbon-data-vis-1" :class="ui.statsAlert" />
 
       <div :class="ui.tableWrapper">
         <div :class="ui.tableHeader">
-          <div class="flex items-center gap-4">
+          <div :class="ui.headerLeft">
             <UButton
               :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
               color="neutral"
@@ -340,11 +347,11 @@
             <UInput v-model="globalFilter" placeholder="搜索扩展..." icon="i-carbon-search" :class="ui.searchInput" />
           </div>
 
-          <div class="flex items-center justify-center">
+          <div :class="ui.headerCenter">
             <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
           </div>
 
-          <div class="flex items-center justify-end">
+          <div :class="ui.headerRight">
             <UDropdownMenu
               :items="
                 table?.tableApi
@@ -385,6 +392,7 @@
             getPaginationRowModel: getPaginationRowModel(),
           }"
           :ui="ui.table"
+          class="w-full"
         >
           <template #expanded="{ row }">
             <div :class="ui.expandedContent">
