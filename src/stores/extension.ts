@@ -37,7 +37,7 @@ export const useExtensionStore = defineStore(
       loading.value = true
       error.value = null
       try {
-        const { data, error: err } = await supabase.from('extensions').select('*').order('last_updated', { ascending: false })
+        const { data, error: err } = await supabase.from('extensions').select('*').order('extension_full_name', { ascending: true })
 
         if (err) {
           console.error('Supabase error:', err)
