@@ -1,6 +1,7 @@
 <script setup lang="ts">
   import type { Extension } from '@/types/extension'
   import type { DropdownMenuItem, TableColumn } from '@nuxt/ui'
+  import type { Column } from '@tanstack/vue-table'
   import { useExtensionStore } from '@/stores/extension'
   import { useClipboard } from '@vueuse/core'
   import { upperFirst } from 'scule'
@@ -11,11 +12,39 @@
   const { copy } = useClipboard()
   const UButton = resolveComponent('UButton')
   const UCheckbox = resolveComponent('UCheckbox')
+  const UDropdownMenu = resolveComponent('UDropdownMenu')
 
   // 添加行选择状态
   const rowSelection = ref({})
   const expanded = ref({})
   const selectedRows = ref<Extension[]>([])
+
+  // 添加排序状态
+  const sorting = ref([
+    {
+      id: 'last_updated',
+      desc: true,
+    },
+  ])
+
+  // 获取表头组件
+  function getHeader(column: Column<Extension>, label: string) {
+    const isSorted = column.getIsSorted()
+
+    return h(UButton, {
+      color: 'neutral',
+      variant: 'ghost',
+      label,
+      icon:
+        isSorted ?
+          isSorted === 'asc' ?
+            'i-carbon-arrow-up'
+          : 'i-carbon-arrow-down'
+        : 'i-carbon-arrows-vertical',
+      class: '-mx-2.5',
+      onClick: () => column.toggleSorting(column.getIsSorted() === 'asc'),
+    })
+  }
 
   interface TableColumnDef {
     id: string
@@ -139,19 +168,22 @@
     },
     {
       accessorKey: 'extension_full_name',
-      header: 'ID',
+      header: ({ column }) => getHeader(column, 'ID'),
+      enableSorting: true,
     },
     {
       accessorKey: 'display_name',
-      header: '名称',
+      header: ({ column }) => getHeader(column, '名称'),
+      enableSorting: true,
     },
     {
       accessorKey: 'latest_version',
-      header: '最新版本',
+      header: ({ column }) => getHeader(column, '最新版本'),
+      enableSorting: true,
     },
     {
       accessorKey: 'last_updated',
-      header: '更新时间',
+      header: ({ column }) => getHeader(column, '更新时间'),
       enableSorting: true,
     },
     {
@@ -267,11 +299,11 @@
         v-model:expanded="expanded"
         v-model:column-visibility="columnVisibility"
         v-model:row-selection="rowSelection"
+        v-model:sorting="sorting"
         sticky
         :data="store.extensions"
         :columns="columns"
         :loading="store.loading"
-        :sort="{ column: 'last_updated', direction: 'desc' }"
         :ui="{
           tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
           td: 'py-3 px-4',
