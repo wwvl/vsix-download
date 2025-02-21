@@ -76,12 +76,12 @@
     return `https://marketplace.visualstudio.com/_apis/public/gallery/publishers/${publisher}/vsextensions/${name}/${version}/vspackage`
   }
 
-  // 复制扩展 ID 到剪贴板
-  function copyExtensionId(extensionId: string): Promise<void> {
-    return copy(extensionId).then(() => {
+  // 复制安装命令到剪贴板
+  function copyInstallCommand(extensionId: string): Promise<void> {
+    return copy(`ext install ${extensionId}`).then(() => {
       toast.add({
-        title: '扩展 ID 已复制到剪贴板！',
-        description: `ID: ${extensionId} `,
+        title: '安装命令已复制！',
+        description: `命令：ext install ${extensionId}`,
         icon: 'i-carbon-checkmark-outline',
         color: 'success',
       })
@@ -89,7 +89,7 @@
   }
 
   // 复制选中行的扩展 ID
-  async function copySelectedExtensionIds() {
+  async function copySelectedCommands() {
     const selectedRows = table.value?.tableApi?.getSelectedRowModel().rows || []
     if (selectedRows.length === 0) {
       toast.add({
@@ -207,10 +207,10 @@
     return [
       [
         {
-          label: '复制扩展 ID',
+          label: '复制安装命令',
           icon: 'i-lucide-copy',
           onSelect: () => {
-            copyExtensionId(extension.extension_full_name)
+            copyInstallCommand(extension.extension_full_name)
           },
         },
       ],
@@ -266,7 +266,7 @@
           variant="outline"
           icon="i-carbon-copy"
           class="transform transition-all duration-300 hover:scale-[1.02]"
-          @click="copySelectedExtensionIds"
+          @click="copySelectedCommands"
         >
           复制选中的扩展 ID
         </UButton>
@@ -352,7 +352,7 @@
         <template #extension_full_name-cell="{ row }">
           <div
             class="hover:text-primary-500 flex max-w-[266px] cursor-pointer items-center gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300"
-            @click="() => copyExtensionId(row.original.extension_full_name)"
+            @click="() => copyInstallCommand(row.original.extension_full_name)"
           >
             {{ row.original.extension_full_name }}
           </div>
