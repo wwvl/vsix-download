@@ -3,5 +3,6 @@
     <AppHeader />
     <RouterView />
     <AppFooter />
+    <ScrollToButton />
   </UApp>
 </template>
