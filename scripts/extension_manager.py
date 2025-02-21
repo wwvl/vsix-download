@@ -25,10 +25,12 @@ class ExtensionManager:
         load_dotenv(env_path)
 
         # 初始化 Supabase 客户端
-        supabase_url = os.getenv("SUPABASE_URL")
-        supabase_key = os.getenv("SUPABASE_KEY")
+        supabase_url = os.getenv("VITE_SUPABASE_URL")
+        supabase_key = os.getenv("VITE_SUPABASE_KEY")
         if not supabase_url or not supabase_key:
-            raise ValueError("请在 .env 文件中设置 SUPABASE_URL 和 SUPABASE_KEY")
+            raise ValueError(
+                "请在 .env 文件中设置 VITE_SUPABASE_URL 和 VITE_SUPABASE_KEY"
+            )
         self.supabase: Client = create_client(supabase_url, supabase_key)
 
     def init_database(self) -> None:
