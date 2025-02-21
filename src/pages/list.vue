@@ -306,9 +306,6 @@
         :loading="store.loading"
         :ui="{
           tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
-          td: 'py-3 px-4',
-          th: 'py-3 px-4 font-semibold',
-          thead: 'bg-gray-50/50 dark:bg-gray-800/50',
         }"
         class="flex-1 rounded-lg border border-gray-200 shadow-lg dark:border-gray-800"
       >
