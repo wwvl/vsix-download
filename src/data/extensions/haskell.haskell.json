@@ -1,0 +1,58 @@
+{
+  "extension_id": "aead9e6c-3483-4ce4-a09f-843e25ce696f",
+  "extension_name": "haskell",
+  "extension_full_name": "haskell.haskell",
+  "display_name": "Haskell",
+  "short_description": "Haskell language support powered by the Haskell Language Server",
+  "latest_version": "2.5.3",
+  "last_updated": "2024-05-10T14:40:40.29Z",
+  "version_history": [
+    {
+      "version": "2.5.3",
+      "flags": "validated",
+      "lastUpdated": "2024-05-10T14:40:40.29Z"
+    },
+    {
+      "version": "2.5.2",
+      "flags": "validated",
+      "lastUpdated": "2024-01-16T18:42:32.013Z"
+    },
+    {
+      "version": "2.5.1",
+      "flags": "validated",
+      "lastUpdated": "2023-12-02T14:28:07.023Z"
+    },
+    {
+      "version": "2.5.0",
+      "flags": "validated",
+      "lastUpdated": "2023-08-17T19:25:00.623Z"
+    },
+    {
+      "version": "2.4.4",
+      "flags": "validated",
+      "lastUpdated": "2024-05-10T15:02:23.67Z"
+    },
+    {
+      "version": "2.4.3",
+      "flags": "validated",
+      "lastUpdated": "2024-01-16T18:45:28.657Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "cabal",
+    "haskell",
+    "language",
+    "literate haskell",
+    "lsp",
+    "multi-root ready",
+    "stack"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/haskell/vsextensions/haskell/2.5.3/vspackage",
+  "filename": "haskell.haskell-2.5.3.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=haskell.haskell"
+}

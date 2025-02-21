@@ -1,0 +1,55 @@
+{
+  "extension_id": "c8d95916-cf54-455f-b324-cbd887b7d3a8",
+  "extension_name": "vue-vscode-snippets",
+  "extension_full_name": "sdras.vue-vscode-snippets",
+  "display_name": "Vue VSCode Snippets",
+  "short_description": "Snippets that will supercharge your Vue workflow",
+  "latest_version": "3.2.0",
+  "last_updated": "2024-11-19T23:37:31.47Z",
+  "version_history": [
+    {
+      "version": "3.2.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-19T23:37:31.47Z"
+    },
+    {
+      "version": "3.1.1",
+      "flags": "validated",
+      "lastUpdated": "2022-02-05T22:18:33.84Z"
+    },
+    {
+      "version": "3.1.0",
+      "flags": "validated",
+      "lastUpdated": "2022-02-05T22:15:22.583Z"
+    },
+    {
+      "version": "3.0.0",
+      "flags": "validated",
+      "lastUpdated": "2022-02-05T20:02:12.18Z"
+    },
+    {
+      "version": "2.2.1",
+      "flags": "validated",
+      "lastUpdated": "2021-07-05T19:10:47.923Z"
+    },
+    {
+      "version": "2.2.0",
+      "flags": "validated",
+      "lastUpdated": "2021-02-14T22:28:51.02Z"
+    }
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "tags": [
+    "Composition API",
+    "snippet",
+    "Vue",
+    "Vue 2",
+    "Vue 3",
+    "Vue Snippets"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sdras/vsextensions/vue-vscode-snippets/3.2.0/vspackage",
+  "filename": "sdras.vue-vscode-snippets-3.2.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets"
+}

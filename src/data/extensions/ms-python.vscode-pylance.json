@@ -1,0 +1,51 @@
+{
+  "extension_id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+  "extension_name": "vscode-pylance",
+  "extension_full_name": "ms-python.vscode-pylance",
+  "display_name": "Pylance",
+  "short_description": "A performant, feature-rich language server for Python in VS Code",
+  "latest_version": "2025.2.100",
+  "last_updated": "2025-02-18T18:18:47.277Z",
+  "version_history": [
+    {
+      "version": "2025.2.100",
+      "flags": "validated",
+      "lastUpdated": "2025-02-18T18:18:47.277Z"
+    },
+    {
+      "version": "2025.2.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-05T22:23:51.71Z"
+    },
+    {
+      "version": "2025.1.102",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T00:22:46.307Z"
+    },
+    {
+      "version": "2025.1.101",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T02:49:17.713Z"
+    },
+    {
+      "version": "2025.1.100",
+      "flags": "validated",
+      "lastUpdated": "2025-01-16T20:35:56.79Z"
+    },
+    {
+      "version": "2024.12.100",
+      "flags": "validated",
+      "lastUpdated": "2024-12-16T22:07:42.193Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages"
+  ],
+  "tags": [
+    "json",
+    "python"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.2.100/vspackage",
+  "filename": "ms-python.vscode-pylance-2025.2.100.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
+}

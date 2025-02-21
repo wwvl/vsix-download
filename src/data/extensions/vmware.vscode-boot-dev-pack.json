@@ -1,0 +1,54 @@
+{
+  "extension_id": "26069f6b-56ea-4c29-8e28-371698a60020",
+  "extension_name": "vscode-boot-dev-pack",
+  "extension_full_name": "vmware.vscode-boot-dev-pack",
+  "display_name": "Spring Boot Extension Pack",
+  "short_description": "A collection of extensions for developing Spring Boot applications",
+  "latest_version": "0.2.2",
+  "last_updated": "2025-01-28T17:23:25.743Z",
+  "version_history": [
+    {
+      "version": "0.2.2",
+      "flags": "validated",
+      "lastUpdated": "2025-01-28T17:23:25.743Z"
+    },
+    {
+      "version": "0.2.1",
+      "flags": "validated",
+      "lastUpdated": "2023-02-01T07:21:07.31Z"
+    },
+    {
+      "version": "0.2.0",
+      "flags": "validated",
+      "lastUpdated": "2022-12-14T13:57:22.523Z"
+    },
+    {
+      "version": "0.1.0",
+      "flags": "validated",
+      "lastUpdated": "2021-08-16T21:14:06.997Z"
+    },
+    {
+      "version": "0.0.8",
+      "flags": "validated",
+      "lastUpdated": "2018-09-17T17:39:31.413Z"
+    },
+    {
+      "version": "0.0.7",
+      "flags": "validated",
+      "lastUpdated": "2018-09-17T17:34:30.96Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Extension Packs"
+  ],
+  "tags": [
+    "java",
+    "spring-boot",
+    "yaml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-boot-dev-pack/0.2.2/vspackage",
+  "filename": "vmware.vscode-boot-dev-pack-0.2.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack"
+}

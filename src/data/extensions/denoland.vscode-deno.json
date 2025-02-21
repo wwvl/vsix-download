@@ -1,0 +1,61 @@
+{
+  "extension_id": "91881318-cfd0-4905-adb7-f4e431ca1ead",
+  "extension_name": "vscode-deno",
+  "extension_full_name": "denoland.vscode-deno",
+  "display_name": "Deno",
+  "short_description": "A language server client for Deno.",
+  "latest_version": "3.43.3",
+  "last_updated": "2025-01-30T12:40:22.487Z",
+  "version_history": [
+    {
+      "version": "3.43.3",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T12:40:22.487Z"
+    },
+    {
+      "version": "3.43.2",
+      "flags": "validated",
+      "lastUpdated": "2025-01-02T13:40:10.597Z"
+    },
+    {
+      "version": "3.43.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-13T16:10:34.01Z"
+    },
+    {
+      "version": "3.43.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-13T14:21:25.07Z"
+    },
+    {
+      "version": "3.42.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-14T02:35:03.813Z"
+    },
+    {
+      "version": "3.41.1",
+      "flags": "validated",
+      "lastUpdated": "2024-10-07T20:36:15.1Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Debuggers",
+    "Formatters"
+  ],
+  "tags": [
+    "debuggers",
+    "deno",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "markdown",
+    "typescript",
+    "typescriptreact"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.43.3/vspackage",
+  "filename": "denoland.vscode-deno-3.43.3.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
+}

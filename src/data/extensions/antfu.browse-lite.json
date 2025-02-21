@@ -1,0 +1,50 @@
+{
+  "extension_id": "61ce9ab3-f230-47ea-8cdc-2b5eb25f3ae2",
+  "extension_name": "browse-lite",
+  "extension_full_name": "antfu.browse-lite",
+  "display_name": "Browse Lite",
+  "short_description": "Embedded browser in VS Code.",
+  "latest_version": "0.3.9",
+  "last_updated": "2024-03-25T11:33:28.53Z",
+  "version_history": [
+    {
+      "version": "0.3.9",
+      "flags": "validated",
+      "lastUpdated": "2024-03-25T11:33:28.53Z"
+    },
+    {
+      "version": "0.3.8",
+      "flags": "validated",
+      "lastUpdated": "2024-03-05T11:11:27.983Z"
+    },
+    {
+      "version": "0.3.7",
+      "flags": "validated",
+      "lastUpdated": "2023-12-27T16:29:32.897Z"
+    },
+    {
+      "version": "0.3.6",
+      "flags": "validated",
+      "lastUpdated": "2023-10-26T18:02:28.713Z"
+    },
+    {
+      "version": "0.3.5",
+      "flags": "validated",
+      "lastUpdated": "2023-10-17T12:35:13.353Z"
+    },
+    {
+      "version": "0.3.4",
+      "flags": "validated",
+      "lastUpdated": "2023-10-17T09:15:45.077Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "debuggers"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/browse-lite/0.3.9/vspackage",
+  "filename": "antfu.browse-lite-0.3.9.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.browse-lite"
+}

@@ -1,0 +1,55 @@
+{
+  "extension_id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
+  "extension_name": "prisma",
+  "extension_full_name": "Prisma.prisma",
+  "display_name": "Prisma",
+  "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
+  "latest_version": "6.4.1",
+  "last_updated": "2025-02-20T19:22:14.853Z",
+  "version_history": [
+    {
+      "version": "6.4.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T19:22:14.853Z"
+    },
+    {
+      "version": "6.4.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-18T18:48:14.92Z"
+    },
+    {
+      "version": "6.3.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-04T11:21:48.69Z"
+    },
+    {
+      "version": "6.3.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-28T16:43:26.08Z"
+    },
+    {
+      "version": "6.2.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T18:04:25.84Z"
+    },
+    {
+      "version": "6.2.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T12:49:33.02Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages"
+  ],
+  "tags": [
+    "javascript",
+    "javascriptreact",
+    "linters",
+    "prisma",
+    "typescript",
+    "typescriptreact"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.4.1/vspackage",
+  "filename": "Prisma.prisma-6.4.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
+}

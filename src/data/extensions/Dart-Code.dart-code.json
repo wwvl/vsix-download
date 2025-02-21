@@ -1,0 +1,60 @@
+{
+  "extension_id": "f57f68ea-9ee8-42b5-9a97-041d3e4278c4",
+  "extension_name": "dart-code",
+  "extension_full_name": "Dart-Code.dart-code",
+  "display_name": "Dart",
+  "short_description": "Dart language support and debugger for Visual Studio Code.",
+  "latest_version": "3.105.20250220",
+  "last_updated": "2025-02-20T12:56:00.597Z",
+  "version_history": [
+    {
+      "version": "3.105.20250220",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T12:56:00.597Z"
+    },
+    {
+      "version": "3.105.20250213",
+      "flags": "validated",
+      "lastUpdated": "2025-02-13T14:38:47.243Z"
+    },
+    {
+      "version": "3.105.20250207",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T12:39:32.217Z"
+    },
+    {
+      "version": "3.105.20250203",
+      "flags": "validated",
+      "lastUpdated": "2025-02-03T15:04:55.247Z"
+    },
+    {
+      "version": "3.104.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-03T14:57:44.53Z"
+    },
+    {
+      "version": "3.103.20250129",
+      "flags": "validated",
+      "lastUpdated": "2025-01-29T16:14:54.513Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers",
+    "Formatters",
+    "Testing"
+  ],
+  "tags": [
+    "dart",
+    "debuggers",
+    "flutter",
+    "fuchsia",
+    "keybindings",
+    "multi-root ready"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.105.20250220/vspackage",
+  "filename": "Dart-Code.dart-code-3.105.20250220.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
+}

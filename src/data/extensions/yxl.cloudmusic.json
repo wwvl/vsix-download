@@ -1,0 +1,61 @@
+{
+  "extension_id": "b39a9093-baab-4e2d-a8a2-5571c8419bbe",
+  "extension_name": "cloudmusic",
+  "extension_full_name": "yxl.cloudmusic",
+  "display_name": "Cloudmusic",
+  "short_description": "Netease Music for VS Code",
+  "latest_version": "9.22.0",
+  "last_updated": "2024-06-04T15:37:45.267Z",
+  "version_history": [
+    {
+      "version": "9.22.0",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-06-04T15:37:45.267Z"
+    },
+    {
+      "version": "9.22.0",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-06-04T15:37:35.483Z"
+    },
+    {
+      "version": "9.22.0",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-06-04T15:37:27.85Z"
+    },
+    {
+      "version": "9.22.0",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-06-04T15:37:23.3Z"
+    },
+    {
+      "version": "9.22.0",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2024-06-04T15:37:18.953Z"
+    },
+    {
+      "version": "9.22.0",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-06-04T15:37:16.833Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "cloudmusic",
+    "music",
+    "Netease",
+    "网易云",
+    "网易云音乐",
+    "音乐"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yxl/vsextensions/cloudmusic/9.22.0/vspackage",
+  "filename": "yxl.cloudmusic-9.22.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yxl.cloudmusic"
+}

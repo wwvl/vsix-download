@@ -1,0 +1,50 @@
+{
+  "extension_id": "3f3c77bc-5721-4a52-b693-e4049ae2256d",
+  "extension_name": "vscode-choosealicense",
+  "extension_full_name": "ultram4rine.vscode-choosealicense",
+  "display_name": "Choose a License",
+  "short_description": "Choose a license for your project in VS Code",
+  "latest_version": "0.9.4",
+  "last_updated": "2023-12-26T21:28:47.29Z",
+  "version_history": [
+    {
+      "version": "0.9.4",
+      "flags": "validated",
+      "lastUpdated": "2023-12-26T21:28:47.29Z"
+    },
+    {
+      "version": "0.9.3",
+      "flags": "validated",
+      "lastUpdated": "2023-09-08T19:24:57.187Z"
+    },
+    {
+      "version": "0.9.2",
+      "flags": "validated",
+      "lastUpdated": "2023-01-16T22:04:38.663Z"
+    },
+    {
+      "version": "0.9.1",
+      "flags": "validated",
+      "lastUpdated": "2022-12-26T19:43:49.953Z"
+    },
+    {
+      "version": "0.9.0",
+      "flags": "validated",
+      "lastUpdated": "2022-09-11T18:17:30.43Z"
+    },
+    {
+      "version": "0.8.0",
+      "flags": "validated",
+      "lastUpdated": "2022-07-20T19:28:11Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "license"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ultram4rine/vsextensions/vscode-choosealicense/0.9.4/vspackage",
+  "filename": "ultram4rine.vscode-choosealicense-0.9.4.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ultram4rine.vscode-choosealicense"
+}

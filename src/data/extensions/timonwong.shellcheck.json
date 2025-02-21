@@ -1,0 +1,67 @@
+{
+  "extension_id": "f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6",
+  "extension_name": "shellcheck",
+  "extension_full_name": "timonwong.shellcheck",
+  "display_name": "ShellCheck",
+  "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
+  "latest_version": "0.37.7",
+  "last_updated": "2025-02-10T16:58:37.01Z",
+  "version_history": [
+    {
+      "version": "0.37.7",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:58:37.01Z"
+    },
+    {
+      "version": "0.37.7",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:58:09.587Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:58:02.46Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:57:39.203Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:57:35.67Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:57:32.493Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters"
+  ],
+  "tags": [
+    "bash",
+    "dash",
+    "ksh",
+    "lint",
+    "linter",
+    "posix",
+    "sh",
+    "shell",
+    "shellcheck-output",
+    "shellcheckrc",
+    "shellscript",
+    "snippet"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.37.7/vspackage",
+  "filename": "timonwong.shellcheck-0.37.7.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
+}

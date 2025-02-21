@@ -1,0 +1,60 @@
+{
+  "extension_id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+  "extension_name": "vscode-docker",
+  "extension_full_name": "ms-azuretools.vscode-docker",
+  "display_name": "Docker",
+  "short_description": "Makes it easy to create, manage, and debug containerized applications.",
+  "latest_version": "1.29.4",
+  "last_updated": "2025-01-21T16:24:17.03Z",
+  "version_history": [
+    {
+      "version": "1.29.4",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T16:24:17.03Z"
+    },
+    {
+      "version": "1.29.3",
+      "flags": "validated",
+      "lastUpdated": "2024-09-24T20:10:37.71Z"
+    },
+    {
+      "version": "1.29.2",
+      "flags": "validated",
+      "lastUpdated": "2024-08-13T17:30:12.65Z"
+    },
+    {
+      "version": "1.29.1",
+      "flags": "validated",
+      "lastUpdated": "2024-05-01T19:08:38.52Z"
+    },
+    {
+      "version": "1.29.0",
+      "flags": "validated",
+      "lastUpdated": "2024-02-13T15:42:40.993Z"
+    },
+    {
+      "version": "1.28.0",
+      "flags": "validated",
+      "lastUpdated": "2023-11-13T14:39:40.607Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Azure"
+  ],
+  "tags": [
+    "compose",
+    "container",
+    "containers",
+    "debuggers",
+    "docker",
+    "dockercompose",
+    "dockerfile",
+    "ignore",
+    "multi-root ready"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.4/vspackage",
+  "filename": "ms-azuretools.vscode-docker-1.29.4.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
+}

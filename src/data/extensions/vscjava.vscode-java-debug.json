@@ -1,0 +1,55 @@
+{
+  "extension_id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
+  "extension_name": "vscode-java-debug",
+  "extension_full_name": "vscjava.vscode-java-debug",
+  "display_name": "Debugger for Java",
+  "short_description": "A lightweight Java debugger for Visual Studio Code",
+  "latest_version": "0.58.2024090204",
+  "last_updated": "2024-09-02T05:00:13.933Z",
+  "version_history": [
+    {
+      "version": "0.58.2024090204",
+      "flags": "validated",
+      "lastUpdated": "2024-09-02T05:00:13.933Z"
+    },
+    {
+      "version": "0.58.2024072207",
+      "flags": "validated",
+      "lastUpdated": "2024-08-01T04:52:51.66Z"
+    },
+    {
+      "version": "0.58.2024071907",
+      "flags": "validated",
+      "lastUpdated": "2024-07-19T08:18:12.56Z"
+    },
+    {
+      "version": "0.58.1",
+      "flags": "validated",
+      "lastUpdated": "2024-10-31T08:34:52.273Z"
+    },
+    {
+      "version": "0.58.0",
+      "flags": "validated",
+      "lastUpdated": "2024-06-27T04:22:39.563Z"
+    },
+    {
+      "version": "0.57.2024061805",
+      "flags": "validated",
+      "lastUpdated": "2024-06-18T06:17:25.233Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Debuggers"
+  ],
+  "tags": [
+    "debug",
+    "debugger",
+    "debuggers",
+    "debugging",
+    "java"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2024090204/vspackage",
+  "filename": "vscjava.vscode-java-debug-0.58.2024090204.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
+}

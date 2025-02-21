@@ -1,0 +1,57 @@
+{
+  "extension_id": "13fef117-0575-4dc5-b573-5cb945a69d0a",
+  "extension_name": "vscodeintellicode-csharp",
+  "extension_full_name": "ms-dotnettools.vscodeintellicode-csharp",
+  "display_name": "IntelliCode for C# Dev Kit",
+  "short_description": "AI-assisted development for C# Dev Kit",
+  "latest_version": "2.2.3",
+  "last_updated": "2024-11-13T06:10:01.273Z",
+  "version_history": [
+    {
+      "version": "2.2.3",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T06:10:01.273Z"
+    },
+    {
+      "version": "2.2.3",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T06:07:18.603Z"
+    },
+    {
+      "version": "2.2.3",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T06:05:44.583Z"
+    },
+    {
+      "version": "2.2.3",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T06:05:30.06Z"
+    },
+    {
+      "version": "2.2.3",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T06:05:06.553Z"
+    },
+    {
+      "version": "2.2.3",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T06:05:01.31Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages"
+  ],
+  "tags": [
+    "c#",
+    "csharp"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscodeintellicode-csharp/2.2.3/vspackage",
+  "filename": "ms-dotnettools.vscodeintellicode-csharp-2.2.3.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp"
+}

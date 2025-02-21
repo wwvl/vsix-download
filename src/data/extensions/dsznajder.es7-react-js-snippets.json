@@ -1,0 +1,61 @@
+{
+  "extension_id": "19804510-b475-4dae-b0f7-6ca08fd1af0c",
+  "extension_name": "es7-react-js-snippets",
+  "extension_full_name": "dsznajder.es7-react-js-snippets",
+  "display_name": "ES7+ React/Redux/React-Native snippets",
+  "short_description": "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.",
+  "latest_version": "4.4.3",
+  "last_updated": "2022-02-18T13:12:52.393Z",
+  "version_history": [
+    {
+      "version": "4.4.3",
+      "flags": "validated",
+      "lastUpdated": "2022-02-18T13:12:52.393Z"
+    },
+    {
+      "version": "4.4.0",
+      "flags": "validated",
+      "lastUpdated": "2022-02-17T15:53:52.02Z"
+    },
+    {
+      "version": "4.3.2",
+      "flags": "validated",
+      "lastUpdated": "2022-02-09T22:15:05.763Z"
+    },
+    {
+      "version": "4.3.1",
+      "flags": "validated",
+      "lastUpdated": "2022-02-08T23:25:44.83Z"
+    },
+    {
+      "version": "4.3.0",
+      "flags": "validated",
+      "lastUpdated": "2022-02-08T23:11:51.823Z"
+    },
+    {
+      "version": "4.2.0",
+      "flags": "validated",
+      "lastUpdated": "2022-02-08T21:48:53.807Z"
+    }
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "tags": [
+    "customizable",
+    "javascript",
+    "javascriptReact",
+    "keybindings",
+    "prettier",
+    "react",
+    "react-native",
+    "redux",
+    "snippet",
+    "snippets",
+    "typescript",
+    "typescriptReact"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dsznajder/vsextensions/es7-react-js-snippets/4.4.3/vspackage",
+  "filename": "dsznajder.es7-react-js-snippets-4.4.3.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"
+}

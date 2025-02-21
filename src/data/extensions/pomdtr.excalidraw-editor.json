@@ -1,0 +1,56 @@
+{
+  "extension_id": "3dc917d8-e986-4abf-8159-6fc2233995bd",
+  "extension_name": "excalidraw-editor",
+  "extension_full_name": "pomdtr.excalidraw-editor",
+  "display_name": "Excalidraw",
+  "short_description": "Draw schemas in VS Code using Excalidraw",
+  "latest_version": "3.7.4",
+  "last_updated": "2024-04-07T14:25:48.037Z",
+  "version_history": [
+    {
+      "version": "3.7.4",
+      "flags": "validated",
+      "lastUpdated": "2024-04-07T14:25:48.037Z"
+    },
+    {
+      "version": "3.7.3",
+      "flags": "validated",
+      "lastUpdated": "2024-02-13T00:14:41.107Z"
+    },
+    {
+      "version": "3.7.2",
+      "flags": "validated",
+      "lastUpdated": "2024-02-02T18:03:05.767Z"
+    },
+    {
+      "version": "3.7.1",
+      "flags": "validated",
+      "lastUpdated": "2023-11-29T15:47:16.39Z"
+    },
+    {
+      "version": "3.6.1",
+      "flags": "validated",
+      "lastUpdated": "2023-09-25T13:58:42.99Z"
+    },
+    {
+      "version": "3.5.1",
+      "flags": "validated",
+      "lastUpdated": "2023-04-16T16:19:39.687Z"
+    }
+  ],
+  "categories": [
+    "Visualization"
+  ],
+  "tags": [
+    "draw",
+    "excalidraw",
+    "graphics",
+    "json",
+    "keybindings",
+    "paint",
+    "schemas"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.7.4/vspackage",
+  "filename": "pomdtr.excalidraw-editor-3.7.4.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor"
+}

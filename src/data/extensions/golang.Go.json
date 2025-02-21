@@ -1,0 +1,68 @@
+{
+  "extension_id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
+  "extension_name": "Go",
+  "extension_full_name": "golang.Go",
+  "display_name": "Go",
+  "short_description": "Rich Go language support for Visual Studio Code",
+  "latest_version": "0.45.2",
+  "last_updated": "2025-02-19T21:06:44.32Z",
+  "version_history": [
+    {
+      "version": "0.45.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T21:06:44.32Z"
+    },
+    {
+      "version": "0.45.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T20:43:30.693Z"
+    },
+    {
+      "version": "0.45.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-17T14:29:35.827Z"
+    },
+    {
+      "version": "0.44.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-16T17:31:24.993Z"
+    },
+    {
+      "version": "0.43.4",
+      "flags": "validated",
+      "lastUpdated": "2024-12-05T16:42:38.713Z"
+    },
+    {
+      "version": "0.43.3",
+      "flags": "validated",
+      "lastUpdated": "2024-11-18T19:26:39.53Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers",
+    "Formatters",
+    "Testing"
+  ],
+  "tags": [
+    "debuggers",
+    "go",
+    "Go Checksum File",
+    "Go Module File",
+    "Go Template File",
+    "Go Work File",
+    "go.mod",
+    "go.sum",
+    "go.work",
+    "golang",
+    "gopls",
+    "gotmpl",
+    "multi-root ready",
+    "snippet"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.45.2/vspackage",
+  "filename": "golang.Go-0.45.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
+}

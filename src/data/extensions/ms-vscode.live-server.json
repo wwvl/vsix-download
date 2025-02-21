@@ -1,0 +1,56 @@
+{
+  "extension_id": "4eae7368-ec63-429d-8449-57a7df5e2117",
+  "extension_name": "live-server",
+  "extension_full_name": "ms-vscode.live-server",
+  "display_name": "Live Preview",
+  "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
+  "latest_version": "0.5.2024091601",
+  "last_updated": "2024-09-16T09:20:57.98Z",
+  "version_history": [
+    {
+      "version": "0.5.2024091601",
+      "flags": "validated",
+      "lastUpdated": "2024-09-16T09:20:57.98Z"
+    },
+    {
+      "version": "0.5.2024062701",
+      "flags": "validated",
+      "lastUpdated": "2024-06-27T09:41:01.873Z"
+    },
+    {
+      "version": "0.5.2024062601",
+      "flags": "validated",
+      "lastUpdated": "2024-06-26T09:34:54.937Z"
+    },
+    {
+      "version": "0.5.2024062501",
+      "flags": "validated",
+      "lastUpdated": "2024-06-25T09:19:06.4Z"
+    },
+    {
+      "version": "0.5.2024062401",
+      "flags": "validated",
+      "lastUpdated": "2024-06-24T09:20:58.54Z"
+    },
+    {
+      "version": "0.5.2024062001",
+      "flags": "validated",
+      "lastUpdated": "2024-06-20T09:24:09.877Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "browser",
+    "html",
+    "live",
+    "livepreview",
+    "preview",
+    "refresh",
+    "reload"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2024091601/vspackage",
+  "filename": "ms-vscode.live-server-0.5.2024091601.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
+}

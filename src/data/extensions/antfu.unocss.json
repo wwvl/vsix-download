@@ -1,0 +1,48 @@
+{
+  "extension_id": "55f2cc0f-acb9-4fb0-bf94-e0328e3c43fd",
+  "extension_name": "unocss",
+  "extension_full_name": "antfu.unocss",
+  "display_name": "UnoCSS",
+  "short_description": "UnoCSS for VS Code",
+  "latest_version": "66.0.0",
+  "last_updated": "2025-02-18T09:23:31.97Z",
+  "version_history": [
+    {
+      "version": "66.0.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-18T09:23:31.97Z"
+    },
+    {
+      "version": "65.5.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-15T08:24:33.65Z"
+    },
+    {
+      "version": "65.4.3",
+      "flags": "validated",
+      "lastUpdated": "2025-01-22T06:03:21.727Z"
+    },
+    {
+      "version": "65.4.2",
+      "flags": "validated",
+      "lastUpdated": "2025-01-16T09:31:14.337Z"
+    },
+    {
+      "version": "65.4.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-10T08:21:10.533Z"
+    },
+    {
+      "version": "0.65.4",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T08:36:16.78Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.0.0/vspackage",
+  "filename": "antfu.unocss-66.0.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
+}

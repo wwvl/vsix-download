@@ -1,0 +1,52 @@
+{
+  "extension_id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+  "extension_name": "markdown-preview-enhanced",
+  "extension_full_name": "shd101wyy.markdown-preview-enhanced",
+  "display_name": "Markdown Preview Enhanced",
+  "short_description": "Markdown Preview Enhanced ported to vscode",
+  "latest_version": "0.8.15",
+  "last_updated": "2024-11-08T05:16:30.24Z",
+  "version_history": [
+    {
+      "version": "0.8.15",
+      "flags": "validated",
+      "lastUpdated": "2024-11-08T05:16:30.24Z"
+    },
+    {
+      "version": "0.8.14",
+      "flags": "validated",
+      "lastUpdated": "2024-09-07T14:29:04.057Z"
+    },
+    {
+      "version": "0.8.13",
+      "flags": "validated",
+      "lastUpdated": "2024-03-18T04:05:30.567Z"
+    },
+    {
+      "version": "0.8.12",
+      "flags": "validated",
+      "lastUpdated": "2024-03-10T14:53:43.33Z"
+    },
+    {
+      "version": "0.8.11",
+      "flags": "validated",
+      "lastUpdated": "2023-12-10T10:22:15.503Z"
+    },
+    {
+      "version": "0.8.10",
+      "flags": "validated",
+      "lastUpdated": "2023-10-26T12:19:15.393Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "keybindings",
+    "markdown",
+    "quarto"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.15/vspackage",
+  "filename": "shd101wyy.markdown-preview-enhanced-0.8.15.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
+}

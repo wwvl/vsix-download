@@ -1,0 +1,60 @@
+{
+  "extension_id": "4bf45e86-a448-4531-8c01-ef33f4536306",
+  "extension_name": "mssql",
+  "extension_full_name": "ms-mssql.mssql",
+  "display_name": "SQL Server (mssql)",
+  "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
+  "latest_version": "1.28.0",
+  "last_updated": "2025-01-29T18:35:06.557Z",
+  "version_history": [
+    {
+      "version": "1.28.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-29T18:35:06.557Z"
+    },
+    {
+      "version": "1.27.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-18T18:36:54.74Z"
+    },
+    {
+      "version": "1.26.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-20T18:58:49.56Z"
+    },
+    {
+      "version": "1.25.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-23T17:31:05.933Z"
+    },
+    {
+      "version": "1.24.0",
+      "flags": "validated",
+      "lastUpdated": "2024-09-04T17:31:00.59Z"
+    },
+    {
+      "version": "1.23.0",
+      "flags": "validated",
+      "lastUpdated": "2024-07-31T20:21:17.863Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Azure"
+  ],
+  "tags": [
+    "Azure SQL Data Warehouse",
+    "Azure SQL Database",
+    "keybindings",
+    "MSSQL",
+    "multi-root ready",
+    "snippet",
+    "SQL",
+    "SQL Server",
+    "SQL Server Execution Plan",
+    "sqlplan"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.28.0/vspackage",
+  "filename": "ms-mssql.mssql-1.28.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
+}

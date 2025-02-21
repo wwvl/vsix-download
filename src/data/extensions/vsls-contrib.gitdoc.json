@@ -1,0 +1,53 @@
+{
+  "extension_id": "7be174a5-ac74-4496-bf8b-8cc6cc60408c",
+  "extension_name": "gitdoc",
+  "extension_full_name": "vsls-contrib.gitdoc",
+  "display_name": "GitDoc",
+  "short_description": "Automatically commit/push/pull changes on save, so you can edit a Git repo like a multi-file, versioned document.",
+  "latest_version": "0.2.3",
+  "last_updated": "2024-12-26T20:45:59.673Z",
+  "version_history": [
+    {
+      "version": "0.2.3",
+      "flags": "validated",
+      "lastUpdated": "2024-12-26T20:45:59.673Z"
+    },
+    {
+      "version": "0.2.2",
+      "flags": "validated",
+      "lastUpdated": "2024-12-26T19:12:12.743Z"
+    },
+    {
+      "version": "0.2.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-26T18:10:07.247Z"
+    },
+    {
+      "version": "0.2.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-26T17:34:23.827Z"
+    },
+    {
+      "version": "0.1.0",
+      "flags": "validated",
+      "lastUpdated": "2022-08-10T16:09:42.233Z"
+    },
+    {
+      "version": "0.0.8",
+      "flags": "validated",
+      "lastUpdated": "2021-03-20T19:36:13.1Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "commit",
+    "git",
+    "github-copilot",
+    "sync"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gitdoc/0.2.3/vspackage",
+  "filename": "vsls-contrib.gitdoc-0.2.3.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc"
+}

@@ -1,0 +1,61 @@
+{
+  "extension_id": "40d39ce9-c381-47a0-80c8-a6661f731eab",
+  "extension_name": "PowerShell",
+  "extension_full_name": "ms-vscode.PowerShell",
+  "display_name": "PowerShell",
+  "short_description": "Develop PowerShell modules, commands and scripts in Visual Studio Code!",
+  "latest_version": "2025.1.0",
+  "last_updated": "2025-01-16T22:15:01.503Z",
+  "version_history": [
+    {
+      "version": "2025.1.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-16T22:15:01.503Z"
+    },
+    {
+      "version": "2025.0.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T20:15:53.35Z"
+    },
+    {
+      "version": "2024.5.2",
+      "flags": "validated",
+      "lastUpdated": "2024-12-05T01:31:12.643Z"
+    },
+    {
+      "version": "2024.5.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-18T23:38:38.573Z"
+    },
+    {
+      "version": "2024.5.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-31T00:02:49.2Z"
+    },
+    {
+      "version": "2024.4.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-05T02:16:06.807Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Themes",
+    "Linters",
+    "Debuggers",
+    "Formatters"
+  ],
+  "tags": [
+    "color-theme",
+    "debuggers",
+    "keybindings",
+    "powershell",
+    "pwsh",
+    "snippet",
+    "theme"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.1.0/vspackage",
+  "filename": "ms-vscode.PowerShell-2025.1.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell"
+}

@@ -1,0 +1,63 @@
+{
+  "extension_id": "6888a303-8912-4fe1-8e83-56b76ffdaf42",
+  "extension_name": "puppet-vscode",
+  "extension_full_name": "puppet.puppet-vscode",
+  "display_name": "Puppet",
+  "short_description": "Official Puppet VSCode extension. Provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more",
+  "latest_version": "1.5.4",
+  "last_updated": "2024-08-29T09:29:25.85Z",
+  "version_history": [
+    {
+      "version": "1.5.4",
+      "flags": "validated",
+      "lastUpdated": "2024-08-29T09:29:25.85Z"
+    },
+    {
+      "version": "1.5.3",
+      "flags": "validated",
+      "lastUpdated": "2024-04-24T16:02:07.867Z"
+    },
+    {
+      "version": "1.5.2",
+      "flags": "validated",
+      "lastUpdated": "2024-02-15T11:34:28.86Z"
+    },
+    {
+      "version": "1.5.1",
+      "flags": "validated",
+      "lastUpdated": "2024-01-26T15:49:34.457Z"
+    },
+    {
+      "version": "1.5.0",
+      "flags": "validated",
+      "lastUpdated": "2023-11-27T16:45:50.18Z"
+    },
+    {
+      "version": "1.4.2",
+      "flags": "validated",
+      "lastUpdated": "2023-10-17T09:53:35.65Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers",
+    "Formatters"
+  ],
+  "tags": [
+    "debuggers",
+    "javascript",
+    "json",
+    "language",
+    "linters",
+    "node",
+    "puppet",
+    "puppetfile",
+    "puppet-lint",
+    "snippet"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/puppet/vsextensions/puppet-vscode/1.5.4/vspackage",
+  "filename": "puppet.puppet-vscode-1.5.4.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode"
+}

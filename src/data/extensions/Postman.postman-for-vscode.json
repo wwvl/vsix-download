@@ -1,0 +1,59 @@
+{
+  "extension_id": "48fcb244-71c2-4877-aed3-29b36098a411",
+  "extension_name": "postman-for-vscode",
+  "extension_full_name": "Postman.postman-for-vscode",
+  "display_name": "Postman",
+  "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
+  "latest_version": "1.7.0",
+  "last_updated": "2025-01-30T06:04:11.353Z",
+  "version_history": [
+    {
+      "version": "1.7.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T06:04:11.353Z"
+    },
+    {
+      "version": "1.6.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-10T06:24:39.1Z"
+    },
+    {
+      "version": "1.6.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-02T09:03:41.33Z"
+    },
+    {
+      "version": "1.5.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-11T10:20:15.05Z"
+    },
+    {
+      "version": "1.5.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-26T11:22:44.327Z"
+    },
+    {
+      "version": "1.4.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-04T08:00:08.24Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Education",
+    "Testing"
+  ],
+  "tags": [
+    "api client",
+    "grpc client",
+    "http client",
+    "keybindings",
+    "Postman",
+    "rest client",
+    "testing",
+    "websocket client"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.7.0/vspackage",
+  "filename": "Postman.postman-for-vscode-1.7.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
+}

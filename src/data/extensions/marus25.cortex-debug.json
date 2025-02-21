@@ -1,0 +1,57 @@
+{
+  "extension_id": "2fd8abff-b3ce-46c9-a6a8-92d5ad69d8d0",
+  "extension_name": "cortex-debug",
+  "extension_full_name": "marus25.cortex-debug",
+  "display_name": "Cortex-Debug",
+  "short_description": "ARM Cortex-M GDB Debugger support for VSCode",
+  "latest_version": "1.12.1",
+  "last_updated": "2023-09-13T23:08:24.41Z",
+  "version_history": [
+    {
+      "version": "1.12.1",
+      "flags": "validated",
+      "lastUpdated": "2023-09-13T23:08:24.41Z"
+    },
+    {
+      "version": "1.12.0",
+      "flags": "validated",
+      "lastUpdated": "2023-06-14T13:40:07.433Z"
+    },
+    {
+      "version": "1.11.3",
+      "flags": "validated",
+      "lastUpdated": "2023-06-08T16:46:20.913Z"
+    },
+    {
+      "version": "1.11.2",
+      "flags": "validated",
+      "lastUpdated": "2023-04-14T19:17:51.26Z"
+    },
+    {
+      "version": "1.11.1",
+      "flags": "validated",
+      "lastUpdated": "2023-03-21T12:56:28.84Z"
+    },
+    {
+      "version": "1.11.0",
+      "flags": "validated",
+      "lastUpdated": "2023-03-11T16:54:02.9Z"
+    }
+  ],
+  "categories": [
+    "Debuggers"
+  ],
+  "tags": [
+    "Cortex-Debug Memory View",
+    "cortex-debug.memoryview",
+    "cortex-m",
+    "debug",
+    "debuggers",
+    "embedded",
+    "gdb",
+    "keybindings"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/marus25/vsextensions/cortex-debug/1.12.1/vspackage",
+  "filename": "marus25.cortex-debug-1.12.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug"
+}

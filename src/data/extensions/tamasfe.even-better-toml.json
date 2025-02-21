@@ -1,0 +1,57 @@
+{
+  "extension_id": "b2215d5f-675e-4a2b-b6ac-1ca737518b78",
+  "extension_name": "even-better-toml",
+  "extension_full_name": "tamasfe.even-better-toml",
+  "display_name": "Even Better TOML",
+  "short_description": "Fully-featured TOML support",
+  "latest_version": "0.21.2",
+  "last_updated": "2024-12-20T17:47:36.94Z",
+  "version_history": [
+    {
+      "version": "0.21.2",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T17:47:36.94Z"
+    },
+    {
+      "version": "0.19.2",
+      "flags": "validated",
+      "lastUpdated": "2023-07-13T11:01:39.373Z"
+    },
+    {
+      "version": "0.19.1",
+      "flags": "validated",
+      "lastUpdated": "2023-07-10T18:32:21.597Z"
+    },
+    {
+      "version": "0.19.0",
+      "flags": "validated",
+      "lastUpdated": "2022-11-01T15:39:57.243Z"
+    },
+    {
+      "version": "0.18.3",
+      "flags": "validated",
+      "lastUpdated": "2022-10-25T09:41:08.463Z"
+    },
+    {
+      "version": "0.18.2",
+      "flags": "validated",
+      "lastUpdated": "2022-10-25T00:26:38.327Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "cargoLock",
+    "config",
+    "formatter",
+    "rust",
+    "syntax",
+    "toml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tamasfe/vsextensions/even-better-toml/0.21.2/vspackage",
+  "filename": "tamasfe.even-better-toml-0.21.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml"
+}

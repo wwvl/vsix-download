@@ -1,0 +1,61 @@
+{
+  "extension_id": "94a8383c-04c2-476e-b228-f125310e5a9a",
+  "extension_name": "vscode-deepseek",
+  "extension_full_name": "colourafredi.vscode-deepseek",
+  "display_name": "DeepSeek R1",
+  "short_description": "Write, review, explain, refactor, and test code. Supports multiple languages and provides customizable prompts for efficient coding assistance.",
+  "latest_version": "1.4.3",
+  "last_updated": "2025-02-12T04:01:08.52Z",
+  "version_history": [
+    {
+      "version": "1.4.3",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T04:01:08.52Z"
+    },
+    {
+      "version": "1.4.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T03:38:24.89Z"
+    },
+    {
+      "version": "1.4.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T08:13:25.25Z"
+    },
+    {
+      "version": "1.4.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T02:42:20.063Z"
+    },
+    {
+      "version": "1.3.9",
+      "flags": "validated",
+      "lastUpdated": "2025-02-09T14:02:29.417Z"
+    },
+    {
+      "version": "1.3.7",
+      "flags": "validated",
+      "lastUpdated": "2025-02-09T12:56:06.13Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "ai",
+    "assistant",
+    "chat",
+    "code",
+    "code-explanation",
+    "code-refactoring",
+    "code-review",
+    "copilot",
+    "deepseek",
+    "documentation",
+    "gpt",
+    "testing"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.4.3/vspackage",
+  "filename": "colourafredi.vscode-deepseek-1.4.3.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek"
+}

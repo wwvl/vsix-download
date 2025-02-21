@@ -1,0 +1,59 @@
+{
+  "extension_id": "53763e89-ec31-4d0c-b220-f714761180e5",
+  "extension_name": "tauri-vscode",
+  "extension_full_name": "tauri-apps.tauri-vscode",
+  "display_name": "Tauri",
+  "short_description": "Enhances the experience of Tauri apps development",
+  "latest_version": "0.2.9",
+  "last_updated": "2024-09-16T15:25:21.957Z",
+  "version_history": [
+    {
+      "version": "0.2.9",
+      "flags": "validated",
+      "lastUpdated": "2024-09-16T15:25:21.957Z"
+    },
+    {
+      "version": "0.2.8",
+      "flags": "validated",
+      "lastUpdated": "2024-09-02T17:23:48.34Z"
+    },
+    {
+      "version": "0.2.7",
+      "flags": "validated",
+      "lastUpdated": "2024-08-29T03:14:21.86Z"
+    },
+    {
+      "version": "0.2.6",
+      "flags": "validated",
+      "lastUpdated": "2023-03-17T17:09:30.233Z"
+    },
+    {
+      "version": "0.2.5",
+      "flags": "validated",
+      "lastUpdated": "2023-03-17T16:51:45.237Z"
+    },
+    {
+      "version": "0.2.4",
+      "flags": "validated",
+      "lastUpdated": "2023-03-17T16:39:35.157Z"
+    }
+  ],
+  "categories": [
+    "Snippets",
+    "Linters"
+  ],
+  "tags": [
+    "desktop",
+    "development",
+    "framework",
+    "gui",
+    "javascript",
+    "json",
+    "rust",
+    "snippet",
+    "tauri"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tauri-apps/vsextensions/tauri-vscode/0.2.9/vspackage",
+  "filename": "tauri-apps.tauri-vscode-0.2.9.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode"
+}

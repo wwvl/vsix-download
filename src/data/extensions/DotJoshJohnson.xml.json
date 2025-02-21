@@ -1,0 +1,55 @@
+{
+  "extension_id": "0cb81da2-1880-4755-9995-0ae9cc728e20",
+  "extension_name": "xml",
+  "extension_full_name": "DotJoshJohnson.xml",
+  "display_name": "XML Tools",
+  "short_description": "XML Formatting, XQuery, and XPath Tools for Visual Studio Code",
+  "latest_version": "2.5.1",
+  "last_updated": "2020-07-18T03:53:33.85Z",
+  "version_history": [
+    {
+      "version": "2.5.1",
+      "flags": "validated",
+      "lastUpdated": "2020-07-18T03:53:33.85Z"
+    },
+    {
+      "version": "2.5.0",
+      "flags": "validated",
+      "lastUpdated": "2019-06-01T04:47:57.3Z"
+    },
+    {
+      "version": "2.4.0",
+      "flags": "validated",
+      "lastUpdated": "2018-12-14T16:18:15.763Z"
+    },
+    {
+      "version": "2.3.2",
+      "flags": "validated",
+      "lastUpdated": "2018-08-18T01:23:38.543Z"
+    },
+    {
+      "version": "2.3.1",
+      "flags": "validated",
+      "lastUpdated": "2018-06-16T02:30:55.95Z"
+    },
+    {
+      "version": "2.3.0",
+      "flags": "validated",
+      "lastUpdated": "2018-06-11T23:40:01.57Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "keybindings",
+    "xml",
+    "xquery",
+    "xsl"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DotJoshJohnson/vsextensions/xml/2.5.1/vspackage",
+  "filename": "DotJoshJohnson.xml-2.5.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml"
+}

@@ -1,0 +1,53 @@
+{
+  "extension_id": "2c992d35-3965-4369-856e-fdfbb0af2ce2",
+  "extension_name": "biome",
+  "extension_full_name": "biomejs.biome",
+  "display_name": "Biome",
+  "short_description": "Toolchain of the web",
+  "latest_version": "2025.2.72227",
+  "last_updated": "2025-02-07T22:31:26.97Z",
+  "version_history": [
+    {
+      "version": "2025.2.72227",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T22:31:26.97Z"
+    },
+    {
+      "version": "2025.2.72121",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T21:24:46.587Z"
+    },
+    {
+      "version": "2025.2.61917",
+      "flags": "validated",
+      "lastUpdated": "2025-02-06T19:21:18.263Z"
+    },
+    {
+      "version": "2025.1.272056",
+      "flags": "validated",
+      "lastUpdated": "2025-01-27T21:00:28.6Z"
+    },
+    {
+      "version": "2024.12.22126",
+      "flags": "validated",
+      "lastUpdated": "2024-12-02T21:32:40.17Z"
+    },
+    {
+      "version": "2024.11.301111",
+      "flags": "validated",
+      "lastUpdated": "2024-11-30T11:15:27.073Z"
+    }
+  ],
+  "categories": [
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "biome_syntax_tree",
+    "Formatter",
+    "Linter"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.2.72227/vspackage",
+  "filename": "biomejs.biome-2025.2.72227.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=biomejs.biome"
+}

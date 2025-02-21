@@ -1,0 +1,59 @@
+{
+  "extension_id": "9d8c32ab-354c-4daf-a9bf-20b633734435",
+  "extension_name": "errorlens",
+  "extension_full_name": "usernamehw.errorlens",
+  "display_name": "Error Lens",
+  "short_description": "Improve highlighting of errors, warnings and other language diagnostics.",
+  "latest_version": "3.23.0",
+  "last_updated": "2025-01-30T13:09:10.163Z",
+  "version_history": [
+    {
+      "version": "3.23.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T13:09:10.163Z"
+    },
+    {
+      "version": "3.22.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-28T18:52:04.87Z"
+    },
+    {
+      "version": "3.22.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T09:27:13.473Z"
+    },
+    {
+      "version": "3.21.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-16T10:38:13.69Z"
+    },
+    {
+      "version": "3.20.0",
+      "flags": "validated",
+      "lastUpdated": "2024-06-22T08:30:38.4Z"
+    },
+    {
+      "version": "3.19.0",
+      "flags": "validated",
+      "lastUpdated": "2024-06-21T14:56:10.1Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "diagnostic",
+    "error",
+    "gutter",
+    "highlight",
+    "inline",
+    "message",
+    "problem",
+    "problems",
+    "status bar",
+    "warning"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.23.0/vspackage",
+  "filename": "usernamehw.errorlens-3.23.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
+}

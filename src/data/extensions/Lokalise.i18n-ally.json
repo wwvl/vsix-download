@@ -1,0 +1,68 @@
+{
+  "extension_id": "8ab81d13-c812-4a2f-8f19-c32e3655e53c",
+  "extension_name": "i18n-ally",
+  "extension_full_name": "Lokalise.i18n-ally",
+  "display_name": "i18n Ally",
+  "short_description": "🌍 All in one i18n extension for VS Code",
+  "latest_version": "2.13.1",
+  "last_updated": "2024-12-13T11:07:25.953Z",
+  "version_history": [
+    {
+      "version": "2.13.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-13T11:07:25.953Z"
+    },
+    {
+      "version": "2.12.0",
+      "flags": "validated",
+      "lastUpdated": "2023-09-23T13:47:26.133Z"
+    },
+    {
+      "version": "2.11.1",
+      "flags": "validated",
+      "lastUpdated": "2023-08-30T09:48:20.387Z"
+    },
+    {
+      "version": "2.11.0",
+      "flags": "validated",
+      "lastUpdated": "2023-08-28T18:27:04.67Z"
+    },
+    {
+      "version": "2.10.0",
+      "flags": "validated",
+      "lastUpdated": "2023-07-11T16:55:52.087Z"
+    },
+    {
+      "version": "2.9.1",
+      "flags": "validated",
+      "lastUpdated": "2023-05-15T08:50:56.663Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "dart",
+    "handlebars",
+    "html",
+    "i18n",
+    "i18next",
+    "ini",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "json5",
+    "php",
+    "pug",
+    "svelte",
+    "translate",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "vue-i18n",
+    "yaml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Lokalise/vsextensions/i18n-ally/2.13.1/vspackage",
+  "filename": "Lokalise.i18n-ally-2.13.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally"
+}

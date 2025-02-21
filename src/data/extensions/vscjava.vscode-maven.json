@@ -1,0 +1,51 @@
+{
+  "extension_id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
+  "extension_name": "vscode-maven",
+  "extension_full_name": "vscjava.vscode-maven",
+  "display_name": "Maven for Java",
+  "short_description": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
+  "latest_version": "0.44.2024072906",
+  "last_updated": "2024-07-29T07:24:48.557Z",
+  "version_history": [
+    {
+      "version": "0.44.2024072906",
+      "flags": "validated",
+      "lastUpdated": "2024-07-29T07:24:48.557Z"
+    },
+    {
+      "version": "0.44.2024013105",
+      "flags": "validated",
+      "lastUpdated": "2024-01-31T05:35:10.997Z"
+    },
+    {
+      "version": "0.44.0",
+      "flags": "validated",
+      "lastUpdated": "2024-01-31T05:34:20.71Z"
+    },
+    {
+      "version": "0.43.2024011905",
+      "flags": "validated",
+      "lastUpdated": "2024-01-19T05:50:51.037Z"
+    },
+    {
+      "version": "0.43.0",
+      "flags": "validated",
+      "lastUpdated": "2023-10-31T08:02:11.257Z"
+    },
+    {
+      "version": "0.42.2023102703",
+      "flags": "validated",
+      "lastUpdated": "2023-10-27T03:08:52.65Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages"
+  ],
+  "tags": [
+    "Java",
+    "Maven"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2024072906/vspackage",
+  "filename": "vscjava.vscode-maven-0.44.2024072906.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven"
+}

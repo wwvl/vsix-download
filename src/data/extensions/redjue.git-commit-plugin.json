@@ -1,0 +1,52 @@
+{
+  "extension_id": "04270998-5ec4-47ab-abad-46e2d14ee590",
+  "extension_name": "git-commit-plugin",
+  "extension_full_name": "redjue.git-commit-plugin",
+  "display_name": "git-commit-plugin",
+  "short_description": "Automatically generate git commit",
+  "latest_version": "1.5.0",
+  "last_updated": "2024-09-04T07:03:21.853Z",
+  "version_history": [
+    {
+      "version": "1.5.0",
+      "flags": "validated",
+      "lastUpdated": "2024-09-04T07:03:21.853Z"
+    },
+    {
+      "version": "1.4.0",
+      "flags": "validated",
+      "lastUpdated": "2024-05-23T09:04:00.843Z"
+    },
+    {
+      "version": "1.3.0",
+      "flags": "validated",
+      "lastUpdated": "2024-04-01T02:48:02.637Z"
+    },
+    {
+      "version": "1.2.1",
+      "flags": "validated",
+      "lastUpdated": "2023-10-13T07:21:56.923Z"
+    },
+    {
+      "version": "1.2.0",
+      "flags": "validated",
+      "lastUpdated": "2023-07-24T02:51:45.433Z"
+    },
+    {
+      "version": "1.1.2",
+      "flags": "validated",
+      "lastUpdated": "2022-12-12T03:21:24.513Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "commit",
+    "git",
+    "vscode"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redjue/vsextensions/git-commit-plugin/1.5.0/vspackage",
+  "filename": "redjue.git-commit-plugin-1.5.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin"
+}

@@ -1,0 +1,54 @@
+{
+  "extension_id": "de68ef52-c4dc-442f-b4d2-64ee29729c37",
+  "extension_name": "docs-preview",
+  "extension_full_name": "docsmsft.docs-preview",
+  "display_name": "learn-preview",
+  "short_description": "Learn Markdown Preview Extension",
+  "latest_version": "1.0.9",
+  "last_updated": "2024-09-19T03:20:51.31Z",
+  "version_history": [
+    {
+      "version": "1.0.9",
+      "flags": "validated",
+      "lastUpdated": "2024-09-19T03:20:51.31Z"
+    },
+    {
+      "version": "1.0.8",
+      "flags": "validated",
+      "lastUpdated": "2024-09-13T03:34:18.19Z"
+    },
+    {
+      "version": "1.0.7",
+      "flags": "validated",
+      "lastUpdated": "2024-05-14T20:07:17.057Z"
+    },
+    {
+      "version": "1.0.5",
+      "flags": "validated",
+      "lastUpdated": "2024-03-07T03:40:08.52Z"
+    },
+    {
+      "version": "1.0.3",
+      "flags": "validated",
+      "lastUpdated": "2023-08-02T16:27:40.907Z"
+    },
+    {
+      "version": "1.0.2",
+      "flags": "validated",
+      "lastUpdated": "2023-06-13T14:16:56.377Z"
+    }
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "tags": [
+    "commonmark",
+    "dfm",
+    "docfx",
+    "markdown",
+    "yaml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-preview/1.0.9/vspackage",
+  "filename": "docsmsft.docs-preview-1.0.9.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
+}

@@ -1,0 +1,79 @@
+{
+  "extension_id": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f",
+  "extension_name": "copilot-chat",
+  "extension_full_name": "GitHub.copilot-chat",
+  "display_name": "GitHub Copilot Chat",
+  "short_description": "AI chat features powered by Copilot",
+  "latest_version": "0.25.2025022001",
+  "last_updated": "2025-02-20T04:39:56.293Z",
+  "version_history": [
+    {
+      "version": "0.25.2025022001",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T04:39:56.293Z"
+    },
+    {
+      "version": "0.25.2025021901",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T04:31:43.467Z"
+    },
+    {
+      "version": "0.25.2025021801",
+      "flags": "validated",
+      "lastUpdated": "2025-02-18T04:30:22.39Z"
+    },
+    {
+      "version": "0.25.2025021701",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T04:31:19.553Z"
+    },
+    {
+      "version": "0.25.2025021401",
+      "flags": "validated",
+      "lastUpdated": "2025-02-14T04:29:06.933Z"
+    },
+    {
+      "version": "0.25.2025021301",
+      "flags": "validated",
+      "lastUpdated": "2025-02-13T04:28:26.517Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Machine Learning",
+    "AI",
+    "Chat"
+  ],
+  "tags": [
+    "ai",
+    "autocomplete",
+    "c#",
+    "c++",
+    "chat-participant",
+    "codex",
+    "co-pilot",
+    "documentation",
+    "github-copilot",
+    "go",
+    "golang",
+    "ignore",
+    "intellisense",
+    "java",
+    "javascript",
+    "json",
+    "keybindings",
+    "kotlin",
+    "markdown",
+    "openai",
+    "php",
+    "pilot",
+    "python",
+    "refactor",
+    "ruby",
+    "snippets",
+    "typescript"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022001/vspackage",
+  "filename": "GitHub.copilot-chat-0.25.2025022001.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
+}

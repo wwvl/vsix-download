@@ -1,0 +1,72 @@
+{
+  "extension_id": "4a23294b-fd16-4c51-9759-da9936474cf8",
+  "extension_name": "terraform",
+  "extension_full_name": "HashiCorp.terraform",
+  "display_name": "HashiCorp Terraform",
+  "short_description": "Syntax highlighting and autocompletion for Terraform",
+  "latest_version": "2.34.2025012311",
+  "last_updated": "2025-01-23T17:35:06.357Z",
+  "version_history": [
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:35:06.357Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:33:12.39Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:33:08.987Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:33:07.12Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:33:06.233Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:33:04.93Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Formatters"
+  ],
+  "tags": [
+    "devops",
+    "hcl",
+    "json",
+    "terraform",
+    "Terraform Deployment",
+    "Terraform Mock",
+    "Terraform Stack",
+    "Terraform Test",
+    "Terraform Version",
+    "terraform-deploy",
+    "terraform-mock",
+    "terraform-stack",
+    "terraform-test",
+    "terraform-vars",
+    "terraform-version"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HashiCorp/vsextensions/terraform/2.34.2025012311/vspackage",
+  "filename": "HashiCorp.terraform-2.34.2025012311.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform"
+}

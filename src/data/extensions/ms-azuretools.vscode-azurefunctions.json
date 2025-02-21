@@ -1,0 +1,34 @@
+{
+  "extension_id": "b3b6d55f-76f7-45dd-b1ec-6df13764db03",
+  "extension_name": "vscode-azurefunctions",
+  "extension_full_name": "ms-azuretools.vscode-azurefunctions",
+  "display_name": "Azure Functions",
+  "short_description": "An Azure Functions extension for Visual Studio Code.",
+  "latest_version": "1.16.2",
+  "last_updated": "2025-02-11T01:10:22.72Z",
+  "version_history": [
+    {
+      "version": "1.16.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T01:10:22.72Z"
+    },
+    {
+      "version": "1.16.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-10T18:38:50.953Z"
+    }
+  ],
+  "categories": [
+    "Azure"
+  ],
+  "tags": [
+    "Azure",
+    "Functions",
+    "json",
+    "multi-root ready",
+    "serverless"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.16.2/vspackage",
+  "filename": "ms-azuretools.vscode-azurefunctions-1.16.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
+}

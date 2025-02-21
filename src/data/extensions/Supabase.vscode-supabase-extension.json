@@ -1,0 +1,43 @@
+{
+  "extension_id": "2fd15774-7e16-4a26-8d43-6992110a6b72",
+  "extension_name": "vscode-supabase-extension",
+  "extension_full_name": "Supabase.vscode-supabase-extension",
+  "display_name": "Supabase",
+  "short_description": "Supabase Extension for VS Code and GitHub Copilot.",
+  "latest_version": "0.0.9",
+  "last_updated": "2024-09-10T19:24:08.99Z",
+  "version_history": [
+    {
+      "version": "0.0.9",
+      "flags": "validated",
+      "lastUpdated": "2024-09-10T19:24:08.99Z"
+    },
+    {
+      "version": "0.0.8",
+      "flags": "validated",
+      "lastUpdated": "2024-08-12T03:34:29.883Z"
+    },
+    {
+      "version": "0.0.7",
+      "flags": "validated",
+      "lastUpdated": "2024-08-08T08:21:12.24Z"
+    },
+    {
+      "version": "0.0.6",
+      "flags": "validated",
+      "lastUpdated": "2024-08-07T09:09:05.353Z"
+    }
+  ],
+  "categories": [
+    "AI",
+    "Chat"
+  ],
+  "tags": [
+    "Databases",
+    "Postgres",
+    "supabase"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.9/vspackage",
+  "filename": "Supabase.vscode-supabase-extension-0.0.9.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
+}

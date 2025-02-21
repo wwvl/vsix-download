@@ -1,0 +1,75 @@
+{
+  "extension_id": "0be0c393-8fd2-4ff8-9c13-e2789b45fc59",
+  "extension_name": "minifyall",
+  "extension_full_name": "josee9988.minifyall",
+  "display_name": "MinifyAll",
+  "short_description": "Minifier for JSON, CSS, HTML, XML, TWIG, LESS, SASS, SCSS, JavaScript, JSONC, and JavaScriptReact(testing). Compressor of files and folders. You will love its simplicity!",
+  "latest_version": "2.10.0",
+  "last_updated": "2021-10-21T14:24:56.747Z",
+  "version_history": [
+    {
+      "version": "2.10.0",
+      "flags": "validated",
+      "lastUpdated": "2021-10-21T14:24:56.747Z"
+    },
+    {
+      "version": "2.9.4",
+      "flags": "validated",
+      "lastUpdated": "2021-10-14T20:02:54.007Z"
+    },
+    {
+      "version": "2.9.3",
+      "flags": "validated",
+      "lastUpdated": "2021-09-20T15:22:58.183Z"
+    },
+    {
+      "version": "2.9.2",
+      "flags": "validated",
+      "lastUpdated": "2021-09-03T10:51:45.373Z"
+    },
+    {
+      "version": "2.9.1",
+      "flags": "validated",
+      "lastUpdated": "2021-08-13T14:20:56.167Z"
+    },
+    {
+      "version": "2.9.0",
+      "flags": "validated",
+      "lastUpdated": "2021-08-13T08:48:58.17Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Formatters"
+  ],
+  "tags": [
+    "compress",
+    "compressor",
+    "css",
+    "format",
+    "formatter",
+    "html",
+    "javascript",
+    "javascriptreact",
+    "js",
+    "json",
+    "jsonc",
+    "keybindings",
+    "less",
+    "minifier",
+    "minify",
+    "php",
+    "react",
+    "reduce",
+    "sass",
+    "scss",
+    "size",
+    "terser",
+    "ts",
+    "twig",
+    "xml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/josee9988/vsextensions/minifyall/2.10.0/vspackage",
+  "filename": "josee9988.minifyall-2.10.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=josee9988.minifyall"
+}

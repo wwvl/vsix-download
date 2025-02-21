@@ -1,0 +1,54 @@
+{
+  "extension_id": "2be7cf14-2603-402e-9771-fd79df83cdf8",
+  "extension_name": "cmake",
+  "extension_full_name": "twxs.cmake",
+  "display_name": "CMake",
+  "short_description": "CMake langage support for Visual Studio Code",
+  "latest_version": "0.0.17",
+  "last_updated": "2017-03-06T23:12:02.523Z",
+  "version_history": [
+    {
+      "version": "0.0.17",
+      "flags": "validated",
+      "lastUpdated": "2017-03-06T23:12:02.523Z"
+    },
+    {
+      "version": "0.0.15",
+      "flags": "validated",
+      "lastUpdated": "2016-05-10T22:31:20.18Z"
+    },
+    {
+      "version": "0.0.14",
+      "flags": "validated",
+      "lastUpdated": "2016-05-05T20:59:10.45Z"
+    },
+    {
+      "version": "0.0.13",
+      "flags": "validated",
+      "lastUpdated": "2016-04-16T06:31:11.57Z"
+    },
+    {
+      "version": "0.0.12",
+      "flags": "validated",
+      "lastUpdated": "2015-11-18T12:34:06.403Z"
+    },
+    {
+      "version": "0.0.11",
+      "flags": "validated",
+      "lastUpdated": "2015-11-18T08:55:58.267Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets"
+  ],
+  "tags": [
+    "CMake",
+    "CMake Cache",
+    "cmake-cache",
+    "Syntax"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/twxs/vsextensions/cmake/0.0.17/vspackage",
+  "filename": "twxs.cmake-0.0.17.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=twxs.cmake"
+}

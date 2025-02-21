@@ -1,0 +1,65 @@
+{
+  "extension_id": "1303f9b3-746c-42de-869c-5f72364302f5",
+  "extension_name": "oxc-vscode",
+  "extension_full_name": "oxc.oxc-vscode",
+  "display_name": "Oxc",
+  "short_description": "oxc vscode extension",
+  "latest_version": "0.15.11",
+  "last_updated": "2025-02-16T01:33:57.24Z",
+  "version_history": [
+    {
+      "version": "0.15.11",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T01:33:57.24Z"
+    },
+    {
+      "version": "0.15.11",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T01:33:13.953Z"
+    },
+    {
+      "version": "0.15.11",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T01:32:35.98Z"
+    },
+    {
+      "version": "0.15.11",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T01:32:35.52Z"
+    },
+    {
+      "version": "0.15.11",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T01:32:30.54Z"
+    },
+    {
+      "version": "0.15.11",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T01:32:27.377Z"
+    }
+  ],
+  "categories": [
+    "Linters"
+  ],
+  "tags": [
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "linter",
+    "oxc",
+    "svelte",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.15.11/vspackage",
+  "filename": "oxc.oxc-vscode-0.15.11.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
+}

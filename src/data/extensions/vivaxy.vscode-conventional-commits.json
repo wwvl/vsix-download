@@ -1,0 +1,58 @@
+{
+  "extension_id": "b6b26bce-33f4-4bce-bf92-89812388ed0a",
+  "extension_name": "vscode-conventional-commits",
+  "extension_full_name": "vivaxy.vscode-conventional-commits",
+  "display_name": "Conventional Commits",
+  "short_description": "💬Conventional Commits for VSCode.",
+  "latest_version": "1.26.0",
+  "last_updated": "2024-08-27T03:48:54.613Z",
+  "version_history": [
+    {
+      "version": "1.26.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-27T03:48:54.613Z"
+    },
+    {
+      "version": "1.25.0",
+      "flags": "validated",
+      "lastUpdated": "2022-12-30T11:30:38.3Z"
+    },
+    {
+      "version": "1.24.5",
+      "flags": "none",
+      "lastUpdated": "2022-12-30T09:35:50.677Z",
+      "validationResultMessage": "Error processing 'vivaxy.vscode-conventional-commits' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/version/vivaxy.vscode-conventional-commits.svg’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
+    },
+    {
+      "version": "1.24.4",
+      "flags": "validated",
+      "lastUpdated": "2022-12-09T01:42:26.357Z"
+    },
+    {
+      "version": "1.24.3",
+      "flags": "validated",
+      "lastUpdated": "2022-10-01T01:03:19.71Z"
+    },
+    {
+      "version": "1.24.2",
+      "flags": "validated",
+      "lastUpdated": "2022-08-23T02:09:35.407Z"
+    }
+  ],
+  "categories": [
+    "Snippets",
+    "SCM Providers"
+  ],
+  "tags": [
+    "commit",
+    "commitizen",
+    "conventional-changelog",
+    "conventional-commits",
+    "cz",
+    "gacp",
+    "git"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vivaxy/vsextensions/vscode-conventional-commits/1.26.0/vspackage",
+  "filename": "vivaxy.vscode-conventional-commits-1.26.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits"
+}

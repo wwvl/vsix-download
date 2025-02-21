@@ -1,0 +1,65 @@
+{
+  "extension_id": "7ad42776-8f7e-4214-bf67-4f0b518ef629",
+  "extension_name": "csdevkit",
+  "extension_full_name": "ms-dotnettools.csdevkit",
+  "display_name": "C# Dev Kit",
+  "short_description": "Official C# extension from Microsoft",
+  "latest_version": "1.17.27",
+  "last_updated": "2025-02-19T22:06:52.463Z",
+  "version_history": [
+    {
+      "version": "1.17.27",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:06:52.463Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:05:21.66Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:04:52.133Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:04:30.09Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:03:42.713Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:03:40.9Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters",
+    "Debuggers",
+    "Testing"
+  ],
+  "tags": [
+    "asp.net",
+    "c#",
+    "csharp",
+    "devkit",
+    "dotnet",
+    "json",
+    "keybindings"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.27/vspackage",
+  "filename": "ms-dotnettools.csdevkit-1.17.27.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
+}

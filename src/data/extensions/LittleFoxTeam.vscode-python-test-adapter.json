@@ -1,0 +1,54 @@
+{
+  "extension_id": "912fd5ae-d9f2-4c31-8a0b-d7fb669afbb4",
+  "extension_name": "vscode-python-test-adapter",
+  "extension_full_name": "LittleFoxTeam.vscode-python-test-adapter",
+  "display_name": "Python Test Explorer for Visual Studio Code",
+  "short_description": "Run your Python tests in the Sidebar of Visual Studio Code",
+  "latest_version": "0.8.2",
+  "last_updated": "2024-02-03T10:13:16.667Z",
+  "version_history": [
+    {
+      "version": "0.8.2",
+      "flags": "validated",
+      "lastUpdated": "2024-02-03T10:13:16.667Z"
+    },
+    {
+      "version": "0.8.1",
+      "flags": "validated",
+      "lastUpdated": "2023-09-25T19:55:44.49Z"
+    },
+    {
+      "version": "0.8.0",
+      "flags": "validated",
+      "lastUpdated": "2023-09-24T23:06:40.177Z"
+    },
+    {
+      "version": "0.7.1",
+      "flags": "validated",
+      "lastUpdated": "2022-04-14T21:43:33.897Z"
+    },
+    {
+      "version": "0.7.0",
+      "flags": "validated",
+      "lastUpdated": "2021-07-29T19:55:34.79Z"
+    },
+    {
+      "version": "0.6.8",
+      "flags": "validated",
+      "lastUpdated": "2021-04-18T09:46:38.75Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "pytest",
+    "python",
+    "test",
+    "testing",
+    "unittest"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LittleFoxTeam/vsextensions/vscode-python-test-adapter/0.8.2/vspackage",
+  "filename": "LittleFoxTeam.vscode-python-test-adapter-0.8.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter"
+}

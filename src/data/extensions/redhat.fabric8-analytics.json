@@ -1,0 +1,56 @@
+{
+  "extension_id": "efcb43ca-77e6-43e4-8ddc-ada617cb34bd",
+  "extension_name": "fabric8-analytics",
+  "extension_full_name": "redhat.fabric8-analytics",
+  "display_name": "Red Hat Dependency Analytics",
+  "short_description": "Provides insights on security vulnerabilities in your application dependencies.",
+  "latest_version": "0.9.5",
+  "last_updated": "2024-07-31T11:24:47.91Z",
+  "version_history": [
+    {
+      "version": "0.9.5",
+      "flags": "validated",
+      "lastUpdated": "2024-07-31T11:24:47.91Z"
+    },
+    {
+      "version": "0.9.4",
+      "flags": "validated",
+      "lastUpdated": "2024-03-26T11:06:18.46Z"
+    },
+    {
+      "version": "0.9.3",
+      "flags": "validated",
+      "lastUpdated": "2024-03-10T10:15:38.51Z"
+    },
+    {
+      "version": "0.9.2",
+      "flags": "validated",
+      "lastUpdated": "2024-02-06T07:47:13.3Z"
+    },
+    {
+      "version": "0.9.1",
+      "flags": "validated",
+      "lastUpdated": "2023-12-24T09:37:13.577Z"
+    },
+    {
+      "version": "0.9.0",
+      "flags": "validated",
+      "lastUpdated": "2023-12-21T09:49:57.283Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "CVE",
+    "dependency scan",
+    "java",
+    "multi-root ready",
+    "Node",
+    "Security",
+    "vulnerability"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/fabric8-analytics/0.9.5/vspackage",
+  "filename": "redhat.fabric8-analytics-0.9.5.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics"
+}

@@ -1,0 +1,51 @@
+{
+  "extension_id": "ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8",
+  "extension_name": "vscode-test-explorer",
+  "extension_full_name": "hbenl.vscode-test-explorer",
+  "display_name": "Test Explorer UI",
+  "short_description": "Run your tests in the Sidebar of Visual Studio Code",
+  "latest_version": "2.22.1",
+  "last_updated": "2024-09-22T08:59:33.53Z",
+  "version_history": [
+    {
+      "version": "2.22.1",
+      "flags": "validated",
+      "lastUpdated": "2024-09-22T08:59:33.53Z"
+    },
+    {
+      "version": "2.22.0",
+      "flags": "validated",
+      "lastUpdated": "2024-09-21T15:01:04.53Z"
+    },
+    {
+      "version": "2.21.1",
+      "flags": "validated",
+      "lastUpdated": "2021-08-29T17:02:05.177Z"
+    },
+    {
+      "version": "2.21.0",
+      "flags": "validated",
+      "lastUpdated": "2021-08-08T13:05:19.49Z"
+    },
+    {
+      "version": "2.20.4",
+      "flags": "validated",
+      "lastUpdated": "2021-06-13T16:54:06.373Z"
+    },
+    {
+      "version": "2.20.3",
+      "flags": "validated",
+      "lastUpdated": "2021-06-13T16:39:26.4Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "test",
+    "testing"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hbenl/vsextensions/vscode-test-explorer/2.22.1/vspackage",
+  "filename": "hbenl.vscode-test-explorer-2.22.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer"
+}

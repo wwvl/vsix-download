@@ -1,0 +1,82 @@
+{
+  "extension_id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+  "extension_name": "prettier-vscode",
+  "extension_full_name": "esbenp.prettier-vscode",
+  "display_name": "Prettier - Code formatter",
+  "short_description": "Code formatter using prettier",
+  "latest_version": "11.0.0",
+  "last_updated": "2024-08-14T15:16:38.6Z",
+  "version_history": [
+    {
+      "version": "11.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-14T15:16:38.6Z"
+    },
+    {
+      "version": "10.4.0",
+      "flags": "validated",
+      "lastUpdated": "2024-03-21T12:46:41.693Z"
+    },
+    {
+      "version": "10.3.0",
+      "flags": "validated",
+      "lastUpdated": "2024-03-21T02:12:10.577Z"
+    },
+    {
+      "version": "10.1.0",
+      "flags": "validated",
+      "lastUpdated": "2023-07-31T16:08:00.997Z"
+    },
+    {
+      "version": "10.0.0",
+      "flags": "validated",
+      "lastUpdated": "2023-07-31T14:48:55.34Z"
+    },
+    {
+      "version": "9.20.0",
+      "flags": "validated",
+      "lastUpdated": "2023-07-31T16:02:09.323Z"
+    }
+  ],
+  "categories": [
+    "Formatters"
+  ],
+  "tags": [
+    "angular",
+    "commonmark",
+    "css",
+    "ember",
+    "flow",
+    "formatter",
+    "glimmer",
+    "graphql",
+    "handlebars",
+    "html",
+    "ignore",
+    "javascript",
+    "js",
+    "json",
+    "jsx",
+    "less",
+    "markdown",
+    "md",
+    "mdx",
+    "multi-root ready",
+    "php",
+    "prettier",
+    "pug",
+    "ruby",
+    "scss",
+    "styled-components",
+    "styled-jsx",
+    "swift",
+    "ts",
+    "typescript",
+    "vue",
+    "yaml",
+    "yml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/esbenp/vsextensions/prettier-vscode/11.0.0/vspackage",
+  "filename": "esbenp.prettier-vscode-11.0.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+}

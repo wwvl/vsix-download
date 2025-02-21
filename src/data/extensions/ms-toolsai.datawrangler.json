@@ -1,0 +1,102 @@
+{
+  "extension_id": "de3960e6-b262-4565-8a1c-9870629f1ed9",
+  "extension_name": "datawrangler",
+  "extension_full_name": "ms-toolsai.datawrangler",
+  "display_name": "Data Wrangler",
+  "short_description": "Data viewing, cleaning and preparation for tabular datasets",
+  "latest_version": "1.19.2",
+  "last_updated": "2025-02-11T23:02:01.89Z",
+  "version_history": [
+    {
+      "version": "1.19.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T23:02:01.89Z"
+    },
+    {
+      "version": "1.19.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T23:42:12.027Z"
+    },
+    {
+      "version": "1.19.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-06T23:31:46.01Z"
+    },
+    {
+      "version": "1.18.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T20:51:23.93Z"
+    },
+    {
+      "version": "1.18.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T23:28:47.053Z"
+    },
+    {
+      "version": "1.18.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-06T23:32:13.8Z"
+    }
+  ],
+  "categories": [
+    "Data Science",
+    "Machine Learning"
+  ],
+  "tags": [
+    "Business Intelligence",
+    "charts",
+    "code generation",
+    "code generator",
+    "csv",
+    "data",
+    "data analysis",
+    "Data cleaning",
+    "data cleansing",
+    "data editor",
+    "data exploration",
+    "data export",
+    "data frame",
+    "data import",
+    "data prep",
+    "data preparation",
+    "data quality",
+    "Data Science",
+    "data summary",
+    "data table",
+    "data transformation",
+    "data viewer",
+    "data visualization",
+    "data wrangling",
+    "dataframe",
+    "dataset",
+    "data-wrangler",
+    "EDA",
+    "ETL",
+    "excel",
+    "Exploratory Data Analysis",
+    "graphs",
+    "grid",
+    "insights",
+    "jsonl",
+    "Jupyter",
+    "Jupyter Notebook",
+    "jupyterVariableViewers",
+    "keybindings",
+    "numpy",
+    "pandas",
+    "parquet",
+    "plots",
+    "power query",
+    "python",
+    "spreadsheet",
+    "Stata",
+    "table",
+    "tsv",
+    "visualization",
+    "xls",
+    "xlsx"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.19.2/vspackage",
+  "filename": "ms-toolsai.datawrangler-1.19.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
+}

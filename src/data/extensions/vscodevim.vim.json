@@ -1,0 +1,54 @@
+{
+  "extension_id": "d96e79c6-8b25-4be3-8545-0e0ecefcae03",
+  "extension_name": "vim",
+  "extension_full_name": "vscodevim.vim",
+  "display_name": "Vim",
+  "short_description": "Vim emulation for Visual Studio Code",
+  "latest_version": "1.29.0",
+  "last_updated": "2024-12-05T00:57:19.22Z",
+  "version_history": [
+    {
+      "version": "1.29.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-05T00:57:19.22Z"
+    },
+    {
+      "version": "1.28.1",
+      "flags": "validated",
+      "lastUpdated": "2024-09-07T16:46:04.917Z"
+    },
+    {
+      "version": "1.28.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-26T03:51:16.63Z"
+    },
+    {
+      "version": "1.27.3",
+      "flags": "validated",
+      "lastUpdated": "2024-05-21T01:14:43Z"
+    },
+    {
+      "version": "1.27.2",
+      "flags": "validated",
+      "lastUpdated": "2023-12-23T02:00:25.297Z"
+    },
+    {
+      "version": "1.27.1",
+      "flags": "validated",
+      "lastUpdated": "2023-11-22T21:31:58.257Z"
+    }
+  ],
+  "categories": [
+    "Keymaps"
+  ],
+  "tags": [
+    "keybindings",
+    "vi",
+    "vim",
+    "Vimscript",
+    "vscodevim"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.29.0/vspackage",
+  "filename": "vscodevim.vim-1.29.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
+}

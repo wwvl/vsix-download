@@ -1,0 +1,55 @@
+{
+  "extension_id": "0cfb9d1d-3e59-4c36-a597-157b54e4442b",
+  "extension_name": "gistfs",
+  "extension_full_name": "vsls-contrib.gistfs",
+  "display_name": "GistPad",
+  "short_description": "Manage your code snippets and developer notes using GitHub Gists and repositories.",
+  "latest_version": "0.7.0",
+  "last_updated": "2025-02-16T19:03:43.783Z",
+  "version_history": [
+    {
+      "version": "0.7.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-16T19:03:43.783Z"
+    },
+    {
+      "version": "0.6.0",
+      "flags": "validated",
+      "lastUpdated": "2023-11-19T21:25:55.01Z"
+    },
+    {
+      "version": "0.4.1",
+      "flags": "validated",
+      "lastUpdated": "2022-04-25T23:05:04.313Z"
+    },
+    {
+      "version": "0.4.0",
+      "flags": "validated",
+      "lastUpdated": "2022-04-15T15:42:06.14Z"
+    },
+    {
+      "version": "0.3.0",
+      "flags": "validated",
+      "lastUpdated": "2021-07-06T20:42:49.07Z"
+    },
+    {
+      "version": "0.2.9",
+      "flags": "validated",
+      "lastUpdated": "2021-06-16T04:15:16.187Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "gist",
+    "github",
+    "json",
+    "notes",
+    "snippets",
+    "wiki"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.7.0/vspackage",
+  "filename": "vsls-contrib.gistfs-0.7.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
+}

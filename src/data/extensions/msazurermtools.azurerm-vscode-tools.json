@@ -1,0 +1,62 @@
+{
+  "extension_id": "6bbbdb2c-957f-4af7-8257-6f5e68e15bad",
+  "extension_name": "azurerm-vscode-tools",
+  "extension_full_name": "msazurermtools.azurerm-vscode-tools",
+  "display_name": "Azure Resource Manager (ARM) Tools",
+  "short_description": "Language server, editing tools and snippets for Azure Resource Manager (ARM) template files.",
+  "latest_version": "0.15.14",
+  "last_updated": "2024-12-03T00:50:51.047Z",
+  "version_history": [
+    {
+      "version": "0.15.14",
+      "flags": "validated",
+      "lastUpdated": "2024-12-03T00:50:51.047Z"
+    },
+    {
+      "version": "0.15.13",
+      "flags": "validated",
+      "lastUpdated": "2024-11-01T00:57:49.333Z"
+    },
+    {
+      "version": "0.15.12",
+      "flags": "validated",
+      "lastUpdated": "2024-07-25T21:52:35.377Z"
+    },
+    {
+      "version": "0.15.11",
+      "flags": "validated",
+      "lastUpdated": "2023-09-05T20:26:39.393Z"
+    },
+    {
+      "version": "0.15.10",
+      "flags": "validated",
+      "lastUpdated": "2023-03-23T19:32:37.73Z"
+    },
+    {
+      "version": "0.15.9",
+      "flags": "validated",
+      "lastUpdated": "2023-03-22T22:08:37.387Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Formatters",
+    "Azure"
+  ],
+  "tags": [
+    "ARM",
+    "arm-template",
+    "Azure",
+    "Azure Resource Manager Template",
+    "Azure Template",
+    "json",
+    "jsonc",
+    "Resource Manager",
+    "Snippets"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/msazurermtools/vsextensions/azurerm-vscode-tools/0.15.14/vspackage",
+  "filename": "msazurermtools.azurerm-vscode-tools-0.15.14.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools"
+}

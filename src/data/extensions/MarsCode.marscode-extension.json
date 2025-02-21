@@ -1,0 +1,79 @@
+{
+  "extension_id": "f290d85b-b5cc-451c-a3a0-9cdf457cdbad",
+  "extension_name": "marscode-extension",
+  "extension_full_name": "MarsCode.marscode-extension",
+  "display_name": "MarsCode AI: Coding Assistant",
+  "short_description": "Code and Innovate Faster with AI",
+  "latest_version": "1.1.63",
+  "last_updated": "2025-02-20T15:41:58.463Z",
+  "version_history": [
+    {
+      "version": "1.1.63",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T15:41:58.463Z"
+    },
+    {
+      "version": "1.1.62",
+      "flags": "validated",
+      "lastUpdated": "2025-02-18T13:50:56.79Z"
+    },
+    {
+      "version": "1.1.61",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T12:39:09.06Z"
+    },
+    {
+      "version": "1.1.60",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T03:18:12.9Z"
+    },
+    {
+      "version": "1.1.59",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T07:47:03.6Z"
+    },
+    {
+      "version": "1.1.58",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T12:19:25.523Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Machine Learning",
+    "Education"
+  ],
+  "tags": [
+    "ai",
+    "AI 编程助手",
+    "autocomplete",
+    "C#",
+    "C++",
+    "code-referencing",
+    "co-pilot",
+    "cpp",
+    "documentation",
+    "go",
+    "golang",
+    "html",
+    "intellisense",
+    "java",
+    "javascript",
+    "keybindings",
+    "kotlin",
+    "llm",
+    "marscode",
+    "php",
+    "pilot",
+    "python",
+    "refactor",
+    "ruby",
+    "snippets",
+    "typescript",
+    "豆包"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.63/vspackage",
+  "filename": "MarsCode.marscode-extension-1.1.63.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
+}

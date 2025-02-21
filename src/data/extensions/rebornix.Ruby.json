@@ -1,0 +1,60 @@
+{
+  "extension_id": "ae062c8a-c68e-4b92-9ecf-8f1d4288b05d",
+  "extension_name": "Ruby",
+  "extension_full_name": "rebornix.Ruby",
+  "display_name": "Ruby",
+  "short_description": "Ruby language support and debugging for Visual Studio Code",
+  "latest_version": "0.28.1",
+  "last_updated": "2021-01-08T00:04:34.697Z",
+  "version_history": [
+    {
+      "version": "0.28.1",
+      "flags": "validated",
+      "lastUpdated": "2021-01-08T00:04:34.697Z"
+    },
+    {
+      "version": "0.28.0",
+      "flags": "validated",
+      "lastUpdated": "2021-01-05T23:59:09.97Z"
+    },
+    {
+      "version": "0.27.0",
+      "flags": "validated",
+      "lastUpdated": "2020-03-01T21:59:56.213Z"
+    },
+    {
+      "version": "0.26.0",
+      "flags": "validated",
+      "lastUpdated": "2019-11-19T19:48:33.477Z"
+    },
+    {
+      "version": "0.25.3",
+      "flags": "validated",
+      "lastUpdated": "2019-09-04T13:05:17.89Z"
+    },
+    {
+      "version": "0.25.2",
+      "flags": "validated",
+      "lastUpdated": "2019-09-03T12:39:23.067Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers",
+    "Formatters"
+  ],
+  "tags": [
+    "Bundler",
+    "debuggers",
+    "Encapsulated Ruby",
+    "erb",
+    "gemfile",
+    "ignore",
+    "ruby"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rebornix/vsextensions/Ruby/0.28.1/vspackage",
+  "filename": "rebornix.Ruby-0.28.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby"
+}

@@ -1,0 +1,67 @@
+{
+  "extension_id": "ad94c633-a9d5-4f78-b85f-c664e7d91a0f",
+  "extension_name": "claude-dev",
+  "extension_full_name": "saoudrizwan.claude-dev",
+  "display_name": "Cline",
+  "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
+  "latest_version": "3.4.5",
+  "last_updated": "2025-02-20T07:48:25.03Z",
+  "version_history": [
+    {
+      "version": "3.4.5",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:48:25.03Z"
+    },
+    {
+      "version": "3.4.4",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T03:02:27.683Z"
+    },
+    {
+      "version": "3.4.3",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T02:13:26.973Z"
+    },
+    {
+      "version": "3.4.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T23:11:27.01Z"
+    },
+    {
+      "version": "3.4.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T18:04:29.073Z"
+    },
+    {
+      "version": "3.4.0",
+      "flags": "none",
+      "lastUpdated": "2025-02-19T17:21:43.7Z",
+      "validationResultMessage": "Something went wrong, please retry after sometime."
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Education",
+    "Testing",
+    "AI",
+    "Chat"
+  ],
+  "tags": [
+    "agent",
+    "AI",
+    "autonomous",
+    "chatgpt",
+    "Claude",
+    "cline",
+    "coding",
+    "dev",
+    "llama",
+    "mcp",
+    "openrouter",
+    "sonnet"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.5/vspackage",
+  "filename": "saoudrizwan.claude-dev-3.4.5.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
+}

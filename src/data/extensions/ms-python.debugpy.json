@@ -1,0 +1,59 @@
+{
+  "extension_id": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615",
+  "extension_name": "debugpy",
+  "extension_full_name": "ms-python.debugpy",
+  "display_name": "Python Debugger",
+  "short_description": "Python Debugger extension using debugpy.",
+  "latest_version": "2025.1.2025021701",
+  "last_updated": "2025-02-17T10:38:36.443Z",
+  "version_history": [
+    {
+      "version": "2025.1.2025021701",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T10:38:36.443Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T10:38:31.25Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T10:38:29.72Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T10:38:26.517Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T10:37:29.917Z"
+    },
+    {
+      "version": "2025.1.2025021701",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T10:37:27.3Z"
+    }
+  ],
+  "categories": [
+    "Debuggers"
+  ],
+  "tags": [
+    "debugger",
+    "debuggers",
+    "debugpy",
+    "python"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.1.2025021701/vspackage",
+  "filename": "ms-python.debugpy-2025.1.2025021701.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
+}

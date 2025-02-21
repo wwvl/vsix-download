@@ -1,0 +1,57 @@
+{
+  "extension_id": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
+  "extension_name": "vscode-remote-extensionpack",
+  "extension_full_name": "ms-vscode-remote.vscode-remote-extensionpack",
+  "display_name": "Remote Development",
+  "short_description": "An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.",
+  "latest_version": "0.26.0",
+  "last_updated": "2024-10-24T14:02:38.103Z",
+  "version_history": [
+    {
+      "version": "0.26.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-24T14:02:38.103Z"
+    },
+    {
+      "version": "0.25.0",
+      "flags": "validated",
+      "lastUpdated": "2023-11-29T10:12:35.403Z"
+    },
+    {
+      "version": "0.24.0",
+      "flags": "validated",
+      "lastUpdated": "2023-02-17T08:51:35.17Z"
+    },
+    {
+      "version": "0.23.0",
+      "flags": "validated",
+      "lastUpdated": "2022-11-09T14:06:21.013Z"
+    },
+    {
+      "version": "0.22.0",
+      "flags": "validated",
+      "lastUpdated": "2022-11-09T09:29:42.033Z"
+    },
+    {
+      "version": "0.21.0",
+      "flags": "validated",
+      "lastUpdated": "2021-05-11T17:49:52.777Z"
+    }
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "tags": [
+    "containers",
+    "dev container",
+    "development container",
+    "docker",
+    "remote",
+    "remote development",
+    "ssh",
+    "wsl"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/vscode-remote-extensionpack/0.26.0/vspackage",
+  "filename": "ms-vscode-remote.vscode-remote-extensionpack-0.26.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"
+}

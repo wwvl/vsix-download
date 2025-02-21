@@ -1,0 +1,32 @@
+{
+  "extension_id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+  "extension_name": "dotenv",
+  "extension_full_name": "mikestead.dotenv",
+  "display_name": "DotENV",
+  "short_description": "Support for dotenv file syntax",
+  "latest_version": "1.0.1",
+  "last_updated": "2018-03-01T09:01:09.573Z",
+  "version_history": [
+    {
+      "version": "1.0.1",
+      "flags": "validated",
+      "lastUpdated": "2018-03-01T09:01:09.573Z"
+    },
+    {
+      "version": "1.0.0",
+      "flags": "validated",
+      "lastUpdated": "2017-01-16T23:41:39.093Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages"
+  ],
+  "tags": [
+    "dotenv",
+    "env",
+    "Environment Variables"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mikestead/vsextensions/dotenv/1.0.1/vspackage",
+  "filename": "mikestead.dotenv-1.0.1.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv"
+}

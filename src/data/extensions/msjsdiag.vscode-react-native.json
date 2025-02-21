@@ -1,0 +1,54 @@
+{
+  "extension_id": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3",
+  "extension_name": "vscode-react-native",
+  "extension_full_name": "msjsdiag.vscode-react-native",
+  "display_name": "React Native Tools",
+  "short_description": "Debugging and integrated commands for React Native",
+  "latest_version": "1.13.0",
+  "last_updated": "2024-03-25T00:51:19.663Z",
+  "version_history": [
+    {
+      "version": "1.13.0",
+      "flags": "validated",
+      "lastUpdated": "2024-03-25T00:51:19.663Z"
+    },
+    {
+      "version": "1.12.3",
+      "flags": "validated",
+      "lastUpdated": "2024-01-30T02:47:38.063Z"
+    },
+    {
+      "version": "1.12.2",
+      "flags": "validated",
+      "lastUpdated": "2023-11-17T02:47:10.487Z"
+    },
+    {
+      "version": "1.12.1",
+      "flags": "validated",
+      "lastUpdated": "2023-09-27T05:43:34.763Z"
+    },
+    {
+      "version": "1.12.0",
+      "flags": "validated",
+      "lastUpdated": "2023-09-20T03:05:19.093Z"
+    },
+    {
+      "version": "1.11.2",
+      "flags": "validated",
+      "lastUpdated": "2023-08-01T02:21:07.597Z"
+    }
+  ],
+  "categories": [
+    "Debuggers"
+  ],
+  "tags": [
+    "debuggers",
+    "expo",
+    "javascript",
+    "multi-root ready",
+    "react-native"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/msjsdiag/vsextensions/vscode-react-native/1.13.0/vspackage",
+  "filename": "msjsdiag.vscode-react-native-1.13.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native"
+}

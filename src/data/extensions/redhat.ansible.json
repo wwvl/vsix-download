@@ -1,0 +1,58 @@
+{
+  "extension_id": "f8cb4642-bc5c-46a1-be34-0977e817406c",
+  "extension_name": "ansible",
+  "extension_full_name": "redhat.ansible",
+  "display_name": "Ansible",
+  "short_description": "Ansible language support",
+  "latest_version": "25.2.0",
+  "last_updated": "2025-02-13T19:39:10.95Z",
+  "version_history": [
+    {
+      "version": "25.2.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-13T19:39:10.95Z"
+    },
+    {
+      "version": "25.1.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T19:43:13.89Z"
+    },
+    {
+      "version": "24.12.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-06T16:32:14.453Z"
+    },
+    {
+      "version": "24.12.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-05T19:28:12.667Z"
+    },
+    {
+      "version": "24.10.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-02T17:43:22.98Z"
+    },
+    {
+      "version": "24.9.8875968",
+      "flags": "validated",
+      "lastUpdated": "2024-10-02T17:10:29.12Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Linters"
+  ],
+  "tags": [
+    "ansible",
+    "ansible-jinja",
+    "autocompletion",
+    "json",
+    "keybindings",
+    "validation",
+    "yaml",
+    "yml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.2.0/vspackage",
+  "filename": "redhat.ansible-25.2.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
+}

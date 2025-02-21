@@ -1,0 +1,59 @@
+{
+  "extension_id": "85668beb-15e7-48c4-86a1-6a02f3133292",
+  "extension_name": "comment-translate",
+  "extension_full_name": "intellsmi.comment-translate",
+  "display_name": "Comment Translate",
+  "short_description": "This extension helps developers translate comments, strings, code hints, error messages, and variable names in their code.",
+  "latest_version": "3.0.0",
+  "last_updated": "2024-09-19T11:46:51.69Z",
+  "version_history": [
+    {
+      "version": "3.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-09-19T11:46:51.69Z"
+    },
+    {
+      "version": "2.3.3",
+      "flags": "validated",
+      "lastUpdated": "2023-12-10T13:31:25.327Z"
+    },
+    {
+      "version": "2.3.2",
+      "flags": "validated",
+      "lastUpdated": "2023-09-16T02:53:09.91Z"
+    },
+    {
+      "version": "2.3.1",
+      "flags": "validated",
+      "lastUpdated": "2023-07-12T12:59:05.433Z"
+    },
+    {
+      "version": "2.3.0",
+      "flags": "validated",
+      "lastUpdated": "2023-06-13T12:55:48.92Z"
+    },
+    {
+      "version": "2.2.4",
+      "flags": "validated",
+      "lastUpdated": "2022-06-29T11:30:15.48Z"
+    }
+  ],
+  "categories": [
+    "AI",
+    "Chat"
+  ],
+  "tags": [
+    "comment",
+    "GitHub Copilot Chat Participant",
+    "google translate",
+    "hover",
+    "keybindings",
+    "translate",
+    "注释",
+    "翻訳",
+    "翻译"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/intellsmi/vsextensions/comment-translate/3.0.0/vspackage",
+  "filename": "intellsmi.comment-translate-3.0.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate"
+}

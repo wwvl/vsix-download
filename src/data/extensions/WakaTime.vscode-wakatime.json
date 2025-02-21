@@ -1,0 +1,69 @@
+{
+  "extension_id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
+  "extension_name": "vscode-wakatime",
+  "extension_full_name": "WakaTime.vscode-wakatime",
+  "display_name": "WakaTime",
+  "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
+  "latest_version": "25.0.0",
+  "last_updated": "2024-12-20T08:45:13.613Z",
+  "version_history": [
+    {
+      "version": "25.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T08:45:13.613Z"
+    },
+    {
+      "version": "24.9.2",
+      "flags": "validated",
+      "lastUpdated": "2024-12-05T13:07:18.187Z"
+    },
+    {
+      "version": "24.9.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-22T13:19:29.307Z"
+    },
+    {
+      "version": "24.9.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-22T10:16:48.537Z"
+    },
+    {
+      "version": "24.8.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-15T12:38:11.737Z"
+    },
+    {
+      "version": "24.7.2",
+      "flags": "validated",
+      "lastUpdated": "2024-11-07T14:26:53.023Z"
+    }
+  ],
+  "categories": [
+    "Visualization",
+    "Education"
+  ],
+  "tags": [
+    "analytics",
+    "code",
+    "code time",
+    "codetime",
+    "flow",
+    "focus",
+    "metrics",
+    "productivity",
+    "slack",
+    "standup",
+    "time",
+    "time tracker",
+    "time tracking",
+    "timer",
+    "todo",
+    "tracker",
+    "tracking",
+    "wakatime",
+    "worktime"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.0.0/vspackage",
+  "filename": "WakaTime.vscode-wakatime-25.0.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
+}

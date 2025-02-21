@@ -1,0 +1,89 @@
+{
+  "extension_id": "5e8803a2-3dc8-42b3-9c5f-ea9d37828c03",
+  "extension_name": "cloudcode",
+  "extension_full_name": "GoogleCloudTools.cloudcode",
+  "display_name": "Google Cloud Code",
+  "short_description": "Tools for Google Cloud",
+  "latest_version": "2.27.0",
+  "last_updated": "2025-02-20T06:37:36.71Z",
+  "version_history": [
+    {
+      "version": "2.27.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T06:37:36.71Z"
+    },
+    {
+      "version": "2.26.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T07:15:42.86Z"
+    },
+    {
+      "version": "2.25.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-22T21:26:06.13Z"
+    },
+    {
+      "version": "2.24.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-09T10:25:45.857Z"
+    },
+    {
+      "version": "2.23.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-10T22:50:42.373Z"
+    },
+    {
+      "version": "2.22.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-04T23:12:30.797Z"
+    }
+  ],
+  "categories": [
+    "Snippets",
+    "Linters",
+    "Debuggers"
+  ],
+  "tags": [
+    "AI Assistant",
+    "Apigee",
+    "Artifact Registry",
+    "BigQuery Datasets",
+    "BigQuery Notebooks",
+    "Cloud Build",
+    "Cloud Functions",
+    "Cloud Run",
+    "Cloud SDK",
+    "Cloud Storage",
+    "Code Completion",
+    "Code Generation",
+    "Compute Engine",
+    "Container Registry",
+    "Containers",
+    "Dataproc",
+    "debuggers",
+    "Docker",
+    "Duet",
+    "Duet AI",
+    "GCE",
+    "GCF",
+    "gcloud",
+    "GCP",
+    "Gemini Code Assist",
+    "Google",
+    "Google Cloud",
+    "ignore",
+    "json",
+    "k8s",
+    "knative",
+    "Kubernetes",
+    "LLM",
+    "Log",
+    "Minikube",
+    "Secret Manager",
+    "Skaffold",
+    "snippet"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.27.0/vspackage",
+  "filename": "GoogleCloudTools.cloudcode-2.27.0.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
+}

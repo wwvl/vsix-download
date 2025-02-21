@@ -1,0 +1,73 @@
+{
+  "extension_id": "b91906a1-03a8-46a2-9b63-bf81bc854a30",
+  "extension_name": "codegeex",
+  "extension_full_name": "aminer.codegeex",
+  "display_name": "CodeGeeX: AI Coding Assistant",
+  "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
+  "latest_version": "2.21.2",
+  "last_updated": "2025-02-20T05:53:42.437Z",
+  "version_history": [
+    {
+      "version": "2.21.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T05:53:42.437Z"
+    },
+    {
+      "version": "2.21.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T07:08:10.4Z"
+    },
+    {
+      "version": "2.21.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-20T02:30:58.903Z"
+    },
+    {
+      "version": "2.20.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-25T07:15:53.133Z"
+    },
+    {
+      "version": "2.20.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-23T13:16:38.97Z"
+    },
+    {
+      "version": "2.19.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-04T11:53:53.48Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Machine Learning"
+  ],
+  "tags": [
+    "ai",
+    "autocomplete",
+    "c#",
+    "c++",
+    "chat",
+    "chatglm",
+    "code explanation",
+    "code generation",
+    "codegeex",
+    "glm",
+    "go",
+    "inline completion",
+    "java",
+    "javascript",
+    "keybindings",
+    "php",
+    "python",
+    "typescript",
+    "zhipu",
+    "zhipu ai",
+    "智谱",
+    "智谱AI"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.21.2/vspackage",
+  "filename": "aminer.codegeex-2.21.2.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
+}

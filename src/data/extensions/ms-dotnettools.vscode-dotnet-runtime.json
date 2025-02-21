@@ -1,0 +1,54 @@
+{
+  "extension_id": "1aab81a1-b3d9-4aef-976b-577d5d90fe3f",
+  "extension_name": "vscode-dotnet-runtime",
+  "extension_full_name": "ms-dotnettools.vscode-dotnet-runtime",
+  "display_name": ".NET Install Tool",
+  "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
+  "latest_version": "2.2.8",
+  "last_updated": "2025-02-11T21:26:18.447Z",
+  "version_history": [
+    {
+      "version": "2.2.8",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T21:26:18.447Z"
+    },
+    {
+      "version": "2.2.7",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T17:55:23.243Z"
+    },
+    {
+      "version": "2.2.6",
+      "flags": "validated",
+      "lastUpdated": "2025-01-28T19:48:17.32Z"
+    },
+    {
+      "version": "2.2.5",
+      "flags": "validated",
+      "lastUpdated": "2025-01-14T18:43:16.61Z"
+    },
+    {
+      "version": "2.2.4",
+      "flags": "validated",
+      "lastUpdated": "2025-01-13T18:23:35.753Z"
+    },
+    {
+      "version": "2.2.3",
+      "flags": "validated",
+      "lastUpdated": "2024-11-14T20:10:48.11Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    ".NET",
+    ".NET Core",
+    "dotnet",
+    "Extension Authoring",
+    "runtime"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.2.8/vspackage",
+  "filename": "ms-dotnettools.vscode-dotnet-runtime-2.2.8.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
+}

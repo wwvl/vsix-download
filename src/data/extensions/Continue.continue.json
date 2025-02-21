@@ -1,0 +1,75 @@
+{
+  "extension_id": "c8d442ab-9ee3-4891-a5b0-994f14f54c94",
+  "extension_name": "continue",
+  "extension_full_name": "Continue.continue",
+  "display_name": "Continue - Codestral, Claude, and more",
+  "short_description": "The leading open-source AI code assistant",
+  "latest_version": "0.9.269",
+  "last_updated": "2025-02-20T07:26:16.33Z",
+  "version_history": [
+    {
+      "version": "0.9.269",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:26:16.33Z"
+    },
+    {
+      "version": "0.9.269",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:23:08.533Z"
+    },
+    {
+      "version": "0.9.269",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:20:37.72Z"
+    },
+    {
+      "version": "0.9.269",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:19:47.353Z"
+    },
+    {
+      "version": "0.9.269",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:19:33.65Z"
+    },
+    {
+      "version": "0.9.269",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-20T07:19:28.113Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Machine Learning",
+    "Education",
+    "AI",
+    "Chat"
+  ],
+  "tags": [
+    "ai",
+    "chatgpt",
+    "claude",
+    "codegpt",
+    "codestral",
+    "copilot",
+    "github",
+    "json",
+    "jsonc",
+    "keybindings",
+    "llama",
+    "mistral",
+    "Prompt Language",
+    "promptLanguage",
+    "sonnet"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.269/vspackage",
+  "filename": "Continue.continue-0.9.269.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
+}

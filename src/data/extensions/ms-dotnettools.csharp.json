@@ -1,0 +1,75 @@
+{
+  "extension_id": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff",
+  "extension_name": "csharp",
+  "extension_full_name": "ms-dotnettools.csharp",
+  "display_name": "C#",
+  "short_description": "Base language support for C#",
+  "latest_version": "2.65.29",
+  "last_updated": "2025-02-12T19:00:36.34Z",
+  "version_history": [
+    {
+      "version": "2.65.29",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T19:00:36.34Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T19:00:24.087Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T19:00:19.39Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T19:00:02.297Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T18:59:44.567Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T18:59:23.593Z"
+    }
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Linters",
+    "Debuggers"
+  ],
+  "tags": [
+    ".NET",
+    ".NET Core",
+    "ASP.NET",
+    "ASP.NET Razor",
+    "aspnetcorerazor",
+    "C#",
+    "color-theme",
+    "coreclr",
+    "csharp",
+    "debuggers",
+    "dotnet",
+    "json",
+    "keybindings",
+    "multi-root ready",
+    "snippet",
+    "theme",
+    "xaml"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.65.29/vspackage",
+  "filename": "ms-dotnettools.csharp-2.65.29.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
+}

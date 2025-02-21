@@ -1,0 +1,52 @@
+{
+  "extension_id": "7540cfc1-1044-4696-a0a3-c53d6f4e8cd4",
+  "extension_name": "vsleet",
+  "extension_full_name": "nikhilweee.vsleet",
+  "display_name": "vsleet",
+  "short_description": "Submit LeetCode problems directly from VSCode",
+  "latest_version": "0.2.8",
+  "last_updated": "2025-02-17T07:38:07.213Z",
+  "version_history": [
+    {
+      "version": "0.2.8",
+      "flags": "validated",
+      "lastUpdated": "2025-02-17T07:38:07.213Z"
+    },
+    {
+      "version": "0.2.5",
+      "flags": "validated",
+      "lastUpdated": "2024-11-30T01:47:31.13Z"
+    },
+    {
+      "version": "0.2.4",
+      "flags": "validated",
+      "lastUpdated": "2024-11-20T03:16:39.5Z"
+    },
+    {
+      "version": "0.2.3",
+      "flags": "validated",
+      "lastUpdated": "2024-11-18T08:26:51.1Z"
+    },
+    {
+      "version": "0.2.2",
+      "flags": "validated",
+      "lastUpdated": "2024-11-18T07:43:44.943Z"
+    },
+    {
+      "version": "0.2.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-18T06:17:57.28Z"
+    }
+  ],
+  "categories": [
+    "Other"
+  ],
+  "tags": [
+    "keybindings",
+    "leetcode",
+    "python"
+  ],
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nikhilweee/vsextensions/vsleet/0.2.8/vspackage",
+  "filename": "nikhilweee.vsleet-0.2.8.vsix",
+  "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=nikhilweee.vsleet"
+}
