@@ -227,7 +227,18 @@
         class="transform shadow-sm transition-all duration-300 hover:scale-[1.01]"
       />
 
-      <div class="flex items-center justify-end gap-4">
+      <div class="flex items-center justify-between gap-4">
+        <UButton
+          :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
+          color="neutral"
+          variant="outline"
+          icon="i-carbon-copy"
+          class="transform transition-all duration-300 hover:scale-[1.02]"
+          @click="copySelectedExtensionIds"
+        >
+          复制选中的扩展 ID
+        </UButton>
+
         <UDropdownMenu
           :items="
             table?.tableApi
@@ -249,17 +260,6 @@
         >
           <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" class="transform shadow-sm transition-all duration-300 hover:scale-[1.02]" />
         </UDropdownMenu>
-
-        <UButton
-          v-if="table?.tableApi?.getFilteredSelectedRowModel().rows.length"
-          color="primary"
-          variant="solid"
-          icon="i-carbon-copy"
-          class="transform transition-all duration-300 hover:scale-[1.02]"
-          @click="copySelectedExtensionIds"
-        >
-          复制选中的扩展 ID
-        </UButton>
       </div>
 
       <UTable
