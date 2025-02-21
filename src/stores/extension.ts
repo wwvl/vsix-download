@@ -1,65 +1,125 @@
 import type { Extension } from '@/types/extension'
+import { supabase } from '@/composables/useSupabase'
 import { defineStore } from 'pinia'
+import { ref } from 'vue'
 
-export const useExtensionStore = defineStore('extension', {
-  state: () => ({
-    extensions: [] as Extension[],
-    loading: false,
-    error: null as string | null,
-    searchQuery: '',
-    selectedCategories: [] as string[],
-    currentPage: 1,
-    pageSize: 12,
-  }),
+export const useExtensionStore = defineStore(
+  'extension',
+  () => {
+    const extensions = ref<Extension[]>([])
+    const loading = ref(false)
+    const error = ref<Error | null>(null)
 
-  getters: {
-    allCategories(): string[] {
-      const categories = new Set<string>()
-      this.extensions.forEach((ext) => ext.categories.forEach((cat) => categories.add(cat)))
-      return Array.from(categories).sort()
-    },
-
-    filteredExtensions(): Extension[] {
-      return this.extensions.filter((ext) => {
-        const matchesSearch = !this.searchQuery || ext.displayName.toLowerCase().includes(this.searchQuery.toLowerCase()) || ext.shortDescription.toLowerCase().includes(this.searchQuery.toLowerCase())
-
-        const matchesCategories = !this.selectedCategories.length || ext.categories.some((cat) => this.selectedCategories.includes(cat))
-
-        return matchesSearch && matchesCategories
-      })
-    },
-
-    paginatedExtensions(): Extension[] {
-      const start = (this.currentPage - 1) * this.pageSize
-      return this.filteredExtensions.slice(start, start + this.pageSize)
-    },
-
-    totalPages(): number {
-      return Math.ceil(this.filteredExtensions.length / this.pageSize)
-    },
-  },
-
-  actions: {
-    async fetchExtensions() {
-      this.loading = true
-      this.error = null
-
-      try {
-        const modules = import.meta.glob<{ default: Extension }>('../data/*.json')
-        const results = await Promise.all(
-          Object.entries(modules).map(async ([_path, loader]) => {
-            const module = await loader()
-            return module.default
-          }),
-        )
-
-        this.extensions = results.filter(Boolean)
-      } catch (error) {
-        console.error('Failed to fetch extensions:', error)
-        this.error = error instanceof Error ? error.message : '加载扩展数据失败'
-      } finally {
-        this.loading = false
+    function validateAndTransformExtension(data: any): Extension {
+      if (!data.extension_name || !data.extension_id || !data.display_name) {
+        throw new Error('Invalid extension data: missing required fields')
       }
-    },
+
+      return {
+        id: data.id,
+        extension_id: data.extension_id,
+        extension_name: data.extension_name,
+        extension_full_name: data.extension_full_name,
+        display_name: data.display_name,
+        short_description: data.short_description,
+        latest_version: data.latest_version || 'unknown',
+        last_updated: data.last_updated,
+        version_history: data.version_history || [],
+        categories: data.categories || [],
+        tags: data.tags || [],
+        download_url: data.download_url,
+        filename: data.filename,
+        marketplace_url: data.marketplace_url,
+      }
+    }
+
+    async function fetchExtensions() {
+      loading.value = true
+      error.value = null
+      try {
+        const { data, error: err } = await supabase.from('extensions').select('*').order('last_updated', { ascending: false })
+
+        if (err) {
+          console.error('Supabase error:', err)
+          throw err
+        }
+
+        if (!data) {
+          console.warn('No data returned from Supabase')
+          extensions.value = []
+          return
+        }
+
+        // 转换和验证数据
+        const validExtensions = data
+          .map((item) => {
+            try {
+              return validateAndTransformExtension(item)
+            } catch (e) {
+              console.error('Invalid extension data:', item, e)
+              return null
+            }
+          })
+          .filter((item): item is Extension => item !== null)
+
+        console.error('Valid extensions count:', validExtensions.length)
+        extensions.value = validExtensions
+      } catch (err) {
+        console.error('Error fetching extensions:', err)
+        error.value = err as Error
+      } finally {
+        loading.value = false
+      }
+    }
+
+    async function searchExtensions(query: string) {
+      loading.value = true
+      error.value = null
+      try {
+        const { data, error: err } = await supabase.from('extensions').select('*').textSearch('search_text', query)
+
+        if (err) {
+          console.error('Supabase search error:', err)
+          throw err
+        }
+
+        if (!data) {
+          console.warn('No search results returned from Supabase')
+          extensions.value = []
+          return
+        }
+
+        // 转换和验证搜索结果
+        const validExtensions = data
+          .map((item) => {
+            try {
+              return validateAndTransformExtension(item)
+            } catch (e) {
+              console.error('Invalid extension data in search results:', item, e)
+              return null
+            }
+          })
+          .filter((item): item is Extension => item !== null)
+
+        console.error('Valid search results count:', validExtensions.length)
+        extensions.value = validExtensions
+      } catch (err) {
+        console.error('Error searching extensions:', err)
+        error.value = err as Error
+      } finally {
+        loading.value = false
+      }
+    }
+
+    return {
+      extensions,
+      loading,
+      error,
+      fetchExtensions,
+      searchExtensions,
+    }
   },
-})
+  {
+    persist: true,
+  },
+)
