@@ -38,8 +38,10 @@ class ExtensionManager:
         print("开始清理数据库...")
 
         try:
-            # 删除所有现有数据
-            self.supabase.table("extensions").delete().neq("id", 0).execute()
+            # 删除所有现有数据，添加一个始终为真的条件以满足 PostgREST 要求
+            self.supabase.table("extensions").delete().filter(
+                "extension_name", "neq", ""
+            ).execute()
             print("数据清理完成")
 
         except Exception as e:
@@ -82,20 +84,19 @@ class ExtensionManager:
         latest_version = extension["versions"][0]["version"]
 
         return {
-            "extension_id": extension["extensionId"],
-            "extension_name": extension["extensionName"],
-            "extension_full_name": publisher_extension,
+            # "extension_id": extension["extensionId"],
+            "extension_name": publisher_extension,
             "display_name": extension["displayName"],
             "short_description": extension["shortDescription"],
             "latest_version": latest_version,
             "last_updated": extension["versions"][0]["lastUpdated"],
-            "version_history": extension["versions"][:6],
+            "version_history": extension["versions"][:10],
             "categories": extension.get("categories", []),
             "tags": [
                 tag for tag in extension.get("tags", []) if not tag.startswith("__")
             ],
             "download_url": f"https://marketplace.visualstudio.com/_apis/public/gallery/publishers/{publisher_name}/vsextensions/{extension_name}/{latest_version}/vspackage",
-            "filename": f"{publisher_name}.{extension_name}-{latest_version}.vsix",
+            # "filename": f"{publisher_name}.{extension_name}-{latest_version}.vsix",
             "marketplace_url": f"https://marketplace.visualstudio.com/items?itemName={publisher_extension}",
         }
 
@@ -105,12 +106,9 @@ class ExtensionManager:
             data = self.fetch_extension_info(extension_id)
 
             # 使用 Supabase 插入数据
-            # 注意：search_vector_zh 和 search_vector_en 会通过数据库触发器自动更新
             self.supabase.table("extensions").upsert(
                 {
-                    "extension_id": data["extension_id"],
                     "extension_name": data["extension_name"],
-                    "extension_full_name": data["extension_full_name"],
                     "display_name": data["display_name"],
                     "short_description": data["short_description"],
                     "latest_version": data["latest_version"],
@@ -119,14 +117,13 @@ class ExtensionManager:
                     "categories": data["categories"],
                     "tags": data["tags"],
                     "download_url": data["download_url"],
-                    "filename": data["filename"],
                     "marketplace_url": data["marketplace_url"],
                 }
             ).execute()
 
             with self.count_lock:
                 self.success_count += 1
-            return data["extension_full_name"], True, None
+            return data["extension_name"], True, None
 
         except Exception as e:
             with self.count_lock:
@@ -156,7 +153,7 @@ class ExtensionManager:
                     all_data.append(data)
 
                     # 保存扩展信息到文件
-                    extension_file = data_dir / f"{data['extension_full_name']}.json"
+                    extension_file = data_dir / f"{data['extension_name']}.json"
                     with open(extension_file, "w", encoding="utf-8") as f:
                         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -188,8 +185,6 @@ class ExtensionManager:
         print(f"发现 {len(extensions)} 个扩展，开始处理...")
 
         # 1. 先清理数据库
-        print("\n准备导入数据到 Supabase")
-        print("开始清理数据库...")
         self.init_database()
 
         # 2. 获取和导入数据
