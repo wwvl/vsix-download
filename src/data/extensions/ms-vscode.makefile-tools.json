@@ -1,7 +1,5 @@
 {
-  "extension_id": "e09cf600-90a1-414e-92a0-031f1a5391c6",
-  "extension_name": "makefile-tools",
-  "extension_full_name": "ms-vscode.makefile-tools",
+  "extension_name": "ms-vscode.makefile-tools",
   "display_name": "Makefile Tools",
   "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
   "latest_version": "0.12.16",
@@ -36,6 +34,26 @@
       "version": "0.12.11",
       "flags": "validated",
       "lastUpdated": "2024-12-05T04:24:03.85Z"
+    },
+    {
+      "version": "0.12.10",
+      "flags": "validated",
+      "lastUpdated": "2024-11-07T04:24:05.463Z"
+    },
+    {
+      "version": "0.12.9",
+      "flags": "validated",
+      "lastUpdated": "2024-10-29T04:21:05.87Z"
+    },
+    {
+      "version": "0.12.8",
+      "flags": "validated",
+      "lastUpdated": "2024-10-18T04:18:41.853Z"
+    },
+    {
+      "version": "0.12.7",
+      "flags": "validated",
+      "lastUpdated": "2024-10-16T04:21:00.93Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "Microsoft"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.12.16/vspackage",
-  "filename": "ms-vscode.makefile-tools-0.12.16.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
 }

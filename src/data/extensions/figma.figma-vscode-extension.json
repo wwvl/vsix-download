@@ -1,7 +1,5 @@
 {
-  "extension_id": "bff510dc-dcac-4daf-925c-299ee91fb135",
-  "extension_name": "figma-vscode-extension",
-  "extension_full_name": "figma.figma-vscode-extension",
+  "extension_name": "figma.figma-vscode-extension",
   "display_name": "Figma for VS Code",
   "short_description": "Bring Figma into the text editor. Inspect designs, receive notifications, and get code suggestions.",
   "latest_version": "0.4.0",
@@ -36,6 +34,26 @@
       "version": "0.3.1",
       "flags": "validated",
       "lastUpdated": "2023-12-11T17:46:17.793Z"
+    },
+    {
+      "version": "0.3.0",
+      "flags": "validated",
+      "lastUpdated": "2023-12-06T11:02:44.803Z"
+    },
+    {
+      "version": "0.2.7",
+      "flags": "validated",
+      "lastUpdated": "2023-08-10T10:24:57.927Z"
+    },
+    {
+      "version": "0.2.6",
+      "flags": "validated",
+      "lastUpdated": "2023-07-28T13:07:19.613Z"
+    },
+    {
+      "version": "0.2.5",
+      "flags": "validated",
+      "lastUpdated": "2023-07-27T14:04:33.35Z"
     }
   ],
   "categories": [
@@ -46,6 +64,5 @@
     "keybindings"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/figma/vsextensions/figma-vscode-extension/0.4.0/vspackage",
-  "filename": "figma.figma-vscode-extension-0.4.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension"
 }

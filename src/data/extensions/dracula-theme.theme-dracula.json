@@ -1,7 +1,5 @@
 {
-  "extension_id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-  "extension_name": "theme-dracula",
-  "extension_full_name": "dracula-theme.theme-dracula",
+  "extension_name": "dracula-theme.theme-dracula",
   "display_name": "Dracula Theme Official",
   "short_description": "The official Dracula Theme: a dark theme for many editors, shells, and more. 🦇",
   "latest_version": "2.25.1",
@@ -36,6 +34,26 @@
       "version": "2.24.0",
       "flags": "validated",
       "lastUpdated": "2021-09-03T12:20:03.053Z"
+    },
+    {
+      "version": "2.23.1",
+      "flags": "validated",
+      "lastUpdated": "2021-08-06T23:06:13.26Z"
+    },
+    {
+      "version": "2.23.0",
+      "flags": "validated",
+      "lastUpdated": "2021-08-02T16:22:10.833Z"
+    },
+    {
+      "version": "2.22.4",
+      "flags": "validated",
+      "lastUpdated": "2021-06-15T15:19:45.957Z"
+    },
+    {
+      "version": "2.22.3",
+      "flags": "validated",
+      "lastUpdated": "2020-11-24T14:45:52.463Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "theme"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dracula-theme/vsextensions/theme-dracula/2.25.1/vspackage",
-  "filename": "dracula-theme.theme-dracula-2.25.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula"
 }

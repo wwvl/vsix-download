@@ -1,7 +1,5 @@
 {
-  "extension_id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
-  "extension_name": "prisma",
-  "extension_full_name": "Prisma.prisma",
+  "extension_name": "Prisma.prisma",
   "display_name": "Prisma",
   "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
   "latest_version": "6.4.1",
@@ -36,6 +34,26 @@
       "version": "6.2.0",
       "flags": "validated",
       "lastUpdated": "2025-01-08T12:49:33.02Z"
+    },
+    {
+      "version": "6.1.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-17T18:16:27.727Z"
+    },
+    {
+      "version": "6.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-29T12:43:02.817Z"
+    },
+    {
+      "version": "5.22.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-05T15:55:16.75Z"
+    },
+    {
+      "version": "5.21.1",
+      "flags": "validated",
+      "lastUpdated": "2024-10-17T17:14:47.833Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "typescriptreact"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.4.1/vspackage",
-  "filename": "Prisma.prisma-6.4.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "3a15b5a7-be12-47e3-8445-88ee3eabc8b2",
-  "extension_name": "lua",
-  "extension_full_name": "sumneko.lua",
+  "extension_name": "sumneko.lua",
   "display_name": "Lua",
   "short_description": "Lua Language Server coded by Lua",
   "latest_version": "3.13.6",
@@ -42,6 +40,30 @@
       "targetPlatform": "win32-x64",
       "flags": "validated",
       "lastUpdated": "2024-12-20T03:32:38.087Z"
+    },
+    {
+      "version": "3.13.5",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T03:30:01.327Z"
+    },
+    {
+      "version": "3.13.5",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T03:29:32.717Z"
+    },
+    {
+      "version": "3.13.5",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T03:28:18.827Z"
+    },
+    {
+      "version": "3.13.5",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T03:27:58.807Z"
     }
   ],
   "categories": [
@@ -57,6 +79,5 @@
     "lua"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.6/vspackage",
-  "filename": "sumneko.lua-3.13.6.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
 }

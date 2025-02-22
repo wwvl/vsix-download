@@ -1,7 +1,5 @@
 {
-  "extension_id": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3",
-  "extension_name": "vscode-react-native",
-  "extension_full_name": "msjsdiag.vscode-react-native",
+  "extension_name": "msjsdiag.vscode-react-native",
   "display_name": "React Native Tools",
   "short_description": "Debugging and integrated commands for React Native",
   "latest_version": "1.13.0",
@@ -36,6 +34,27 @@
       "version": "1.11.2",
       "flags": "validated",
       "lastUpdated": "2023-08-01T02:21:07.597Z"
+    },
+    {
+      "version": "1.11.1",
+      "flags": "validated",
+      "lastUpdated": "2023-07-05T06:28:48.567Z"
+    },
+    {
+      "version": "1.11.0",
+      "flags": "validated",
+      "lastUpdated": "2023-05-04T03:35:52.617Z"
+    },
+    {
+      "version": "1.10.2",
+      "flags": "validated",
+      "lastUpdated": "2023-03-08T02:14:44.103Z"
+    },
+    {
+      "version": "1.10.1",
+      "flags": "none",
+      "lastUpdated": "2023-01-09T03:01:55.827Z",
+      "validationResultMessage": "Error processing 'msjsdiag.vscode-react-native' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/version-short/msjsdiag.vscode-react-native.svg’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
     }
   ],
   "categories": [
@@ -49,6 +68,5 @@
     "react-native"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/msjsdiag/vsextensions/vscode-react-native/1.13.0/vspackage",
-  "filename": "msjsdiag.vscode-react-native-1.13.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native"
 }

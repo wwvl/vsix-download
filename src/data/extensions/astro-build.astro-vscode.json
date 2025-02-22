@@ -1,7 +1,5 @@
 {
-  "extension_id": "1fbbc8b0-7432-4b7e-8774-3336151da2f3",
-  "extension_name": "astro-vscode",
-  "extension_full_name": "astro-build.astro-vscode",
+  "extension_name": "astro-build.astro-vscode",
   "display_name": "Astro",
   "short_description": "Language support for Astro",
   "latest_version": "2.15.4",
@@ -42,6 +40,30 @@
       "targetPlatform": "darwin-x64",
       "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:26.34Z"
+    },
+    {
+      "version": "2.15.4",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-10-25T19:19:25.927Z"
+    },
+    {
+      "version": "2.15.4",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-10-25T19:19:24.62Z"
+    },
+    {
+      "version": "2.15.4",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-10-25T19:19:23.07Z"
+    },
+    {
+      "version": "2.15.3",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-10-17T12:19:08.5Z"
     }
   ],
   "categories": [
@@ -61,6 +83,5 @@
     "vue"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.15.4/vspackage",
-  "filename": "astro-build.astro-vscode-2.15.4.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode"
 }

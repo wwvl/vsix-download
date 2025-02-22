@@ -1,7 +1,5 @@
 {
-  "extension_id": "d96e79c6-8b25-4be3-8545-0e0ecefcae03",
-  "extension_name": "vim",
-  "extension_full_name": "vscodevim.vim",
+  "extension_name": "vscodevim.vim",
   "display_name": "Vim",
   "short_description": "Vim emulation for Visual Studio Code",
   "latest_version": "1.29.0",
@@ -36,6 +34,26 @@
       "version": "1.27.1",
       "flags": "validated",
       "lastUpdated": "2023-11-22T21:31:58.257Z"
+    },
+    {
+      "version": "1.27.0",
+      "flags": "validated",
+      "lastUpdated": "2023-11-18T02:50:23.873Z"
+    },
+    {
+      "version": "1.26.2",
+      "flags": "validated",
+      "lastUpdated": "2023-10-22T03:21:31.517Z"
+    },
+    {
+      "version": "1.26.1",
+      "flags": "validated",
+      "lastUpdated": "2023-10-10T00:49:42.077Z"
+    },
+    {
+      "version": "1.26.0",
+      "flags": "validated",
+      "lastUpdated": "2023-09-09T23:35:26.013Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "vscodevim"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.29.0/vspackage",
-  "filename": "vscodevim.vim-1.29.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "67c06b0d-1891-42ca-b2a8-113e79bff069",
-  "extension_name": "vscode-java-test",
-  "extension_full_name": "vscjava.vscode-java-test",
+  "extension_name": "vscjava.vscode-java-test",
   "display_name": "Test Runner for Java",
   "short_description": "Run and debug JUnit or TestNG test cases.",
   "latest_version": "0.43.0",
@@ -36,6 +34,26 @@
       "version": "0.41.2024070902",
       "flags": "validated",
       "lastUpdated": "2024-07-12T03:31:14.553Z"
+    },
+    {
+      "version": "0.41.2024061208",
+      "flags": "validated",
+      "lastUpdated": "2024-06-12T11:20:05.197Z"
+    },
+    {
+      "version": "0.41.2024042308",
+      "flags": "validated",
+      "lastUpdated": "2024-04-24T01:46:19.137Z"
+    },
+    {
+      "version": "0.41.1",
+      "flags": "validated",
+      "lastUpdated": "2024-04-25T16:46:00.473Z"
+    },
+    {
+      "version": "0.41.0",
+      "flags": "validated",
+      "lastUpdated": "2024-04-05T02:24:13.217Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "testng"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-test/0.43.0/vspackage",
-  "filename": "vscjava.vscode-java-test-0.43.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test"
 }

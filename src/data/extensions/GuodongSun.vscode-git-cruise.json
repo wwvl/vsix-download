@@ -1,7 +1,5 @@
 {
-  "extension_id": "55cc8ddf-63e1-4b19-bc28-00e9352d04be",
-  "extension_name": "vscode-git-cruise",
-  "extension_full_name": "GuodongSun.vscode-git-cruise",
+  "extension_name": "GuodongSun.vscode-git-cruise",
   "display_name": "Git History",
   "short_description": "Git history panel in your VS Code",
   "latest_version": "0.2.5",
@@ -36,6 +34,26 @@
       "version": "0.2.0",
       "flags": "validated",
       "lastUpdated": "2022-10-23T11:02:00.527Z"
+    },
+    {
+      "version": "0.1.14",
+      "flags": "validated",
+      "lastUpdated": "2022-10-17T15:46:08.017Z"
+    },
+    {
+      "version": "0.1.13",
+      "flags": "validated",
+      "lastUpdated": "2022-10-09T15:07:35.83Z"
+    },
+    {
+      "version": "0.1.12",
+      "flags": "validated",
+      "lastUpdated": "2022-10-08T14:35:40.103Z"
+    },
+    {
+      "version": "0.1.11",
+      "flags": "validated",
+      "lastUpdated": "2022-10-05T14:56:33.793Z"
     }
   ],
   "categories": [
@@ -54,6 +72,5 @@
     "tag"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GuodongSun/vsextensions/vscode-git-cruise/0.2.5/vspackage",
-  "filename": "GuodongSun.vscode-git-cruise-0.2.5.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise"
 }

@@ -1,12 +1,15 @@
 {
-  "extension_id": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f",
-  "extension_name": "copilot-chat",
-  "extension_full_name": "GitHub.copilot-chat",
+  "extension_name": "GitHub.copilot-chat",
   "display_name": "GitHub Copilot Chat",
   "short_description": "AI chat features powered by Copilot",
-  "latest_version": "0.25.2025022001",
-  "last_updated": "2025-02-20T04:39:56.293Z",
+  "latest_version": "0.25.2025022101",
+  "last_updated": "2025-02-21T04:32:08.97Z",
   "version_history": [
+    {
+      "version": "0.25.2025022101",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T04:32:08.97Z"
+    },
     {
       "version": "0.25.2025022001",
       "flags": "validated",
@@ -36,6 +39,21 @@
       "version": "0.25.2025021301",
       "flags": "validated",
       "lastUpdated": "2025-02-13T04:28:26.517Z"
+    },
+    {
+      "version": "0.25.2025021201",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T04:32:44.64Z"
+    },
+    {
+      "version": "0.25.2025021101",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T04:28:15.83Z"
+    },
+    {
+      "version": "0.25.2025021001",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T04:29:19.073Z"
     }
   ],
   "categories": [
@@ -73,7 +91,6 @@
     "snippets",
     "typescript"
   ],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022001/vspackage",
-  "filename": "GitHub.copilot-chat-0.25.2025022001.vsix",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022101/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
 }

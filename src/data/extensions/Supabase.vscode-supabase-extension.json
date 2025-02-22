@@ -1,7 +1,5 @@
 {
-  "extension_id": "2fd15774-7e16-4a26-8d43-6992110a6b72",
-  "extension_name": "vscode-supabase-extension",
-  "extension_full_name": "Supabase.vscode-supabase-extension",
+  "extension_name": "Supabase.vscode-supabase-extension",
   "display_name": "Supabase",
   "short_description": "Supabase Extension for VS Code and GitHub Copilot.",
   "latest_version": "0.0.9",
@@ -38,6 +36,5 @@
     "supabase"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.9/vspackage",
-  "filename": "Supabase.vscode-supabase-extension-0.0.9.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
 }

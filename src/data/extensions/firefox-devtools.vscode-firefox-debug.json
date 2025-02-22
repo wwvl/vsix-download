@@ -1,7 +1,5 @@
 {
-  "extension_id": "c5f4d87f-a524-462c-ac01-923eb19cf3e9",
-  "extension_name": "vscode-firefox-debug",
-  "extension_full_name": "firefox-devtools.vscode-firefox-debug",
+  "extension_name": "firefox-devtools.vscode-firefox-debug",
   "display_name": "Debugger for Firefox",
   "short_description": "Debug your web application or browser extension in Firefox",
   "latest_version": "2.14.1",
@@ -36,6 +34,26 @@
       "version": "2.11.0",
       "flags": "validated",
       "lastUpdated": "2024-12-12T14:04:30.133Z"
+    },
+    {
+      "version": "2.10.1",
+      "flags": "validated",
+      "lastUpdated": "2024-12-12T10:01:58.217Z"
+    },
+    {
+      "version": "2.10.0",
+      "flags": "validated",
+      "lastUpdated": "2024-12-11T08:58:17.71Z"
+    },
+    {
+      "version": "2.9.11",
+      "flags": "validated",
+      "lastUpdated": "2024-11-07T10:46:35.6Z"
+    },
+    {
+      "version": "2.9.10",
+      "flags": "validated",
+      "lastUpdated": "2023-09-27T08:08:43.347Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "vscode"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/firefox-devtools/vsextensions/vscode-firefox-debug/2.14.1/vspackage",
-  "filename": "firefox-devtools.vscode-firefox-debug-2.14.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug"
 }

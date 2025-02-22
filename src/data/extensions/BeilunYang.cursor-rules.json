@@ -1,7 +1,5 @@
 {
-  "extension_id": "2bf5035f-3e7f-48bb-909e-36f2e62cde7d",
-  "extension_name": "cursor-rules",
-  "extension_full_name": "BeilunYang.cursor-rules",
+  "extension_name": "BeilunYang.cursor-rules",
   "display_name": "Cursor Rules",
   "short_description": "An extension for Cursor and VSCode that lets you pull .cursorrules files from the https://github.com/PatrickJS/awesome-cursorrules repository",
   "latest_version": "0.2.0",
@@ -23,6 +21,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BeilunYang/vsextensions/cursor-rules/0.2.0/vspackage",
-  "filename": "BeilunYang.cursor-rules-0.2.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules"
 }

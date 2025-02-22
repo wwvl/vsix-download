@@ -1,7 +1,5 @@
 {
-  "extension_id": "9d96b65c-c227-4a9e-80b7-e52b8a58c5f2",
-  "extension_name": "platformio-ide",
-  "extension_full_name": "platformio.platformio-ide",
+  "extension_name": "platformio.platformio-ide",
   "display_name": "PlatformIO IDE",
   "short_description": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)",
   "latest_version": "3.3.4",
@@ -42,6 +40,30 @@
       "targetPlatform": "web",
       "flags": "validated",
       "lastUpdated": "2025-01-11T15:00:16.847Z"
+    },
+    {
+      "version": "3.3.4",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-11T15:00:11.057Z"
+    },
+    {
+      "version": "3.3.4",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-11T14:59:41.45Z"
+    },
+    {
+      "version": "3.3.4",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-11T14:59:35.76Z"
+    },
+    {
+      "version": "3.3.4",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-11T14:59:10.647Z"
     }
   ],
   "categories": [
@@ -67,6 +89,5 @@
     "risc-v"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/platformio/vsextensions/platformio-ide/3.3.4/vspackage",
-  "filename": "platformio.platformio-ide-3.3.4.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide"
 }

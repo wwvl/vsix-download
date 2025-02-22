@@ -1,7 +1,5 @@
 {
-  "extension_id": "0efda145-8595-4ff7-98ef-1e3abc5e5757",
-  "extension_name": "vscode-spring-boot",
-  "extension_full_name": "vmware.vscode-spring-boot",
+  "extension_name": "vmware.vscode-spring-boot",
   "display_name": "Spring Boot Tools",
   "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
   "latest_version": "1.61.2025022000",
@@ -36,6 +34,26 @@
       "version": "1.61.2025020800",
       "flags": "validated",
       "lastUpdated": "2025-02-08T01:24:36.38Z"
+    },
+    {
+      "version": "1.61.2025020600",
+      "flags": "validated",
+      "lastUpdated": "2025-02-06T01:14:45.357Z"
+    },
+    {
+      "version": "1.60.2025020400",
+      "flags": "validated",
+      "lastUpdated": "2025-02-04T01:13:38.927Z"
+    },
+    {
+      "version": "1.60.2025020100",
+      "flags": "validated",
+      "lastUpdated": "2025-02-01T01:11:22.053Z"
+    },
+    {
+      "version": "1.60.2025013000",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T01:04:37.977Z"
     }
   ],
   "categories": [
@@ -60,6 +78,5 @@
     "spring-factories"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025022000/vspackage",
-  "filename": "vmware.vscode-spring-boot-1.61.2025022000.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
 }

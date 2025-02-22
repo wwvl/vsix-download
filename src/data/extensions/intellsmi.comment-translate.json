@@ -1,7 +1,5 @@
 {
-  "extension_id": "85668beb-15e7-48c4-86a1-6a02f3133292",
-  "extension_name": "comment-translate",
-  "extension_full_name": "intellsmi.comment-translate",
+  "extension_name": "intellsmi.comment-translate",
   "display_name": "Comment Translate",
   "short_description": "This extension helps developers translate comments, strings, code hints, error messages, and variable names in their code.",
   "latest_version": "3.0.0",
@@ -36,6 +34,26 @@
       "version": "2.2.4",
       "flags": "validated",
       "lastUpdated": "2022-06-29T11:30:15.48Z"
+    },
+    {
+      "version": "2.2.3",
+      "flags": "validated",
+      "lastUpdated": "2022-06-29T04:57:57.197Z"
+    },
+    {
+      "version": "2.2.2",
+      "flags": "validated",
+      "lastUpdated": "2022-06-29T04:44:29.537Z"
+    },
+    {
+      "version": "2.2.1",
+      "flags": "validated",
+      "lastUpdated": "2022-06-27T11:01:20.61Z"
+    },
+    {
+      "version": "2.2.0",
+      "flags": "validated",
+      "lastUpdated": "2022-06-15T10:20:02.59Z"
     }
   ],
   "categories": [
@@ -54,6 +72,5 @@
     "翻译"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/intellsmi/vsextensions/comment-translate/3.0.0/vspackage",
-  "filename": "intellsmi.comment-translate-3.0.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate"
 }

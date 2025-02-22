@@ -1,7 +1,5 @@
 {
-  "extension_id": "261cac81-cd7b-4555-bb41-0c2d2bcd3e70",
-  "extension_name": "todo-tree",
-  "extension_full_name": "Gruntfuggly.todo-tree",
+  "extension_name": "Gruntfuggly.todo-tree",
   "display_name": "Todo Tree",
   "short_description": "Show TODO, FIXME, etc. comment tags in a tree view",
   "latest_version": "0.0.226",
@@ -36,6 +34,26 @@
       "version": "0.0.221",
       "flags": "validated",
       "lastUpdated": "2023-01-22T20:08:02.37Z"
+    },
+    {
+      "version": "0.0.220",
+      "flags": "validated",
+      "lastUpdated": "2022-11-07T21:10:42.913Z"
+    },
+    {
+      "version": "0.0.219",
+      "flags": "validated",
+      "lastUpdated": "2022-10-14T16:45:21.46Z"
+    },
+    {
+      "version": "0.0.218",
+      "flags": "validated",
+      "lastUpdated": "2022-10-14T16:06:18.677Z"
+    },
+    {
+      "version": "0.0.217",
+      "flags": "validated",
+      "lastUpdated": "2022-10-13T22:35:11.74Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "todo"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Gruntfuggly/vsextensions/todo-tree/0.0.226/vspackage",
-  "filename": "Gruntfuggly.todo-tree-0.0.226.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
 }

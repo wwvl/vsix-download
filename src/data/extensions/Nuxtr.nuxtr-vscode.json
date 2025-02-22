@@ -1,7 +1,5 @@
 {
-  "extension_id": "91f56290-03a6-4860-bd71-7f7dce888548",
-  "extension_name": "nuxtr-vscode",
-  "extension_full_name": "Nuxtr.nuxtr-vscode",
+  "extension_name": "Nuxtr.nuxtr-vscode",
   "display_name": "Nuxtr",
   "short_description": "An extension for Nuxt offering commands and tools to make your experience more pleasant.",
   "latest_version": "0.2.16",
@@ -36,6 +34,26 @@
       "version": "0.2.11",
       "flags": "validated",
       "lastUpdated": "2023-12-16T15:06:04.643Z"
+    },
+    {
+      "version": "0.2.10",
+      "flags": "validated",
+      "lastUpdated": "2023-11-23T04:21:00.457Z"
+    },
+    {
+      "version": "0.2.9",
+      "flags": "validated",
+      "lastUpdated": "2023-11-16T20:28:20.503Z"
+    },
+    {
+      "version": "0.2.8",
+      "flags": "validated",
+      "lastUpdated": "2023-11-14T22:29:55.797Z"
+    },
+    {
+      "version": "0.2.7",
+      "flags": "validated",
+      "lastUpdated": "2023-11-07T16:47:29.28Z"
     }
   ],
   "categories": [
@@ -55,6 +73,5 @@
     "Vue"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxtr/vsextensions/nuxtr-vscode/0.2.16/vspackage",
-  "filename": "Nuxtr.nuxtr-vscode-0.2.16.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode"
 }

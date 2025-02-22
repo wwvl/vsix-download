@@ -1,7 +1,5 @@
 {
-  "extension_id": "f8cb4642-bc5c-46a1-be34-0977e817406c",
-  "extension_name": "ansible",
-  "extension_full_name": "redhat.ansible",
+  "extension_name": "redhat.ansible",
   "display_name": "Ansible",
   "short_description": "Ansible language support",
   "latest_version": "25.2.0",
@@ -36,6 +34,26 @@
       "version": "24.9.8875968",
       "flags": "validated",
       "lastUpdated": "2024-10-02T17:10:29.12Z"
+    },
+    {
+      "version": "24.9.5152897",
+      "flags": "validated",
+      "lastUpdated": "2024-08-21T15:21:31.167Z"
+    },
+    {
+      "version": "24.9.5080763",
+      "flags": "validated",
+      "lastUpdated": "2024-08-19T17:52:41.01Z"
+    },
+    {
+      "version": "24.9.3355634",
+      "flags": "validated",
+      "lastUpdated": "2024-07-30T21:47:57.057Z"
+    },
+    {
+      "version": "24.9.2928907",
+      "flags": "validated",
+      "lastUpdated": "2024-07-25T20:19:37.817Z"
     }
   ],
   "categories": [
@@ -53,6 +71,5 @@
     "yml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.2.0/vspackage",
-  "filename": "redhat.ansible-25.2.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
 }

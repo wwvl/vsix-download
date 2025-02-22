@@ -1,7 +1,5 @@
 {
-  "extension_id": "9b3fc708-d0ad-46ec-ba0b-67f140786bef",
-  "extension_name": "salesforcedx-vscode-lwc",
-  "extension_full_name": "salesforce.salesforcedx-vscode-lwc",
+  "extension_name": "salesforce.salesforcedx-vscode-lwc",
   "display_name": "Lightning Web Components",
   "short_description": "Provides code-editing features for Lightning Web Components",
   "latest_version": "63.1.1",
@@ -36,6 +34,26 @@
       "version": "62.9.1",
       "flags": "validated",
       "lastUpdated": "2024-12-11T20:08:43.263Z"
+    },
+    {
+      "version": "62.5.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-14T00:47:49.167Z"
+    },
+    {
+      "version": "62.3.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-01T17:27:50.97Z"
+    },
+    {
+      "version": "62.2.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-22T23:26:14.607Z"
+    },
+    {
+      "version": "62.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-09T15:48:04.22Z"
     }
   ],
   "categories": [
@@ -46,6 +64,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.1.1/vspackage",
-  "filename": "salesforce.salesforcedx-vscode-lwc-63.1.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
 }

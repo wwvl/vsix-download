@@ -1,7 +1,5 @@
 {
-  "extension_id": "d4b06bd6-36a0-469f-be55-c0a73413b688",
-  "extension_name": "vs-code-prettier-eslint",
-  "extension_full_name": "rvest.vs-code-prettier-eslint",
+  "extension_name": "rvest.vs-code-prettier-eslint",
   "display_name": "Prettier ESLint",
   "short_description": "A Visual Studio Extension to format JavaScript and Typescript code using prettier-eslint package",
   "latest_version": "6.0.0",
@@ -36,6 +34,26 @@
       "version": "5.0.1",
       "flags": "validated",
       "lastUpdated": "2022-04-28T02:23:22.287Z"
+    },
+    {
+      "version": "5.0.0",
+      "flags": "validated",
+      "lastUpdated": "2022-04-26T15:05:47.673Z"
+    },
+    {
+      "version": "4.1.0",
+      "flags": "validated",
+      "lastUpdated": "2022-02-15T23:07:18.177Z"
+    },
+    {
+      "version": "3.1.0",
+      "flags": "validated",
+      "lastUpdated": "2021-12-30T18:51:48.55Z"
+    },
+    {
+      "version": "3.0.4",
+      "flags": "validated",
+      "lastUpdated": "2021-05-21T16:12:30.543Z"
     }
   ],
   "categories": [
@@ -65,6 +83,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rvest/vsextensions/vs-code-prettier-eslint/6.0.0/vspackage",
-  "filename": "rvest.vs-code-prettier-eslint-6.0.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint"
 }

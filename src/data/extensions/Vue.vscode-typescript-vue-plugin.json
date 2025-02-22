@@ -1,7 +1,5 @@
 {
-  "extension_id": "78d16c76-388b-44e4-8470-6790d6c3d2d1",
-  "extension_name": "vscode-typescript-vue-plugin",
-  "extension_full_name": "Vue.vscode-typescript-vue-plugin",
+  "extension_name": "Vue.vscode-typescript-vue-plugin",
   "display_name": "TypeScript Vue Plugin (Volar)",
   "short_description": "Vue Plugin for TypeScript server",
   "latest_version": "1.8.27",
@@ -36,6 +34,26 @@
       "version": "1.8.21",
       "flags": "validated",
       "lastUpdated": "2023-10-25T10:51:59.063Z"
+    },
+    {
+      "version": "1.8.20",
+      "flags": "validated",
+      "lastUpdated": "2023-10-23T12:04:18.483Z"
+    },
+    {
+      "version": "1.8.19",
+      "flags": "validated",
+      "lastUpdated": "2023-10-11T10:01:16.573Z"
+    },
+    {
+      "version": "1.8.18",
+      "flags": "validated",
+      "lastUpdated": "2023-10-08T18:18:34.533Z"
+    },
+    {
+      "version": "1.8.17",
+      "flags": "validated",
+      "lastUpdated": "2023-10-08T17:47:27.24Z"
     }
   ],
   "categories": [
@@ -43,6 +61,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/vscode-typescript-vue-plugin/1.8.27/vspackage",
-  "filename": "Vue.vscode-typescript-vue-plugin-1.8.27.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin"
 }

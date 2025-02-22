@@ -1,7 +1,5 @@
 {
-  "extension_id": "ab3534a7-eaae-4f75-9735-62bfd758b220",
-  "extension_name": "explorer",
-  "extension_full_name": "vitest.explorer",
+  "extension_name": "vitest.explorer",
   "display_name": "Vitest",
   "short_description": "A Vite-native testing framework. It's fast!",
   "latest_version": "1.14.3",
@@ -36,6 +34,26 @@
       "version": "1.12.1",
       "flags": "validated",
       "lastUpdated": "2025-02-07T16:45:42.907Z"
+    },
+    {
+      "version": "1.12.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-07T16:32:26.1Z"
+    },
+    {
+      "version": "1.10.7",
+      "flags": "validated",
+      "lastUpdated": "2025-02-04T15:16:18.27Z"
+    },
+    {
+      "version": "1.10.6",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T15:52:13.88Z"
+    },
+    {
+      "version": "1.10.5",
+      "flags": "validated",
+      "lastUpdated": "2025-01-22T17:23:49.217Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "vitest-snapshot"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.14.3/vspackage",
-  "filename": "vitest.explorer-1.14.3.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
 }

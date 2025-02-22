@@ -1,7 +1,5 @@
 {
-  "extension_id": "6623619a-676d-4cde-943f-a3c193b44fc0",
-  "extension_name": "turbo-console-log",
-  "extension_full_name": "ChakrounAnas.turbo-console-log",
+  "extension_name": "ChakrounAnas.turbo-console-log",
   "display_name": "Turbo Console Log",
   "short_description": "Automating the process of writing meaningful log messages.",
   "latest_version": "2.12.2",
@@ -36,6 +34,26 @@
       "version": "2.11.3",
       "flags": "validated",
       "lastUpdated": "2025-02-05T04:22:29.29Z"
+    },
+    {
+      "version": "2.11.2",
+      "flags": "validated",
+      "lastUpdated": "2025-02-03T13:17:48.607Z"
+    },
+    {
+      "version": "2.11.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-03T00:18:14.463Z"
+    },
+    {
+      "version": "2.11.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-02T23:08:15.09Z"
+    },
+    {
+      "version": "2.10.8",
+      "flags": "validated",
+      "lastUpdated": "2025-01-17T05:04:26.583Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "typescriptreact"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.12.2/vspackage",
-  "filename": "ChakrounAnas.turbo-console-log-2.12.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
 }

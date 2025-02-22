@@ -1,7 +1,5 @@
 {
-  "extension_id": "f5d7ffda-c1d6-4070-ba80-803c705a1ee6",
-  "extension_name": "theme-monokai-pro-vscode",
-  "extension_full_name": "monokai.theme-monokai-pro-vscode",
+  "extension_name": "monokai.theme-monokai-pro-vscode",
   "display_name": "Monokai Pro",
   "short_description": "✨ Professional dark & light theme + icon pack, from the author of the original Monokai color scheme.",
   "latest_version": "2.0.6",
@@ -36,6 +34,26 @@
       "version": "2.0.1",
       "flags": "validated",
       "lastUpdated": "2024-10-25T07:30:54.807Z"
+    },
+    {
+      "version": "2.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-23T14:09:45.23Z"
+    },
+    {
+      "version": "1.3.2",
+      "flags": "validated",
+      "lastUpdated": "2024-04-21T08:15:18.94Z"
+    },
+    {
+      "version": "1.3.1",
+      "flags": "validated",
+      "lastUpdated": "2024-04-18T15:18:33.717Z"
+    },
+    {
+      "version": "1.3.0",
+      "flags": "validated",
+      "lastUpdated": "2024-04-17T14:58:11.14Z"
     }
   ],
   "categories": [
@@ -52,6 +70,5 @@
     "theme"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.6/vspackage",
-  "filename": "monokai.theme-monokai-pro-vscode-2.0.6.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
 }

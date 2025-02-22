@@ -1,7 +1,5 @@
 {
-  "extension_id": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff",
-  "extension_name": "csharp",
-  "extension_full_name": "ms-dotnettools.csharp",
+  "extension_name": "ms-dotnettools.csharp",
   "display_name": "C#",
   "short_description": "Base language support for C#",
   "latest_version": "2.65.29",
@@ -42,6 +40,30 @@
       "targetPlatform": "linux-arm64",
       "flags": "validated",
       "lastUpdated": "2025-02-12T18:59:23.593Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T18:58:52.237Z"
+    },
+    {
+      "version": "2.65.29",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T18:58:24.043Z"
+    },
+    {
+      "version": "2.64.7",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-05T19:22:04.757Z"
+    },
+    {
+      "version": "2.64.7",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-05T19:20:00.967Z"
     }
   ],
   "categories": [
@@ -70,6 +92,5 @@
     "xaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.65.29/vspackage",
-  "filename": "ms-dotnettools.csharp-2.65.29.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
 }

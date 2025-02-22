@@ -1,7 +1,5 @@
 {
-  "extension_id": "8ab81d13-c812-4a2f-8f19-c32e3655e53c",
-  "extension_name": "i18n-ally",
-  "extension_full_name": "Lokalise.i18n-ally",
+  "extension_name": "Lokalise.i18n-ally",
   "display_name": "i18n Ally",
   "short_description": "🌍 All in one i18n extension for VS Code",
   "latest_version": "2.13.1",
@@ -36,6 +34,27 @@
       "version": "2.9.1",
       "flags": "validated",
       "lastUpdated": "2023-05-15T08:50:56.663Z"
+    },
+    {
+      "version": "2.9.0",
+      "flags": "validated",
+      "lastUpdated": "2023-04-29T12:06:36.35Z"
+    },
+    {
+      "version": "2.8.2",
+      "flags": "none",
+      "lastUpdated": "2023-04-28T14:28:08.13Z",
+      "validationResultMessage": "Error processing 'Lokalise.i18n-ally' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/trending-monthly/lokalise.i18n-ally.svg?color=a1b858’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
+    },
+    {
+      "version": "2.8.1",
+      "flags": "validated",
+      "lastUpdated": "2021-09-13T08:26:45.68Z"
+    },
+    {
+      "version": "2.8.0",
+      "flags": "validated",
+      "lastUpdated": "2021-08-30T07:20:34.103Z"
     }
   ],
   "categories": [
@@ -63,6 +82,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Lokalise/vsextensions/i18n-ally/2.13.1/vspackage",
-  "filename": "Lokalise.i18n-ally-2.13.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally"
 }

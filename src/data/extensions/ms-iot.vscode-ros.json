@@ -1,7 +1,5 @@
 {
-  "extension_id": "30ca9f40-2642-457b-9170-cd706e62f02f",
-  "extension_name": "vscode-ros",
-  "extension_full_name": "ms-iot.vscode-ros",
+  "extension_name": "ms-iot.vscode-ros",
   "display_name": "ROS",
   "short_description": "Develop Robot Operating System (ROS) with Visual Studio Code.",
   "latest_version": "0.9.6",
@@ -36,6 +34,26 @@
       "version": "0.9.1",
       "flags": "validated",
       "lastUpdated": "2023-03-28T16:49:56.78Z"
+    },
+    {
+      "version": "0.9.0",
+      "flags": "validated",
+      "lastUpdated": "2023-03-27T21:13:05.733Z"
+    },
+    {
+      "version": "0.8.4",
+      "flags": "validated",
+      "lastUpdated": "2022-10-31T22:49:15.93Z"
+    },
+    {
+      "version": "0.8.3",
+      "flags": "validated",
+      "lastUpdated": "2022-07-06T17:09:01.8Z"
+    },
+    {
+      "version": "0.8.2",
+      "flags": "validated",
+      "lastUpdated": "2022-02-27T04:12:23.743Z"
     }
   ],
   "categories": [
@@ -54,6 +72,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-iot/vsextensions/vscode-ros/0.9.6/vspackage",
-  "filename": "ms-iot.vscode-ros-0.9.6.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros"
 }

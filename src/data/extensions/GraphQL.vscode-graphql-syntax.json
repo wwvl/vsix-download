@@ -1,7 +1,5 @@
 {
-  "extension_id": "e1ab76b1-9acd-4ffa-baf7-1d9eaf7cf3d2",
-  "extension_name": "vscode-graphql-syntax",
-  "extension_full_name": "GraphQL.vscode-graphql-syntax",
+  "extension_name": "GraphQL.vscode-graphql-syntax",
   "display_name": "GraphQL: Syntax Highlighting",
   "short_description": "Adds syntax highlighting support for .graphql & embedded support for javascript, typescript, vue, markdown, python, php, reason, ocaml and rescript",
   "latest_version": "1.3.8",
@@ -36,6 +34,26 @@
       "version": "1.3.3",
       "flags": "validated",
       "lastUpdated": "2024-03-01T18:31:18.33Z"
+    },
+    {
+      "version": "1.3.2",
+      "flags": "validated",
+      "lastUpdated": "2024-02-04T14:12:56.247Z"
+    },
+    {
+      "version": "1.3.1",
+      "flags": "validated",
+      "lastUpdated": "2024-01-28T18:58:11.977Z"
+    },
+    {
+      "version": "1.3.0",
+      "flags": "validated",
+      "lastUpdated": "2024-01-25T06:25:45.01Z"
+    },
+    {
+      "version": "1.2.3",
+      "flags": "validated",
+      "lastUpdated": "2024-01-10T18:39:10.353Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "python"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GraphQL/vsextensions/vscode-graphql-syntax/1.3.8/vspackage",
-  "filename": "GraphQL.vscode-graphql-syntax-1.3.8.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax"
 }

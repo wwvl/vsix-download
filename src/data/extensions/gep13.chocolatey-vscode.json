@@ -1,7 +1,5 @@
 {
-  "extension_id": "bd004245-2c8f-473d-a80b-7df434334890",
-  "extension_name": "chocolatey-vscode",
-  "extension_full_name": "gep13.chocolatey-vscode",
+  "extension_name": "gep13.chocolatey-vscode",
   "display_name": "Chocolatey",
   "short_description": "Set of snippets and commands for helping with creating packages for Chocolatey.",
   "latest_version": "0.7.2",
@@ -36,6 +34,26 @@
       "version": "0.4.1",
       "flags": "validated",
       "lastUpdated": "2018-11-27T08:32:34.93Z"
+    },
+    {
+      "version": "0.4.0",
+      "flags": "validated",
+      "lastUpdated": "2018-11-24T22:28:49.997Z"
+    },
+    {
+      "version": "0.3.0",
+      "flags": "validated",
+      "lastUpdated": "2018-09-10T09:54:20.933Z"
+    },
+    {
+      "version": "0.2.2",
+      "flags": "validated",
+      "lastUpdated": "2016-01-26T13:01:31.47Z"
+    },
+    {
+      "version": "0.2.1",
+      "flags": "validated",
+      "lastUpdated": "2016-01-10T14:20:11.307Z"
     }
   ],
   "categories": [
@@ -46,6 +64,5 @@
     "zip"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gep13/vsextensions/chocolatey-vscode/0.7.2/vspackage",
-  "filename": "gep13.chocolatey-vscode-0.7.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gep13.chocolatey-vscode"
 }

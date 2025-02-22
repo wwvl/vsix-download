@@ -1,7 +1,5 @@
 {
-  "extension_id": "de3960e6-b262-4565-8a1c-9870629f1ed9",
-  "extension_name": "datawrangler",
-  "extension_full_name": "ms-toolsai.datawrangler",
+  "extension_name": "ms-toolsai.datawrangler",
   "display_name": "Data Wrangler",
   "short_description": "Data viewing, cleaning and preparation for tabular datasets",
   "latest_version": "1.19.2",
@@ -36,6 +34,26 @@
       "version": "1.18.0",
       "flags": "validated",
       "lastUpdated": "2025-02-06T23:32:13.8Z"
+    },
+    {
+      "version": "1.17.2",
+      "flags": "validated",
+      "lastUpdated": "2025-01-28T18:35:27.753Z"
+    },
+    {
+      "version": "1.17.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-14T01:43:38.783Z"
+    },
+    {
+      "version": "1.17.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T23:48:55.233Z"
+    },
+    {
+      "version": "1.16.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T23:41:02.28Z"
     }
   ],
   "categories": [
@@ -97,6 +115,5 @@
     "xlsx"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.19.2/vspackage",
-  "filename": "ms-toolsai.datawrangler-1.19.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
 }

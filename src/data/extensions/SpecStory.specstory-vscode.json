@@ -1,7 +1,5 @@
 {
-  "extension_id": "433b0647-99de-499f-9137-c875e9a9cef6",
-  "extension_name": "specstory-vscode",
-  "extension_full_name": "SpecStory.specstory-vscode",
+  "extension_name": "SpecStory.specstory-vscode",
   "display_name": "SpecStory (Cursor Extension)",
   "short_description": "(Cursor Extension) Capture, search and learn from every AI coding journey",
   "latest_version": "0.5.0",
@@ -36,6 +34,26 @@
       "version": "0.3.2",
       "flags": "validated",
       "lastUpdated": "2025-01-14T17:38:47.79Z"
+    },
+    {
+      "version": "0.3.1",
+      "flags": "validated",
+      "lastUpdated": "2025-01-13T02:20:08.677Z"
+    },
+    {
+      "version": "0.3.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-11T16:22:05.64Z"
+    },
+    {
+      "version": "0.2.7",
+      "flags": "validated",
+      "lastUpdated": "2025-01-07T12:38:51.293Z"
+    },
+    {
+      "version": "0.2.6",
+      "flags": "validated",
+      "lastUpdated": "2025-01-04T02:01:17.79Z"
     }
   ],
   "categories": [
@@ -43,6 +61,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.5.0/vspackage",
-  "filename": "SpecStory.specstory-vscode-0.5.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "efcb43ca-77e6-43e4-8ddc-ada617cb34bd",
-  "extension_name": "fabric8-analytics",
-  "extension_full_name": "redhat.fabric8-analytics",
+  "extension_name": "redhat.fabric8-analytics",
   "display_name": "Red Hat Dependency Analytics",
   "short_description": "Provides insights on security vulnerabilities in your application dependencies.",
   "latest_version": "0.9.5",
@@ -36,6 +34,27 @@
       "version": "0.9.0",
       "flags": "validated",
       "lastUpdated": "2023-12-21T09:49:57.283Z"
+    },
+    {
+      "version": "0.7.3",
+      "flags": "validated",
+      "lastUpdated": "2023-11-08T08:46:27.923Z"
+    },
+    {
+      "version": "0.7.0",
+      "flags": "validated",
+      "lastUpdated": "2023-09-11T15:52:32.767Z"
+    },
+    {
+      "version": "0.3.10",
+      "flags": "validated",
+      "lastUpdated": "2023-05-22T09:43:45.823Z"
+    },
+    {
+      "version": "0.3.9",
+      "flags": "none",
+      "lastUpdated": "2023-05-22T05:12:04.783Z",
+      "validationResultMessage": "Error processing 'redhat.fabric8-analytics' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/version/redhat.fabric8-analytics.svg’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
     }
   ],
   "categories": [
@@ -51,6 +70,5 @@
     "vulnerability"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/fabric8-analytics/0.9.5/vspackage",
-  "filename": "redhat.fabric8-analytics-0.9.5.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics"
 }

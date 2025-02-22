@@ -1,7 +1,5 @@
 {
-  "extension_id": "7ad42776-8f7e-4214-bf67-4f0b518ef629",
-  "extension_name": "csdevkit",
-  "extension_full_name": "ms-dotnettools.csdevkit",
+  "extension_name": "ms-dotnettools.csdevkit",
   "display_name": "C# Dev Kit",
   "short_description": "Official C# extension from Microsoft",
   "latest_version": "1.17.27",
@@ -42,6 +40,30 @@
       "targetPlatform": "alpine-arm64",
       "flags": "validated",
       "lastUpdated": "2025-02-19T22:03:40.9Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:03:35.527Z"
+    },
+    {
+      "version": "1.17.27",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T22:03:27.13Z"
+    },
+    {
+      "version": "1.17.12",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T18:21:14.527Z"
+    },
+    {
+      "version": "1.17.12",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T18:20:28.663Z"
     }
   ],
   "categories": [
@@ -60,6 +82,5 @@
     "keybindings"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.27/vspackage",
-  "filename": "ms-dotnettools.csdevkit-1.17.27.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
 }

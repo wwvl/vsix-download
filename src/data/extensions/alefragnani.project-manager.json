@@ -1,7 +1,5 @@
 {
-  "extension_id": "1b747f06-3789-4ebd-ac99-f1fe430c3347",
-  "extension_name": "project-manager",
-  "extension_full_name": "alefragnani.project-manager",
+  "extension_name": "alefragnani.project-manager",
   "display_name": "Project Manager",
   "short_description": "Easily switch between projects",
   "latest_version": "12.8.0",
@@ -36,6 +34,26 @@
       "version": "12.4.0",
       "flags": "validated",
       "lastUpdated": "2021-09-09T01:00:28.15Z"
+    },
+    {
+      "version": "12.3.0",
+      "flags": "validated",
+      "lastUpdated": "2021-07-12T00:15:59.387Z"
+    },
+    {
+      "version": "12.2.0",
+      "flags": "validated",
+      "lastUpdated": "2021-06-10T20:38:27.593Z"
+    },
+    {
+      "version": "12.1.0",
+      "flags": "validated",
+      "lastUpdated": "2021-04-02T17:31:28.62Z"
+    },
+    {
+      "version": "12.0.1",
+      "flags": "validated",
+      "lastUpdated": "2020-11-23T23:48:01.907Z"
     }
   ],
   "categories": [
@@ -54,6 +72,5 @@
     "workspace"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/project-manager/12.8.0/vspackage",
-  "filename": "alefragnani.project-manager-12.8.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
 }

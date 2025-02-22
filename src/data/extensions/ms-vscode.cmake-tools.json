@@ -1,7 +1,5 @@
 {
-  "extension_id": "7c889349-8749-43d4-8b5e-08939936d7f4",
-  "extension_name": "cmake-tools",
-  "extension_full_name": "ms-vscode.cmake-tools",
+  "extension_name": "ms-vscode.cmake-tools",
   "display_name": "CMake Tools",
   "short_description": "Extended CMake support in Visual Studio Code",
   "latest_version": "1.20.52",
@@ -37,6 +35,26 @@
       "version": "1.20.47",
       "flags": "validated",
       "lastUpdated": "2025-02-05T04:24:14.913Z"
+    },
+    {
+      "version": "1.20.46",
+      "flags": "validated",
+      "lastUpdated": "2025-02-03T04:24:05.673Z"
+    },
+    {
+      "version": "1.20.45",
+      "flags": "validated",
+      "lastUpdated": "2025-01-31T04:24:26.803Z"
+    },
+    {
+      "version": "1.20.44",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T04:28:56.497Z"
+    },
+    {
+      "version": "1.20.43",
+      "flags": "validated",
+      "lastUpdated": "2025-01-29T04:21:48.677Z"
     }
   ],
   "categories": [
@@ -57,6 +75,5 @@
     "tools"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.20.52/vspackage",
-  "filename": "ms-vscode.cmake-tools-1.20.52.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
-  "extension_name": "vscode-java-pack",
-  "extension_full_name": "vscjava.vscode-java-pack",
+  "extension_name": "vscjava.vscode-java-pack",
   "display_name": "Extension Pack for Java",
   "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
   "latest_version": "0.29.2024091906",
@@ -36,6 +34,26 @@
       "version": "0.28.2024073107",
       "flags": "validated",
       "lastUpdated": "2024-07-31T08:29:12.133Z"
+    },
+    {
+      "version": "0.28.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-01T03:30:30.553Z"
+    },
+    {
+      "version": "0.27.2024072009",
+      "flags": "validated",
+      "lastUpdated": "2024-07-20T10:05:59.423Z"
+    },
+    {
+      "version": "0.27.2024071908",
+      "flags": "validated",
+      "lastUpdated": "2024-07-19T08:34:52.927Z"
+    },
+    {
+      "version": "0.27.2024062708",
+      "flags": "validated",
+      "lastUpdated": "2024-06-27T08:22:31.603Z"
     }
   ],
   "categories": [
@@ -55,6 +73,5 @@
     "spring"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2024091906/vspackage",
-  "filename": "vscjava.vscode-java-pack-0.29.2024091906.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
 }

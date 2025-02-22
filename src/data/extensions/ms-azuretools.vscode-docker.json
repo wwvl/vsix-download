@@ -1,7 +1,5 @@
 {
-  "extension_id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-  "extension_name": "vscode-docker",
-  "extension_full_name": "ms-azuretools.vscode-docker",
+  "extension_name": "ms-azuretools.vscode-docker",
   "display_name": "Docker",
   "short_description": "Makes it easy to create, manage, and debug containerized applications.",
   "latest_version": "1.29.4",
@@ -36,6 +34,26 @@
       "version": "1.28.0",
       "flags": "validated",
       "lastUpdated": "2023-11-13T14:39:40.607Z"
+    },
+    {
+      "version": "1.27.0",
+      "flags": "validated",
+      "lastUpdated": "2023-10-16T13:45:18.783Z"
+    },
+    {
+      "version": "1.26.1",
+      "flags": "validated",
+      "lastUpdated": "2023-09-19T14:42:56.623Z"
+    },
+    {
+      "version": "1.26.0",
+      "flags": "validated",
+      "lastUpdated": "2023-07-17T14:16:32.22Z"
+    },
+    {
+      "version": "1.25.2",
+      "flags": "validated",
+      "lastUpdated": "2023-06-29T17:48:12.98Z"
     }
   ],
   "categories": [
@@ -55,6 +73,5 @@
     "multi-root ready"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.4/vspackage",
-  "filename": "ms-azuretools.vscode-docker-1.29.4.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
 }

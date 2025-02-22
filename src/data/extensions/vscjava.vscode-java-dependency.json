@@ -1,7 +1,5 @@
 {
-  "extension_id": "7865e561-1c83-410e-9b99-aabada597a7e",
-  "extension_name": "vscode-java-dependency",
-  "extension_full_name": "vscjava.vscode-java-dependency",
+  "extension_name": "vscjava.vscode-java-dependency",
   "display_name": "Project Manager for Java",
   "short_description": "Manage Java projects in Visual Studio Code",
   "latest_version": "0.24.1",
@@ -36,6 +34,26 @@
       "version": "0.23.2024042600",
       "flags": "validated",
       "lastUpdated": "2024-05-11T04:47:56.3Z"
+    },
+    {
+      "version": "0.23.2024041907",
+      "flags": "validated",
+      "lastUpdated": "2024-04-19T07:35:54.953Z"
+    },
+    {
+      "version": "0.23.2024032505",
+      "flags": "validated",
+      "lastUpdated": "2024-03-25T06:12:07.87Z"
+    },
+    {
+      "version": "0.23.2024022305",
+      "flags": "validated",
+      "lastUpdated": "2024-02-23T05:58:06.837Z"
+    },
+    {
+      "version": "0.23.2024010506",
+      "flags": "validated",
+      "lastUpdated": "2024-01-05T07:08:13.573Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "project"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.24.1/vspackage",
-  "filename": "vscjava.vscode-java-dependency-0.24.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
 }

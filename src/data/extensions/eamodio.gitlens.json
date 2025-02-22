@@ -1,12 +1,15 @@
 {
-  "extension_id": "4de763bd-505d-4978-9575-2b7696ecf94e",
-  "extension_name": "gitlens",
-  "extension_full_name": "eamodio.gitlens",
+  "extension_name": "eamodio.gitlens",
   "display_name": "GitLens — Git supercharged",
   "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-  "latest_version": "2025.2.2004",
-  "last_updated": "2025-02-20T09:12:11.013Z",
+  "latest_version": "2025.2.2104",
+  "last_updated": "2025-02-21T09:12:08.057Z",
   "version_history": [
+    {
+      "version": "2025.2.2104",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T09:12:08.057Z"
+    },
     {
       "version": "2025.2.2004",
       "flags": "validated",
@@ -36,6 +39,21 @@
       "version": "2025.2.1304",
       "flags": "validated",
       "lastUpdated": "2025-02-13T09:12:50.58Z"
+    },
+    {
+      "version": "2025.2.1204",
+      "flags": "validated",
+      "lastUpdated": "2025-02-12T09:13:05.72Z"
+    },
+    {
+      "version": "2025.2.1111",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T17:00:01.517Z"
+    },
+    {
+      "version": "2025.2.1104",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T09:12:17.587Z"
     }
   ],
   "categories": [
@@ -50,7 +68,6 @@
     "log",
     "multi-root ready"
   ],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2004/vspackage",
-  "filename": "eamodio.gitlens-2025.2.2004.vsix",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2104/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
 }

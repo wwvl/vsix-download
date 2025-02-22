@@ -1,7 +1,5 @@
 {
-  "extension_id": "4023d3e5-c840-4cdd-8b54-51c77548aa3f",
-  "extension_name": "codespaces",
-  "extension_full_name": "GitHub.codespaces",
+  "extension_name": "GitHub.codespaces",
   "display_name": "GitHub Codespaces",
   "short_description": "Your instant dev environment",
   "latest_version": "1.17.3",
@@ -36,6 +34,26 @@
       "version": "1.16.21",
       "flags": "validated",
       "lastUpdated": "2024-05-06T18:16:32.627Z"
+    },
+    {
+      "version": "1.16.20",
+      "flags": "validated",
+      "lastUpdated": "2024-04-29T16:57:48.773Z"
+    },
+    {
+      "version": "1.16.19",
+      "flags": "validated",
+      "lastUpdated": "2024-04-09T17:52:49.61Z"
+    },
+    {
+      "version": "1.16.18",
+      "flags": "validated",
+      "lastUpdated": "2024-04-01T19:53:12.867Z"
+    },
+    {
+      "version": "1.16.17",
+      "flags": "validated",
+      "lastUpdated": "2024-03-20T19:39:19.14Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "remote-menu"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.3/vspackage",
-  "filename": "GitHub.codespaces-1.17.3.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
 }

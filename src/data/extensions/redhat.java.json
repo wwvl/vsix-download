@@ -1,7 +1,5 @@
 {
-  "extension_id": "198a707e-28af-4e84-8610-6e2f628dd12d",
-  "extension_name": "java",
-  "extension_full_name": "redhat.java",
+  "extension_name": "redhat.java",
   "display_name": "Language Support for Java(TM) by Red Hat",
   "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
   "latest_version": "1.40.2025022008",
@@ -41,6 +39,29 @@
       "targetPlatform": "darwin-arm64",
       "flags": "validated",
       "lastUpdated": "2025-02-20T09:17:38.75Z"
+    },
+    {
+      "version": "1.40.2025021908",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T08:36:38.507Z"
+    },
+    {
+      "version": "1.40.2025021908",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T08:31:17.253Z"
+    },
+    {
+      "version": "1.40.2025021908",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T08:31:10.643Z"
+    },
+    {
+      "version": "1.40.2025021908",
+      "flags": "validated",
+      "lastUpdated": "2025-02-19T08:24:24.98Z"
     }
   ],
   "categories": [
@@ -61,6 +82,5 @@
     "multi-root ready"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.40.2025022008/vspackage",
-  "filename": "redhat.java-1.40.2025022008.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
 }

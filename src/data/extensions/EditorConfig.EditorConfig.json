@@ -1,7 +1,5 @@
 {
-  "extension_id": "f60a60a6-95ba-42d4-b41c-3d24c1b89588",
-  "extension_name": "EditorConfig",
-  "extension_full_name": "EditorConfig.EditorConfig",
+  "extension_name": "EditorConfig.EditorConfig",
   "display_name": "EditorConfig for VS Code",
   "short_description": "EditorConfig Support for Visual Studio Code",
   "latest_version": "0.17.1",
@@ -36,6 +34,26 @@
       "version": "0.16.2",
       "flags": "validated",
       "lastUpdated": "2020-11-25T17:50:39.93Z"
+    },
+    {
+      "version": "0.16.1",
+      "flags": "validated",
+      "lastUpdated": "2020-11-25T01:13:50.86Z"
+    },
+    {
+      "version": "0.16.0",
+      "flags": "validated",
+      "lastUpdated": "2020-11-25T00:46:32.38Z"
+    },
+    {
+      "version": "0.15.5",
+      "flags": "validated",
+      "lastUpdated": "2020-11-24T20:37:50.72Z"
+    },
+    {
+      "version": "0.15.4",
+      "flags": "validated",
+      "lastUpdated": "2020-11-24T19:40:55.28Z"
     }
   ],
   "categories": [
@@ -48,6 +66,5 @@
     "multi-root ready"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.1/vspackage",
-  "filename": "EditorConfig.EditorConfig-0.17.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
 }

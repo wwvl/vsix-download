@@ -1,7 +1,5 @@
 {
-  "extension_id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
-  "extension_name": "code-spell-checker",
-  "extension_full_name": "streetsidesoftware.code-spell-checker",
+  "extension_name": "streetsidesoftware.code-spell-checker",
   "display_name": "Code Spell Checker",
   "short_description": "Spelling checker for source code",
   "latest_version": "4.0.38",
@@ -36,6 +34,26 @@
       "version": "4.0.33",
       "flags": "validated",
       "lastUpdated": "2025-01-07T18:16:22.65Z"
+    },
+    {
+      "version": "4.0.32",
+      "flags": "validated",
+      "lastUpdated": "2025-01-05T17:50:39.72Z"
+    },
+    {
+      "version": "4.0.31",
+      "flags": "validated",
+      "lastUpdated": "2025-01-02T10:33:40.673Z"
+    },
+    {
+      "version": "4.0.30",
+      "flags": "validated",
+      "lastUpdated": "2025-01-02T09:42:12.103Z"
+    },
+    {
+      "version": "4.0.29",
+      "flags": "validated",
+      "lastUpdated": "2024-12-29T12:35:21.387Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "spelling"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.38/vspackage",
-  "filename": "streetsidesoftware.code-spell-checker-4.0.38.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
 }

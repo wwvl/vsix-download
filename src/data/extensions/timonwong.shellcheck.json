@@ -1,7 +1,5 @@
 {
-  "extension_id": "f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6",
-  "extension_name": "shellcheck",
-  "extension_full_name": "timonwong.shellcheck",
+  "extension_name": "timonwong.shellcheck",
   "display_name": "ShellCheck",
   "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
   "latest_version": "0.37.7",
@@ -41,6 +39,30 @@
       "targetPlatform": "darwin-x64",
       "flags": "validated",
       "lastUpdated": "2025-02-10T16:57:32.493Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:57:20.34Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:56:53.953Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:56:47.24Z"
+    },
+    {
+      "version": "0.37.7",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-10T16:56:39.623Z"
     }
   ],
   "categories": [
@@ -62,6 +84,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.37.7/vspackage",
-  "filename": "timonwong.shellcheck-0.37.7.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
 }

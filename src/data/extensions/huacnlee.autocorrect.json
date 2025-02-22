@@ -1,7 +1,5 @@
 {
-  "extension_id": "7b06b128-11b5-49af-b262-9c5abbd5a10d",
-  "extension_name": "autocorrect",
-  "extension_full_name": "huacnlee.autocorrect",
+  "extension_name": "huacnlee.autocorrect",
   "display_name": "AutoCorrect",
   "short_description": "AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).",
   "latest_version": "2.6.4",
@@ -36,6 +34,26 @@
       "version": "2.5.8",
       "flags": "validated",
       "lastUpdated": "2023-01-12T14:37:20.443Z"
+    },
+    {
+      "version": "2.5.2",
+      "flags": "validated",
+      "lastUpdated": "2022-11-29T05:20:52.783Z"
+    },
+    {
+      "version": "2.5.1",
+      "flags": "validated",
+      "lastUpdated": "2022-11-24T12:18:33.73Z"
+    },
+    {
+      "version": "2.5.0",
+      "flags": "validated",
+      "lastUpdated": "2022-11-24T11:32:05.573Z"
+    },
+    {
+      "version": "2.4.3",
+      "flags": "validated",
+      "lastUpdated": "2022-11-24T03:38:01.073Z"
     }
   ],
   "categories": [
@@ -47,6 +65,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/huacnlee/vsextensions/autocorrect/2.6.4/vspackage",
-  "filename": "huacnlee.autocorrect-2.6.4.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=huacnlee.autocorrect"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "f57f68ea-9ee8-42b5-9a97-041d3e4278c4",
-  "extension_name": "dart-code",
-  "extension_full_name": "Dart-Code.dart-code",
+  "extension_name": "Dart-Code.dart-code",
   "display_name": "Dart",
   "short_description": "Dart language support and debugger for Visual Studio Code.",
   "latest_version": "3.105.20250220",
@@ -36,6 +34,26 @@
       "version": "3.103.20250129",
       "flags": "validated",
       "lastUpdated": "2025-01-29T16:14:54.513Z"
+    },
+    {
+      "version": "3.103.20250121",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T16:45:36.067Z"
+    },
+    {
+      "version": "3.103.20250116",
+      "flags": "validated",
+      "lastUpdated": "2025-01-16T17:39:46.24Z"
+    },
+    {
+      "version": "3.103.20250113",
+      "flags": "validated",
+      "lastUpdated": "2025-01-13T11:52:09.897Z"
+    },
+    {
+      "version": "3.103.20241230",
+      "flags": "validated",
+      "lastUpdated": "2024-12-30T12:25:48.417Z"
     }
   ],
   "categories": [
@@ -55,6 +73,5 @@
     "multi-root ready"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.105.20250220/vspackage",
-  "filename": "Dart-Code.dart-code-3.105.20250220.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
 }

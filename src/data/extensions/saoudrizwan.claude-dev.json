@@ -1,7 +1,5 @@
 {
-  "extension_id": "ad94c633-a9d5-4f78-b85f-c664e7d91a0f",
-  "extension_name": "claude-dev",
-  "extension_full_name": "saoudrizwan.claude-dev",
+  "extension_name": "saoudrizwan.claude-dev",
   "display_name": "Cline",
   "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
   "latest_version": "3.4.5",
@@ -37,6 +35,26 @@
       "flags": "none",
       "lastUpdated": "2025-02-19T17:21:43.7Z",
       "validationResultMessage": "Something went wrong, please retry after sometime."
+    },
+    {
+      "version": "3.3.1",
+      "flags": "validated",
+      "lastUpdated": "2025-02-09T01:20:19.687Z"
+    },
+    {
+      "version": "3.3.0",
+      "flags": "validated",
+      "lastUpdated": "2025-02-09T00:21:22.627Z"
+    },
+    {
+      "version": "3.2.13",
+      "flags": "validated",
+      "lastUpdated": "2025-02-05T20:55:56.027Z"
+    },
+    {
+      "version": "3.2.12",
+      "flags": "validated",
+      "lastUpdated": "2025-02-02T02:40:17.647Z"
     }
   ],
   "categories": [
@@ -62,6 +80,5 @@
     "sonnet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.5/vspackage",
-  "filename": "saoudrizwan.claude-dev-3.4.5.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
 }

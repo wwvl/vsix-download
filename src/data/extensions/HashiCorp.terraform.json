@@ -1,7 +1,5 @@
 {
-  "extension_id": "4a23294b-fd16-4c51-9759-da9936474cf8",
-  "extension_name": "terraform",
-  "extension_full_name": "HashiCorp.terraform",
+  "extension_name": "HashiCorp.terraform",
   "display_name": "HashiCorp Terraform",
   "short_description": "Syntax highlighting and autocompletion for Terraform",
   "latest_version": "2.34.2025012311",
@@ -42,6 +40,30 @@
       "targetPlatform": "win32-x64",
       "flags": "validated",
       "lastUpdated": "2025-01-23T17:33:04.93Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:32:04.97Z"
+    },
+    {
+      "version": "2.34.2025012311",
+      "targetPlatform": "web",
+      "flags": "validated",
+      "lastUpdated": "2025-01-23T17:31:51.677Z"
+    },
+    {
+      "version": "2.34.2024121211",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2024-12-12T18:15:56.367Z"
+    },
+    {
+      "version": "2.34.2024121211",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2024-12-12T18:15:32.66Z"
     }
   ],
   "categories": [
@@ -67,6 +89,5 @@
     "terraform-version"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HashiCorp/vsextensions/terraform/2.34.2025012311/vspackage",
-  "filename": "HashiCorp.terraform-2.34.2025012311.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform"
 }

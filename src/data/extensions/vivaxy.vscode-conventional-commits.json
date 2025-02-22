@@ -1,7 +1,5 @@
 {
-  "extension_id": "b6b26bce-33f4-4bce-bf92-89812388ed0a",
-  "extension_name": "vscode-conventional-commits",
-  "extension_full_name": "vivaxy.vscode-conventional-commits",
+  "extension_name": "vivaxy.vscode-conventional-commits",
   "display_name": "Conventional Commits",
   "short_description": "💬Conventional Commits for VSCode.",
   "latest_version": "1.26.0",
@@ -37,6 +35,26 @@
       "version": "1.24.2",
       "flags": "validated",
       "lastUpdated": "2022-08-23T02:09:35.407Z"
+    },
+    {
+      "version": "1.24.1",
+      "flags": "validated",
+      "lastUpdated": "2022-05-03T05:01:53.543Z"
+    },
+    {
+      "version": "1.24.0",
+      "flags": "validated",
+      "lastUpdated": "2021-12-17T06:28:41.577Z"
+    },
+    {
+      "version": "1.23.0",
+      "flags": "validated",
+      "lastUpdated": "2021-10-08T04:20:30.253Z"
+    },
+    {
+      "version": "1.22.0",
+      "flags": "validated",
+      "lastUpdated": "2021-08-27T08:58:16.31Z"
     }
   ],
   "categories": [
@@ -53,6 +71,5 @@
     "git"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vivaxy/vsextensions/vscode-conventional-commits/1.26.0/vspackage",
-  "filename": "vivaxy.vscode-conventional-commits-1.26.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits"
 }

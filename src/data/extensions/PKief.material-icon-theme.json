@@ -1,7 +1,5 @@
 {
-  "extension_id": "5db78037-f674-459f-a236-db622c427c5b",
-  "extension_name": "material-icon-theme",
-  "extension_full_name": "PKief.material-icon-theme",
+  "extension_name": "PKief.material-icon-theme",
   "display_name": "Material Icon Theme",
   "short_description": "Material Design Icons for Visual Studio Code",
   "latest_version": "5.19.0",
@@ -36,6 +34,26 @@
       "version": "5.14.1",
       "flags": "validated",
       "lastUpdated": "2024-11-13T14:50:54.82Z"
+    },
+    {
+      "version": "5.14.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-13T09:21:10.25Z"
+    },
+    {
+      "version": "5.13.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-05T20:50:36.073Z"
+    },
+    {
+      "version": "5.12.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-23T10:10:29.143Z"
+    },
+    {
+      "version": "5.11.1",
+      "flags": "validated",
+      "lastUpdated": "2024-09-21T08:31:28.917Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "theme"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.19.0/vspackage",
-  "filename": "PKief.material-icon-theme-5.19.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
 }

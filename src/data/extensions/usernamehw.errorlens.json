@@ -1,7 +1,5 @@
 {
-  "extension_id": "9d8c32ab-354c-4daf-a9bf-20b633734435",
-  "extension_name": "errorlens",
-  "extension_full_name": "usernamehw.errorlens",
+  "extension_name": "usernamehw.errorlens",
   "display_name": "Error Lens",
   "short_description": "Improve highlighting of errors, warnings and other language diagnostics.",
   "latest_version": "3.23.0",
@@ -36,6 +34,26 @@
       "version": "3.19.0",
       "flags": "validated",
       "lastUpdated": "2024-06-21T14:56:10.1Z"
+    },
+    {
+      "version": "3.18.0",
+      "flags": "validated",
+      "lastUpdated": "2024-05-28T16:47:48.33Z"
+    },
+    {
+      "version": "3.17.0",
+      "flags": "validated",
+      "lastUpdated": "2024-04-14T19:50:54.43Z"
+    },
+    {
+      "version": "3.16.0",
+      "flags": "validated",
+      "lastUpdated": "2023-12-16T09:12:54.723Z"
+    },
+    {
+      "version": "3.15.0",
+      "flags": "validated",
+      "lastUpdated": "2023-10-22T14:19:22.603Z"
     }
   ],
   "categories": [
@@ -54,6 +72,5 @@
     "warning"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.23.0/vspackage",
-  "filename": "usernamehw.errorlens-3.23.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
 }

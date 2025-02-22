@@ -1,7 +1,5 @@
 {
-  "extension_id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-  "extension_name": "vsliveshare",
-  "extension_full_name": "MS-vsliveshare.vsliveshare",
+  "extension_name": "MS-vsliveshare.vsliveshare",
   "display_name": "Live Share",
   "short_description": "Real-time collaborative development from the comfort of your favorite tools.",
   "latest_version": "1.0.5948",
@@ -36,6 +34,26 @@
       "version": "1.0.5918",
       "flags": "validated",
       "lastUpdated": "2024-03-05T20:21:09.13Z"
+    },
+    {
+      "version": "1.0.5905",
+      "flags": "validated",
+      "lastUpdated": "2024-01-11T18:25:32.12Z"
+    },
+    {
+      "version": "1.0.5900",
+      "flags": "validated",
+      "lastUpdated": "2023-12-08T19:55:39.877Z"
+    },
+    {
+      "version": "1.0.5897",
+      "flags": "validated",
+      "lastUpdated": "2023-12-06T18:56:27.54Z"
+    },
+    {
+      "version": "1.0.5896",
+      "flags": "validated",
+      "lastUpdated": "2023-11-28T18:03:21.39Z"
     }
   ],
   "categories": [
@@ -53,6 +71,5 @@
     "Sharing"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5948/vspackage",
-  "filename": "MS-vsliveshare.vsliveshare-1.0.5948.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
 }

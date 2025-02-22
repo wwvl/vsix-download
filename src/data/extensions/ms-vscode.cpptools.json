@@ -1,7 +1,5 @@
 {
-  "extension_id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
-  "extension_name": "cpptools",
-  "extension_full_name": "ms-vscode.cpptools",
+  "extension_name": "ms-vscode.cpptools",
   "display_name": "C/C++",
   "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
   "latest_version": "1.24.1",
@@ -42,6 +40,30 @@
       "targetPlatform": "darwin-x64",
       "flags": "validated",
       "lastUpdated": "2025-02-14T00:47:08.203Z"
+    },
+    {
+      "version": "1.24.1",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-14T00:46:38.627Z"
+    },
+    {
+      "version": "1.24.1",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-14T00:46:29.78Z"
+    },
+    {
+      "version": "1.24.1",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-14T00:46:20.867Z"
+    },
+    {
+      "version": "1.24.0",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-11T23:58:34.557Z"
     }
   ],
   "categories": [
@@ -64,6 +86,5 @@
     "multi-root ready"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.1/vspackage",
-  "filename": "ms-vscode.cpptools-1.24.1.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
 }

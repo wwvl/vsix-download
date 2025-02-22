@@ -1,7 +1,5 @@
 {
-  "extension_id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
-  "extension_name": "prettier-vscode",
-  "extension_full_name": "esbenp.prettier-vscode",
+  "extension_name": "esbenp.prettier-vscode",
   "display_name": "Prettier - Code formatter",
   "short_description": "Code formatter using prettier",
   "latest_version": "11.0.0",
@@ -36,6 +34,26 @@
       "version": "9.20.0",
       "flags": "validated",
       "lastUpdated": "2023-07-31T16:02:09.323Z"
+    },
+    {
+      "version": "9.19.0",
+      "flags": "validated",
+      "lastUpdated": "2023-06-30T14:46:17.72Z"
+    },
+    {
+      "version": "9.18.0",
+      "flags": "validated",
+      "lastUpdated": "2023-06-30T14:32:37.78Z"
+    },
+    {
+      "version": "9.16.0",
+      "flags": "validated",
+      "lastUpdated": "2023-06-22T11:49:56.99Z"
+    },
+    {
+      "version": "9.15.0",
+      "flags": "validated",
+      "lastUpdated": "2023-06-20T17:52:37.837Z"
     }
   ],
   "categories": [
@@ -77,6 +95,5 @@
     "yml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/esbenp/vsextensions/prettier-vscode/11.0.0/vspackage",
-  "filename": "esbenp.prettier-vscode-11.0.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
 }

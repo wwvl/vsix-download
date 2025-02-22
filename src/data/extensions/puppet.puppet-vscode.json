@@ -1,7 +1,5 @@
 {
-  "extension_id": "6888a303-8912-4fe1-8e83-56b76ffdaf42",
-  "extension_name": "puppet-vscode",
-  "extension_full_name": "puppet.puppet-vscode",
+  "extension_name": "puppet.puppet-vscode",
   "display_name": "Puppet",
   "short_description": "Official Puppet VSCode extension. Provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more",
   "latest_version": "1.5.4",
@@ -36,6 +34,27 @@
       "version": "1.4.2",
       "flags": "validated",
       "lastUpdated": "2023-10-17T09:53:35.65Z"
+    },
+    {
+      "version": "1.4.1",
+      "flags": "none",
+      "lastUpdated": "2023-10-17T08:48:10.243Z",
+      "validationResultMessage": "Error processing 'puppet.puppet-vscode' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/version-short/puppet.puppet-vscode.svg’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
+    },
+    {
+      "version": "1.4.0",
+      "flags": "validated",
+      "lastUpdated": "2021-10-13T18:42:24.717Z"
+    },
+    {
+      "version": "1.3.0",
+      "flags": "validated",
+      "lastUpdated": "2021-06-08T18:55:32.763Z"
+    },
+    {
+      "version": "1.2.0",
+      "flags": "validated",
+      "lastUpdated": "2021-04-05T16:01:29.37Z"
     }
   ],
   "categories": [
@@ -58,6 +77,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/puppet/vsextensions/puppet-vscode/1.5.4/vspackage",
-  "filename": "puppet.puppet-vscode-1.5.4.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode"
 }

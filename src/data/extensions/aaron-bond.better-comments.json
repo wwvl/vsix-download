@@ -1,7 +1,5 @@
 {
-  "extension_id": "7a0110bb-231a-4598-aa1b-0769ea46d28b",
-  "extension_name": "better-comments",
-  "extension_full_name": "aaron-bond.better-comments",
+  "extension_name": "aaron-bond.better-comments",
   "display_name": "Better Comments",
   "short_description": "Improve your code commenting by annotating with alert, informational, TODOs, and more!",
   "latest_version": "3.0.2",
@@ -36,6 +34,26 @@
       "version": "2.0.4",
       "flags": "validated",
       "lastUpdated": "2019-05-14T15:25:44.18Z"
+    },
+    {
+      "version": "2.0.3",
+      "flags": "validated",
+      "lastUpdated": "2018-11-04T23:58:06.19Z"
+    },
+    {
+      "version": "2.0.2",
+      "flags": "validated",
+      "lastUpdated": "2018-10-10T19:32:00.707Z"
+    },
+    {
+      "version": "2.0.1",
+      "flags": "validated",
+      "lastUpdated": "2018-09-26T18:45:44.693Z"
+    },
+    {
+      "version": "2.0.0",
+      "flags": "validated",
+      "lastUpdated": "2018-09-20T18:41:55.19Z"
     }
   ],
   "categories": [
@@ -43,6 +61,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aaron-bond/vsextensions/better-comments/3.0.2/vspackage",
-  "filename": "aaron-bond.better-comments-3.0.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "7540cfc1-1044-4696-a0a3-c53d6f4e8cd4",
-  "extension_name": "vsleet",
-  "extension_full_name": "nikhilweee.vsleet",
+  "extension_name": "nikhilweee.vsleet",
   "display_name": "vsleet",
   "short_description": "Submit LeetCode problems directly from VSCode",
   "latest_version": "0.2.8",
@@ -36,6 +34,26 @@
       "version": "0.2.1",
       "flags": "validated",
       "lastUpdated": "2024-11-18T06:17:57.28Z"
+    },
+    {
+      "version": "0.2.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-18T05:52:04.667Z"
+    },
+    {
+      "version": "0.1.13",
+      "flags": "validated",
+      "lastUpdated": "2024-01-08T05:06:25.85Z"
+    },
+    {
+      "version": "0.1.12",
+      "flags": "validated",
+      "lastUpdated": "2024-01-07T21:48:50.797Z"
+    },
+    {
+      "version": "0.1.11",
+      "flags": "validated",
+      "lastUpdated": "2024-01-07T21:26:44.477Z"
     }
   ],
   "categories": [
@@ -47,6 +65,5 @@
     "python"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nikhilweee/vsextensions/vsleet/0.2.8/vspackage",
-  "filename": "nikhilweee.vsleet-0.2.8.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=nikhilweee.vsleet"
 }

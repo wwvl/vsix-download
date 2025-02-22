@@ -1,7 +1,5 @@
 {
-  "extension_id": "5e8803a2-3dc8-42b3-9c5f-ea9d37828c03",
-  "extension_name": "cloudcode",
-  "extension_full_name": "GoogleCloudTools.cloudcode",
+  "extension_name": "GoogleCloudTools.cloudcode",
   "display_name": "Google Cloud Code",
   "short_description": "Tools for Google Cloud",
   "latest_version": "2.27.0",
@@ -36,6 +34,26 @@
       "version": "2.22.0",
       "flags": "validated",
       "lastUpdated": "2024-12-04T23:12:30.797Z"
+    },
+    {
+      "version": "2.21.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-15T04:49:22.87Z"
+    },
+    {
+      "version": "2.20.2",
+      "flags": "validated",
+      "lastUpdated": "2024-11-09T00:53:47.033Z"
+    },
+    {
+      "version": "2.20.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-07T23:12:59.42Z"
+    },
+    {
+      "version": "2.20.0",
+      "flags": "validated",
+      "lastUpdated": "2024-10-30T19:35:16.067Z"
     }
   ],
   "categories": [
@@ -84,6 +102,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.27.0/vspackage",
-  "filename": "GoogleCloudTools.cloudcode-2.27.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
 }

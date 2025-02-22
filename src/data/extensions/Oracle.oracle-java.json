@@ -1,7 +1,5 @@
 {
-  "extension_id": "17ce260e-a479-4289-b71d-93cf366d3708",
-  "extension_name": "oracle-java",
-  "extension_full_name": "Oracle.oracle-java",
+  "extension_name": "Oracle.oracle-java",
   "display_name": "Java",
   "short_description": "Java Platform Extension for Visual Studio Code",
   "latest_version": "23.1.0",
@@ -36,6 +34,21 @@
       "version": "22.0.1",
       "flags": "validated",
       "lastUpdated": "2024-05-31T03:31:37.98Z"
+    },
+    {
+      "version": "22.0.0",
+      "flags": "validated",
+      "lastUpdated": "2024-04-25T12:36:59.66Z"
+    },
+    {
+      "version": "1.0.1",
+      "flags": "validated",
+      "lastUpdated": "2024-02-22T12:43:15.08Z"
+    },
+    {
+      "version": "1.0.0",
+      "flags": "validated",
+      "lastUpdated": "2023-10-18T12:20:24.687Z"
     }
   ],
   "categories": [
@@ -64,6 +77,5 @@
     "OpenJDK"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/23.1.0/vspackage",
-  "filename": "Oracle.oracle-java-23.1.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java"
 }

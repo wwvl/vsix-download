@@ -1,7 +1,5 @@
 {
-  "extension_id": "4b6540da-bfa3-4b88-b9e3-df8f2d161124",
-  "extension_name": "mongodb-vscode",
-  "extension_full_name": "mongodb.mongodb-vscode",
+  "extension_name": "mongodb.mongodb-vscode",
   "display_name": "MongoDB for VS Code",
   "short_description": "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.",
   "latest_version": "1.12.0",
@@ -36,6 +34,26 @@
       "version": "1.9.1",
       "flags": "validated",
       "lastUpdated": "2024-09-30T21:23:06.21Z"
+    },
+    {
+      "version": "1.8.1",
+      "flags": "validated",
+      "lastUpdated": "2024-09-02T07:35:17.27Z"
+    },
+    {
+      "version": "1.8.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-29T09:00:34.26Z"
+    },
+    {
+      "version": "1.7.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-01T15:00:19.13Z"
+    },
+    {
+      "version": "1.6.1",
+      "flags": "validated",
+      "lastUpdated": "2024-07-15T17:33:34.287Z"
     }
   ],
   "categories": [
@@ -61,6 +79,5 @@
     "terraform"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.12.0/vspackage",
-  "filename": "mongodb.mongodb-vscode-1.12.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
 }

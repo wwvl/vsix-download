@@ -1,7 +1,5 @@
 {
-  "extension_id": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3",
-  "extension_name": "vscode-wakatime",
-  "extension_full_name": "WakaTime.vscode-wakatime",
+  "extension_name": "WakaTime.vscode-wakatime",
   "display_name": "WakaTime",
   "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
   "latest_version": "25.0.0",
@@ -36,6 +34,26 @@
       "version": "24.7.2",
       "flags": "validated",
       "lastUpdated": "2024-11-07T14:26:53.023Z"
+    },
+    {
+      "version": "24.7.1",
+      "flags": "validated",
+      "lastUpdated": "2024-11-07T14:20:53.7Z"
+    },
+    {
+      "version": "24.7.0",
+      "flags": "validated",
+      "lastUpdated": "2024-11-07T13:32:55.62Z"
+    },
+    {
+      "version": "24.6.2",
+      "flags": "validated",
+      "lastUpdated": "2024-09-03T20:25:46.19Z"
+    },
+    {
+      "version": "24.6.1",
+      "flags": "validated",
+      "lastUpdated": "2024-08-30T07:09:38.803Z"
     }
   ],
   "categories": [
@@ -64,6 +82,5 @@
     "worktime"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.0.0/vspackage",
-  "filename": "WakaTime.vscode-wakatime-25.0.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
 }

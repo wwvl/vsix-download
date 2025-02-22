@@ -1,7 +1,5 @@
 {
-  "extension_id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
-  "extension_name": "markdown-preview-enhanced",
-  "extension_full_name": "shd101wyy.markdown-preview-enhanced",
+  "extension_name": "shd101wyy.markdown-preview-enhanced",
   "display_name": "Markdown Preview Enhanced",
   "short_description": "Markdown Preview Enhanced ported to vscode",
   "latest_version": "0.8.15",
@@ -36,6 +34,26 @@
       "version": "0.8.10",
       "flags": "validated",
       "lastUpdated": "2023-10-26T12:19:15.393Z"
+    },
+    {
+      "version": "0.8.9",
+      "flags": "validated",
+      "lastUpdated": "2023-10-23T02:34:38.183Z"
+    },
+    {
+      "version": "0.8.8",
+      "flags": "validated",
+      "lastUpdated": "2023-10-21T16:10:19.137Z"
+    },
+    {
+      "version": "0.8.7",
+      "flags": "validated",
+      "lastUpdated": "2023-10-15T11:05:40.98Z"
+    },
+    {
+      "version": "0.8.6",
+      "flags": "validated",
+      "lastUpdated": "2023-10-14T01:46:33.78Z"
     }
   ],
   "categories": [
@@ -47,6 +65,5 @@
     "quarto"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.15/vspackage",
-  "filename": "shd101wyy.markdown-preview-enhanced-0.8.15.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "819a23e1-b6c6-41cf-9029-e653b537d996",
-  "extension_name": "azure-account",
-  "extension_full_name": "ms-vscode.azure-account",
+  "extension_name": "ms-vscode.azure-account",
   "display_name": "Azure Account",
   "short_description": "A common Sign In and Subscription management extension for VS Code.",
   "latest_version": "0.13.0",
@@ -36,6 +34,26 @@
       "version": "0.11.4",
       "flags": "validated",
       "lastUpdated": "2023-05-02T21:12:12.977Z"
+    },
+    {
+      "version": "0.11.3",
+      "flags": "validated",
+      "lastUpdated": "2023-01-18T22:34:52.867Z"
+    },
+    {
+      "version": "0.11.2",
+      "flags": "validated",
+      "lastUpdated": "2022-10-10T17:14:13.023Z"
+    },
+    {
+      "version": "0.11.1",
+      "flags": "validated",
+      "lastUpdated": "2022-08-03T21:06:37.35Z"
+    },
+    {
+      "version": "0.11.0",
+      "flags": "validated",
+      "lastUpdated": "2022-07-06T22:35:54.503Z"
     }
   ],
   "categories": [
@@ -45,6 +63,5 @@
     "azure"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/azure-account/0.13.0/vspackage",
-  "filename": "ms-vscode.azure-account-0.13.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account"
 }

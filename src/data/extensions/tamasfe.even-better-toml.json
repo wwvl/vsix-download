@@ -1,7 +1,5 @@
 {
-  "extension_id": "b2215d5f-675e-4a2b-b6ac-1ca737518b78",
-  "extension_name": "even-better-toml",
-  "extension_full_name": "tamasfe.even-better-toml",
+  "extension_name": "tamasfe.even-better-toml",
   "display_name": "Even Better TOML",
   "short_description": "Fully-featured TOML support",
   "latest_version": "0.21.2",
@@ -36,6 +34,26 @@
       "version": "0.18.2",
       "flags": "validated",
       "lastUpdated": "2022-10-25T00:26:38.327Z"
+    },
+    {
+      "version": "0.18.1",
+      "flags": "validated",
+      "lastUpdated": "2022-09-02T02:42:31.377Z"
+    },
+    {
+      "version": "0.18.0",
+      "flags": "validated",
+      "lastUpdated": "2022-09-01T21:20:35.84Z"
+    },
+    {
+      "version": "0.17.1",
+      "flags": "validated",
+      "lastUpdated": "2022-08-08T23:03:09.893Z"
+    },
+    {
+      "version": "0.17.0",
+      "flags": "validated",
+      "lastUpdated": "2022-08-08T22:50:21.31Z"
     }
   ],
   "categories": [
@@ -52,6 +70,5 @@
     "toml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tamasfe/vsextensions/even-better-toml/0.21.2/vspackage",
-  "filename": "tamasfe.even-better-toml-0.21.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml"
 }

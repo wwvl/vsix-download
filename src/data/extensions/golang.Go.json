@@ -1,7 +1,5 @@
 {
-  "extension_id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
-  "extension_name": "Go",
-  "extension_full_name": "golang.Go",
+  "extension_name": "golang.Go",
   "display_name": "Go",
   "short_description": "Rich Go language support for Visual Studio Code",
   "latest_version": "0.45.2",
@@ -36,6 +34,26 @@
       "version": "0.43.3",
       "flags": "validated",
       "lastUpdated": "2024-11-18T19:26:39.53Z"
+    },
+    {
+      "version": "0.43.2",
+      "flags": "validated",
+      "lastUpdated": "2024-09-25T17:56:32.89Z"
+    },
+    {
+      "version": "0.43.1",
+      "flags": "validated",
+      "lastUpdated": "2024-09-09T19:23:08.883Z"
+    },
+    {
+      "version": "0.43.0",
+      "flags": "validated",
+      "lastUpdated": "2024-08-26T15:02:27.537Z"
+    },
+    {
+      "version": "0.42.1",
+      "flags": "validated",
+      "lastUpdated": "2024-09-10T14:13:44.72Z"
     }
   ],
   "categories": [
@@ -63,6 +81,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.45.2/vspackage",
-  "filename": "golang.Go-0.45.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "2061917f-f76a-458a-8da9-f162de22b97e",
-  "extension_name": "vscode-yaml",
-  "extension_full_name": "redhat.vscode-yaml",
+  "extension_name": "redhat.vscode-yaml",
   "display_name": "YAML",
   "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
   "latest_version": "1.16.0",
@@ -36,6 +34,27 @@
       "version": "1.12.1",
       "flags": "validated",
       "lastUpdated": "2023-03-08T11:22:44.423Z"
+    },
+    {
+      "version": "1.12.0",
+      "flags": "validated",
+      "lastUpdated": "2023-03-08T09:57:51.52Z"
+    },
+    {
+      "version": "1.11.10112022",
+      "flags": "validated",
+      "lastUpdated": "2022-10-11T11:05:07.933Z"
+    },
+    {
+      "version": "1.11.0",
+      "flags": "validated",
+      "lastUpdated": "2023-01-09T08:21:44.34Z"
+    },
+    {
+      "version": "1.10.20220805",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2022-08-05T12:35:39.273Z"
     }
   ],
   "categories": [
@@ -52,6 +71,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.16.0/vspackage",
-  "filename": "redhat.vscode-yaml-1.16.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
 }

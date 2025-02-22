@@ -1,7 +1,5 @@
 {
-  "extension_id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
-  "extension_name": "vscode-tailwindcss",
-  "extension_full_name": "bradlc.vscode-tailwindcss",
+  "extension_name": "bradlc.vscode-tailwindcss",
   "display_name": "Tailwind CSS IntelliSense",
   "short_description": "Intelligent Tailwind CSS tooling for VS Code",
   "latest_version": "0.14.6",
@@ -36,6 +34,26 @@
       "version": "0.14.1",
       "flags": "validated",
       "lastUpdated": "2025-01-21T19:35:04.26Z"
+    },
+    {
+      "version": "0.14.0",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T17:36:24.76Z"
+    },
+    {
+      "version": "0.13.72",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T16:58:10.713Z"
+    },
+    {
+      "version": "0.13.71",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T16:27:41.207Z"
+    },
+    {
+      "version": "0.13.70",
+      "flags": "validated",
+      "lastUpdated": "2025-01-21T16:23:29.05Z"
     }
   ],
   "categories": [
@@ -51,6 +69,5 @@
     "vscode"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.6/vspackage",
-  "filename": "bradlc.vscode-tailwindcss-0.14.6.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
 }

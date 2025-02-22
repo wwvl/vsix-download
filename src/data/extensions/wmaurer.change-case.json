@@ -1,7 +1,5 @@
 {
-  "extension_id": "2aa040bf-c73a-455d-8946-5c6cc83b8019",
-  "extension_name": "change-case",
-  "extension_full_name": "wmaurer.change-case",
+  "extension_name": "wmaurer.change-case",
   "display_name": "change-case",
   "short_description": "Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word",
   "latest_version": "1.0.0",
@@ -36,6 +34,26 @@
       "version": "0.3.0",
       "flags": "validated",
       "lastUpdated": "2015-11-28T09:01:10.09Z"
+    },
+    {
+      "version": "0.2.3",
+      "flags": "validated",
+      "lastUpdated": "2015-11-20T07:33:23.96Z"
+    },
+    {
+      "version": "0.2.2",
+      "flags": "validated",
+      "lastUpdated": "2015-11-20T07:30:12.52Z"
+    },
+    {
+      "version": "0.2.1",
+      "flags": "validated",
+      "lastUpdated": "2015-11-18T21:16:59.78Z"
+    },
+    {
+      "version": "0.2.0",
+      "flags": "validated",
+      "lastUpdated": "2015-11-08T21:03:21.87Z"
     }
   ],
   "categories": [
@@ -43,6 +61,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wmaurer/vsextensions/change-case/1.0.0/vspackage",
-  "filename": "wmaurer.change-case-1.0.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case"
 }

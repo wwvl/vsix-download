@@ -1,7 +1,5 @@
 {
-  "extension_id": "9acd9f2e-7de2-4c66-a840-92767af1cb16",
-  "extension_name": "docs-markdown",
-  "extension_full_name": "docsmsft.docs-markdown",
+  "extension_name": "docsmsft.docs-markdown",
   "display_name": "learn-markdown",
   "short_description": "Learn Markdown Extension",
   "latest_version": "1.0.12",
@@ -36,6 +34,26 @@
       "version": "1.0.7",
       "flags": "validated",
       "lastUpdated": "2024-03-07T03:39:16.327Z"
+    },
+    {
+      "version": "1.0.3",
+      "flags": "validated",
+      "lastUpdated": "2023-10-03T16:23:49.797Z"
+    },
+    {
+      "version": "1.0.2",
+      "flags": "validated",
+      "lastUpdated": "2023-08-02T16:27:52.23Z"
+    },
+    {
+      "version": "1.0.1",
+      "flags": "validated",
+      "lastUpdated": "2023-03-24T16:07:33.957Z"
+    },
+    {
+      "version": "1.0.0",
+      "flags": "validated",
+      "lastUpdated": "2023-03-17T21:05:37.817Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.12/vspackage",
-  "filename": "docsmsft.docs-markdown-1.0.12.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown"
 }

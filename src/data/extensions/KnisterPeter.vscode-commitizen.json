@@ -1,7 +1,5 @@
 {
-  "extension_id": "726dd888-7465-4e27-a016-4288df7be24a",
-  "extension_name": "vscode-commitizen",
-  "extension_full_name": "KnisterPeter.vscode-commitizen",
+  "extension_name": "KnisterPeter.vscode-commitizen",
   "display_name": "Visual Studio Code Commitizen Support",
   "short_description": "commitizen - git commit with conventions",
   "latest_version": "1.1.0",
@@ -36,6 +34,26 @@
       "version": "0.14.1",
       "flags": "validated",
       "lastUpdated": "2021-04-16T07:07:50.133Z"
+    },
+    {
+      "version": "0.14.0",
+      "flags": "validated",
+      "lastUpdated": "2021-04-14T17:15:09.48Z"
+    },
+    {
+      "version": "0.13.1",
+      "flags": "validated",
+      "lastUpdated": "2021-04-14T14:22:48.357Z"
+    },
+    {
+      "version": "0.12.1",
+      "flags": "validated",
+      "lastUpdated": "2021-02-17T08:05:01.97Z"
+    },
+    {
+      "version": "0.12.0",
+      "flags": "validated",
+      "lastUpdated": "2021-02-12T07:47:44.187Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "git"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/KnisterPeter/vsextensions/vscode-commitizen/1.1.0/vspackage",
-  "filename": "KnisterPeter.vscode-commitizen-1.1.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "a205ad34-542b-4c67-a9ed-f645103ad9c0",
-  "extension_name": "vscode-spring-initializr",
-  "extension_full_name": "vscjava.vscode-spring-initializr",
+  "extension_name": "vscjava.vscode-spring-initializr",
   "display_name": "Spring Initializr Java Support",
   "short_description": "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.",
   "latest_version": "0.11.2024112703",
@@ -36,6 +34,26 @@
       "version": "0.11.2023030203",
       "flags": "validated",
       "lastUpdated": "2023-03-02T03:06:54.64Z"
+    },
+    {
+      "version": "0.11.2023013003",
+      "flags": "validated",
+      "lastUpdated": "2023-01-30T03:07:34.923Z"
+    },
+    {
+      "version": "0.11.2023011003",
+      "flags": "validated",
+      "lastUpdated": "2023-01-10T03:10:09.673Z"
+    },
+    {
+      "version": "0.11.2023010403",
+      "flags": "validated",
+      "lastUpdated": "2023-01-04T03:06:19.417Z"
+    },
+    {
+      "version": "0.11.2022122403",
+      "flags": "validated",
+      "lastUpdated": "2022-12-24T03:06:36.953Z"
     }
   ],
   "categories": [
@@ -45,6 +63,5 @@
     "java"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2024112703/vspackage",
-  "filename": "vscjava.vscode-spring-initializr-0.11.2024112703.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr"
 }

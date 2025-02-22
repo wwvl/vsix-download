@@ -1,7 +1,5 @@
 {
-  "extension_id": "53763e89-ec31-4d0c-b220-f714761180e5",
-  "extension_name": "tauri-vscode",
-  "extension_full_name": "tauri-apps.tauri-vscode",
+  "extension_name": "tauri-apps.tauri-vscode",
   "display_name": "Tauri",
   "short_description": "Enhances the experience of Tauri apps development",
   "latest_version": "0.2.9",
@@ -36,6 +34,26 @@
       "version": "0.2.4",
       "flags": "validated",
       "lastUpdated": "2023-03-17T16:39:35.157Z"
+    },
+    {
+      "version": "0.2.1",
+      "flags": "validated",
+      "lastUpdated": "2022-10-25T15:18:06.517Z"
+    },
+    {
+      "version": "0.2.0",
+      "flags": "validated",
+      "lastUpdated": "2022-09-19T15:08:46.467Z"
+    },
+    {
+      "version": "0.1.7",
+      "flags": "validated",
+      "lastUpdated": "2022-09-11T12:49:18.877Z"
+    },
+    {
+      "version": "0.1.6",
+      "flags": "validated",
+      "lastUpdated": "2022-06-18T21:00:13.073Z"
     }
   ],
   "categories": [
@@ -54,6 +72,5 @@
     "tauri"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tauri-apps/vsextensions/tauri-vscode/0.2.9/vspackage",
-  "filename": "tauri-apps.tauri-vscode-0.2.9.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
-  "extension_name": "Bookmarks",
-  "extension_full_name": "alefragnani.Bookmarks",
+  "extension_name": "alefragnani.Bookmarks",
   "display_name": "Bookmarks",
   "short_description": "Mark lines and jump to them",
   "latest_version": "13.5.0",
@@ -36,6 +34,26 @@
       "version": "13.3.0",
       "flags": "validated",
       "lastUpdated": "2022-05-08T23:22:21.943Z"
+    },
+    {
+      "version": "13.2.4",
+      "flags": "validated",
+      "lastUpdated": "2022-02-23T21:42:32.88Z"
+    },
+    {
+      "version": "13.2.3",
+      "flags": "validated",
+      "lastUpdated": "2022-02-09T00:36:38.987Z"
+    },
+    {
+      "version": "13.2.2",
+      "flags": "validated",
+      "lastUpdated": "2021-10-08T03:32:08.693Z"
+    },
+    {
+      "version": "13.2.1",
+      "flags": "validated",
+      "lastUpdated": "2021-09-06T00:03:56.697Z"
     }
   ],
   "categories": [
@@ -52,6 +70,5 @@
     "sticky"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/Bookmarks/13.5.0/vspackage",
-  "filename": "alefragnani.Bookmarks-13.5.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "2335b326-c334-4e81-bc51-c408fcec6e7c",
-  "extension_name": "gitblame",
-  "extension_full_name": "waderyan.gitblame",
+  "extension_name": "waderyan.gitblame",
   "display_name": "Git Blame",
   "short_description": "See git blame information in the status bar.",
   "latest_version": "11.1.2",
@@ -36,6 +34,26 @@
       "version": "10.11.0",
       "flags": "validated",
       "lastUpdated": "2024-05-09T07:57:11.203Z"
+    },
+    {
+      "version": "10.10.1",
+      "flags": "validated",
+      "lastUpdated": "2024-04-30T20:15:56.383Z"
+    },
+    {
+      "version": "10.10.0",
+      "flags": "validated",
+      "lastUpdated": "2024-03-12T15:50:09.807Z"
+    },
+    {
+      "version": "10.9.0",
+      "flags": "validated",
+      "lastUpdated": "2024-02-06T14:56:51.55Z"
+    },
+    {
+      "version": "10.8.0",
+      "flags": "validated",
+      "lastUpdated": "2024-02-02T14:16:34.397Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "gitlab"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/waderyan/vsextensions/gitblame/11.1.2/vspackage",
-  "filename": "waderyan.gitblame-11.1.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame"
 }

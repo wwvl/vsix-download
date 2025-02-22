@@ -1,7 +1,5 @@
 {
-  "extension_id": "66682185-9f80-4b70-8b8c-9e492935c105",
-  "extension_name": "vscode-leetcode",
-  "extension_full_name": "LeetCode.vscode-leetcode",
+  "extension_name": "LeetCode.vscode-leetcode",
   "display_name": "LeetCode",
   "short_description": "Solve LeetCode problems in VS Code",
   "latest_version": "0.18.4",
@@ -36,6 +34,26 @@
       "version": "0.17.0",
       "flags": "validated",
       "lastUpdated": "2020-06-30T10:25:49.73Z"
+    },
+    {
+      "version": "0.16.2",
+      "flags": "validated",
+      "lastUpdated": "2020-04-18T10:23:55.917Z"
+    },
+    {
+      "version": "0.16.1",
+      "flags": "validated",
+      "lastUpdated": "2020-02-22T06:02:35.7Z"
+    },
+    {
+      "version": "0.16.0",
+      "flags": "validated",
+      "lastUpdated": "2020-01-12T11:47:39.853Z"
+    },
+    {
+      "version": "0.15.8",
+      "flags": "validated",
+      "lastUpdated": "2019-12-08T07:04:19.923Z"
     }
   ],
   "categories": [
@@ -47,6 +65,5 @@
     "leetcode"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LeetCode/vsextensions/vscode-leetcode/0.18.4/vspackage",
-  "filename": "LeetCode.vscode-leetcode-0.18.4.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode"
 }

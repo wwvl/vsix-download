@@ -1,7 +1,5 @@
 {
-  "extension_id": "e4ee7751-6514-4731-9cdb-7580ffa9e70b",
-  "extension_name": "vscode-language-pack-zh-hans",
-  "extension_full_name": "MS-CEINTL.vscode-language-pack-zh-hans",
+  "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
   "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
   "short_description": "Language pack extension for Chinese (Simplified)",
   "latest_version": "1.98.2025021909",
@@ -36,6 +34,26 @@
       "version": "1.97.2025011509",
       "flags": "validated",
       "lastUpdated": "2025-01-15T09:20:58.02Z"
+    },
+    {
+      "version": "1.97.2025010809",
+      "flags": "validated",
+      "lastUpdated": "2025-01-08T09:28:56.553Z"
+    },
+    {
+      "version": "1.97.2025010109",
+      "flags": "validated",
+      "lastUpdated": "2025-01-01T09:14:08.1Z"
+    },
+    {
+      "version": "1.97.2024122509",
+      "flags": "validated",
+      "lastUpdated": "2024-12-25T09:23:14.423Z"
+    },
+    {
+      "version": "1.97.2024121809",
+      "flags": "validated",
+      "lastUpdated": "2024-12-18T09:22:30.107Z"
     }
   ],
   "categories": [
@@ -46,6 +64,5 @@
     "中文(简体)"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025021909/vspackage",
-  "filename": "MS-CEINTL.vscode-language-pack-zh-hans-1.98.2025021909.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "acab4f40-b6db-42ec-bcd1-01802cbdd988",
-  "extension_name": "codeium",
-  "extension_full_name": "Codeium.codeium",
+  "extension_name": "Codeium.codeium",
   "display_name": "Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more",
   "short_description": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
   "latest_version": "1.35.2",
@@ -36,6 +34,26 @@
       "version": "1.31.20",
       "flags": "validated",
       "lastUpdated": "2025-01-03T00:22:17.77Z"
+    },
+    {
+      "version": "1.31.18",
+      "flags": "validated",
+      "lastUpdated": "2024-12-23T23:32:04.013Z"
+    },
+    {
+      "version": "1.31.17",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T22:21:15.82Z"
+    },
+    {
+      "version": "1.31.15",
+      "flags": "validated",
+      "lastUpdated": "2024-12-20T00:26:02Z"
+    },
+    {
+      "version": "1.31.14",
+      "flags": "validated",
+      "lastUpdated": "2024-12-19T19:16:40.463Z"
     }
   ],
   "categories": [
@@ -77,6 +95,5 @@
     "typescript"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.35.2/vspackage",
-  "filename": "Codeium.codeium-1.35.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
 }

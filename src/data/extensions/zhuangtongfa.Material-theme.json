@@ -1,7 +1,5 @@
 {
-  "extension_id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
-  "extension_name": "Material-theme",
-  "extension_full_name": "zhuangtongfa.Material-theme",
+  "extension_name": "zhuangtongfa.Material-theme",
   "display_name": "One Dark Pro",
   "short_description": "Atom's iconic One Dark theme for Visual Studio Code",
   "latest_version": "3.19.0",
@@ -36,6 +34,26 @@
       "version": "3.17.4",
       "flags": "validated",
       "lastUpdated": "2024-09-20T01:41:39.333Z"
+    },
+    {
+      "version": "3.17.3",
+      "flags": "validated",
+      "lastUpdated": "2024-09-13T02:48:18.6Z"
+    },
+    {
+      "version": "3.17.2",
+      "flags": "validated",
+      "lastUpdated": "2024-04-25T06:41:10.67Z"
+    },
+    {
+      "version": "3.17.1",
+      "flags": "validated",
+      "lastUpdated": "2024-04-25T06:12:19.537Z"
+    },
+    {
+      "version": "3.17.0",
+      "flags": "validated",
+      "lastUpdated": "2024-03-13T03:14:19.503Z"
     }
   ],
   "categories": [
@@ -51,6 +69,5 @@
     "theme"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/zhuangtongfa/vsextensions/Material-theme/3.19.0/vspackage",
-  "filename": "zhuangtongfa.Material-theme-3.19.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme"
 }

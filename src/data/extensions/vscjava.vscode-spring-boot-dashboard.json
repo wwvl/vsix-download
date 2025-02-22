@@ -1,7 +1,5 @@
 {
-  "extension_id": "27fc0e8e-1341-4f52-9219-4e0f81590937",
-  "extension_name": "vscode-spring-boot-dashboard",
-  "extension_full_name": "vscjava.vscode-spring-boot-dashboard",
+  "extension_name": "vscjava.vscode-spring-boot-dashboard",
   "display_name": "Spring Boot Dashboard",
   "short_description": "Spring Boot Dashboard for VS Code",
   "latest_version": "0.14.2024073000",
@@ -36,6 +34,26 @@
       "version": "0.13.2023070100",
       "flags": "validated",
       "lastUpdated": "2023-07-01T00:08:24.85Z"
+    },
+    {
+      "version": "0.13.2023060100",
+      "flags": "validated",
+      "lastUpdated": "2023-06-01T00:08:02.143Z"
+    },
+    {
+      "version": "0.13.2023053100",
+      "flags": "validated",
+      "lastUpdated": "2023-05-31T00:13:15.13Z"
+    },
+    {
+      "version": "0.13.2023051200",
+      "flags": "validated",
+      "lastUpdated": "2023-05-12T00:07:34.453Z"
+    },
+    {
+      "version": "0.13.2023042600",
+      "flags": "validated",
+      "lastUpdated": "2023-04-26T00:08:07.127Z"
     }
   ],
   "categories": [
@@ -43,6 +61,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-boot-dashboard/0.14.2024073000/vspackage",
-  "filename": "vscjava.vscode-spring-boot-dashboard-0.14.2024073000.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard"
 }

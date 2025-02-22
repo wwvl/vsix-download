@@ -1,12 +1,58 @@
 {
-  "extension_id": "06574cb4-e5dc-4631-8174-a543a4533621",
-  "extension_name": "rust-analyzer",
-  "extension_full_name": "rust-lang.rust-analyzer",
+  "extension_name": "rust-lang.rust-analyzer",
   "display_name": "rust-analyzer",
   "short_description": "Rust language support for Visual Studio Code",
-  "latest_version": "0.4.2312",
-  "last_updated": "2025-02-20T00:43:31.123Z",
+  "latest_version": "0.4.2313",
+  "last_updated": "2025-02-21T00:43:19.04Z",
   "version_history": [
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "darwin-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:43:19.04Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:42:47.973Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "win32-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:41:44.99Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:41:42.05Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:41:39.107Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:41:31.893Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "darwin-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:41:25.503Z"
+    },
+    {
+      "version": "0.4.2313",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T00:40:42.703Z"
+    },
     {
       "version": "0.4.2312",
       "targetPlatform": "win32-arm64",
@@ -18,30 +64,6 @@
       "targetPlatform": "linux-x64",
       "flags": "validated",
       "lastUpdated": "2025-02-20T00:43:22.56Z"
-    },
-    {
-      "version": "0.4.2312",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T00:43:18.173Z"
-    },
-    {
-      "version": "0.4.2312",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T00:42:55.573Z"
-    },
-    {
-      "version": "0.4.2312",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T00:42:46.227Z"
-    },
-    {
-      "version": "0.4.2312",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T00:42:27.497Z"
     }
   ],
   "categories": [
@@ -55,7 +77,6 @@
     "rs",
     "rust"
   ],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2312/vspackage",
-  "filename": "rust-lang.rust-analyzer-0.4.2312.vsix",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2313/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
 }

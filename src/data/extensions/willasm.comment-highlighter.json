@@ -1,7 +1,5 @@
 {
-  "extension_id": "f3b085e6-fa01-4e51-a6f0-f12307ef390b",
-  "extension_name": "comment-highlighter",
-  "extension_full_name": "willasm.comment-highlighter",
+  "extension_name": "willasm.comment-highlighter",
   "display_name": "Comment Highlighter",
   "short_description": "Colorful Comment Highlighter for Visual Studio Code",
   "latest_version": "2.0.0",
@@ -41,6 +39,5 @@
     "TODO"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/willasm/vsextensions/comment-highlighter/2.0.0/vspackage",
-  "filename": "willasm.comment-highlighter-2.0.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=willasm.comment-highlighter"
 }

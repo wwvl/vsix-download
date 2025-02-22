@@ -1,7 +1,5 @@
 {
-  "extension_id": "6a994cdf-21a5-4e80-b0a5-601acdad9bf9",
-  "extension_name": "console-ninja",
-  "extension_full_name": "WallabyJs.console-ninja",
+  "extension_name": "WallabyJs.console-ninja",
   "display_name": "Console Ninja",
   "short_description": "JavaScript console.log output and runtime errors right next to your code.",
   "latest_version": "1.0.392",
@@ -36,6 +34,26 @@
       "version": "1.0.387",
       "flags": "validated",
       "lastUpdated": "2025-02-10T01:35:27.99Z"
+    },
+    {
+      "version": "1.0.386",
+      "flags": "validated",
+      "lastUpdated": "2025-02-02T23:42:55.197Z"
+    },
+    {
+      "version": "1.0.385",
+      "flags": "validated",
+      "lastUpdated": "2025-02-01T22:07:51.753Z"
+    },
+    {
+      "version": "1.0.384",
+      "flags": "validated",
+      "lastUpdated": "2025-01-31T06:53:01.757Z"
+    },
+    {
+      "version": "1.0.383",
+      "flags": "validated",
+      "lastUpdated": "2025-01-30T01:34:59.76Z"
     }
   ],
   "categories": [
@@ -46,6 +64,5 @@
     "keybindings"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.392/vspackage",
-  "filename": "WallabyJs.console-ninja-1.0.392.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
 }

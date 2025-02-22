@@ -1,47 +1,69 @@
 {
-  "extension_id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
-  "extension_name": "python",
-  "extension_full_name": "ms-python.python",
+  "extension_name": "ms-python.python",
   "display_name": "Python",
   "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-  "latest_version": "2025.1.2025022001",
-  "last_updated": "2025-02-20T11:01:20.627Z",
+  "latest_version": "2025.1.2025022102",
+  "last_updated": "2025-02-21T10:47:10.76Z",
   "version_history": [
     {
-      "version": "2025.1.2025022001",
-      "targetPlatform": "linux-armhf",
+      "version": "2025.1.2025022102",
+      "targetPlatform": "win32-x64",
       "flags": "validated",
-      "lastUpdated": "2025-02-20T11:01:20.627Z"
+      "lastUpdated": "2025-02-21T10:47:10.76Z"
     },
     {
-      "version": "2025.1.2025022001",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T10:47:38.8Z"
-    },
-    {
-      "version": "2025.1.2025022001",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T10:47:03.923Z"
-    },
-    {
-      "version": "2025.1.2025022001",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
-      "lastUpdated": "2025-02-20T10:46:55.3Z"
-    },
-    {
-      "version": "2025.1.2025022001",
+      "version": "2025.1.2025022102",
       "targetPlatform": "darwin-x64",
       "flags": "validated",
-      "lastUpdated": "2025-02-20T10:46:52.527Z"
+      "lastUpdated": "2025-02-21T10:46:52.327Z"
     },
     {
-      "version": "2025.1.2025022001",
+      "version": "2025.1.2025022102",
+      "targetPlatform": "win32-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:46:14.367Z"
+    },
+    {
+      "version": "2025.1.2025022102",
+      "targetPlatform": "alpine-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:46:06.437Z"
+    },
+    {
+      "version": "2025.1.2025022102",
+      "targetPlatform": "web",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:45:32.7Z"
+    },
+    {
+      "version": "2025.1.2025022102",
       "targetPlatform": "darwin-arm64",
       "flags": "validated",
-      "lastUpdated": "2025-02-20T10:46:38.083Z"
+      "lastUpdated": "2025-02-21T10:45:30.527Z"
+    },
+    {
+      "version": "2025.1.2025022102",
+      "targetPlatform": "linux-armhf",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:45:16.773Z"
+    },
+    {
+      "version": "2025.1.2025022102",
+      "targetPlatform": "linux-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:45:02.077Z"
+    },
+    {
+      "version": "2025.1.2025022102",
+      "targetPlatform": "alpine-arm64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:45:00.157Z"
+    },
+    {
+      "version": "2025.1.2025022102",
+      "targetPlatform": "linux-x64",
+      "flags": "validated",
+      "lastUpdated": "2025-02-21T10:44:23.55Z"
     }
   ],
   "categories": [
@@ -67,7 +89,6 @@
     "unittest",
     "yaml"
   ],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.1.2025022001/vspackage",
-  "filename": "ms-python.python-2025.1.2025022001.vsix",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.1.2025022102/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
 }

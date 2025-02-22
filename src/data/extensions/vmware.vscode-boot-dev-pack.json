@@ -1,7 +1,5 @@
 {
-  "extension_id": "26069f6b-56ea-4c29-8e28-371698a60020",
-  "extension_name": "vscode-boot-dev-pack",
-  "extension_full_name": "vmware.vscode-boot-dev-pack",
+  "extension_name": "vmware.vscode-boot-dev-pack",
   "display_name": "Spring Boot Extension Pack",
   "short_description": "A collection of extensions for developing Spring Boot applications",
   "latest_version": "0.2.2",
@@ -36,6 +34,26 @@
       "version": "0.0.7",
       "flags": "validated",
       "lastUpdated": "2018-09-17T17:34:30.96Z"
+    },
+    {
+      "version": "0.0.6",
+      "flags": "validated",
+      "lastUpdated": "2018-09-17T17:23:57.69Z"
+    },
+    {
+      "version": "0.0.5",
+      "flags": "validated",
+      "lastUpdated": "2018-08-20T17:57:44.613Z"
+    },
+    {
+      "version": "0.0.4",
+      "flags": "validated",
+      "lastUpdated": "2018-02-23T16:12:12.87Z"
+    },
+    {
+      "version": "0.0.3",
+      "flags": "validated",
+      "lastUpdated": "2018-02-22T23:55:25.307Z"
     }
   ],
   "categories": [
@@ -49,6 +67,5 @@
     "yaml"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-boot-dev-pack/0.2.2/vspackage",
-  "filename": "vmware.vscode-boot-dev-pack-0.2.2.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack"
 }

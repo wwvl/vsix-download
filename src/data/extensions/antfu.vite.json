@@ -1,7 +1,5 @@
 {
-  "extension_id": "b22eea9f-5a30-43a2-8a59-3d3707869cf8",
-  "extension_name": "vite",
-  "extension_full_name": "antfu.vite",
+  "extension_name": "antfu.vite",
   "display_name": "Vite",
   "short_description": "VS Code for Vite",
   "latest_version": "0.2.5",
@@ -36,6 +34,26 @@
       "version": "0.1.9",
       "flags": "validated",
       "lastUpdated": "2021-03-11T14:08:14.85Z"
+    },
+    {
+      "version": "0.1.8",
+      "flags": "validated",
+      "lastUpdated": "2021-03-11T13:59:34.907Z"
+    },
+    {
+      "version": "0.1.6",
+      "flags": "validated",
+      "lastUpdated": "2021-03-07T07:58:01.103Z"
+    },
+    {
+      "version": "0.1.5",
+      "flags": "validated",
+      "lastUpdated": "2021-03-05T10:05:38.07Z"
+    },
+    {
+      "version": "0.1.4",
+      "flags": "validated",
+      "lastUpdated": "2021-03-03T06:34:14.63Z"
     }
   ],
   "categories": [
@@ -43,6 +61,5 @@
   ],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/vite/0.2.5/vspackage",
-  "filename": "antfu.vite-0.2.5.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.vite"
 }

@@ -1,7 +1,5 @@
 {
-  "extension_id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
-  "extension_name": "vscode-markdownlint",
-  "extension_full_name": "DavidAnson.vscode-markdownlint",
+  "extension_name": "DavidAnson.vscode-markdownlint",
   "display_name": "markdownlint",
   "short_description": "Markdown linting and style checking for Visual Studio Code",
   "latest_version": "0.59.0",
@@ -36,6 +34,26 @@
       "version": "0.56.0",
       "flags": "validated",
       "lastUpdated": "2024-09-12T03:59:56.28Z"
+    },
+    {
+      "version": "0.55.0",
+      "flags": "validated",
+      "lastUpdated": "2024-04-17T04:53:32.643Z"
+    },
+    {
+      "version": "0.54.0",
+      "flags": "validated",
+      "lastUpdated": "2024-01-27T22:03:44.653Z"
+    },
+    {
+      "version": "0.53.0",
+      "flags": "validated",
+      "lastUpdated": "2023-12-03T23:53:06.697Z"
+    },
+    {
+      "version": "0.52.0",
+      "flags": "validated",
+      "lastUpdated": "2023-09-25T00:33:59.9Z"
     }
   ],
   "categories": [
@@ -53,6 +71,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.59.0/vspackage",
-  "filename": "DavidAnson.vscode-markdownlint-0.59.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint"
 }

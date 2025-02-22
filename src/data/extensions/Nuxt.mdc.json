@@ -1,7 +1,5 @@
 {
-  "extension_id": "53bfb95c-4567-441b-b6fe-a8ccb555bcd4",
-  "extension_name": "mdc",
-  "extension_full_name": "Nuxt.mdc",
+  "extension_name": "Nuxt.mdc",
   "display_name": "MDC - Markdown Components",
   "short_description": "Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.",
   "latest_version": "0.2.0",
@@ -39,6 +37,5 @@
     "snippet"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.2.0/vspackage",
-  "filename": "Nuxt.mdc-0.2.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc"
 }

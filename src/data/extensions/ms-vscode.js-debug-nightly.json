@@ -1,7 +1,5 @@
 {
-  "extension_id": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
-  "extension_name": "js-debug-nightly",
-  "extension_full_name": "ms-vscode.js-debug-nightly",
+  "extension_name": "ms-vscode.js-debug-nightly",
   "display_name": "JavaScript Debugger (Nightly)",
   "short_description": "An extension for debugging Node.js programs and Chrome.",
   "latest_version": "2025.2.1117",
@@ -36,6 +34,26 @@
       "version": "2024.12.1817",
       "flags": "validated",
       "lastUpdated": "2024-12-19T01:15:12.283Z"
+    },
+    {
+      "version": "2024.12.1317",
+      "flags": "validated",
+      "lastUpdated": "2024-12-14T01:12:57.983Z"
+    },
+    {
+      "version": "2024.12.1217",
+      "flags": "validated",
+      "lastUpdated": "2024-12-13T01:15:03.83Z"
+    },
+    {
+      "version": "2024.12.1117",
+      "flags": "validated",
+      "lastUpdated": "2024-12-12T01:14:46.23Z"
+    },
+    {
+      "version": "2024.11.2917",
+      "flags": "validated",
+      "lastUpdated": "2024-11-30T01:13:50.84Z"
     }
   ],
   "categories": [
@@ -53,6 +71,5 @@
     "WebAssembly Text Format"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.2.1117/vspackage",
-  "filename": "ms-vscode.js-debug-nightly-2025.2.1117.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
 }

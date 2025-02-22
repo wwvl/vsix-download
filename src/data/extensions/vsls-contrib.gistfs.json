@@ -1,7 +1,5 @@
 {
-  "extension_id": "0cfb9d1d-3e59-4c36-a597-157b54e4442b",
-  "extension_name": "gistfs",
-  "extension_full_name": "vsls-contrib.gistfs",
+  "extension_name": "vsls-contrib.gistfs",
   "display_name": "GistPad",
   "short_description": "Manage your code snippets and developer notes using GitHub Gists and repositories.",
   "latest_version": "0.7.0",
@@ -36,6 +34,26 @@
       "version": "0.2.9",
       "flags": "validated",
       "lastUpdated": "2021-06-16T04:15:16.187Z"
+    },
+    {
+      "version": "0.2.8",
+      "flags": "validated",
+      "lastUpdated": "2021-04-08T01:54:14.43Z"
+    },
+    {
+      "version": "0.2.7",
+      "flags": "validated",
+      "lastUpdated": "2021-03-30T02:06:02.447Z"
+    },
+    {
+      "version": "0.2.6",
+      "flags": "validated",
+      "lastUpdated": "2021-03-22T05:55:23.883Z"
+    },
+    {
+      "version": "0.2.5",
+      "flags": "validated",
+      "lastUpdated": "2021-03-22T04:27:55.533Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "wiki"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.7.0/vspackage",
-  "filename": "vsls-contrib.gistfs-0.7.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
 }

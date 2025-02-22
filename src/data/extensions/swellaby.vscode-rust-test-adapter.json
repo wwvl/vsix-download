@@ -1,7 +1,5 @@
 {
-  "extension_id": "c167848c-fc11-496e-b432-1fd0a578a408",
-  "extension_name": "vscode-rust-test-adapter",
-  "extension_full_name": "swellaby.vscode-rust-test-adapter",
+  "extension_name": "swellaby.vscode-rust-test-adapter",
   "display_name": "Rust Test Explorer",
   "short_description": "View and run your Rust tests in the Sidebar of Visual Studio Code",
   "latest_version": "0.11.0",
@@ -36,6 +34,26 @@
       "version": "0.6.0",
       "flags": "validated",
       "lastUpdated": "2019-05-15T22:54:19.77Z"
+    },
+    {
+      "version": "0.5.0",
+      "flags": "validated",
+      "lastUpdated": "2019-01-06T06:05:54.383Z"
+    },
+    {
+      "version": "0.4.0",
+      "flags": "validated",
+      "lastUpdated": "2019-01-01T04:25:40.32Z"
+    },
+    {
+      "version": "0.3.2",
+      "flags": "validated",
+      "lastUpdated": "2018-12-31T23:28:48.03Z"
+    },
+    {
+      "version": "0.3.1",
+      "flags": "validated",
+      "lastUpdated": "2018-12-31T23:15:11.697Z"
     }
   ],
   "categories": [
@@ -50,6 +68,5 @@
     "testing"
   ],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/swellaby/vsextensions/vscode-rust-test-adapter/0.11.0/vspackage",
-  "filename": "swellaby.vscode-rust-test-adapter-0.11.0.vsix",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter"
 }
