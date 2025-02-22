@@ -1,5 +1,5 @@
 <script setup lang="ts">
-  import { computed, defineProps, onMounted, onUnmounted, ref } from 'vue'
+  import { computed, onMounted, onUnmounted, ref } from 'vue'
 
   interface Props {
     // 滚动速度，单位毫秒
