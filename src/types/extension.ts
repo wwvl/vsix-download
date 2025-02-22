@@ -1,8 +1,5 @@
 export interface Extension {
-  id: number
-  extension_id: string
   extension_name: string
-  extension_full_name: string
   display_name: string
   short_description: string | null
   latest_version: string
@@ -14,6 +11,5 @@ export interface Extension {
   categories: string[]
   tags: string[]
   download_url: string
-  filename: string
   marketplace_url: string
 }
