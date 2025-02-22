@@ -96,8 +96,8 @@
   }
 
   // 获取下载链接
-  function getDownloadUrl(extensionFullName: string, version: string): string {
-    const [publisher, name] = extensionFullName.split('.')
+  function getDownloadUrl(extensionName: string, version: string): string {
+    const [publisher, name] = extensionName.split('.')
     return `https://marketplace.visualstudio.com/_apis/public/gallery/publishers/${publisher}/vsextensions/${name}/${version}/vspackage`
   }
 
@@ -125,7 +125,7 @@
       return
     }
 
-    const ids = selectedRows.map((row: any) => row.original.extension_full_name).join('\n')
+    const ids = selectedRows.map((row: any) => row.original.extension_name).join('\n')
     await copy(ids)
     toast.add({
       title: '已复制选中的扩展 ID！',
@@ -140,7 +140,7 @@
 
   // 添加列可见性状态
   const columnVisibility = ref({
-    extension_full_name: true,
+    extension_name: true,
     display_name: true,
     latest_version: true,
     last_updated: true,
@@ -192,7 +192,7 @@
         }),
     },
     {
-      accessorKey: 'extension_full_name',
+      accessorKey: 'extension_name',
       header: ({ column }) => getHeader(column, '扩展 ID'),
       enableSorting: true,
     },
@@ -228,7 +228,7 @@
   // 从列定义中生成列名映射
   const columnLabels = computed(() => {
     const labels: Record<string, string> = {
-      extension_full_name: '扩展 ID',
+      extension_name: '扩展 ID',
       display_name: '扩展名称',
       latest_version: '最新版本',
       last_updated: '更新时间',
@@ -246,7 +246,7 @@
           label: '复制安装命令',
           icon: 'i-lucide-copy',
           onSelect: () => {
-            copyInstallCommand(extension.extension_full_name)
+            copyInstallCommand(extension.extension_name)
           },
         },
       ],
@@ -254,7 +254,7 @@
         {
           label: '下载',
           icon: 'i-carbon-download',
-          href: getDownloadUrl(extension.extension_full_name, extension.latest_version),
+          href: getDownloadUrl(extension.extension_name, extension.latest_version),
           target: '_blank',
         },
         {
@@ -419,7 +419,7 @@
                         color="primary"
                         variant="ghost"
                         icon="i-carbon-download"
-                        :href="getDownloadUrl(row.original.extension_full_name, version.version)"
+                        :href="getDownloadUrl(row.original.extension_name, version.version)"
                         target="_blank"
                         :class="ui.downloadButton"
                       />
@@ -430,9 +430,9 @@
             </div>
           </template>
 
-          <template #extension_full_name-cell="{ row }">
-            <div :class="ui.extensionId" @click="() => copyInstallCommand(row.original.extension_full_name)">
-              {{ row.original.extension_full_name }}
+          <template #extension_name-cell="{ row }">
+            <div :class="ui.extensionId" @click="() => copyInstallCommand(row.original.extension_name)">
+              {{ row.original.extension_name }}
             </div>
           </template>
 
