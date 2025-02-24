@@ -11,7 +11,7 @@ const extension = computed(() => store.extensions.find(ext => ext.extension_name
 
 onMounted(async () => {
   if (!store.extensions.length) {
-    await store.fetchExtensions()
+    await store.fetchLocalExtensions()
   }
 })
 </script>
