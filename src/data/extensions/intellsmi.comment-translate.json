@@ -56,21 +56,8 @@
       "lastUpdated": "2022-06-15T10:20:02.59Z"
     }
   ],
-  "categories": [
-    "AI",
-    "Chat"
-  ],
-  "tags": [
-    "comment",
-    "GitHub Copilot Chat Participant",
-    "google translate",
-    "hover",
-    "keybindings",
-    "translate",
-    "注释",
-    "翻訳",
-    "翻译"
-  ],
+  "categories": ["AI", "Chat"],
+  "tags": ["comment", "GitHub Copilot Chat Participant", "google translate", "hover", "keybindings", "translate", "注释", "翻訳", "翻译"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/intellsmi/vsextensions/comment-translate/3.0.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate"
 }

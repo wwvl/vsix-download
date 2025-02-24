@@ -56,17 +56,8 @@
       "lastUpdated": "2024-10-17T17:14:47.833Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "javascript",
-    "javascriptreact",
-    "linters",
-    "prisma",
-    "typescript",
-    "typescriptreact"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["javascript", "javascriptreact", "linters", "prisma", "typescript", "typescriptreact"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.4.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
 }

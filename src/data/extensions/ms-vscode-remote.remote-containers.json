@@ -56,22 +56,8 @@
       "lastUpdated": "2024-10-03T16:07:53.85Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "containers",
-    "continueOn",
-    "dev container",
-    "devcontainer",
-    "development container",
-    "docker",
-    "json",
-    "jsonc",
-    "remote",
-    "remote development",
-    "remote-menu"
-  ],
+  "categories": ["Other"],
+  "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.398.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
 }

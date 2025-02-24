@@ -56,12 +56,7 @@
       "lastUpdated": "2025-02-18T01:41:19.29Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Machine Learning",
-    "AI",
-    "Chat"
-  ],
+  "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
   "tags": [
     "ai",
     "autocomplete",

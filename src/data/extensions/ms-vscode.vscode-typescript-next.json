@@ -56,18 +56,8 @@
       "lastUpdated": "2025-02-12T00:18:59.17Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "JavaScript",
-    "javascriptreact",
-    "js",
-    "nightly",
-    "ts",
-    "TypeScript",
-    "typescriptreact"
-  ],
+  "categories": ["Other"],
+  "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250220/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
 }

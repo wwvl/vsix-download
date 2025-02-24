@@ -66,18 +66,8 @@
       "lastUpdated": "2024-12-20T03:27:58.807Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters"
-  ],
-  "tags": [
-    "EmmyLua",
-    "IntelliSense",
-    "json",
-    "jsonc",
-    "lua"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters"],
+  "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.6/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
 }

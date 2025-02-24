@@ -26,20 +26,8 @@
       "lastUpdated": "2021-03-21T15:24:09.687Z"
     }
   ],
-  "categories": [
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "format",
-    "ignore",
-    "json",
-    "lint",
-    "linters",
-    "markdown",
-    "remark",
-    "validate"
-  ],
+  "categories": ["Linters", "Formatters"],
+  "tags": ["format", "ignore", "json", "lint", "linters", "markdown", "remark", "validate"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-remark/3.0.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-remark"
 }

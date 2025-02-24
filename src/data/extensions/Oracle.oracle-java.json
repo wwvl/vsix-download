@@ -51,31 +51,8 @@
       "lastUpdated": "2023-10-18T12:20:24.687Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Debuggers",
-    "Formatters",
-    "Testing"
-  ],
-  "tags": [
-    "debuggers",
-    "Gradle",
-    "jackpot-hint",
-    "java",
-    "Java Hints",
-    "java properties",
-    "javascript",
-    "JDK",
-    "json",
-    "junit",
-    "keybindings",
-    "Maven",
-    "multiroot",
-    "multi-root ready",
-    "OpenJDK"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
+  "tags": ["debuggers", "Gradle", "jackpot-hint", "java", "Java Hints", "java properties", "javascript", "JDK", "json", "junit", "keybindings", "Maven", "multiroot", "multi-root ready", "OpenJDK"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/23.1.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java"
 }

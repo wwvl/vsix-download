@@ -56,15 +56,8 @@
       "lastUpdated": "2022-10-13T22:35:11.74Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "multi-root ready",
-    "task",
-    "tasklist",
-    "todo"
-  ],
+  "categories": ["Other"],
+  "tags": ["multi-root ready", "task", "tasklist", "todo"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Gruntfuggly/vsextensions/todo-tree/0.0.226/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
 }

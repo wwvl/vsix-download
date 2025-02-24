@@ -56,15 +56,8 @@
       "lastUpdated": "2024-03-20T19:39:19.14Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "continueOn",
-    "json",
-    "jsonc",
-    "remote-menu"
-  ],
+  "categories": ["Other"],
+  "tags": ["continueOn", "json", "jsonc", "remote-menu"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
 }

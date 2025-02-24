@@ -66,13 +66,8 @@
       "lastUpdated": "2024-05-04T03:15:09.8Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "c#",
-    "csharp"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["c#", "csharp"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscodeintellicode-csharp/2.2.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp"
 }

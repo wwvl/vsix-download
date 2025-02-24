@@ -26,16 +26,8 @@
       "lastUpdated": "2022-05-02T10:35:11.12Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets"
-  ],
-  "tags": [
-    "Markdown Components",
-    "mdc",
-    "Nuxt Content",
-    "snippet"
-  ],
+  "categories": ["Programming Languages", "Snippets"],
+  "tags": ["Markdown Components", "mdc", "Nuxt Content", "snippet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.2.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc"
 }

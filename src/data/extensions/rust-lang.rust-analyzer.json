@@ -66,17 +66,8 @@
       "lastUpdated": "2025-02-20T00:43:22.56Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Formatters"
-  ],
-  "tags": [
-    "json",
-    "keybindings",
-    "ra_syntax_tree",
-    "rs",
-    "rust"
-  ],
+  "categories": ["Programming Languages", "Formatters"],
+  "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2313/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
 }

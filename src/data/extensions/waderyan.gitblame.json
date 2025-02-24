@@ -56,17 +56,8 @@
       "lastUpdated": "2024-02-02T14:16:34.397Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "bitbucket",
-    "blame",
-    "git",
-    "gitblame",
-    "github",
-    "gitlab"
-  ],
+  "categories": ["Other"],
+  "tags": ["bitbucket", "blame", "git", "gitblame", "github", "gitlab"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/waderyan/vsextensions/gitblame/11.1.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame"
 }

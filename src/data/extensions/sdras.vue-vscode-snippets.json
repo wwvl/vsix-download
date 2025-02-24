@@ -56,17 +56,8 @@
       "lastUpdated": "2020-08-12T13:14:35.64Z"
     }
   ],
-  "categories": [
-    "Snippets"
-  ],
-  "tags": [
-    "Composition API",
-    "snippet",
-    "Vue",
-    "Vue 2",
-    "Vue 3",
-    "Vue Snippets"
-  ],
+  "categories": ["Snippets"],
+  "tags": ["Composition API", "snippet", "Vue", "Vue 2", "Vue 3", "Vue Snippets"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sdras/vsextensions/vue-vscode-snippets/3.2.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets"
 }

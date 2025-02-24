@@ -56,16 +56,8 @@
       "lastUpdated": "2018-05-14T01:01:02.453Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "action",
-    "buttons",
-    "runner",
-    "status bar",
-    "task"
-  ],
+  "categories": ["Other"],
+  "tags": ["action", "buttons", "runner", "status bar", "task"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/seunlanlege/vsextensions/action-buttons/1.2.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=seunlanlege.action-buttons"
 }

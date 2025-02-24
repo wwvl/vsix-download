@@ -56,15 +56,8 @@
       "lastUpdated": "2020-11-24T14:45:52.463Z"
     }
   ],
-  "categories": [
-    "Themes"
-  ],
-  "tags": [
-    "color-theme",
-    "dark",
-    "dracula",
-    "theme"
-  ],
+  "categories": ["Themes"],
+  "tags": ["color-theme", "dark", "dracula", "theme"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dracula-theme/vsextensions/theme-dracula/2.25.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula"
 }

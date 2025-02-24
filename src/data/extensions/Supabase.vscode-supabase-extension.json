@@ -26,15 +26,8 @@
       "lastUpdated": "2024-08-07T09:09:05.353Z"
     }
   ],
-  "categories": [
-    "AI",
-    "Chat"
-  ],
-  "tags": [
-    "Databases",
-    "Postgres",
-    "supabase"
-  ],
+  "categories": ["AI", "Chat"],
+  "tags": ["Databases", "Postgres", "supabase"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.9/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
 }

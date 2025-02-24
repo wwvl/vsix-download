@@ -56,16 +56,8 @@
       "lastUpdated": "2023-09-09T23:35:26.013Z"
     }
   ],
-  "categories": [
-    "Keymaps"
-  ],
-  "tags": [
-    "keybindings",
-    "vi",
-    "vim",
-    "Vimscript",
-    "vscodevim"
-  ],
+  "categories": ["Keymaps"],
+  "tags": ["keybindings", "vi", "vim", "Vimscript", "vscodevim"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.29.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
 }

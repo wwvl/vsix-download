@@ -56,20 +56,8 @@
       "lastUpdated": "2023-09-25T00:33:59.9Z"
     }
   ],
-  "categories": [
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "CommonMark",
-    "json",
-    "lint",
-    "linters",
-    "markdown",
-    "md",
-    "multi-root ready",
-    "snippet"
-  ],
+  "categories": ["Linters", "Formatters"],
+  "tags": ["CommonMark", "json", "lint", "linters", "markdown", "md", "multi-root ready", "snippet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.59.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint"
 }

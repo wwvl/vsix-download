@@ -56,16 +56,8 @@
       "lastUpdated": "2023-09-29T11:26:17.68Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "keybindings",
-    "remote",
-    "remote development",
-    "remote-menu",
-    "wsl"
-  ],
+  "categories": ["Other"],
+  "tags": ["keybindings", "remote", "remote development", "remote-menu", "wsl"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-wsl/0.88.5/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl"
 }

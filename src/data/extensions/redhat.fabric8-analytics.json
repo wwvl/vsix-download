@@ -57,18 +57,8 @@
       "validationResultMessage": "Error processing 'redhat.fabric8-analytics' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/version/redhat.fabric8-analytics.svg’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "CVE",
-    "dependency scan",
-    "java",
-    "multi-root ready",
-    "Node",
-    "Security",
-    "vulnerability"
-  ],
+  "categories": ["Other"],
+  "tags": ["CVE", "dependency scan", "java", "multi-root ready", "Node", "Security", "vulnerability"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/fabric8-analytics/0.9.5/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics"
 }

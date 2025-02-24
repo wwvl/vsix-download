@@ -56,22 +56,8 @@
       "lastUpdated": "2024-06-27T08:22:31.603Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Debuggers",
-    "Formatters",
-    "Extension Packs"
-  ],
-  "tags": [
-    "debugger",
-    "java",
-    "junit",
-    "keybindings",
-    "maven",
-    "spring"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
+  "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2024091906/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
 }

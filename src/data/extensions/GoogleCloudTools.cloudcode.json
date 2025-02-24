@@ -56,11 +56,7 @@
       "lastUpdated": "2024-10-30T19:35:16.067Z"
     }
   ],
-  "categories": [
-    "Snippets",
-    "Linters",
-    "Debuggers"
-  ],
+  "categories": ["Snippets", "Linters", "Debuggers"],
   "tags": [
     "AI Assistant",
     "Apigee",

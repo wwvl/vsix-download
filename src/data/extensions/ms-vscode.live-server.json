@@ -56,18 +56,8 @@
       "lastUpdated": "2024-01-09T09:20:16.313Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "browser",
-    "html",
-    "live",
-    "livepreview",
-    "preview",
-    "refresh",
-    "reload"
-  ],
+  "categories": ["Other"],
+  "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2024091601/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
 }

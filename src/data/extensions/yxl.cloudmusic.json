@@ -66,17 +66,8 @@
       "lastUpdated": "2024-05-28T18:42:50.603Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "cloudmusic",
-    "music",
-    "Netease",
-    "网易云",
-    "网易云音乐",
-    "音乐"
-  ],
+  "categories": ["Other"],
+  "tags": ["cloudmusic", "music", "Netease", "网易云", "网易云音乐", "音乐"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yxl/vsextensions/cloudmusic/9.22.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yxl.cloudmusic"
 }

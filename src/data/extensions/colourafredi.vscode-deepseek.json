@@ -56,23 +56,8 @@
       "lastUpdated": "2025-02-08T15:43:12.84Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "ai",
-    "assistant",
-    "chat",
-    "code",
-    "code-explanation",
-    "code-refactoring",
-    "code-review",
-    "copilot",
-    "deepseek",
-    "documentation",
-    "gpt",
-    "testing"
-  ],
+  "categories": ["Other"],
+  "tags": ["ai", "assistant", "chat", "code", "code-explanation", "code-refactoring", "code-review", "copilot", "deepseek", "documentation", "gpt", "testing"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.4.5/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek"
 }

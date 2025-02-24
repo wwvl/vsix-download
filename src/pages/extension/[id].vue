@@ -1,20 +1,19 @@
 <script setup lang="ts">
-  import type { Extension } from '@/types/extension'
-  import { useExtensionStore } from '@/stores/extension'
-  import { computed, onMounted } from 'vue'
-  import { useRoute } from 'vue-router'
+import { useExtensionStore } from '@/stores/extension'
+import { computed, onMounted } from 'vue'
+import { useRoute } from 'vue-router'
 
-  const route = useRoute()
-  const store = useExtensionStore()
+const route = useRoute()
+const store = useExtensionStore()
 
-  const extensionId = computed(() => route.params.id as string)
-  const extension = computed(() => store.extensions.find((ext) => ext.extension_name === extensionId.value))
+const extensionId = computed(() => route.params.id as string)
+const extension = computed(() => store.extensions.find(ext => ext.extension_name === extensionId.value))
 
-  onMounted(async () => {
-    if (!store.extensions.length) {
-      await store.fetchExtensions()
-    }
-  })
+onMounted(async () => {
+  if (!store.extensions.length) {
+    await store.fetchExtensions()
+  }
+})
 </script>
 
 <template>

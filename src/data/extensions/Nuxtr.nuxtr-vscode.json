@@ -56,22 +56,8 @@
       "lastUpdated": "2023-11-07T16:47:29.28Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets"
-  ],
-  "tags": [
-    "Log",
-    "nuxt",
-    "Nuxt Framework",
-    "nuxtignore",
-    "Nuxtr",
-    "Nuxtr VSCode",
-    "nuxtrc",
-    "snippet",
-    "VSCode",
-    "Vue"
-  ],
+  "categories": ["Programming Languages", "Snippets"],
+  "tags": ["Log", "nuxt", "Nuxt Framework", "nuxtignore", "Nuxtr", "Nuxtr VSCode", "nuxtrc", "snippet", "VSCode", "Vue"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxtr/vsextensions/nuxtr-vscode/0.2.16/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode"
 }

@@ -56,19 +56,8 @@
       "lastUpdated": "2024-05-02T11:20:30.523Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "javascript",
-    "javascriptreact",
-    "json",
-    "keybindings",
-    "Markdown",
-    "mdx",
-    "typescript",
-    "typescriptreact"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["javascript", "javascriptreact", "json", "keybindings", "Markdown", "mdx", "typescript", "typescriptreact"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.13/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx"
 }

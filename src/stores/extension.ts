@@ -54,7 +54,8 @@ export const useExtensionStore = defineStore(
           .map((item) => {
             try {
               return validateAndTransformExtension(item)
-            } catch (e) {
+            }
+            catch (e) {
               console.error('Invalid extension data:', item, e)
               return null
             }
@@ -62,10 +63,12 @@ export const useExtensionStore = defineStore(
           .filter((item): item is Extension => item !== null)
 
         extensions.value = validExtensions
-      } catch (err) {
+      }
+      catch (err) {
         console.error('Error fetching extensions:', err)
         error.value = err as Error
-      } finally {
+      }
+      finally {
         loading.value = false
       }
     }

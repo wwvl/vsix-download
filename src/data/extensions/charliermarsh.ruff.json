@@ -66,17 +66,8 @@
       "lastUpdated": "2025-02-10T13:32:02.297Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "formatting",
-    "linting",
-    "python",
-    "ruff"
-  ],
+  "categories": ["Programming Languages", "Linters", "Formatters"],
+  "tags": ["formatting", "linting", "python", "ruff"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.10.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
 }

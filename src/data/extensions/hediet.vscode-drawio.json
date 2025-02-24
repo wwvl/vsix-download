@@ -56,20 +56,8 @@
       "lastUpdated": "2025-01-29T20:45:04.96Z"
     }
   ],
-  "categories": [
-    "Visualization"
-  ],
-  "tags": [
-    "architecture",
-    "code link",
-    "diagram",
-    "diagrams.net",
-    "Draw.io",
-    "drawio",
-    "keybindings",
-    "uml",
-    "visio"
-  ],
+  "categories": ["Visualization"],
+  "tags": ["architecture", "code link", "diagram", "diagrams.net", "Draw.io", "drawio", "keybindings", "uml", "visio"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250219012/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio"
 }

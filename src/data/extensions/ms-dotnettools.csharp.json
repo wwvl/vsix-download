@@ -66,12 +66,7 @@
       "lastUpdated": "2025-02-05T19:20:00.967Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Debuggers"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
   "tags": [
     ".NET",
     ".NET Core",

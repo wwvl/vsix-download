@@ -56,24 +56,8 @@
       "lastUpdated": "2021-11-15T21:42:35.827Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Formatters",
-    "Azure"
-  ],
-  "tags": [
-    "ARM",
-    "arm-template",
-    "Azure",
-    "Azure Resource Manager Template",
-    "Azure Template",
-    "json",
-    "jsonc",
-    "Resource Manager",
-    "Snippets"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Formatters", "Azure"],
+  "tags": ["ARM", "arm-template", "Azure", "Azure Resource Manager Template", "Azure Template", "json", "jsonc", "Resource Manager", "Snippets"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/msazurermtools/vsextensions/azurerm-vscode-tools/0.15.14/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools"
 }

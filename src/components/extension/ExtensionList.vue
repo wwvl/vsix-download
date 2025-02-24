@@ -1,9 +1,9 @@
 <script setup lang="ts">
-  import type { Extension } from '@/types/extension'
+import type { Extension } from '@/types/extension'
 
-  defineProps<{
-    extensions: Extension[]
-  }>()
+defineProps<{
+  extensions: Extension[]
+}>()
 </script>
 
 <template>

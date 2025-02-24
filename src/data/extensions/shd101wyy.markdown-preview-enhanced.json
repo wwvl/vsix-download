@@ -56,14 +56,8 @@
       "lastUpdated": "2023-10-14T01:46:33.78Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "keybindings",
-    "markdown",
-    "quarto"
-  ],
+  "categories": ["Other"],
+  "tags": ["keybindings", "markdown", "quarto"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.15/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
 }

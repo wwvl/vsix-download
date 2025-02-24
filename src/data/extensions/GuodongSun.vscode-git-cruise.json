@@ -56,21 +56,8 @@
       "lastUpdated": "2022-10-05T14:56:33.793Z"
     }
   ],
-  "categories": [
-    "SCM Providers"
-  ],
-  "tags": [
-    "branch",
-    "commit",
-    "diff",
-    "flow",
-    "git",
-    "graph",
-    "history",
-    "log",
-    "scm",
-    "tag"
-  ],
+  "categories": ["SCM Providers"],
+  "tags": ["branch", "commit", "diff", "flow", "git", "graph", "history", "log", "scm", "tag"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GuodongSun/vsextensions/vscode-git-cruise/0.2.5/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise"
 }

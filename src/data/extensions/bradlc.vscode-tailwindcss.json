@@ -56,18 +56,8 @@
       "lastUpdated": "2025-01-21T16:23:29.05Z"
     }
   ],
-  "categories": [
-    "Linters"
-  ],
-  "tags": [
-    "autocomplete",
-    "css",
-    "intellisense",
-    "tailwind",
-    "Tailwind CSS",
-    "tailwindcss",
-    "vscode"
-  ],
+  "categories": ["Linters"],
+  "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.6/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
 }

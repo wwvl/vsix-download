@@ -56,23 +56,8 @@
       "lastUpdated": "2024-08-13T17:40:31.03Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Debuggers",
-    "Formatters"
-  ],
-  "tags": [
-    "debuggers",
-    "deno",
-    "javascript",
-    "javascriptreact",
-    "json",
-    "jsonc",
-    "markdown",
-    "typescript",
-    "typescriptreact"
-  ],
+  "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
+  "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.43.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
 }

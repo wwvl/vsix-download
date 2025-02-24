@@ -56,20 +56,8 @@
       "lastUpdated": "2023-04-10T13:47:57.7Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "cabal",
-    "haskell",
-    "language",
-    "literate haskell",
-    "lsp",
-    "multi-root ready",
-    "stack"
-  ],
+  "categories": ["Programming Languages", "Linters", "Formatters"],
+  "tags": ["cabal", "haskell", "language", "literate haskell", "lsp", "multi-root ready", "stack"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/haskell/vsextensions/haskell/2.5.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=haskell.haskell"
 }

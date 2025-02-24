@@ -56,17 +56,8 @@
       "lastUpdated": "2024-10-16T04:21:00.93Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Debuggers"
-  ],
-  "tags": [
-    "C",
-    "C++",
-    "IntelliSense",
-    "Makefile",
-    "Microsoft"
-  ],
+  "categories": ["Programming Languages", "Debuggers"],
+  "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.12.16/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
 }

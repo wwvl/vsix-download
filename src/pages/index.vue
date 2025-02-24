@@ -1,56 +1,56 @@
 <script setup lang="ts">
-  import type { Extension } from '@/types/extension'
-  import { useExtensionStore } from '@/stores/extension'
-  import { computed, onMounted, ref, watch } from 'vue'
-  import { useRoute, useRouter } from 'vue-router'
+import { useExtensionStore } from '@/stores/extension'
+import { computed, onMounted, ref, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 
-  const route = useRoute()
-  const router = useRouter()
-  const store = useExtensionStore()
+const route = useRoute()
+const router = useRouter()
+const store = useExtensionStore()
 
-  // 分页配置
-  const PAGE_SIZE = 36
-  const currentPage = ref(1)
+// 分页配置
+const PAGE_SIZE = 36
+const currentPage = ref(1)
 
-  // 分页数据计算
-  const paginatedExtensions = computed(() => {
-    const start = (currentPage.value - 1) * PAGE_SIZE
-    const end = start + PAGE_SIZE
-    return store.extensions.slice(start, end)
-  })
+// 分页数据计算
+const paginatedExtensions = computed(() => {
+  const start = (currentPage.value - 1) * PAGE_SIZE
+  const end = start + PAGE_SIZE
+  return store.extensions.slice(start, end)
+})
 
-  // 总页数计算
-  const totalPages = computed(() => Math.ceil(store.extensions.length / PAGE_SIZE))
+// 总页数计算
+const totalPages = computed(() => Math.ceil(store.extensions.length / PAGE_SIZE))
 
-  // 监听路由参数变化
-  watch(
-    () => route.query.page,
-    (newPage) => {
-      const page = Number(newPage) || 1
-      // 页码验证
-      if (page < 1 || (totalPages.value > 0 && page > totalPages.value)) {
-        router.replace({ query: { page: '1' } })
-        return
-      }
-      currentPage.value = page
-    },
-    { immediate: true },
-  )
+// 监听路由参数变化
+watch(
+  () => route.query.page,
+  (newPage) => {
+    const page = Number(newPage) || 1
+    // 页码验证
+    if (page < 1 || (totalPages.value > 0 && page > totalPages.value)) {
+      router.replace({ query: { page: '1' } })
+      return
+    }
+    currentPage.value = page
+  },
+  { immediate: true },
+)
 
-  onMounted(() => {
-    store.fetchExtensions()
-  })
+onMounted(() => {
+  store.fetchExtensions()
+})
 
-  // 分页链接处理
-  function paginationTo(page: number) {
-    return { query: { page } }
-  }
+// 分页链接处理
+function paginationTo(page: number) {
+  return { query: { page } }
+}
 
-  // 错误信息处理
-  const errorMessage = computed(() => {
-    if (!store.error) return ''
-    return store.error instanceof Error ? store.error.message : String(store.error)
-  })
+// 错误信息处理
+const errorMessage = computed(() => {
+  if (!store.error)
+    return ''
+  return store.error instanceof Error ? store.error.message : String(store.error)
+})
 </script>
 
 <template>
@@ -60,8 +60,12 @@
         <template #header>
           <div class="flex items-center justify-between">
             <div>
-              <h1 class="text-2xl font-bold">VS Code 扩展市场</h1>
-              <p class="mt-2 text-gray-500">浏览和搜索 Visual Studio Code 扩展</p>
+              <h1 class="text-2xl font-bold">
+                VS Code 扩展市场
+              </h1>
+              <p class="mt-2 text-gray-500">
+                浏览和搜索 Visual Studio Code 扩展
+              </p>
             </div>
           </div>
         </template>

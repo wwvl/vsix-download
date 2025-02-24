@@ -56,22 +56,8 @@
       "lastUpdated": "2024-12-30T12:25:48.417Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Debuggers",
-    "Formatters",
-    "Testing"
-  ],
-  "tags": [
-    "dart",
-    "debuggers",
-    "flutter",
-    "fuchsia",
-    "keybindings",
-    "multi-root ready"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
+  "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.105.20250220/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
 }

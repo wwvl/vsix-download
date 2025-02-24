@@ -56,22 +56,8 @@
       "lastUpdated": "2023-08-07T17:22:58.39Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Azure"
-  ],
-  "tags": [
-    "Azure SQL Data Warehouse",
-    "Azure SQL Database",
-    "keybindings",
-    "MSSQL",
-    "multi-root ready",
-    "snippet",
-    "SQL",
-    "SQL Server",
-    "SQL Server Execution Plan",
-    "sqlplan"
-  ],
+  "categories": ["Programming Languages", "Azure"],
+  "tags": ["Azure SQL Data Warehouse", "Azure SQL Database", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.28.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
 }

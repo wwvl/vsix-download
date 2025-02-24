@@ -56,15 +56,8 @@
       "lastUpdated": "2020-04-18T19:13:55.03Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "commit",
-    "git",
-    "github-copilot",
-    "sync"
-  ],
+  "categories": ["Other"],
+  "tags": ["commit", "git", "github-copilot", "sync"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gitdoc/0.2.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc"
 }

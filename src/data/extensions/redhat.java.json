@@ -64,23 +64,8 @@
       "lastUpdated": "2025-02-19T08:24:24.98Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "Gradle Kotlin DSL",
-    "gradle-kotlin-dsl",
-    "java",
-    "Java Properties",
-    "java-properties",
-    "json",
-    "keybindings",
-    "linters",
-    "multi-root ready"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
+  "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.40.2025022008/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
 }

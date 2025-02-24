@@ -66,21 +66,8 @@
       "lastUpdated": "2025-02-12T18:20:28.663Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Debuggers",
-    "Testing"
-  ],
-  "tags": [
-    "asp.net",
-    "c#",
-    "csharp",
-    "devkit",
-    "dotnet",
-    "json",
-    "keybindings"
-  ],
+  "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
+  "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.27/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
 }

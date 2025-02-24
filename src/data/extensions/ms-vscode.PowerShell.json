@@ -56,23 +56,8 @@
       "lastUpdated": "2024-05-14T19:40:44.627Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Themes",
-    "Linters",
-    "Debuggers",
-    "Formatters"
-  ],
-  "tags": [
-    "color-theme",
-    "debuggers",
-    "keybindings",
-    "powershell",
-    "pwsh",
-    "snippet",
-    "theme"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Themes", "Linters", "Debuggers", "Formatters"],
+  "tags": ["color-theme", "debuggers", "keybindings", "powershell", "pwsh", "snippet", "theme"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.1.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell"
 }

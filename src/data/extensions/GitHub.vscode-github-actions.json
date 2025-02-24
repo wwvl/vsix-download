@@ -56,13 +56,8 @@
       "lastUpdated": "2023-04-21T19:30:46.087Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "GitHub Actions Workflow",
-    "github-actions-workflow"
-  ],
+  "categories": ["Other"],
+  "tags": ["GitHub Actions Workflow", "github-actions-workflow"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.27.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions"
 }

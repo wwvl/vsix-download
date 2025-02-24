@@ -56,14 +56,8 @@
       "lastUpdated": "2024-01-07T21:26:44.477Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "keybindings",
-    "leetcode",
-    "python"
-  ],
+  "categories": ["Other"],
+  "tags": ["keybindings", "leetcode", "python"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nikhilweee/vsextensions/vsleet/0.2.8/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=nikhilweee.vsleet"
 }

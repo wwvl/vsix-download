@@ -56,16 +56,8 @@
       "lastUpdated": "2024-04-05T02:24:13.217Z"
     }
   ],
-  "categories": [
-    "Testing"
-  ],
-  "tags": [
-    "debug",
-    "java",
-    "junit",
-    "test",
-    "testng"
-  ],
+  "categories": ["Testing"],
+  "tags": ["debug", "java", "junit", "test", "testng"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-test/0.43.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test"
 }

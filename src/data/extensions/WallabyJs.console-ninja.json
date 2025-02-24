@@ -56,13 +56,8 @@
       "lastUpdated": "2025-01-30T01:34:59.76Z"
     }
   ],
-  "categories": [
-    "Debuggers"
-  ],
-  "tags": [
-    "javascript",
-    "keybindings"
-  ],
+  "categories": ["Debuggers"],
+  "tags": ["javascript", "keybindings"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.392/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
 }

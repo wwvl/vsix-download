@@ -57,28 +57,8 @@
       "lastUpdated": "2025-02-02T02:40:17.647Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Education",
-    "Testing",
-    "AI",
-    "Chat"
-  ],
-  "tags": [
-    "agent",
-    "AI",
-    "autonomous",
-    "chatgpt",
-    "Claude",
-    "cline",
-    "coding",
-    "dev",
-    "llama",
-    "mcp",
-    "openrouter",
-    "sonnet"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
+  "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.5/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
 }

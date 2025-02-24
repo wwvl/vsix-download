@@ -56,9 +56,7 @@
       "lastUpdated": "2023-04-26T00:08:07.127Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-boot-dashboard/0.14.2024073000/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard"

@@ -56,22 +56,8 @@
       "lastUpdated": "2023-06-29T17:48:12.98Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Azure"
-  ],
-  "tags": [
-    "compose",
-    "container",
-    "containers",
-    "debuggers",
-    "docker",
-    "dockercompose",
-    "dockerfile",
-    "ignore",
-    "multi-root ready"
-  ],
+  "categories": ["Programming Languages", "Linters", "Azure"],
+  "tags": ["compose", "container", "containers", "debuggers", "docker", "dockercompose", "dockerfile", "ignore", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.4/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
 }

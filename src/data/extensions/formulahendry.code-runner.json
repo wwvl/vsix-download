@@ -56,26 +56,8 @@
       "lastUpdated": "2021-01-05T13:59:50.023Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "c#",
-    "c++",
-    "code-runner-output",
-    "erlang",
-    "haskell",
-    "java",
-    "javascript",
-    "keybindings",
-    "multi-root ready",
-    "perl",
-    "php",
-    "powershell",
-    "python",
-    "ruby",
-    "rust"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["c#", "c++", "code-runner-output", "erlang", "haskell", "java", "javascript", "keybindings", "multi-root ready", "perl", "php", "powershell", "python", "ruby", "rust"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/formulahendry/vsextensions/code-runner/0.12.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"
 }

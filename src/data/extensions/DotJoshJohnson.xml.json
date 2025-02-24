@@ -56,17 +56,8 @@
       "lastUpdated": "2018-05-26T00:12:05.35Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "keybindings",
-    "xml",
-    "xquery",
-    "xsl"
-  ],
+  "categories": ["Programming Languages", "Linters", "Formatters"],
+  "tags": ["keybindings", "xml", "xquery", "xsl"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DotJoshJohnson/vsextensions/xml/2.5.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml"
 }

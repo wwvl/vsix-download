@@ -65,15 +65,8 @@
       "lastUpdated": "2025-02-14T10:39:45.213Z"
     }
   ],
-  "categories": [
-    "Debuggers"
-  ],
-  "tags": [
-    "debugger",
-    "debuggers",
-    "debugpy",
-    "python"
-  ],
+  "categories": ["Debuggers"],
+  "tags": ["debugger", "debuggers", "debugpy", "python"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.1.2025021701/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
 }

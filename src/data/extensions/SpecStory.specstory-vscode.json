@@ -56,9 +56,7 @@
       "lastUpdated": "2025-01-04T02:01:17.79Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.5.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"

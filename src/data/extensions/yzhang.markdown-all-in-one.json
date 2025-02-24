@@ -56,16 +56,8 @@
       "lastUpdated": "2020-11-14T03:14:31.403Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Formatters"
-  ],
-  "tags": [
-    "keybindings",
-    "markdown",
-    "quarto",
-    "rmd"
-  ],
+  "categories": ["Programming Languages", "Formatters"],
+  "tags": ["keybindings", "markdown", "quarto", "rmd"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yzhang/vsextensions/markdown-all-in-one/3.6.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one"
 }

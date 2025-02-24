@@ -57,19 +57,8 @@
       "lastUpdated": "2022-08-05T12:35:39.273Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "autocompletion",
-    "dockercompose",
-    "kubernetes",
-    "validation",
-    "yaml"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
+  "tags": ["autocompletion", "dockercompose", "kubernetes", "validation", "yaml"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.16.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
 }

@@ -56,16 +56,8 @@
       "lastUpdated": "2022-05-19T16:58:38.713Z"
     }
   ],
-  "categories": [
-    "Snippets"
-  ],
-  "tags": [
-    "commonmark",
-    "dfm",
-    "docfx",
-    "markdown",
-    "yaml"
-  ],
+  "categories": ["Snippets"],
+  "tags": ["commonmark", "dfm", "docfx", "markdown", "yaml"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-preview/1.0.9/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
 }

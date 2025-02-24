@@ -56,18 +56,8 @@
       "lastUpdated": "2023-05-12T06:53:33.577Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters"
-  ],
-  "tags": [
-    "ignore",
-    "javascript",
-    "json",
-    "jsonc",
-    "linters",
-    "multi-root ready"
-  ],
+  "categories": ["Programming Languages", "Linters"],
+  "tags": ["ignore", "javascript", "json", "jsonc", "linters", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.13/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
 }

@@ -56,16 +56,8 @@
       "lastUpdated": "2023-01-23T17:10:27.113Z"
     }
   ],
-  "categories": [
-    "Themes"
-  ],
-  "tags": [
-    "icons",
-    "icon-theme",
-    "multi-root ready",
-    "portable mode ready",
-    "theme"
-  ],
+  "categories": ["Themes"],
+  "tags": ["icons", "icon-theme", "multi-root ready", "portable mode ready", "theme"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.11.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
 }

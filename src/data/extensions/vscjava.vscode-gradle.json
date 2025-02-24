@@ -56,18 +56,8 @@
       "lastUpdated": "2024-08-13T03:26:25.933Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "build",
-    "compile",
-    "gradle",
-    "gradle-build",
-    "java",
-    "json",
-    "tasks"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.16.2024111106/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
 }

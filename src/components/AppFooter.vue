@@ -1,18 +1,21 @@
 <script setup lang="ts">
-  // const items = [
-  //   {
-  //     label: 'Releases',
-  //     to: 'https://github.com/wwvl',
-  //     target: '_blank',
-  //   },
-  // ]
+// const items = [
+//   {
+//     label: 'Releases',
+//     to: 'https://github.com/wwvl',
+//     target: '_blank',
+//   },
+// ]
 </script>
 
 <template>
   <USeparator />
   <Footer>
     <template #left>
-      <p class="text-sm text-(--ui-text-muted)">Copyright © 2024-{{ new Date().getFullYear() }} <a href="https://github.com/wwvl" target="_blank">wwvl</a></p>
+      <p class="text-sm text-(--ui-text-muted)">
+        Copyright © 2024-{{ new Date().getFullYear() }}
+        <a href="https://github.com/wwvl" target="_blank">wwvl</a>
+      </p>
     </template>
 
     <!-- <UNavigationMenu :items="items" variant="link" /> -->

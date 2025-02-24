@@ -56,16 +56,8 @@
       "lastUpdated": "2018-02-22T23:55:25.307Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Extension Packs"
-  ],
-  "tags": [
-    "java",
-    "spring-boot",
-    "yaml"
-  ],
+  "categories": ["Programming Languages", "Linters", "Extension Packs"],
+  "tags": ["java", "spring-boot", "yaml"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-boot-dev-pack/0.2.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack"
 }

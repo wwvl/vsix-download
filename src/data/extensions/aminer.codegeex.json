@@ -56,11 +56,7 @@
       "lastUpdated": "2024-10-21T06:26:09.343Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Machine Learning"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Machine Learning"],
   "tags": [
     "ai",
     "autocomplete",

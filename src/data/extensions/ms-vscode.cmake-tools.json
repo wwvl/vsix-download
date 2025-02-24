@@ -57,23 +57,8 @@
       "lastUpdated": "2025-01-29T04:21:48.677Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Debuggers"
-  ],
-  "tags": [
-    "build",
-    "c++",
-    "cmake",
-    "CMake Cache",
-    "cmake-cache",
-    "debuggers",
-    "json",
-    "keybindings",
-    "native",
-    "syntaxes",
-    "tools"
-  ],
+  "categories": ["Programming Languages", "Debuggers"],
+  "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.20.52/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
 }

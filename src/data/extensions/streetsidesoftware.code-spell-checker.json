@@ -56,17 +56,8 @@
       "lastUpdated": "2024-12-29T12:35:21.387Z"
     }
   ],
-  "categories": [
-    "Linters"
-  ],
-  "tags": [
-    "checker",
-    "json",
-    "jsonc",
-    "spell",
-    "spellchecker",
-    "spelling"
-  ],
+  "categories": ["Linters"],
+  "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.38/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
 }

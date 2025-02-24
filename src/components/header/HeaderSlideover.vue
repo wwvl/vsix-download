@@ -1,53 +1,53 @@
 <script setup lang="ts">
-  import type { HeaderMode, HeaderProps, HeaderSlots } from '@/types/header'
-  import { createReusableTemplate } from '@vueuse/core'
-  import { Primitive } from 'reka-ui'
-  import { computed, ref, watch } from 'vue'
-  import { useRoute } from 'vue-router'
+import type { HeaderMode, HeaderProps, HeaderSlots } from '@/types/header'
+import { createReusableTemplate } from '@vueuse/core'
+import { Primitive } from 'reka-ui'
+import { computed, ref, watch } from 'vue'
+import { useRoute } from 'vue-router'
 
-  // Props 定义
-  const props = withDefaults(defineProps<HeaderProps<HeaderMode>>(), {
-    as: 'header',
-    to: '/',
-    title: 'Sub',
-    toggleSide: 'right',
-  })
+// Props 定义
+const props = withDefaults(defineProps<HeaderProps<HeaderMode>>(), {
+  as: 'header',
+  to: '/',
+  title: 'Sub',
+  toggleSide: 'right',
+})
 
-  // 插槽定义
-  const slots = defineSlots<HeaderSlots>()
+// 插槽定义
+const slots = defineSlots<HeaderSlots>()
 
-  // 样式系统
-  const ui = computed(() => ({
-    root: 'bg-[var(--ui-bg)]/75 backdrop-blur border-b border-[var(--ui-border)] sticky top-0 z-50',
-    container: 'flex items-center justify-between gap-3 h-[var(--ui-header-height)]',
-    left: 'lg:flex-1 flex items-center gap-1.5',
-    center: 'hidden lg:flex',
-    right: 'flex items-center justify-end lg:flex-1 gap-1.5',
-    title: 'shrink-0 font-bold text-xl text-[var(--ui-text-highlighted)] flex items-end gap-1.5',
-    toggle: 'lg:hidden',
-    content: 'lg:hidden',
-    overlay: 'lg:hidden',
-    header: '',
-    body: 'p-4 sm:p-6 overflow-y-auto',
-  }))
+// 样式系统
+const ui = computed(() => ({
+  root: 'bg-[var(--ui-bg)]/75 backdrop-blur border-b border-[var(--ui-border)] sticky top-0 z-50',
+  container: 'flex items-center justify-between gap-3 h-[var(--ui-header-height)]',
+  left: 'lg:flex-1 flex items-center gap-1.5',
+  center: 'hidden lg:flex',
+  right: 'flex items-center justify-end lg:flex-1 gap-1.5',
+  title: 'shrink-0 font-bold text-xl text-[var(--ui-text-highlighted)] flex items-end gap-1.5',
+  toggle: 'lg:hidden',
+  content: 'lg:hidden',
+  overlay: 'lg:hidden',
+  header: '',
+  body: 'p-4 sm:p-6 overflow-y-auto',
+}))
 
-  // 状态管理
-  const open = ref(false)
-  const route = useRoute()
-  const ariaLabel = ref('Sub')
+// 状态管理
+const open = ref(false)
+const route = useRoute()
+const ariaLabel = ref('Sub')
 
-  // 监听路由变化
-  watch(
-    () => route.fullPath,
-    () => {
-      open.value = false
-    },
-  )
+// 监听路由变化
+watch(
+  () => route.fullPath,
+  () => {
+    open.value = false
+  },
+)
 
-  // 模板复用
-  const [DefineLeftTemplate, ReuseLeftTemplate] = createReusableTemplate()
-  const [DefineRightTemplate, ReuseRightTemplate] = createReusableTemplate()
-  const [DefineToggleTemplate, ReuseToggleTemplate] = createReusableTemplate()
+// 模板复用
+const [DefineLeftTemplate, ReuseLeftTemplate] = createReusableTemplate()
+const [DefineRightTemplate, ReuseRightTemplate] = createReusableTemplate()
+const [DefineToggleTemplate, ReuseToggleTemplate] = createReusableTemplate()
 </script>
 
 <template>

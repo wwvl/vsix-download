@@ -56,15 +56,8 @@
       "lastUpdated": "2025-02-06T16:05:03.2Z"
     }
   ],
-  "categories": [
-    "AI",
-    "Chat"
-  ],
-  "tags": [
-    "chat-participant",
-    "github-copilot",
-    "keybindings"
-  ],
+  "categories": ["AI", "Chat"],
+  "tags": ["chat-participant", "github-copilot", "keybindings"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022004/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
 }

@@ -16,14 +16,8 @@
       "lastUpdated": "2017-01-16T23:41:39.093Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "dotenv",
-    "env",
-    "Environment Variables"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["dotenv", "env", "Environment Variables"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mikestead/vsextensions/dotenv/1.0.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv"
 }

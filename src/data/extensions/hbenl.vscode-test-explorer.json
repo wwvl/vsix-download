@@ -56,13 +56,8 @@
       "lastUpdated": "2021-03-17T18:33:25.153Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "test",
-    "testing"
-  ],
+  "categories": ["Other"],
+  "tags": ["test", "testing"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hbenl/vsextensions/vscode-test-explorer/2.22.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer"
 }

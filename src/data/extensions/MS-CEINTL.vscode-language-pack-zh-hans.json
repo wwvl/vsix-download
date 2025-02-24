@@ -56,13 +56,8 @@
       "lastUpdated": "2024-12-18T09:22:30.107Z"
     }
   ],
-  "categories": [
-    "Language Packs"
-  ],
-  "tags": [
-    "lp-zh-cn",
-    "中文(简体)"
-  ],
+  "categories": ["Language Packs"],
+  "tags": ["lp-zh-cn", "中文(简体)"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025021909/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
 }

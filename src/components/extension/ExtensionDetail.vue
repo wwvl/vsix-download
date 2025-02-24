@@ -3,7 +3,7 @@
 import type { Extension } from '@/types/extension'
 import ExtensionVersionHistory from '@/components/extension/ExtensionVersionHistory.vue'
 import { useClipboard } from '@vueuse/core'
-import { computed, h, resolveComponent, toRefs } from 'vue'
+import { computed, resolveComponent, toRefs } from 'vue'
 
 const props = defineProps<{
   extension: Extension

@@ -56,14 +56,8 @@
       "lastUpdated": "2019-12-08T07:04:19.923Z"
     }
   ],
-  "categories": [
-    "Snippets"
-  ],
-  "tags": [
-    "algorithm",
-    "interview",
-    "leetcode"
-  ],
+  "categories": ["Snippets"],
+  "tags": ["algorithm", "interview", "leetcode"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LeetCode/vsextensions/vscode-leetcode/0.18.4/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode"
 }

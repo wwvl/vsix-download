@@ -1,94 +1,95 @@
 <script setup lang="ts">
-  import { computed, onMounted, onUnmounted, ref } from 'vue'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
 
-  interface Props {
-    // 滚动速度，单位毫秒
-    duration?: number
-    // 自定义滚动目标元素 ID
-    targetId?: string
-    // 是否显示进度条
-    showProgress?: boolean
-    // 进度条颜色
-    progressColor?: string
+interface Props {
+  // 滚动速度，单位毫秒
+  duration?: number
+  // 自定义滚动目标元素 ID
+  targetId?: string
+  // 是否显示进度条
+  showProgress?: boolean
+  // 进度条颜色
+  progressColor?: string
+}
+
+const props = withDefaults(defineProps<Props>(), {
+  duration: 500,
+  targetId: '',
+  showProgress: true,
+  progressColor: 'var(--ui-primary)',
+})
+
+// 添加滚动状态
+const isAtBottom = ref(false)
+const scrollProgress = ref(0)
+const showButton = ref(false)
+
+// 计算滚动进度
+function calculateScrollProgress() {
+  const winScroll = document.documentElement.scrollTop
+  const height = document.documentElement.scrollHeight - document.documentElement.clientHeight
+  scrollProgress.value = (winScroll / height) * 100
+}
+
+// 检查是否显示按钮
+function checkShowButton() {
+  const scrollTop = document.documentElement.scrollTop || document.body.scrollTop
+  const windowHeight = window.innerHeight
+  showButton.value = scrollTop > windowHeight * 0.3 // 滚动超过 30% 时显示
+}
+
+// 滚动到指定位置
+function scrollToPosition(position: 'top' | 'bottom' | 'custom') {
+  let targetPosition = 0
+
+  if (position === 'bottom') {
+    targetPosition = document.body.scrollHeight
+  }
+  else if (position === 'custom' && props.targetId) {
+    const element = document.getElementById(props.targetId)
+    if (element) {
+      targetPosition = element.offsetTop
+    }
   }
 
-  const props = withDefaults(defineProps<Props>(), {
-    duration: 500,
-    targetId: '',
-    showProgress: true,
-    progressColor: 'var(--ui-primary)',
+  window.scrollTo({
+    top: targetPosition,
+    behavior: props.duration <= 0 ? 'auto' : 'smooth',
   })
+}
 
-  // 添加滚动状态
-  const isAtBottom = ref(false)
-  const scrollProgress = ref(0)
-  const showButton = ref(false)
+// 监听滚动位置
+onMounted(() => {
+  const handleScroll = () => {
+    const scrolledToBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 100
+    isAtBottom.value = scrolledToBottom
 
-  // 计算滚动进度
-  function calculateScrollProgress() {
-    const winScroll = document.documentElement.scrollTop
-    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight
-    scrollProgress.value = (winScroll / height) * 100
-  }
-
-  // 检查是否显示按钮
-  function checkShowButton() {
-    const scrollTop = document.documentElement.scrollTop || document.body.scrollTop
-    const windowHeight = window.innerHeight
-    showButton.value = scrollTop > windowHeight * 0.3 // 滚动超过 30% 时显示
-  }
-
-  // 滚动到指定位置
-  function scrollToPosition(position: 'top' | 'bottom' | 'custom') {
-    let targetPosition = 0
-
-    if (position === 'bottom') {
-      targetPosition = document.body.scrollHeight
-    } else if (position === 'custom' && props.targetId) {
-      const element = document.getElementById(props.targetId)
-      if (element) {
-        targetPosition = element.offsetTop
-      }
+    if (props.showProgress) {
+      calculateScrollProgress()
     }
 
-    window.scrollTo({
-      top: targetPosition,
-      behavior: props.duration <= 0 ? 'auto' : 'smooth',
-    })
+    checkShowButton()
   }
 
-  // 监听滚动位置
-  onMounted(() => {
-    const handleScroll = () => {
-      const scrolledToBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 100
-      isAtBottom.value = scrolledToBottom
+  window.addEventListener('scroll', handleScroll)
+  handleScroll() // 初始检查
 
-      if (props.showProgress) {
-        calculateScrollProgress()
-      }
-
-      checkShowButton()
-    }
-
-    window.addEventListener('scroll', handleScroll)
-    handleScroll() // 初始检查
-
-    onUnmounted(() => {
-      window.removeEventListener('scroll', handleScroll)
-    })
+  onUnmounted(() => {
+    window.removeEventListener('scroll', handleScroll)
   })
+})
 
-  // 计算进度条样式
-  const progressStyle = computed(() => ({
-    width: `${scrollProgress.value}%`,
-    backgroundColor: props.progressColor,
-    position: 'fixed' as const,
-    top: 0,
-    left: 0,
-    height: '3px',
-    transition: 'width 0.3s',
-    zIndex: 100,
-  }))
+// 计算进度条样式
+const progressStyle = computed(() => ({
+  width: `${scrollProgress.value}%`,
+  backgroundColor: props.progressColor,
+  position: 'fixed' as const,
+  top: 0,
+  left: 0,
+  height: '3px',
+  transition: 'width 0.3s',
+  zIndex: 100,
+}))
 </script>
 
 <template>

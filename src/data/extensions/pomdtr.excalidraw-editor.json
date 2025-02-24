@@ -56,18 +56,8 @@
       "lastUpdated": "2023-01-30T23:07:42.027Z"
     }
   ],
-  "categories": [
-    "Visualization"
-  ],
-  "tags": [
-    "draw",
-    "excalidraw",
-    "graphics",
-    "json",
-    "keybindings",
-    "paint",
-    "schemas"
-  ],
+  "categories": ["Visualization"],
+  "tags": ["draw", "excalidraw", "graphics", "json", "keybindings", "paint", "schemas"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.7.4/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor"
 }

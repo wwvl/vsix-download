@@ -56,17 +56,8 @@
       "lastUpdated": "2024-02-26T13:14:05.243Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Debuggers"
-  ],
-  "tags": [
-    "debug",
-    "debugger",
-    "debuggers",
-    "debugging",
-    "java"
-  ],
+  "categories": ["Programming Languages", "Debuggers"],
+  "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2024090204/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
 }

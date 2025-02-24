@@ -56,19 +56,8 @@
       "lastUpdated": "2019-08-08T18:49:06.873Z"
     }
   ],
-  "categories": [
-    "Extension Packs"
-  ],
-  "tags": [
-    "containers",
-    "dev container",
-    "development container",
-    "docker",
-    "remote",
-    "remote development",
-    "ssh",
-    "wsl"
-  ],
+  "categories": ["Extension Packs"],
+  "tags": ["containers", "dev container", "development container", "docker", "remote", "remote development", "ssh", "wsl"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/vscode-remote-extensionpack/0.26.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"
 }

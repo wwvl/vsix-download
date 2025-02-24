@@ -56,18 +56,8 @@
       "lastUpdated": "2024-11-11T17:10:01.713Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Formatters"
-  ],
-  "tags": [
-    "javascript",
-    "json",
-    "snippet",
-    "svelte",
-    "typescript",
-    "vscode"
-  ],
+  "categories": ["Programming Languages", "Formatters"],
+  "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.5.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
 }

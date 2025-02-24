@@ -56,16 +56,8 @@
       "lastUpdated": "2022-05-11T05:59:54.64Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact",
-    "vue"
-  ],
+  "categories": ["Other"],
+  "tags": ["javascript", "javascriptreact", "typescript", "typescriptreact", "vue"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/goto-alias/0.2.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias"
 }

@@ -66,31 +66,8 @@
       "lastUpdated": "2025-02-16T07:50:50.493Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Machine Learning",
-    "Education",
-    "AI",
-    "Chat"
-  ],
-  "tags": [
-    "ai",
-    "chatgpt",
-    "claude",
-    "codegpt",
-    "codestral",
-    "copilot",
-    "github",
-    "json",
-    "jsonc",
-    "keybindings",
-    "llama",
-    "mistral",
-    "Prompt Language",
-    "promptLanguage",
-    "sonnet"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
+  "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.269/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
 }

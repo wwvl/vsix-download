@@ -56,9 +56,7 @@
       "lastUpdated": "2021-03-03T06:34:14.63Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/vite/0.2.5/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.vite"

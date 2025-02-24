@@ -56,13 +56,8 @@
       "lastUpdated": "2023-07-27T14:04:33.35Z"
     }
   ],
-  "categories": [
-    "Snippets",
-    "Formatters"
-  ],
-  "tags": [
-    "keybindings"
-  ],
+  "categories": ["Snippets", "Formatters"],
+  "tags": ["keybindings"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/figma/vsextensions/figma-vscode-extension/0.4.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension"
 }

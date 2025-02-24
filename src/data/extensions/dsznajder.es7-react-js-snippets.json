@@ -56,23 +56,8 @@
       "lastUpdated": "2022-01-18T20:42:35.233Z"
     }
   ],
-  "categories": [
-    "Snippets"
-  ],
-  "tags": [
-    "customizable",
-    "javascript",
-    "javascriptReact",
-    "keybindings",
-    "prettier",
-    "react",
-    "react-native",
-    "redux",
-    "snippet",
-    "snippets",
-    "typescript",
-    "typescriptReact"
-  ],
+  "categories": ["Snippets"],
+  "tags": ["customizable", "javascript", "javascriptReact", "keybindings", "prettier", "react", "react-native", "redux", "snippet", "snippets", "typescript", "typescriptReact"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dsznajder/vsextensions/es7-react-js-snippets/4.4.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"
 }

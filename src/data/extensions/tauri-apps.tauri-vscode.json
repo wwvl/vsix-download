@@ -56,21 +56,8 @@
       "lastUpdated": "2022-06-18T21:00:13.073Z"
     }
   ],
-  "categories": [
-    "Snippets",
-    "Linters"
-  ],
-  "tags": [
-    "desktop",
-    "development",
-    "framework",
-    "gui",
-    "javascript",
-    "json",
-    "rust",
-    "snippet",
-    "tauri"
-  ],
+  "categories": ["Snippets", "Linters"],
+  "tags": ["desktop", "development", "framework", "gui", "javascript", "json", "rust", "snippet", "tauri"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tauri-apps/vsextensions/tauri-vscode/0.2.9/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode"
 }

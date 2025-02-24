@@ -56,16 +56,8 @@
       "lastUpdated": "2023-03-17T21:05:37.817Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "json",
-    "keybindings",
-    "markdown",
-    "snippet",
-    "yaml"
-  ],
+  "categories": ["Other"],
+  "tags": ["json", "keybindings", "markdown", "snippet", "yaml"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.12/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown"
 }

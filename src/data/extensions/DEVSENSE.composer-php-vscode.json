@@ -56,24 +56,8 @@
       "lastUpdated": "2025-01-27T17:40:23.33Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Visualization"
-  ],
-  "tags": [
-    "codelens",
-    "commands",
-    "composer",
-    "json",
-    "packagist",
-    "php",
-    "php tools",
-    "schema",
-    "tools",
-    "validation"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
+  "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.56.16884/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
 }

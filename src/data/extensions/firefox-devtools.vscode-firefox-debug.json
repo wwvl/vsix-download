@@ -56,15 +56,8 @@
       "lastUpdated": "2023-09-27T08:08:43.347Z"
     }
   ],
-  "categories": [
-    "Debuggers"
-  ],
-  "tags": [
-    "debug",
-    "debuggers",
-    "firefox",
-    "vscode"
-  ],
+  "categories": ["Debuggers"],
+  "tags": ["debug", "debuggers", "firefox", "vscode"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/firefox-devtools/vsextensions/vscode-firefox-debug/2.14.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug"
 }

@@ -16,9 +16,7 @@
       "lastUpdated": "2024-11-11T18:19:44.89Z"
     }
   ],
-  "categories": [
-    "AI"
-  ],
+  "categories": ["AI"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BeilunYang/vsextensions/cursor-rules/0.2.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules"

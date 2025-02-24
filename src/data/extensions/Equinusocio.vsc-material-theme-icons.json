@@ -56,15 +56,8 @@
       "lastUpdated": "2024-08-07T17:12:43.183Z"
     }
   ],
-  "categories": [
-    "Themes"
-  ],
-  "tags": [
-    "icon-theme",
-    "theme",
-    "Themes",
-    "VSCode"
-  ],
+  "categories": ["Themes"],
+  "tags": ["icon-theme", "theme", "Themes", "VSCode"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme-icons/3.8.12/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons"
 }

@@ -56,17 +56,8 @@
       "lastUpdated": "2024-07-04T12:49:54.33Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "html",
-    "jade",
-    "json",
-    "markdown",
-    "plaintext",
-    "vue"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["html", "jade", "json", "markdown", "plaintext", "vue"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
 }

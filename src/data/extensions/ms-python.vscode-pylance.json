@@ -56,13 +56,8 @@
       "lastUpdated": "2024-11-06T23:37:06.65Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "json",
-    "python"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["json", "python"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.2.100/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
 }

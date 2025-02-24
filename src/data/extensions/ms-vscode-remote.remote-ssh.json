@@ -56,17 +56,8 @@
       "lastUpdated": "2025-01-21T16:30:49.257Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "chat-participant",
-    "github-copilot",
-    "remote",
-    "remote development",
-    "remote-menu",
-    "ssh"
-  ],
+  "categories": ["Other"],
+  "tags": ["chat-participant", "github-copilot", "remote", "remote development", "remote-menu", "ssh"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.118.2025021215/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
 }

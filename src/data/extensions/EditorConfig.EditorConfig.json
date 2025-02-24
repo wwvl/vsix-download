@@ -56,15 +56,8 @@
       "lastUpdated": "2020-11-24T19:40:55.28Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "config",
-    "editor",
-    "editorconfig",
-    "multi-root ready"
-  ],
+  "categories": ["Other"],
+  "tags": ["config", "editor", "editorconfig", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
 }

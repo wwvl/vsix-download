@@ -56,15 +56,8 @@
       "lastUpdated": "2024-10-13T17:16:15.14Z"
     }
   ],
-  "categories": [
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "biome_syntax_tree",
-    "Formatter",
-    "Linter"
-  ],
+  "categories": ["Linters", "Formatters"],
+  "tags": ["biome_syntax_tree", "Formatter", "Linter"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.2.72227/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=biomejs.biome"
 }

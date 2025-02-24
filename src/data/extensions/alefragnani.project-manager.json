@@ -56,21 +56,8 @@
       "lastUpdated": "2020-11-23T23:48:01.907Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "folder",
-    "git",
-    "keybindings",
-    "manage",
-    "mercurial",
-    "multi-root ready",
-    "project",
-    "svn",
-    "switch",
-    "workspace"
-  ],
+  "categories": ["Other"],
+  "tags": ["folder", "git", "keybindings", "manage", "mercurial", "multi-root ready", "project", "svn", "switch", "workspace"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/project-manager/12.8.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
 }

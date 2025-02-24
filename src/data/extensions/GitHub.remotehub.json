@@ -56,9 +56,7 @@
       "lastUpdated": "2024-05-29T09:38:21.213Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2024112101/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub"

@@ -56,14 +56,8 @@
       "lastUpdated": "2024-12-20T06:44:32.377Z"
     }
   ],
-  "categories": [
-    "Visualization"
-  ],
-  "tags": [
-    "markdown",
-    "markmap",
-    "mindmap"
-  ],
+  "categories": ["Visualization"],
+  "tags": ["markdown", "markmap", "mindmap"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gera2ld/vsextensions/markmap-vscode/0.2.10/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode"
 }

@@ -56,16 +56,8 @@
       "lastUpdated": "2024-09-21T08:31:28.917Z"
     }
   ],
-  "categories": [
-    "Themes"
-  ],
-  "tags": [
-    "customization",
-    "icons",
-    "icon-theme",
-    "material",
-    "theme"
-  ],
+  "categories": ["Themes"],
+  "tags": ["customization", "icons", "icon-theme", "material", "theme"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.19.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
 }

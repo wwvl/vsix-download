@@ -56,17 +56,8 @@
       "lastUpdated": "2018-07-01T22:13:06.893Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Debuggers"
-  ],
-  "tags": [
-    "csharp",
-    "debuggers",
-    "ini",
-    "snippet"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Debuggers"],
+  "tags": ["csharp", "debuggers", "ini", "snippet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/cake-build/vsextensions/cake-vscode/2.1.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=cake-build.cake-vscode"
 }

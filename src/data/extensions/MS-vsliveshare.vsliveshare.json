@@ -56,20 +56,8 @@
       "lastUpdated": "2023-11-28T18:03:21.39Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "Co-Debug",
-    "Co-Edit",
-    "Collaboration",
-    "debuggers",
-    "keybindings",
-    "liveshare",
-    "Remote",
-    "remote-menu",
-    "Sharing"
-  ],
+  "categories": ["Other"],
+  "tags": ["Co-Debug", "Co-Edit", "Collaboration", "debuggers", "keybindings", "liveshare", "Remote", "remote-menu", "Sharing"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5948/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
 }

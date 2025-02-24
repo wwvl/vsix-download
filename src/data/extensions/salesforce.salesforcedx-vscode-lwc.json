@@ -56,13 +56,8 @@
       "lastUpdated": "2024-10-09T15:48:04.22Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "debuggers",
-    "snippet"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["debuggers", "snippet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.1.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
 }

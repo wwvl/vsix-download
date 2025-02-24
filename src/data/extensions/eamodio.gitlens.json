@@ -56,18 +56,8 @@
       "lastUpdated": "2025-02-11T09:12:17.587Z"
     }
   ],
-  "categories": [
-    "SCM Providers"
-  ],
-  "tags": [
-    "annotation",
-    "blame",
-    "git",
-    "gitlens",
-    "keybindings",
-    "log",
-    "multi-root ready"
-  ],
+  "categories": ["SCM Providers"],
+  "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2104/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
 }

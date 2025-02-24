@@ -56,16 +56,8 @@
       "lastUpdated": "2024-09-30T23:29:34.817Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    ".NET",
-    ".NET Core",
-    "dotnet",
-    "Extension Authoring",
-    "runtime"
-  ],
+  "categories": ["Other"],
+  "tags": [".NET", ".NET Core", "dotnet", "Extension Authoring", "runtime"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.2.8/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
 }

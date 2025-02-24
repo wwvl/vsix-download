@@ -57,9 +57,7 @@
       "lastUpdated": "2021-08-30T07:20:34.103Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [
     "dart",
     "handlebars",

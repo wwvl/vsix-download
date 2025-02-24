@@ -1,32 +1,34 @@
 <script setup lang="ts">
-  import { computed } from 'vue'
+import { computed } from 'vue'
 
-  const items = computed(() => [
-    {
-      label: '列表视图',
-      to: '/list',
-      icon: 'i-carbon-table',
-    },
-    {
-      label: 'wwvl',
-      href: 'https://www.wwvl.asia',
-      target: '_blank',
-      rel: 'noopener noreferrer',
-    },
-    {
-      label: 'Github',
-      href: 'https://github.com/wwvl',
-      target: '_blank',
-      rel: 'noopener noreferrer',
-    },
-  ])
+const items = computed(() => [
+  {
+    label: '列表视图',
+    to: '/list',
+    icon: 'i-carbon-table',
+  },
+  {
+    label: 'wwvl',
+    href: 'https://www.wwvl.asia',
+    target: '_blank',
+    rel: 'noopener noreferrer',
+  },
+  {
+    label: 'Github',
+    href: 'https://github.com/wwvl',
+    target: '_blank',
+    rel: 'noopener noreferrer',
+  },
+])
 </script>
 
 <template>
   <HeaderSlideover :toggle="{ color: 'primary', variant: 'subtle', class: 'rounded-full' }" toggle-side="right">
     <template #title>
       <Logo class="h-6 w-auto" />
-      <ULink as="button"> vsix-download </ULink>
+      <ULink as="button">
+        vsix-download
+      </ULink>
     </template>
 
     <UNavigationMenu :items="items" />

@@ -56,20 +56,8 @@
       "lastUpdated": "2021-09-09T18:48:37.5Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "debuggers",
-    "keybindings",
-    "Oracle",
-    "oraclesql",
-    "Oracle-SQL and PLSQL",
-    "PL/SQL",
-    "plsql",
-    "snippet",
-    "sql"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["debuggers", "keybindings", "Oracle", "oraclesql", "Oracle-SQL and PLSQL", "PL/SQL", "plsql", "snippet", "sql"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracledevtools/23.4.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracledevtools"
 }

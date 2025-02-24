@@ -57,30 +57,8 @@
       "lastUpdated": "2024-07-08T14:10:44.327Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Debuggers",
-    "Formatters",
-    "Testing"
-  ],
-  "tags": [
-    "debuggers",
-    "go",
-    "Go Checksum File",
-    "Go Module File",
-    "Go Template File",
-    "Go Work File",
-    "go.mod",
-    "go.sum",
-    "go.work",
-    "golang",
-    "gopls",
-    "gotmpl",
-    "multi-root ready",
-    "snippet"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
+  "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/go-nightly/2024.8.2217/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.go-nightly"
 }

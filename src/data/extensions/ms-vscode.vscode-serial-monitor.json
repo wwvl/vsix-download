@@ -56,16 +56,8 @@
       "lastUpdated": "2025-02-10T02:56:48.737Z"
     }
   ],
-  "categories": [
-    "Visualization",
-    "Testing"
-  ],
-  "tags": [
-    "embedded",
-    "monitor",
-    "port",
-    "serial"
-  ],
+  "categories": ["Visualization", "Testing"],
+  "tags": ["embedded", "monitor", "port", "serial"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250221001/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
 }

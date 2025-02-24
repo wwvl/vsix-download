@@ -7,10 +7,10 @@ export function useExtensionSearch(extensions: Extension[]) {
 
   const filteredExtensions = computed(() => {
     return extensions.filter((ext) => {
-      const matchesSearch =
-        !searchQuery.value || ext.displayName.toLowerCase().includes(searchQuery.value.toLowerCase()) || ext.shortDescription.toLowerCase().includes(searchQuery.value.toLowerCase())
+      const matchesSearch
+        = !searchQuery.value || ext.displayName.toLowerCase().includes(searchQuery.value.toLowerCase()) || ext.shortDescription.toLowerCase().includes(searchQuery.value.toLowerCase())
 
-      const matchesCategories = !selectedCategories.value.length || ext.categories.some((cat) => selectedCategories.value.includes(cat))
+      const matchesCategories = !selectedCategories.value.length || ext.categories.some(cat => selectedCategories.value.includes(cat))
 
       return matchesSearch && matchesCategories
     })

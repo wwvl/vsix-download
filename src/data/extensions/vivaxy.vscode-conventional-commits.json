@@ -57,19 +57,8 @@
       "lastUpdated": "2021-08-27T08:58:16.31Z"
     }
   ],
-  "categories": [
-    "Snippets",
-    "SCM Providers"
-  ],
-  "tags": [
-    "commit",
-    "commitizen",
-    "conventional-changelog",
-    "conventional-commits",
-    "cz",
-    "gacp",
-    "git"
-  ],
+  "categories": ["Snippets", "SCM Providers"],
+  "tags": ["commit", "commitizen", "conventional-changelog", "conventional-commits", "cz", "gacp", "git"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vivaxy/vsextensions/vscode-conventional-commits/1.26.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits"
 }

@@ -56,21 +56,8 @@
       "lastUpdated": "2023-10-22T14:19:22.603Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "diagnostic",
-    "error",
-    "gutter",
-    "highlight",
-    "inline",
-    "message",
-    "problem",
-    "problems",
-    "status bar",
-    "warning"
-  ],
+  "categories": ["Other"],
+  "tags": ["diagnostic", "error", "gutter", "highlight", "inline", "message", "problem", "problems", "status bar", "warning"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.23.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
 }

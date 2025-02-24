@@ -65,24 +65,8 @@
       "lastUpdated": "2025-02-10T16:56:39.623Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters"
-  ],
-  "tags": [
-    "bash",
-    "dash",
-    "ksh",
-    "lint",
-    "linter",
-    "posix",
-    "sh",
-    "shell",
-    "shellcheck-output",
-    "shellcheckrc",
-    "shellscript",
-    "snippet"
-  ],
+  "categories": ["Programming Languages", "Linters"],
+  "tags": ["bash", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.37.7/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
 }

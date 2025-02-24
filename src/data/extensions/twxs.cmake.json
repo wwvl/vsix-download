@@ -56,16 +56,8 @@
       "lastUpdated": "2015-11-16T10:47:59.6Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets"
-  ],
-  "tags": [
-    "CMake",
-    "CMake Cache",
-    "cmake-cache",
-    "Syntax"
-  ],
+  "categories": ["Programming Languages", "Snippets"],
+  "tags": ["CMake", "CMake Cache", "cmake-cache", "Syntax"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/twxs/vsextensions/cmake/0.0.17/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=twxs.cmake"
 }

@@ -56,12 +56,7 @@
       "lastUpdated": "2025-01-30T01:04:37.977Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "AI",
-    "Chat"
-  ],
+  "categories": ["Programming Languages", "Linters", "AI", "Chat"],
   "tags": [
     "application-properties",
     "application-yaml",

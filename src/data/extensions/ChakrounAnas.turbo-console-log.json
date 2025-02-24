@@ -56,16 +56,8 @@
       "lastUpdated": "2025-01-17T05:04:26.583Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "javascript",
-    "javascriptreact",
-    "keybindings",
-    "typescript",
-    "typescriptreact"
-  ],
+  "categories": ["Other"],
+  "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.12.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
 }

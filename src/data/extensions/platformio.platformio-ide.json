@@ -66,12 +66,7 @@
       "lastUpdated": "2025-01-11T14:59:10.647Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Debuggers",
-    "Testing"
-  ],
+  "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
   "tags": [
     "arduino",
     "arm",

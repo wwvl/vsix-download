@@ -56,16 +56,8 @@
       "lastUpdated": "2021-02-12T07:47:44.187Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "changelog",
-    "commit",
-    "commitizen",
-    "conventional-changelog",
-    "git"
-  ],
+  "categories": ["Other"],
+  "tags": ["changelog", "commit", "commitizen", "conventional-changelog", "git"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/KnisterPeter/vsextensions/vscode-commitizen/1.1.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen"
 }

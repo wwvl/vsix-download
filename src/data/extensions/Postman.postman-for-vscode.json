@@ -56,21 +56,8 @@
       "lastUpdated": "2024-06-25T09:02:48.453Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Education",
-    "Testing"
-  ],
-  "tags": [
-    "api client",
-    "grpc client",
-    "http client",
-    "keybindings",
-    "Postman",
-    "rest client",
-    "testing",
-    "websocket client"
-  ],
+  "categories": ["Programming Languages", "Education", "Testing"],
+  "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.7.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
 }

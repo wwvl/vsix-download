@@ -66,22 +66,8 @@
       "lastUpdated": "2024-10-17T12:19:08.5Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters",
-    "Formatters"
-  ],
-  "tags": [
-    "astro",
-    "javascript",
-    "node",
-    "react",
-    "snippet",
-    "Static site generator",
-    "svelte",
-    "typescript",
-    "vue"
-  ],
+  "categories": ["Programming Languages", "Linters", "Formatters"],
+  "tags": ["astro", "javascript", "node", "react", "snippet", "Static site generator", "svelte", "typescript", "vue"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.15.4/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode"
 }

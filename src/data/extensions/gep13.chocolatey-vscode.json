@@ -56,13 +56,8 @@
       "lastUpdated": "2016-01-10T14:20:11.307Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "snippet",
-    "zip"
-  ],
+  "categories": ["Other"],
+  "tags": ["snippet", "zip"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gep13/vsextensions/chocolatey-vscode/0.7.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gep13.chocolatey-vscode"
 }

@@ -56,13 +56,8 @@
       "lastUpdated": "2022-04-05T09:47:48.947Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "GitHub Issues",
-    "github-issues"
-  ],
+  "categories": ["Other"],
+  "tags": ["GitHub Issues", "github-issues"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-github-issue-notebooks/0.0.130/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks"
 }

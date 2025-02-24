@@ -56,9 +56,7 @@
       "lastUpdated": "2023-06-20T17:52:37.837Z"
     }
   ],
-  "categories": [
-    "Formatters"
-  ],
+  "categories": ["Formatters"],
   "tags": [
     "angular",
     "commonmark",

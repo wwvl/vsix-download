@@ -1,6 +1,6 @@
 import type { Extension } from '@/types/extension'
 // composables/useExtensions.ts
-import { computed, ref } from 'vue'
+import { ref } from 'vue'
 
 export function useExtensions() {
   const extensions = ref<Extension[]>([])
@@ -13,9 +13,11 @@ export function useExtensions() {
     try {
       const response = await fetch('/data/extensions.json')
       extensions.value = await response.json()
-    } catch (e) {
+    }
+    catch (e) {
       error.value = e as Error
-    } finally {
+    }
+    finally {
       loading.value = false
     }
   }

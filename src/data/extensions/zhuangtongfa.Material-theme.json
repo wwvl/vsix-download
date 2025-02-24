@@ -56,18 +56,8 @@
       "lastUpdated": "2024-03-13T03:14:19.503Z"
     }
   ],
-  "categories": [
-    "Themes"
-  ],
-  "tags": [
-    "atom",
-    "color-theme",
-    "one dark",
-    "one dark pro",
-    "OneDark",
-    "onedark pro",
-    "theme"
-  ],
+  "categories": ["Themes"],
+  "tags": ["atom", "color-theme", "one dark", "one dark pro", "OneDark", "onedark pro", "theme"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/zhuangtongfa/vsextensions/Material-theme/3.19.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme"
 }

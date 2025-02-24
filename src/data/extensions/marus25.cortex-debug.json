@@ -56,19 +56,8 @@
       "lastUpdated": "2023-03-07T20:03:14.007Z"
     }
   ],
-  "categories": [
-    "Debuggers"
-  ],
-  "tags": [
-    "Cortex-Debug Memory View",
-    "cortex-debug.memoryview",
-    "cortex-m",
-    "debug",
-    "debuggers",
-    "embedded",
-    "gdb",
-    "keybindings"
-  ],
+  "categories": ["Debuggers"],
+  "tags": ["Cortex-Debug Memory View", "cortex-debug.memoryview", "cortex-m", "debug", "debuggers", "embedded", "gdb", "keybindings"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/marus25/vsextensions/cortex-debug/1.12.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug"
 }

@@ -66,21 +66,8 @@
       "lastUpdated": "2025-02-06T06:52:43.693Z"
     }
   ],
-  "categories": [
-    "Linters"
-  ],
-  "tags": [
-    "javascript",
-    "javascriptreact",
-    "json",
-    "jsonc",
-    "linter",
-    "oxc",
-    "svelte",
-    "typescript",
-    "typescriptreact",
-    "vue"
-  ],
+  "categories": ["Linters"],
+  "tags": ["javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.15.11/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
 }

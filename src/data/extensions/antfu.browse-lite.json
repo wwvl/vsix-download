@@ -56,12 +56,8 @@
       "lastUpdated": "2022-04-27T08:06:19.71Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "debuggers"
-  ],
+  "categories": ["Other"],
+  "tags": ["debuggers"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/browse-lite/0.3.9/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.browse-lite"
 }

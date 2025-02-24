@@ -56,16 +56,8 @@
       "lastUpdated": "2020-12-09T20:56:17.56Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "pytest",
-    "python",
-    "test",
-    "testing",
-    "unittest"
-  ],
+  "categories": ["Other"],
+  "tags": ["pytest", "python", "test", "testing", "unittest"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LittleFoxTeam/vsextensions/vscode-python-test-adapter/0.8.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter"
 }

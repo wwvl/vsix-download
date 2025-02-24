@@ -56,17 +56,8 @@
       "lastUpdated": "2018-12-31T23:15:11.697Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "rust",
-    "rustlang",
-    "test",
-    "test adapter",
-    "test explorer",
-    "testing"
-  ],
+  "categories": ["Other"],
+  "tags": ["rust", "rustlang", "test", "test adapter", "test explorer", "testing"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/swellaby/vsextensions/vscode-rust-test-adapter/0.11.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter"
 }

@@ -56,20 +56,8 @@
       "lastUpdated": "2024-07-25T20:19:37.817Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters"
-  ],
-  "tags": [
-    "ansible",
-    "ansible-jinja",
-    "autocompletion",
-    "json",
-    "keybindings",
-    "validation",
-    "yaml",
-    "yml"
-  ],
+  "categories": ["Programming Languages", "Linters"],
+  "tags": ["ansible", "ansible-jinja", "autocompletion", "json", "keybindings", "validation", "yaml", "yml"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.2.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
 }

@@ -56,13 +56,8 @@
       "lastUpdated": "2023-10-24T02:12:12.21Z"
     }
   ],
-  "categories": [
-    "Programming Languages"
-  ],
-  "tags": [
-    "Java",
-    "Maven"
-  ],
+  "categories": ["Programming Languages"],
+  "tags": ["Java", "Maven"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2024072906/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven"
 }

@@ -66,25 +66,8 @@
       "lastUpdated": "2025-02-11T23:58:34.557Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Linters",
-    "Debuggers",
-    "Formatters"
-  ],
-  "tags": [
-    "C",
-    "C++",
-    "cpp",
-    "cuda-cpp",
-    "debuggers",
-    "IntelliSense",
-    "json",
-    "keybindings",
-    "Microsoft",
-    "multi-root ready"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
+  "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
 }

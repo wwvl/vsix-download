@@ -66,16 +66,8 @@
       "lastUpdated": "2025-02-08T20:40:53.52Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Linters"
-  ],
-  "tags": [
-    "json",
-    "lua",
-    "luau",
-    "roblox"
-  ],
+  "categories": ["Programming Languages", "Linters"],
+  "tags": ["json", "lua", "luau", "roblox"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.39.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
 }

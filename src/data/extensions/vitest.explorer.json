@@ -56,17 +56,8 @@
       "lastUpdated": "2025-01-22T17:23:49.217Z"
     }
   ],
-  "categories": [
-    "Testing"
-  ],
-  "tags": [
-    "javascript",
-    "test",
-    "typescript",
-    "vitest",
-    "Vitest Snapshot",
-    "vitest-snapshot"
-  ],
+  "categories": ["Testing"],
+  "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.14.3/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
 }

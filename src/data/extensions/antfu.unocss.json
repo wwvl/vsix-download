@@ -56,9 +56,7 @@
       "lastUpdated": "2024-12-02T10:31:07.973Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.0.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"

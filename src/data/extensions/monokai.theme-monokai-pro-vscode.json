@@ -56,19 +56,8 @@
       "lastUpdated": "2024-04-17T14:58:11.14Z"
     }
   ],
-  "categories": [
-    "Themes"
-  ],
-  "tags": [
-    "beautiful functionality",
-    "color-theme",
-    "dark",
-    "focus",
-    "icons",
-    "icon-theme",
-    "light",
-    "theme"
-  ],
+  "categories": ["Themes"],
+  "tags": ["beautiful functionality", "color-theme", "dark", "focus", "icons", "icon-theme", "light", "theme"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.6/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
 }

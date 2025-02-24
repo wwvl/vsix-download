@@ -56,17 +56,8 @@
       "lastUpdated": "2021-03-22T04:27:55.533Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "gist",
-    "github",
-    "json",
-    "notes",
-    "snippets",
-    "wiki"
-  ],
+  "categories": ["Other"],
+  "tags": ["gist", "github", "json", "notes", "snippets", "wiki"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.7.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
 }

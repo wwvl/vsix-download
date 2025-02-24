@@ -16,16 +16,8 @@
       "lastUpdated": "2025-01-10T18:38:50.953Z"
     }
   ],
-  "categories": [
-    "Azure"
-  ],
-  "tags": [
-    "Azure",
-    "Functions",
-    "json",
-    "multi-root ready",
-    "serverless"
-  ],
+  "categories": ["Azure"],
+  "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.16.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
 }

@@ -56,9 +56,7 @@
       "lastUpdated": "2023-10-08T17:47:27.24Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
+  "categories": ["Other"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/vscode-typescript-vue-plugin/1.8.27/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin"

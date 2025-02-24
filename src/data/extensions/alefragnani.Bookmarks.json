@@ -56,19 +56,8 @@
       "lastUpdated": "2021-09-06T00:03:56.697Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "bookmark",
-    "jump",
-    "keybindings",
-    "mark",
-    "multi-root ready",
-    "navigation",
-    "selection",
-    "sticky"
-  ],
+  "categories": ["Other"],
+  "tags": ["bookmark", "jump", "keybindings", "mark", "multi-root ready", "navigation", "selection", "sticky"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/Bookmarks/13.5.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks"
 }

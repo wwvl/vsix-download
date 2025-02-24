@@ -56,12 +56,8 @@
       "lastUpdated": "2021-08-18T14:49:26.037Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "license"
-  ],
+  "categories": ["Other"],
+  "tags": ["license"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ultram4rine/vsextensions/vscode-choosealicense/0.9.4/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ultram4rine.vscode-choosealicense"
 }

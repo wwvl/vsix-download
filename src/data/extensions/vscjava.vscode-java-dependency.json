@@ -56,15 +56,8 @@
       "lastUpdated": "2024-01-05T07:08:13.573Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "explorer",
-    "java",
-    "keybindings",
-    "project"
-  ],
+  "categories": ["Other"],
+  "tags": ["explorer", "java", "keybindings", "project"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.24.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
 }

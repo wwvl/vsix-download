@@ -56,28 +56,8 @@
       "lastUpdated": "2024-07-15T17:33:34.287Z"
     }
   ],
-  "categories": [
-    "Programming Languages",
-    "Snippets",
-    "Data Science",
-    "AI",
-    "Chat"
-  ],
-  "tags": [
-    "chat-participant",
-    "copilot",
-    "Database",
-    "Databases",
-    "javascript",
-    "json",
-    "keybindings",
-    "MongoDB",
-    "MongoDB Atlas",
-    "MQL",
-    "plaintext",
-    "snippet",
-    "terraform"
-  ],
+  "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],
+  "tags": ["chat-participant", "copilot", "Database", "Databases", "javascript", "json", "keybindings", "MongoDB", "MongoDB Atlas", "MQL", "plaintext", "snippet", "terraform"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.12.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
 }

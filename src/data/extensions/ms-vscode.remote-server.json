@@ -56,12 +56,8 @@
       "lastUpdated": "2024-07-08T09:21:50.943Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "remote-menu"
-  ],
+  "categories": ["Other"],
+  "tags": ["remote-menu"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025010809/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
 }

@@ -56,9 +56,7 @@
       "lastUpdated": "2018-09-20T18:41:55.19Z"
     }
   ],
-  "categories": [
-    "Formatters"
-  ],
+  "categories": ["Formatters"],
   "tags": [],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aaron-bond/vsextensions/better-comments/3.0.2/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"

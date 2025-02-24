@@ -56,14 +56,8 @@
       "lastUpdated": "2021-08-11T09:01:02.357Z"
     }
   ],
-  "categories": [
-    "Other"
-  ],
-  "tags": [
-    "commit",
-    "git",
-    "vscode"
-  ],
+  "categories": ["Other"],
+  "tags": ["commit", "git", "vscode"],
   "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redjue/vsextensions/git-commit-plugin/1.5.0/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin"
 }
