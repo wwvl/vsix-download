@@ -27,6 +27,6 @@ const ui = {
     <h3 :class="ui.descriptionTitle">
       版本历史
     </h3>
-    <ExtensionVersionHistory :extension="extension" />
+    <ExtensionVersionHistory :extension="extension" :visible-version-count="6" />
   </div>
 </template>

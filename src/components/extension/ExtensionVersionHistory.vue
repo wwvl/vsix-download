@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import type { Extension } from '@/types/extension'
 import type { TableColumn } from '@nuxt/ui'
-import { h, resolveComponent, toRefs } from 'vue'
+import { getDownloadUrl } from '@/composables/useExtension'
+import { computed, h, resolveComponent, toRefs } from 'vue'
 
 const props = defineProps<{
   extension: Extension
+  visibleVersionCount?: number
 }>()
 
 const { extension } = toRefs(props)
@@ -16,10 +18,13 @@ interface VersionHistory {
   lastUpdated: string
 }
 
-function getDownloadUrl(extensionName: string, version: string): string {
-  const [publisher, name] = extensionName.split('.')
-  return `https://marketplace.visualstudio.com/_apis/public/gallery/publishers/${publisher}/vsextensions/${name}/${version}/vspackage`
-}
+// 根据可见版本数量参数过滤版本历史数据
+const filteredVersionHistory = computed(() => {
+  if (!props.visibleVersionCount || props.visibleVersionCount <= 0) {
+    return extension.value.version_history
+  }
+  return extension.value.version_history.slice(0, props.visibleVersionCount)
+})
 
 // 格式化日期
 function formatDate(date: string) {
@@ -76,7 +81,7 @@ const columns: TableColumn<VersionHistory>[] = [
   <div class="max-w-3xl">
     <div class="flex w-full flex-1 flex-col overflow-x-auto rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden">
       <UTable
-        :data="extension.version_history"
+        :data="filteredVersionHistory"
         :columns="columns"
         :ui="{
           tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50',
