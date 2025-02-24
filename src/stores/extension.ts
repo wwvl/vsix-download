@@ -73,6 +73,47 @@ export const useExtensionStore = defineStore(
       }
     }
 
+    // 从本地 JSON 文件获取扩展列表
+    async function fetchLocalExtensions() {
+      loading.value = true
+      error.value = null
+      try {
+        const response = await fetch('/src/data/extensions.json')
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`)
+        }
+        const data = await response.json()
+
+        if (!Array.isArray(data)) {
+          console.warn('Invalid data format from local JSON')
+          extensions.value = []
+          return
+        }
+
+        // 复用相同的数据转换和验证逻辑
+        const validExtensions = data
+          .map((item) => {
+            try {
+              return validateAndTransformExtension(item)
+            }
+            catch (e) {
+              console.error('Invalid extension data:', item, e)
+              return null
+            }
+          })
+          .filter((item): item is Extension => item !== null)
+
+        extensions.value = validExtensions
+      }
+      catch (err) {
+        console.error('Error fetching local extensions:', err)
+        error.value = err as Error
+      }
+      finally {
+        loading.value = false
+      }
+    }
+
     return {
       // 状态
       extensions,
@@ -81,6 +122,7 @@ export const useExtensionStore = defineStore(
 
       // 方法
       fetchExtensions,
+      fetchLocalExtensions,
     }
   },
   {
