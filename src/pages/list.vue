@@ -96,12 +96,6 @@ function getHeader(column: Column<Extension>, label: string) {
   })
 }
 
-// 获取下载链接
-function getDownloadUrl(extensionName: string, version: string): string {
-  const [publisher, name] = extensionName.split('.')
-  return `https://marketplace.visualstudio.com/_apis/public/gallery/publishers/${publisher}/vsextensions/${name}/${version}/vspackage`
-}
-
 // 复制安装命令到剪贴板
 function copyInstallCommand(extensionId: string): Promise<void> {
   return copy(`ext install ${extensionId}`).then(() => {
@@ -239,34 +233,6 @@ const columnLabels = computed(() => {
   }
   return Object.fromEntries(columns.filter(col => (col as any).accessorKey).map(col => [(col as any).accessorKey, labels[(col as any).accessorKey] || upperFirst((col as any).accessorKey)]))
 })
-
-function getDropdownActions(extension: Extension): DropdownMenuItem[][] {
-  return [
-    [
-      {
-        label: '复制安装命令',
-        icon: 'i-lucide-copy',
-        onSelect: () => {
-          copyInstallCommand(extension.extension_name)
-        },
-      },
-    ],
-    [
-      {
-        label: '下载',
-        icon: 'i-carbon-download',
-        href: getDownloadUrl(extension.extension_name, extension.latest_version),
-        target: '_blank',
-      },
-      {
-        label: '查看详情',
-        icon: 'i-lucide-external-link',
-        href: extension.marketplace_url,
-        target: '_blank',
-      },
-    ],
-  ]
-}
 
 // 添加 UI 配置
 const ui = {
@@ -420,11 +386,7 @@ onMounted(async () => {
           </template>
 
           <template #actions-cell="{ row }">
-            <div class="flex justify-end">
-              <UDropdownMenu :items="getDropdownActions(row.original)">
-                <UButton icon="i-carbon-overflow-menu-vertical" color="neutral" variant="ghost" :class="ui.actionButton" />
-              </UDropdownMenu>
-            </div>
+            <ExtensionActions :extension="row.original" />
           </template>
         </UTable>
 
