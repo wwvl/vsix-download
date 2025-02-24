@@ -1,8 +1,7 @@
 <!-- eslint-disable vue/html-self-closing -->
 <script setup lang="ts">
 import type { Extension } from '@/types/extension'
-import ExtensionVersionHistory from '@/components/extension/ExtensionVersionHistory.vue'
-import { useClipboard } from '@vueuse/core'
+import { useExtension } from '@/composables/useExtension'
 import { computed, resolveComponent, toRefs } from 'vue'
 
 const props = defineProps<{
@@ -14,19 +13,7 @@ const UBadge = resolveComponent('UBadge')
 const UTooltip = resolveComponent('UTooltip')
 
 const { extension } = toRefs(props) // 使用 toRefs 解构 props
-const { copy } = useClipboard()
-const toast = useToast()
-// 复制安装命令到剪贴板
-function copyExtensionName(extensionName: string): Promise<void> {
-  return copy(`ext install ${extensionName}`).then(() => {
-    toast.add({
-      title: '安装命令已复制！',
-      description: `命令：ext install ${extensionName}`,
-      icon: 'i-carbon-checkmark-outline',
-      color: 'success',
-    })
-  })
-}
+const { copyInstallCommand } = useExtension()
 
 function formatDate(date: string) {
   return new Date(date).toLocaleString('zh-CN', {
@@ -87,7 +74,7 @@ const ui = {
             <UTooltip :text="info.tooltip">
               <UIcon :name="info.icon" class="mr-6" />
             </UTooltip>
-            <div :class="info.copyable ? 'hover:text-primary-500 cursor-pointer transition-colors duration-300' : ''" @click="info.copyable && copyExtensionName(info.value)">
+            <div :class="info.copyable ? 'hover:text-primary-500 cursor-pointer transition-colors duration-300' : ''" @click="info.copyable && copyInstallCommand(info.value)">
               {{ info.value }}
             </div>
           </li>
