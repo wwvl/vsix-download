@@ -11,7 +11,7 @@
     <div class="flex items-center gap-2">
       <UButton label="Documentation" icon="i-carbon-play-outline" to="https://ui3.nuxt.dev/getting-started/installation/vue" target="_blank" />
 
-      <UButton label="GitHub" color="neutral" variant="outline" icon="i-simple-icons:github" to="https://github.com/nuxt/ui" target="_blank" />
+      <UButton label="GitHub" color="neutral" variant="outline" icon="i-simple-icons:github" to="https://github.com/wwvl" target="_blank" />
     </div>
   </div>
 </template>
