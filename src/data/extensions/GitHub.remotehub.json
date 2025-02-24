@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "0.65.2024112101",
-      "flags": "validated",
       "lastUpdated": "2024-11-21T09:22:11.343Z"
     },
     {
       "version": "0.65.2024111901",
-      "flags": "validated",
       "lastUpdated": "2024-11-19T09:24:21.977Z"
     },
     {
       "version": "0.64.0",
-      "flags": "validated",
       "lastUpdated": "2024-09-05T20:10:31.67Z"
     },
     {
       "version": "0.63.2024082601",
-      "flags": "validated",
       "lastUpdated": "2024-08-26T09:21:27.77Z"
     },
     {
       "version": "0.63.2024080801",
-      "flags": "validated",
       "lastUpdated": "2024-08-08T09:24:16.613Z"
     },
     {
       "version": "0.63.2024061801",
-      "flags": "validated",
       "lastUpdated": "2024-06-18T09:23:47.777Z"
     },
     {
       "version": "0.63.2024061701",
-      "flags": "validated",
       "lastUpdated": "2024-06-17T09:20:47.697Z"
     },
     {
       "version": "0.63.2024061301",
-      "flags": "validated",
       "lastUpdated": "2024-06-13T09:26:29.243Z"
     },
     {
       "version": "0.63.2024061201",
-      "flags": "validated",
       "lastUpdated": "2024-06-12T09:31:28.263Z"
     },
     {
       "version": "0.63.2024052901",
-      "flags": "validated",
       "lastUpdated": "2024-05-29T09:38:21.213Z"
+    },
+    {
+      "version": "0.63.2024052701",
+      "lastUpdated": "2024-05-27T09:22:37.783Z"
+    },
+    {
+      "version": "0.63.2024051501",
+      "lastUpdated": "2024-05-15T09:43:40.95Z"
+    },
+    {
+      "version": "0.63.2024031101",
+      "lastUpdated": "2024-03-11T09:16:05.663Z"
+    },
+    {
+      "version": "0.63.2024022201",
+      "lastUpdated": "2024-02-22T09:19:31.41Z"
+    },
+    {
+      "version": "0.63.2024010901",
+      "lastUpdated": "2024-01-09T09:35:21.69Z"
+    },
+    {
+      "version": "0.63.2023121101",
+      "lastUpdated": "2023-12-11T09:19:44.2Z"
+    },
+    {
+      "version": "0.62.0",
+      "lastUpdated": "2023-10-04T18:37:19.593Z"
+    },
+    {
+      "version": "0.61.2023100201",
+      "lastUpdated": "2023-10-02T09:21:20.133Z"
+    },
+    {
+      "version": "0.61.2023092801",
+      "lastUpdated": "2023-09-28T09:20:14Z"
+    },
+    {
+      "version": "0.61.2023092601",
+      "lastUpdated": "2023-09-26T09:21:37.3Z"
     }
   ],
   "categories": ["Other"],

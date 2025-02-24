@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "2.15.4",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:20:42.533Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:20:33.81Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:20:04.98Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:43.54Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:33.71Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:26.34Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:25.927Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:24.62Z"
     },
     {
       "version": "2.15.4",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-10-25T19:19:23.07Z"
     },
     {
       "version": "2.15.3",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-10-17T12:19:08.5Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:18:57.343Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:18:30.203Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:18:29.3Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:18:28.087Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:18:16.92Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:18:14.897Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:17:39.18Z"
+    },
+    {
+      "version": "2.15.3",
+      "lastUpdated": "2024-10-17T12:17:36.82Z"
+    },
+    {
+      "version": "2.15.2",
+      "lastUpdated": "2024-10-07T13:32:08.733Z"
+    },
+    {
+      "version": "2.15.2",
+      "lastUpdated": "2024-10-07T13:31:54.637Z"
     }
   ],
   "categories": ["Programming Languages", "Linters", "Formatters"],

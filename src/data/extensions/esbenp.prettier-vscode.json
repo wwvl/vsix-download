@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "11.0.0",
-      "flags": "validated",
       "lastUpdated": "2024-08-14T15:16:38.6Z"
     },
     {
       "version": "10.4.0",
-      "flags": "validated",
       "lastUpdated": "2024-03-21T12:46:41.693Z"
     },
     {
       "version": "10.3.0",
-      "flags": "validated",
       "lastUpdated": "2024-03-21T02:12:10.577Z"
     },
     {
       "version": "10.1.0",
-      "flags": "validated",
       "lastUpdated": "2023-07-31T16:08:00.997Z"
     },
     {
       "version": "10.0.0",
-      "flags": "validated",
       "lastUpdated": "2023-07-31T14:48:55.34Z"
     },
     {
       "version": "9.20.0",
-      "flags": "validated",
       "lastUpdated": "2023-07-31T16:02:09.323Z"
     },
     {
       "version": "9.19.0",
-      "flags": "validated",
       "lastUpdated": "2023-06-30T14:46:17.72Z"
     },
     {
       "version": "9.18.0",
-      "flags": "validated",
       "lastUpdated": "2023-06-30T14:32:37.78Z"
     },
     {
       "version": "9.16.0",
-      "flags": "validated",
       "lastUpdated": "2023-06-22T11:49:56.99Z"
     },
     {
       "version": "9.15.0",
-      "flags": "validated",
       "lastUpdated": "2023-06-20T17:52:37.837Z"
+    },
+    {
+      "version": "9.14.0",
+      "lastUpdated": "2023-06-19T16:30:39.253Z"
+    },
+    {
+      "version": "9.13.0",
+      "lastUpdated": "2023-05-24T14:36:42.37Z"
+    },
+    {
+      "version": "9.12.0",
+      "lastUpdated": "2023-04-21T09:21:43.053Z"
+    },
+    {
+      "version": "9.10.4",
+      "lastUpdated": "2023-01-11T18:09:37.36Z"
+    },
+    {
+      "version": "9.10.3",
+      "lastUpdated": "2022-11-30T19:13:17.627Z"
+    },
+    {
+      "version": "9.9.0",
+      "lastUpdated": "2022-09-23T15:03:31.377Z"
+    },
+    {
+      "version": "9.8.0",
+      "lastUpdated": "2022-08-20T21:07:11.477Z"
+    },
+    {
+      "version": "9.7.0",
+      "lastUpdated": "2022-08-20T19:42:54.523Z"
+    },
+    {
+      "version": "9.5.0",
+      "lastUpdated": "2022-03-29T00:25:08.8Z"
+    },
+    {
+      "version": "9.4.0",
+      "lastUpdated": "2022-03-25T14:43:10.11Z"
     }
   ],
   "categories": ["Formatters"],

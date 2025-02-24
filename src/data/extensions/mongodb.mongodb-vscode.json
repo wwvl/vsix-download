@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "1.12.0",
-      "flags": "validated",
       "lastUpdated": "2025-01-30T16:21:30.46Z"
     },
     {
       "version": "1.11.0",
-      "flags": "validated",
       "lastUpdated": "2024-12-11T15:19:40.113Z"
     },
     {
       "version": "1.10.0",
-      "flags": "validated",
       "lastUpdated": "2024-11-25T15:22:36.26Z"
     },
     {
       "version": "1.9.3",
-      "flags": "validated",
       "lastUpdated": "2024-10-24T13:23:28.21Z"
     },
     {
       "version": "1.9.2",
-      "flags": "validated",
       "lastUpdated": "2024-10-21T15:58:26.827Z"
     },
     {
       "version": "1.9.1",
-      "flags": "validated",
       "lastUpdated": "2024-09-30T21:23:06.21Z"
     },
     {
       "version": "1.8.1",
-      "flags": "validated",
       "lastUpdated": "2024-09-02T07:35:17.27Z"
     },
     {
       "version": "1.8.0",
-      "flags": "validated",
       "lastUpdated": "2024-08-29T09:00:34.26Z"
     },
     {
       "version": "1.7.0",
-      "flags": "validated",
       "lastUpdated": "2024-08-01T15:00:19.13Z"
     },
     {
       "version": "1.6.1",
-      "flags": "validated",
       "lastUpdated": "2024-07-15T17:33:34.287Z"
+    },
+    {
+      "version": "1.6.0",
+      "lastUpdated": "2024-04-23T11:57:40.5Z"
+    },
+    {
+      "version": "1.5.0",
+      "lastUpdated": "2024-01-24T16:11:10.507Z"
+    },
+    {
+      "version": "1.4.0",
+      "lastUpdated": "2024-01-09T20:02:06.543Z"
+    },
+    {
+      "version": "1.3.1",
+      "lastUpdated": "2023-10-09T18:38:18.607Z"
+    },
+    {
+      "version": "1.2.1",
+      "lastUpdated": "2023-08-23T13:57:31.377Z"
+    },
+    {
+      "version": "1.2.0",
+      "lastUpdated": "2023-08-15T15:11:27.2Z"
+    },
+    {
+      "version": "1.1.0",
+      "lastUpdated": "2023-07-14T14:41:03.83Z"
+    },
+    {
+      "version": "1.0.2",
+      "lastUpdated": "2023-06-21T10:38:22.267Z"
+    },
+    {
+      "version": "1.0.1",
+      "lastUpdated": "2023-05-17T17:42:28.56Z"
+    },
+    {
+      "version": "0.11.1",
+      "lastUpdated": "2023-03-31T07:48:49.563Z"
     }
   ],
   "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],

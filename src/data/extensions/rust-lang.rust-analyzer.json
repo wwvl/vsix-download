@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "0.4.2316",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:42:40.717Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:56.36Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:53.36Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:30.637Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:28.42Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:27.203Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:22.957Z"
     },
     {
       "version": "0.4.2316",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T00:41:05.597Z"
     },
     {
       "version": "0.4.2315",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-23T00:48:26.157Z"
     },
     {
       "version": "0.4.2315",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-23T00:44:57.863Z"
+    },
+    {
+      "version": "0.4.2315",
+      "lastUpdated": "2025-02-23T00:44:26.49Z"
+    },
+    {
+      "version": "0.4.2315",
+      "lastUpdated": "2025-02-23T00:44:14.78Z"
+    },
+    {
+      "version": "0.4.2315",
+      "lastUpdated": "2025-02-23T00:43:36.79Z"
+    },
+    {
+      "version": "0.4.2315",
+      "lastUpdated": "2025-02-23T00:43:32.323Z"
+    },
+    {
+      "version": "0.4.2315",
+      "lastUpdated": "2025-02-23T00:43:25.09Z"
+    },
+    {
+      "version": "0.4.2315",
+      "lastUpdated": "2025-02-23T00:43:07.013Z"
+    },
+    {
+      "version": "0.4.2314",
+      "lastUpdated": "2025-02-22T00:39:45.423Z"
+    },
+    {
+      "version": "0.4.2314",
+      "lastUpdated": "2025-02-22T00:39:21.62Z"
+    },
+    {
+      "version": "0.4.2314",
+      "lastUpdated": "2025-02-22T00:39:20.32Z"
+    },
+    {
+      "version": "0.4.2314",
+      "lastUpdated": "2025-02-22T00:39:15.323Z"
     }
   ],
   "categories": ["Programming Languages", "Formatters"],

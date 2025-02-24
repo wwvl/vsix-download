@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "0.2.10",
-      "flags": "validated",
       "lastUpdated": "2025-02-14T17:00:09.36Z"
     },
     {
       "version": "0.2.9",
-      "flags": "validated",
       "lastUpdated": "2025-02-13T14:30:45.963Z"
     },
     {
       "version": "0.2.8",
-      "flags": "validated",
       "lastUpdated": "2025-01-13T16:11:01.7Z"
     },
     {
       "version": "0.2.7",
-      "flags": "validated",
       "lastUpdated": "2025-01-08T04:49:24.173Z"
     },
     {
       "version": "0.2.6",
-      "flags": "validated",
       "lastUpdated": "2025-01-04T14:01:01.82Z"
     },
     {
       "version": "0.2.5",
-      "flags": "validated",
       "lastUpdated": "2025-01-01T06:53:42.517Z"
     },
     {
       "version": "0.2.4",
-      "flags": "validated",
       "lastUpdated": "2024-12-30T07:24:27.773Z"
     },
     {
       "version": "0.2.3",
-      "flags": "validated",
       "lastUpdated": "2024-12-28T12:51:25.627Z"
     },
     {
       "version": "0.2.2",
-      "flags": "validated",
       "lastUpdated": "2024-12-24T16:37:54.117Z"
     },
     {
       "version": "0.2.1",
-      "flags": "validated",
       "lastUpdated": "2024-12-20T06:44:32.377Z"
+    },
+    {
+      "version": "0.2.0",
+      "lastUpdated": "2024-12-19T06:24:35.643Z"
+    },
+    {
+      "version": "0.1.7",
+      "lastUpdated": "2024-12-18T05:44:00.89Z"
+    },
+    {
+      "version": "0.1.6",
+      "lastUpdated": "2024-09-26T10:18:36.98Z"
+    },
+    {
+      "version": "0.1.5",
+      "lastUpdated": "2024-09-26T07:33:25.36Z"
+    },
+    {
+      "version": "0.1.4",
+      "lastUpdated": "2024-04-21T16:01:57.83Z"
+    },
+    {
+      "version": "0.1.3",
+      "lastUpdated": "2024-03-12T14:41:21.983Z"
+    },
+    {
+      "version": "0.1.2",
+      "lastUpdated": "2023-12-03T09:17:07.77Z"
+    },
+    {
+      "version": "0.1.1",
+      "lastUpdated": "2023-07-26T15:42:31.16Z"
+    },
+    {
+      "version": "0.1.0",
+      "lastUpdated": "2023-07-16T13:53:36.503Z"
+    },
+    {
+      "version": "0.0.17",
+      "lastUpdated": "2023-02-07T12:56:32.3Z"
     }
   ],
   "categories": ["Visualization"],

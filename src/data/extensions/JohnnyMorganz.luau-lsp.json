@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "1.39.2",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-15T11:29:42.87Z"
     },
     {
       "version": "1.39.2",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-15T11:28:58.37Z"
     },
     {
       "version": "1.39.2",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-15T11:26:47.767Z"
     },
     {
       "version": "1.39.2",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-15T11:26:38.057Z"
     },
     {
       "version": "1.39.2",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-15T11:26:22.413Z"
     },
     {
       "version": "1.39.2",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-15T11:25:40.167Z"
     },
     {
       "version": "1.39.1",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-08T20:46:41.153Z"
     },
     {
       "version": "1.39.1",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-08T20:45:31.017Z"
     },
     {
       "version": "1.39.1",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-08T20:41:29.673Z"
     },
     {
       "version": "1.39.1",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-08T20:40:53.52Z"
+    },
+    {
+      "version": "1.39.1",
+      "lastUpdated": "2025-02-08T20:39:57.267Z"
+    },
+    {
+      "version": "1.39.1",
+      "lastUpdated": "2025-02-08T20:36:49.907Z"
+    },
+    {
+      "version": "1.39.0",
+      "lastUpdated": "2025-02-08T20:05:51.81Z"
+    },
+    {
+      "version": "1.39.0",
+      "lastUpdated": "2025-02-08T20:05:22.627Z"
+    },
+    {
+      "version": "1.39.0",
+      "lastUpdated": "2025-02-08T20:03:46.983Z"
+    },
+    {
+      "version": "1.39.0",
+      "lastUpdated": "2025-02-08T20:03:46.243Z"
+    },
+    {
+      "version": "1.39.0",
+      "lastUpdated": "2025-02-08T20:03:44.047Z"
+    },
+    {
+      "version": "1.39.0",
+      "lastUpdated": "2025-02-08T20:02:06.283Z"
+    },
+    {
+      "version": "1.38.1",
+      "lastUpdated": "2025-01-12T13:39:51.507Z"
+    },
+    {
+      "version": "1.38.1",
+      "lastUpdated": "2025-01-12T13:38:10.137Z"
     }
   ],
   "categories": ["Programming Languages", "Linters"],

@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "4.0.38",
-      "flags": "validated",
       "lastUpdated": "2025-02-09T12:43:28.633Z"
     },
     {
       "version": "4.0.37",
-      "flags": "validated",
       "lastUpdated": "2025-01-31T11:48:44.87Z"
     },
     {
       "version": "4.0.36",
-      "flags": "validated",
       "lastUpdated": "2025-01-29T17:42:50.85Z"
     },
     {
       "version": "4.0.35",
-      "flags": "validated",
       "lastUpdated": "2025-01-13T17:48:20.977Z"
     },
     {
       "version": "4.0.34",
-      "flags": "validated",
       "lastUpdated": "2025-01-08T11:09:22.85Z"
     },
     {
       "version": "4.0.33",
-      "flags": "validated",
       "lastUpdated": "2025-01-07T18:16:22.65Z"
     },
     {
       "version": "4.0.32",
-      "flags": "validated",
       "lastUpdated": "2025-01-05T17:50:39.72Z"
     },
     {
       "version": "4.0.31",
-      "flags": "validated",
       "lastUpdated": "2025-01-02T10:33:40.673Z"
     },
     {
       "version": "4.0.30",
-      "flags": "validated",
       "lastUpdated": "2025-01-02T09:42:12.103Z"
     },
     {
       "version": "4.0.29",
-      "flags": "validated",
       "lastUpdated": "2024-12-29T12:35:21.387Z"
+    },
+    {
+      "version": "4.0.28",
+      "lastUpdated": "2024-12-24T12:36:25.29Z"
+    },
+    {
+      "version": "4.0.27",
+      "lastUpdated": "2024-12-22T09:53:32.74Z"
+    },
+    {
+      "version": "4.0.26",
+      "lastUpdated": "2024-12-18T12:00:05.117Z"
+    },
+    {
+      "version": "4.0.25",
+      "lastUpdated": "2024-12-17T08:07:26.91Z"
+    },
+    {
+      "version": "4.0.24",
+      "lastUpdated": "2024-12-15T17:54:28.807Z"
+    },
+    {
+      "version": "4.0.23",
+      "lastUpdated": "2024-12-05T07:37:40.033Z"
+    },
+    {
+      "version": "4.0.21",
+      "lastUpdated": "2024-11-20T18:03:41.383Z"
+    },
+    {
+      "version": "4.0.20",
+      "lastUpdated": "2024-11-19T19:25:59.34Z"
+    },
+    {
+      "version": "4.0.19",
+      "lastUpdated": "2024-11-19T08:12:54.303Z"
+    },
+    {
+      "version": "4.0.18",
+      "lastUpdated": "2024-11-18T08:13:04.087Z"
     }
   ],
   "categories": ["Linters"],

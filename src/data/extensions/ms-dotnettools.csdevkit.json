@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "1.17.27",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:06:52.463Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:05:21.66Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:04:52.133Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:04:30.09Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:03:42.713Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:03:40.9Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:03:35.527Z"
     },
     {
       "version": "1.17.27",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T22:03:27.13Z"
     },
     {
       "version": "1.17.12",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T18:21:14.527Z"
     },
     {
       "version": "1.17.12",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T18:20:28.663Z"
+    },
+    {
+      "version": "1.17.12",
+      "lastUpdated": "2025-02-12T18:20:10.42Z"
+    },
+    {
+      "version": "1.17.12",
+      "lastUpdated": "2025-02-12T18:20:06.487Z"
+    },
+    {
+      "version": "1.17.12",
+      "lastUpdated": "2025-02-12T18:19:46.543Z"
+    },
+    {
+      "version": "1.17.12",
+      "lastUpdated": "2025-02-12T18:19:45.507Z"
+    },
+    {
+      "version": "1.17.12",
+      "lastUpdated": "2025-02-12T18:19:24.367Z"
+    },
+    {
+      "version": "1.17.12",
+      "lastUpdated": "2025-02-12T18:18:53.47Z"
+    },
+    {
+      "version": "1.17.4",
+      "lastUpdated": "2025-02-05T18:04:43.43Z"
+    },
+    {
+      "version": "1.17.4",
+      "lastUpdated": "2025-02-05T18:04:41.913Z"
+    },
+    {
+      "version": "1.17.4",
+      "lastUpdated": "2025-02-05T18:03:55.937Z"
+    },
+    {
+      "version": "1.17.4",
+      "lastUpdated": "2025-02-05T18:03:48.087Z"
     }
   ],
   "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],

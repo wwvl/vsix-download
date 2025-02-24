@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "1.28.0",
-      "flags": "validated",
       "lastUpdated": "2025-01-29T18:35:06.557Z"
     },
     {
       "version": "1.27.0",
-      "flags": "validated",
       "lastUpdated": "2024-12-18T18:36:54.74Z"
     },
     {
       "version": "1.26.0",
-      "flags": "validated",
       "lastUpdated": "2024-11-20T18:58:49.56Z"
     },
     {
       "version": "1.25.0",
-      "flags": "validated",
       "lastUpdated": "2024-10-23T17:31:05.933Z"
     },
     {
       "version": "1.24.0",
-      "flags": "validated",
       "lastUpdated": "2024-09-04T17:31:00.59Z"
     },
     {
       "version": "1.23.0",
-      "flags": "validated",
       "lastUpdated": "2024-07-31T20:21:17.863Z"
     },
     {
       "version": "1.22.1",
-      "flags": "validated",
       "lastUpdated": "2024-01-10T23:41:52.95Z"
     },
     {
       "version": "1.22.0",
-      "flags": "validated",
       "lastUpdated": "2023-11-08T18:35:50.017Z"
     },
     {
       "version": "1.21.0",
-      "flags": "validated",
       "lastUpdated": "2023-09-20T17:15:58.567Z"
     },
     {
       "version": "1.20.1",
-      "flags": "validated",
       "lastUpdated": "2023-08-07T17:22:58.39Z"
+    },
+    {
+      "version": "1.20.0",
+      "lastUpdated": "2023-07-26T17:21:12.083Z"
+    },
+    {
+      "version": "1.19.1",
+      "lastUpdated": "2023-06-05T17:19:51.043Z"
+    },
+    {
+      "version": "1.19.0",
+      "lastUpdated": "2023-05-24T17:14:04.18Z"
+    },
+    {
+      "version": "1.18.0",
+      "lastUpdated": "2023-03-22T17:27:15.797Z"
+    },
+    {
+      "version": "1.17.1",
+      "lastUpdated": "2023-01-30T23:14:34.817Z"
+    },
+    {
+      "version": "1.17.0",
+      "lastUpdated": "2023-01-25T18:06:40.563Z"
+    },
+    {
+      "version": "1.16.0",
+      "lastUpdated": "2022-08-24T17:00:16.883Z"
+    },
+    {
+      "version": "1.15.0",
+      "lastUpdated": "2022-06-15T17:14:12.757Z"
+    },
+    {
+      "version": "1.14.2",
+      "lastUpdated": "2022-05-20T17:26:58.28Z"
+    },
+    {
+      "version": "1.14.1",
+      "lastUpdated": "2022-04-22T21:38:27.697Z"
     }
   ],
   "categories": ["Programming Languages", "Azure"],

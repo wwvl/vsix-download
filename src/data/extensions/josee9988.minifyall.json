@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "2.10.0",
-      "flags": "validated",
       "lastUpdated": "2021-10-21T14:24:56.747Z"
     },
     {
       "version": "2.9.4",
-      "flags": "validated",
       "lastUpdated": "2021-10-14T20:02:54.007Z"
     },
     {
       "version": "2.9.3",
-      "flags": "validated",
       "lastUpdated": "2021-09-20T15:22:58.183Z"
     },
     {
       "version": "2.9.2",
-      "flags": "validated",
       "lastUpdated": "2021-09-03T10:51:45.373Z"
     },
     {
       "version": "2.9.1",
-      "flags": "validated",
       "lastUpdated": "2021-08-13T14:20:56.167Z"
     },
     {
       "version": "2.9.0",
-      "flags": "validated",
       "lastUpdated": "2021-08-13T08:48:58.17Z"
     },
     {
       "version": "2.8.0",
-      "flags": "validated",
       "lastUpdated": "2021-08-13T08:30:55.96Z"
     },
     {
       "version": "2.7.1",
-      "flags": "validated",
       "lastUpdated": "2021-07-18T13:16:43.963Z"
     },
     {
       "version": "2.7.0",
-      "flags": "validated",
       "lastUpdated": "2021-07-15T14:21:25.597Z"
     },
     {
       "version": "2.6.1",
-      "flags": "validated",
       "lastUpdated": "2021-07-01T10:37:14.467Z"
+    },
+    {
+      "version": "2.6.0",
+      "lastUpdated": "2021-05-26T06:57:45.497Z"
+    },
+    {
+      "version": "2.5.21",
+      "lastUpdated": "2021-04-13T10:20:17.107Z"
+    },
+    {
+      "version": "2.5.20",
+      "lastUpdated": "2021-04-13T08:36:33.22Z"
+    },
+    {
+      "version": "2.5.19",
+      "lastUpdated": "2021-04-13T08:26:13.517Z"
+    },
+    {
+      "version": "2.5.18",
+      "lastUpdated": "2021-04-11T11:41:12.483Z"
+    },
+    {
+      "version": "2.5.17",
+      "lastUpdated": "2021-04-11T10:48:06.833Z"
+    },
+    {
+      "version": "2.5.16",
+      "lastUpdated": "2021-04-11T10:39:02.35Z"
+    },
+    {
+      "version": "2.5.14",
+      "lastUpdated": "2021-04-11T07:46:42.233Z"
+    },
+    {
+      "version": "2.5.13",
+      "lastUpdated": "2021-04-11T07:39:32.217Z"
+    },
+    {
+      "version": "2.5.12",
+      "lastUpdated": "2021-04-06T18:47:09.387Z"
     }
   ],
   "categories": ["Programming Languages", "Formatters"],

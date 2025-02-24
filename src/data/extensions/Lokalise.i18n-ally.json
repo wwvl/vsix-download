@@ -7,54 +7,83 @@
   "version_history": [
     {
       "version": "2.13.1",
-      "flags": "validated",
       "lastUpdated": "2024-12-13T11:07:25.953Z"
     },
     {
       "version": "2.12.0",
-      "flags": "validated",
       "lastUpdated": "2023-09-23T13:47:26.133Z"
     },
     {
       "version": "2.11.1",
-      "flags": "validated",
       "lastUpdated": "2023-08-30T09:48:20.387Z"
     },
     {
       "version": "2.11.0",
-      "flags": "validated",
       "lastUpdated": "2023-08-28T18:27:04.67Z"
     },
     {
       "version": "2.10.0",
-      "flags": "validated",
       "lastUpdated": "2023-07-11T16:55:52.087Z"
     },
     {
       "version": "2.9.1",
-      "flags": "validated",
       "lastUpdated": "2023-05-15T08:50:56.663Z"
     },
     {
       "version": "2.9.0",
-      "flags": "validated",
       "lastUpdated": "2023-04-29T12:06:36.35Z"
     },
     {
       "version": "2.8.2",
-      "flags": "none",
-      "lastUpdated": "2023-04-28T14:28:08.13Z",
-      "validationResultMessage": "Error processing 'Lokalise.i18n-ally' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/trending-monthly/lokalise.i18n-ally.svg?color=a1b858’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
+      "lastUpdated": "2023-04-28T14:28:08.13Z"
     },
     {
       "version": "2.8.1",
-      "flags": "validated",
       "lastUpdated": "2021-09-13T08:26:45.68Z"
     },
     {
       "version": "2.8.0",
-      "flags": "validated",
       "lastUpdated": "2021-08-30T07:20:34.103Z"
+    },
+    {
+      "version": "2.7.1",
+      "lastUpdated": "2021-08-21T07:48:21.61Z"
+    },
+    {
+      "version": "2.7.0",
+      "lastUpdated": "2021-08-12T22:44:10.757Z"
+    },
+    {
+      "version": "2.6.26",
+      "lastUpdated": "2021-08-11T18:04:03.89Z"
+    },
+    {
+      "version": "2.6.25",
+      "lastUpdated": "2021-08-11T08:25:31.05Z"
+    },
+    {
+      "version": "2.6.24",
+      "lastUpdated": "2021-08-10T14:13:20.24Z"
+    },
+    {
+      "version": "2.6.23",
+      "lastUpdated": "2021-07-31T19:22:35.67Z"
+    },
+    {
+      "version": "2.6.22",
+      "lastUpdated": "2021-07-28T12:17:09.277Z"
+    },
+    {
+      "version": "2.6.21",
+      "lastUpdated": "2021-07-28T06:52:01.703Z"
+    },
+    {
+      "version": "2.6.19",
+      "lastUpdated": "2021-07-16T06:00:29.9Z"
+    },
+    {
+      "version": "2.6.18",
+      "lastUpdated": "2021-07-14T13:00:37.893Z"
     }
   ],
   "categories": ["Other"],

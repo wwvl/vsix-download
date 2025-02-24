@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "0.0.130",
-      "flags": "validated",
       "lastUpdated": "2023-09-26T16:28:31.31Z"
     },
     {
       "version": "0.0.129",
-      "flags": "validated",
       "lastUpdated": "2023-06-14T07:19:29.543Z"
     },
     {
       "version": "0.0.128",
-      "flags": "validated",
       "lastUpdated": "2022-12-09T08:57:29.967Z"
     },
     {
       "version": "0.0.127",
-      "flags": "validated",
       "lastUpdated": "2022-11-01T16:58:15.957Z"
     },
     {
       "version": "0.0.126",
-      "flags": "validated",
       "lastUpdated": "2022-10-21T16:13:12.773Z"
     },
     {
       "version": "0.0.124",
-      "flags": "validated",
       "lastUpdated": "2022-10-03T13:42:15.347Z"
     },
     {
       "version": "0.0.121",
-      "flags": "validated",
       "lastUpdated": "2022-09-26T18:19:38.587Z"
     },
     {
       "version": "0.0.120",
-      "flags": "validated",
       "lastUpdated": "2022-09-26T15:47:00.537Z"
     },
     {
       "version": "0.0.119",
-      "flags": "validated",
       "lastUpdated": "2022-04-25T12:03:57.12Z"
     },
     {
       "version": "0.0.117",
-      "flags": "validated",
       "lastUpdated": "2022-04-05T09:47:48.947Z"
+    },
+    {
+      "version": "0.0.116",
+      "lastUpdated": "2022-03-31T12:43:48.213Z"
+    },
+    {
+      "version": "0.0.115",
+      "lastUpdated": "2022-02-22T15:46:20.463Z"
+    },
+    {
+      "version": "0.0.113",
+      "lastUpdated": "2021-11-16T09:55:12.023Z"
+    },
+    {
+      "version": "0.0.112",
+      "lastUpdated": "2021-10-22T09:40:03.77Z"
+    },
+    {
+      "version": "0.0.111",
+      "lastUpdated": "2021-10-21T07:55:13.977Z"
+    },
+    {
+      "version": "0.0.109",
+      "lastUpdated": "2021-10-07T16:17:52.05Z"
+    },
+    {
+      "version": "0.0.108",
+      "lastUpdated": "2021-10-01T08:57:35.647Z"
+    },
+    {
+      "version": "0.0.107",
+      "lastUpdated": "2021-09-30T12:20:15.853Z"
+    },
+    {
+      "version": "0.0.106",
+      "lastUpdated": "2021-09-01T10:10:35.637Z"
+    },
+    {
+      "version": "0.0.105",
+      "lastUpdated": "2021-08-30T13:57:53.563Z"
     }
   ],
   "categories": ["Other"],

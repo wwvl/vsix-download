@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "0.12.16",
-      "flags": "validated",
       "lastUpdated": "2025-02-14T04:22:27.907Z"
     },
     {
       "version": "0.12.15",
-      "flags": "validated",
       "lastUpdated": "2025-02-13T17:54:56.487Z"
     },
     {
       "version": "0.12.14",
-      "flags": "validated",
       "lastUpdated": "2025-01-10T04:23:08.267Z"
     },
     {
       "version": "0.12.13",
-      "flags": "validated",
       "lastUpdated": "2024-12-17T04:21:36.813Z"
     },
     {
       "version": "0.12.12",
-      "flags": "validated",
       "lastUpdated": "2024-12-12T04:23:01.793Z"
     },
     {
       "version": "0.12.11",
-      "flags": "validated",
       "lastUpdated": "2024-12-05T04:24:03.85Z"
     },
     {
       "version": "0.12.10",
-      "flags": "validated",
       "lastUpdated": "2024-11-07T04:24:05.463Z"
     },
     {
       "version": "0.12.9",
-      "flags": "validated",
       "lastUpdated": "2024-10-29T04:21:05.87Z"
     },
     {
       "version": "0.12.8",
-      "flags": "validated",
       "lastUpdated": "2024-10-18T04:18:41.853Z"
     },
     {
       "version": "0.12.7",
-      "flags": "validated",
       "lastUpdated": "2024-10-16T04:21:00.93Z"
+    },
+    {
+      "version": "0.12.6",
+      "lastUpdated": "2024-10-15T04:19:52.963Z"
+    },
+    {
+      "version": "0.12.5",
+      "lastUpdated": "2024-10-14T04:26:08.993Z"
+    },
+    {
+      "version": "0.12.4",
+      "lastUpdated": "2024-10-09T04:27:00.01Z"
+    },
+    {
+      "version": "0.12.3",
+      "lastUpdated": "2024-10-01T04:22:49.66Z"
+    },
+    {
+      "version": "0.12.2",
+      "lastUpdated": "2024-09-23T04:21:43.54Z"
+    },
+    {
+      "version": "0.12.1",
+      "lastUpdated": "2024-09-19T19:39:08.727Z"
+    },
+    {
+      "version": "0.12.0",
+      "lastUpdated": "2024-09-19T19:09:29.73Z"
+    },
+    {
+      "version": "0.11.13",
+      "lastUpdated": "2024-09-17T10:08:39.503Z"
+    },
+    {
+      "version": "0.11.12",
+      "lastUpdated": "2024-09-17T04:21:14.58Z"
+    },
+    {
+      "version": "0.11.11",
+      "lastUpdated": "2024-09-13T04:21:25.753Z"
     }
   ],
   "categories": ["Programming Languages", "Debuggers"],

@@ -7,63 +7,47 @@
   "version_history": [
     {
       "version": "3.3.4",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:02:25.52Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:02:11.817Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:01:34.96Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:00:39.64Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:00:19.917Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "web",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:00:16.847Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T15:00:11.057Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T14:59:41.45Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T14:59:35.76Z"
     },
     {
       "version": "3.3.4",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-01-11T14:59:10.647Z"
+    },
+    {
+      "version": "3.3.3",
+      "lastUpdated": "2025-01-10T20:01:33.123Z"
     }
   ],
   "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],

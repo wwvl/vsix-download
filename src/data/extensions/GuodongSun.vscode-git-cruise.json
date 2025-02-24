@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "0.2.5",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T12:50:53.58Z"
     },
     {
       "version": "0.2.4",
-      "flags": "validated",
       "lastUpdated": "2023-06-20T16:30:12.943Z"
     },
     {
       "version": "0.2.3",
-      "flags": "validated",
       "lastUpdated": "2022-11-27T14:43:04.18Z"
     },
     {
       "version": "0.2.2",
-      "flags": "validated",
       "lastUpdated": "2022-11-14T14:23:59.483Z"
     },
     {
       "version": "0.2.1",
-      "flags": "validated",
       "lastUpdated": "2022-10-23T11:16:27.387Z"
     },
     {
       "version": "0.2.0",
-      "flags": "validated",
       "lastUpdated": "2022-10-23T11:02:00.527Z"
     },
     {
       "version": "0.1.14",
-      "flags": "validated",
       "lastUpdated": "2022-10-17T15:46:08.017Z"
     },
     {
       "version": "0.1.13",
-      "flags": "validated",
       "lastUpdated": "2022-10-09T15:07:35.83Z"
     },
     {
       "version": "0.1.12",
-      "flags": "validated",
       "lastUpdated": "2022-10-08T14:35:40.103Z"
     },
     {
       "version": "0.1.11",
-      "flags": "validated",
       "lastUpdated": "2022-10-05T14:56:33.793Z"
+    },
+    {
+      "version": "0.1.10",
+      "lastUpdated": "2022-10-04T03:29:21.617Z"
+    },
+    {
+      "version": "0.1.9",
+      "lastUpdated": "2022-10-02T01:33:17.403Z"
+    },
+    {
+      "version": "0.1.8",
+      "lastUpdated": "2022-10-01T14:51:44.597Z"
+    },
+    {
+      "version": "0.1.7",
+      "lastUpdated": "2022-07-19T13:27:17.237Z"
+    },
+    {
+      "version": "0.1.6",
+      "lastUpdated": "2022-07-18T04:18:20.72Z"
+    },
+    {
+      "version": "0.1.5",
+      "lastUpdated": "2022-07-17T09:49:33.407Z"
+    },
+    {
+      "version": "0.1.4",
+      "lastUpdated": "2022-07-16T14:01:43.017Z"
+    },
+    {
+      "version": "0.1.3",
+      "lastUpdated": "2022-07-04T13:37:31.843Z"
+    },
+    {
+      "version": "0.1.2",
+      "lastUpdated": "2022-06-25T04:20:50.65Z"
+    },
+    {
+      "version": "0.1.1",
+      "lastUpdated": "2022-06-23T11:25:11.023Z"
     }
   ],
   "categories": ["SCM Providers"],

@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "3.16.2024111106",
-      "flags": "validated",
       "lastUpdated": "2024-11-11T08:17:59.96Z"
     },
     {
       "version": "3.16.2024102102",
-      "flags": "validated",
       "lastUpdated": "2024-10-21T08:08:20.13Z"
     },
     {
       "version": "3.16.2024100900",
-      "flags": "validated",
       "lastUpdated": "2024-10-09T02:33:46.123Z"
     },
     {
       "version": "3.16.2024082806",
-      "flags": "validated",
       "lastUpdated": "2024-08-28T09:30:02.85Z"
     },
     {
       "version": "3.16.2024082707",
-      "flags": "validated",
       "lastUpdated": "2024-08-27T09:05:25.78Z"
     },
     {
       "version": "3.16.2024081608",
-      "flags": "validated",
       "lastUpdated": "2024-08-16T12:28:48.05Z"
     },
     {
       "version": "3.16.2024081507",
-      "flags": "validated",
       "lastUpdated": "2024-08-15T09:27:18.647Z"
     },
     {
       "version": "3.16.2024081404",
-      "flags": "validated",
       "lastUpdated": "2024-08-15T02:34:45.39Z"
     },
     {
       "version": "3.16.2024081311",
-      "flags": "validated",
       "lastUpdated": "2024-08-13T13:56:25.303Z"
     },
     {
       "version": "3.16.2024081209",
-      "flags": "validated",
       "lastUpdated": "2024-08-13T03:26:25.933Z"
+    },
+    {
+      "version": "3.16.2024080907",
+      "lastUpdated": "2024-08-10T01:53:58.517Z"
+    },
+    {
+      "version": "3.16.2024080809",
+      "lastUpdated": "2024-08-08T11:45:05.143Z"
+    },
+    {
+      "version": "3.16.2024080708",
+      "lastUpdated": "2024-08-07T11:01:52.24Z"
+    },
+    {
+      "version": "3.16.2024080611",
+      "lastUpdated": "2024-08-06T12:48:06.85Z"
+    },
+    {
+      "version": "3.16.2024080511",
+      "lastUpdated": "2024-08-05T13:27:11.143Z"
+    },
+    {
+      "version": "3.16.2024080209",
+      "lastUpdated": "2024-08-02T11:24:52.54Z"
+    },
+    {
+      "version": "3.16.2024080109",
+      "lastUpdated": "2024-08-01T12:23:45.347Z"
+    },
+    {
+      "version": "3.16.2024073113",
+      "lastUpdated": "2024-07-31T14:32:45.723Z"
+    },
+    {
+      "version": "3.16.4",
+      "lastUpdated": "2024-08-13T11:22:12.643Z"
+    },
+    {
+      "version": "3.16.3",
+      "lastUpdated": "2024-08-12T05:42:21.423Z"
     }
   ],
   "categories": ["Programming Languages"],

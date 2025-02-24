@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "1.8.27",
-      "flags": "validated",
       "lastUpdated": "2023-12-26T10:26:43.827Z"
     },
     {
       "version": "1.8.26",
-      "flags": "validated",
       "lastUpdated": "2023-12-21T16:55:11.367Z"
     },
     {
       "version": "1.8.25",
-      "flags": "validated",
       "lastUpdated": "2023-12-05T17:57:04.98Z"
     },
     {
       "version": "1.8.24",
-      "flags": "validated",
       "lastUpdated": "2023-11-29T09:45:13.287Z"
     },
     {
       "version": "1.8.22",
-      "flags": "validated",
       "lastUpdated": "2023-10-26T17:09:14.56Z"
     },
     {
       "version": "1.8.21",
-      "flags": "validated",
       "lastUpdated": "2023-10-25T10:51:59.063Z"
     },
     {
       "version": "1.8.20",
-      "flags": "validated",
       "lastUpdated": "2023-10-23T12:04:18.483Z"
     },
     {
       "version": "1.8.19",
-      "flags": "validated",
       "lastUpdated": "2023-10-11T10:01:16.573Z"
     },
     {
       "version": "1.8.18",
-      "flags": "validated",
       "lastUpdated": "2023-10-08T18:18:34.533Z"
     },
     {
       "version": "1.8.17",
-      "flags": "validated",
       "lastUpdated": "2023-10-08T17:47:27.24Z"
+    },
+    {
+      "version": "1.8.16",
+      "lastUpdated": "2023-10-06T20:37:04.947Z"
+    },
+    {
+      "version": "1.8.15",
+      "lastUpdated": "2023-09-26T11:22:47.643Z"
+    },
+    {
+      "version": "1.8.14",
+      "lastUpdated": "2023-09-25T17:56:40.643Z"
+    },
+    {
+      "version": "1.8.13",
+      "lastUpdated": "2023-09-20T13:21:49.037Z"
+    },
+    {
+      "version": "1.8.12",
+      "lastUpdated": "2023-09-20T10:24:01.05Z"
+    },
+    {
+      "version": "1.8.11",
+      "lastUpdated": "2023-09-12T19:21:41.49Z"
+    },
+    {
+      "version": "1.8.10",
+      "lastUpdated": "2023-09-06T09:18:01.147Z"
+    },
+    {
+      "version": "1.8.8",
+      "lastUpdated": "2023-07-26T20:51:51.273Z"
+    },
+    {
+      "version": "1.8.7",
+      "lastUpdated": "2023-07-26T19:13:57.71Z"
+    },
+    {
+      "version": "1.8.6",
+      "lastUpdated": "2023-07-21T18:19:11.333Z"
     }
   ],
   "categories": ["Other"],

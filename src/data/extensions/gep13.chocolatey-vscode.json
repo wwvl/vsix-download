@@ -7,53 +7,51 @@
   "version_history": [
     {
       "version": "0.7.2",
-      "flags": "validated",
       "lastUpdated": "2020-08-12T20:35:35.727Z"
     },
     {
       "version": "0.7.1",
-      "flags": "validated",
       "lastUpdated": "2019-05-28T07:16:38.763Z"
     },
     {
       "version": "0.7.0",
-      "flags": "validated",
       "lastUpdated": "2019-01-26T20:16:11.84Z"
     },
     {
       "version": "0.6.0",
-      "flags": "validated",
       "lastUpdated": "2018-12-01T22:35:50.753Z"
     },
     {
       "version": "0.5.0",
-      "flags": "validated",
       "lastUpdated": "2018-11-27T21:20:14.877Z"
     },
     {
       "version": "0.4.1",
-      "flags": "validated",
       "lastUpdated": "2018-11-27T08:32:34.93Z"
     },
     {
       "version": "0.4.0",
-      "flags": "validated",
       "lastUpdated": "2018-11-24T22:28:49.997Z"
     },
     {
       "version": "0.3.0",
-      "flags": "validated",
       "lastUpdated": "2018-09-10T09:54:20.933Z"
     },
     {
       "version": "0.2.2",
-      "flags": "validated",
       "lastUpdated": "2016-01-26T13:01:31.47Z"
     },
     {
       "version": "0.2.1",
-      "flags": "validated",
       "lastUpdated": "2016-01-10T14:20:11.307Z"
+    },
+    {
+      "version": "0.2.0",
+      "lastUpdated": "2016-01-10T14:15:33.31Z"
+    },
+    {
+      "version": "0.1.0",
+      "lastUpdated": "2016-01-09T22:45:27.823Z"
     }
   ],
   "categories": ["Other"],

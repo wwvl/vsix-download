@@ -2,71 +2,92 @@
   "extension_name": "ms-python.debugpy",
   "display_name": "Python Debugger",
   "short_description": "Python Debugger extension using debugpy.",
-  "latest_version": "2025.1.2025021701",
-  "last_updated": "2025-02-17T10:38:36.443Z",
+  "latest_version": "2025.1.2025022401",
+  "last_updated": "2025-02-24T10:38:30.14Z",
   "version_history": [
     {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:38:30.14Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:38:19.03Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:38:00.147Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:37:57.423Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:37:18.02Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:37:10.917Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:37:01.337Z"
+    },
+    {
+      "version": "2025.1.2025022401",
+      "lastUpdated": "2025-02-24T10:36:44.223Z"
+    },
+    {
       "version": "2025.1.2025021701",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:38:36.443Z"
     },
     {
       "version": "2025.1.2025021701",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:38:31.25Z"
     },
     {
       "version": "2025.1.2025021701",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:38:29.72Z"
     },
     {
       "version": "2025.1.2025021701",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:38:26.517Z"
     },
     {
       "version": "2025.1.2025021701",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:37:29.917Z"
     },
     {
       "version": "2025.1.2025021701",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:37:27.3Z"
     },
     {
       "version": "2025.1.2025021701",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:36:55.02Z"
     },
     {
       "version": "2025.1.2025021701",
-      "flags": "validated",
       "lastUpdated": "2025-02-17T10:36:46.06Z"
     },
     {
       "version": "2025.1.2025021401",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-14T10:39:58.41Z"
     },
     {
       "version": "2025.1.2025021401",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-14T10:39:45.213Z"
+    },
+    {
+      "version": "2025.1.2025021401",
+      "lastUpdated": "2025-02-14T10:39:43.32Z"
+    },
+    {
+      "version": "2025.1.2025021401",
+      "lastUpdated": "2025-02-14T10:39:19.85Z"
     }
   ],
   "categories": ["Debuggers"],
   "tags": ["debugger", "debuggers", "debugpy", "python"],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.1.2025021701/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.1.2025022401/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
 }

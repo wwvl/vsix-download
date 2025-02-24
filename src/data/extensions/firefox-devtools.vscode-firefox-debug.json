@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "2.14.1",
-      "flags": "validated",
       "lastUpdated": "2025-02-14T16:05:05.353Z"
     },
     {
       "version": "2.14.0",
-      "flags": "validated",
       "lastUpdated": "2025-01-13T14:32:27.663Z"
     },
     {
       "version": "2.13.0",
-      "flags": "validated",
       "lastUpdated": "2025-01-10T10:31:06.347Z"
     },
     {
       "version": "2.12.1",
-      "flags": "validated",
       "lastUpdated": "2025-01-07T13:07:50.73Z"
     },
     {
       "version": "2.12.0",
-      "flags": "validated",
       "lastUpdated": "2024-12-19T10:38:07.743Z"
     },
     {
       "version": "2.11.0",
-      "flags": "validated",
       "lastUpdated": "2024-12-12T14:04:30.133Z"
     },
     {
       "version": "2.10.1",
-      "flags": "validated",
       "lastUpdated": "2024-12-12T10:01:58.217Z"
     },
     {
       "version": "2.10.0",
-      "flags": "validated",
       "lastUpdated": "2024-12-11T08:58:17.71Z"
     },
     {
       "version": "2.9.11",
-      "flags": "validated",
       "lastUpdated": "2024-11-07T10:46:35.6Z"
     },
     {
       "version": "2.9.10",
-      "flags": "validated",
       "lastUpdated": "2023-09-27T08:08:43.347Z"
+    },
+    {
+      "version": "2.9.9",
+      "lastUpdated": "2023-09-27T07:39:36.663Z"
+    },
+    {
+      "version": "2.9.8",
+      "lastUpdated": "2022-07-21T08:03:33.333Z"
+    },
+    {
+      "version": "2.9.7",
+      "lastUpdated": "2022-06-15T07:42:56.407Z"
+    },
+    {
+      "version": "2.9.6",
+      "lastUpdated": "2021-12-22T17:47:54.72Z"
+    },
+    {
+      "version": "2.9.5",
+      "lastUpdated": "2021-11-15T18:13:38.203Z"
+    },
+    {
+      "version": "2.9.4",
+      "lastUpdated": "2021-04-17T08:54:04.04Z"
+    },
+    {
+      "version": "2.9.3",
+      "lastUpdated": "2021-03-31T17:04:46.647Z"
+    },
+    {
+      "version": "2.9.2",
+      "lastUpdated": "2021-02-19T18:52:00.367Z"
+    },
+    {
+      "version": "2.9.1",
+      "lastUpdated": "2020-08-21T08:36:25.76Z"
+    },
+    {
+      "version": "2.9.0",
+      "lastUpdated": "2020-06-16T15:08:34.303Z"
     }
   ],
   "categories": ["Debuggers"],

@@ -7,54 +7,83 @@
   "version_history": [
     {
       "version": "1.26.0",
-      "flags": "validated",
       "lastUpdated": "2024-08-27T03:48:54.613Z"
     },
     {
       "version": "1.25.0",
-      "flags": "validated",
       "lastUpdated": "2022-12-30T11:30:38.3Z"
     },
     {
       "version": "1.24.5",
-      "flags": "none",
-      "lastUpdated": "2022-12-30T09:35:50.677Z",
-      "validationResultMessage": "Error processing 'vivaxy.vscode-conventional-commits' SVG reference in file '/extension/README.md'. Your reference to the SVG image ‘https://vsmarketplacebadge.apphb.com/version/vivaxy.vscode-conventional-commits.svg’ is not supported. Please see https://aka.ms/vsmarketplace_badge for more details."
+      "lastUpdated": "2022-12-30T09:35:50.677Z"
     },
     {
       "version": "1.24.4",
-      "flags": "validated",
       "lastUpdated": "2022-12-09T01:42:26.357Z"
     },
     {
       "version": "1.24.3",
-      "flags": "validated",
       "lastUpdated": "2022-10-01T01:03:19.71Z"
     },
     {
       "version": "1.24.2",
-      "flags": "validated",
       "lastUpdated": "2022-08-23T02:09:35.407Z"
     },
     {
       "version": "1.24.1",
-      "flags": "validated",
       "lastUpdated": "2022-05-03T05:01:53.543Z"
     },
     {
       "version": "1.24.0",
-      "flags": "validated",
       "lastUpdated": "2021-12-17T06:28:41.577Z"
     },
     {
       "version": "1.23.0",
-      "flags": "validated",
       "lastUpdated": "2021-10-08T04:20:30.253Z"
     },
     {
       "version": "1.22.0",
-      "flags": "validated",
       "lastUpdated": "2021-08-27T08:58:16.31Z"
+    },
+    {
+      "version": "1.21.3",
+      "lastUpdated": "2021-06-26T04:19:29.043Z"
+    },
+    {
+      "version": "1.21.2",
+      "lastUpdated": "2021-06-26T04:09:35.357Z"
+    },
+    {
+      "version": "1.21.1",
+      "lastUpdated": "2021-06-26T03:49:53.46Z"
+    },
+    {
+      "version": "1.21.0",
+      "lastUpdated": "2021-05-03T08:28:56.16Z"
+    },
+    {
+      "version": "1.20.0",
+      "lastUpdated": "2021-04-09T01:28:39.753Z"
+    },
+    {
+      "version": "1.19.0",
+      "lastUpdated": "2021-04-02T00:41:44.983Z"
+    },
+    {
+      "version": "1.18.2",
+      "lastUpdated": "2021-03-29T13:12:36.47Z"
+    },
+    {
+      "version": "1.18.1",
+      "lastUpdated": "2021-03-25T07:26:52.327Z"
+    },
+    {
+      "version": "1.18.0",
+      "lastUpdated": "2021-03-22T02:07:27.64Z"
+    },
+    {
+      "version": "1.17.0",
+      "lastUpdated": "2021-03-17T02:43:26.563Z"
     }
   ],
   "categories": ["Snippets", "SCM Providers"],

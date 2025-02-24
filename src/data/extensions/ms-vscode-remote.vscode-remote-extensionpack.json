@@ -7,53 +7,51 @@
   "version_history": [
     {
       "version": "0.26.0",
-      "flags": "validated",
       "lastUpdated": "2024-10-24T14:02:38.103Z"
     },
     {
       "version": "0.25.0",
-      "flags": "validated",
       "lastUpdated": "2023-11-29T10:12:35.403Z"
     },
     {
       "version": "0.24.0",
-      "flags": "validated",
       "lastUpdated": "2023-02-17T08:51:35.17Z"
     },
     {
       "version": "0.23.0",
-      "flags": "validated",
       "lastUpdated": "2022-11-09T14:06:21.013Z"
     },
     {
       "version": "0.22.0",
-      "flags": "validated",
       "lastUpdated": "2022-11-09T09:29:42.033Z"
     },
     {
       "version": "0.21.0",
-      "flags": "validated",
       "lastUpdated": "2021-05-11T17:49:52.777Z"
     },
     {
       "version": "0.20.0",
-      "flags": "validated",
       "lastUpdated": "2020-03-13T22:22:20.36Z"
     },
     {
       "version": "0.19.0",
-      "flags": "validated",
       "lastUpdated": "2019-12-13T01:41:25.33Z"
     },
     {
       "version": "0.17.0",
-      "flags": "validated",
       "lastUpdated": "2019-09-04T21:25:46.587Z"
     },
     {
       "version": "0.16.0",
-      "flags": "validated",
       "lastUpdated": "2019-08-08T18:49:06.873Z"
+    },
+    {
+      "version": "0.15.0",
+      "lastUpdated": "2019-06-05T18:00:55.31Z"
+    },
+    {
+      "version": "0.14.0",
+      "lastUpdated": "2019-05-13T17:05:22.763Z"
     }
   ],
   "categories": ["Extension Packs"],

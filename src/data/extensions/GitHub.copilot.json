@@ -7,53 +7,83 @@
   "version_history": [
     {
       "version": "1.274.1392",
-      "flags": "validated",
       "lastUpdated": "2025-02-24T01:45:38.897Z"
     },
     {
       "version": "1.273.1390",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T16:20:24.6Z"
     },
     {
       "version": "1.273.1389",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T01:44:38.153Z"
     },
     {
       "version": "1.273.1388",
-      "flags": "validated",
       "lastUpdated": "2025-02-20T21:08:52.257Z"
     },
     {
       "version": "1.273.1387",
-      "flags": "validated",
       "lastUpdated": "2025-02-20T16:19:35.72Z"
     },
     {
       "version": "1.273.1386",
-      "flags": "validated",
       "lastUpdated": "2025-02-20T01:45:31.833Z"
     },
     {
       "version": "1.273.1385",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T17:18:24.997Z"
     },
     {
       "version": "1.273.1384",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T10:34:54.773Z"
     },
     {
       "version": "1.273.1383",
-      "flags": "validated",
       "lastUpdated": "2025-02-19T01:45:42.84Z"
     },
     {
       "version": "1.272.1381",
-      "flags": "validated",
       "lastUpdated": "2025-02-18T16:20:03.18Z"
+    },
+    {
+      "version": "1.272.1380",
+      "lastUpdated": "2025-02-17T15:13:01.217Z"
+    },
+    {
+      "version": "1.272.5",
+      "lastUpdated": "2025-02-18T01:41:19.29Z"
+    },
+    {
+      "version": "1.272.4",
+      "lastUpdated": "2025-02-17T16:15:46.827Z"
+    },
+    {
+      "version": "1.272.0",
+      "lastUpdated": "2025-02-17T14:33:34.043Z"
+    },
+    {
+      "version": "1.271.1378",
+      "lastUpdated": "2025-02-14T22:05:48.183Z"
+    },
+    {
+      "version": "1.271.3",
+      "lastUpdated": "2025-02-17T01:41:25.41Z"
+    },
+    {
+      "version": "1.271.0",
+      "lastUpdated": "2025-02-13T22:16:10.51Z"
+    },
+    {
+      "version": "1.270.1376",
+      "lastUpdated": "2025-02-13T16:18:55.957Z"
+    },
+    {
+      "version": "1.270.1375",
+      "lastUpdated": "2025-02-13T16:10:03.033Z"
+    },
+    {
+      "version": "1.270.1374",
+      "lastUpdated": "2025-02-13T01:40:09.44Z"
     }
   ],
   "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],

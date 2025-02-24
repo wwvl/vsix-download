@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "9.22.0",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:37:45.267Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:37:35.483Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:37:27.85Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:37:23.3Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:37:18.953Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:37:16.833Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:36:59.787Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:36:43.347Z"
     },
     {
       "version": "9.22.0",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2024-06-04T15:36:30.74Z"
     },
     {
       "version": "9.21.3",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2024-05-28T18:42:50.603Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:42:37.503Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:34.13Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:31.983Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:26.517Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:21.603Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:15.877Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:10.833Z"
+    },
+    {
+      "version": "9.21.3",
+      "lastUpdated": "2024-05-28T18:41:04.183Z"
+    },
+    {
+      "version": "9.21.2",
+      "lastUpdated": "2024-05-28T16:35:29.473Z"
+    },
+    {
+      "version": "9.21.2",
+      "lastUpdated": "2024-05-28T16:35:02.403Z"
     }
   ],
   "categories": ["Other"],

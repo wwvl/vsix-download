@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:47:10.76Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:46:52.327Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:46:14.367Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:46:06.437Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "web",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:45:32.7Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:45:30.527Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "linux-armhf",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:45:16.773Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:45:02.077Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:45:00.157Z"
     },
     {
       "version": "2025.1.2025022102",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-21T10:44:23.55Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:06:57.013Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:06:26.777Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:05:58.04Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:05:44.32Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:05:26.157Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:05:04.38Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:05:00.007Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:04:13.317Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:03:46.877Z"
+    },
+    {
+      "version": "2025.1.2025022101",
+      "lastUpdated": "2025-02-21T06:03:23.467Z"
     }
   ],
   "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],

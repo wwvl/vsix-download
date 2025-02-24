@@ -7,63 +7,83 @@
   "version_history": [
     {
       "version": "2.65.29",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T19:00:36.34Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "alpine-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T19:00:24.087Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T19:00:19.39Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "win32-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T19:00:02.297Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "darwin-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T18:59:44.567Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "linux-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T18:59:23.593Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "win32-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T18:58:52.237Z"
     },
     {
       "version": "2.65.29",
-      "targetPlatform": "linux-x64",
-      "flags": "validated",
       "lastUpdated": "2025-02-12T18:58:24.043Z"
     },
     {
       "version": "2.64.7",
-      "targetPlatform": "alpine-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-05T19:22:04.757Z"
     },
     {
       "version": "2.64.7",
-      "targetPlatform": "darwin-arm64",
-      "flags": "validated",
       "lastUpdated": "2025-02-05T19:20:00.967Z"
+    },
+    {
+      "version": "2.64.7",
+      "lastUpdated": "2025-02-05T19:19:51.75Z"
+    },
+    {
+      "version": "2.64.7",
+      "lastUpdated": "2025-02-05T19:18:40.35Z"
+    },
+    {
+      "version": "2.64.7",
+      "lastUpdated": "2025-02-05T19:18:12.65Z"
+    },
+    {
+      "version": "2.64.7",
+      "lastUpdated": "2025-02-05T19:17:55.44Z"
+    },
+    {
+      "version": "2.64.7",
+      "lastUpdated": "2025-02-05T19:17:47.35Z"
+    },
+    {
+      "version": "2.64.7",
+      "lastUpdated": "2025-02-05T19:11:25.96Z"
+    },
+    {
+      "version": "2.63.32",
+      "lastUpdated": "2025-02-05T20:04:51.393Z"
+    },
+    {
+      "version": "2.63.32",
+      "lastUpdated": "2025-02-05T20:04:20.037Z"
+    },
+    {
+      "version": "2.63.32",
+      "lastUpdated": "2025-02-05T20:03:50.42Z"
+    },
+    {
+      "version": "2.63.32",
+      "lastUpdated": "2025-02-05T20:03:48.203Z"
     }
   ],
   "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
