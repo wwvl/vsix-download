@@ -114,36 +114,6 @@ class ExtensionManager:
             "marketplace_url": f"https://marketplace.visualstudio.com/items?itemName={publisher_extension}",
         }
 
-    def process_extension(self, extension_id: str) -> Tuple[str, bool, str]:
-        """处理单个扩展"""
-        try:
-            data = self.fetch_extension_info(extension_id)
-
-            # 使用 Supabase 插入数据
-            self.supabase.table("extensions").upsert(
-                {
-                    "extension_name": data["extension_name"],
-                    "display_name": data["display_name"],
-                    "short_description": data["short_description"],
-                    "latest_version": data["latest_version"],
-                    "last_updated": data["last_updated"],
-                    "version_history": data["version_history"],
-                    "categories": data["categories"],
-                    "tags": data["tags"],
-                    "download_url": data["download_url"],
-                    "marketplace_url": data["marketplace_url"],
-                }
-            ).execute()
-
-            with self.count_lock:
-                self.success_count += 1
-            return data["extension_name"], True, None
-
-        except Exception as e:
-            with self.count_lock:
-                self.failed_count += 1
-            return extension_id, False, str(e)
-
     def process_extensions(self, extensions: List[str]) -> None:
         """批量处理扩展"""
         # 1. 先收集所有数据
