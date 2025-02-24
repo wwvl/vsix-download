@@ -3,21 +3,23 @@ import { computed } from 'vue'
 
 const items = computed(() => [
   {
-    label: '列表视图',
-    to: '/list',
-    icon: 'i-carbon-table',
+    label: 'Home',
+    to: '/',
+    icon: 'i-carbon-home',
   },
   {
     label: 'wwvl',
     href: 'https://www.wwvl.asia',
     target: '_blank',
     rel: 'noopener noreferrer',
+    icon: 'i-carbon-globe',
   },
   {
     label: 'Github',
     href: 'https://github.com/wwvl',
     target: '_blank',
     rel: 'noopener noreferrer',
+    icon: 'i-carbon-logo-github',
   },
 ])
 </script>
