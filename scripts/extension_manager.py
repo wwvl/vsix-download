@@ -33,6 +33,11 @@ class ExtensionManager:
             )
         self.supabase: Client = create_client(supabase_url, supabase_key)
 
+        # 确保数据目录存在
+        self.data_dir = self.base_dir / "src" / "data"
+        self.data_dir.mkdir(parents=True, exist_ok=True)
+        self.json_file = self.data_dir / "extensions.json"
+
     def init_database(self) -> None:
         """初始化数据库：清理旧数据"""
         print("开始清理数据库...")
@@ -83,6 +88,15 @@ class ExtensionManager:
         publisher_name, extension_name = publisher_extension.split(".")
         latest_version = extension["versions"][0]["version"]
 
+        # 清理版本历史数据
+        cleaned_versions = [
+            {
+                "version": version.get("version"),
+                "lastUpdated": version.get("lastUpdated"),
+            }
+            for version in extension["versions"][:20]  # 只保留前 20 个版本
+        ]
+
         return {
             # "extension_id": extension["extensionId"],
             "extension_name": publisher_extension,
@@ -90,7 +104,7 @@ class ExtensionManager:
             "short_description": extension["shortDescription"],
             "latest_version": latest_version,
             "last_updated": extension["versions"][0]["lastUpdated"],
-            "version_history": extension["versions"][:10],
+            "version_history": cleaned_versions,
             "categories": extension.get("categories", []),
             "tags": [
                 tag for tag in extension.get("tags", []) if not tag.startswith("__")
@@ -164,10 +178,31 @@ class ExtensionManager:
         if all_data:
             print("\n开始导入数据...")
             try:
+                # 保存到 Supabase
                 self.supabase.table("extensions").upsert(all_data).execute()
-                print("导入完成")
+                print("Supabase 导入完成")
+
+                # 保存到 JSON 文件
+                print("正在保存到 JSON 文件...")
+                with open(self.json_file, "w", encoding="utf-8") as f:
+                    json.dump(all_data, f, ensure_ascii=False, indent=2)
+                print(f"JSON 文件保存完成：{self.json_file}")
+
             except Exception as e:
                 print(f"导入失败：{str(e)}")
+
+    def save_to_json(self, data: List[dict]) -> None:
+        """保存数据到 JSON 文件"""
+        try:
+            # 确保数据目录存在
+            self.data_dir.mkdir(parents=True, exist_ok=True)
+
+            # 保存数据到 JSON 文件
+            with open(self.json_file, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"保存 JSON 文件失败：{str(e)}")
+            raise
 
     def run(self, input_arg: str) -> None:
         """运行扩展管理器"""
