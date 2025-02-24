@@ -2,6 +2,7 @@
 import type { Extension } from '@/types/extension'
 import type { DropdownMenuItem, TableColumn } from '@nuxt/ui'
 import type { Column } from '@tanstack/vue-table'
+
 import { useExtensionStore } from '@/stores/extension'
 import { getPaginationRowModel } from '@tanstack/vue-table'
 import { useClipboard } from '@vueuse/core'
@@ -281,17 +282,6 @@ const ui = {
   copyButton: 'transform transition-all duration-300 hover:scale-[1.02] text-sm md:text-base whitespace-nowrap',
   searchInput: 'flex-1 min-w-0',
   columnButton: 'transform shadow-sm transition-all duration-300 hover:scale-[1.02] text-sm md:text-base w-full md:w-auto',
-  expandedContent: 'bg-gray-50/50 p-4 md:p-6 transition-all duration-300 dark:bg-gray-800/30',
-  descriptionWrapper: 'mb-4 md:mb-6 transform transition-all duration-300 hover:scale-[1.01]',
-  descriptionTitle: 'mb-2 md:mb-3 text-base md:text-lg font-medium text-gray-900 dark:text-gray-100',
-  descriptionText: 'text-sm md:text-base leading-relaxed text-gray-600 dark:text-gray-300',
-  versionHistoryWrapper: 'transform transition-all duration-300 hover:scale-[1.01] max-w-2xl',
-  versionHistoryTitle: 'mb-2 md:mb-3 text-base md:text-lg font-medium text-gray-900 dark:text-gray-100',
-  versionList: 'space-y-2 md:space-y-3',
-  versionItem: 'flex items-center gap-2 md:gap-3 rounded-[calc(var(--ui-radius)*1.5)] p-2 transition-colors duration-300 hover:bg-gray-100 dark:hover:bg-gray-700/50 text-sm md:text-base',
-  versionBadge: 'min-w-[50px] md:min-w-[60px] justify-center text-xs md:text-sm',
-  versionDate: 'flex-1 text-xs md:text-sm text-gray-600 dark:text-gray-300',
-  downloadButton: 'transform transition-all duration-300 hover:scale-110',
   extensionId:
       'hover:text-primary-500 flex max-w-full md:max-w-[266px] cursor-pointer items-center gap-1 md:gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300 text-sm md:text-base',
   extensionName: 'hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300 text-sm md:text-base',
@@ -396,20 +386,7 @@ onMounted(async () => {
           class="w-full"
         >
           <template #expanded="{ row }">
-            <div :class="ui.expandedContent">
-              <div :class="ui.descriptionWrapper">
-                <h3 :class="ui.descriptionTitle">
-                  扩展描述
-                </h3>
-                <p :class="ui.descriptionText">
-                  {{ row.original.short_description }}
-                </p>
-              </div>
-              <h3 :class="ui.descriptionTitle">
-                版本历史
-              </h3>
-              <ExtensionVersionHistory :extension="row.original" />
-            </div>
+            <ExtensionExpandedContent :extension="row.original" />
           </template>
 
           <template #extension_name-cell="{ row }">
