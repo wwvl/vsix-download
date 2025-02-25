@@ -23,17 +23,18 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v5
 
-      - name: Install dependencies
-        run: uv sync
-
       - name: Create env file
         run: |
           echo "VITE_SUPABASE_URL=${{ secrets.VITE_SUPABASE_URL }}" > .env
           echo "VITE_SUPABASE_KEY=${{ secrets.VITE_SUPABASE_KEY }}" >> .env
 
+      # - name: Install dependencies
+      #   run: uv sync
+
       - name: Run update script
         run: |
           cd scripts
+          uv sync
           uv run extension_manager.py extensions.txt
           cd ..
 
