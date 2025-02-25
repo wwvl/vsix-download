@@ -7,7 +7,7 @@ import { useExtension } from '@/composables/useExtension'
 import { useExtensionStore } from '@/stores/extension'
 import { getPaginationRowModel } from '@tanstack/vue-table'
 import { upperFirst } from 'scule'
-import { computed, h, onMounted, ref, resolveComponent, watch } from 'vue'
+import { computed, h, onMounted, ref, resolveComponent, useTemplateRef, watch } from 'vue'
 import { useRouter } from 'vue-router'
 
 const store = useExtensionStore()
@@ -19,6 +19,10 @@ const UCheckbox = resolveComponent('UCheckbox')
 const UDropdownMenu = resolveComponent('UDropdownMenu')
 const UPagination = resolveComponent('UPagination')
 const UInput = resolveComponent('UInput')
+const UKbd = resolveComponent('UKbd')
+
+// 添加搜索输入框引用
+const searchInput = useTemplateRef<{ inputRef: HTMLInputElement }>('searchInput')
 
 // 添加行选择状态
 const rowSelection = ref({})
@@ -49,6 +53,22 @@ const pageSizeOptions = ref([
 
 // 添加全局搜索状态
 const globalFilter = ref('')
+
+// 添加快捷键绑定
+defineShortcuts({
+  enter: {
+    usingInput: 'queryInput',
+    handler: () => {
+      searchInput.value?.inputRef?.focus()
+    },
+  },
+  escape: {
+    usingInput: true,
+    handler: () => {
+      globalFilter.value = ''
+    },
+  },
+})
 
 interface TableColumnDef {
   id: string
@@ -309,7 +329,17 @@ onMounted(async () => {
               复制 ID
             </UButton>
 
-            <UInput v-model="globalFilter" placeholder="搜索扩展..." icon="i-carbon-search" :class="ui.searchInput" />
+            <UInput
+              v-model="globalFilter"
+              name="queryInput"
+              placeholder="搜索扩展..."
+              icon="i-carbon-search"
+              :class="ui.searchInput"
+            >
+              <template #trailing>
+                <UKbd>Enter</UKbd>
+              </template>
+            </UInput>
           </div>
 
           <div :class="ui.headerCenter">
