@@ -8,7 +8,7 @@
   import { getPaginationRowModel } from '@tanstack/vue-table'
   import { useEventListener } from '@vueuse/core'
   import { upperFirst } from 'scule'
-  import { computed, h, onMounted, ref, resolveComponent, useTemplateRef, watch } from 'vue'
+  import { computed, h, onMounted, ref, resolveComponent, watch } from 'vue'
   import { useRouter } from 'vue-router'
 
   const store = useExtensionStore()
@@ -17,10 +17,6 @@
   const { copyExtensionIds } = useExtension()
   const UButton = resolveComponent('UButton')
   const UCheckbox = resolveComponent('UCheckbox')
-  const UDropdownMenu = resolveComponent('UDropdownMenu')
-  const UPagination = resolveComponent('UPagination')
-  const UInput = resolveComponent('UInput')
-  const UKbd = resolveComponent('UKbd')
 
   // 添加搜索输入框引用
   const searchInput = ref<HTMLInputElement | null>(null)
@@ -41,14 +37,14 @@
   // 添加分页状态
   const pagination = ref({
     pageIndex: 0,
-    pageSize: 36,
+    pageSize: 25,
   })
 
   // 添加页面大小选项
   const pageSizeOptions = ref([
-    { label: '20 条/页', value: 20 },
-    { label: '36 条/页', value: 36 },
+    { label: '25 条/页', value: 25 },
     { label: '50 条/页', value: 50 },
+    { label: '75 条/页', value: 75 },
     { label: '100 条/页', value: 100 },
   ])
 
