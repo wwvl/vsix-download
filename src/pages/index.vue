@@ -39,6 +39,14 @@ const pagination = ref({
   pageSize: 36,
 })
 
+// 添加页面大小选项
+const pageSizeOptions = ref([
+  { label: '20 条/页', value: 20 },
+  { label: '36 条/页', value: 36 },
+  { label: '50 条/页', value: 50 },
+  { label: '100 条/页', value: 100 },
+])
+
 // 添加全局搜索状态
 const globalFilter = ref('')
 
@@ -77,6 +85,14 @@ const table = ref<TableInstance | null>(null)
 const currentPage = computed({
   get: () => (table.value?.tableApi?.getState().pagination.pageIndex || 0) + 1,
   set: (page: number) => table.value?.tableApi?.setPageIndex(page - 1),
+})
+
+// 监听页面大小变化
+watch(() => pagination.value.pageSize, (_newPageSize) => {
+  // 重置到第一页
+  pagination.value.pageIndex = 0
+  // 更新当前页码
+  currentPage.value = 1
 })
 
 // 获取表头组件
@@ -382,7 +398,18 @@ onMounted(async () => {
 
         <div :class="ui.tableFooter">
           <div>已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行</div>
-          <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
+          <div class="flex items-center gap-4">
+            <USelect
+              v-model="pagination.pageSize"
+              :items="pageSizeOptions"
+              placeholder="每页显示数量"
+              :ui="{
+                trailingIcon: 'group-data-[state=open]:rotate-180 transition-transform duration-200',
+              }"
+              class="w-36"
+            />
+            <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
+          </div>
         </div>
       </div>
     </div>
