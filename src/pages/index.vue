@@ -88,12 +88,15 @@ const currentPage = computed({
 })
 
 // 监听页面大小变化
-watch(() => pagination.value.pageSize, (_newPageSize) => {
-  // 重置到第一页
-  pagination.value.pageIndex = 0
-  // 更新当前页码
-  currentPage.value = 1
-})
+watch(
+  () => pagination.value.pageSize,
+  (_newPageSize) => {
+    // 重置到第一页
+    pagination.value.pageIndex = 0
+    // 更新当前页码
+    currentPage.value = 1
+  },
+)
 
 // 获取表头组件
 function getHeader(column: Column<Extension>, label: string) {
