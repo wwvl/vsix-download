@@ -6,6 +6,7 @@ import type { Column } from '@tanstack/vue-table'
 import { useExtension } from '@/composables/useExtension'
 import { useExtensionStore } from '@/stores/extension'
 import { getPaginationRowModel } from '@tanstack/vue-table'
+import { useEventListener } from '@vueuse/core'
 import { upperFirst } from 'scule'
 import { computed, h, onMounted, ref, resolveComponent, useTemplateRef, watch } from 'vue'
 import { useRouter } from 'vue-router'
@@ -22,7 +23,7 @@ const UInput = resolveComponent('UInput')
 const UKbd = resolveComponent('UKbd')
 
 // 添加搜索输入框引用
-const searchInput = useTemplateRef<{ inputRef: HTMLInputElement }>('searchInput')
+const searchInput = ref<HTMLInputElement | null>(null)
 
 // 添加行选择状态
 const rowSelection = ref({})
@@ -54,20 +55,19 @@ const pageSizeOptions = ref([
 // 添加全局搜索状态
 const globalFilter = ref('')
 
-// 添加快捷键绑定
-defineShortcuts({
-  enter: {
-    usingInput: 'queryInput',
-    handler: () => {
-      searchInput.value?.inputRef?.focus()
-    },
-  },
-  escape: {
-    usingInput: true,
-    handler: () => {
-      globalFilter.value = ''
-    },
-  },
+// 添加快捷键监听
+useEventListener(document, 'keydown', (e) => {
+  // 如果当前焦点在输入框中，且按下了 Escape 键
+  if (e.key === 'Escape' && document.activeElement?.tagName === 'INPUT') {
+    globalFilter.value = ''
+    return
+  }
+
+  // 如果按下了 Ctrl + K
+  if (e.key === 'k' && (e.ctrlKey || e.metaKey)) {
+    e.preventDefault() // 阻止默认行为
+    searchInput.value?.focus()
+  }
 })
 
 interface TableColumnDef {
@@ -317,6 +317,7 @@ onMounted(async () => {
 
       <div class="w-full max-w-4xl mx-auto px-4">
         <UInput
+          ref="searchInput"
           v-model="globalFilter"
           name="queryInput"
           placeholder="搜索扩展..."
@@ -327,7 +328,8 @@ onMounted(async () => {
           class="w-full shadow-sm hover:shadow transition-shadow duration-200"
         >
           <template #trailing>
-            <UKbd>Enter</UKbd>
+            <UKbd>Ctrl</UKbd>
+            <UKbd>K</UKbd>
           </template>
         </UInput>
       </div>
