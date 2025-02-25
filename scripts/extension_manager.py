@@ -23,6 +23,7 @@ API_HEADERS = {
     "Accept-Encoding": "gzip",
     "User-Agent": "VS Code Build",
 }
+TARGET_PLATFORM = "win32-x64"
 
 
 class ExtensionManager:
@@ -54,6 +55,27 @@ class ExtensionManager:
 
         return create_client(url, key)
 
+    def _filter_versions(self, versions: List[Dict]) -> List[Dict]:
+        """过滤版本列表，处理特殊平台版本"""
+        filtered_versions = []
+        seen_versions = set()
+
+        for version in versions:
+            version_str = version["version"]
+
+            # 检查是否有 targetPlatform 属性
+            if "targetPlatform" in version:
+                # 只保留 win32-x64 平台的版本
+                if version["targetPlatform"] != TARGET_PLATFORM:
+                    continue
+
+            # 避免重复版本
+            if version_str not in seen_versions:
+                seen_versions.add(version_str)
+                filtered_versions.append(version)
+
+        return filtered_versions[:MAX_VERSION_HISTORY]
+
     def fetch_extension_info(self, publisher_extension: str) -> ExtensionInfo:
         """获取扩展信息"""
         publisher_name, extension_name = publisher_extension.split(".")
@@ -80,7 +102,10 @@ class ExtensionManager:
             raise ValueError(f"找不到扩展信息：{publisher_extension}")
 
         extension = data["results"][0]["extensions"][0]
-        latest_version = extension["versions"][0]
+
+        # 过滤并处理版本列表
+        filtered_versions = self._filter_versions(extension["versions"])
+        latest_version = filtered_versions[0]
 
         return {
             # "extension_id": extension["extensionId"],
@@ -91,7 +116,7 @@ class ExtensionManager:
             "last_updated": latest_version["lastUpdated"],
             "version_history": [
                 {"version": v["version"], "lastUpdated": v["lastUpdated"]}
-                for v in extension["versions"][:MAX_VERSION_HISTORY]
+                for v in filtered_versions
             ],
             "categories": extension.get("categories", []),
             "tags": [
