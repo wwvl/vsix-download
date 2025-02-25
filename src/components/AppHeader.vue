@@ -30,7 +30,7 @@ const items = computed(() => [
       <ColorModeButton />
 
       <UTooltip text="Open on GitHub">
-        <UButton color="neutral" variant="ghost" as="a" href="https://github.com/wwvl" target="_blank" rel="noopener noreferrer" icon="i-carbon-logo-github" aria-label="GitHub" />
+        <UButton color="neutral" variant="ghost" as="a" href="https://github.com/wwvl/vsix-download" target="_blank" rel="noopener noreferrer" icon="i-carbon-logo-github" aria-label="GitHub" />
       </UTooltip>
     </template>
 

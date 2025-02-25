@@ -1,12 +1,4 @@
-<script setup lang="ts">
-// const items = [
-//   {
-//     label: 'Releases',
-//     to: 'https://github.com/wwvl',
-//     target: '_blank',
-//   },
-// ]
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <USeparator />
@@ -14,7 +6,7 @@
     <template #left>
       <p class="text-sm text-(--ui-text-muted)">
         Copyright © 2024-{{ new Date().getFullYear() }}
-        <a href="https://github.com/wwvl" target="_blank">wwvl</a>
+        <a href="https://www.zxj.asia" target="_blank">wwvl</a>
       </p>
     </template>
 
@@ -24,7 +16,7 @@
       <ColorModeSelect />
 
       <UTooltip text="GitHub">
-        <UButton icon="i-carbon-logo-github" color="neutral" variant="ghost" href="https://github.com/wwvl" rel="noopener noreferrer" aria-label="GitHub" />
+        <UButton icon="i-carbon-logo-github" color="neutral" variant="ghost" href="https://github.com/wwvl/vsix-download" rel="noopener noreferrer" aria-label="GitHub" />
       </UTooltip>
     </template>
   </Footer>
