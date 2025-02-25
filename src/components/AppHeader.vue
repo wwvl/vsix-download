@@ -7,6 +7,11 @@ const items = computed(() => [
     to: '/',
     icon: 'i-carbon-home',
   },
+  {
+    label: 'About',
+    to: '/about',
+    icon: 'i-carbon-information',
+  },
   // {
   //   label: 'wwvl',
   //   href: 'https://www.wwvl.asia',
