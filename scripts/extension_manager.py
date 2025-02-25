@@ -37,7 +37,7 @@ ENV_SUPABASE_URL = "VITE_SUPABASE_URL"
 ENV_SUPABASE_KEY = "VITE_SUPABASE_KEY"
 
 # 文件路径
-EXTENSIONS_JSON_PATH = "src/data/extensions.json"
+EXTENSIONS_JSON_PATH = "public/data/extensions.json"
 
 
 class ExtensionError(Exception):
