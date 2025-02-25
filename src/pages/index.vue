@@ -1,270 +1,271 @@
 <script setup lang="ts">
-  import type { Extension } from '@/types/extension'
-  import type { TableColumn } from '@nuxt/ui'
-  import type { Column } from '@tanstack/vue-table'
+import type { Extension } from '@/types/extension'
+import type { TableColumn } from '@nuxt/ui'
+import type { Column } from '@tanstack/vue-table'
 
-  import { useExtension } from '@/composables/useExtension'
-  import { useExtensionStore } from '@/stores/extension'
-  import { getPaginationRowModel } from '@tanstack/vue-table'
-  import { useEventListener } from '@vueuse/core'
-  import { upperFirst } from 'scule'
-  import { computed, h, onMounted, ref, resolveComponent, watch } from 'vue'
-  import { useRouter } from 'vue-router'
+import { useExtension } from '@/composables/useExtension'
+import { useExtensionStore } from '@/stores/extension'
+import { getPaginationRowModel } from '@tanstack/vue-table'
+import { useEventListener } from '@vueuse/core'
+import { upperFirst } from 'scule'
+import { computed, h, onMounted, ref, resolveComponent, watch } from 'vue'
+import { useRouter } from 'vue-router'
 
-  const store = useExtensionStore()
-  const router = useRouter()
-  const toast = useToast()
-  const { copyExtensionIds } = useExtension()
-  const UButton = resolveComponent('UButton')
-  const UCheckbox = resolveComponent('UCheckbox')
+const store = useExtensionStore()
+const router = useRouter()
+const toast = useToast()
+const { copyExtensionIds } = useExtension()
+const UButton = resolveComponent('UButton')
+const UCheckbox = resolveComponent('UCheckbox')
 
-  // 添加搜索输入框引用
-  const searchInput = ref<HTMLInputElement | null>(null)
+// 添加搜索输入框引用
+const searchInput = ref<HTMLInputElement | null>(null)
 
-  // 添加行选择状态
-  const rowSelection = ref({})
-  const expanded = ref({})
-  const selectedRows = ref<Extension[]>([])
+// 添加行选择状态
+const rowSelection = ref({})
+const expanded = ref({})
+const selectedRows = ref<Extension[]>([])
 
-  // 添加排序状态
-  const sorting = ref([
-    {
-      id: 'last_updated',
-      desc: true,
-    },
-  ])
+// 添加排序状态
+const sorting = ref([
+  {
+    id: 'last_updated',
+    desc: true,
+  },
+])
 
-  // 添加分页状态
-  const pagination = ref({
-    pageIndex: 0,
-    pageSize: 25,
-  })
+// 添加分页状态
+const pagination = ref({
+  pageIndex: 0,
+  pageSize: 25,
+})
 
-  // 添加页面大小选项
-  const pageSizeOptions = ref([
-    { label: '25 条/页', value: 25 },
-    { label: '50 条/页', value: 50 },
-    { label: '75 条/页', value: 75 },
-    { label: '100 条/页', value: 100 },
-  ])
+// 添加页面大小选项
+const pageSizeOptions = ref([
+  { label: '25 条/页', value: 25 },
+  { label: '50 条/页', value: 50 },
+  { label: '75 条/页', value: 75 },
+  { label: '100 条/页', value: 100 },
+])
 
-  // 添加全局搜索状态
-  const globalFilter = ref('')
+// 添加全局搜索状态
+const globalFilter = ref('')
 
-  // 添加快捷键监听
-  useEventListener(document, 'keydown', (e) => {
-    // 如果当前焦点在输入框中，且按下了 Escape 键
-    if (e.key === 'Escape' && document.activeElement?.tagName === 'INPUT') {
-      globalFilter.value = ''
-      return
-    }
-
-    // 如果按下了 Ctrl + K
-    if (e.key === 'k' && (e.ctrlKey || e.metaKey)) {
-      e.preventDefault() // 阻止默认行为
-      searchInput.value?.focus()
-    }
-  })
-
-  interface TableColumnDef {
-    id: string
-    getCanHide: () => boolean
-    getIsVisible: () => boolean
+// 添加快捷键监听
+useEventListener(document, 'keydown', (e) => {
+  // 如果当前焦点在输入框中，且按下了 Escape 键
+  if (e.key === 'Escape' && document.activeElement?.tagName === 'INPUT') {
+    globalFilter.value = ''
+    return
   }
 
-  interface TableApi {
-    getAllColumns: () => TableColumnDef[]
-    getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
-    getFilteredSelectedRowModel: () => { rows: Extension[] }
-    getFilteredRowModel: () => { rows: Extension[] }
-    getIsSomePageRowsSelected: () => boolean
-    getIsAllPageRowsSelected: () => boolean
-    toggleAllPageRowsSelected: (value: boolean) => void
-    toggleAllRowsSelected: (value: boolean) => void
-    getSelectedRowModel: () => { rows: Extension[] }
-    getState: () => {
-      pagination: {
-        pageIndex: number
-        pageSize: number
-      }
+  // 如果按下了 Ctrl + K
+  if (e.key === 'k' && (e.ctrlKey || e.metaKey)) {
+    e.preventDefault() // 阻止默认行为
+    searchInput.value?.focus()
+  }
+})
+
+interface TableColumnDef {
+  id: string
+  getCanHide: () => boolean
+  getIsVisible: () => boolean
+}
+
+interface TableApi {
+  getAllColumns: () => TableColumnDef[]
+  getColumn: (id: string) => { toggleVisibility: (visible: boolean) => void } | undefined
+  getFilteredSelectedRowModel: () => { rows: Extension[] }
+  getFilteredRowModel: () => { rows: Extension[] }
+  getIsSomePageRowsSelected: () => boolean
+  getIsAllPageRowsSelected: () => boolean
+  toggleAllPageRowsSelected: (value: boolean) => void
+  toggleAllRowsSelected: (value: boolean) => void
+  getSelectedRowModel: () => { rows: Extension[] }
+  getState: () => {
+    pagination: {
+      pageIndex: number
+      pageSize: number
     }
-    setPageIndex: (index: number) => void
   }
+  setPageIndex: (index: number) => void
+}
 
-  interface TableInstance {
-    tableApi: TableApi
-  }
+interface TableInstance {
+  tableApi: TableApi
+}
 
-  const table = ref<TableInstance | null>(null)
+const table = ref<TableInstance | null>(null)
 
-  // 添加当前页码状态
-  const currentPage = computed({
-    get: () => (table.value?.tableApi?.getState().pagination.pageIndex || 0) + 1,
-    set: (page: number) => table.value?.tableApi?.setPageIndex(page - 1),
+// 添加当前页码状态
+const currentPage = computed({
+  get: () => (table.value?.tableApi?.getState().pagination.pageIndex || 0) + 1,
+  set: (page: number) => table.value?.tableApi?.setPageIndex(page - 1),
+})
+
+// 监听页面大小变化
+watch(
+  () => pagination.value.pageSize,
+  (_newPageSize) => {
+    // 重置到第一页
+    pagination.value.pageIndex = 0
+    // 更新当前页码
+    currentPage.value = 1
+  },
+)
+
+// 获取表头组件
+function getHeader(column: Column<Extension>, label: string) {
+  const isSorted = column.getIsSorted()
+
+  return h(UButton, {
+    color: 'neutral',
+    variant: 'ghost',
+    label,
+    icon:
+        isSorted
+          ? isSorted === 'asc'
+            ? 'i-carbon-arrow-up'
+            : 'i-carbon-arrow-down'
+          : 'i-carbon-arrows-vertical',
+    class: '-mx-2.5',
+    onClick: () => column.toggleSorting(column.getIsSorted() === 'asc'),
   })
+}
 
-  // 监听页面大小变化
-  watch(
-    () => pagination.value.pageSize,
-    (_newPageSize) => {
-      // 重置到第一页
-      pagination.value.pageIndex = 0
-      // 更新当前页码
-      currentPage.value = 1
-    },
-  )
-
-  // 获取表头组件
-  function getHeader(column: Column<Extension>, label: string) {
-    const isSorted = column.getIsSorted()
-
-    return h(UButton, {
-      color: 'neutral',
-      variant: 'ghost',
-      label,
-      icon:
-        isSorted ?
-          isSorted === 'asc' ?
-            'i-carbon-arrow-up'
-          : 'i-carbon-arrow-down'
-        : 'i-carbon-arrows-vertical',
-      class: '-mx-2.5',
-      onClick: () => column.toggleSorting(column.getIsSorted() === 'asc'),
+// 复制选中行的扩展 ID
+async function copySelectedCommands() {
+  const selectedRows = table.value?.tableApi?.getSelectedRowModel().rows || []
+  if (selectedRows.length === 0) {
+    toast.add({
+      title: '请先选择要复制的扩展',
+      color: 'warning',
+      icon: 'i-carbon-warning-alt',
     })
+    return
   }
 
-  // 复制选中行的扩展 ID
-  async function copySelectedCommands() {
-    const selectedRows = table.value?.tableApi?.getSelectedRowModel().rows || []
-    if (selectedRows.length === 0) {
-      toast.add({
-        title: '请先选择要复制的扩展',
-        color: 'warning',
-        icon: 'i-carbon-warning-alt',
-      })
-      return
-    }
+  const extensionIds = selectedRows.map((row: any) => row.original.extension_name)
+  await copyExtensionIds(extensionIds)
+}
 
-    const extensionIds = selectedRows.map((row: any) => row.original.extension_name)
-    await copyExtensionIds(extensionIds)
+// 添加计算属性来监控数据变化
+const extensionsCount = computed(() => store.extensions?.length || 0)
+
+// 添加列可见性状态
+const columnVisibility = ref({
+  extension_name: true,
+  display_name: true,
+  latest_version: true,
+  last_updated: true,
+  categories: true,
+  tags: true,
+  actions: true,
+})
+
+// 监听选择状态变化
+watch(
+  rowSelection,
+  (newValue) => {
+    if (Object.keys(newValue).length) {
+      // 更新选中状态
+      selectedRows.value = table.value?.tableApi?.getSelectedRowModel().rows || []
+    }
+  },
+  { deep: true },
+)
+
+const columns: TableColumn<Extension>[] = [
+  {
+    id: 'select',
+    header: ({ table }) =>
+      h(UCheckbox, {
+        'modelValue': table.getIsSomePageRowsSelected() ? 'indeterminate' : table.getIsAllPageRowsSelected(),
+        'onUpdate:modelValue': (value: boolean | 'indeterminate') => table.toggleAllPageRowsSelected(!!value),
+        'ariaLabel': '选择全部',
+      }),
+    cell: ({ row }) =>
+      h(UCheckbox, {
+        'modelValue': row.getIsSelected(),
+        'onUpdate:modelValue': (value: boolean | 'indeterminate') => row.toggleSelected(!!value),
+        'ariaLabel': '选择行',
+      }),
+  },
+  {
+    id: 'expand',
+    cell: ({ row }) =>
+      h(UButton, {
+        color: 'neutral',
+        variant: 'ghost',
+        icon: 'i-carbon-chevron-down',
+        square: true,
+        ui: {
+          leadingIcon: ['transition-transform', row.getIsExpanded() ? 'duration-200 rotate-180' : ''],
+        },
+        onClick: () => row.toggleExpanded(),
+      }),
+  },
+  {
+    accessorKey: 'extension_name',
+    header: ({ column }) => getHeader(column, '扩展 ID'),
+    enableSorting: true,
+  },
+  {
+    accessorKey: 'display_name',
+    header: ({ column }) => getHeader(column, '扩展名称'),
+    enableSorting: true,
+  },
+  {
+    accessorKey: 'latest_version',
+    header: ({ column }) => getHeader(column, '最新版本'),
+    enableSorting: true,
+  },
+  {
+    accessorKey: 'last_updated',
+    header: ({ column }) => getHeader(column, '更新时间'),
+    enableSorting: true,
+  },
+  {
+    accessorKey: 'categories',
+    header: '分类',
+  },
+  {
+    accessorKey: 'tags',
+    header: '标签',
+  },
+  {
+    accessorKey: 'actions',
+    header: '操作',
+  },
+]
+
+// 从列定义中生成列名映射
+const columnLabels = computed(() => {
+  const labels: Record<string, string> = {
+    extension_name: '扩展 ID',
+    display_name: '扩展名称',
+    latest_version: '最新版本',
+    last_updated: '更新时间',
+    categories: '分类',
+    tags: '标签',
+    actions: '操作',
   }
+  return Object.fromEntries(columns.filter(col => (col as any).accessorKey).map(col => [(col as any).accessorKey, labels[(col as any).accessorKey] || upperFirst((col as any).accessorKey)]))
+})
 
-  // 添加计算属性来监控数据变化
-  const extensionsCount = computed(() => store.extensions?.length || 0)
+// 跳转到扩展详情页
+function navigateToExtension(extensionName: string): void {
+  router.push(`/extension/${extensionName}`)
+}
 
-  // 添加列可见性状态
-  const columnVisibility = ref({
-    extension_name: true,
-    display_name: true,
-    latest_version: true,
-    last_updated: true,
-    categories: true,
-    tags: true,
-    actions: true,
-  })
-
-  // 监听选择状态变化
-  watch(
-    rowSelection,
-    (newValue) => {
-      if (Object.keys(newValue).length) {
-        // 更新选中状态
-        selectedRows.value = table.value?.tableApi?.getSelectedRowModel().rows || []
-      }
-    },
-    { deep: true },
-  )
-
-  const columns: TableColumn<Extension>[] = [
-    {
-      id: 'select',
-      header: ({ table }) =>
-        h(UCheckbox, {
-          modelValue: table.getIsSomePageRowsSelected() ? 'indeterminate' : table.getIsAllPageRowsSelected(),
-          'onUpdate:modelValue': (value: boolean | 'indeterminate') => table.toggleAllPageRowsSelected(!!value),
-          ariaLabel: '选择全部',
-        }),
-      cell: ({ row }) =>
-        h(UCheckbox, {
-          modelValue: row.getIsSelected(),
-          'onUpdate:modelValue': (value: boolean | 'indeterminate') => row.toggleSelected(!!value),
-          ariaLabel: '选择行',
-        }),
-    },
-    {
-      id: 'expand',
-      cell: ({ row }) =>
-        h(UButton, {
-          color: 'neutral',
-          variant: 'ghost',
-          icon: 'i-carbon-chevron-down',
-          square: true,
-          ui: {
-            leadingIcon: ['transition-transform', row.getIsExpanded() ? 'duration-200 rotate-180' : ''],
-          },
-          onClick: () => row.toggleExpanded(),
-        }),
-    },
-    {
-      accessorKey: 'extension_name',
-      header: ({ column }) => getHeader(column, '扩展 ID'),
-      enableSorting: true,
-    },
-    {
-      accessorKey: 'display_name',
-      header: ({ column }) => getHeader(column, '扩展名称'),
-      enableSorting: true,
-    },
-    {
-      accessorKey: 'latest_version',
-      header: ({ column }) => getHeader(column, '最新版本'),
-      enableSorting: true,
-    },
-    {
-      accessorKey: 'last_updated',
-      header: ({ column }) => getHeader(column, '更新时间'),
-      enableSorting: true,
-    },
-    {
-      accessorKey: 'categories',
-      header: '分类',
-    },
-    {
-      accessorKey: 'tags',
-      header: '标签',
-    },
-    {
-      accessorKey: 'actions',
-      header: '操作',
-    },
-  ]
-
-  // 从列定义中生成列名映射
-  const columnLabels = computed(() => {
-    const labels: Record<string, string> = {
-      extension_name: '扩展 ID',
-      display_name: '扩展名称',
-      latest_version: '最新版本',
-      last_updated: '更新时间',
-      categories: '分类',
-      tags: '标签',
-      actions: '操作',
-    }
-    return Object.fromEntries(columns.filter((col) => (col as any).accessorKey).map((col) => [(col as any).accessorKey, labels[(col as any).accessorKey] || upperFirst((col as any).accessorKey)]))
-  })
-
-  // 跳转到扩展详情页
-  function navigateToExtension(extensionName: string): void {
-    router.push(`/extension/${extensionName}`)
+onMounted(async () => {
+  try {
+    await store.fetchLocalExtensions()
   }
-
-  onMounted(async () => {
-    try {
-      await store.fetchLocalExtensions()
-    } catch (err) {
-      console.error('Failed to fetch extensions:', err)
-    }
-  })
+  catch (err) {
+    console.error('Failed to fetch extensions:', err)
+  }
+})
 </script>
 
 <template>

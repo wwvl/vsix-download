@@ -2,9 +2,13 @@
   "extension_name": "Postman.postman-for-vscode",
   "display_name": "Postman",
   "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-  "latest_version": "1.7.0",
-  "last_updated": "2025-01-30T06:04:11.353Z",
+  "latest_version": "1.8.1",
+  "last_updated": "2025-02-25T12:38:58.57Z",
   "version_history": [
+    {
+      "version": "1.8.1",
+      "lastUpdated": "2025-02-25T12:38:58.57Z"
+    },
     {
       "version": "1.7.0",
       "lastUpdated": "2025-01-30T06:04:11.353Z"
@@ -80,14 +84,10 @@
     {
       "version": "0.16.0",
       "lastUpdated": "2023-12-13T14:40:25.31Z"
-    },
-    {
-      "version": "0.15.0",
-      "lastUpdated": "2023-11-28T11:26:13.26Z"
     }
   ],
   "categories": ["Programming Languages", "Education", "Testing"],
   "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.7.0/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.8.1/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
 }
