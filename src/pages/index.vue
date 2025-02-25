@@ -315,7 +315,7 @@ onMounted(async () => {
     <div v-else class="space-y-4 md:space-y-6">
       <UAlert :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`" color="primary" variant="subtle" icon="i-carbon-data-vis-1" :class="ui.statsAlert" />
 
-      <div class="w-full max-w-4xl mx-auto px-4">
+      <div class="mx-auto w-full max-w-4xl px-4">
         <UInput
           ref="searchInput"
           v-model="globalFilter"
@@ -325,7 +325,7 @@ onMounted(async () => {
           size="xl"
           color="primary"
           variant="outline"
-          class="w-full shadow-sm hover:shadow transition-shadow duration-200"
+          class="w-full shadow-sm transition-shadow duration-200 hover:shadow"
         >
           <template #trailing>
             <UKbd>Ctrl</UKbd>
@@ -401,9 +401,9 @@ onMounted(async () => {
           </template>
 
           <template #extension_name-cell="{ row }">
-            <div class="group" :class="[ui.extensionId]" role="link" @click="navigateToExtension(row.original.extension_name)">
-              <span class="group-hover:underline">{{ row.original.extension_name }}</span>
-              <UIcon name="i-heroicons-arrow-top-right-on-square-20-solid" class="opacity-0 transition-opacity group-hover:opacity-100" />
+            <div class="group" :class="[ui.extensionId]">
+              <span class="group-hover:underline" @click="navigateToExtension(row.original.extension_name)">{{ row.original.extension_name }}</span>
+              <UButton icon="i-carbon-copy" color="primary" variant="ghost" size="xs" :class="ui.actionButton" @click.stop="copyExtensionIds([row.original.extension_name])" />
             </div>
           </template>
 
