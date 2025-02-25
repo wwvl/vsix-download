@@ -3,8 +3,7 @@ name: Update Extension Data
 on:
   schedule:
     - cron: '0 */6 * * *' # 每 6 小时执行一次
-  workflow_dispatch: # 允许手动触发  repository_dispatch:
-    types: [update_data]
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update:
