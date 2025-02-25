@@ -17,13 +17,13 @@
 #         - security
 #       run: bundle audit
 #
+
 pre-commit:
   parallel: true
   jobs:
     - run: pnpm format {staged_files}
-      glob: '*'
+      glob: '*.{js,ts,json,jsonc,vue,md}'
       stage_fixed: true
-
-    - run: pnpm eslint --fix {staged_files}
-      glob: '*'
+    - run: pnpm lint:fix {staged_files}
+      glob: '*.{js,ts,json,jsonc,vue,md}'
       stage_fixed: true
