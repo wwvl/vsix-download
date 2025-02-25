@@ -12,20 +12,6 @@ const items = computed(() => [
     to: '/about',
     icon: 'i-carbon-information',
   },
-  // {
-  //   label: 'wwvl',
-  //   href: 'https://www.wwvl.asia',
-  //   target: '_blank',
-  //   rel: 'noopener noreferrer',
-  //   icon: 'i-carbon-globe',
-  // },
-  {
-    label: 'Github',
-    href: 'https://github.com/wwvl',
-    target: '_blank',
-    rel: 'noopener noreferrer',
-    icon: 'i-carbon-logo-github',
-  },
 ])
 </script>
 
@@ -43,9 +29,9 @@ const items = computed(() => [
     <template #right>
       <ColorModeButton />
 
-      <!-- <UTooltip text="Open on GitHub">
+      <UTooltip text="Open on GitHub">
         <UButton color="neutral" variant="ghost" as="a" href="https://github.com/wwvl" target="_blank" rel="noopener noreferrer" icon="i-carbon-logo-github" aria-label="GitHub" />
-      </UTooltip> -->
+      </UTooltip>
     </template>
 
     <template #content>
