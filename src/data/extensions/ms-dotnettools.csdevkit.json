@@ -3,67 +3,11 @@
   "display_name": "C# Dev Kit",
   "short_description": "Official C# extension from Microsoft",
   "latest_version": "1.17.27",
-  "last_updated": "2025-02-19T22:06:52.463Z",
+  "last_updated": "2025-02-19T22:04:30.09Z",
   "version_history": [
     {
       "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:06:52.463Z"
-    },
-    {
-      "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:05:21.66Z"
-    },
-    {
-      "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:04:52.133Z"
-    },
-    {
-      "version": "1.17.27",
       "lastUpdated": "2025-02-19T22:04:30.09Z"
-    },
-    {
-      "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:03:42.713Z"
-    },
-    {
-      "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:03:40.9Z"
-    },
-    {
-      "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:03:35.527Z"
-    },
-    {
-      "version": "1.17.27",
-      "lastUpdated": "2025-02-19T22:03:27.13Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:21:14.527Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:20:28.663Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:20:10.42Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:20:06.487Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:19:46.543Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:19:45.507Z"
-    },
-    {
-      "version": "1.17.12",
-      "lastUpdated": "2025-02-12T18:19:24.367Z"
     },
     {
       "version": "1.17.12",
@@ -71,19 +15,75 @@
     },
     {
       "version": "1.17.4",
-      "lastUpdated": "2025-02-05T18:04:43.43Z"
-    },
-    {
-      "version": "1.17.4",
-      "lastUpdated": "2025-02-05T18:04:41.913Z"
-    },
-    {
-      "version": "1.17.4",
-      "lastUpdated": "2025-02-05T18:03:55.937Z"
-    },
-    {
-      "version": "1.17.4",
       "lastUpdated": "2025-02-05T18:03:48.087Z"
+    },
+    {
+      "version": "1.16.6",
+      "lastUpdated": "2025-02-04T18:06:52.723Z"
+    },
+    {
+      "version": "1.16.4",
+      "lastUpdated": "2025-01-14T17:16:29.687Z"
+    },
+    {
+      "version": "1.15.34",
+      "lastUpdated": "2025-01-13T20:37:59.793Z"
+    },
+    {
+      "version": "1.15.32",
+      "lastUpdated": "2025-01-08T00:33:18.77Z"
+    },
+    {
+      "version": "1.15.13",
+      "lastUpdated": "2024-12-11T20:17:08.763Z"
+    },
+    {
+      "version": "1.15.2",
+      "lastUpdated": "2024-12-05T22:14:39.513Z"
+    },
+    {
+      "version": "1.14.18",
+      "lastUpdated": "2024-12-03T20:35:25.147Z"
+    },
+    {
+      "version": "1.14.14",
+      "lastUpdated": "2024-12-05T22:24:34.953Z"
+    },
+    {
+      "version": "1.14.12",
+      "lastUpdated": "2024-11-26T22:18:10.753Z"
+    },
+    {
+      "version": "1.14.8",
+      "lastUpdated": "2024-11-19T16:31:51.41Z"
+    },
+    {
+      "version": "1.14.2",
+      "lastUpdated": "2024-11-13T04:48:05.887Z"
+    },
+    {
+      "version": "1.13.9",
+      "lastUpdated": "2024-11-13T00:27:18.497Z"
+    },
+    {
+      "version": "1.13.6",
+      "lastUpdated": "2024-11-07T17:03:54.27Z"
+    },
+    {
+      "version": "1.12.37",
+      "lastUpdated": "2024-10-29T23:10:53.983Z"
+    },
+    {
+      "version": "1.12.27",
+      "lastUpdated": "2024-10-23T18:27:54.73Z"
+    },
+    {
+      "version": "1.12.16",
+      "lastUpdated": "2024-10-16T16:17:25.45Z"
+    },
+    {
+      "version": "1.12.2",
+      "lastUpdated": "2024-10-08T20:34:25.857Z"
     }
   ],
   "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],

@@ -2,9 +2,13 @@
   "extension_name": "WallabyJs.console-ninja",
   "display_name": "Console Ninja",
   "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-  "latest_version": "1.0.392",
-  "last_updated": "2025-02-20T03:51:13.25Z",
+  "latest_version": "1.0.393",
+  "last_updated": "2025-02-25T02:59:49.04Z",
   "version_history": [
+    {
+      "version": "1.0.393",
+      "lastUpdated": "2025-02-25T02:59:49.04Z"
+    },
     {
       "version": "1.0.392",
       "lastUpdated": "2025-02-20T03:51:13.25Z"
@@ -80,14 +84,10 @@
     {
       "version": "1.0.374",
       "lastUpdated": "2024-12-15T22:22:08.613Z"
-    },
-    {
-      "version": "1.0.373",
-      "lastUpdated": "2024-12-05T04:24:17.41Z"
     }
   ],
   "categories": ["Debuggers"],
   "tags": ["javascript", "keybindings"],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.392/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.393/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
 }

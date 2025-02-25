@@ -2,92 +2,92 @@
   "extension_name": "Continue.continue",
   "display_name": "Continue - Codestral, Claude, and more",
   "short_description": "The leading open-source AI code assistant",
-  "latest_version": "0.9.269",
-  "last_updated": "2025-02-20T07:26:16.33Z",
+  "latest_version": "0.9.271",
+  "last_updated": "2025-02-24T17:39:19.18Z",
   "version_history": [
     {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:26:16.33Z"
-    },
-    {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:23:08.533Z"
-    },
-    {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:20:37.72Z"
-    },
-    {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:19:47.353Z"
-    },
-    {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:19:33.65Z"
+      "version": "0.9.271",
+      "lastUpdated": "2025-02-24T17:39:19.18Z"
     },
     {
       "version": "0.9.269",
       "lastUpdated": "2025-02-20T07:19:28.113Z"
     },
     {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:19:12.95Z"
-    },
-    {
-      "version": "0.9.269",
-      "lastUpdated": "2025-02-20T07:18:39.603Z"
-    },
-    {
       "version": "0.9.268",
       "lastUpdated": "2025-02-16T07:51:04.49Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:50:50.493Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:50:36.01Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:50:05.193Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:50:04.997Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:49:59.21Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:49:40.473Z"
-    },
-    {
-      "version": "0.9.268",
-      "lastUpdated": "2025-02-16T07:49:01.6Z"
     },
     {
       "version": "0.9.267",
       "lastUpdated": "2025-02-15T19:20:33.29Z"
     },
     {
-      "version": "0.9.267",
-      "lastUpdated": "2025-02-15T19:19:51.393Z"
+      "version": "0.9.266",
+      "lastUpdated": "2025-02-14T08:02:52.057Z"
     },
     {
-      "version": "0.9.267",
-      "lastUpdated": "2025-02-15T19:19:11.947Z"
+      "version": "0.9.265",
+      "lastUpdated": "2025-02-14T02:02:52.573Z"
     },
     {
-      "version": "0.9.267",
-      "lastUpdated": "2025-02-15T19:19:03.097Z"
+      "version": "0.9.264",
+      "lastUpdated": "2025-02-12T04:17:54.023Z"
+    },
+    {
+      "version": "0.9.263",
+      "lastUpdated": "2025-02-11T17:50:05.67Z"
+    },
+    {
+      "version": "0.9.262",
+      "lastUpdated": "2025-02-10T01:17:19.273Z"
+    },
+    {
+      "version": "0.9.261",
+      "lastUpdated": "2025-02-05T19:25:52.373Z"
+    },
+    {
+      "version": "0.9.260",
+      "lastUpdated": "2025-02-05T02:40:23.387Z"
+    },
+    {
+      "version": "0.9.259",
+      "lastUpdated": "2025-02-01T10:16:48.87Z"
+    },
+    {
+      "version": "0.9.258",
+      "lastUpdated": "2025-01-30T18:07:59.483Z"
+    },
+    {
+      "version": "0.9.257",
+      "lastUpdated": "2025-01-29T22:08:12.763Z"
+    },
+    {
+      "version": "0.9.256",
+      "lastUpdated": "2025-01-28T06:53:08.953Z"
+    },
+    {
+      "version": "0.9.255",
+      "lastUpdated": "2025-01-24T11:07:39.92Z"
+    },
+    {
+      "version": "0.9.254",
+      "lastUpdated": "2025-01-21T18:12:06.43Z"
+    },
+    {
+      "version": "0.9.253",
+      "lastUpdated": "2025-01-20T06:04:29.413Z"
+    },
+    {
+      "version": "0.9.252",
+      "lastUpdated": "2025-01-16T19:03:04.053Z"
+    },
+    {
+      "version": "0.9.251",
+      "lastUpdated": "2025-01-11T20:12:32.693Z"
     }
   ],
   "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
   "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.269/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.271/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
 }

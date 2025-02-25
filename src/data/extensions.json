@@ -949,75 +949,11 @@
     "display_name": "Astro",
     "short_description": "Language support for Astro",
     "latest_version": "2.15.4",
-    "last_updated": "2024-10-25T19:20:42.533Z",
+    "last_updated": "2024-10-25T19:20:33.81Z",
     "version_history": [
       {
         "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:20:42.533Z"
-      },
-      {
-        "version": "2.15.4",
         "lastUpdated": "2024-10-25T19:20:33.81Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:20:04.98Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:19:43.54Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:19:33.71Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:19:26.34Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:19:25.927Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:19:24.62Z"
-      },
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:19:23.07Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:19:08.5Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:18:57.343Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:18:30.203Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:18:29.3Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:18:28.087Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:18:16.92Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:18:14.897Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:17:39.18Z"
       },
       {
         "version": "2.15.3",
@@ -1025,11 +961,75 @@
       },
       {
         "version": "2.15.2",
-        "lastUpdated": "2024-10-07T13:32:08.733Z"
+        "lastUpdated": "2024-10-07T13:31:54.637Z"
       },
       {
-        "version": "2.15.2",
-        "lastUpdated": "2024-10-07T13:31:54.637Z"
+        "version": "2.15.1",
+        "lastUpdated": "2024-10-07T13:10:02.497Z"
+      },
+      {
+        "version": "2.14.2",
+        "lastUpdated": "2024-09-06T09:42:51.79Z"
+      },
+      {
+        "version": "2.14.1",
+        "lastUpdated": "2024-08-18T22:22:33.953Z"
+      },
+      {
+        "version": "2.14.0",
+        "lastUpdated": "2024-08-15T10:22:49.08Z"
+      },
+      {
+        "version": "2.13.4",
+        "lastUpdated": "2024-08-14T11:56:41.89Z"
+      },
+      {
+        "version": "2.13.3",
+        "lastUpdated": "2024-08-13T10:57:54.377Z"
+      },
+      {
+        "version": "2.13.2",
+        "lastUpdated": "2024-08-06T17:14:13.43Z"
+      },
+      {
+        "version": "2.13.1",
+        "lastUpdated": "2024-07-31T16:26:19.01Z"
+      },
+      {
+        "version": "2.13.0",
+        "lastUpdated": "2024-07-31T12:18:06.07Z"
+      },
+      {
+        "version": "2.12.8",
+        "lastUpdated": "2024-07-25T22:59:20.09Z"
+      },
+      {
+        "version": "2.12.7",
+        "lastUpdated": "2024-07-25T22:12:02.923Z"
+      },
+      {
+        "version": "2.12.6",
+        "lastUpdated": "2024-07-23T14:16:32.627Z"
+      },
+      {
+        "version": "2.11.0",
+        "lastUpdated": "2024-07-08T11:26:59.96Z"
+      },
+      {
+        "version": "2.10.2",
+        "lastUpdated": "2024-05-15T14:58:36.947Z"
+      },
+      {
+        "version": "2.10.1",
+        "lastUpdated": "2024-05-15T13:43:19.717Z"
+      },
+      {
+        "version": "2.10.0",
+        "lastUpdated": "2024-05-15T12:16:48.51Z"
+      },
+      {
+        "version": "2.9.1",
+        "lastUpdated": "2024-05-15T10:07:05.947Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -1435,87 +1435,87 @@
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
     "latest_version": "2025.10.0",
-    "last_updated": "2025-02-20T14:41:43.22Z",
+    "last_updated": "2025-02-20T14:41:15.877Z",
     "version_history": [
       {
         "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:41:43.22Z"
-      },
-      {
-        "version": "2025.10.0",
         "lastUpdated": "2025-02-20T14:41:15.877Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:40:31.957Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:40:10.153Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:39:53.867Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:39:50.337Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:39:10.437Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:39:01.467Z"
-      },
-      {
-        "version": "2025.10.0",
-        "lastUpdated": "2025-02-20T14:37:43.853Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:32:02.297Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:31:54.27Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:31:07.027Z"
       },
       {
         "version": "2025.8.0",
         "lastUpdated": "2025-02-10T13:30:47.343Z"
       },
       {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:30:43.693Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:30:39.073Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:30:36.52Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:30:34.18Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-02-10T13:30:29.917Z"
-      },
-      {
         "version": "2025.6.0",
-        "lastUpdated": "2025-02-06T21:47:01.877Z"
+        "lastUpdated": "2025-02-06T21:45:38.077Z"
       },
       {
-        "version": "2025.6.0",
-        "lastUpdated": "2025-02-06T21:46:38.277Z"
+        "version": "2025.4.0",
+        "lastUpdated": "2025-01-24T05:53:40.123Z"
+      },
+      {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-01-10T19:17:49.927Z"
+      },
+      {
+        "version": "2025.0.0",
+        "lastUpdated": "2025-01-09T15:13:23.02Z"
+      },
+      {
+        "version": "2024.56.0",
+        "lastUpdated": "2024-11-22T10:56:26.32Z"
+      },
+      {
+        "version": "2024.54.0",
+        "lastUpdated": "2024-10-29T11:08:16.63Z"
+      },
+      {
+        "version": "2024.52.0",
+        "lastUpdated": "2024-10-17T20:33:12.033Z"
+      },
+      {
+        "version": "2024.50.0",
+        "lastUpdated": "2024-09-20T11:51:28.457Z"
+      },
+      {
+        "version": "2024.48.0",
+        "lastUpdated": "2024-09-10T18:56:14.293Z"
+      },
+      {
+        "version": "2024.46.0",
+        "lastUpdated": "2024-09-10T14:07:48.13Z"
+      },
+      {
+        "version": "2024.44.0",
+        "lastUpdated": "2024-09-06T09:04:35.007Z"
+      },
+      {
+        "version": "2024.42.0",
+        "lastUpdated": "2024-08-16T19:43:14.113Z"
+      },
+      {
+        "version": "2024.40.0",
+        "lastUpdated": "2024-08-09T13:39:02.26Z"
+      },
+      {
+        "version": "2024.38.0",
+        "lastUpdated": "2024-08-08T16:28:52.753Z"
+      },
+      {
+        "version": "2024.36.0",
+        "lastUpdated": "2024-07-24T19:50:50.583Z"
+      },
+      {
+        "version": "2024.35.12060448",
+        "lastUpdated": "2024-07-24T04:56:30.31Z"
+      },
+      {
+        "version": "2024.34.0",
+        "lastUpdated": "2024-07-19T13:00:42.567Z"
+      },
+      {
+        "version": "2024.33.12002328",
+        "lastUpdated": "2024-07-19T06:26:05.62Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -1835,93 +1835,93 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "0.9.269",
-    "last_updated": "2025-02-20T07:26:16.33Z",
+    "latest_version": "0.9.271",
+    "last_updated": "2025-02-24T17:39:19.18Z",
     "version_history": [
       {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:26:16.33Z"
-      },
-      {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:23:08.533Z"
-      },
-      {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:20:37.72Z"
-      },
-      {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:19:47.353Z"
-      },
-      {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:19:33.65Z"
+        "version": "0.9.271",
+        "lastUpdated": "2025-02-24T17:39:19.18Z"
       },
       {
         "version": "0.9.269",
         "lastUpdated": "2025-02-20T07:19:28.113Z"
       },
       {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:19:12.95Z"
-      },
-      {
-        "version": "0.9.269",
-        "lastUpdated": "2025-02-20T07:18:39.603Z"
-      },
-      {
         "version": "0.9.268",
         "lastUpdated": "2025-02-16T07:51:04.49Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:50:50.493Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:50:36.01Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:50:05.193Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:50:04.997Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:49:59.21Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:49:40.473Z"
-      },
-      {
-        "version": "0.9.268",
-        "lastUpdated": "2025-02-16T07:49:01.6Z"
       },
       {
         "version": "0.9.267",
         "lastUpdated": "2025-02-15T19:20:33.29Z"
       },
       {
-        "version": "0.9.267",
-        "lastUpdated": "2025-02-15T19:19:51.393Z"
+        "version": "0.9.266",
+        "lastUpdated": "2025-02-14T08:02:52.057Z"
       },
       {
-        "version": "0.9.267",
-        "lastUpdated": "2025-02-15T19:19:11.947Z"
+        "version": "0.9.265",
+        "lastUpdated": "2025-02-14T02:02:52.573Z"
       },
       {
-        "version": "0.9.267",
-        "lastUpdated": "2025-02-15T19:19:03.097Z"
+        "version": "0.9.264",
+        "lastUpdated": "2025-02-12T04:17:54.023Z"
+      },
+      {
+        "version": "0.9.263",
+        "lastUpdated": "2025-02-11T17:50:05.67Z"
+      },
+      {
+        "version": "0.9.262",
+        "lastUpdated": "2025-02-10T01:17:19.273Z"
+      },
+      {
+        "version": "0.9.261",
+        "lastUpdated": "2025-02-05T19:25:52.373Z"
+      },
+      {
+        "version": "0.9.260",
+        "lastUpdated": "2025-02-05T02:40:23.387Z"
+      },
+      {
+        "version": "0.9.259",
+        "lastUpdated": "2025-02-01T10:16:48.87Z"
+      },
+      {
+        "version": "0.9.258",
+        "lastUpdated": "2025-01-30T18:07:59.483Z"
+      },
+      {
+        "version": "0.9.257",
+        "lastUpdated": "2025-01-29T22:08:12.763Z"
+      },
+      {
+        "version": "0.9.256",
+        "lastUpdated": "2025-01-28T06:53:08.953Z"
+      },
+      {
+        "version": "0.9.255",
+        "lastUpdated": "2025-01-24T11:07:39.92Z"
+      },
+      {
+        "version": "0.9.254",
+        "lastUpdated": "2025-01-21T18:12:06.43Z"
+      },
+      {
+        "version": "0.9.253",
+        "lastUpdated": "2025-01-20T06:04:29.413Z"
+      },
+      {
+        "version": "0.9.252",
+        "lastUpdated": "2025-01-16T19:03:04.053Z"
+      },
+      {
+        "version": "0.9.251",
+        "lastUpdated": "2025-01-11T20:12:32.693Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.269/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.271/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.2.2404",
-    "last_updated": "2025-02-24T09:13:47.097Z",
+    "latest_version": "2025.2.2504",
+    "last_updated": "2025-02-25T09:12:48.213Z",
     "version_history": [
+      {
+        "version": "2025.2.2504",
+        "lastUpdated": "2025-02-25T09:12:48.213Z"
+      },
       {
         "version": "2025.2.2404",
         "lastUpdated": "2025-02-24T09:13:47.097Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.604",
         "lastUpdated": "2025-02-06T09:11:52.563Z"
-      },
-      {
-        "version": "2025.2.513",
-        "lastUpdated": "2025-02-05T18:37:17.113Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3984,9 +3984,21 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.274.1392",
-    "last_updated": "2025-02-24T01:45:38.897Z",
+    "latest_version": "1.275.1395",
+    "last_updated": "2025-02-25T01:45:40.39Z",
     "version_history": [
+      {
+        "version": "1.275.1395",
+        "lastUpdated": "2025-02-25T01:45:40.39Z"
+      },
+      {
+        "version": "1.275.0",
+        "lastUpdated": "2025-02-24T19:13:47.573Z"
+      },
+      {
+        "version": "1.274.1393",
+        "lastUpdated": "2025-02-24T16:04:29.997Z"
+      },
       {
         "version": "1.274.1392",
         "lastUpdated": "2025-02-24T01:45:38.897Z"
@@ -4054,18 +4066,6 @@
       {
         "version": "1.271.0",
         "lastUpdated": "2025-02-13T22:16:10.51Z"
-      },
-      {
-        "version": "1.270.1376",
-        "lastUpdated": "2025-02-13T16:18:55.957Z"
-      },
-      {
-        "version": "1.270.1375",
-        "lastUpdated": "2025-02-13T16:10:03.033Z"
-      },
-      {
-        "version": "1.270.1374",
-        "lastUpdated": "2025-02-13T01:40:09.44Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4094,16 +4094,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.274.1392/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.275.1395/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025022401",
-    "last_updated": "2025-02-24T04:31:55.3Z",
+    "latest_version": "0.25.2025022501",
+    "last_updated": "2025-02-25T04:27:22.64Z",
     "version_history": [
+      {
+        "version": "0.25.2025022501",
+        "lastUpdated": "2025-02-25T04:27:22.64Z"
+      },
       {
         "version": "0.25.2025022401",
         "lastUpdated": "2025-02-24T04:31:55.3Z"
@@ -4179,10 +4183,6 @@
       {
         "version": "0.24.2025020403",
         "lastUpdated": "2025-02-04T19:05:26.57Z"
-      },
-      {
-        "version": "0.24.2025020304",
-        "lastUpdated": "2025-02-03T23:06:14.103Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4215,7 +4215,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4408,9 +4408,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.105.2025022404",
-    "last_updated": "2025-02-24T04:23:58.303Z",
+    "latest_version": "0.105.2025022504",
+    "last_updated": "2025-02-25T04:21:10.177Z",
     "version_history": [
+      {
+        "version": "0.105.2025022504",
+        "lastUpdated": "2025-02-25T04:21:10.177Z"
+      },
       {
         "version": "0.105.2025022404",
         "lastUpdated": "2025-02-24T04:23:58.303Z"
@@ -4486,15 +4490,11 @@
       {
         "version": "0.103.2025012704",
         "lastUpdated": "2025-01-27T04:19:58.373Z"
-      },
-      {
-        "version": "0.103.2025012304",
-        "lastUpdated": "2025-01-23T04:20:32.35Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "github-copilot", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -5099,67 +5099,11 @@
     "display_name": "HashiCorp Terraform",
     "short_description": "Syntax highlighting and autocompletion for Terraform",
     "latest_version": "2.34.2025012311",
-    "last_updated": "2025-01-23T17:35:06.357Z",
+    "last_updated": "2025-01-23T17:33:04.93Z",
     "version_history": [
       {
         "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:35:06.357Z"
-      },
-      {
-        "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:33:12.39Z"
-      },
-      {
-        "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:33:08.987Z"
-      },
-      {
-        "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:33:07.12Z"
-      },
-      {
-        "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:33:06.233Z"
-      },
-      {
-        "version": "2.34.2025012311",
         "lastUpdated": "2025-01-23T17:33:04.93Z"
-      },
-      {
-        "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:32:04.97Z"
-      },
-      {
-        "version": "2.34.2025012311",
-        "lastUpdated": "2025-01-23T17:31:51.677Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:15:56.367Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:15:32.66Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:15:28.55Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:14:55.183Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:14:43.503Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:14:34.21Z"
-      },
-      {
-        "version": "2.34.2024121211",
-        "lastUpdated": "2024-12-12T18:14:29.073Z"
       },
       {
         "version": "2.34.2024121211",
@@ -5167,19 +5111,75 @@
       },
       {
         "version": "2.34.2024101517",
-        "lastUpdated": "2024-10-15T15:58:07.077Z"
-      },
-      {
-        "version": "2.34.2024101517",
         "lastUpdated": "2024-10-15T15:57:41.63Z"
       },
       {
-        "version": "2.34.2024101517",
-        "lastUpdated": "2024-10-15T15:56:45.057Z"
+        "version": "2.34.3",
+        "lastUpdated": "2025-01-23T16:11:41.017Z"
       },
       {
-        "version": "2.34.2024101517",
-        "lastUpdated": "2024-10-15T15:56:23.763Z"
+        "version": "2.34.2",
+        "lastUpdated": "2024-12-20T01:09:58.107Z"
+      },
+      {
+        "version": "2.34.1",
+        "lastUpdated": "2024-12-12T16:45:27.54Z"
+      },
+      {
+        "version": "2.34.0",
+        "lastUpdated": "2024-11-15T19:14:44.213Z"
+      },
+      {
+        "version": "2.33.2024090609",
+        "lastUpdated": "2024-09-06T15:26:00.707Z"
+      },
+      {
+        "version": "2.33.2024082314",
+        "lastUpdated": "2024-08-23T16:47:23.63Z"
+      },
+      {
+        "version": "2.33.2024080812",
+        "lastUpdated": "2024-08-08T12:26:57.587Z"
+      },
+      {
+        "version": "2.33.2024073012",
+        "lastUpdated": "2024-07-30T17:28:47.697Z"
+      },
+      {
+        "version": "2.33.0",
+        "lastUpdated": "2024-10-15T13:28:47.93Z"
+      },
+      {
+        "version": "2.32.2024070910",
+        "lastUpdated": "2024-07-09T14:56:29.53Z"
+      },
+      {
+        "version": "2.32.3",
+        "lastUpdated": "2024-09-05T14:48:14.57Z"
+      },
+      {
+        "version": "2.32.2",
+        "lastUpdated": "2024-07-30T16:05:41.67Z"
+      },
+      {
+        "version": "2.32.1",
+        "lastUpdated": "2024-07-22T13:15:31.093Z"
+      },
+      {
+        "version": "2.32.0",
+        "lastUpdated": "2024-07-15T16:13:01.297Z"
+      },
+      {
+        "version": "2.31.2024061114",
+        "lastUpdated": "2024-06-12T16:09:19.603Z"
+      },
+      {
+        "version": "2.31.0",
+        "lastUpdated": "2024-06-27T19:32:17.41Z"
+      },
+      {
+        "version": "2.30.2024042211",
+        "lastUpdated": "2024-04-22T16:12:22.123Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -5633,87 +5633,87 @@
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
     "latest_version": "1.39.2",
-    "last_updated": "2025-02-15T11:29:42.87Z",
+    "last_updated": "2025-02-15T11:28:58.37Z",
     "version_history": [
       {
         "version": "1.39.2",
-        "lastUpdated": "2025-02-15T11:29:42.87Z"
-      },
-      {
-        "version": "1.39.2",
         "lastUpdated": "2025-02-15T11:28:58.37Z"
-      },
-      {
-        "version": "1.39.2",
-        "lastUpdated": "2025-02-15T11:26:47.767Z"
-      },
-      {
-        "version": "1.39.2",
-        "lastUpdated": "2025-02-15T11:26:38.057Z"
-      },
-      {
-        "version": "1.39.2",
-        "lastUpdated": "2025-02-15T11:26:22.413Z"
-      },
-      {
-        "version": "1.39.2",
-        "lastUpdated": "2025-02-15T11:25:40.167Z"
       },
       {
         "version": "1.39.1",
         "lastUpdated": "2025-02-08T20:46:41.153Z"
       },
       {
-        "version": "1.39.1",
-        "lastUpdated": "2025-02-08T20:45:31.017Z"
-      },
-      {
-        "version": "1.39.1",
-        "lastUpdated": "2025-02-08T20:41:29.673Z"
-      },
-      {
-        "version": "1.39.1",
-        "lastUpdated": "2025-02-08T20:40:53.52Z"
-      },
-      {
-        "version": "1.39.1",
-        "lastUpdated": "2025-02-08T20:39:57.267Z"
-      },
-      {
-        "version": "1.39.1",
-        "lastUpdated": "2025-02-08T20:36:49.907Z"
-      },
-      {
         "version": "1.39.0",
         "lastUpdated": "2025-02-08T20:05:51.81Z"
       },
       {
-        "version": "1.39.0",
-        "lastUpdated": "2025-02-08T20:05:22.627Z"
-      },
-      {
-        "version": "1.39.0",
-        "lastUpdated": "2025-02-08T20:03:46.983Z"
-      },
-      {
-        "version": "1.39.0",
-        "lastUpdated": "2025-02-08T20:03:46.243Z"
-      },
-      {
-        "version": "1.39.0",
-        "lastUpdated": "2025-02-08T20:03:44.047Z"
-      },
-      {
-        "version": "1.39.0",
-        "lastUpdated": "2025-02-08T20:02:06.283Z"
-      },
-      {
         "version": "1.38.1",
-        "lastUpdated": "2025-01-12T13:39:51.507Z"
+        "lastUpdated": "2025-01-12T12:06:37.113Z"
       },
       {
-        "version": "1.38.1",
-        "lastUpdated": "2025-01-12T13:38:10.137Z"
+        "version": "1.38.0",
+        "lastUpdated": "2024-12-28T15:45:11.123Z"
+      },
+      {
+        "version": "1.37.0",
+        "lastUpdated": "2024-12-14T15:35:44.783Z"
+      },
+      {
+        "version": "1.36.0",
+        "lastUpdated": "2024-11-30T13:51:05.08Z"
+      },
+      {
+        "version": "1.35.0",
+        "lastUpdated": "2024-11-10T13:30:07.937Z"
+      },
+      {
+        "version": "1.34.0",
+        "lastUpdated": "2024-10-27T16:19:19.247Z"
+      },
+      {
+        "version": "1.33.1",
+        "lastUpdated": "2024-10-05T10:59:25.987Z"
+      },
+      {
+        "version": "1.33.0",
+        "lastUpdated": "2024-09-27T09:30:02.74Z"
+      },
+      {
+        "version": "1.32.4",
+        "lastUpdated": "2024-09-11T18:23:56.533Z"
+      },
+      {
+        "version": "1.32.3",
+        "lastUpdated": "2024-08-10T14:44:17.733Z"
+      },
+      {
+        "version": "1.32.2",
+        "lastUpdated": "2024-08-10T12:00:41.07Z"
+      },
+      {
+        "version": "1.32.1",
+        "lastUpdated": "2024-07-23T10:31:40.55Z"
+      },
+      {
+        "version": "1.32.0",
+        "lastUpdated": "2024-07-14T11:44:51.747Z"
+      },
+      {
+        "version": "1.31.1",
+        "lastUpdated": "2024-07-07T09:41:23.603Z"
+      },
+      {
+        "version": "1.31.0",
+        "lastUpdated": "2024-07-01T17:42:10.11Z"
+      },
+      {
+        "version": "1.30.1",
+        "lastUpdated": "2024-06-27T19:04:07.88Z"
+      },
+      {
+        "version": "1.30.0",
+        "lastUpdated": "2024-06-23T15:18:50.71Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
@@ -6236,9 +6236,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.64",
-    "last_updated": "2025-02-24T10:22:36Z",
+    "latest_version": "1.1.65",
+    "last_updated": "2025-02-25T08:35:00.113Z",
     "version_history": [
+      {
+        "version": "1.1.65",
+        "lastUpdated": "2025-02-25T08:35:00.113Z"
+      },
       {
         "version": "1.1.64",
         "lastUpdated": "2025-02-24T10:22:36Z"
@@ -6314,10 +6318,6 @@
       {
         "version": "1.1.42",
         "lastUpdated": "2024-12-19T11:17:32.537Z"
-      },
-      {
-        "version": "1.1.41",
-        "lastUpdated": "2024-12-18T15:25:30.977Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6350,7 +6350,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.64/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.65/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -6865,67 +6865,11 @@
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
     "latest_version": "1.17.27",
-    "last_updated": "2025-02-19T22:06:52.463Z",
+    "last_updated": "2025-02-19T22:04:30.09Z",
     "version_history": [
       {
         "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:06:52.463Z"
-      },
-      {
-        "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:05:21.66Z"
-      },
-      {
-        "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:04:52.133Z"
-      },
-      {
-        "version": "1.17.27",
         "lastUpdated": "2025-02-19T22:04:30.09Z"
-      },
-      {
-        "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:03:42.713Z"
-      },
-      {
-        "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:03:40.9Z"
-      },
-      {
-        "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:03:35.527Z"
-      },
-      {
-        "version": "1.17.27",
-        "lastUpdated": "2025-02-19T22:03:27.13Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:21:14.527Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:20:28.663Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:20:10.42Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:20:06.487Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:19:46.543Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:19:45.507Z"
-      },
-      {
-        "version": "1.17.12",
-        "lastUpdated": "2025-02-12T18:19:24.367Z"
       },
       {
         "version": "1.17.12",
@@ -6933,19 +6877,75 @@
       },
       {
         "version": "1.17.4",
-        "lastUpdated": "2025-02-05T18:04:43.43Z"
-      },
-      {
-        "version": "1.17.4",
-        "lastUpdated": "2025-02-05T18:04:41.913Z"
-      },
-      {
-        "version": "1.17.4",
-        "lastUpdated": "2025-02-05T18:03:55.937Z"
-      },
-      {
-        "version": "1.17.4",
         "lastUpdated": "2025-02-05T18:03:48.087Z"
+      },
+      {
+        "version": "1.16.6",
+        "lastUpdated": "2025-02-04T18:06:52.723Z"
+      },
+      {
+        "version": "1.16.4",
+        "lastUpdated": "2025-01-14T17:16:29.687Z"
+      },
+      {
+        "version": "1.15.34",
+        "lastUpdated": "2025-01-13T20:37:59.793Z"
+      },
+      {
+        "version": "1.15.32",
+        "lastUpdated": "2025-01-08T00:33:18.77Z"
+      },
+      {
+        "version": "1.15.13",
+        "lastUpdated": "2024-12-11T20:17:08.763Z"
+      },
+      {
+        "version": "1.15.2",
+        "lastUpdated": "2024-12-05T22:14:39.513Z"
+      },
+      {
+        "version": "1.14.18",
+        "lastUpdated": "2024-12-03T20:35:25.147Z"
+      },
+      {
+        "version": "1.14.14",
+        "lastUpdated": "2024-12-05T22:24:34.953Z"
+      },
+      {
+        "version": "1.14.12",
+        "lastUpdated": "2024-11-26T22:18:10.753Z"
+      },
+      {
+        "version": "1.14.8",
+        "lastUpdated": "2024-11-19T16:31:51.41Z"
+      },
+      {
+        "version": "1.14.2",
+        "lastUpdated": "2024-11-13T04:48:05.887Z"
+      },
+      {
+        "version": "1.13.9",
+        "lastUpdated": "2024-11-13T00:27:18.497Z"
+      },
+      {
+        "version": "1.13.6",
+        "lastUpdated": "2024-11-07T17:03:54.27Z"
+      },
+      {
+        "version": "1.12.37",
+        "lastUpdated": "2024-10-29T23:10:53.983Z"
+      },
+      {
+        "version": "1.12.27",
+        "lastUpdated": "2024-10-23T18:27:54.73Z"
+      },
+      {
+        "version": "1.12.16",
+        "lastUpdated": "2024-10-16T16:17:25.45Z"
+      },
+      {
+        "version": "1.12.2",
+        "lastUpdated": "2024-10-08T20:34:25.857Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
@@ -6958,67 +6958,11 @@
     "display_name": "C#",
     "short_description": "Base language support for C#",
     "latest_version": "2.65.29",
-    "last_updated": "2025-02-12T19:00:36.34Z",
+    "last_updated": "2025-02-12T18:58:52.237Z",
     "version_history": [
       {
         "version": "2.65.29",
-        "lastUpdated": "2025-02-12T19:00:36.34Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T19:00:24.087Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T19:00:19.39Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T19:00:02.297Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T18:59:44.567Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T18:59:23.593Z"
-      },
-      {
-        "version": "2.65.29",
         "lastUpdated": "2025-02-12T18:58:52.237Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T18:58:24.043Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:22:04.757Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:20:00.967Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:19:51.75Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:18:40.35Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:18:12.65Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:17:55.44Z"
-      },
-      {
-        "version": "2.64.7",
-        "lastUpdated": "2025-02-05T19:17:47.35Z"
       },
       {
         "version": "2.64.7",
@@ -7026,19 +6970,75 @@
       },
       {
         "version": "2.63.32",
-        "lastUpdated": "2025-02-05T20:04:51.393Z"
+        "lastUpdated": "2025-02-05T20:02:15.867Z"
       },
       {
-        "version": "2.63.32",
-        "lastUpdated": "2025-02-05T20:04:20.037Z"
+        "version": "2.63.31",
+        "lastUpdated": "2025-01-29T00:38:05.677Z"
       },
       {
-        "version": "2.63.32",
-        "lastUpdated": "2025-02-05T20:03:50.42Z"
+        "version": "2.62.18",
+        "lastUpdated": "2025-01-14T19:00:26.227Z"
       },
       {
-        "version": "2.63.32",
-        "lastUpdated": "2025-02-05T20:03:48.203Z"
+        "version": "2.61.28",
+        "lastUpdated": "2025-01-13T23:13:19.543Z"
+      },
+      {
+        "version": "2.61.27",
+        "lastUpdated": "2025-01-08T00:51:09.487Z"
+      },
+      {
+        "version": "2.60.26",
+        "lastUpdated": "2024-12-11T21:54:16.187Z"
+      },
+      {
+        "version": "2.59.14",
+        "lastUpdated": "2024-12-03T21:14:08.51Z"
+      },
+      {
+        "version": "2.58.20",
+        "lastUpdated": "2024-11-26T22:42:47.23Z"
+      },
+      {
+        "version": "2.57.28",
+        "lastUpdated": "2024-11-19T19:12:10.163Z"
+      },
+      {
+        "version": "2.56.31",
+        "lastUpdated": "2024-11-13T22:23:17.8Z"
+      },
+      {
+        "version": "2.56.29",
+        "lastUpdated": "2024-11-12T20:40:13.91Z"
+      },
+      {
+        "version": "2.55.29",
+        "lastUpdated": "2024-11-13T22:01:35.027Z"
+      },
+      {
+        "version": "2.55.28",
+        "lastUpdated": "2024-11-12T22:51:07.86Z"
+      },
+      {
+        "version": "2.55.21",
+        "lastUpdated": "2024-11-07T18:36:42.863Z"
+      },
+      {
+        "version": "2.54.20",
+        "lastUpdated": "2024-10-29T23:34:34.587Z"
+      },
+      {
+        "version": "2.53.17",
+        "lastUpdated": "2024-10-23T17:51:43.757Z"
+      },
+      {
+        "version": "2.52.24",
+        "lastUpdated": "2024-10-16T17:14:19.383Z"
+      },
+      {
+        "version": "2.51.17",
+        "lastUpdated": "2024-10-08T19:52:26.123Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7162,87 +7162,35 @@
     "display_name": "IntelliCode for C# Dev Kit",
     "short_description": "AI-assisted development for C# Dev Kit",
     "latest_version": "2.2.3",
-    "last_updated": "2024-11-13T06:10:01.273Z",
+    "last_updated": "2024-11-13T06:07:18.603Z",
     "version_history": [
       {
         "version": "2.2.3",
-        "lastUpdated": "2024-11-13T06:10:01.273Z"
-      },
-      {
-        "version": "2.2.3",
         "lastUpdated": "2024-11-13T06:07:18.603Z"
-      },
-      {
-        "version": "2.2.3",
-        "lastUpdated": "2024-11-13T06:05:44.583Z"
-      },
-      {
-        "version": "2.2.3",
-        "lastUpdated": "2024-11-13T06:05:30.06Z"
-      },
-      {
-        "version": "2.2.3",
-        "lastUpdated": "2024-11-13T06:05:06.553Z"
-      },
-      {
-        "version": "2.2.3",
-        "lastUpdated": "2024-11-13T06:05:01.31Z"
       },
       {
         "version": "2.1.11",
         "lastUpdated": "2024-05-04T03:17:52.167Z"
       },
       {
-        "version": "2.1.11",
-        "lastUpdated": "2024-05-04T03:17:17.767Z"
-      },
-      {
-        "version": "2.1.11",
-        "lastUpdated": "2024-05-04T03:15:45.46Z"
-      },
-      {
-        "version": "2.1.11",
-        "lastUpdated": "2024-05-04T03:15:09.8Z"
-      },
-      {
-        "version": "2.1.11",
-        "lastUpdated": "2024-05-04T03:15:05.097Z"
-      },
-      {
-        "version": "2.1.11",
-        "lastUpdated": "2024-05-04T03:13:54.21Z"
-      },
-      {
-        "version": "2.1.9",
-        "lastUpdated": "2024-05-02T22:01:54.917Z"
-      },
-      {
-        "version": "2.1.9",
-        "lastUpdated": "2024-05-02T21:59:08.217Z"
-      },
-      {
         "version": "2.1.9",
         "lastUpdated": "2024-05-02T21:59:01.66Z"
       },
       {
-        "version": "2.1.9",
-        "lastUpdated": "2024-05-02T21:57:14.79Z"
-      },
-      {
-        "version": "2.1.9",
-        "lastUpdated": "2024-05-02T21:57:12.213Z"
-      },
-      {
-        "version": "2.1.9",
-        "lastUpdated": "2024-05-02T21:56:30.43Z"
-      },
-      {
-        "version": "2.0.25",
-        "lastUpdated": "2024-04-05T19:52:41.33Z"
-      },
-      {
         "version": "2.0.25",
         "lastUpdated": "2024-04-05T19:52:28.913Z"
+      },
+      {
+        "version": "0.1.26",
+        "lastUpdated": "2023-07-05T18:43:17.047Z"
+      },
+      {
+        "version": "0.1.23",
+        "lastUpdated": "2023-06-28T18:12:36.77Z"
+      },
+      {
+        "version": "0.1.9",
+        "lastUpdated": "2023-06-06T19:59:29.477Z"
       }
     ],
     "categories": ["Programming Languages"],
@@ -7541,80 +7489,80 @@
         "lastUpdated": "2025-02-24T10:38:30.14Z"
       },
       {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:38:19.03Z"
-      },
-      {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:38:00.147Z"
-      },
-      {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:37:57.423Z"
-      },
-      {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:37:18.02Z"
-      },
-      {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:37:10.917Z"
-      },
-      {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:37:01.337Z"
-      },
-      {
-        "version": "2025.1.2025022401",
-        "lastUpdated": "2025-02-24T10:36:44.223Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:38:36.443Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:38:31.25Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:38:29.72Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:38:26.517Z"
-      },
-      {
         "version": "2025.1.2025021701",
         "lastUpdated": "2025-02-17T10:37:29.917Z"
       },
       {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:37:27.3Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:36:55.02Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:36:46.06Z"
-      },
-      {
-        "version": "2025.1.2025021401",
-        "lastUpdated": "2025-02-14T10:39:58.41Z"
-      },
-      {
-        "version": "2025.1.2025021401",
-        "lastUpdated": "2025-02-14T10:39:45.213Z"
-      },
-      {
-        "version": "2025.1.2025021401",
-        "lastUpdated": "2025-02-14T10:39:43.32Z"
-      },
-      {
         "version": "2025.1.2025021401",
         "lastUpdated": "2025-02-14T10:39:19.85Z"
+      },
+      {
+        "version": "2025.1.2025021301",
+        "lastUpdated": "2025-02-13T10:40:10.467Z"
+      },
+      {
+        "version": "2025.1.2025021201",
+        "lastUpdated": "2025-02-12T10:39:21.293Z"
+      },
+      {
+        "version": "2025.1.2025021101",
+        "lastUpdated": "2025-02-11T10:37:13.077Z"
+      },
+      {
+        "version": "2025.1.2025020701",
+        "lastUpdated": "2025-02-07T10:52:04.31Z"
+      },
+      {
+        "version": "2025.0.1",
+        "lastUpdated": "2025-02-12T19:27:56.39Z"
+      },
+      {
+        "version": "2025.0.0",
+        "lastUpdated": "2025-02-06T21:39:01.047Z"
+      },
+      {
+        "version": "2024.15.2025012801",
+        "lastUpdated": "2025-01-28T10:38:46.423Z"
+      },
+      {
+        "version": "2024.15.2025012301",
+        "lastUpdated": "2025-01-24T01:50:25.303Z"
+      },
+      {
+        "version": "2024.15.2025012001",
+        "lastUpdated": "2025-01-20T10:37:51.02Z"
+      },
+      {
+        "version": "2024.15.2025011702",
+        "lastUpdated": "2025-01-17T20:46:57.73Z"
+      },
+      {
+        "version": "2024.15.2025011701",
+        "lastUpdated": "2025-01-17T10:36:36.063Z"
+      },
+      {
+        "version": "2024.15.2025011501",
+        "lastUpdated": "2025-01-15T10:38:20.56Z"
+      },
+      {
+        "version": "2024.15.2024121701",
+        "lastUpdated": "2024-12-17T10:43:00.403Z"
+      },
+      {
+        "version": "2024.15.2024121301",
+        "lastUpdated": "2024-12-13T10:44:17.59Z"
+      },
+      {
+        "version": "2024.15.2024121201",
+        "lastUpdated": "2024-12-12T10:41:11.813Z"
+      },
+      {
+        "version": "2024.14.0",
+        "lastUpdated": "2024-12-11T20:19:28.447Z"
+      },
+      {
+        "version": "2024.13.2024112901",
+        "lastUpdated": "2024-11-29T10:34:22.56Z"
       }
     ],
     "categories": ["Debuggers"],
@@ -7626,88 +7574,88 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.1.2025022102",
-    "last_updated": "2025-02-21T10:47:10.76Z",
+    "latest_version": "2025.1.2025022501",
+    "last_updated": "2025-02-25T10:47:55.367Z",
     "version_history": [
+      {
+        "version": "2025.1.2025022501",
+        "lastUpdated": "2025-02-25T10:47:55.367Z"
+      },
       {
         "version": "2025.1.2025022102",
         "lastUpdated": "2025-02-21T10:47:10.76Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:46:52.327Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:46:14.367Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:46:06.437Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:45:32.7Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:45:30.527Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:45:16.773Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:45:02.077Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:45:00.157Z"
-      },
-      {
-        "version": "2025.1.2025022102",
-        "lastUpdated": "2025-02-21T10:44:23.55Z"
-      },
-      {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:06:57.013Z"
-      },
-      {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:06:26.777Z"
-      },
-      {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:05:58.04Z"
       },
       {
         "version": "2025.1.2025022101",
         "lastUpdated": "2025-02-21T06:05:44.32Z"
       },
       {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:05:26.157Z"
+        "version": "2025.1.2025021801",
+        "lastUpdated": "2025-02-18T11:06:04.24Z"
       },
       {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:05:04.38Z"
+        "version": "2025.1.2025021701",
+        "lastUpdated": "2025-02-17T10:44:58.007Z"
       },
       {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:05:00.007Z"
+        "version": "2025.1.2025021102",
+        "lastUpdated": "2025-02-11T15:06:38.203Z"
       },
       {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:04:13.317Z"
+        "version": "2025.1.2025021001",
+        "lastUpdated": "2025-02-10T10:49:15.13Z"
       },
       {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:03:46.877Z"
+        "version": "2025.1.2025020701",
+        "lastUpdated": "2025-02-07T10:55:46.933Z"
       },
       {
-        "version": "2025.1.2025022101",
-        "lastUpdated": "2025-02-21T06:03:23.467Z"
+        "version": "2025.0.0",
+        "lastUpdated": "2025-02-06T21:13:11.643Z"
+      },
+      {
+        "version": "2024.23.2025012801",
+        "lastUpdated": "2025-01-28T14:02:52.767Z"
+      },
+      {
+        "version": "2024.23.2025012401",
+        "lastUpdated": "2025-01-24T10:42:32.23Z"
+      },
+      {
+        "version": "2024.23.2025012301",
+        "lastUpdated": "2025-01-23T10:44:19.207Z"
+      },
+      {
+        "version": "2024.23.2025011501",
+        "lastUpdated": "2025-01-15T18:00:47.293Z"
+      },
+      {
+        "version": "2024.23.2025011301",
+        "lastUpdated": "2025-01-13T10:47:15.007Z"
+      },
+      {
+        "version": "2024.23.2025011101",
+        "lastUpdated": "2025-01-11T19:37:11.09Z"
+      },
+      {
+        "version": "2024.23.2025010901",
+        "lastUpdated": "2025-01-09T10:44:57.563Z"
+      },
+      {
+        "version": "2024.23.2025010801",
+        "lastUpdated": "2025-01-08T10:45:51.417Z"
+      },
+      {
+        "version": "2024.23.2025010701",
+        "lastUpdated": "2025-01-07T10:51:22.433Z"
+      },
+      {
+        "version": "2024.23.2025010601",
+        "lastUpdated": "2025-01-07T00:31:22.37Z"
+      },
+      {
+        "version": "2024.23.2024121901",
+        "lastUpdated": "2024-12-19T10:48:57.637Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7728,7 +7676,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.1.2025022102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.1.2025022501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -7974,9 +7922,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.398.0",
-    "last_updated": "2025-02-06T16:33:14.397Z",
+    "latest_version": "0.399.0",
+    "last_updated": "2025-02-24T22:27:38.76Z",
     "version_history": [
+      {
+        "version": "0.399.0",
+        "lastUpdated": "2025-02-24T22:27:38.76Z"
+      },
       {
         "version": "0.398.0",
         "lastUpdated": "2025-02-06T16:33:14.397Z"
@@ -8052,24 +8004,24 @@
       {
         "version": "0.380.0",
         "lastUpdated": "2024-08-01T18:28:11.327Z"
-      },
-      {
-        "version": "0.379.0",
-        "lastUpdated": "2024-07-25T16:37:24.863Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.398.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.399.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.118.2025021215",
-    "last_updated": "2025-02-12T15:23:54.61Z",
+    "latest_version": "0.118.2025022419",
+    "last_updated": "2025-02-24T19:58:54.447Z",
     "version_history": [
+      {
+        "version": "0.118.2025022419",
+        "lastUpdated": "2025-02-24T19:58:54.447Z"
+      },
       {
         "version": "0.118.2025021215",
         "lastUpdated": "2025-02-12T15:23:54.61Z"
@@ -8145,15 +8097,11 @@
       {
         "version": "0.117.2025011315",
         "lastUpdated": "2025-01-13T15:25:24.3Z"
-      },
-      {
-        "version": "0.117.2025011020",
-        "lastUpdated": "2025-01-10T21:07:25.473Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "github-copilot", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.118.2025021215/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.118.2025022419/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -8501,75 +8449,11 @@
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
     "latest_version": "1.24.1",
-    "last_updated": "2025-02-14T00:49:35.943Z",
+    "last_updated": "2025-02-14T00:46:20.867Z",
     "version_history": [
       {
         "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:49:35.943Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:49:12.58Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:48:46.423Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:48:06.417Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:47:41.363Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:47:08.203Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:46:38.627Z"
-      },
-      {
-        "version": "1.24.1",
-        "lastUpdated": "2025-02-14T00:46:29.78Z"
-      },
-      {
-        "version": "1.24.1",
         "lastUpdated": "2025-02-14T00:46:20.867Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:58:34.557Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:58:33.747Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:58:08.6Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:57:51.813Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:57:08.48Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:56:50.463Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:56:16.487Z"
-      },
-      {
-        "version": "1.24.0",
-        "lastUpdated": "2025-02-11T23:55:54.643Z"
       },
       {
         "version": "1.24.0",
@@ -8577,11 +8461,75 @@
       },
       {
         "version": "1.23.6",
-        "lastUpdated": "2025-02-07T01:28:46.42Z"
+        "lastUpdated": "2025-02-07T01:20:59.067Z"
       },
       {
-        "version": "1.23.6",
-        "lastUpdated": "2025-02-07T01:24:09.563Z"
+        "version": "1.23.5",
+        "lastUpdated": "2025-01-29T01:39:05.53Z"
+      },
+      {
+        "version": "1.23.4",
+        "lastUpdated": "2025-01-22T02:40:09.45Z"
+      },
+      {
+        "version": "1.23.3",
+        "lastUpdated": "2025-01-09T23:29:00.43Z"
+      },
+      {
+        "version": "1.23.2",
+        "lastUpdated": "2024-12-06T01:12:42.867Z"
+      },
+      {
+        "version": "1.23.1",
+        "lastUpdated": "2024-11-08T02:53:51.867Z"
+      },
+      {
+        "version": "1.23.0",
+        "lastUpdated": "2024-10-30T00:49:33.827Z"
+      },
+      {
+        "version": "1.22.11",
+        "lastUpdated": "2024-11-06T03:08:28.463Z"
+      },
+      {
+        "version": "1.22.10",
+        "lastUpdated": "2024-10-21T23:44:12.35Z"
+      },
+      {
+        "version": "1.22.9",
+        "lastUpdated": "2024-10-14T23:40:29.05Z"
+      },
+      {
+        "version": "1.22.8",
+        "lastUpdated": "2024-10-09T00:12:32.82Z"
+      },
+      {
+        "version": "1.22.7",
+        "lastUpdated": "2024-10-01T23:36:59.247Z"
+      },
+      {
+        "version": "1.22.6",
+        "lastUpdated": "2024-09-26T01:03:35.587Z"
+      },
+      {
+        "version": "1.22.5",
+        "lastUpdated": "2024-09-25T02:11:57.423Z"
+      },
+      {
+        "version": "1.22.4",
+        "lastUpdated": "2024-09-20T00:20:24.037Z"
+      },
+      {
+        "version": "1.22.3",
+        "lastUpdated": "2024-09-12T23:09:35.427Z"
+      },
+      {
+        "version": "1.22.2",
+        "lastUpdated": "2024-08-30T04:41:27.52Z"
+      },
+      {
+        "version": "1.22.1",
+        "lastUpdated": "2024-08-29T23:14:22.3Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
@@ -9151,9 +9099,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250224001",
-    "last_updated": "2025-02-24T02:52:52.36Z",
+    "latest_version": "0.13.250225001",
+    "last_updated": "2025-02-25T02:55:13.003Z",
     "version_history": [
+      {
+        "version": "0.13.250225001",
+        "lastUpdated": "2025-02-25T02:55:13.003Z"
+      },
       {
         "version": "0.13.250224001",
         "lastUpdated": "2025-02-24T02:52:52.36Z"
@@ -9229,24 +9181,24 @@
       {
         "version": "0.13.250117001",
         "lastUpdated": "2025-01-17T02:53:58.85Z"
-      },
-      {
-        "version": "0.13.250115001",
-        "lastUpdated": "2025-01-15T02:54:21.13Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250224001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250225001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250222",
-    "last_updated": "2025-02-23T00:21:43.267Z",
+    "latest_version": "5.9.20250224",
+    "last_updated": "2025-02-25T00:16:08.547Z",
     "version_history": [
+      {
+        "version": "5.9.20250224",
+        "lastUpdated": "2025-02-25T00:16:08.547Z"
+      },
       {
         "version": "5.9.20250222",
         "lastUpdated": "2025-02-23T00:21:43.267Z"
@@ -9322,15 +9274,11 @@
       {
         "version": "5.8.20250204",
         "lastUpdated": "2025-02-05T00:16:51.147Z"
-      },
-      {
-        "version": "5.8.20250203",
-        "lastUpdated": "2025-02-04T00:15:23.92Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250222/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250224/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -9954,87 +9902,87 @@
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
     "latest_version": "0.15.12",
-    "last_updated": "2025-02-24T07:59:07.593Z",
+    "last_updated": "2025-02-24T07:59:05.477Z",
     "version_history": [
       {
         "version": "0.15.12",
-        "lastUpdated": "2025-02-24T07:59:07.593Z"
-      },
-      {
-        "version": "0.15.12",
         "lastUpdated": "2025-02-24T07:59:05.477Z"
-      },
-      {
-        "version": "0.15.12",
-        "lastUpdated": "2025-02-24T07:58:36.77Z"
-      },
-      {
-        "version": "0.15.12",
-        "lastUpdated": "2025-02-24T07:58:36.727Z"
-      },
-      {
-        "version": "0.15.12",
-        "lastUpdated": "2025-02-24T07:58:34.223Z"
-      },
-      {
-        "version": "0.15.12",
-        "lastUpdated": "2025-02-24T07:58:30.53Z"
-      },
-      {
-        "version": "0.15.11",
-        "lastUpdated": "2025-02-16T01:33:57.24Z"
-      },
-      {
-        "version": "0.15.11",
-        "lastUpdated": "2025-02-16T01:33:13.953Z"
-      },
-      {
-        "version": "0.15.11",
-        "lastUpdated": "2025-02-16T01:32:35.98Z"
       },
       {
         "version": "0.15.11",
         "lastUpdated": "2025-02-16T01:32:35.52Z"
       },
       {
-        "version": "0.15.11",
-        "lastUpdated": "2025-02-16T01:32:30.54Z"
-      },
-      {
-        "version": "0.15.11",
-        "lastUpdated": "2025-02-16T01:32:27.377Z"
-      },
-      {
-        "version": "0.15.10",
-        "lastUpdated": "2025-02-06T06:53:27.45Z"
-      },
-      {
-        "version": "0.15.10",
-        "lastUpdated": "2025-02-06T06:53:21.533Z"
-      },
-      {
         "version": "0.15.10",
         "lastUpdated": "2025-02-06T06:52:45.497Z"
       },
       {
-        "version": "0.15.10",
-        "lastUpdated": "2025-02-06T06:52:43.693Z"
-      },
-      {
-        "version": "0.15.10",
-        "lastUpdated": "2025-02-06T06:52:17.013Z"
-      },
-      {
-        "version": "0.15.10",
-        "lastUpdated": "2025-02-06T06:52:12.64Z"
-      },
-      {
         "version": "0.15.9",
-        "lastUpdated": "2025-02-01T14:15:27.897Z"
+        "lastUpdated": "2025-02-01T14:14:56.053Z"
       },
       {
-        "version": "0.15.9",
-        "lastUpdated": "2025-02-01T14:15:27.09Z"
+        "version": "0.15.8",
+        "lastUpdated": "2025-01-24T10:20:05.77Z"
+      },
+      {
+        "version": "0.15.7",
+        "lastUpdated": "2025-01-19T01:14:25.167Z"
+      },
+      {
+        "version": "0.15.6",
+        "lastUpdated": "2025-01-13T03:26:01.717Z"
+      },
+      {
+        "version": "0.15.5",
+        "lastUpdated": "2025-01-02T11:10:21.473Z"
+      },
+      {
+        "version": "0.15.4",
+        "lastUpdated": "2024-12-30T08:05:00.03Z"
+      },
+      {
+        "version": "0.15.2",
+        "lastUpdated": "2024-12-14T05:50:57.65Z"
+      },
+      {
+        "version": "0.15.1",
+        "lastUpdated": "2024-12-13T13:45:27.3Z"
+      },
+      {
+        "version": "0.15.0",
+        "lastUpdated": "2024-12-10T17:15:11.137Z"
+      },
+      {
+        "version": "0.14.1",
+        "lastUpdated": "2024-12-06T05:22:03.867Z"
+      },
+      {
+        "version": "0.14.0",
+        "lastUpdated": "2024-12-01T09:01:12.17Z"
+      },
+      {
+        "version": "0.13.2",
+        "lastUpdated": "2024-11-26T07:46:38.637Z"
+      },
+      {
+        "version": "0.13.1",
+        "lastUpdated": "2024-11-23T16:04:25.503Z"
+      },
+      {
+        "version": "0.13.0",
+        "lastUpdated": "2024-11-21T14:39:34.61Z"
+      },
+      {
+        "version": "0.12.0",
+        "lastUpdated": "2024-11-20T08:00:26.063Z"
+      },
+      {
+        "version": "0.11.1",
+        "lastUpdated": "2024-11-09T12:16:09.417Z"
+      },
+      {
+        "version": "0.11.0",
+        "lastUpdated": "2024-11-03T03:44:11.937Z"
       }
     ],
     "categories": ["Linters"],
@@ -10140,47 +10088,11 @@
     "display_name": "PlatformIO IDE",
     "short_description": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)",
     "latest_version": "3.3.4",
-    "last_updated": "2025-01-11T15:02:25.52Z",
+    "last_updated": "2025-01-11T15:01:34.96Z",
     "version_history": [
       {
         "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:02:25.52Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:02:11.817Z"
-      },
-      {
-        "version": "3.3.4",
         "lastUpdated": "2025-01-11T15:01:34.96Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:00:39.64Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:00:19.917Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:00:16.847Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:00:11.057Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T14:59:41.45Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T14:59:35.76Z"
-      },
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T14:59:10.647Z"
       },
       {
         "version": "3.3.3",
@@ -10863,87 +10775,87 @@
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
     "latest_version": "1.40.2025022008",
-    "last_updated": "2025-02-20T09:22:59.477Z",
+    "last_updated": "2025-02-20T09:18:55.187Z",
     "version_history": [
       {
         "version": "1.40.2025022008",
-        "lastUpdated": "2025-02-20T09:22:59.477Z"
-      },
-      {
-        "version": "1.40.2025022008",
-        "lastUpdated": "2025-02-20T09:20:53.9Z"
-      },
-      {
-        "version": "1.40.2025022008",
         "lastUpdated": "2025-02-20T09:18:55.187Z"
-      },
-      {
-        "version": "1.40.2025022008",
-        "lastUpdated": "2025-02-20T09:18:33.747Z"
-      },
-      {
-        "version": "1.40.2025022008",
-        "lastUpdated": "2025-02-20T09:17:54.763Z"
-      },
-      {
-        "version": "1.40.2025022008",
-        "lastUpdated": "2025-02-20T09:17:38.75Z"
-      },
-      {
-        "version": "1.40.2025021908",
-        "lastUpdated": "2025-02-19T08:36:38.507Z"
-      },
-      {
-        "version": "1.40.2025021908",
-        "lastUpdated": "2025-02-19T08:31:17.253Z"
       },
       {
         "version": "1.40.2025021908",
         "lastUpdated": "2025-02-19T08:31:10.643Z"
       },
       {
-        "version": "1.40.2025021908",
-        "lastUpdated": "2025-02-19T08:24:24.98Z"
-      },
-      {
-        "version": "1.40.2025021908",
-        "lastUpdated": "2025-02-19T08:22:41.6Z"
-      },
-      {
-        "version": "1.40.2025021908",
-        "lastUpdated": "2025-02-19T08:22:26.703Z"
-      },
-      {
-        "version": "1.40.2025021608",
-        "lastUpdated": "2025-02-16T08:29:10.027Z"
-      },
-      {
         "version": "1.40.2025021608",
         "lastUpdated": "2025-02-16T08:25:30.64Z"
-      },
-      {
-        "version": "1.40.2025021608",
-        "lastUpdated": "2025-02-16T08:24:40.083Z"
-      },
-      {
-        "version": "1.40.2025021608",
-        "lastUpdated": "2025-02-16T08:23:28.257Z"
-      },
-      {
-        "version": "1.40.2025021608",
-        "lastUpdated": "2025-02-16T08:22:00.8Z"
-      },
-      {
-        "version": "1.40.2025021608",
-        "lastUpdated": "2025-02-16T08:21:23.033Z"
       },
       {
         "version": "1.40.2025021508",
         "lastUpdated": "2025-02-15T08:28:25.27Z"
       },
       {
-        "version": "1.40.2025021508",
-        "lastUpdated": "2025-02-15T08:25:41.723Z"
+        "version": "1.40.2025021408",
+        "lastUpdated": "2025-02-14T08:25:27.197Z"
+      },
+      {
+        "version": "1.40.2025021308",
+        "lastUpdated": "2025-02-13T08:26:32.073Z"
+      },
+      {
+        "version": "1.40.2025021108",
+        "lastUpdated": "2025-02-11T08:30:34.167Z"
+      },
+      {
+        "version": "1.40.2025021008",
+        "lastUpdated": "2025-02-10T08:28:07.28Z"
+      },
+      {
+        "version": "1.40.2025020808",
+        "lastUpdated": "2025-02-08T08:23:42.703Z"
+      },
+      {
+        "version": "1.40.2025020508",
+        "lastUpdated": "2025-02-05T08:25:22.317Z"
+      },
+      {
+        "version": "1.40.2025020408",
+        "lastUpdated": "2025-02-04T08:31:36.29Z"
+      },
+      {
+        "version": "1.40.2025013108",
+        "lastUpdated": "2025-01-31T08:25:13.24Z"
+      },
+      {
+        "version": "1.40.2025013008",
+        "lastUpdated": "2025-01-30T08:25:11.41Z"
+      },
+      {
+        "version": "1.40.2025012908",
+        "lastUpdated": "2025-01-29T08:26:13.84Z"
+      },
+      {
+        "version": "1.40.2025012508",
+        "lastUpdated": "2025-01-25T08:35:11.153Z"
+      },
+      {
+        "version": "1.40.2025012308",
+        "lastUpdated": "2025-01-23T08:32:29.93Z"
+      },
+      {
+        "version": "1.39.2025011708",
+        "lastUpdated": "2025-01-17T08:37:24.737Z"
+      },
+      {
+        "version": "1.39.2025011008",
+        "lastUpdated": "2025-01-10T08:27:14.42Z"
+      },
+      {
+        "version": "1.39.2025010908",
+        "lastUpdated": "2025-01-09T08:26:19.7Z"
+      },
+      {
+        "version": "1.39.2025010808",
+        "lastUpdated": "2025-01-08T09:35:00.86Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
@@ -10995,48 +10907,48 @@
         "lastUpdated": "2023-01-09T08:21:44.34Z"
       },
       {
-        "version": "1.10.20220805",
-        "lastUpdated": "2022-08-05T12:35:39.273Z"
-      },
-      {
-        "version": "1.10.20220805",
-        "lastUpdated": "2022-08-05T12:35:14.173Z"
-      },
-      {
-        "version": "1.10.20220805",
-        "lastUpdated": "2022-08-05T12:31:49.153Z"
-      },
-      {
-        "version": "1.10.20220805",
-        "lastUpdated": "2022-08-05T12:30:03.907Z"
-      },
-      {
-        "version": "1.10.20220805",
-        "lastUpdated": "2022-08-05T12:30:00.853Z"
-      },
-      {
         "version": "1.10.1",
         "lastUpdated": "2022-08-29T13:38:40.917Z"
       },
       {
-        "version": "1.10.0",
-        "lastUpdated": "2022-08-29T12:52:14.087Z"
+        "version": "1.9.1",
+        "lastUpdated": "2022-07-13T11:33:06.057Z"
       },
       {
-        "version": "1.10.0",
-        "lastUpdated": "2022-08-29T12:52:11.487Z"
+        "version": "1.8.0",
+        "lastUpdated": "2022-06-09T11:02:05.263Z"
       },
       {
-        "version": "1.10.0",
-        "lastUpdated": "2022-08-29T12:52:07.463Z"
+        "version": "1.7.0",
+        "lastUpdated": "2022-04-26T07:21:55.877Z"
       },
       {
-        "version": "1.10.0",
-        "lastUpdated": "2022-08-29T12:52:03.907Z"
+        "version": "1.6.0",
+        "lastUpdated": "2022-03-29T08:54:59.143Z"
       },
       {
-        "version": "1.10.0",
-        "lastUpdated": "2022-08-29T12:52:02.86Z"
+        "version": "1.5.1",
+        "lastUpdated": "2022-03-08T11:08:23.133Z"
+      },
+      {
+        "version": "1.5.0",
+        "lastUpdated": "2022-03-07T09:54:42.417Z"
+      },
+      {
+        "version": "1.4.0",
+        "lastUpdated": "2022-02-04T07:16:49.24Z"
+      },
+      {
+        "version": "1.3.0",
+        "lastUpdated": "2022-01-14T13:51:28.12Z"
+      },
+      {
+        "version": "1.2.2",
+        "lastUpdated": "2021-11-30T14:57:15.33Z"
+      },
+      {
+        "version": "1.2.1",
+        "lastUpdated": "2021-11-23T16:12:57.13Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
@@ -11141,93 +11053,93 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2316",
-    "last_updated": "2025-02-24T00:42:40.717Z",
+    "latest_version": "0.4.2320",
+    "last_updated": "2025-02-25T00:40:51.79Z",
     "version_history": [
       {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:42:40.717Z"
+        "version": "0.4.2320",
+        "lastUpdated": "2025-02-25T00:40:51.79Z"
       },
       {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:41:56.36Z"
-      },
-      {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:41:53.36Z"
+        "version": "0.4.2318",
+        "lastUpdated": "2025-02-24T13:20:57.29Z"
       },
       {
         "version": "0.4.2316",
         "lastUpdated": "2025-02-24T00:41:30.637Z"
       },
       {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:41:28.42Z"
-      },
-      {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:41:27.203Z"
-      },
-      {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:41:22.957Z"
-      },
-      {
-        "version": "0.4.2316",
-        "lastUpdated": "2025-02-24T00:41:05.597Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:48:26.157Z"
-      },
-      {
         "version": "0.4.2315",
         "lastUpdated": "2025-02-23T00:44:57.863Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:44:26.49Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:44:14.78Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:43:36.79Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:43:32.323Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:43:25.09Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:43:07.013Z"
-      },
-      {
-        "version": "0.4.2314",
-        "lastUpdated": "2025-02-22T00:39:45.423Z"
       },
       {
         "version": "0.4.2314",
         "lastUpdated": "2025-02-22T00:39:21.62Z"
       },
       {
-        "version": "0.4.2314",
-        "lastUpdated": "2025-02-22T00:39:20.32Z"
+        "version": "0.4.2313",
+        "lastUpdated": "2025-02-21T00:41:44.99Z"
       },
       {
-        "version": "0.4.2314",
-        "lastUpdated": "2025-02-22T00:39:15.323Z"
+        "version": "0.4.2312",
+        "lastUpdated": "2025-02-20T00:42:46.227Z"
+      },
+      {
+        "version": "0.4.2311",
+        "lastUpdated": "2025-02-19T00:42:10.957Z"
+      },
+      {
+        "version": "0.4.2310",
+        "lastUpdated": "2025-02-18T11:50:03.32Z"
+      },
+      {
+        "version": "0.4.2309",
+        "lastUpdated": "2025-02-18T00:40:31.213Z"
+      },
+      {
+        "version": "0.4.2307",
+        "lastUpdated": "2025-02-17T06:33:22.583Z"
+      },
+      {
+        "version": "0.4.2306",
+        "lastUpdated": "2025-02-17T00:44:26.37Z"
+      },
+      {
+        "version": "0.4.2305",
+        "lastUpdated": "2025-02-16T00:45:03.753Z"
+      },
+      {
+        "version": "0.4.2304",
+        "lastUpdated": "2025-02-15T00:44:20.06Z"
+      },
+      {
+        "version": "0.4.2303",
+        "lastUpdated": "2025-02-14T00:40:53.38Z"
+      },
+      {
+        "version": "0.4.2302",
+        "lastUpdated": "2025-02-13T00:40:18.25Z"
+      },
+      {
+        "version": "0.4.2301",
+        "lastUpdated": "2025-02-12T00:40:46.37Z"
+      },
+      {
+        "version": "0.4.2300",
+        "lastUpdated": "2025-02-11T00:40:01.5Z"
+      },
+      {
+        "version": "0.4.2298",
+        "lastUpdated": "2025-02-10T00:39:53.94Z"
+      },
+      {
+        "version": "0.4.2297",
+        "lastUpdated": "2025-02-09T00:43:20.307Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2316/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2320/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11442,9 +11354,21 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.4.5",
-    "last_updated": "2025-02-20T07:48:25.03Z",
+    "latest_version": "3.4.8",
+    "last_updated": "2025-02-25T07:01:35.327Z",
     "version_history": [
+      {
+        "version": "3.4.8",
+        "lastUpdated": "2025-02-25T07:01:35.327Z"
+      },
+      {
+        "version": "3.4.7",
+        "lastUpdated": "2025-02-25T02:26:24.887Z"
+      },
+      {
+        "version": "3.4.6",
+        "lastUpdated": "2025-02-24T19:19:43.757Z"
+      },
       {
         "version": "3.4.5",
         "lastUpdated": "2025-02-20T07:48:25.03Z"
@@ -11512,23 +11436,11 @@
       {
         "version": "3.2.5",
         "lastUpdated": "2025-01-22T07:20:09.753Z"
-      },
-      {
-        "version": "3.2.4",
-        "lastUpdated": "2025-01-21T22:12:23.107Z"
-      },
-      {
-        "version": "3.2.3",
-        "lastUpdated": "2025-01-21T21:46:24.72Z"
-      },
-      {
-        "version": "3.2.2",
-        "lastUpdated": "2025-01-21T18:02:13.66Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -11891,9 +11803,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.38",
-    "last_updated": "2025-02-09T12:43:28.633Z",
+    "latest_version": "4.0.39",
+    "last_updated": "2025-02-25T10:02:02.823Z",
     "version_history": [
+      {
+        "version": "4.0.39",
+        "lastUpdated": "2025-02-25T10:02:02.823Z"
+      },
       {
         "version": "4.0.38",
         "lastUpdated": "2025-02-09T12:43:28.633Z"
@@ -11969,15 +11885,11 @@
       {
         "version": "4.0.19",
         "lastUpdated": "2024-11-19T08:12:54.303Z"
-      },
-      {
-        "version": "4.0.18",
-        "lastUpdated": "2024-11-18T08:13:04.087Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.38/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.39/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
@@ -11985,87 +11897,87 @@
     "display_name": "Lua",
     "short_description": "Lua Language Server coded by Lua",
     "latest_version": "3.13.6",
-    "last_updated": "2025-02-06T07:29:00.533Z",
+    "last_updated": "2025-02-06T07:28:38.793Z",
     "version_history": [
       {
         "version": "3.13.6",
-        "lastUpdated": "2025-02-06T07:29:00.533Z"
-      },
-      {
-        "version": "3.13.6",
         "lastUpdated": "2025-02-06T07:28:38.793Z"
-      },
-      {
-        "version": "3.13.6",
-        "lastUpdated": "2025-02-06T07:25:09.423Z"
-      },
-      {
-        "version": "3.13.6",
-        "lastUpdated": "2025-02-06T07:24:37.793Z"
-      },
-      {
-        "version": "3.13.6",
-        "lastUpdated": "2025-02-06T07:23:59.78Z"
       },
       {
         "version": "3.13.5",
         "lastUpdated": "2024-12-20T03:32:38.087Z"
       },
       {
-        "version": "3.13.5",
-        "lastUpdated": "2024-12-20T03:30:01.327Z"
-      },
-      {
-        "version": "3.13.5",
-        "lastUpdated": "2024-12-20T03:29:32.717Z"
-      },
-      {
-        "version": "3.13.5",
-        "lastUpdated": "2024-12-20T03:28:18.827Z"
-      },
-      {
-        "version": "3.13.5",
-        "lastUpdated": "2024-12-20T03:27:58.807Z"
-      },
-      {
         "version": "3.13.4",
         "lastUpdated": "2024-12-13T11:58:49.823Z"
-      },
-      {
-        "version": "3.13.4",
-        "lastUpdated": "2024-12-13T11:56:42.507Z"
-      },
-      {
-        "version": "3.13.4",
-        "lastUpdated": "2024-12-13T11:56:31.72Z"
-      },
-      {
-        "version": "3.13.4",
-        "lastUpdated": "2024-12-13T11:53:04.607Z"
-      },
-      {
-        "version": "3.13.4",
-        "lastUpdated": "2024-12-13T11:52:22.52Z"
       },
       {
         "version": "3.13.3",
         "lastUpdated": "2024-12-06T11:09:44.783Z"
       },
       {
-        "version": "3.13.3",
-        "lastUpdated": "2024-12-06T11:08:09.033Z"
+        "version": "3.13.2",
+        "lastUpdated": "2024-11-21T10:13:29.837Z"
       },
       {
-        "version": "3.13.3",
-        "lastUpdated": "2024-12-06T11:08:05.01Z"
+        "version": "3.13.1",
+        "lastUpdated": "2024-11-13T07:39:29.45Z"
       },
       {
-        "version": "3.13.3",
-        "lastUpdated": "2024-12-06T11:06:20.533Z"
+        "version": "3.13.0",
+        "lastUpdated": "2024-11-13T07:00:49.083Z"
       },
       {
-        "version": "3.13.3",
-        "lastUpdated": "2024-12-06T11:05:42.447Z"
+        "version": "3.12.0",
+        "lastUpdated": "2024-10-30T09:03:21.98Z"
+      },
+      {
+        "version": "3.11.1",
+        "lastUpdated": "2024-10-09T06:40:44.043Z"
+      },
+      {
+        "version": "3.11.0",
+        "lastUpdated": "2024-09-30T09:56:36.853Z"
+      },
+      {
+        "version": "3.10.6",
+        "lastUpdated": "2024-09-10T07:55:38.11Z"
+      },
+      {
+        "version": "3.10.5",
+        "lastUpdated": "2024-08-19T10:12:34.2Z"
+      },
+      {
+        "version": "3.10.4",
+        "lastUpdated": "2024-08-16T12:09:07.143Z"
+      },
+      {
+        "version": "3.10.3",
+        "lastUpdated": "2024-08-08T10:25:48.43Z"
+      },
+      {
+        "version": "3.10.2",
+        "lastUpdated": "2024-08-07T05:37:45.76Z"
+      },
+      {
+        "version": "3.10.1",
+        "lastUpdated": "2024-08-02T09:15:17.127Z"
+      },
+      {
+        "version": "3.10.0",
+        "lastUpdated": "2024-08-01T11:17:15.68Z"
+      },
+      {
+        "version": "3.9.3",
+        "lastUpdated": "2024-06-11T14:09:04.063Z"
+      },
+      {
+        "version": "3.9.2",
+        "lastUpdated": "2024-06-06T03:52:05.643Z"
+      },
+      {
+        "version": "3.9.1",
+        "lastUpdated": "2024-05-14T10:53:40.513Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters"],
@@ -12447,87 +12359,87 @@
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
     "latest_version": "0.37.7",
-    "last_updated": "2025-02-10T16:58:37.01Z",
+    "last_updated": "2025-02-10T16:58:09.587Z",
     "version_history": [
       {
         "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:58:37.01Z"
-      },
-      {
-        "version": "0.37.7",
         "lastUpdated": "2025-02-10T16:58:09.587Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:58:02.46Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:57:39.203Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:57:35.67Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:57:32.493Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:57:20.34Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:56:53.953Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:56:47.24Z"
-      },
-      {
-        "version": "0.37.7",
-        "lastUpdated": "2025-02-10T16:56:39.623Z"
-      },
-      {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:14:32.753Z"
-      },
-      {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:14:30.96Z"
-      },
-      {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:14:26.977Z"
-      },
-      {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:14:22.767Z"
       },
       {
         "version": "0.37.6",
         "lastUpdated": "2025-01-12T19:14:16.93Z"
       },
       {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:14:08.737Z"
+        "version": "0.37.5",
+        "lastUpdated": "2025-01-12T18:53:27.22Z"
       },
       {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:14:00.597Z"
+        "version": "0.37.4",
+        "lastUpdated": "2025-01-01T23:09:20.397Z"
       },
       {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:13:54.767Z"
+        "version": "0.37.3",
+        "lastUpdated": "2024-12-30T20:13:21.213Z"
       },
       {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:13:54.767Z"
+        "version": "0.37.2",
+        "lastUpdated": "2024-12-30T15:46:08.123Z"
       },
       {
-        "version": "0.37.6",
-        "lastUpdated": "2025-01-12T19:13:38.28Z"
+        "version": "0.37.1",
+        "lastUpdated": "2024-04-11T14:19:41.607Z"
+      },
+      {
+        "version": "0.37.0",
+        "lastUpdated": "2024-03-08T13:23:55.073Z"
+      },
+      {
+        "version": "0.36.0",
+        "lastUpdated": "2024-03-08T04:32:44.213Z"
+      },
+      {
+        "version": "0.35.0",
+        "lastUpdated": "2023-11-28T02:15:13.167Z"
+      },
+      {
+        "version": "0.34.0",
+        "lastUpdated": "2023-08-27T15:28:56.523Z"
+      },
+      {
+        "version": "0.33.1",
+        "lastUpdated": "2023-08-08T04:32:41.837Z"
+      },
+      {
+        "version": "0.33.0",
+        "lastUpdated": "2023-07-17T18:45:41.193Z"
+      },
+      {
+        "version": "0.32.6",
+        "lastUpdated": "2023-06-06T21:14:11.037Z"
+      },
+      {
+        "version": "0.32.5",
+        "lastUpdated": "2023-04-25T02:42:36.747Z"
+      },
+      {
+        "version": "0.32.4",
+        "lastUpdated": "2023-04-18T02:21:03.653Z"
+      },
+      {
+        "version": "0.32.3",
+        "lastUpdated": "2023-04-18T01:51:59.197Z"
+      },
+      {
+        "version": "0.32.2",
+        "lastUpdated": "2023-04-17T22:57:52.877Z"
+      },
+      {
+        "version": "0.32.1",
+        "lastUpdated": "2023-04-15T20:01:54.43Z"
+      },
+      {
+        "version": "0.32.0",
+        "lastUpdated": "2023-04-14T01:07:05.333Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
@@ -13248,9 +13160,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025022000",
-    "last_updated": "2025-02-20T01:06:18.46Z",
+    "latest_version": "1.61.2025022502",
+    "last_updated": "2025-02-25T02:58:34.037Z",
     "version_history": [
+      {
+        "version": "1.61.2025022502",
+        "lastUpdated": "2025-02-25T02:58:34.037Z"
+      },
       {
         "version": "1.61.2025022000",
         "lastUpdated": "2025-02-20T01:06:18.46Z"
@@ -13326,10 +13242,6 @@
       {
         "version": "1.60.2025010400",
         "lastUpdated": "2025-01-04T01:05:22.78Z"
-      },
-      {
-        "version": "1.60.2025010200",
-        "lastUpdated": "2025-01-02T01:18:48.593Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13348,7 +13260,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025022000/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025022502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -14835,9 +14747,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.392",
-    "last_updated": "2025-02-20T03:51:13.25Z",
+    "latest_version": "1.0.393",
+    "last_updated": "2025-02-25T02:59:49.04Z",
     "version_history": [
+      {
+        "version": "1.0.393",
+        "lastUpdated": "2025-02-25T02:59:49.04Z"
+      },
       {
         "version": "1.0.392",
         "lastUpdated": "2025-02-20T03:51:13.25Z"
@@ -14913,15 +14829,11 @@
       {
         "version": "1.0.374",
         "lastUpdated": "2024-12-15T22:22:08.613Z"
-      },
-      {
-        "version": "1.0.373",
-        "lastUpdated": "2024-12-05T04:24:17.41Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["javascript", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.392/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.393/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
@@ -15024,87 +14936,87 @@
     "display_name": "Cloudmusic",
     "short_description": "Netease Music for VS Code",
     "latest_version": "9.22.0",
-    "last_updated": "2024-06-04T15:37:45.267Z",
+    "last_updated": "2024-06-04T15:37:27.85Z",
     "version_history": [
       {
         "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:37:45.267Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:37:35.483Z"
-      },
-      {
-        "version": "9.22.0",
         "lastUpdated": "2024-06-04T15:37:27.85Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:37:23.3Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:37:18.953Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:37:16.833Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:36:59.787Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:36:43.347Z"
-      },
-      {
-        "version": "9.22.0",
-        "lastUpdated": "2024-06-04T15:36:30.74Z"
       },
       {
         "version": "9.21.3",
         "lastUpdated": "2024-05-28T18:42:50.603Z"
       },
       {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:42:37.503Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:34.13Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:31.983Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:26.517Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:21.603Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:15.877Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:10.833Z"
-      },
-      {
-        "version": "9.21.3",
-        "lastUpdated": "2024-05-28T18:41:04.183Z"
-      },
-      {
-        "version": "9.21.2",
-        "lastUpdated": "2024-05-28T16:35:29.473Z"
-      },
-      {
         "version": "9.21.2",
         "lastUpdated": "2024-05-28T16:35:02.403Z"
+      },
+      {
+        "version": "9.21.1",
+        "lastUpdated": "2024-05-28T16:18:19.347Z"
+      },
+      {
+        "version": "9.20.2",
+        "lastUpdated": "2024-04-14T05:32:31.46Z"
+      },
+      {
+        "version": "9.20.1",
+        "lastUpdated": "2024-04-14T05:24:39.237Z"
+      },
+      {
+        "version": "9.20.0",
+        "lastUpdated": "2024-04-14T04:56:35.497Z"
+      },
+      {
+        "version": "9.19.2",
+        "lastUpdated": "2023-08-26T03:29:42.007Z"
+      },
+      {
+        "version": "9.19.1",
+        "lastUpdated": "2023-04-03T13:37:50.823Z"
+      },
+      {
+        "version": "9.19.0",
+        "lastUpdated": "2023-03-04T03:24:54.69Z"
+      },
+      {
+        "version": "9.18.0",
+        "lastUpdated": "2023-01-19T05:03:55.44Z"
+      },
+      {
+        "version": "9.17.1",
+        "lastUpdated": "2022-12-11T04:49:30.91Z"
+      },
+      {
+        "version": "9.17.0",
+        "lastUpdated": "2022-09-24T08:05:05.29Z"
+      },
+      {
+        "version": "9.16.9",
+        "lastUpdated": "2022-09-19T14:10:57.543Z"
+      },
+      {
+        "version": "9.16.8",
+        "lastUpdated": "2022-09-13T15:06:30.717Z"
+      },
+      {
+        "version": "9.16.7",
+        "lastUpdated": "2022-09-12T09:57:30.787Z"
+      },
+      {
+        "version": "9.16.6",
+        "lastUpdated": "2022-09-08T15:28:40.893Z"
+      },
+      {
+        "version": "9.16.5",
+        "lastUpdated": "2022-09-07T18:02:42.17Z"
+      },
+      {
+        "version": "9.16.4",
+        "lastUpdated": "2022-09-07T07:25:25.89Z"
+      },
+      {
+        "version": "9.16.3",
+        "lastUpdated": "2022-09-07T01:23:06.493Z"
       }
     ],
     "categories": ["Other"],

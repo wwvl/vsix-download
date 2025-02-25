@@ -3,67 +3,11 @@
   "display_name": "C#",
   "short_description": "Base language support for C#",
   "latest_version": "2.65.29",
-  "last_updated": "2025-02-12T19:00:36.34Z",
+  "last_updated": "2025-02-12T18:58:52.237Z",
   "version_history": [
     {
       "version": "2.65.29",
-      "lastUpdated": "2025-02-12T19:00:36.34Z"
-    },
-    {
-      "version": "2.65.29",
-      "lastUpdated": "2025-02-12T19:00:24.087Z"
-    },
-    {
-      "version": "2.65.29",
-      "lastUpdated": "2025-02-12T19:00:19.39Z"
-    },
-    {
-      "version": "2.65.29",
-      "lastUpdated": "2025-02-12T19:00:02.297Z"
-    },
-    {
-      "version": "2.65.29",
-      "lastUpdated": "2025-02-12T18:59:44.567Z"
-    },
-    {
-      "version": "2.65.29",
-      "lastUpdated": "2025-02-12T18:59:23.593Z"
-    },
-    {
-      "version": "2.65.29",
       "lastUpdated": "2025-02-12T18:58:52.237Z"
-    },
-    {
-      "version": "2.65.29",
-      "lastUpdated": "2025-02-12T18:58:24.043Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:22:04.757Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:20:00.967Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:19:51.75Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:18:40.35Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:18:12.65Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:17:55.44Z"
-    },
-    {
-      "version": "2.64.7",
-      "lastUpdated": "2025-02-05T19:17:47.35Z"
     },
     {
       "version": "2.64.7",
@@ -71,19 +15,75 @@
     },
     {
       "version": "2.63.32",
-      "lastUpdated": "2025-02-05T20:04:51.393Z"
+      "lastUpdated": "2025-02-05T20:02:15.867Z"
     },
     {
-      "version": "2.63.32",
-      "lastUpdated": "2025-02-05T20:04:20.037Z"
+      "version": "2.63.31",
+      "lastUpdated": "2025-01-29T00:38:05.677Z"
     },
     {
-      "version": "2.63.32",
-      "lastUpdated": "2025-02-05T20:03:50.42Z"
+      "version": "2.62.18",
+      "lastUpdated": "2025-01-14T19:00:26.227Z"
     },
     {
-      "version": "2.63.32",
-      "lastUpdated": "2025-02-05T20:03:48.203Z"
+      "version": "2.61.28",
+      "lastUpdated": "2025-01-13T23:13:19.543Z"
+    },
+    {
+      "version": "2.61.27",
+      "lastUpdated": "2025-01-08T00:51:09.487Z"
+    },
+    {
+      "version": "2.60.26",
+      "lastUpdated": "2024-12-11T21:54:16.187Z"
+    },
+    {
+      "version": "2.59.14",
+      "lastUpdated": "2024-12-03T21:14:08.51Z"
+    },
+    {
+      "version": "2.58.20",
+      "lastUpdated": "2024-11-26T22:42:47.23Z"
+    },
+    {
+      "version": "2.57.28",
+      "lastUpdated": "2024-11-19T19:12:10.163Z"
+    },
+    {
+      "version": "2.56.31",
+      "lastUpdated": "2024-11-13T22:23:17.8Z"
+    },
+    {
+      "version": "2.56.29",
+      "lastUpdated": "2024-11-12T20:40:13.91Z"
+    },
+    {
+      "version": "2.55.29",
+      "lastUpdated": "2024-11-13T22:01:35.027Z"
+    },
+    {
+      "version": "2.55.28",
+      "lastUpdated": "2024-11-12T22:51:07.86Z"
+    },
+    {
+      "version": "2.55.21",
+      "lastUpdated": "2024-11-07T18:36:42.863Z"
+    },
+    {
+      "version": "2.54.20",
+      "lastUpdated": "2024-10-29T23:34:34.587Z"
+    },
+    {
+      "version": "2.53.17",
+      "lastUpdated": "2024-10-23T17:51:43.757Z"
+    },
+    {
+      "version": "2.52.24",
+      "lastUpdated": "2024-10-16T17:14:19.383Z"
+    },
+    {
+      "version": "2.51.17",
+      "lastUpdated": "2024-10-08T19:52:26.123Z"
     }
   ],
   "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],

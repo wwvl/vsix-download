@@ -3,87 +3,87 @@
   "display_name": "ShellCheck",
   "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
   "latest_version": "0.37.7",
-  "last_updated": "2025-02-10T16:58:37.01Z",
+  "last_updated": "2025-02-10T16:58:09.587Z",
   "version_history": [
     {
       "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:58:37.01Z"
-    },
-    {
-      "version": "0.37.7",
       "lastUpdated": "2025-02-10T16:58:09.587Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:58:02.46Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:57:39.203Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:57:35.67Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:57:32.493Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:57:20.34Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:56:53.953Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:56:47.24Z"
-    },
-    {
-      "version": "0.37.7",
-      "lastUpdated": "2025-02-10T16:56:39.623Z"
-    },
-    {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:14:32.753Z"
-    },
-    {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:14:30.96Z"
-    },
-    {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:14:26.977Z"
-    },
-    {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:14:22.767Z"
     },
     {
       "version": "0.37.6",
       "lastUpdated": "2025-01-12T19:14:16.93Z"
     },
     {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:14:08.737Z"
+      "version": "0.37.5",
+      "lastUpdated": "2025-01-12T18:53:27.22Z"
     },
     {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:14:00.597Z"
+      "version": "0.37.4",
+      "lastUpdated": "2025-01-01T23:09:20.397Z"
     },
     {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:13:54.767Z"
+      "version": "0.37.3",
+      "lastUpdated": "2024-12-30T20:13:21.213Z"
     },
     {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:13:54.767Z"
+      "version": "0.37.2",
+      "lastUpdated": "2024-12-30T15:46:08.123Z"
     },
     {
-      "version": "0.37.6",
-      "lastUpdated": "2025-01-12T19:13:38.28Z"
+      "version": "0.37.1",
+      "lastUpdated": "2024-04-11T14:19:41.607Z"
+    },
+    {
+      "version": "0.37.0",
+      "lastUpdated": "2024-03-08T13:23:55.073Z"
+    },
+    {
+      "version": "0.36.0",
+      "lastUpdated": "2024-03-08T04:32:44.213Z"
+    },
+    {
+      "version": "0.35.0",
+      "lastUpdated": "2023-11-28T02:15:13.167Z"
+    },
+    {
+      "version": "0.34.0",
+      "lastUpdated": "2023-08-27T15:28:56.523Z"
+    },
+    {
+      "version": "0.33.1",
+      "lastUpdated": "2023-08-08T04:32:41.837Z"
+    },
+    {
+      "version": "0.33.0",
+      "lastUpdated": "2023-07-17T18:45:41.193Z"
+    },
+    {
+      "version": "0.32.6",
+      "lastUpdated": "2023-06-06T21:14:11.037Z"
+    },
+    {
+      "version": "0.32.5",
+      "lastUpdated": "2023-04-25T02:42:36.747Z"
+    },
+    {
+      "version": "0.32.4",
+      "lastUpdated": "2023-04-18T02:21:03.653Z"
+    },
+    {
+      "version": "0.32.3",
+      "lastUpdated": "2023-04-18T01:51:59.197Z"
+    },
+    {
+      "version": "0.32.2",
+      "lastUpdated": "2023-04-17T22:57:52.877Z"
+    },
+    {
+      "version": "0.32.1",
+      "lastUpdated": "2023-04-15T20:01:54.43Z"
+    },
+    {
+      "version": "0.32.0",
+      "lastUpdated": "2023-04-14T01:07:05.333Z"
     }
   ],
   "categories": ["Programming Languages", "Linters"],

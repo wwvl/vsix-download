@@ -2,9 +2,13 @@
   "extension_name": "ms-vscode.vscode-typescript-next",
   "display_name": "JavaScript and TypeScript Nightly",
   "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-  "latest_version": "5.9.20250222",
-  "last_updated": "2025-02-23T00:21:43.267Z",
+  "latest_version": "5.9.20250224",
+  "last_updated": "2025-02-25T00:16:08.547Z",
   "version_history": [
+    {
+      "version": "5.9.20250224",
+      "lastUpdated": "2025-02-25T00:16:08.547Z"
+    },
     {
       "version": "5.9.20250222",
       "lastUpdated": "2025-02-23T00:21:43.267Z"
@@ -80,14 +84,10 @@
     {
       "version": "5.8.20250204",
       "lastUpdated": "2025-02-05T00:16:51.147Z"
-    },
-    {
-      "version": "5.8.20250203",
-      "lastUpdated": "2025-02-04T00:15:23.92Z"
     }
   ],
   "categories": ["Other"],
   "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250222/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250224/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
 }

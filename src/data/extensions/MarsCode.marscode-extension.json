@@ -2,9 +2,13 @@
   "extension_name": "MarsCode.marscode-extension",
   "display_name": "MarsCode AI: Coding Assistant",
   "short_description": "Code and Innovate Faster with AI",
-  "latest_version": "1.1.64",
-  "last_updated": "2025-02-24T10:22:36Z",
+  "latest_version": "1.1.65",
+  "last_updated": "2025-02-25T08:35:00.113Z",
   "version_history": [
+    {
+      "version": "1.1.65",
+      "lastUpdated": "2025-02-25T08:35:00.113Z"
+    },
     {
       "version": "1.1.64",
       "lastUpdated": "2025-02-24T10:22:36Z"
@@ -80,10 +84,6 @@
     {
       "version": "1.1.42",
       "lastUpdated": "2024-12-19T11:17:32.537Z"
-    },
-    {
-      "version": "1.1.41",
-      "lastUpdated": "2024-12-18T15:25:30.977Z"
     }
   ],
   "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -116,6 +116,6 @@
     "typescript",
     "豆包"
   ],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.64/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.65/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
 }

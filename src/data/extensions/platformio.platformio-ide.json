@@ -3,47 +3,11 @@
   "display_name": "PlatformIO IDE",
   "short_description": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)",
   "latest_version": "3.3.4",
-  "last_updated": "2025-01-11T15:02:25.52Z",
+  "last_updated": "2025-01-11T15:01:34.96Z",
   "version_history": [
     {
       "version": "3.3.4",
-      "lastUpdated": "2025-01-11T15:02:25.52Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T15:02:11.817Z"
-    },
-    {
-      "version": "3.3.4",
       "lastUpdated": "2025-01-11T15:01:34.96Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T15:00:39.64Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T15:00:19.917Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T15:00:16.847Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T15:00:11.057Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T14:59:41.45Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T14:59:35.76Z"
-    },
-    {
-      "version": "3.3.4",
-      "lastUpdated": "2025-01-11T14:59:10.647Z"
     },
     {
       "version": "3.3.3",

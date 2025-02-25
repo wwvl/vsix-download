@@ -2,9 +2,13 @@
   "extension_name": "GitHub.vscode-pull-request-github",
   "display_name": "GitHub Pull Requests",
   "short_description": "Pull Request and Issue Provider for GitHub",
-  "latest_version": "0.105.2025022404",
-  "last_updated": "2025-02-24T04:23:58.303Z",
+  "latest_version": "0.105.2025022504",
+  "last_updated": "2025-02-25T04:21:10.177Z",
   "version_history": [
+    {
+      "version": "0.105.2025022504",
+      "lastUpdated": "2025-02-25T04:21:10.177Z"
+    },
     {
       "version": "0.105.2025022404",
       "lastUpdated": "2025-02-24T04:23:58.303Z"
@@ -80,14 +84,10 @@
     {
       "version": "0.103.2025012704",
       "lastUpdated": "2025-01-27T04:19:58.373Z"
-    },
-    {
-      "version": "0.103.2025012304",
-      "lastUpdated": "2025-01-23T04:20:32.35Z"
     }
   ],
   "categories": ["AI", "Chat"],
   "tags": ["chat-participant", "github-copilot", "keybindings"],
-  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022404/vspackage",
+  "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022504/vspackage",
   "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
 }
