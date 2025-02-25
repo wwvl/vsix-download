@@ -257,36 +257,6 @@
     return Object.fromEntries(columns.filter((col) => (col as any).accessorKey).map((col) => [(col as any).accessorKey, labels[(col as any).accessorKey] || upperFirst((col as any).accessorKey)]))
   })
 
-  // 添加 UI 配置
-  const ui = {
-    container: 'container mx-auto px-4 py-8 md:py-6 sm:py-4 transition-all duration-300 min-h-screen',
-    loadingWrapper: 'space-y-4 text-center',
-    errorAlert: 'transform text-center transition-transform duration-300 hover:scale-[1.02]',
-    statsAlert: 'transform shadow-sm transition-all duration-300 hover:scale-[1.01] mx-2 sm:mx-0',
-    tableWrapper: 'flex w-full flex-1 flex-col rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden overflow-x-auto',
-    tableHeader: 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 items-center gap-4 border-b border-(--ui-border-accented) px-4 py-3.5',
-    headerLeft: 'flex items-center justify-center md:justify-start gap-2 md:gap-4 w-full',
-    headerCenter: 'flex items-center justify-center mt-4 md:mt-0',
-    headerRight: 'flex items-center justify-center md:justify-end mt-4 md:mt-0',
-    copyButton: 'transform transition-all duration-300 hover:scale-[1.02] text-sm md:text-base whitespace-nowrap',
-    searchInput: 'flex-1 min-w-0',
-    columnButton: 'transform shadow-sm transition-all duration-300 hover:scale-[1.02] text-sm md:text-base w-full md:w-auto',
-    extensionId:
-      'hover:text-primary-500 flex max-w-full md:max-w-[266px] cursor-pointer items-center gap-1 md:gap-2 leading-relaxed break-words whitespace-normal transition-colors duration-300 text-sm md:text-base',
-    extensionName: 'hover:text-primary-500 !p-0 leading-relaxed break-words whitespace-normal transition-colors duration-300 text-sm md:text-base',
-    badgeWrapper: 'flex flex-wrap gap-1 md:gap-1.5',
-    badge: 'transform transition-all duration-300 hover:scale-105 text-xs md:text-sm',
-    dateText: 'text-xs md:text-sm text-gray-600 dark:text-gray-300',
-    actionButton: 'transform transition-all duration-300 hover:scale-110',
-    tableFooter: 'flex flex-col md:flex-row items-center justify-between gap-2 md:gap-4 border-t border-(--ui-border-accented) px-4 py-3.5 text-xs md:text-sm',
-    table: {
-      base: 'min-w-full overflow-x-auto',
-      tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
-      td: 'whitespace-normal break-words text-sm md:text-base p-2 md:p-4',
-      th: 'whitespace-normal break-words text-sm md:text-base p-2 md:p-4',
-    },
-  }
-
   // 跳转到扩展详情页
   function navigateToExtension(extensionName: string): void {
     router.push(`/extension/${extensionName}`)
@@ -302,17 +272,23 @@
 </script>
 
 <template>
-  <div :class="ui.container">
-    <div v-if="store.loading" :class="ui.loadingWrapper">
+  <div class="container mx-auto min-h-screen px-4 py-8 transition-all duration-300 sm:py-4 md:py-6">
+    <div v-if="store.loading" class="space-y-4 text-center">
       <USkeleton class="mx-auto h-6 w-full max-w-sm rounded-[calc(var(--ui-radius)*1.5)] md:h-8" />
       <USkeleton class="h-24 w-full rounded-[calc(var(--ui-radius)*1.5)] md:h-32" />
       <USkeleton class="h-24 w-full rounded-[calc(var(--ui-radius)*1.5)] md:h-32" />
     </div>
-    <div v-else-if="store.error" :class="ui.errorAlert">
+    <div v-else-if="store.error" class="transform text-center transition-transform duration-300 hover:scale-[1.02]">
       <UAlert :title="store.error.message" color="error" variant="soft" icon="i-carbon-warning-alt" class="shadow-lg" />
     </div>
     <div v-else class="space-y-4 md:space-y-6">
-      <UAlert :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`" color="primary" variant="subtle" icon="i-carbon-data-vis-1" :class="ui.statsAlert" />
+      <UAlert
+        :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`"
+        color="primary"
+        variant="subtle"
+        icon="i-carbon-data-vis-1"
+        class="mx-2 transform shadow-sm transition-all duration-300 hover:scale-[1.01] sm:mx-0"
+      />
 
       <div class="mx-auto w-full max-w-4xl px-4">
         <UInput
@@ -333,26 +309,26 @@
         </UInput>
       </div>
 
-      <div :class="ui.tableWrapper">
-        <div :class="ui.tableHeader">
-          <div :class="ui.headerLeft">
+      <div class="flex w-full flex-1 flex-col overflow-x-auto rounded-[calc(var(--ui-radius)*1.5)] border border-(--ui-border) focus:outline-hidden">
+        <div class="grid grid-cols-1 items-center gap-4 border-b border-(--ui-border-accented) px-4 py-3.5 md:grid-cols-2 lg:grid-cols-3">
+          <div class="flex w-full items-center justify-center gap-2 md:justify-start md:gap-4">
             <UButton
               :disabled="table?.tableApi?.getFilteredSelectedRowModel().rows.length === 0"
               color="neutral"
               variant="outline"
               icon="i-carbon-copy"
-              :class="ui.copyButton"
+              class="transform text-sm whitespace-nowrap transition-all duration-300 hover:scale-[1.02] md:text-base"
               @click="copySelectedCommands"
             >
               复制 ID
             </UButton>
           </div>
 
-          <div :class="ui.headerCenter">
+          <div class="mt-4 flex items-center justify-center md:mt-0">
             <UPagination v-model:page="currentPage" :items-per-page="table?.tableApi?.getState().pagination.pageSize" :total="table?.tableApi?.getFilteredRowModel().rows.length" />
           </div>
 
-          <div :class="ui.headerRight">
+          <div class="mt-4 flex items-center justify-center md:mt-0 md:justify-end">
             <UDropdownMenu
               :items="
                 table?.tableApi
@@ -372,7 +348,13 @@
               "
               :content="{ align: 'end' }"
             >
-              <UButton label="显示列" color="neutral" variant="outline" trailing-icon="i-carbon-chevron-down" :class="ui.columnButton" />
+              <UButton
+                label="显示列"
+                color="neutral"
+                variant="outline"
+                trailing-icon="i-carbon-chevron-down"
+                class="w-full transform text-sm shadow-sm transition-all duration-300 hover:scale-[1.02] md:w-auto md:text-base"
+              />
             </UDropdownMenu>
           </div>
         </div>
@@ -392,7 +374,12 @@
           :pagination-options="{
             getPaginationRowModel: getPaginationRowModel(),
           }"
-          :ui="ui.table"
+          :ui="{
+            base: 'min-w-full overflow-x-auto',
+            tr: 'transition-colors hover:bg-gray-50 dark:hover:bg-gray-800/50 data-[expanded=true]:bg-gray-100/50 dark:data-[expanded=true]:bg-gray-800/50',
+            td: 'whitespace-normal break-words text-sm md:text-base p-2 md:p-4',
+            th: 'whitespace-normal break-words text-sm md:text-base p-2 md:p-4',
+          }"
           class="w-full"
         >
           <template #expanded="{ row }">
@@ -400,32 +387,65 @@
           </template>
 
           <template #extension_name-cell="{ row }">
-            <div class="group" :class="[ui.extensionId]" role="link" @click="navigateToExtension(row.original.extension_name)">
+            <div
+              class="group hover:text-primary-500 flex max-w-full cursor-pointer items-center gap-1 text-sm leading-relaxed break-words whitespace-normal transition-colors duration-300 md:max-w-[266px] md:gap-2 md:text-base"
+              role="link"
+              @click="navigateToExtension(row.original.extension_name)"
+            >
               <span class="group-hover:underline">{{ row.original.extension_name }}</span>
-              <UButton icon="i-carbon-copy" color="primary" variant="ghost" size="xs" :class="ui.actionButton" @click.stop="copyExtensionIds([row.original.extension_name])" />
+              <UButton
+                icon="i-carbon-copy"
+                color="primary"
+                variant="ghost"
+                size="xs"
+                class="transform transition-all duration-300 hover:scale-110"
+                @click.stop="copyExtensionIds([row.original.extension_name])"
+              />
             </div>
           </template>
 
           <template #display_name-cell="{ row }">
-            <UButton :href="row.original.marketplace_url" target="_blank" color="neutral" variant="link" :class="ui.extensionName">
+            <UButton
+              :href="row.original.marketplace_url"
+              target="_blank"
+              color="neutral"
+              variant="link"
+              class="hover:text-primary-500 !p-0 text-sm leading-relaxed break-words whitespace-normal transition-colors duration-300 md:text-base"
+            >
               {{ row.original.display_name }}
             </UButton>
           </template>
 
           <template #categories-cell="{ row }">
-            <div :class="ui.badgeWrapper">
-              <UBadge v-for="category in row.original.categories" :key="category" :label="category" color="secondary" variant="subtle" size="sm" :class="ui.badge" />
+            <div class="flex flex-wrap gap-1 md:gap-1.5">
+              <UBadge
+                v-for="category in row.original.categories"
+                :key="category"
+                :label="category"
+                color="secondary"
+                variant="subtle"
+                size="sm"
+                class="transform text-xs transition-all duration-300 hover:scale-105 md:text-sm"
+              />
             </div>
           </template>
 
           <template #tags-cell="{ row }">
-            <div :class="ui.badgeWrapper">
-              <UBadge v-for="tag in row.original.tags" :key="tag" :label="tag" color="secondary" variant="subtle" size="xs" :class="ui.badge" />
+            <div class="flex flex-wrap gap-1 md:gap-1.5">
+              <UBadge
+                v-for="tag in row.original.tags"
+                :key="tag"
+                :label="tag"
+                color="secondary"
+                variant="subtle"
+                size="xs"
+                class="transform text-xs transition-all duration-300 hover:scale-105 md:text-sm"
+              />
             </div>
           </template>
 
           <template #last_updated-cell="{ row }">
-            <span :class="ui.dateText">
+            <span class="text-xs text-gray-600 md:text-sm dark:text-gray-300">
               {{ new Date(row.original.last_updated).toLocaleString() }}
             </span>
           </template>
@@ -435,7 +455,7 @@
           </template>
         </UTable>
 
-        <div :class="ui.tableFooter">
+        <div class="flex flex-col items-center justify-between gap-2 border-t border-(--ui-border-accented) px-4 py-3.5 text-xs md:flex-row md:gap-4 md:text-sm">
           <div>已选择 {{ table?.tableApi?.getFilteredSelectedRowModel().rows.length || 0 }} / {{ table?.tableApi?.getFilteredRowModel().rows.length || 0 }} 行</div>
           <div class="flex items-center gap-4">
             <USelect
