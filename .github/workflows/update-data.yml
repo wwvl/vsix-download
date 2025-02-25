@@ -1,0 +1,46 @@
+name: Update Extension Data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 每 6 小时执行一次
+  workflow_dispatch: # 允许手动触发  repository_dispatch:
+    types: [update_data]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Create env file
+        run: |
+          echo "VITE_SUPABASE_URL=${{ secrets.VITE_SUPABASE_URL }}" > .env
+          echo "VITE_SUPABASE_KEY=${{ secrets.VITE_SUPABASE_KEY }}" >> .env
+
+      - name: Run update script
+        run: |
+          cd scripts
+          uv run extension_manager.py extensions.txt
+          cd ..
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update extension data" && git push)
