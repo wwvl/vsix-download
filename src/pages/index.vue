@@ -315,6 +315,23 @@ onMounted(async () => {
     <div v-else class="space-y-4 md:space-y-6">
       <UAlert :title="`当前共有 ${extensionsCount} 个 VSCode 扩展`" color="primary" variant="subtle" icon="i-carbon-data-vis-1" :class="ui.statsAlert" />
 
+      <div class="w-full max-w-4xl mx-auto px-4">
+        <UInput
+          v-model="globalFilter"
+          name="queryInput"
+          placeholder="搜索扩展..."
+          icon="i-carbon-search"
+          size="xl"
+          color="primary"
+          variant="outline"
+          class="w-full shadow-sm hover:shadow transition-shadow duration-200"
+        >
+          <template #trailing>
+            <UKbd>Enter</UKbd>
+          </template>
+        </UInput>
+      </div>
+
       <div :class="ui.tableWrapper">
         <div :class="ui.tableHeader">
           <div :class="ui.headerLeft">
@@ -328,18 +345,6 @@ onMounted(async () => {
             >
               复制 ID
             </UButton>
-
-            <UInput
-              v-model="globalFilter"
-              name="queryInput"
-              placeholder="搜索扩展..."
-              icon="i-carbon-search"
-              :class="ui.searchInput"
-            >
-              <template #trailing>
-                <UKbd>Enter</UKbd>
-              </template>
-            </UInput>
           </div>
 
           <div :class="ui.headerCenter">
