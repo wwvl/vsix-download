@@ -78,7 +78,7 @@ export const useExtensionStore = defineStore(
       loading.value = true
       error.value = null
       try {
-        const response = await fetch('/src/data/extensions.json')
+        const response = await fetch('/data/extensions.json')
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`)
         }
