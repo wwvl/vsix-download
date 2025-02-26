@@ -3453,106 +3453,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
   {
-    "extension_name": "Equinusocio.vsc-material-theme-icons",
-    "display_name": "Material Theme Icons — Free",
-    "short_description": "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.",
-    "latest_version": "3.8.12",
-    "last_updated": "2025-01-03T13:42:46.37Z",
-    "version_history": [
-      {
-        "version": "3.8.12",
-        "lastUpdated": "2025-01-03T13:42:46.37Z"
-      },
-      {
-        "version": "3.8.10",
-        "lastUpdated": "2024-11-08T21:17:08.75Z"
-      },
-      {
-        "version": "3.8.9",
-        "lastUpdated": "2024-11-08T19:16:31.553Z"
-      },
-      {
-        "version": "3.8.8",
-        "lastUpdated": "2024-08-28T07:56:49.917Z"
-      },
-      {
-        "version": "3.8.7",
-        "lastUpdated": "2024-08-10T12:39:17.657Z"
-      },
-      {
-        "version": "3.8.6",
-        "lastUpdated": "2024-08-10T12:19:31.93Z"
-      },
-      {
-        "version": "3.8.5",
-        "lastUpdated": "2024-08-10T11:17:43.983Z"
-      },
-      {
-        "version": "3.8.3",
-        "lastUpdated": "2024-08-09T19:05:26.127Z"
-      },
-      {
-        "version": "3.8.2",
-        "lastUpdated": "2024-08-08T17:30:46.663Z"
-      },
-      {
-        "version": "3.7.0",
-        "lastUpdated": "2024-08-07T17:12:43.183Z"
-      },
-      {
-        "version": "3.6.1",
-        "lastUpdated": "2024-06-12T08:04:14.013Z"
-      },
-      {
-        "version": "3.6.0",
-        "lastUpdated": "2024-04-14T08:53:50.09Z"
-      },
-      {
-        "version": "3.5.0",
-        "lastUpdated": "2024-02-19T08:03:54.77Z"
-      },
-      {
-        "version": "3.4.0",
-        "lastUpdated": "2024-01-19T11:05:08.4Z"
-      },
-      {
-        "version": "3.3.1",
-        "lastUpdated": "2023-12-10T10:22:12.04Z"
-      },
-      {
-        "version": "3.3.0",
-        "lastUpdated": "2023-12-10T10:17:31.31Z"
-      },
-      {
-        "version": "3.2.0",
-        "lastUpdated": "2023-12-01T16:17:57.307Z"
-      },
-      {
-        "version": "3.1.4",
-        "lastUpdated": "2023-10-10T08:52:07.63Z"
-      },
-      {
-        "version": "3.1.2",
-        "lastUpdated": "2023-10-07T10:11:19.793Z"
-      },
-      {
-        "version": "3.1.1",
-        "lastUpdated": "2023-10-07T09:56:32.097Z"
-      }
-    ],
-    "categories": [
-      "Themes"
-    ],
-    "tags": [
-      "icon-theme",
-      "theme",
-      "Themes",
-      "VSCode"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme-icons/3.8.12/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons"
-  },
-  {
     "extension_name": "esbenp.prettier-vscode",
     "display_name": "Prettier - Code formatter",
     "short_description": "Code formatter using prettier",
@@ -4362,9 +4262,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.275.1396",
-    "last_updated": "2025-02-25T16:20:52.783Z",
+    "latest_version": "1.276.1398",
+    "last_updated": "2025-02-26T01:45:42.047Z",
     "version_history": [
+      {
+        "version": "1.276.1398",
+        "lastUpdated": "2025-02-26T01:45:42.047Z"
+      },
       {
         "version": "1.275.1396",
         "lastUpdated": "2025-02-25T16:20:52.783Z"
@@ -4440,10 +4344,6 @@
       {
         "version": "1.271.1378",
         "lastUpdated": "2025-02-14T22:05:48.183Z"
-      },
-      {
-        "version": "1.271.3",
-        "lastUpdated": "2025-02-17T01:41:25.41Z"
       }
     ],
     "categories": [
@@ -4477,16 +4377,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.275.1396/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1398/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025022501",
-    "last_updated": "2025-02-25T04:27:22.64Z",
+    "latest_version": "0.25.2025022601",
+    "last_updated": "2025-02-26T04:29:57.383Z",
     "version_history": [
+      {
+        "version": "0.25.2025022601",
+        "lastUpdated": "2025-02-26T04:29:57.383Z"
+      },
       {
         "version": "0.25.2025022501",
         "lastUpdated": "2025-02-25T04:27:22.64Z"
@@ -4562,10 +4466,6 @@
       {
         "version": "0.24.2025020404",
         "lastUpdated": "2025-02-04T21:37:50.37Z"
-      },
-      {
-        "version": "0.24.2025020403",
-        "lastUpdated": "2025-02-04T19:05:26.57Z"
       }
     ],
     "categories": [
@@ -4603,7 +4503,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4803,9 +4703,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.105.2025022504",
-    "last_updated": "2025-02-25T04:21:10.177Z",
+    "latest_version": "0.105.2025022604",
+    "last_updated": "2025-02-26T04:27:35.783Z",
     "version_history": [
+      {
+        "version": "0.105.2025022604",
+        "lastUpdated": "2025-02-26T04:27:35.783Z"
+      },
       {
         "version": "0.105.2025022504",
         "lastUpdated": "2025-02-25T04:21:10.177Z"
@@ -4881,10 +4785,6 @@
       {
         "version": "0.103.2025012804",
         "lastUpdated": "2025-01-28T04:23:43.74Z"
-      },
-      {
-        "version": "0.103.2025012704",
-        "lastUpdated": "2025-01-27T04:19:58.373Z"
       }
     ],
     "categories": [
@@ -4896,7 +4796,7 @@
       "github-copilot",
       "keybindings"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -12501,9 +12401,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.4.8",
-    "last_updated": "2025-02-25T07:01:35.327Z",
+    "latest_version": "3.4.9",
+    "last_updated": "2025-02-26T02:31:44.36Z",
     "version_history": [
+      {
+        "version": "3.4.9",
+        "lastUpdated": "2025-02-26T02:31:44.36Z"
+      },
       {
         "version": "3.4.8",
         "lastUpdated": "2025-02-25T07:01:35.327Z"
@@ -12579,10 +12483,6 @@
       {
         "version": "3.2.6",
         "lastUpdated": "2025-01-30T00:58:55.78Z"
-      },
-      {
-        "version": "3.2.5",
-        "lastUpdated": "2025-01-22T07:20:09.753Z"
       }
     ],
     "categories": [
@@ -12607,7 +12507,7 @@
       "openrouter",
       "sonnet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
