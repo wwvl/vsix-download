@@ -5,8 +5,8 @@
   <Footer>
     <template #left>
       <p class="text-sm text-(--ui-text-muted)">
-        Copyright © 2024-{{ new Date().getFullYear() }}
-        <a href="https://www.zxj.asia" target="_blank">wwvl</a>
+        Copyright © {{ new Date().getFullYear() }} <a href="https://www.zxj.asia" target="_blank">wwvl</a>. Theme by
+        <UButton color="primary" variant="subtle" href="https://ui3.nuxt.dev/" target="_blank" label="NuxtUI" size="xs" />
       </p>
     </template>
 
