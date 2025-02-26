@@ -1988,9 +1988,21 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "0.9.271",
-    "last_updated": "2025-02-24T17:39:19.18Z",
+    "latest_version": "1.1.1",
+    "last_updated": "2025-02-26T12:24:55.287Z",
     "version_history": [
+      {
+        "version": "1.1.1",
+        "lastUpdated": "2025-02-26T12:24:55.287Z"
+      },
+      {
+        "version": "1.0.1",
+        "lastUpdated": "2025-02-26T12:26:09.46Z"
+      },
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2025-02-26T12:01:32.33Z"
+      },
       {
         "version": "0.9.271",
         "lastUpdated": "2025-02-24T17:39:19.18Z"
@@ -2058,18 +2070,6 @@
       {
         "version": "0.9.254",
         "lastUpdated": "2025-01-21T18:12:06.43Z"
-      },
-      {
-        "version": "0.9.253",
-        "lastUpdated": "2025-01-20T06:04:29.413Z"
-      },
-      {
-        "version": "0.9.252",
-        "lastUpdated": "2025-01-16T19:03:04.053Z"
-      },
-      {
-        "version": "0.9.251",
-        "lastUpdated": "2025-01-11T20:12:32.693Z"
       }
     ],
     "categories": [
@@ -2097,7 +2097,7 @@
       "promptLanguage",
       "sonnet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.271/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3253,9 +3253,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.2.2504",
-    "last_updated": "2025-02-25T09:12:48.213Z",
+    "latest_version": "2025.2.2604",
+    "last_updated": "2025-02-26T09:12:46.757Z",
     "version_history": [
+      {
+        "version": "2025.2.2604",
+        "lastUpdated": "2025-02-26T09:12:46.757Z"
+      },
       {
         "version": "2025.2.2504",
         "lastUpdated": "2025-02-25T09:12:48.213Z"
@@ -3331,10 +3335,6 @@
       {
         "version": "2025.2.614",
         "lastUpdated": "2025-02-06T19:26:22.193Z"
-      },
-      {
-        "version": "2025.2.604",
-        "lastUpdated": "2025-02-06T09:11:52.563Z"
       }
     ],
     "categories": [
@@ -3349,7 +3349,7 @@
       "log",
       "multi-root ready"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5791,9 +5791,13 @@
     "extension_name": "hediet.vscode-drawio",
     "display_name": "Draw.io Integration",
     "short_description": "This unofficial extension integrates Draw.io into VS Code.",
-    "latest_version": "1.9.250219012",
-    "last_updated": "2025-02-19T19:50:06.18Z",
+    "latest_version": "1.9.250226013",
+    "last_updated": "2025-02-26T10:54:38.013Z",
     "version_history": [
+      {
+        "version": "1.9.250226013",
+        "lastUpdated": "2025-02-26T10:54:38.013Z"
+      },
       {
         "version": "1.9.250219012",
         "lastUpdated": "2025-02-19T19:50:06.18Z"
@@ -5869,10 +5873,6 @@
       {
         "version": "1.4.0",
         "lastUpdated": "2021-03-11T19:07:11.573Z"
-      },
-      {
-        "version": "1.3.0",
-        "lastUpdated": "2021-02-08T20:42:35.423Z"
       }
     ],
     "categories": [
@@ -5889,7 +5889,7 @@
       "uml",
       "visio"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250219012/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250226013/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio"
   },
   {
@@ -7310,9 +7310,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.98.2025021909",
-    "last_updated": "2025-02-19T09:22:44.223Z",
+    "latest_version": "1.98.2025022609",
+    "last_updated": "2025-02-26T09:34:30.973Z",
     "version_history": [
+      {
+        "version": "1.98.2025022609",
+        "lastUpdated": "2025-02-26T09:34:30.973Z"
+      },
       {
         "version": "1.98.2025021909",
         "lastUpdated": "2025-02-19T09:22:44.223Z"
@@ -7388,10 +7392,6 @@
       {
         "version": "1.94.2024100209",
         "lastUpdated": "2024-10-02T09:21:35.55Z"
-      },
-      {
-        "version": "1.94.2024092509",
-        "lastUpdated": "2024-09-25T09:20:48.027Z"
       }
     ],
     "categories": [
@@ -7401,7 +7401,7 @@
       "lp-zh-cn",
       "中文(简体)"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025021909/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025022609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -11773,9 +11773,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.40.2025022008",
-    "last_updated": "2025-02-20T09:18:55.187Z",
+    "latest_version": "1.40.2025022608",
+    "last_updated": "2025-02-26T08:30:01.36Z",
     "version_history": [
+      {
+        "version": "1.40.2025022608",
+        "lastUpdated": "2025-02-26T08:30:01.36Z"
+      },
       {
         "version": "1.40.2025022008",
         "lastUpdated": "2025-02-20T09:18:55.187Z"
@@ -11851,10 +11855,6 @@
       {
         "version": "1.39.2025010908",
         "lastUpdated": "2025-01-09T08:26:19.7Z"
-      },
-      {
-        "version": "1.39.2025010808",
-        "lastUpdated": "2025-01-08T09:35:00.86Z"
       }
     ],
     "categories": [
@@ -11874,7 +11874,7 @@
       "linters",
       "multi-root ready"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.40.2025022008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.40.2025022608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
