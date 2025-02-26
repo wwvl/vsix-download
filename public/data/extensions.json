@@ -1835,9 +1835,21 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "0.9.271",
-    "last_updated": "2025-02-24T17:39:19.18Z",
+    "latest_version": "1.1.1",
+    "last_updated": "2025-02-26T12:24:55.287Z",
     "version_history": [
+      {
+        "version": "1.1.1",
+        "lastUpdated": "2025-02-26T12:24:55.287Z"
+      },
+      {
+        "version": "1.0.1",
+        "lastUpdated": "2025-02-26T12:26:09.46Z"
+      },
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2025-02-26T12:01:32.33Z"
+      },
       {
         "version": "0.9.271",
         "lastUpdated": "2025-02-24T17:39:19.18Z"
@@ -1905,23 +1917,11 @@
       {
         "version": "0.9.254",
         "lastUpdated": "2025-01-21T18:12:06.43Z"
-      },
-      {
-        "version": "0.9.253",
-        "lastUpdated": "2025-01-20T06:04:29.413Z"
-      },
-      {
-        "version": "0.9.252",
-        "lastUpdated": "2025-01-16T19:03:04.053Z"
-      },
-      {
-        "version": "0.9.251",
-        "lastUpdated": "2025-01-11T20:12:32.693Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.271/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -2300,9 +2300,13 @@
     "extension_name": "denoland.vscode-deno",
     "display_name": "Deno",
     "short_description": "A language server client for Deno.",
-    "latest_version": "3.43.4",
-    "last_updated": "2025-02-25T14:57:07.737Z",
+    "latest_version": "3.43.5",
+    "last_updated": "2025-02-26T14:12:42.88Z",
     "version_history": [
+      {
+        "version": "3.43.5",
+        "lastUpdated": "2025-02-26T14:12:42.88Z"
+      },
       {
         "version": "3.43.4",
         "lastUpdated": "2025-02-25T14:57:07.737Z"
@@ -2378,15 +2382,11 @@
       {
         "version": "3.33.2",
         "lastUpdated": "2024-01-25T16:28:51.35Z"
-      },
-      {
-        "version": "3.33.1",
-        "lastUpdated": "2024-01-25T15:42:48.103Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
     "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.43.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.43.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
   },
   {
@@ -3891,9 +3891,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.276.1398",
-    "last_updated": "2025-02-26T01:45:42.047Z",
+    "latest_version": "1.276.1399",
+    "last_updated": "2025-02-26T16:19:37.223Z",
     "version_history": [
+      {
+        "version": "1.276.1399",
+        "lastUpdated": "2025-02-26T16:19:37.223Z"
+      },
       {
         "version": "1.276.1398",
         "lastUpdated": "2025-02-26T01:45:42.047Z"
@@ -3969,10 +3973,6 @@
       {
         "version": "1.272.0",
         "lastUpdated": "2025-02-17T14:33:34.043Z"
-      },
-      {
-        "version": "1.271.1378",
-        "lastUpdated": "2025-02-14T22:05:48.183Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4001,7 +4001,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1398/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1399/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5300,9 +5300,13 @@
     "extension_name": "hediet.vscode-drawio",
     "display_name": "Draw.io Integration",
     "short_description": "This unofficial extension integrates Draw.io into VS Code.",
-    "latest_version": "1.9.250219012",
-    "last_updated": "2025-02-19T19:50:06.18Z",
+    "latest_version": "1.9.250226013",
+    "last_updated": "2025-02-26T10:54:38.013Z",
     "version_history": [
+      {
+        "version": "1.9.250226013",
+        "lastUpdated": "2025-02-26T10:54:38.013Z"
+      },
       {
         "version": "1.9.250219012",
         "lastUpdated": "2025-02-19T19:50:06.18Z"
@@ -5378,15 +5382,11 @@
       {
         "version": "1.4.0",
         "lastUpdated": "2021-03-11T19:07:11.573Z"
-      },
-      {
-        "version": "1.3.0",
-        "lastUpdated": "2021-02-08T20:42:35.423Z"
       }
     ],
     "categories": ["Visualization"],
     "tags": ["architecture", "code link", "diagram", "diagrams.net", "Draw.io", "drawio", "keybindings", "uml", "visio"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250219012/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250226013/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio"
   },
   {
