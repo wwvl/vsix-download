@@ -38,6 +38,20 @@ jobs:
           uv run extension_manager.py extensions.txt
           cd ..
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install pnpm
+        run: |
+          npm install -g pnpm
+          pnpm ci
+
+      - name: Format and Lint
+        run: |
+          pnpm format public/data/extensions.json
+          pnpm lint:fix public/data/extensions.json
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
