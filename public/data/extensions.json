@@ -1155,9 +1155,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.7",
-    "last_updated": "2025-02-25T16:45:03.717Z",
+    "latest_version": "0.14.8",
+    "last_updated": "2025-02-26T18:19:30.907Z",
     "version_history": [
+      {
+        "version": "0.14.8",
+        "lastUpdated": "2025-02-26T18:19:30.907Z"
+      },
       {
         "version": "0.14.7",
         "lastUpdated": "2025-02-25T16:45:03.717Z"
@@ -1233,15 +1237,11 @@
       {
         "version": "0.13.62",
         "lastUpdated": "2024-12-11T12:27:19.673Z"
-      },
-      {
-        "version": "0.13.61",
-        "lastUpdated": "2024-12-09T15:14:47.747Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
