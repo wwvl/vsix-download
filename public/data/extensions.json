@@ -87,7 +87,9 @@
         "lastUpdated": "2018-03-20T15:13:24.33Z"
       }
     ],
-    "categories": ["Formatters"],
+    "categories": [
+      "Formatters"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aaron-bond/vsextensions/better-comments/3.0.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments"
@@ -180,8 +182,19 @@
         "lastUpdated": "2021-01-07T15:39:42.93Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["bookmark", "jump", "keybindings", "mark", "multi-root ready", "navigation", "selection", "sticky"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "bookmark",
+      "jump",
+      "keybindings",
+      "mark",
+      "multi-root ready",
+      "navigation",
+      "selection",
+      "sticky"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/Bookmarks/13.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks"
   },
@@ -273,8 +286,21 @@
         "lastUpdated": "2020-01-26T01:06:44.627Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["folder", "git", "keybindings", "manage", "mercurial", "multi-root ready", "project", "svn", "switch", "workspace"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "folder",
+      "git",
+      "keybindings",
+      "manage",
+      "mercurial",
+      "multi-root ready",
+      "project",
+      "svn",
+      "switch",
+      "workspace"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/project-manager/12.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
   },
@@ -366,7 +392,12 @@
         "lastUpdated": "2024-11-14T13:27:30.397Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Machine Learning",
+      "Education"
+    ],
     "tags": [
       "ai coding assistant",
       "AI 自动编程",
@@ -487,7 +518,11 @@
         "lastUpdated": "2024-08-23T07:15:55.2Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Machine Learning"
+    ],
     "tags": [
       "ai",
       "autocomplete",
@@ -603,8 +638,12 @@
         "lastUpdated": "2021-03-11T14:41:34.09Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["debuggers"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "debuggers"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/browse-lite/0.3.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.browse-lite"
   },
@@ -660,8 +699,16 @@
         "lastUpdated": "2022-05-11T05:33:52.38Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["javascript", "javascriptreact", "typescript", "typescriptreact", "vue"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "vue"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/goto-alias/0.2.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias"
   },
@@ -753,8 +800,27 @@
         "lastUpdated": "2023-05-10T16:23:01.987Z"
       }
     ],
-    "categories": ["Snippets", "Visualization"],
-    "tags": ["css", "django-html", "handlebars", "html", "iconify", "icons", "javascript", "javascriptreact", "markdown", "mdx", "snippet", "svelte", "typescript", "typescriptreact", "vue"],
+    "categories": [
+      "Snippets",
+      "Visualization"
+    ],
+    "tags": [
+      "css",
+      "django-html",
+      "handlebars",
+      "html",
+      "iconify",
+      "icons",
+      "javascript",
+      "javascriptreact",
+      "markdown",
+      "mdx",
+      "snippet",
+      "svelte",
+      "typescript",
+      "typescriptreact",
+      "vue"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.10.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.iconify"
   },
@@ -846,7 +912,9 @@
         "lastUpdated": "2024-08-24T16:15:28.767Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
@@ -939,7 +1007,9 @@
         "lastUpdated": "2021-02-28T17:24:29.657Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/vite/0.2.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.vite"
@@ -1032,8 +1102,22 @@
         "lastUpdated": "2024-05-15T10:07:05.947Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
-    "tags": ["astro", "javascript", "node", "react", "snippet", "Static site generator", "svelte", "typescript", "vue"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "astro",
+      "javascript",
+      "node",
+      "react",
+      "snippet",
+      "Static site generator",
+      "svelte",
+      "typescript",
+      "vue"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.15.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode"
   },
@@ -1053,7 +1137,9 @@
         "lastUpdated": "2024-11-11T18:19:44.89Z"
       }
     ],
-    "categories": ["AI"],
+    "categories": [
+      "AI"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BeilunYang/vsextensions/cursor-rules/0.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules"
@@ -1146,8 +1232,15 @@
         "lastUpdated": "2024-08-22T10:05:48.967Z"
       }
     ],
-    "categories": ["Linters", "Formatters"],
-    "tags": ["biome_syntax_tree", "Formatter", "Linter"],
+    "categories": [
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "biome_syntax_tree",
+      "Formatter",
+      "Linter"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.2.72227/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=biomejs.biome"
   },
@@ -1155,9 +1248,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.6",
-    "last_updated": "2025-02-18T12:56:51.063Z",
+    "latest_version": "0.14.7",
+    "last_updated": "2025-02-25T16:45:03.717Z",
     "version_history": [
+      {
+        "version": "0.14.7",
+        "lastUpdated": "2025-02-25T16:45:03.717Z"
+      },
       {
         "version": "0.14.6",
         "lastUpdated": "2025-02-18T12:56:51.063Z"
@@ -1233,15 +1330,21 @@
       {
         "version": "0.13.61",
         "lastUpdated": "2024-12-09T15:14:47.747Z"
-      },
-      {
-        "version": "0.13.60",
-        "lastUpdated": "2024-12-09T15:09:43.897Z"
       }
     ],
-    "categories": ["Linters"],
-    "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.6/vspackage",
+    "categories": [
+      "Linters"
+    ],
+    "tags": [
+      "autocomplete",
+      "css",
+      "intellisense",
+      "tailwind",
+      "Tailwind CSS",
+      "tailwindcss",
+      "vscode"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -1332,8 +1435,17 @@
         "lastUpdated": "2016-05-21T21:30:51.127Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Debuggers"],
-    "tags": ["csharp", "debuggers", "ini", "snippet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Debuggers"
+    ],
+    "tags": [
+      "csharp",
+      "debuggers",
+      "ini",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/cake-build/vsextensions/cake-vscode/2.1.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=cake-build.cake-vscode"
   },
@@ -1425,8 +1537,16 @@
         "lastUpdated": "2023-12-16T00:03:35.24Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "javascript",
+      "javascriptreact",
+      "keybindings",
+      "typescript",
+      "typescriptreact"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.12.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
@@ -1518,8 +1638,17 @@
         "lastUpdated": "2024-07-19T06:26:05.62Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
-    "tags": ["formatting", "linting", "python", "ruff"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "formatting",
+      "linting",
+      "python",
+      "ruff"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
@@ -1611,7 +1740,9 @@
         "lastUpdated": "2017-05-10T14:44:23.743Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/christian-kohler/vsextensions/path-intellisense/2.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense"
@@ -1704,7 +1835,14 @@
         "lastUpdated": "2024-11-13T23:09:05.597Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Machine Learning",
+      "Education",
+      "AI",
+      "Chat"
+    ],
     "tags": [
       "ai",
       "autocomplete",
@@ -1826,8 +1964,23 @@
         "lastUpdated": "2025-02-06T01:59:41.46Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["ai", "assistant", "chat", "code", "code-explanation", "code-refactoring", "code-review", "copilot", "deepseek", "documentation", "gpt", "testing"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "ai",
+      "assistant",
+      "chat",
+      "code",
+      "code-explanation",
+      "code-refactoring",
+      "code-review",
+      "copilot",
+      "deepseek",
+      "documentation",
+      "gpt",
+      "testing"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.5.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek"
   },
@@ -1919,8 +2072,31 @@
         "lastUpdated": "2025-01-11T20:12:32.693Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
-    "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Machine Learning",
+      "Education",
+      "AI",
+      "Chat"
+    ],
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "codegpt",
+      "codestral",
+      "copilot",
+      "github",
+      "json",
+      "jsonc",
+      "keybindings",
+      "llama",
+      "mistral",
+      "Prompt Language",
+      "promptLanguage",
+      "sonnet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/0.9.271/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
@@ -1928,9 +2104,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.105.20250220",
-    "last_updated": "2025-02-20T12:56:00.597Z",
+    "latest_version": "3.105.20250225",
+    "last_updated": "2025-02-25T17:20:00.117Z",
     "version_history": [
+      {
+        "version": "3.105.20250225",
+        "lastUpdated": "2025-02-25T17:20:00.117Z"
+      },
       {
         "version": "3.105.20250220",
         "lastUpdated": "2025-02-20T12:56:00.597Z"
@@ -2006,15 +2186,25 @@
       {
         "version": "3.101.20241031",
         "lastUpdated": "2024-10-31T13:17:53.457Z"
-      },
-      {
-        "version": "3.100.0",
-        "lastUpdated": "2024-10-31T13:19:12.287Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.105.20250220/vspackage",
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters",
+      "Testing"
+    ],
+    "tags": [
+      "dart",
+      "debuggers",
+      "flutter",
+      "fuchsia",
+      "keybindings",
+      "multi-root ready"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.105.20250225/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -2105,8 +2295,20 @@
         "lastUpdated": "2024-04-02T12:08:32.25Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
-    "tags": ["android", "dart", "flutter", "ios", "mobile"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters"
+    ],
+    "tags": [
+      "android",
+      "dart",
+      "flutter",
+      "ios",
+      "mobile"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.105.20250203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
@@ -2198,8 +2400,20 @@
         "lastUpdated": "2021-09-27T04:35:09.857Z"
       }
     ],
-    "categories": ["Linters", "Formatters"],
-    "tags": ["CommonMark", "json", "lint", "linters", "markdown", "md", "multi-root ready", "snippet"],
+    "categories": [
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "CommonMark",
+      "json",
+      "lint",
+      "linters",
+      "markdown",
+      "md",
+      "multi-root ready",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.59.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint"
   },
@@ -2291,8 +2505,18 @@
         "lastUpdated": "2021-09-09T10:14:47.92Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters"],
-    "tags": ["ignore", "javascript", "json", "jsonc", "linters", "multi-root ready"],
+    "categories": [
+      "Programming Languages",
+      "Linters"
+    ],
+    "tags": [
+      "ignore",
+      "javascript",
+      "json",
+      "jsonc",
+      "linters",
+      "multi-root ready"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.13/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
   },
@@ -2384,8 +2608,23 @@
         "lastUpdated": "2024-01-25T15:42:48.103Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
-    "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Debuggers",
+      "Formatters"
+    ],
+    "tags": [
+      "debuggers",
+      "deno",
+      "javascript",
+      "javascriptreact",
+      "json",
+      "jsonc",
+      "markdown",
+      "typescript",
+      "typescriptreact"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.43.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
   },
@@ -2477,8 +2716,24 @@
         "lastUpdated": "2025-01-03T16:41:12.787Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
-    "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Visualization"
+    ],
+    "tags": [
+      "codelens",
+      "commands",
+      "composer",
+      "json",
+      "packagist",
+      "php",
+      "php tools",
+      "schema",
+      "tools",
+      "validation"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.56.16884/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
@@ -2570,8 +2825,16 @@
         "lastUpdated": "2021-08-13T22:17:37.8Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["json", "keybindings", "markdown", "snippet", "yaml"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "json",
+      "keybindings",
+      "markdown",
+      "snippet",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown"
   },
@@ -2663,8 +2926,16 @@
         "lastUpdated": "2020-05-05T17:55:59.33Z"
       }
     ],
-    "categories": ["Snippets"],
-    "tags": ["commonmark", "dfm", "docfx", "markdown", "yaml"],
+    "categories": [
+      "Snippets"
+    ],
+    "tags": [
+      "commonmark",
+      "dfm",
+      "docfx",
+      "markdown",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-preview/1.0.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
   },
@@ -2756,8 +3027,17 @@
         "lastUpdated": "2016-02-20T17:57:20.04Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
-    "tags": ["keybindings", "xml", "xquery", "xsl"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "keybindings",
+      "xml",
+      "xquery",
+      "xsl"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DotJoshJohnson/vsextensions/xml/2.5.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml"
   },
@@ -2849,8 +3129,15 @@
         "lastUpdated": "2019-05-04T02:23:59.883Z"
       }
     ],
-    "categories": ["Themes"],
-    "tags": ["color-theme", "dark", "dracula", "theme"],
+    "categories": [
+      "Themes"
+    ],
+    "tags": [
+      "color-theme",
+      "dark",
+      "dracula",
+      "theme"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dracula-theme/vsextensions/theme-dracula/2.25.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula"
   },
@@ -2942,8 +3229,23 @@
         "lastUpdated": "2020-03-11T16:05:16.897Z"
       }
     ],
-    "categories": ["Snippets"],
-    "tags": ["customizable", "javascript", "javascriptReact", "keybindings", "prettier", "react", "react-native", "redux", "snippet", "snippets", "typescript", "typescriptReact"],
+    "categories": [
+      "Snippets"
+    ],
+    "tags": [
+      "customizable",
+      "javascript",
+      "javascriptReact",
+      "keybindings",
+      "prettier",
+      "react",
+      "react-native",
+      "redux",
+      "snippet",
+      "snippets",
+      "typescript",
+      "typescriptReact"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dsznajder/vsextensions/es7-react-js-snippets/4.4.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"
   },
@@ -3035,8 +3337,18 @@
         "lastUpdated": "2025-02-06T09:11:52.563Z"
       }
     ],
-    "categories": ["SCM Providers"],
-    "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
+    "categories": [
+      "SCM Providers"
+    ],
+    "tags": [
+      "annotation",
+      "blame",
+      "git",
+      "gitlens",
+      "keybindings",
+      "log",
+      "multi-root ready"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
@@ -3128,8 +3440,15 @@
         "lastUpdated": "2019-02-14T07:14:59.903Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["config", "editor", "editorconfig", "multi-root ready"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "config",
+      "editor",
+      "editorconfig",
+      "multi-root ready"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
@@ -3221,8 +3540,15 @@
         "lastUpdated": "2023-10-07T09:56:32.097Z"
       }
     ],
-    "categories": ["Themes"],
-    "tags": ["icon-theme", "theme", "Themes", "VSCode"],
+    "categories": [
+      "Themes"
+    ],
+    "tags": [
+      "icon-theme",
+      "theme",
+      "Themes",
+      "VSCode"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme-icons/3.8.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons"
   },
@@ -3314,7 +3640,9 @@
         "lastUpdated": "2022-03-25T14:43:10.11Z"
       }
     ],
-    "categories": ["Formatters"],
+    "categories": [
+      "Formatters"
+    ],
     "tags": [
       "angular",
       "commonmark",
@@ -3425,8 +3753,13 @@
         "lastUpdated": "2023-06-08T10:59:30.203Z"
       }
     ],
-    "categories": ["Snippets", "Formatters"],
-    "tags": ["keybindings"],
+    "categories": [
+      "Snippets",
+      "Formatters"
+    ],
+    "tags": [
+      "keybindings"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/figma/vsextensions/figma-vscode-extension/0.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension"
   },
@@ -3518,8 +3851,15 @@
         "lastUpdated": "2020-06-16T15:08:34.303Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["debug", "debuggers", "firefox", "vscode"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "debug",
+      "debuggers",
+      "firefox",
+      "vscode"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/firefox-devtools/vsextensions/vscode-firefox-debug/2.14.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug"
   },
@@ -3611,8 +3951,26 @@
         "lastUpdated": "2019-06-12T12:58:26.33Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["c#", "c++", "code-runner-output", "erlang", "haskell", "java", "javascript", "keybindings", "multi-root ready", "perl", "php", "powershell", "python", "ruby", "rust"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "c#",
+      "c++",
+      "code-runner-output",
+      "erlang",
+      "haskell",
+      "java",
+      "javascript",
+      "keybindings",
+      "multi-root ready",
+      "perl",
+      "php",
+      "powershell",
+      "python",
+      "ruby",
+      "rust"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/formulahendry/vsextensions/code-runner/0.12.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"
   },
@@ -3704,7 +4062,9 @@
         "lastUpdated": "2019-04-30T07:50:36.537Z"
       }
     ],
-    "categories": ["Formatters"],
+    "categories": [
+      "Formatters"
+    ],
     "tags": [
       "azcli",
       "azure cli tool",
@@ -3789,8 +4149,13 @@
         "lastUpdated": "2016-01-09T22:45:27.823Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["snippet", "zip"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "snippet",
+      "zip"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gep13/vsextensions/chocolatey-vscode/0.7.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gep13.chocolatey-vscode"
   },
@@ -3882,8 +4247,14 @@
         "lastUpdated": "2023-02-07T12:56:32.3Z"
       }
     ],
-    "categories": ["Visualization"],
-    "tags": ["markdown", "markmap", "mindmap"],
+    "categories": [
+      "Visualization"
+    ],
+    "tags": [
+      "markdown",
+      "markmap",
+      "mindmap"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gera2ld/vsextensions/markmap-vscode/0.2.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode"
   },
@@ -3975,8 +4346,15 @@
         "lastUpdated": "2024-01-22T17:30:42.883Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["continueOn", "json", "jsonc", "remote-menu"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "continueOn",
+      "json",
+      "jsonc",
+      "remote-menu"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
   },
@@ -3984,9 +4362,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.275.1395",
-    "last_updated": "2025-02-25T01:45:40.39Z",
+    "latest_version": "1.275.1396",
+    "last_updated": "2025-02-25T16:20:52.783Z",
     "version_history": [
+      {
+        "version": "1.275.1396",
+        "lastUpdated": "2025-02-25T16:20:52.783Z"
+      },
       {
         "version": "1.275.1395",
         "lastUpdated": "2025-02-25T01:45:40.39Z"
@@ -4062,13 +4444,14 @@
       {
         "version": "1.271.3",
         "lastUpdated": "2025-02-17T01:41:25.41Z"
-      },
-      {
-        "version": "1.271.0",
-        "lastUpdated": "2025-02-13T22:16:10.51Z"
       }
     ],
-    "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
+    "categories": [
+      "Programming Languages",
+      "Machine Learning",
+      "AI",
+      "Chat"
+    ],
     "tags": [
       "ai",
       "autocomplete",
@@ -4094,7 +4477,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.275.1395/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.275.1396/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -4185,7 +4568,12 @@
         "lastUpdated": "2025-02-04T19:05:26.57Z"
       }
     ],
-    "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
+    "categories": [
+      "Programming Languages",
+      "Machine Learning",
+      "AI",
+      "Chat"
+    ],
     "tags": [
       "ai",
       "autocomplete",
@@ -4306,7 +4694,9 @@
         "lastUpdated": "2023-09-26T09:21:37.3Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2024112101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub"
@@ -4399,8 +4789,13 @@
         "lastUpdated": "2022-02-01T05:00:45.553Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["GitHub Actions Workflow", "github-actions-workflow"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "GitHub Actions Workflow",
+      "github-actions-workflow"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.27.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions"
   },
@@ -4492,8 +4887,15 @@
         "lastUpdated": "2025-01-27T04:19:58.373Z"
       }
     ],
-    "categories": ["AI", "Chat"],
-    "tags": ["chat-participant", "github-copilot", "keybindings"],
+    "categories": [
+      "AI",
+      "Chat"
+    ],
+    "tags": [
+      "chat-participant",
+      "github-copilot",
+      "keybindings"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
@@ -4585,8 +4987,30 @@
         "lastUpdated": "2023-11-16T18:40:23.917Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters",
+      "Testing"
+    ],
+    "tags": [
+      "debuggers",
+      "go",
+      "Go Checksum File",
+      "Go Module File",
+      "Go Template File",
+      "Go Work File",
+      "go.mod",
+      "go.sum",
+      "go.work",
+      "golang",
+      "gopls",
+      "gotmpl",
+      "multi-root ready",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.45.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
@@ -4678,8 +5102,30 @@
         "lastUpdated": "2024-04-30T14:10:10.653Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters",
+      "Testing"
+    ],
+    "tags": [
+      "debuggers",
+      "go",
+      "Go Checksum File",
+      "Go Module File",
+      "Go Template File",
+      "Go Work File",
+      "go.mod",
+      "go.sum",
+      "go.work",
+      "golang",
+      "gopls",
+      "gotmpl",
+      "multi-root ready",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/go-nightly/2024.8.2217/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.go-nightly"
   },
@@ -4771,7 +5217,11 @@
         "lastUpdated": "2024-07-24T17:51:30.397Z"
       }
     ],
-    "categories": ["Snippets", "Linters", "Debuggers"],
+    "categories": [
+      "Snippets",
+      "Linters",
+      "Debuggers"
+    ],
     "tags": [
       "AI Assistant",
       "Apigee",
@@ -4903,8 +5353,15 @@
         "lastUpdated": "2022-07-16T08:50:35.537Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["graphql", "javascript", "php", "python"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "graphql",
+      "javascript",
+      "php",
+      "python"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GraphQL/vsextensions/vscode-graphql-syntax/1.3.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax"
   },
@@ -4996,8 +5453,15 @@
         "lastUpdated": "2021-03-19T16:54:36.007Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["multi-root ready", "task", "tasklist", "todo"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "multi-root ready",
+      "task",
+      "tasklist",
+      "todo"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Gruntfuggly/vsextensions/todo-tree/0.0.226/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
   },
@@ -5089,8 +5553,21 @@
         "lastUpdated": "2022-06-23T11:25:11.023Z"
       }
     ],
-    "categories": ["SCM Providers"],
-    "tags": ["branch", "commit", "diff", "flow", "git", "graph", "history", "log", "scm", "tag"],
+    "categories": [
+      "SCM Providers"
+    ],
+    "tags": [
+      "branch",
+      "commit",
+      "diff",
+      "flow",
+      "git",
+      "graph",
+      "history",
+      "log",
+      "scm",
+      "tag"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GuodongSun/vsextensions/vscode-git-cruise/0.2.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise"
   },
@@ -5182,7 +5659,11 @@
         "lastUpdated": "2024-04-22T16:12:22.123Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Formatters"
+    ],
     "tags": [
       "devops",
       "hcl",
@@ -5291,8 +5772,20 @@
         "lastUpdated": "2022-04-05T14:05:31.327Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
-    "tags": ["cabal", "haskell", "language", "literate haskell", "lsp", "multi-root ready", "stack"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "cabal",
+      "haskell",
+      "language",
+      "literate haskell",
+      "lsp",
+      "multi-root ready",
+      "stack"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/haskell/vsextensions/haskell/2.5.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=haskell.haskell"
   },
@@ -5384,8 +5877,13 @@
         "lastUpdated": "2019-12-07T19:19:54.83Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["test", "testing"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "test",
+      "testing"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hbenl/vsextensions/vscode-test-explorer/2.22.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer"
   },
@@ -5477,8 +5975,20 @@
         "lastUpdated": "2021-02-08T20:42:35.423Z"
       }
     ],
-    "categories": ["Visualization"],
-    "tags": ["architecture", "code link", "diagram", "diagrams.net", "Draw.io", "drawio", "keybindings", "uml", "visio"],
+    "categories": [
+      "Visualization"
+    ],
+    "tags": [
+      "architecture",
+      "code link",
+      "diagram",
+      "diagrams.net",
+      "Draw.io",
+      "drawio",
+      "keybindings",
+      "uml",
+      "visio"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/hediet/vsextensions/vscode-drawio/1.9.250219012/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio"
   },
@@ -5530,8 +6040,14 @@
         "lastUpdated": "2022-11-24T03:38:01.073Z"
       }
     ],
-    "categories": ["Linters", "Formatters"],
-    "tags": ["ignore", "yaml"],
+    "categories": [
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "ignore",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/huacnlee/vsextensions/autocorrect/2.6.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=huacnlee.autocorrect"
   },
@@ -5623,8 +6139,21 @@
         "lastUpdated": "2019-04-14T14:40:11.81Z"
       }
     ],
-    "categories": ["AI", "Chat"],
-    "tags": ["comment", "GitHub Copilot Chat Participant", "google translate", "hover", "keybindings", "translate", "注释", "翻訳", "翻译"],
+    "categories": [
+      "AI",
+      "Chat"
+    ],
+    "tags": [
+      "comment",
+      "GitHub Copilot Chat Participant",
+      "google translate",
+      "hover",
+      "keybindings",
+      "translate",
+      "注释",
+      "翻訳",
+      "翻译"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/intellsmi/vsextensions/comment-translate/3.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate"
   },
@@ -5716,8 +6245,16 @@
         "lastUpdated": "2024-06-23T15:18:50.71Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters"],
-    "tags": ["json", "lua", "luau", "roblox"],
+    "categories": [
+      "Programming Languages",
+      "Linters"
+    ],
+    "tags": [
+      "json",
+      "lua",
+      "luau",
+      "roblox"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.39.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
@@ -5809,7 +6346,10 @@
         "lastUpdated": "2021-04-06T18:47:09.387Z"
       }
     ],
-    "categories": ["Programming Languages", "Formatters"],
+    "categories": [
+      "Programming Languages",
+      "Formatters"
+    ],
     "tags": [
       "compress",
       "compressor",
@@ -5928,8 +6468,16 @@
         "lastUpdated": "2018-10-15T07:52:55.593Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["changelog", "commit", "commitizen", "conventional-changelog", "git"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "changelog",
+      "commit",
+      "commitizen",
+      "conventional-changelog",
+      "git"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/KnisterPeter/vsextensions/vscode-commitizen/1.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen"
   },
@@ -6021,8 +6569,14 @@
         "lastUpdated": "2019-05-13T10:11:51.17Z"
       }
     ],
-    "categories": ["Snippets"],
-    "tags": ["algorithm", "interview", "leetcode"],
+    "categories": [
+      "Snippets"
+    ],
+    "tags": [
+      "algorithm",
+      "interview",
+      "leetcode"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LeetCode/vsextensions/vscode-leetcode/0.18.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode"
   },
@@ -6114,8 +6668,16 @@
         "lastUpdated": "2020-05-03T08:03:30.39Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["pytest", "python", "test", "testing", "unittest"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "pytest",
+      "python",
+      "test",
+      "testing",
+      "unittest"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/LittleFoxTeam/vsextensions/vscode-python-test-adapter/0.8.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter"
   },
@@ -6207,7 +6769,9 @@
         "lastUpdated": "2021-07-14T13:00:37.893Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [
       "dart",
       "handlebars",
@@ -6320,7 +6884,12 @@
         "lastUpdated": "2024-12-19T11:17:32.537Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Machine Learning",
+      "Education"
+    ],
     "tags": [
       "ai",
       "AI 编程助手",
@@ -6441,8 +7010,19 @@
         "lastUpdated": "2022-09-20T18:04:30.497Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["Cortex-Debug Memory View", "cortex-debug.memoryview", "cortex-m", "debug", "debuggers", "embedded", "gdb", "keybindings"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "Cortex-Debug Memory View",
+      "cortex-debug.memoryview",
+      "cortex-m",
+      "debug",
+      "debuggers",
+      "embedded",
+      "gdb",
+      "keybindings"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/marus25/vsextensions/cortex-debug/1.12.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug"
   },
@@ -6462,8 +7042,14 @@
         "lastUpdated": "2017-01-16T23:41:39.093Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["dotenv", "env", "Environment Variables"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "dotenv",
+      "env",
+      "Environment Variables"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mikestead/vsextensions/dotenv/1.0.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv"
   },
@@ -6555,8 +7141,28 @@
         "lastUpdated": "2023-03-31T07:48:49.563Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],
-    "tags": ["chat-participant", "copilot", "Database", "Databases", "javascript", "json", "keybindings", "MongoDB", "MongoDB Atlas", "MQL", "plaintext", "snippet", "terraform"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Data Science",
+      "AI",
+      "Chat"
+    ],
+    "tags": [
+      "chat-participant",
+      "copilot",
+      "Database",
+      "Databases",
+      "javascript",
+      "json",
+      "keybindings",
+      "MongoDB",
+      "MongoDB Atlas",
+      "MQL",
+      "plaintext",
+      "snippet",
+      "terraform"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
   },
@@ -6648,8 +7254,19 @@
         "lastUpdated": "2020-02-17T19:30:41.46Z"
       }
     ],
-    "categories": ["Themes"],
-    "tags": ["beautiful functionality", "color-theme", "dark", "focus", "icons", "icon-theme", "light", "theme"],
+    "categories": [
+      "Themes"
+    ],
+    "tags": [
+      "beautiful functionality",
+      "color-theme",
+      "dark",
+      "focus",
+      "icons",
+      "icon-theme",
+      "light",
+      "theme"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
   },
@@ -6669,8 +7286,16 @@
         "lastUpdated": "2025-01-10T18:38:50.953Z"
       }
     ],
-    "categories": ["Azure"],
-    "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
+    "categories": [
+      "Azure"
+    ],
+    "tags": [
+      "Azure",
+      "Functions",
+      "json",
+      "multi-root ready",
+      "serverless"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.16.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
@@ -6762,8 +7387,22 @@
         "lastUpdated": "2022-04-18T14:48:14.077Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Azure"],
-    "tags": ["compose", "container", "containers", "debuggers", "docker", "dockercompose", "dockerfile", "ignore", "multi-root ready"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Azure"
+    ],
+    "tags": [
+      "compose",
+      "container",
+      "containers",
+      "debuggers",
+      "docker",
+      "dockercompose",
+      "dockerfile",
+      "ignore",
+      "multi-root ready"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
   },
@@ -6855,8 +7494,13 @@
         "lastUpdated": "2024-09-25T09:20:48.027Z"
       }
     ],
-    "categories": ["Language Packs"],
-    "tags": ["lp-zh-cn", "中文(简体)"],
+    "categories": [
+      "Language Packs"
+    ],
+    "tags": [
+      "lp-zh-cn",
+      "中文(简体)"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025021909/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
@@ -6948,8 +7592,21 @@
         "lastUpdated": "2024-10-08T20:34:25.857Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
-    "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Debuggers",
+      "Testing"
+    ],
+    "tags": [
+      "asp.net",
+      "c#",
+      "csharp",
+      "devkit",
+      "dotnet",
+      "json",
+      "keybindings"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.27/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
@@ -7041,7 +7698,12 @@
         "lastUpdated": "2024-10-08T19:52:26.123Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers"
+    ],
     "tags": [
       ".NET",
       ".NET Core",
@@ -7152,8 +7814,16 @@
         "lastUpdated": "2024-06-25T19:56:51.937Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": [".NET", ".NET Core", "dotnet", "Extension Authoring", "runtime"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      ".NET",
+      ".NET Core",
+      "dotnet",
+      "Extension Authoring",
+      "runtime"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.2.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
   },
@@ -7193,8 +7863,13 @@
         "lastUpdated": "2023-06-06T19:59:29.477Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["c#", "csharp"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "c#",
+      "csharp"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscodeintellicode-csharp/2.2.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp"
   },
@@ -7286,8 +7961,21 @@
         "lastUpdated": "2020-03-26T04:24:05.917Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["cpp", "csharp", "debuggers", "python", "robot", "ros", "ROS Message", "ros.msg", "xml", "yaml"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "cpp",
+      "csharp",
+      "debuggers",
+      "python",
+      "robot",
+      "ros",
+      "ROS Message",
+      "ros.msg",
+      "xml",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-iot/vsextensions/vscode-ros/0.9.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros"
   },
@@ -7379,8 +8067,24 @@
         "lastUpdated": "2021-04-28T21:20:06.633Z"
       }
     ],
-    "categories": ["Snippets", "Linters", "Debuggers", "Azure"],
-    "tags": ["aks", "aws", "gke", "helm", "helm-template", "ignore", "keybindings", "kubernetes", "snippet", "yaml"],
+    "categories": [
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Azure"
+    ],
+    "tags": [
+      "aks",
+      "aws",
+      "gke",
+      "helm",
+      "helm-template",
+      "ignore",
+      "keybindings",
+      "kubernetes",
+      "snippet",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-kubernetes-tools/vsextensions/vscode-kubernetes-tools/1.3.20/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools"
   },
@@ -7472,8 +8176,22 @@
         "lastUpdated": "2022-04-22T21:38:27.697Z"
       }
     ],
-    "categories": ["Programming Languages", "Azure"],
-    "tags": ["Azure SQL Data Warehouse", "Azure SQL Database", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
+    "categories": [
+      "Programming Languages",
+      "Azure"
+    ],
+    "tags": [
+      "Azure SQL Data Warehouse",
+      "Azure SQL Database",
+      "keybindings",
+      "MSSQL",
+      "multi-root ready",
+      "snippet",
+      "SQL",
+      "SQL Server",
+      "SQL Server Execution Plan",
+      "sqlplan"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.28.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
@@ -7565,8 +8283,15 @@
         "lastUpdated": "2024-11-29T10:34:22.56Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["debugger", "debuggers", "debugpy", "python"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "debugger",
+      "debuggers",
+      "debugpy",
+      "python"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.1.2025022401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
@@ -7658,7 +8383,12 @@
         "lastUpdated": "2024-12-19T10:48:57.637Z"
       }
     ],
-    "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
+    "categories": [
+      "Programming Languages",
+      "Debuggers",
+      "Data Science",
+      "Machine Learning"
+    ],
     "tags": [
       "debuggers",
       "django",
@@ -7767,8 +8497,13 @@
         "lastUpdated": "2024-10-07T21:09:17.4Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["json", "python"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "json",
+      "python"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.2.101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
@@ -7860,7 +8595,10 @@
         "lastUpdated": "2024-10-15T00:56:43.11Z"
       }
     ],
-    "categories": ["Data Science", "Machine Learning"],
+    "categories": [
+      "Data Science",
+      "Machine Learning"
+    ],
     "tags": [
       "Business Intelligence",
       "charts",
@@ -8006,8 +8744,22 @@
         "lastUpdated": "2024-08-01T18:28:11.327Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "containers",
+      "continueOn",
+      "dev container",
+      "devcontainer",
+      "development container",
+      "docker",
+      "json",
+      "jsonc",
+      "remote",
+      "remote development",
+      "remote-menu"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.399.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
@@ -8015,9 +8767,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.118.2025022419",
-    "last_updated": "2025-02-24T19:58:54.447Z",
+    "latest_version": "0.118.2025022515",
+    "last_updated": "2025-02-25T15:22:21.21Z",
     "version_history": [
+      {
+        "version": "0.118.2025022515",
+        "lastUpdated": "2025-02-25T15:22:21.21Z"
+      },
       {
         "version": "0.118.2025022419",
         "lastUpdated": "2025-02-24T19:58:54.447Z"
@@ -8093,15 +8849,20 @@
       {
         "version": "0.117.2025011415",
         "lastUpdated": "2025-01-14T15:23:53.49Z"
-      },
-      {
-        "version": "0.117.2025011315",
-        "lastUpdated": "2025-01-13T15:25:24.3Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["chat-participant", "github-copilot", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.118.2025022419/vspackage",
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "chat-participant",
+      "github-copilot",
+      "remote",
+      "remote development",
+      "remote-menu",
+      "ssh"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.118.2025022515/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -8192,8 +8953,16 @@
         "lastUpdated": "2023-06-14T15:52:56.39Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["keybindings", "remote", "remote development", "remote-menu", "wsl"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "keybindings",
+      "remote",
+      "remote development",
+      "remote-menu",
+      "wsl"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-wsl/0.88.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl"
   },
@@ -8253,8 +9022,19 @@
         "lastUpdated": "2019-05-13T17:05:22.763Z"
       }
     ],
-    "categories": ["Extension Packs"],
-    "tags": ["containers", "dev container", "development container", "docker", "remote", "remote development", "ssh", "wsl"],
+    "categories": [
+      "Extension Packs"
+    ],
+    "tags": [
+      "containers",
+      "dev container",
+      "development container",
+      "docker",
+      "remote",
+      "remote development",
+      "ssh",
+      "wsl"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/vscode-remote-extensionpack/0.26.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack"
   },
@@ -8346,8 +9126,12 @@
         "lastUpdated": "2020-11-12T17:39:53.617Z"
       }
     ],
-    "categories": ["Azure"],
-    "tags": ["azure"],
+    "categories": [
+      "Azure"
+    ],
+    "tags": [
+      "azure"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/azure-account/0.13.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account"
   },
@@ -8439,8 +9223,23 @@
         "lastUpdated": "2025-01-07T04:30:02.107Z"
       }
     ],
-    "categories": ["Programming Languages", "Debuggers"],
-    "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
+    "categories": [
+      "Programming Languages",
+      "Debuggers"
+    ],
+    "tags": [
+      "build",
+      "c++",
+      "cmake",
+      "CMake Cache",
+      "cmake-cache",
+      "debuggers",
+      "json",
+      "keybindings",
+      "native",
+      "syntaxes",
+      "tools"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.20.52/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
@@ -8532,8 +9331,25 @@
         "lastUpdated": "2024-08-29T23:14:22.3Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
-    "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters"
+    ],
+    "tags": [
+      "C",
+      "C++",
+      "cpp",
+      "cuda-cpp",
+      "debuggers",
+      "IntelliSense",
+      "json",
+      "keybindings",
+      "Microsoft",
+      "multi-root ready"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
@@ -8625,8 +9441,20 @@
         "lastUpdated": "2024-10-05T00:17:27.16Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "chrome",
+      "debugger",
+      "debuggers",
+      "javascript",
+      "keybindings",
+      "node",
+      "pwa",
+      "wat",
+      "WebAssembly Text Format"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.2.1117/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
@@ -8718,8 +9546,18 @@
         "lastUpdated": "2023-10-02T09:21:10.323Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "browser",
+      "html",
+      "live",
+      "livepreview",
+      "preview",
+      "refresh",
+      "reload"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2024091601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
@@ -8727,9 +9565,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.12.16",
-    "last_updated": "2025-02-14T04:22:27.907Z",
+    "latest_version": "0.12.17",
+    "last_updated": "2025-02-25T18:53:10.33Z",
     "version_history": [
+      {
+        "version": "0.12.17",
+        "lastUpdated": "2025-02-25T18:53:10.33Z"
+      },
       {
         "version": "0.12.16",
         "lastUpdated": "2025-02-14T04:22:27.907Z"
@@ -8805,15 +9647,20 @@
       {
         "version": "0.11.12",
         "lastUpdated": "2024-09-17T04:21:14.58Z"
-      },
-      {
-        "version": "0.11.11",
-        "lastUpdated": "2024-09-13T04:21:25.753Z"
       }
     ],
-    "categories": ["Programming Languages", "Debuggers"],
-    "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.12.16/vspackage",
+    "categories": [
+      "Programming Languages",
+      "Debuggers"
+    ],
+    "tags": [
+      "C",
+      "C++",
+      "IntelliSense",
+      "Makefile",
+      "Microsoft"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.12.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
@@ -8904,8 +9751,23 @@
         "lastUpdated": "2023-09-14T00:04:43.81Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Themes", "Linters", "Debuggers", "Formatters"],
-    "tags": ["color-theme", "debuggers", "keybindings", "powershell", "pwsh", "snippet", "theme"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Themes",
+      "Linters",
+      "Debuggers",
+      "Formatters"
+    ],
+    "tags": [
+      "color-theme",
+      "debuggers",
+      "keybindings",
+      "powershell",
+      "pwsh",
+      "snippet",
+      "theme"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell"
   },
@@ -8997,8 +9859,12 @@
         "lastUpdated": "2024-04-16T09:07:42.953Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["remote-menu"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "remote-menu"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025010809/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
@@ -9090,8 +9956,13 @@
         "lastUpdated": "2021-08-30T13:57:53.563Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["GitHub Issues", "github-issues"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "GitHub Issues",
+      "github-issues"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-github-issue-notebooks/0.0.130/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks"
   },
@@ -9183,8 +10054,16 @@
         "lastUpdated": "2025-01-17T02:53:58.85Z"
       }
     ],
-    "categories": ["Visualization", "Testing"],
-    "tags": ["embedded", "monitor", "port", "serial"],
+    "categories": [
+      "Visualization",
+      "Testing"
+    ],
+    "tags": [
+      "embedded",
+      "monitor",
+      "port",
+      "serial"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250225001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
@@ -9192,9 +10071,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250224",
-    "last_updated": "2025-02-25T00:16:08.547Z",
+    "latest_version": "5.9.20250225",
+    "last_updated": "2025-02-26T00:17:19.69Z",
     "version_history": [
+      {
+        "version": "5.9.20250225",
+        "lastUpdated": "2025-02-26T00:17:19.69Z"
+      },
       {
         "version": "5.9.20250224",
         "lastUpdated": "2025-02-25T00:16:08.547Z"
@@ -9270,15 +10153,21 @@
       {
         "version": "5.8.20250205",
         "lastUpdated": "2025-02-06T00:15:21.36Z"
-      },
-      {
-        "version": "5.8.20250204",
-        "lastUpdated": "2025-02-05T00:16:51.147Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250224/vspackage",
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "JavaScript",
+      "javascriptreact",
+      "js",
+      "nightly",
+      "ts",
+      "TypeScript",
+      "typescriptreact"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250225/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -9369,8 +10258,20 @@
         "lastUpdated": "2023-02-23T18:02:53.02Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["Co-Debug", "Co-Edit", "Collaboration", "debuggers", "keybindings", "liveshare", "Remote", "remote-menu", "Sharing"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "Co-Debug",
+      "Co-Edit",
+      "Collaboration",
+      "debuggers",
+      "keybindings",
+      "liveshare",
+      "Remote",
+      "remote-menu",
+      "Sharing"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5948/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
   },
@@ -9462,8 +10363,24 @@
         "lastUpdated": "2020-06-23T05:00:21.68Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Formatters", "Azure"],
-    "tags": ["ARM", "arm-template", "Azure", "Azure Resource Manager Template", "Azure Template", "json", "jsonc", "Resource Manager", "Snippets"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Formatters",
+      "Azure"
+    ],
+    "tags": [
+      "ARM",
+      "arm-template",
+      "Azure",
+      "Azure Resource Manager Template",
+      "Azure Template",
+      "json",
+      "jsonc",
+      "Resource Manager",
+      "Snippets"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/msazurermtools/vsextensions/azurerm-vscode-tools/0.15.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools"
   },
@@ -9555,8 +10472,16 @@
         "lastUpdated": "2021-08-30T13:32:28.51Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["debuggers", "expo", "javascript", "multi-root ready", "react-native"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "debuggers",
+      "expo",
+      "javascript",
+      "multi-root ready",
+      "react-native"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/msjsdiag/vsextensions/vscode-react-native/1.13.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native"
   },
@@ -9648,8 +10573,14 @@
         "lastUpdated": "2023-11-03T05:02:24.9Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["keybindings", "leetcode", "python"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "keybindings",
+      "leetcode",
+      "python"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nikhilweee/vsextensions/vsleet/0.2.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=nikhilweee.vsleet"
   },
@@ -9677,8 +10608,16 @@
         "lastUpdated": "2022-05-02T10:35:11.12Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets"],
-    "tags": ["Markdown Components", "mdc", "Nuxt Content", "snippet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets"
+    ],
+    "tags": [
+      "Markdown Components",
+      "mdc",
+      "Nuxt Content",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc"
   },
@@ -9770,8 +10709,22 @@
         "lastUpdated": "2023-07-31T08:53:44.54Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets"],
-    "tags": ["Log", "nuxt", "Nuxt Framework", "nuxtignore", "Nuxtr", "Nuxtr VSCode", "nuxtrc", "snippet", "VSCode", "Vue"],
+    "categories": [
+      "Programming Languages",
+      "Snippets"
+    ],
+    "tags": [
+      "Log",
+      "nuxt",
+      "Nuxt Framework",
+      "nuxtignore",
+      "Nuxtr",
+      "Nuxtr VSCode",
+      "nuxtrc",
+      "snippet",
+      "VSCode",
+      "Vue"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxtr/vsextensions/nuxtr-vscode/0.2.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxtr.nuxtr-vscode"
   },
@@ -9819,8 +10772,31 @@
         "lastUpdated": "2023-10-18T12:20:24.687Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["debuggers", "Gradle", "jackpot-hint", "java", "Java Hints", "java properties", "javascript", "JDK", "json", "junit", "keybindings", "Maven", "multiroot", "multi-root ready", "OpenJDK"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters",
+      "Testing"
+    ],
+    "tags": [
+      "debuggers",
+      "Gradle",
+      "jackpot-hint",
+      "java",
+      "Java Hints",
+      "java properties",
+      "javascript",
+      "JDK",
+      "json",
+      "junit",
+      "keybindings",
+      "Maven",
+      "multiroot",
+      "multi-root ready",
+      "OpenJDK"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/23.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java"
   },
@@ -9892,8 +10868,20 @@
         "lastUpdated": "2019-06-19T18:24:13.17Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["debuggers", "keybindings", "Oracle", "oraclesql", "Oracle-SQL and PLSQL", "PL/SQL", "plsql", "snippet", "sql"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "debuggers",
+      "keybindings",
+      "Oracle",
+      "oraclesql",
+      "Oracle-SQL and PLSQL",
+      "PL/SQL",
+      "plsql",
+      "snippet",
+      "sql"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracledevtools/23.4.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracledevtools"
   },
@@ -9985,8 +10973,21 @@
         "lastUpdated": "2024-11-03T03:44:11.937Z"
       }
     ],
-    "categories": ["Linters"],
-    "tags": ["javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
+    "categories": [
+      "Linters"
+    ],
+    "tags": [
+      "javascript",
+      "javascriptreact",
+      "json",
+      "jsonc",
+      "linter",
+      "oxc",
+      "svelte",
+      "typescript",
+      "typescriptreact",
+      "vue"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.15.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
@@ -10078,8 +11079,16 @@
         "lastUpdated": "2024-06-13T06:12:44.397Z"
       }
     ],
-    "categories": ["Themes"],
-    "tags": ["customization", "icons", "icon-theme", "material", "theme"],
+    "categories": [
+      "Themes"
+    ],
+    "tags": [
+      "customization",
+      "icons",
+      "icon-theme",
+      "material",
+      "theme"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.19.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
@@ -10099,7 +11108,12 @@
         "lastUpdated": "2025-01-10T20:01:33.123Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Debuggers",
+      "Testing"
+    ],
     "tags": [
       "arduino",
       "arm",
@@ -10207,8 +11221,18 @@
         "lastUpdated": "2022-06-10T11:47:38.713Z"
       }
     ],
-    "categories": ["Visualization"],
-    "tags": ["draw", "excalidraw", "graphics", "json", "keybindings", "paint", "schemas"],
+    "categories": [
+      "Visualization"
+    ],
+    "tags": [
+      "draw",
+      "excalidraw",
+      "graphics",
+      "json",
+      "keybindings",
+      "paint",
+      "schemas"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.7.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor"
   },
@@ -10300,8 +11324,21 @@
         "lastUpdated": "2023-12-13T14:40:25.31Z"
       }
     ],
-    "categories": ["Programming Languages", "Education", "Testing"],
-    "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
+    "categories": [
+      "Programming Languages",
+      "Education",
+      "Testing"
+    ],
+    "tags": [
+      "api client",
+      "grpc client",
+      "http client",
+      "keybindings",
+      "Postman",
+      "rest client",
+      "testing",
+      "websocket client"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
@@ -10393,8 +11430,17 @@
         "lastUpdated": "2024-05-14T13:06:43.04Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["javascript", "javascriptreact", "linters", "prisma", "typescript", "typescriptreact"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "javascript",
+      "javascriptreact",
+      "linters",
+      "prisma",
+      "typescript",
+      "typescriptreact"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.4.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
@@ -10486,8 +11532,25 @@
         "lastUpdated": "2020-03-27T13:42:48.503Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
-    "tags": ["debuggers", "javascript", "json", "language", "linters", "node", "puppet", "puppetfile", "puppet-lint", "snippet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters"
+    ],
+    "tags": [
+      "debuggers",
+      "javascript",
+      "json",
+      "language",
+      "linters",
+      "node",
+      "puppet",
+      "puppetfile",
+      "puppet-lint",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/puppet/vsextensions/puppet-vscode/1.5.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode"
   },
@@ -10559,10 +11622,6 @@
         "lastUpdated": "2019-02-21T14:03:49.52Z"
       },
       {
-        "version": "0.22.0",
-        "lastUpdated": "2019-02-20T13:39:50.427Z"
-      },
-      {
         "version": "0.21.1",
         "lastUpdated": "2019-02-13T03:02:13.54Z"
       },
@@ -10577,10 +11636,28 @@
       {
         "version": "0.19.0",
         "lastUpdated": "2018-08-01T03:55:48.893Z"
+      },
+      {
+        "version": "0.18.0",
+        "lastUpdated": "2018-04-10T21:55:16Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
-    "tags": ["Bundler", "debuggers", "Encapsulated Ruby", "erb", "gemfile", "ignore", "ruby"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters"
+    ],
+    "tags": [
+      "Bundler",
+      "debuggers",
+      "Encapsulated Ruby",
+      "erb",
+      "gemfile",
+      "ignore",
+      "ruby"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rebornix/vsextensions/Ruby/0.28.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby"
   },
@@ -10672,8 +11749,20 @@
         "lastUpdated": "2024-06-20T21:26:48.833Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters"],
-    "tags": ["ansible", "ansible-jinja", "autocompletion", "json", "keybindings", "validation", "yaml", "yml"],
+    "categories": [
+      "Programming Languages",
+      "Linters"
+    ],
+    "tags": [
+      "ansible",
+      "ansible-jinja",
+      "autocompletion",
+      "json",
+      "keybindings",
+      "validation",
+      "yaml",
+      "yml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
   },
@@ -10765,8 +11854,18 @@
         "lastUpdated": "2020-11-09T13:34:37.94Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["CVE", "dependency scan", "java", "multi-root ready", "Node", "Security", "vulnerability"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "CVE",
+      "dependency scan",
+      "java",
+      "multi-root ready",
+      "Node",
+      "Security",
+      "vulnerability"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/fabric8-analytics/0.9.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics"
   },
@@ -10858,8 +11957,23 @@
         "lastUpdated": "2025-01-08T09:35:00.86Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
-    "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "Gradle Kotlin DSL",
+      "gradle-kotlin-dsl",
+      "java",
+      "Java Properties",
+      "java-properties",
+      "json",
+      "keybindings",
+      "linters",
+      "multi-root ready"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.40.2025022008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
@@ -10951,8 +12065,19 @@
         "lastUpdated": "2021-11-23T16:12:57.13Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
-    "tags": ["autocompletion", "dockercompose", "kubernetes", "validation", "yaml"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "autocompletion",
+      "dockercompose",
+      "kubernetes",
+      "validation",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
@@ -11044,8 +12169,14 @@
         "lastUpdated": "2020-02-24T08:25:07.99Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["commit", "git", "vscode"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "commit",
+      "git",
+      "vscode"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redjue/vsextensions/git-commit-plugin/1.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin"
   },
@@ -11053,9 +12184,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2320",
-    "last_updated": "2025-02-25T00:40:51.79Z",
+    "latest_version": "0.4.2321",
+    "last_updated": "2025-02-26T00:41:54.03Z",
     "version_history": [
+      {
+        "version": "0.4.2321",
+        "lastUpdated": "2025-02-26T00:41:54.03Z"
+      },
       {
         "version": "0.4.2320",
         "lastUpdated": "2025-02-25T00:40:51.79Z"
@@ -11131,15 +12266,20 @@
       {
         "version": "0.4.2298",
         "lastUpdated": "2025-02-10T00:39:53.94Z"
-      },
-      {
-        "version": "0.4.2297",
-        "lastUpdated": "2025-02-09T00:43:20.307Z"
       }
     ],
-    "categories": ["Programming Languages", "Formatters"],
-    "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2320/vspackage",
+    "categories": [
+      "Programming Languages",
+      "Formatters"
+    ],
+    "tags": [
+      "json",
+      "keybindings",
+      "ra_syntax_tree",
+      "rs",
+      "rust"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2321/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11230,7 +12370,9 @@
         "lastUpdated": "2020-06-23T23:27:09.933Z"
       }
     ],
-    "categories": ["Formatters"],
+    "categories": [
+      "Formatters"
+    ],
     "tags": [
       "css",
       "eslint",
@@ -11345,8 +12487,13 @@
         "lastUpdated": "2024-07-11T16:56:51.873Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["debuggers", "snippet"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "debuggers",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.1.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
@@ -11438,8 +12585,28 @@
         "lastUpdated": "2025-01-22T07:20:09.753Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
-    "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Education",
+      "Testing",
+      "AI",
+      "Chat"
+    ],
+    "tags": [
+      "agent",
+      "AI",
+      "autonomous",
+      "chatgpt",
+      "Claude",
+      "cline",
+      "coding",
+      "dev",
+      "llama",
+      "mcp",
+      "openrouter",
+      "sonnet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
@@ -11531,8 +12698,17 @@
         "lastUpdated": "2019-04-07T19:48:35.077Z"
       }
     ],
-    "categories": ["Snippets"],
-    "tags": ["Composition API", "snippet", "Vue", "Vue 2", "Vue 3", "Vue Snippets"],
+    "categories": [
+      "Snippets"
+    ],
+    "tags": [
+      "Composition API",
+      "snippet",
+      "Vue",
+      "Vue 2",
+      "Vue 3",
+      "Vue Snippets"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sdras/vsextensions/vue-vscode-snippets/3.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets"
   },
@@ -11612,8 +12788,16 @@
         "lastUpdated": "2017-06-18T20:16:40.677Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["action", "buttons", "runner", "status bar", "task"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "action",
+      "buttons",
+      "runner",
+      "status bar",
+      "task"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/seunlanlege/vsextensions/action-buttons/1.2.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=seunlanlege.action-buttons"
   },
@@ -11705,8 +12889,14 @@
         "lastUpdated": "2023-09-15T09:21:18.2Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["keybindings", "markdown", "quarto"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "keybindings",
+      "markdown",
+      "quarto"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
   },
@@ -11794,7 +12984,9 @@
         "lastUpdated": "2024-12-14T12:38:57.57Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.6.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
@@ -11887,8 +13079,17 @@
         "lastUpdated": "2024-11-19T08:12:54.303Z"
       }
     ],
-    "categories": ["Linters"],
-    "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
+    "categories": [
+      "Linters"
+    ],
+    "tags": [
+      "checker",
+      "json",
+      "jsonc",
+      "spell",
+      "spellchecker",
+      "spelling"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.39/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
@@ -11980,8 +13181,18 @@
         "lastUpdated": "2024-05-14T10:53:40.513Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters"],
-    "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters"
+    ],
+    "tags": [
+      "EmmyLua",
+      "IntelliSense",
+      "json",
+      "jsonc",
+      "lua"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
   },
@@ -12009,8 +13220,15 @@
         "lastUpdated": "2024-08-07T09:09:05.353Z"
       }
     ],
-    "categories": ["AI", "Chat"],
-    "tags": ["Databases", "Postgres", "supabase"],
+    "categories": [
+      "AI",
+      "Chat"
+    ],
+    "tags": [
+      "Databases",
+      "Postgres",
+      "supabase"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
   },
@@ -12102,8 +13320,18 @@
         "lastUpdated": "2024-06-26T15:47:17.577Z"
       }
     ],
-    "categories": ["Programming Languages", "Formatters"],
-    "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
+    "categories": [
+      "Programming Languages",
+      "Formatters"
+    ],
+    "tags": [
+      "javascript",
+      "json",
+      "snippet",
+      "svelte",
+      "typescript",
+      "vscode"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.5.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
@@ -12175,8 +13403,17 @@
         "lastUpdated": "2018-12-31T03:39:57.227Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["rust", "rustlang", "test", "test adapter", "test explorer", "testing"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "rust",
+      "rustlang",
+      "test",
+      "test adapter",
+      "test explorer",
+      "testing"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/swellaby/vsextensions/vscode-rust-test-adapter/0.11.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=swellaby.vscode-rust-test-adapter"
   },
@@ -12268,8 +13505,19 @@
         "lastUpdated": "2021-07-13T01:04:31.767Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
-    "tags": ["cargoLock", "config", "formatter", "rust", "syntax", "toml"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "cargoLock",
+      "config",
+      "formatter",
+      "rust",
+      "syntax",
+      "toml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tamasfe/vsextensions/even-better-toml/0.21.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml"
   },
@@ -12349,8 +13597,21 @@
         "lastUpdated": "2020-07-07T18:39:12.417Z"
       }
     ],
-    "categories": ["Snippets", "Linters"],
-    "tags": ["desktop", "development", "framework", "gui", "javascript", "json", "rust", "snippet", "tauri"],
+    "categories": [
+      "Snippets",
+      "Linters"
+    ],
+    "tags": [
+      "desktop",
+      "development",
+      "framework",
+      "gui",
+      "javascript",
+      "json",
+      "rust",
+      "snippet",
+      "tauri"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tauri-apps/vsextensions/tauri-vscode/0.2.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode"
   },
@@ -12442,8 +13703,24 @@
         "lastUpdated": "2023-04-14T01:07:05.333Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters"],
-    "tags": ["bash", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
+    "categories": [
+      "Programming Languages",
+      "Linters"
+    ],
+    "tags": [
+      "bash",
+      "dash",
+      "ksh",
+      "lint",
+      "linter",
+      "posix",
+      "sh",
+      "shell",
+      "shellcheck-output",
+      "shellcheckrc",
+      "shellscript",
+      "snippet"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.37.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
@@ -12515,8 +13792,16 @@
         "lastUpdated": "2015-10-19T23:32:24.897Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets"],
-    "tags": ["CMake", "CMake Cache", "cmake-cache", "Syntax"],
+    "categories": [
+      "Programming Languages",
+      "Snippets"
+    ],
+    "tags": [
+      "CMake",
+      "CMake Cache",
+      "cmake-cache",
+      "Syntax"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/twxs/vsextensions/cmake/0.0.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=twxs.cmake"
   },
@@ -12596,8 +13881,12 @@
         "lastUpdated": "2020-03-28T20:12:45.923Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["license"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "license"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ultram4rine/vsextensions/vscode-choosealicense/0.9.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ultram4rine.vscode-choosealicense"
   },
@@ -12689,8 +13978,19 @@
         "lastUpdated": "2023-12-14T16:53:13.163Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["javascript", "javascriptreact", "json", "keybindings", "Markdown", "mdx", "typescript", "typescriptreact"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "javascript",
+      "javascriptreact",
+      "json",
+      "keybindings",
+      "Markdown",
+      "mdx",
+      "typescript",
+      "typescriptreact"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.13/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx"
   },
@@ -12718,8 +14018,20 @@
         "lastUpdated": "2021-03-21T15:24:09.687Z"
       }
     ],
-    "categories": ["Linters", "Formatters"],
-    "tags": ["format", "ignore", "json", "lint", "linters", "markdown", "remark", "validate"],
+    "categories": [
+      "Linters",
+      "Formatters"
+    ],
+    "tags": [
+      "format",
+      "ignore",
+      "json",
+      "lint",
+      "linters",
+      "markdown",
+      "remark",
+      "validate"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-remark/3.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-remark"
   },
@@ -12811,8 +14123,21 @@
         "lastUpdated": "2023-02-07T17:08:38.357Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["diagnostic", "error", "gutter", "highlight", "inline", "message", "problem", "problems", "status bar", "warning"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "diagnostic",
+      "error",
+      "gutter",
+      "highlight",
+      "inline",
+      "message",
+      "problem",
+      "problems",
+      "status bar",
+      "warning"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.23.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
   },
@@ -12904,8 +14229,18 @@
         "lastUpdated": "2021-05-18T17:29:01.223Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["java", "javascript", "javascriptreact", "python", "sql", "typescript", "typescriptreact"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "java",
+      "javascript",
+      "javascriptreact",
+      "python",
+      "sql",
+      "typescript",
+      "typescriptreact"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/VisualStudioExptTeam/vsextensions/vscodeintellicode/1.3.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"
   },
@@ -12997,8 +14332,17 @@
         "lastUpdated": "2024-12-08T11:23:16.79Z"
       }
     ],
-    "categories": ["Testing"],
-    "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
+    "categories": [
+      "Testing"
+    ],
+    "tags": [
+      "javascript",
+      "test",
+      "typescript",
+      "vitest",
+      "Vitest Snapshot",
+      "vitest-snapshot"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.14.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
@@ -13090,8 +14434,19 @@
         "lastUpdated": "2021-03-17T02:43:26.563Z"
       }
     ],
-    "categories": ["Snippets", "SCM Providers"],
-    "tags": ["commit", "commitizen", "conventional-changelog", "conventional-commits", "cz", "gacp", "git"],
+    "categories": [
+      "Snippets",
+      "SCM Providers"
+    ],
+    "tags": [
+      "commit",
+      "commitizen",
+      "conventional-changelog",
+      "conventional-commits",
+      "cz",
+      "gacp",
+      "git"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vivaxy/vsextensions/vscode-conventional-commits/1.26.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits"
   },
@@ -13151,8 +14506,16 @@
         "lastUpdated": "2017-11-28T19:43:15.85Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "Extension Packs"],
-    "tags": ["java", "spring-boot", "yaml"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "Extension Packs"
+    ],
+    "tags": [
+      "java",
+      "spring-boot",
+      "yaml"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-boot-dev-pack/0.2.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack"
   },
@@ -13244,7 +14607,12 @@
         "lastUpdated": "2025-01-04T01:05:22.78Z"
       }
     ],
-    "categories": ["Programming Languages", "Linters", "AI", "Chat"],
+    "categories": [
+      "Programming Languages",
+      "Linters",
+      "AI",
+      "Chat"
+    ],
     "tags": [
       "application-properties",
       "application-yaml",
@@ -13351,8 +14719,18 @@
         "lastUpdated": "2024-08-12T05:42:21.423Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "build",
+      "compile",
+      "gradle",
+      "gradle-build",
+      "java",
+      "json",
+      "tasks"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.16.2024111106/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
   },
@@ -13444,8 +14822,17 @@
         "lastUpdated": "2023-08-28T05:27:33.59Z"
       }
     ],
-    "categories": ["Programming Languages", "Debuggers"],
-    "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
+    "categories": [
+      "Programming Languages",
+      "Debuggers"
+    ],
+    "tags": [
+      "debug",
+      "debugger",
+      "debuggers",
+      "debugging",
+      "java"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2024090204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
@@ -13537,8 +14924,15 @@
         "lastUpdated": "2024-02-28T08:11:26.53Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["explorer", "java", "keybindings", "project"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "explorer",
+      "java",
+      "keybindings",
+      "project"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.24.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
@@ -13630,8 +15024,22 @@
         "lastUpdated": "2023-12-14T06:26:28.907Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
-    "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
+    "categories": [
+      "Programming Languages",
+      "Snippets",
+      "Linters",
+      "Debuggers",
+      "Formatters",
+      "Extension Packs"
+    ],
+    "tags": [
+      "debugger",
+      "java",
+      "junit",
+      "keybindings",
+      "maven",
+      "spring"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2024091906/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
@@ -13723,8 +15131,16 @@
         "lastUpdated": "2023-10-07T08:34:54.763Z"
       }
     ],
-    "categories": ["Testing"],
-    "tags": ["debug", "java", "junit", "test", "testng"],
+    "categories": [
+      "Testing"
+    ],
+    "tags": [
+      "debug",
+      "java",
+      "junit",
+      "test",
+      "testng"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-test/0.43.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test"
   },
@@ -13816,8 +15232,13 @@
         "lastUpdated": "2023-03-24T03:10:33.343Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["Java", "Maven"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "Java",
+      "Maven"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2024072906/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven"
   },
@@ -13909,7 +15330,9 @@
         "lastUpdated": "2023-03-30T00:09:46.59Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-boot-dashboard/0.14.2024073000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard"
@@ -14002,8 +15425,12 @@
         "lastUpdated": "2022-07-14T03:05:41.217Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["java"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "java"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2024112703/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr"
   },
@@ -14095,8 +15522,16 @@
         "lastUpdated": "2022-07-31T18:14:29.09Z"
       }
     ],
-    "categories": ["Themes"],
-    "tags": ["icons", "icon-theme", "multi-root ready", "portable mode ready", "theme"],
+    "categories": [
+      "Themes"
+    ],
+    "tags": [
+      "icons",
+      "icon-theme",
+      "multi-root ready",
+      "portable mode ready",
+      "theme"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.11.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
   },
@@ -14188,8 +15623,16 @@
         "lastUpdated": "2022-06-28T02:53:34.393Z"
       }
     ],
-    "categories": ["Keymaps"],
-    "tags": ["keybindings", "vi", "vim", "Vimscript", "vscodevim"],
+    "categories": [
+      "Keymaps"
+    ],
+    "tags": [
+      "keybindings",
+      "vi",
+      "vim",
+      "Vimscript",
+      "vscodevim"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.29.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
   },
@@ -14281,8 +15724,17 @@
         "lastUpdated": "2020-07-16T23:40:45.747Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["gist", "github", "json", "notes", "snippets", "wiki"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "gist",
+      "github",
+      "json",
+      "notes",
+      "snippets",
+      "wiki"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
   },
@@ -14346,8 +15798,15 @@
         "lastUpdated": "2020-04-17T01:28:56.703Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["commit", "git", "github-copilot", "sync"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "commit",
+      "git",
+      "github-copilot",
+      "sync"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gitdoc/0.2.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc"
   },
@@ -14439,8 +15898,17 @@
         "lastUpdated": "2024-04-30T02:36:25.707Z"
       }
     ],
-    "categories": ["Programming Languages"],
-    "tags": ["html", "jade", "json", "markdown", "plaintext", "vue"],
+    "categories": [
+      "Programming Languages"
+    ],
+    "tags": [
+      "html",
+      "jade",
+      "json",
+      "markdown",
+      "plaintext",
+      "vue"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
@@ -14532,7 +16000,9 @@
         "lastUpdated": "2023-07-21T18:19:11.333Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/vscode-typescript-vue-plugin/1.8.27/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin"
@@ -14625,8 +16095,17 @@
         "lastUpdated": "2022-12-19T18:27:19.313Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["bitbucket", "blame", "git", "gitblame", "github", "gitlab"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "bitbucket",
+      "blame",
+      "git",
+      "gitblame",
+      "github",
+      "gitlab"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/waderyan/vsextensions/gitblame/11.1.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame"
   },
@@ -14718,7 +16197,10 @@
         "lastUpdated": "2023-07-03T09:10:50.62Z"
       }
     ],
-    "categories": ["Visualization", "Education"],
+    "categories": [
+      "Visualization",
+      "Education"
+    ],
     "tags": [
       "analytics",
       "code",
@@ -14831,8 +16313,13 @@
         "lastUpdated": "2024-12-15T22:22:08.613Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["javascript", "keybindings"],
+    "categories": [
+      "Debuggers"
+    ],
+    "tags": [
+      "javascript",
+      "keybindings"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.393/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
@@ -14848,7 +16335,11 @@
         "lastUpdated": "2024-07-05T02:21:52.56Z"
       }
     ],
-    "categories": ["Snippets", "Formatters", "Visualization"],
+    "categories": [
+      "Snippets",
+      "Formatters",
+      "Visualization"
+    ],
     "tags": [
       "BUG",
       "CHANGED",
@@ -14926,7 +16417,9 @@
         "lastUpdated": "2015-10-25T08:35:30.547Z"
       }
     ],
-    "categories": ["Other"],
+    "categories": [
+      "Other"
+    ],
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/wmaurer/vsextensions/change-case/1.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case"
@@ -15019,8 +16512,17 @@
         "lastUpdated": "2022-09-07T01:23:06.493Z"
       }
     ],
-    "categories": ["Other"],
-    "tags": ["cloudmusic", "music", "Netease", "网易云", "网易云音乐", "音乐"],
+    "categories": [
+      "Other"
+    ],
+    "tags": [
+      "cloudmusic",
+      "music",
+      "Netease",
+      "网易云",
+      "网易云音乐",
+      "音乐"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yxl/vsextensions/cloudmusic/9.22.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yxl.cloudmusic"
   },
@@ -15112,8 +16614,16 @@
         "lastUpdated": "2019-10-11T16:13:05.18Z"
       }
     ],
-    "categories": ["Programming Languages", "Formatters"],
-    "tags": ["keybindings", "markdown", "quarto", "rmd"],
+    "categories": [
+      "Programming Languages",
+      "Formatters"
+    ],
+    "tags": [
+      "keybindings",
+      "markdown",
+      "quarto",
+      "rmd"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yzhang/vsextensions/markdown-all-in-one/3.6.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one"
   },
@@ -15205,8 +16715,18 @@
         "lastUpdated": "2023-03-09T09:05:53.43Z"
       }
     ],
-    "categories": ["Themes"],
-    "tags": ["atom", "color-theme", "one dark", "one dark pro", "OneDark", "onedark pro", "theme"],
+    "categories": [
+      "Themes"
+    ],
+    "tags": [
+      "atom",
+      "color-theme",
+      "one dark",
+      "one dark pro",
+      "OneDark",
+      "onedark pro",
+      "theme"
+    ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/zhuangtongfa/vsextensions/Material-theme/3.19.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme"
   }
