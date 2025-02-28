@@ -1434,9 +1434,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.12.0",
-    "last_updated": "2025-02-27T14:56:47.22Z",
+    "latest_version": "2025.14.0",
+    "last_updated": "2025-02-28T10:38:49.767Z",
     "version_history": [
+      {
+        "version": "2025.14.0",
+        "lastUpdated": "2025-02-28T10:38:49.767Z"
+      },
       {
         "version": "2025.12.0",
         "lastUpdated": "2025-02-27T14:56:47.22Z"
@@ -1512,15 +1516,11 @@
       {
         "version": "2024.35.12060448",
         "lastUpdated": "2024-07-24T04:56:30.31Z"
-      },
-      {
-        "version": "2024.34.0",
-        "lastUpdated": "2024-07-19T13:00:42.567Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.14.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.2.2704",
-    "last_updated": "2025-02-27T09:12:40.067Z",
+    "latest_version": "2025.2.2804",
+    "last_updated": "2025-02-28T09:12:13.603Z",
     "version_history": [
+      {
+        "version": "2025.2.2804",
+        "lastUpdated": "2025-02-28T09:12:13.603Z"
+      },
       {
         "version": "2025.2.2704",
         "lastUpdated": "2025-02-27T09:12:40.067Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.804",
         "lastUpdated": "2025-02-08T09:12:28.653Z"
-      },
-      {
-        "version": "2025.2.704",
-        "lastUpdated": "2025-02-07T09:11:31.697Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10681,9 +10681,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.40.2025022608",
-    "last_updated": "2025-02-26T08:30:01.36Z",
+    "latest_version": "1.41.2025022808",
+    "last_updated": "2025-02-28T08:25:05.013Z",
     "version_history": [
+      {
+        "version": "1.41.2025022808",
+        "lastUpdated": "2025-02-28T08:25:05.013Z"
+      },
       {
         "version": "1.40.2025022608",
         "lastUpdated": "2025-02-26T08:30:01.36Z"
@@ -10759,15 +10763,11 @@
       {
         "version": "1.39.2025011708",
         "lastUpdated": "2025-01-17T08:37:24.737Z"
-      },
-      {
-        "version": "1.39.2025011008",
-        "lastUpdated": "2025-01-10T08:27:14.42Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.40.2025022608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025022808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -11714,9 +11714,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.39",
-    "last_updated": "2025-02-25T10:02:02.823Z",
+    "latest_version": "4.0.40",
+    "last_updated": "2025-02-28T09:24:46.157Z",
     "version_history": [
+      {
+        "version": "4.0.40",
+        "lastUpdated": "2025-02-28T09:24:46.157Z"
+      },
       {
         "version": "4.0.39",
         "lastUpdated": "2025-02-25T10:02:02.823Z"
@@ -11792,15 +11796,11 @@
       {
         "version": "4.0.20",
         "lastUpdated": "2024-11-19T19:25:59.34Z"
-      },
-      {
-        "version": "4.0.19",
-        "lastUpdated": "2024-11-19T08:12:54.303Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.39/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.40/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
@@ -14658,9 +14658,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.394",
-    "last_updated": "2025-02-28T05:01:04.367Z",
+    "latest_version": "1.0.395",
+    "last_updated": "2025-02-28T07:30:19.28Z",
     "version_history": [
+      {
+        "version": "1.0.395",
+        "lastUpdated": "2025-02-28T07:30:19.28Z"
+      },
       {
         "version": "1.0.394",
         "lastUpdated": "2025-02-28T05:01:04.367Z"
@@ -14736,15 +14740,11 @@
       {
         "version": "1.0.376",
         "lastUpdated": "2024-12-17T00:45:47.85Z"
-      },
-      {
-        "version": "1.0.375",
-        "lastUpdated": "2024-12-16T00:12:08.66Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["javascript", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.394/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.395/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
