@@ -4408,9 +4408,13 @@
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.45.2",
-    "last_updated": "2025-02-19T21:06:44.32Z",
+    "latest_version": "0.46.0",
+    "last_updated": "2025-02-27T20:41:20.047Z",
     "version_history": [
+      {
+        "version": "0.46.0",
+        "lastUpdated": "2025-02-27T20:41:20.047Z"
+      },
       {
         "version": "0.45.2",
         "lastUpdated": "2025-02-19T21:06:44.32Z"
@@ -4486,15 +4490,11 @@
       {
         "version": "0.40.1",
         "lastUpdated": "2023-12-21T15:27:01.037Z"
-      },
-      {
-        "version": "0.40.0",
-        "lastUpdated": "2023-11-16T18:40:23.917Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.45.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.46.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -7590,9 +7590,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.2.101",
-    "last_updated": "2025-02-21T22:31:55.22Z",
+    "latest_version": "2025.2.102",
+    "last_updated": "2025-02-27T20:56:05.383Z",
     "version_history": [
+      {
+        "version": "2025.2.102",
+        "lastUpdated": "2025-02-27T20:56:05.383Z"
+      },
       {
         "version": "2025.2.101",
         "lastUpdated": "2025-02-21T22:31:55.22Z"
@@ -7668,15 +7672,11 @@
       {
         "version": "2024.10.100",
         "lastUpdated": "2024-10-10T22:16:03.907Z"
-      },
-      {
-        "version": "2024.10.1",
-        "lastUpdated": "2024-10-07T21:09:17.4Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.2.101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.2.102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -9099,9 +9099,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250226",
-    "last_updated": "2025-02-27T00:17:59.673Z",
+    "latest_version": "5.9.20250227",
+    "last_updated": "2025-02-28T00:15:36.16Z",
     "version_history": [
+      {
+        "version": "5.9.20250227",
+        "lastUpdated": "2025-02-28T00:15:36.16Z"
+      },
       {
         "version": "5.9.20250226",
         "lastUpdated": "2025-02-27T00:17:59.673Z"
@@ -9177,15 +9181,11 @@
       {
         "version": "5.8.20250207",
         "lastUpdated": "2025-02-08T00:14:26.36Z"
-      },
-      {
-        "version": "5.8.20250206",
-        "lastUpdated": "2025-02-07T00:23:27.51Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250226/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250227/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -10960,9 +10960,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2322",
-    "last_updated": "2025-02-27T00:41:08.837Z",
+    "latest_version": "0.4.2323",
+    "last_updated": "2025-02-28T00:41:43.407Z",
     "version_history": [
+      {
+        "version": "0.4.2323",
+        "lastUpdated": "2025-02-28T00:41:43.407Z"
+      },
       {
         "version": "0.4.2322",
         "lastUpdated": "2025-02-27T00:41:08.837Z"
@@ -11038,15 +11042,11 @@
       {
         "version": "0.4.2301",
         "lastUpdated": "2025-02-12T00:40:46.37Z"
-      },
-      {
-        "version": "0.4.2300",
-        "lastUpdated": "2025-02-11T00:40:01.5Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2322/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2323/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
