@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.2",
-    "last_updated": "2025-02-27T07:31:37.203Z",
+    "latest_version": "1.1.3",
+    "last_updated": "2025-02-28T06:08:26.71Z",
     "version_history": [
+      {
+        "version": "1.1.3",
+        "lastUpdated": "2025-02-28T06:08:26.71Z"
+      },
       {
         "version": "1.1.2",
         "lastUpdated": "2025-02-27T07:31:37.203Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "0.9.256",
         "lastUpdated": "2025-01-28T06:53:08.953Z"
-      },
-      {
-        "version": "0.9.255",
-        "lastUpdated": "2025-01-24T11:07:39.92Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3891,9 +3891,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.276.1402",
-    "last_updated": "2025-02-27T16:20:06.33Z",
+    "latest_version": "1.276.1403",
+    "last_updated": "2025-02-28T01:44:39.013Z",
     "version_history": [
+      {
+        "version": "1.276.1403",
+        "lastUpdated": "2025-02-28T01:44:39.013Z"
+      },
       {
         "version": "1.276.1402",
         "lastUpdated": "2025-02-27T16:20:06.33Z"
@@ -3969,10 +3973,6 @@
       {
         "version": "1.272.1381",
         "lastUpdated": "2025-02-18T16:20:03.18Z"
-      },
-      {
-        "version": "1.272.1380",
-        "lastUpdated": "2025-02-17T15:13:01.217Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4001,16 +4001,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1402/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1403/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025022701",
-    "last_updated": "2025-02-27T04:29:21.44Z",
+    "latest_version": "0.25.2025022801",
+    "last_updated": "2025-02-28T04:30:35.207Z",
     "version_history": [
+      {
+        "version": "0.25.2025022801",
+        "lastUpdated": "2025-02-28T04:30:35.207Z"
+      },
       {
         "version": "0.25.2025022701",
         "lastUpdated": "2025-02-27T04:29:21.44Z"
@@ -4086,10 +4090,6 @@
       {
         "version": "0.24.2025020602",
         "lastUpdated": "2025-02-06T10:37:06.66Z"
-      },
-      {
-        "version": "0.24.2025020405",
-        "lastUpdated": "2025-02-04T22:38:15.473Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4122,7 +4122,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9006,9 +9006,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250225001",
-    "last_updated": "2025-02-25T02:55:13.003Z",
+    "latest_version": "0.13.250228001",
+    "last_updated": "2025-02-28T02:55:35.8Z",
     "version_history": [
+      {
+        "version": "0.13.250228001",
+        "lastUpdated": "2025-02-28T02:55:35.8Z"
+      },
       {
         "version": "0.13.250225001",
         "lastUpdated": "2025-02-25T02:55:13.003Z"
@@ -9084,15 +9088,11 @@
       {
         "version": "0.13.250118001",
         "lastUpdated": "2025-01-18T02:52:33.463Z"
-      },
-      {
-        "version": "0.13.250117001",
-        "lastUpdated": "2025-01-17T02:53:58.85Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250225001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250228001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11261,9 +11261,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.4.9",
-    "last_updated": "2025-02-26T02:31:44.36Z",
+    "latest_version": "3.4.10",
+    "last_updated": "2025-02-28T02:56:13.693Z",
     "version_history": [
+      {
+        "version": "3.4.10",
+        "lastUpdated": "2025-02-28T02:56:13.693Z"
+      },
       {
         "version": "3.4.9",
         "lastUpdated": "2025-02-26T02:31:44.36Z"
@@ -11339,15 +11343,11 @@
       {
         "version": "3.2.7",
         "lastUpdated": "2025-01-30T19:20:26.063Z"
-      },
-      {
-        "version": "3.2.6",
-        "lastUpdated": "2025-01-30T00:58:55.78Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.4.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14658,9 +14658,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.393",
-    "last_updated": "2025-02-25T02:59:49.04Z",
+    "latest_version": "1.0.394",
+    "last_updated": "2025-02-28T05:01:04.367Z",
     "version_history": [
+      {
+        "version": "1.0.394",
+        "lastUpdated": "2025-02-28T05:01:04.367Z"
+      },
       {
         "version": "1.0.393",
         "lastUpdated": "2025-02-25T02:59:49.04Z"
@@ -14736,15 +14740,11 @@
       {
         "version": "1.0.375",
         "lastUpdated": "2024-12-16T00:12:08.66Z"
-      },
-      {
-        "version": "1.0.374",
-        "lastUpdated": "2024-12-15T22:22:08.613Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["javascript", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.393/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.394/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
