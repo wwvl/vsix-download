@@ -9006,9 +9006,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250228001",
-    "last_updated": "2025-02-28T02:55:35.8Z",
+    "latest_version": "0.13.250301001",
+    "last_updated": "2025-03-01T02:56:48.377Z",
     "version_history": [
+      {
+        "version": "0.13.250301001",
+        "lastUpdated": "2025-03-01T02:56:48.377Z"
+      },
       {
         "version": "0.13.250228001",
         "lastUpdated": "2025-02-28T02:55:35.8Z"
@@ -9084,15 +9088,11 @@
       {
         "version": "0.13.250119001",
         "lastUpdated": "2025-01-19T02:53:30.83Z"
-      },
-      {
-        "version": "0.13.250118001",
-        "lastUpdated": "2025-01-18T02:52:33.463Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250228001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250301001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -14658,9 +14658,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.395",
-    "last_updated": "2025-02-28T07:30:19.28Z",
+    "latest_version": "1.0.397",
+    "last_updated": "2025-03-01T04:11:53.53Z",
     "version_history": [
+      {
+        "version": "1.0.397",
+        "lastUpdated": "2025-03-01T04:11:53.53Z"
+      },
+      {
+        "version": "1.0.396",
+        "lastUpdated": "2025-03-01T04:09:20.21Z"
+      },
       {
         "version": "1.0.395",
         "lastUpdated": "2025-02-28T07:30:19.28Z"
@@ -14732,19 +14740,11 @@
       {
         "version": "1.0.378",
         "lastUpdated": "2025-01-12T23:00:29.37Z"
-      },
-      {
-        "version": "1.0.377",
-        "lastUpdated": "2025-01-01T22:14:50.853Z"
-      },
-      {
-        "version": "1.0.376",
-        "lastUpdated": "2024-12-17T00:45:47.85Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["javascript", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.395/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.397/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
