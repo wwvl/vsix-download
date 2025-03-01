@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.2.2804",
-    "last_updated": "2025-02-28T09:12:13.603Z",
+    "latest_version": "2025.3.104",
+    "last_updated": "2025-03-01T09:11:44.15Z",
     "version_history": [
+      {
+        "version": "2025.3.104",
+        "lastUpdated": "2025-03-01T09:11:44.15Z"
+      },
       {
         "version": "2025.2.2804",
         "lastUpdated": "2025-02-28T09:12:13.603Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1014",
         "lastUpdated": "2025-02-10T19:31:54.29Z"
-      },
-      {
-        "version": "2025.2.804",
-        "lastUpdated": "2025-02-08T09:12:28.653Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.2.2804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10681,9 +10681,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025022808",
-    "last_updated": "2025-02-28T08:25:05.013Z",
+    "latest_version": "1.41.2025030108",
+    "last_updated": "2025-03-01T08:23:32.7Z",
     "version_history": [
+      {
+        "version": "1.41.2025030108",
+        "lastUpdated": "2025-03-01T08:23:32.7Z"
+      },
       {
         "version": "1.41.2025022808",
         "lastUpdated": "2025-02-28T08:25:05.013Z"
@@ -10759,15 +10763,11 @@
       {
         "version": "1.40.0",
         "lastUpdated": "2025-02-27T12:18:26.423Z"
-      },
-      {
-        "version": "1.39.2025011708",
-        "lastUpdated": "2025-01-17T08:37:24.737Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025022808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025030108/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14266,9 +14266,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue - Official",
     "short_description": "Language Support for Vue",
-    "latest_version": "2.2.4",
-    "last_updated": "2025-02-23T09:07:46.057Z",
+    "latest_version": "2.2.6",
+    "last_updated": "2025-03-01T10:01:02.04Z",
     "version_history": [
+      {
+        "version": "2.2.6",
+        "lastUpdated": "2025-03-01T10:01:02.04Z"
+      },
       {
         "version": "2.2.4",
         "lastUpdated": "2025-02-23T09:07:46.057Z"
@@ -14344,15 +14348,11 @@
       {
         "version": "2.0.16",
         "lastUpdated": "2024-05-01T03:41:28.73Z"
-      },
-      {
-        "version": "2.0.15",
-        "lastUpdated": "2024-04-30T02:36:25.707Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "plaintext", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
