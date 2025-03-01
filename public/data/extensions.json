@@ -1620,9 +1620,13 @@
     "extension_name": "Codeium.codeium",
     "display_name": "Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more",
     "short_description": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
-    "latest_version": "1.35.2",
-    "last_updated": "2025-01-22T19:12:50.043Z",
+    "latest_version": "1.41.1",
+    "last_updated": "2025-03-01T00:30:39.837Z",
     "version_history": [
+      {
+        "version": "1.41.1",
+        "lastUpdated": "2025-03-01T00:30:39.837Z"
+      },
       {
         "version": "1.35.2",
         "lastUpdated": "2025-01-22T19:12:50.043Z"
@@ -1698,10 +1702,6 @@
       {
         "version": "1.27.9",
         "lastUpdated": "2024-11-18T20:30:32.4Z"
-      },
-      {
-        "version": "1.27.5",
-        "lastUpdated": "2024-11-13T23:09:05.597Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -1735,7 +1735,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.35.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.41.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
   },
   {
@@ -4008,9 +4008,17 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025022801",
-    "last_updated": "2025-02-28T04:30:35.207Z",
+    "latest_version": "0.25.2025022803",
+    "last_updated": "2025-02-28T23:43:44.027Z",
     "version_history": [
+      {
+        "version": "0.25.2025022803",
+        "lastUpdated": "2025-02-28T23:43:44.027Z"
+      },
+      {
+        "version": "0.25.2025022802",
+        "lastUpdated": "2025-02-28T19:58:23.83Z"
+      },
       {
         "version": "0.25.2025022801",
         "lastUpdated": "2025-02-28T04:30:35.207Z"
@@ -4082,14 +4090,6 @@
       {
         "version": "0.25.2025020603",
         "lastUpdated": "2025-02-06T18:40:02.773Z"
-      },
-      {
-        "version": "0.24.2025021302",
-        "lastUpdated": "2025-02-13T18:50:47.223Z"
-      },
-      {
-        "version": "0.24.2025020602",
-        "lastUpdated": "2025-02-06T10:37:06.66Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4122,7 +4122,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022803/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4408,9 +4408,13 @@
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.46.0",
-    "last_updated": "2025-02-27T20:41:20.047Z",
+    "latest_version": "0.47.0",
+    "last_updated": "2025-02-28T18:54:33.04Z",
     "version_history": [
+      {
+        "version": "0.47.0",
+        "lastUpdated": "2025-02-28T18:54:33.04Z"
+      },
       {
         "version": "0.46.0",
         "lastUpdated": "2025-02-27T20:41:20.047Z"
@@ -4486,15 +4490,11 @@
       {
         "version": "0.40.2",
         "lastUpdated": "2024-01-22T16:09:02.317Z"
-      },
-      {
-        "version": "0.40.1",
-        "lastUpdated": "2023-12-21T15:27:01.037Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.46.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.47.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -6864,9 +6864,13 @@
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.65.29",
-    "last_updated": "2025-02-12T18:58:52.237Z",
+    "latest_version": "2.67.20",
+    "last_updated": "2025-02-28T20:45:05.41Z",
     "version_history": [
+      {
+        "version": "2.67.20",
+        "lastUpdated": "2025-02-28T20:45:05.41Z"
+      },
       {
         "version": "2.65.29",
         "lastUpdated": "2025-02-12T18:58:52.237Z"
@@ -6942,10 +6946,6 @@
       {
         "version": "2.52.24",
         "lastUpdated": "2024-10-16T17:14:19.383Z"
-      },
-      {
-        "version": "2.51.17",
-        "lastUpdated": "2024-10-08T19:52:26.123Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -6968,7 +6968,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.65.29/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.67.20/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -9099,9 +9099,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250227",
-    "last_updated": "2025-02-28T00:15:36.16Z",
+    "latest_version": "5.9.20250228",
+    "last_updated": "2025-03-01T00:15:05.21Z",
     "version_history": [
+      {
+        "version": "5.9.20250228",
+        "lastUpdated": "2025-03-01T00:15:05.21Z"
+      },
       {
         "version": "5.9.20250227",
         "lastUpdated": "2025-02-28T00:15:36.16Z"
@@ -9177,15 +9181,11 @@
       {
         "version": "5.8.20250208",
         "lastUpdated": "2025-02-09T00:13:55.96Z"
-      },
-      {
-        "version": "5.8.20250207",
-        "lastUpdated": "2025-02-08T00:14:26.36Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250227/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250228/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -10960,9 +10960,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2323",
-    "last_updated": "2025-02-28T00:41:43.407Z",
+    "latest_version": "0.4.2324",
+    "last_updated": "2025-03-01T00:43:23.817Z",
     "version_history": [
+      {
+        "version": "0.4.2324",
+        "lastUpdated": "2025-03-01T00:43:23.817Z"
+      },
       {
         "version": "0.4.2323",
         "lastUpdated": "2025-02-28T00:41:43.407Z"
@@ -11038,15 +11042,11 @@
       {
         "version": "0.4.2302",
         "lastUpdated": "2025-02-13T00:40:18.25Z"
-      },
-      {
-        "version": "0.4.2301",
-        "lastUpdated": "2025-02-12T00:40:46.37Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2323/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2324/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11168,9 +11168,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "63.1.1",
-    "last_updated": "2025-02-18T17:32:54.91Z",
+    "latest_version": "63.2.3",
+    "last_updated": "2025-02-28T21:53:11.647Z",
     "version_history": [
+      {
+        "version": "63.2.3",
+        "lastUpdated": "2025-02-28T21:53:11.647Z"
+      },
       {
         "version": "63.1.1",
         "lastUpdated": "2025-02-18T17:32:54.91Z"
@@ -11246,15 +11250,11 @@
       {
         "version": "61.5.0",
         "lastUpdated": "2024-07-17T22:29:26.273Z"
-      },
-      {
-        "version": "61.4.0",
-        "lastUpdated": "2024-07-11T16:56:51.873Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.1.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.2.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -13071,9 +13071,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025022700",
-    "last_updated": "2025-02-27T01:06:33.35Z",
+    "latest_version": "1.61.2025030100",
+    "last_updated": "2025-03-01T01:07:15.353Z",
     "version_history": [
+      {
+        "version": "1.61.2025030100",
+        "lastUpdated": "2025-03-01T01:07:15.353Z"
+      },
       {
         "version": "1.61.2025022700",
         "lastUpdated": "2025-02-27T01:06:33.35Z"
@@ -13149,10 +13153,6 @@
       {
         "version": "1.60.2025010900",
         "lastUpdated": "2025-01-09T01:16:06.283Z"
-      },
-      {
-        "version": "1.60.2025010700",
-        "lastUpdated": "2025-01-07T01:05:40.85Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13171,7 +13171,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025022700/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
