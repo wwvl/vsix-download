@@ -1742,9 +1742,17 @@
     "extension_name": "colourafredi.vscode-deepseek",
     "display_name": "DeepSeek R1",
     "short_description": "Write, review, explain, refactor, and test code. Supports multiple languages and provides customizable prompts for efficient coding assistance.",
-    "latest_version": "1.5.1",
-    "last_updated": "2025-02-22T04:50:51.333Z",
+    "latest_version": "1.5.3",
+    "last_updated": "2025-03-02T13:27:00.033Z",
     "version_history": [
+      {
+        "version": "1.5.3",
+        "lastUpdated": "2025-03-02T13:27:00.033Z"
+      },
+      {
+        "version": "1.5.2",
+        "lastUpdated": "2025-03-02T13:20:40.563Z"
+      },
       {
         "version": "1.5.1",
         "lastUpdated": "2025-02-22T04:50:51.333Z"
@@ -1816,19 +1824,11 @@
       {
         "version": "1.3.1",
         "lastUpdated": "2025-02-08T11:28:04.29Z"
-      },
-      {
-        "version": "1.3.0",
-        "lastUpdated": "2025-02-06T02:30:41.047Z"
-      },
-      {
-        "version": "1.2.9",
-        "lastUpdated": "2025-02-06T01:59:41.46Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["ai", "assistant", "chat", "code", "code-explanation", "code-refactoring", "code-review", "copilot", "deepseek", "documentation", "gpt", "testing"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.5.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.5.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek"
   },
   {
@@ -10960,9 +10960,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2325",
-    "last_updated": "2025-03-02T00:43:44.927Z",
+    "latest_version": "0.4.2326",
+    "last_updated": "2025-03-02T15:03:31.673Z",
     "version_history": [
+      {
+        "version": "0.4.2326",
+        "lastUpdated": "2025-03-02T15:03:31.673Z"
+      },
       {
         "version": "0.4.2325",
         "lastUpdated": "2025-03-02T00:43:44.927Z"
@@ -11038,15 +11042,11 @@
       {
         "version": "0.4.2304",
         "lastUpdated": "2025-02-15T00:44:20.06Z"
-      },
-      {
-        "version": "0.4.2303",
-        "lastUpdated": "2025-02-14T00:40:53.38Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2325/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2326/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11714,9 +11714,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.40",
-    "last_updated": "2025-02-28T09:24:46.157Z",
+    "latest_version": "4.0.41",
+    "last_updated": "2025-03-02T13:12:41.08Z",
     "version_history": [
+      {
+        "version": "4.0.41",
+        "lastUpdated": "2025-03-02T13:12:41.08Z"
+      },
       {
         "version": "4.0.40",
         "lastUpdated": "2025-02-28T09:24:46.157Z"
@@ -11792,15 +11796,11 @@
       {
         "version": "4.0.21",
         "lastUpdated": "2024-11-20T18:03:41.383Z"
-      },
-      {
-        "version": "4.0.20",
-        "lastUpdated": "2024-11-19T19:25:59.34Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.40/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.41/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
