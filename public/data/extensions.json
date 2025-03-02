@@ -9099,9 +9099,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250228",
-    "last_updated": "2025-03-01T00:15:05.21Z",
+    "latest_version": "5.9.20250301",
+    "last_updated": "2025-03-02T00:15:37.217Z",
     "version_history": [
+      {
+        "version": "5.9.20250301",
+        "lastUpdated": "2025-03-02T00:15:37.217Z"
+      },
       {
         "version": "5.9.20250228",
         "lastUpdated": "2025-03-01T00:15:05.21Z"
@@ -9177,15 +9181,11 @@
       {
         "version": "5.8.20250209",
         "lastUpdated": "2025-02-10T00:15:14.553Z"
-      },
-      {
-        "version": "5.8.20250208",
-        "lastUpdated": "2025-02-09T00:13:55.96Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250228/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -10960,9 +10960,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2324",
-    "last_updated": "2025-03-01T00:43:23.817Z",
+    "latest_version": "0.4.2325",
+    "last_updated": "2025-03-02T00:43:44.927Z",
     "version_history": [
+      {
+        "version": "0.4.2325",
+        "lastUpdated": "2025-03-02T00:43:44.927Z"
+      },
       {
         "version": "0.4.2324",
         "lastUpdated": "2025-03-01T00:43:23.817Z"
@@ -11038,15 +11042,11 @@
       {
         "version": "0.4.2303",
         "lastUpdated": "2025-02-14T00:40:53.38Z"
-      },
-      {
-        "version": "0.4.2302",
-        "lastUpdated": "2025-02-13T00:40:18.25Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2324/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2325/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14658,9 +14658,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.397",
-    "last_updated": "2025-03-01T04:11:53.53Z",
+    "latest_version": "1.0.398",
+    "last_updated": "2025-03-01T22:12:33.02Z",
     "version_history": [
+      {
+        "version": "1.0.398",
+        "lastUpdated": "2025-03-01T22:12:33.02Z"
+      },
       {
         "version": "1.0.397",
         "lastUpdated": "2025-03-01T04:11:53.53Z"
@@ -14736,15 +14740,11 @@
       {
         "version": "1.0.379",
         "lastUpdated": "2025-01-14T01:27:19.843Z"
-      },
-      {
-        "version": "1.0.378",
-        "lastUpdated": "2025-01-12T23:00:29.37Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["javascript", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.397/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.398/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
