@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.104",
-    "last_updated": "2025-03-01T09:11:44.15Z",
+    "latest_version": "2025.3.204",
+    "last_updated": "2025-03-02T09:11:32.51Z",
     "version_history": [
+      {
+        "version": "2025.3.204",
+        "lastUpdated": "2025-03-02T09:11:32.51Z"
+      },
       {
         "version": "2025.3.104",
         "lastUpdated": "2025-03-01T09:11:44.15Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1015",
         "lastUpdated": "2025-02-10T20:43:04.51Z"
-      },
-      {
-        "version": "2025.2.1014",
-        "lastUpdated": "2025-02-10T19:31:54.29Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -14266,9 +14266,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue - Official",
     "short_description": "Language Support for Vue",
-    "latest_version": "2.2.6",
-    "last_updated": "2025-03-01T10:01:02.04Z",
+    "latest_version": "2.2.8",
+    "last_updated": "2025-03-02T10:33:01.907Z",
     "version_history": [
+      {
+        "version": "2.2.8",
+        "lastUpdated": "2025-03-02T10:33:01.907Z"
+      },
       {
         "version": "2.2.6",
         "lastUpdated": "2025-03-01T10:01:02.04Z"
@@ -14344,15 +14348,11 @@
       {
         "version": "2.0.17",
         "lastUpdated": "2024-05-10T09:02:30.743Z"
-      },
-      {
-        "version": "2.0.16",
-        "lastUpdated": "2024-05-01T03:41:28.73Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "plaintext", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
