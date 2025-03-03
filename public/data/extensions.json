@@ -3891,9 +3891,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.276.1404",
-    "last_updated": "2025-02-28T16:18:10.407Z",
+    "latest_version": "1.276.1405",
+    "last_updated": "2025-03-03T01:45:47.68Z",
     "version_history": [
+      {
+        "version": "1.276.1405",
+        "lastUpdated": "2025-03-03T01:45:47.68Z"
+      },
       {
         "version": "1.276.1404",
         "lastUpdated": "2025-02-28T16:18:10.407Z"
@@ -3969,10 +3973,6 @@
       {
         "version": "1.273.1384",
         "lastUpdated": "2025-02-19T10:34:54.773Z"
-      },
-      {
-        "version": "1.273.1383",
-        "lastUpdated": "2025-02-19T01:45:42.84Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4001,7 +4001,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1405/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -9006,9 +9006,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250302001",
-    "last_updated": "2025-03-02T02:51:21.24Z",
+    "latest_version": "0.13.250303001",
+    "last_updated": "2025-03-03T02:52:17.917Z",
     "version_history": [
+      {
+        "version": "0.13.250303001",
+        "lastUpdated": "2025-03-03T02:52:17.917Z"
+      },
       {
         "version": "0.13.250302001",
         "lastUpdated": "2025-03-02T02:51:21.24Z"
@@ -9084,15 +9088,11 @@
       {
         "version": "0.13.250208001",
         "lastUpdated": "2025-02-08T02:57:24.247Z"
-      },
-      {
-        "version": "0.13.250120001",
-        "lastUpdated": "2025-01-20T02:56:36.753Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250302001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250303001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11261,9 +11261,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.5.0",
-    "last_updated": "2025-03-01T12:39:16.02Z",
+    "latest_version": "3.5.1",
+    "last_updated": "2025-03-03T01:29:45.11Z",
     "version_history": [
+      {
+        "version": "3.5.1",
+        "lastUpdated": "2025-03-03T01:29:45.11Z"
+      },
       {
         "version": "3.5.0",
         "lastUpdated": "2025-03-01T12:39:16.02Z"
@@ -11339,15 +11343,11 @@
       {
         "version": "3.2.9",
         "lastUpdated": "2025-01-31T03:04:45.843Z"
-      },
-      {
-        "version": "3.2.8",
-        "lastUpdated": "2025-01-31T02:46:58.31Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.5.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.5.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -13271,9 +13271,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2024090204",
-    "last_updated": "2024-09-02T05:00:13.933Z",
+    "latest_version": "0.58.2025022807",
+    "last_updated": "2025-03-03T02:30:49.097Z",
     "version_history": [
+      {
+        "version": "0.58.2025022807",
+        "lastUpdated": "2025-03-03T02:30:49.097Z"
+      },
       {
         "version": "0.58.2024090204",
         "lastUpdated": "2024-09-02T05:00:13.933Z"
@@ -13349,15 +13353,11 @@
       {
         "version": "0.54.2023092623",
         "lastUpdated": "2023-09-27T03:10:54.617Z"
-      },
-      {
-        "version": "0.54.2023082803",
-        "lastUpdated": "2023-08-28T05:27:33.59Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2024090204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025022807/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
