@@ -1851,6 +1851,10 @@
         "lastUpdated": "2025-02-26T12:24:55.287Z"
       },
       {
+        "version": "1.0.2",
+        "lastUpdated": "2025-03-03T18:17:11.94Z"
+      },
+      {
         "version": "1.0.1",
         "lastUpdated": "2025-02-26T12:26:09.46Z"
       },
@@ -1913,10 +1917,6 @@
       {
         "version": "0.9.257",
         "lastUpdated": "2025-01-29T22:08:12.763Z"
-      },
-      {
-        "version": "0.9.256",
-        "lastUpdated": "2025-01-28T06:53:08.953Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -1928,9 +1928,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.105.20250225",
-    "last_updated": "2025-02-25T17:20:00.117Z",
+    "latest_version": "3.107.20250303",
+    "last_updated": "2025-03-03T17:33:14.677Z",
     "version_history": [
+      {
+        "version": "3.107.20250303",
+        "lastUpdated": "2025-03-03T17:33:14.677Z"
+      },
+      {
+        "version": "3.106.0",
+        "lastUpdated": "2025-03-03T17:31:29.3Z"
+      },
       {
         "version": "3.105.20250225",
         "lastUpdated": "2025-02-25T17:20:00.117Z"
@@ -2002,28 +2010,28 @@
       {
         "version": "3.101.20241118",
         "lastUpdated": "2024-11-18T13:40:18.593Z"
-      },
-      {
-        "version": "3.101.20241112",
-        "lastUpdated": "2024-11-12T13:12:51.82Z"
-      },
-      {
-        "version": "3.101.20241031",
-        "lastUpdated": "2024-10-31T13:17:53.457Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.105.20250225/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.107.20250303/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.105.20250203",
-    "last_updated": "2025-02-03T14:59:17.303Z",
+    "latest_version": "3.107.20250303",
+    "last_updated": "2025-03-03T17:29:07.18Z",
     "version_history": [
+      {
+        "version": "3.107.20250303",
+        "lastUpdated": "2025-03-03T17:29:07.18Z"
+      },
+      {
+        "version": "3.106.0",
+        "lastUpdated": "2025-03-03T17:27:18.11Z"
+      },
       {
         "version": "3.105.20250203",
         "lastUpdated": "2025-02-03T14:59:17.303Z"
@@ -2095,19 +2103,11 @@
       {
         "version": "3.88.0",
         "lastUpdated": "2024-05-01T13:52:13.07Z"
-      },
-      {
-        "version": "3.87.20240402",
-        "lastUpdated": "2024-04-02T13:08:42.33Z"
-      },
-      {
-        "version": "3.86.0",
-        "lastUpdated": "2024-04-02T12:08:32.25Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.105.20250203/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.107.20250303/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -3891,9 +3891,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.276.1405",
-    "last_updated": "2025-03-03T01:45:47.68Z",
+    "latest_version": "1.276.1406",
+    "last_updated": "2025-03-03T16:19:24.943Z",
     "version_history": [
+      {
+        "version": "1.276.1406",
+        "lastUpdated": "2025-03-03T16:19:24.943Z"
+      },
       {
         "version": "1.276.1405",
         "lastUpdated": "2025-03-03T01:45:47.68Z"
@@ -3969,10 +3973,6 @@
       {
         "version": "1.273.1385",
         "lastUpdated": "2025-02-19T17:18:24.997Z"
-      },
-      {
-        "version": "1.273.1384",
-        "lastUpdated": "2025-02-19T10:34:54.773Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4001,7 +4001,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.276.1406/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -6143,9 +6143,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.68",
-    "last_updated": "2025-02-27T16:14:58.47Z",
+    "latest_version": "1.1.69",
+    "last_updated": "2025-03-03T15:42:41.013Z",
     "version_history": [
+      {
+        "version": "1.1.69",
+        "lastUpdated": "2025-03-03T15:42:41.013Z"
+      },
       {
         "version": "1.1.68",
         "lastUpdated": "2025-02-27T16:14:58.47Z"
@@ -6221,10 +6225,6 @@
       {
         "version": "1.1.45",
         "lastUpdated": "2025-01-02T08:13:08.67Z"
-      },
-      {
-        "version": "1.1.44",
-        "lastUpdated": "2024-12-25T10:11:45.91Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6257,7 +6257,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.68/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.69/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11621,9 +11621,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory (Cursor Extension)",
     "short_description": "(Cursor Extension) Capture, search and learn from every AI coding journey",
-    "latest_version": "0.6.2",
-    "last_updated": "2025-02-26T21:23:32.123Z",
+    "latest_version": "0.7.0",
+    "last_updated": "2025-03-03T14:34:32.127Z",
     "version_history": [
+      {
+        "version": "0.7.0",
+        "lastUpdated": "2025-03-03T14:34:32.127Z"
+      },
       {
         "version": "0.6.2",
         "lastUpdated": "2025-02-26T21:23:32.123Z"
@@ -11699,15 +11703,11 @@
       {
         "version": "0.1.1",
         "lastUpdated": "2024-12-16T16:05:19.853Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2024-12-14T12:38:57.57Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.6.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
@@ -12824,9 +12824,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.14.4",
-    "last_updated": "2025-02-22T10:05:31.44Z",
+    "latest_version": "1.16.0",
+    "last_updated": "2025-03-03T15:55:31.88Z",
     "version_history": [
+      {
+        "version": "1.16.0",
+        "lastUpdated": "2025-03-03T15:55:31.88Z"
+      },
       {
         "version": "1.14.4",
         "lastUpdated": "2025-02-22T10:05:31.44Z"
@@ -12902,15 +12906,11 @@
       {
         "version": "1.8.4",
         "lastUpdated": "2024-12-16T13:38:25.01Z"
-      },
-      {
-        "version": "1.8.3",
-        "lastUpdated": "2024-12-08T11:23:16.79Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.14.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
