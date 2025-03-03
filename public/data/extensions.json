@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.204",
-    "last_updated": "2025-03-02T09:11:32.51Z",
+    "latest_version": "2025.3.304",
+    "last_updated": "2025-03-03T09:13:44.597Z",
     "version_history": [
+      {
+        "version": "2025.3.304",
+        "lastUpdated": "2025-03-03T09:13:44.597Z"
+      },
       {
         "version": "2025.3.204",
         "lastUpdated": "2025-03-02T09:11:32.51Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1104",
         "lastUpdated": "2025-02-11T09:12:17.587Z"
-      },
-      {
-        "version": "2025.2.1015",
-        "lastUpdated": "2025-02-10T20:43:04.51Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4008,9 +4008,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025022803",
-    "last_updated": "2025-02-28T23:43:44.027Z",
+    "latest_version": "0.25.2025030302",
+    "last_updated": "2025-03-03T09:17:34.727Z",
     "version_history": [
+      {
+        "version": "0.25.2025030302",
+        "lastUpdated": "2025-03-03T09:17:34.727Z"
+      },
       {
         "version": "0.25.2025022803",
         "lastUpdated": "2025-02-28T23:43:44.027Z"
@@ -4086,10 +4090,6 @@
       {
         "version": "0.25.2025020702",
         "lastUpdated": "2025-02-07T04:28:34.663Z"
-      },
-      {
-        "version": "0.25.2025020603",
-        "lastUpdated": "2025-02-06T18:40:02.773Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4122,7 +4122,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025022803/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025030302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -13071,9 +13071,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025030100",
-    "last_updated": "2025-03-01T01:07:15.353Z",
+    "latest_version": "1.61.2025030309",
+    "last_updated": "2025-03-03T10:49:19.823Z",
     "version_history": [
+      {
+        "version": "1.61.2025030309",
+        "lastUpdated": "2025-03-03T10:49:19.823Z"
+      },
       {
         "version": "1.61.2025030100",
         "lastUpdated": "2025-03-01T01:07:15.353Z"
@@ -13149,10 +13153,6 @@
       {
         "version": "1.60.2025011100",
         "lastUpdated": "2025-01-11T01:10:54.137Z"
-      },
-      {
-        "version": "1.60.2025010900",
-        "lastUpdated": "2025-01-09T01:16:06.283Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13171,7 +13171,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030309/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
