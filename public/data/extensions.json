@@ -3891,9 +3891,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.277.1410",
-    "last_updated": "2025-03-05T01:45:25.69Z",
+    "latest_version": "1.277.1411",
+    "last_updated": "2025-03-05T16:22:11.613Z",
     "version_history": [
+      {
+        "version": "1.277.1411",
+        "lastUpdated": "2025-03-05T16:22:11.613Z"
+      },
       {
         "version": "1.277.1410",
         "lastUpdated": "2025-03-05T01:45:25.69Z"
@@ -3969,10 +3973,6 @@
       {
         "version": "1.274.1392",
         "lastUpdated": "2025-02-24T01:45:38.897Z"
-      },
-      {
-        "version": "1.273.1390",
-        "lastUpdated": "2025-02-21T16:20:24.6Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4001,7 +4001,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.277.1410/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.277.1411/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -4315,9 +4315,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.105.2025022704",
-    "last_updated": "2025-02-27T04:20:58.49Z",
+    "latest_version": "0.107.2025030515",
+    "last_updated": "2025-03-05T15:24:09.97Z",
     "version_history": [
+      {
+        "version": "0.107.2025030515",
+        "lastUpdated": "2025-03-05T15:24:09.97Z"
+      },
       {
         "version": "0.105.2025022704",
         "lastUpdated": "2025-02-27T04:20:58.49Z"
@@ -4393,15 +4397,11 @@
       {
         "version": "0.103.2025013004",
         "lastUpdated": "2025-01-30T04:24:22.68Z"
-      },
-      {
-        "version": "0.103.2025012904",
-        "lastUpdated": "2025-01-29T04:22:01.063Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "github-copilot", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.105.2025022704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025030515/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8263,11 +8263,11 @@
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
     "latest_version": "1.21.2",
-    "last_updated": "2025-03-05T04:23:42.96Z",
+    "last_updated": "2025-03-05T04:19:31.393Z",
     "version_history": [
       {
         "version": "1.21.2",
-        "lastUpdated": "2025-03-05T04:23:42.96Z"
+        "lastUpdated": "2025-03-05T04:19:31.393Z"
       },
       {
         "version": "1.21.1",
@@ -9006,9 +9006,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250304001",
-    "last_updated": "2025-03-04T03:04:27.8Z",
+    "latest_version": "0.13.250305001",
+    "last_updated": "2025-03-05T02:55:45.35Z",
     "version_history": [
+      {
+        "version": "0.13.250305001",
+        "lastUpdated": "2025-03-05T02:55:45.35Z"
+      },
       {
         "version": "0.13.250304001",
         "lastUpdated": "2025-03-04T03:04:27.8Z"
@@ -9084,15 +9088,11 @@
       {
         "version": "0.13.250210001",
         "lastUpdated": "2025-02-10T02:56:48.737Z"
-      },
-      {
-        "version": "0.13.250209001",
-        "lastUpdated": "2025-02-09T02:57:06.187Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250304001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250305001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -13075,9 +13075,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025030400",
-    "last_updated": "2025-03-04T01:05:29.673Z",
+    "latest_version": "1.61.2025030513",
+    "last_updated": "2025-03-05T13:51:09.033Z",
     "version_history": [
+      {
+        "version": "1.61.2025030513",
+        "lastUpdated": "2025-03-05T13:51:09.033Z"
+      },
       {
         "version": "1.61.2025030400",
         "lastUpdated": "2025-03-04T01:05:29.673Z"
@@ -13153,10 +13157,6 @@
       {
         "version": "1.60.2025011800",
         "lastUpdated": "2025-01-18T01:16:19.207Z"
-      },
-      {
-        "version": "1.60.2025011600",
-        "lastUpdated": "2025-01-16T01:14:48.713Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13175,7 +13175,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030400/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030513/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
