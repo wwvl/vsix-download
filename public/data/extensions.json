@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.404",
-    "last_updated": "2025-03-04T09:13:43.55Z",
+    "latest_version": "2025.3.504",
+    "last_updated": "2025-03-05T09:12:44.997Z",
     "version_history": [
+      {
+        "version": "2025.3.504",
+        "lastUpdated": "2025-03-05T09:12:44.997Z"
+      },
       {
         "version": "2025.3.404",
         "lastUpdated": "2025-03-04T09:13:43.55Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1204",
         "lastUpdated": "2025-02-12T09:13:05.72Z"
-      },
-      {
-        "version": "2025.2.1111",
-        "lastUpdated": "2025-02-11T17:00:01.517Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4008,9 +4008,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025030404",
-    "last_updated": "2025-03-04T22:07:00.437Z",
+    "latest_version": "0.25.2025030502",
+    "last_updated": "2025-03-05T08:47:44.32Z",
     "version_history": [
+      {
+        "version": "0.25.2025030502",
+        "lastUpdated": "2025-03-05T08:47:44.32Z"
+      },
       {
         "version": "0.25.2025030404",
         "lastUpdated": "2025-03-04T22:07:00.437Z"
@@ -4086,10 +4090,6 @@
       {
         "version": "0.25.2025021201",
         "lastUpdated": "2025-02-12T04:32:44.64Z"
-      },
-      {
-        "version": "0.25.2025021101",
-        "lastUpdated": "2025-02-11T04:28:15.83Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4122,7 +4122,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025030404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025030502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6143,9 +6143,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.69",
-    "last_updated": "2025-03-03T15:42:41.013Z",
+    "latest_version": "1.1.70",
+    "last_updated": "2025-03-05T09:39:40.237Z",
     "version_history": [
+      {
+        "version": "1.1.70",
+        "lastUpdated": "2025-03-05T09:39:40.237Z"
+      },
       {
         "version": "1.1.69",
         "lastUpdated": "2025-03-03T15:42:41.013Z"
@@ -6221,10 +6225,6 @@
       {
         "version": "1.1.47",
         "lastUpdated": "2025-01-03T15:12:18.627Z"
-      },
-      {
-        "version": "1.1.45",
-        "lastUpdated": "2025-01-02T08:13:08.67Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6257,7 +6257,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.69/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.70/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -6678,9 +6678,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.98.2025022609",
-    "last_updated": "2025-02-26T09:34:30.973Z",
+    "latest_version": "1.98.2025030509",
+    "last_updated": "2025-03-05T09:19:44.937Z",
     "version_history": [
+      {
+        "version": "1.98.2025030509",
+        "lastUpdated": "2025-03-05T09:19:44.937Z"
+      },
       {
         "version": "1.98.2025022609",
         "lastUpdated": "2025-02-26T09:34:30.973Z"
@@ -6756,15 +6760,11 @@
       {
         "version": "1.94.2024100909",
         "lastUpdated": "2024-10-09T09:18:38.69Z"
-      },
-      {
-        "version": "1.94.2024100209",
-        "lastUpdated": "2024-10-02T09:21:35.55Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025022609/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025030509/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -7829,9 +7829,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.400.0",
-    "last_updated": "2025-02-26T18:24:21.22Z",
+    "latest_version": "0.402.0",
+    "last_updated": "2025-03-05T10:57:15.873Z",
     "version_history": [
+      {
+        "version": "0.402.0",
+        "lastUpdated": "2025-03-05T10:57:15.873Z"
+      },
       {
         "version": "0.400.0",
         "lastUpdated": "2025-02-26T18:24:21.22Z"
@@ -7907,15 +7911,11 @@
       {
         "version": "0.382.0",
         "lastUpdated": "2024-08-22T22:47:09.003Z"
-      },
-      {
-        "version": "0.381.0",
-        "lastUpdated": "2024-07-30T15:47:28.263Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.400.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.402.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -9006,13 +9006,9 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250305001",
-    "last_updated": "2025-03-05T02:55:45.35Z",
+    "latest_version": "0.13.250304001",
+    "last_updated": "2025-03-04T03:04:27.8Z",
     "version_history": [
-      {
-        "version": "0.13.250305001",
-        "lastUpdated": "2025-03-05T02:55:45.35Z"
-      },
       {
         "version": "0.13.250304001",
         "lastUpdated": "2025-03-04T03:04:27.8Z"
@@ -9088,11 +9084,15 @@
       {
         "version": "0.13.250210001",
         "lastUpdated": "2025-02-10T02:56:48.737Z"
+      },
+      {
+        "version": "0.13.250209001",
+        "lastUpdated": "2025-02-09T02:57:06.187Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250305001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250304001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -10685,9 +10685,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025030108",
-    "last_updated": "2025-03-01T08:23:32.7Z",
+    "latest_version": "1.41.2025030508",
+    "last_updated": "2025-03-05T08:27:44.98Z",
     "version_history": [
+      {
+        "version": "1.41.2025030508",
+        "lastUpdated": "2025-03-05T08:27:44.98Z"
+      },
       {
         "version": "1.41.2025030108",
         "lastUpdated": "2025-03-01T08:23:32.7Z"
@@ -10763,15 +10767,11 @@
       {
         "version": "1.40.2025012308",
         "lastUpdated": "2025-01-23T08:32:29.93Z"
-      },
-      {
-        "version": "1.40.0",
-        "lastUpdated": "2025-02-27T12:18:26.423Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025030108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025030508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
