@@ -4008,9 +4008,17 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.25.2025030502",
-    "last_updated": "2025-03-05T08:47:44.32Z",
+    "latest_version": "0.26.2025030506",
+    "last_updated": "2025-03-05T23:27:57.35Z",
     "version_history": [
+      {
+        "version": "0.26.2025030506",
+        "lastUpdated": "2025-03-05T23:27:57.35Z"
+      },
+      {
+        "version": "0.26.2025030503",
+        "lastUpdated": "2025-03-05T20:12:06.567Z"
+      },
       {
         "version": "0.25.2025030502",
         "lastUpdated": "2025-03-05T08:47:44.32Z"
@@ -4082,14 +4090,6 @@
       {
         "version": "0.25.2025021401",
         "lastUpdated": "2025-02-14T04:29:06.933Z"
-      },
-      {
-        "version": "0.25.2025021301",
-        "lastUpdated": "2025-02-13T04:28:26.517Z"
-      },
-      {
-        "version": "0.25.2025021201",
-        "lastUpdated": "2025-02-12T04:32:44.64Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4122,7 +4122,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.25.2025030502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025030506/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4323,6 +4323,10 @@
         "lastUpdated": "2025-03-05T15:24:09.97Z"
       },
       {
+        "version": "0.106.0",
+        "lastUpdated": "2025-03-05T20:27:24.75Z"
+      },
+      {
         "version": "0.105.2025022704",
         "lastUpdated": "2025-02-27T04:20:58.49Z"
       },
@@ -4393,10 +4397,6 @@
       {
         "version": "0.103.2025013011",
         "lastUpdated": "2025-01-30T11:51:50.83Z"
-      },
-      {
-        "version": "0.103.2025013004",
-        "lastUpdated": "2025-01-30T04:24:22.68Z"
       }
     ],
     "categories": ["AI", "Chat"],
@@ -7388,9 +7388,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.3.2025030403",
-    "last_updated": "2025-03-04T18:30:39.087Z",
+    "latest_version": "2025.4.0",
+    "last_updated": "2025-03-05T19:17:31.11Z",
     "version_history": [
+      {
+        "version": "2025.4.0",
+        "lastUpdated": "2025-03-05T19:17:31.11Z"
+      },
       {
         "version": "2025.3.2025030403",
         "lastUpdated": "2025-03-04T18:30:39.087Z"
@@ -7466,24 +7470,24 @@
       {
         "version": "2024.15.2024121301",
         "lastUpdated": "2024-12-13T10:44:17.59Z"
-      },
-      {
-        "version": "2024.15.2024121201",
-        "lastUpdated": "2024-12-12T10:41:11.813Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.3.2025030403/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.1.2025022501",
-    "last_updated": "2025-02-25T10:47:55.367Z",
+    "latest_version": "2025.2.0",
+    "last_updated": "2025-03-05T18:46:25.26Z",
     "version_history": [
+      {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-03-05T18:46:25.26Z"
+      },
       {
         "version": "2025.1.2025022501",
         "lastUpdated": "2025-02-25T10:47:55.367Z"
@@ -7559,10 +7563,6 @@
       {
         "version": "2024.23.2025010601",
         "lastUpdated": "2025-01-07T00:31:22.37Z"
-      },
-      {
-        "version": "2024.23.2024121901",
-        "lastUpdated": "2024-12-19T10:48:57.637Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7583,16 +7583,20 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.1.2025022501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.2.103",
-    "last_updated": "2025-03-03T22:35:48.56Z",
+    "latest_version": "2025.3.1",
+    "last_updated": "2025-03-06T00:38:18.547Z",
     "version_history": [
+      {
+        "version": "2025.3.1",
+        "lastUpdated": "2025-03-06T00:38:18.547Z"
+      },
       {
         "version": "2025.2.103",
         "lastUpdated": "2025-03-03T22:35:48.56Z"
@@ -7668,24 +7672,36 @@
       {
         "version": "2024.10.102",
         "lastUpdated": "2024-10-24T21:09:02.833Z"
-      },
-      {
-        "version": "2024.10.101",
-        "lastUpdated": "2024-10-17T17:59:32.317Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.2.103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
     "extension_name": "ms-toolsai.datawrangler",
     "display_name": "Data Wrangler",
     "short_description": "Data viewing, cleaning and preparation for tabular datasets",
-    "latest_version": "1.19.2",
-    "last_updated": "2025-02-11T23:02:01.89Z",
+    "latest_version": "1.21.1",
+    "last_updated": "2025-03-05T22:19:06.377Z",
     "version_history": [
+      {
+        "version": "1.21.1",
+        "lastUpdated": "2025-03-05T22:19:06.377Z"
+      },
+      {
+        "version": "1.21.0",
+        "lastUpdated": "2025-03-05T19:05:53.09Z"
+      },
+      {
+        "version": "1.20.1",
+        "lastUpdated": "2025-03-05T22:18:10.737Z"
+      },
+      {
+        "version": "1.20.0",
+        "lastUpdated": "2025-03-05T19:05:29.107Z"
+      },
       {
         "version": "1.19.2",
         "lastUpdated": "2025-02-11T23:02:01.89Z"
@@ -7749,22 +7765,6 @@
       {
         "version": "1.13.1",
         "lastUpdated": "2024-10-29T23:54:10.13Z"
-      },
-      {
-        "version": "1.13.0",
-        "lastUpdated": "2024-10-16T22:05:29.417Z"
-      },
-      {
-        "version": "1.12.1",
-        "lastUpdated": "2024-10-30T00:33:44.243Z"
-      },
-      {
-        "version": "1.12.0",
-        "lastUpdated": "2024-10-16T20:06:17.463Z"
-      },
-      {
-        "version": "1.11.1",
-        "lastUpdated": "2024-10-15T00:56:43.11Z"
       }
     ],
     "categories": ["Data Science", "Machine Learning"],
@@ -7822,7 +7822,7 @@
       "xls",
       "xlsx"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.19.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
   },
   {
@@ -7835,6 +7835,10 @@
       {
         "version": "0.402.0",
         "lastUpdated": "2025-03-05T10:57:15.873Z"
+      },
+      {
+        "version": "0.401.0",
+        "lastUpdated": "2025-03-05T18:29:45.6Z"
       },
       {
         "version": "0.400.0",
@@ -7907,10 +7911,6 @@
       {
         "version": "0.383.0",
         "lastUpdated": "2024-08-29T18:48:35.55Z"
-      },
-      {
-        "version": "0.382.0",
-        "lastUpdated": "2024-08-22T22:47:09.003Z"
       }
     ],
     "categories": ["Other"],
@@ -7958,6 +7958,10 @@
         "lastUpdated": "2025-02-06T18:10:21.637Z"
       },
       {
+        "version": "0.118.0",
+        "lastUpdated": "2025-03-05T19:47:09.053Z"
+      },
+      {
         "version": "0.117.2025013120",
         "lastUpdated": "2025-01-31T20:35:33.95Z"
       },
@@ -8000,10 +8004,6 @@
       {
         "version": "0.117.2025011615",
         "lastUpdated": "2025-01-16T15:25:13.89Z"
-      },
-      {
-        "version": "0.117.2025011515",
-        "lastUpdated": "2025-01-15T15:25:52.59Z"
       }
     ],
     "categories": ["Other"],
@@ -8263,11 +8263,11 @@
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
     "latest_version": "1.21.2",
-    "last_updated": "2025-03-05T04:19:31.393Z",
+    "last_updated": "2025-03-05T04:23:42.96Z",
     "version_history": [
       {
         "version": "1.21.2",
-        "lastUpdated": "2025-03-05T04:19:31.393Z"
+        "lastUpdated": "2025-03-05T04:23:42.96Z"
       },
       {
         "version": "1.21.1",
@@ -9099,9 +9099,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250304",
-    "last_updated": "2025-03-05T00:14:14.113Z",
+    "latest_version": "5.9.20250305",
+    "last_updated": "2025-03-06T00:17:21.157Z",
     "version_history": [
+      {
+        "version": "5.9.20250305",
+        "lastUpdated": "2025-03-06T00:17:21.157Z"
+      },
       {
         "version": "5.9.20250304",
         "lastUpdated": "2025-03-05T00:14:14.113Z"
@@ -9177,15 +9181,11 @@
       {
         "version": "5.8.20250213",
         "lastUpdated": "2025-02-14T00:15:37.557Z"
-      },
-      {
-        "version": "5.8.20250212",
-        "lastUpdated": "2025-02-13T00:17:15.06Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -10778,9 +10778,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.16.0",
-    "last_updated": "2025-02-09T14:36:49.7Z",
+    "latest_version": "1.17.0",
+    "last_updated": "2025-03-05T19:16:43.1Z",
     "version_history": [
+      {
+        "version": "1.17.0",
+        "lastUpdated": "2025-03-05T19:16:43.1Z"
+      },
       {
         "version": "1.16.0",
         "lastUpdated": "2025-02-09T14:36:49.7Z"
@@ -10856,15 +10860,11 @@
       {
         "version": "1.2.2",
         "lastUpdated": "2021-11-30T14:57:15.33Z"
-      },
-      {
-        "version": "1.2.1",
-        "lastUpdated": "2021-11-23T16:12:57.13Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["autocompletion", "dockercompose", "kubernetes", "validation", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.17.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -10964,9 +10964,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2331",
-    "last_updated": "2025-03-05T00:42:42.023Z",
+    "latest_version": "0.4.2332",
+    "last_updated": "2025-03-06T00:42:26.513Z",
     "version_history": [
+      {
+        "version": "0.4.2332",
+        "lastUpdated": "2025-03-06T00:42:26.513Z"
+      },
       {
         "version": "0.4.2331",
         "lastUpdated": "2025-03-05T00:42:42.023Z"
@@ -11042,15 +11046,11 @@
       {
         "version": "0.4.2309",
         "lastUpdated": "2025-02-18T00:40:31.213Z"
-      },
-      {
-        "version": "0.4.2307",
-        "lastUpdated": "2025-02-17T06:33:22.583Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2331/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2332/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13075,9 +13075,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025030513",
-    "last_updated": "2025-03-05T13:51:09.033Z",
+    "latest_version": "1.61.2025030600",
+    "last_updated": "2025-03-06T01:07:19.003Z",
     "version_history": [
+      {
+        "version": "1.61.2025030600",
+        "lastUpdated": "2025-03-06T01:07:19.003Z"
+      },
       {
         "version": "1.61.2025030513",
         "lastUpdated": "2025-03-05T13:51:09.033Z"
@@ -13153,10 +13157,6 @@
       {
         "version": "1.60.2025012302",
         "lastUpdated": "2025-01-23T03:34:56.543Z"
-      },
-      {
-        "version": "1.60.2025011800",
-        "lastUpdated": "2025-01-18T01:16:19.207Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13175,7 +13175,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030513/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030600/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
