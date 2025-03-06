@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.504",
-    "last_updated": "2025-03-05T09:12:44.997Z",
+    "latest_version": "2025.3.604",
+    "last_updated": "2025-03-06T09:13:05.507Z",
     "version_history": [
+      {
+        "version": "2025.3.604",
+        "lastUpdated": "2025-03-06T09:13:05.507Z"
+      },
       {
         "version": "2025.3.504",
         "lastUpdated": "2025-03-05T09:12:44.997Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1304",
         "lastUpdated": "2025-02-13T09:12:50.58Z"
-      },
-      {
-        "version": "2025.2.1204",
-        "lastUpdated": "2025-02-12T09:13:05.72Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7481,9 +7481,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.2.0",
-    "last_updated": "2025-03-05T18:46:25.26Z",
+    "latest_version": "2025.3.2025030601",
+    "last_updated": "2025-03-06T10:47:07.78Z",
     "version_history": [
+      {
+        "version": "2025.3.2025030601",
+        "lastUpdated": "2025-03-06T10:47:07.78Z"
+      },
       {
         "version": "2025.2.0",
         "lastUpdated": "2025-03-05T18:46:25.26Z"
@@ -7559,10 +7563,6 @@
       {
         "version": "2024.23.2025010701",
         "lastUpdated": "2025-01-07T10:51:22.433Z"
-      },
-      {
-        "version": "2024.23.2025010601",
-        "lastUpdated": "2025-01-07T00:31:22.37Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7583,7 +7583,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.2.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025030601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
