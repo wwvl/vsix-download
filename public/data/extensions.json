@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.604",
-    "last_updated": "2025-03-06T09:13:05.507Z",
+    "latest_version": "2025.3.609",
+    "last_updated": "2025-03-06T14:58:34.72Z",
     "version_history": [
+      {
+        "version": "2025.3.609",
+        "lastUpdated": "2025-03-06T14:58:34.72Z"
+      },
       {
         "version": "2025.3.604",
         "lastUpdated": "2025-03-06T09:13:05.507Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1404",
         "lastUpdated": "2025-02-14T09:12:39.807Z"
-      },
-      {
-        "version": "2025.2.1304",
-        "lastUpdated": "2025-02-13T09:12:50.58Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7922,9 +7922,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.119.2025030416",
-    "last_updated": "2025-03-04T16:30:00.517Z",
+    "latest_version": "0.119.2025030615",
+    "last_updated": "2025-03-06T15:23:34.863Z",
     "version_history": [
+      {
+        "version": "0.119.2025030615",
+        "lastUpdated": "2025-03-06T15:23:34.863Z"
+      },
       {
         "version": "0.119.2025030416",
         "lastUpdated": "2025-03-04T16:30:00.517Z"
@@ -8000,15 +8004,11 @@
       {
         "version": "0.117.2025011619",
         "lastUpdated": "2025-01-16T19:22:17.177Z"
-      },
-      {
-        "version": "0.117.2025011615",
-        "lastUpdated": "2025-01-16T15:25:13.89Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "github-copilot", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025030416/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025030615/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -9564,9 +9564,13 @@
     "extension_name": "Nuxt.mdc",
     "display_name": "MDC - Markdown Components",
     "short_description": "Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.",
-    "latest_version": "0.2.3",
-    "last_updated": "2025-03-04T15:49:14.713Z",
+    "latest_version": "0.2.4",
+    "last_updated": "2025-03-06T14:20:06.79Z",
     "version_history": [
+      {
+        "version": "0.2.4",
+        "lastUpdated": "2025-03-06T14:20:06.79Z"
+      },
       {
         "version": "0.2.3",
         "lastUpdated": "2025-03-04T15:49:14.713Z"
@@ -9589,8 +9593,8 @@
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Formatters"],
-    "tags": ["Markdown Components", "mdc", "Nuxt Content", "Nuxt Markdown Components", "Nuxt MDC", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.2.3/vspackage",
+    "tags": ["keybindings", "Markdown Components", "mdc", "Nuxt Content", "Nuxt Markdown Components", "Nuxt MDC", "snippet"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.2.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc"
   },
   {
@@ -11933,9 +11937,13 @@
     "extension_name": "svelte.svelte-vscode",
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
-    "latest_version": "109.5.2",
-    "last_updated": "2025-01-13T09:38:32.7Z",
+    "latest_version": "109.5.3",
+    "last_updated": "2025-03-06T14:24:54.333Z",
     "version_history": [
+      {
+        "version": "109.5.3",
+        "lastUpdated": "2025-03-06T14:24:54.333Z"
+      },
       {
         "version": "109.5.2",
         "lastUpdated": "2025-01-13T09:38:32.7Z"
@@ -12011,15 +12019,11 @@
       {
         "version": "108.6.0",
         "lastUpdated": "2024-07-30T16:41:50.783Z"
-      },
-      {
-        "version": "108.5.4",
-        "lastUpdated": "2024-06-26T15:47:17.577Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.5.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.5.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
   {
@@ -12642,9 +12646,13 @@
     "extension_name": "usernamehw.errorlens",
     "display_name": "Error Lens",
     "short_description": "Improve highlighting of errors, warnings and other language diagnostics.",
-    "latest_version": "3.23.0",
-    "last_updated": "2025-01-30T13:09:10.163Z",
+    "latest_version": "3.24.0",
+    "last_updated": "2025-03-06T16:53:30.78Z",
     "version_history": [
+      {
+        "version": "3.24.0",
+        "lastUpdated": "2025-03-06T16:53:30.78Z"
+      },
       {
         "version": "3.23.0",
         "lastUpdated": "2025-01-30T13:09:10.163Z"
@@ -12720,15 +12728,11 @@
       {
         "version": "3.8.0",
         "lastUpdated": "2023-03-14T09:54:06.207Z"
-      },
-      {
-        "version": "3.7.0",
-        "lastUpdated": "2023-02-07T17:08:38.357Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["diagnostic", "error", "gutter", "highlight", "inline", "message", "problem", "problems", "status bar", "warning"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.23.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
   },
   {
