@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.609",
-    "last_updated": "2025-03-06T14:58:34.72Z",
+    "latest_version": "2025.3.704",
+    "last_updated": "2025-03-07T09:12:45.927Z",
     "version_history": [
+      {
+        "version": "2025.3.704",
+        "lastUpdated": "2025-03-07T09:12:45.927Z"
+      },
       {
         "version": "2025.3.609",
         "lastUpdated": "2025-03-06T14:58:34.72Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.1504",
         "lastUpdated": "2025-02-15T09:12:21.69Z"
-      },
-      {
-        "version": "2025.2.1404",
-        "lastUpdated": "2025-02-14T09:12:39.807Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.609/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.279.1416",
-    "last_updated": "2025-03-07T01:45:26.393Z",
+    "latest_version": "1.279.1417",
+    "last_updated": "2025-03-07T07:42:09.01Z",
     "version_history": [
+      {
+        "version": "1.279.1417",
+        "lastUpdated": "2025-03-07T07:42:09.01Z"
+      },
       {
         "version": "1.279.1416",
         "lastUpdated": "2025-03-07T01:45:26.393Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.275.0",
         "lastUpdated": "2025-02-24T19:13:47.573Z"
-      },
-      {
-        "version": "1.274.1393",
-        "lastUpdated": "2025-02-24T16:04:29.997Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.279.1416/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.279.1417/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -14699,9 +14699,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.399",
-    "last_updated": "2025-03-03T21:37:03.737Z",
+    "latest_version": "1.0.401",
+    "last_updated": "2025-03-07T09:06:31.543Z",
     "version_history": [
+      {
+        "version": "1.0.401",
+        "lastUpdated": "2025-03-07T09:06:31.543Z"
+      },
+      {
+        "version": "1.0.400",
+        "lastUpdated": "2025-03-07T08:52:39.803Z"
+      },
       {
         "version": "1.0.399",
         "lastUpdated": "2025-03-03T21:37:03.737Z"
@@ -14773,19 +14781,11 @@
       {
         "version": "1.0.382",
         "lastUpdated": "2025-01-20T03:07:56.113Z"
-      },
-      {
-        "version": "1.0.381",
-        "lastUpdated": "2025-01-15T22:19:56.09Z"
-      },
-      {
-        "version": "1.0.380",
-        "lastUpdated": "2025-01-15T02:23:40.2Z"
       }
     ],
     "categories": ["Debuggers"],
-    "tags": ["javascript", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.399/vspackage",
+    "tags": ["chat-participant", "debugger", "javascript", "keybindings", "typescript"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
