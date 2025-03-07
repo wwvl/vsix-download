@@ -1855,6 +1855,10 @@
         "lastUpdated": "2025-02-26T12:24:55.287Z"
       },
       {
+        "version": "1.0.3",
+        "lastUpdated": "2025-03-07T17:29:01.007Z"
+      },
+      {
         "version": "1.0.2",
         "lastUpdated": "2025-03-03T18:17:11.94Z"
       },
@@ -1913,10 +1917,6 @@
       {
         "version": "0.9.259",
         "lastUpdated": "2025-02-01T10:16:48.87Z"
-      },
-      {
-        "version": "0.9.258",
-        "lastUpdated": "2025-01-30T18:07:59.483Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -6411,9 +6411,13 @@
     "extension_name": "mongodb.mongodb-vscode",
     "display_name": "MongoDB for VS Code",
     "short_description": "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.",
-    "latest_version": "1.12.0",
-    "last_updated": "2025-01-30T16:21:30.46Z",
+    "latest_version": "1.12.1",
+    "last_updated": "2025-03-07T13:39:03.063Z",
     "version_history": [
+      {
+        "version": "1.12.1",
+        "lastUpdated": "2025-03-07T13:39:03.063Z"
+      },
       {
         "version": "1.12.0",
         "lastUpdated": "2025-01-30T16:21:30.46Z"
@@ -6489,15 +6493,11 @@
       {
         "version": "1.0.1",
         "lastUpdated": "2023-05-17T17:42:28.56Z"
-      },
-      {
-        "version": "0.11.1",
-        "lastUpdated": "2023-03-31T07:48:49.563Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],
     "tags": ["chat-participant", "copilot", "Database", "Databases", "javascript", "json", "keybindings", "MongoDB", "MongoDB Atlas", "MQL", "plaintext", "snippet", "terraform"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.12.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
   },
   {
