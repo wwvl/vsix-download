@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.4",
-    "last_updated": "2025-03-04T04:28:03.42Z",
+    "latest_version": "1.1.5",
+    "last_updated": "2025-03-07T22:13:39.893Z",
     "version_history": [
+      {
+        "version": "1.1.5",
+        "lastUpdated": "2025-03-07T22:13:39.893Z"
+      },
       {
         "version": "1.1.4",
         "lastUpdated": "2025-03-04T04:28:03.42Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "0.9.260",
         "lastUpdated": "2025-02-05T02:40:23.387Z"
-      },
-      {
-        "version": "0.9.259",
-        "lastUpdated": "2025-02-01T10:16:48.87Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.279.1417",
-    "last_updated": "2025-03-07T07:42:09.01Z",
+    "latest_version": "1.280.1420",
+    "last_updated": "2025-03-07T19:24:28.567Z",
     "version_history": [
+      {
+        "version": "1.280.1420",
+        "lastUpdated": "2025-03-07T19:24:28.567Z"
+      },
       {
         "version": "1.279.1417",
         "lastUpdated": "2025-03-07T07:42:09.01Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.275.1395",
         "lastUpdated": "2025-02-25T01:45:40.39Z"
-      },
-      {
-        "version": "1.275.0",
-        "lastUpdated": "2025-02-24T19:13:47.573Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.279.1417/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.280.1420/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7862,9 +7862,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.402.0",
-    "last_updated": "2025-03-05T10:57:15.873Z",
+    "latest_version": "0.403.0",
+    "last_updated": "2025-03-07T20:47:33.637Z",
     "version_history": [
+      {
+        "version": "0.403.0",
+        "lastUpdated": "2025-03-07T20:47:33.637Z"
+      },
       {
         "version": "0.402.0",
         "lastUpdated": "2025-03-05T10:57:15.873Z"
@@ -7940,15 +7944,11 @@
       {
         "version": "0.384.0",
         "lastUpdated": "2024-09-05T17:50:50.94Z"
-      },
-      {
-        "version": "0.383.0",
-        "lastUpdated": "2024-08-29T18:48:35.55Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.402.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.403.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -9132,9 +9132,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250306",
-    "last_updated": "2025-03-07T00:17:22.027Z",
+    "latest_version": "5.9.20250307",
+    "last_updated": "2025-03-08T00:16:24.723Z",
     "version_history": [
+      {
+        "version": "5.9.20250307",
+        "lastUpdated": "2025-03-08T00:16:24.723Z"
+      },
       {
         "version": "5.9.20250306",
         "lastUpdated": "2025-03-07T00:17:22.027Z"
@@ -9210,15 +9214,11 @@
       {
         "version": "5.8.20250215",
         "lastUpdated": "2025-02-16T00:16:35.6Z"
-      },
-      {
-        "version": "5.8.20250214",
-        "lastUpdated": "2025-02-15T00:15:49.427Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250306/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250307/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11001,9 +11001,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2333",
-    "last_updated": "2025-03-07T00:43:13.69Z",
+    "latest_version": "0.4.2334",
+    "last_updated": "2025-03-08T00:37:43.823Z",
     "version_history": [
+      {
+        "version": "0.4.2334",
+        "lastUpdated": "2025-03-08T00:37:43.823Z"
+      },
       {
         "version": "0.4.2333",
         "lastUpdated": "2025-03-07T00:43:13.69Z"
@@ -11079,15 +11083,11 @@
       {
         "version": "0.4.2311",
         "lastUpdated": "2025-02-19T00:42:10.957Z"
-      },
-      {
-        "version": "0.4.2310",
-        "lastUpdated": "2025-02-18T11:50:03.32Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2333/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2334/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13112,9 +13112,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025030600",
-    "last_updated": "2025-03-06T01:07:19.003Z",
+    "latest_version": "1.61.2025030800",
+    "last_updated": "2025-03-08T01:02:02.033Z",
     "version_history": [
+      {
+        "version": "1.61.2025030800",
+        "lastUpdated": "2025-03-08T01:02:02.033Z"
+      },
       {
         "version": "1.61.2025030600",
         "lastUpdated": "2025-03-06T01:07:19.003Z"
@@ -13190,10 +13194,6 @@
       {
         "version": "1.60.2025012500",
         "lastUpdated": "2025-01-25T01:11:05.813Z"
-      },
-      {
-        "version": "1.60.2025012302",
-        "lastUpdated": "2025-01-23T03:34:56.543Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13212,7 +13212,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030600/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
