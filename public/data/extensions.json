@@ -14980,9 +14980,13 @@
     "extension_name": "yzhang.markdown-all-in-one",
     "display_name": "Markdown All in One",
     "short_description": "All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)",
-    "latest_version": "3.6.2",
-    "last_updated": "2024-01-15T13:17:39.76Z",
+    "latest_version": "3.6.3",
+    "last_updated": "2025-03-09T15:34:05.007Z",
     "version_history": [
+      {
+        "version": "3.6.3",
+        "lastUpdated": "2025-03-09T15:34:05.007Z"
+      },
       {
         "version": "3.6.2",
         "lastUpdated": "2024-01-15T13:17:39.76Z"
@@ -15058,15 +15062,11 @@
       {
         "version": "2.5.1",
         "lastUpdated": "2019-10-12T05:52:31.93Z"
-      },
-      {
-        "version": "2.5.0",
-        "lastUpdated": "2019-10-11T16:13:05.18Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["keybindings", "markdown", "quarto", "rmd"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yzhang/vsextensions/markdown-all-in-one/3.6.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yzhang/vsextensions/markdown-all-in-one/3.6.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one"
   },
   {
