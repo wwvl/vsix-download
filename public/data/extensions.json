@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.918",
-    "last_updated": "2025-03-09T22:50:25.91Z",
+    "latest_version": "2025.3.1005",
+    "last_updated": "2025-03-10T09:12:42.137Z",
     "version_history": [
+      {
+        "version": "2025.3.1005",
+        "lastUpdated": "2025-03-10T09:12:42.137Z"
+      },
       {
         "version": "2025.3.918",
         "lastUpdated": "2025-03-09T22:50:25.91Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.2104",
         "lastUpdated": "2025-02-21T09:12:08.057Z"
-      },
-      {
-        "version": "2025.2.2004",
-        "lastUpdated": "2025-02-20T09:12:11.013Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.918/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7421,9 +7421,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.4.0",
-    "last_updated": "2025-03-05T19:17:31.11Z",
+    "latest_version": "2025.5.2025031001",
+    "last_updated": "2025-03-10T10:39:29.277Z",
     "version_history": [
+      {
+        "version": "2025.5.2025031001",
+        "lastUpdated": "2025-03-10T10:39:29.277Z"
+      },
       {
         "version": "2025.4.0",
         "lastUpdated": "2025-03-05T19:17:31.11Z"
@@ -7499,24 +7503,24 @@
       {
         "version": "2024.15.2024121701",
         "lastUpdated": "2024-12-17T10:43:00.403Z"
-      },
-      {
-        "version": "2024.15.2024121301",
-        "lastUpdated": "2024-12-13T10:44:17.59Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.5.2025031001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.3.2025030601",
-    "last_updated": "2025-03-06T10:47:07.78Z",
+    "latest_version": "2025.3.2025031001",
+    "last_updated": "2025-03-10T10:46:49.18Z",
     "version_history": [
+      {
+        "version": "2025.3.2025031001",
+        "lastUpdated": "2025-03-10T10:46:49.18Z"
+      },
       {
         "version": "2025.3.2025030601",
         "lastUpdated": "2025-03-06T10:47:07.78Z"
@@ -7592,10 +7596,6 @@
       {
         "version": "2024.23.2025010801",
         "lastUpdated": "2025-01-08T10:45:51.417Z"
-      },
-      {
-        "version": "2024.23.2025010701",
-        "lastUpdated": "2025-01-07T10:51:22.433Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7616,7 +7616,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025030601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025031001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -7862,9 +7862,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.403.0",
-    "last_updated": "2025-03-07T20:47:33.637Z",
+    "latest_version": "0.404.0",
+    "last_updated": "2025-03-10T09:31:04.303Z",
     "version_history": [
+      {
+        "version": "0.404.0",
+        "lastUpdated": "2025-03-10T09:31:04.303Z"
+      },
       {
         "version": "0.403.0",
         "lastUpdated": "2025-03-07T20:47:33.637Z"
@@ -7940,15 +7944,11 @@
       {
         "version": "0.385.0",
         "lastUpdated": "2024-09-04T20:55:16.663Z"
-      },
-      {
-        "version": "0.384.0",
-        "lastUpdated": "2024-09-05T17:50:50.94Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.403.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.404.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -10722,9 +10722,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025030508",
-    "last_updated": "2025-03-05T08:27:44.98Z",
+    "latest_version": "1.41.2025031008",
+    "last_updated": "2025-03-10T08:27:18.553Z",
     "version_history": [
+      {
+        "version": "1.41.2025031008",
+        "lastUpdated": "2025-03-10T08:27:18.553Z"
+      },
       {
         "version": "1.41.2025030508",
         "lastUpdated": "2025-03-05T08:27:44.98Z"
@@ -10800,15 +10804,11 @@
       {
         "version": "1.40.2025012508",
         "lastUpdated": "2025-01-25T08:35:11.153Z"
-      },
-      {
-        "version": "1.40.2025012308",
-        "lastUpdated": "2025-01-23T08:32:29.93Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025030508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
