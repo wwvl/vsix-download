@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.7",
-    "last_updated": "2025-03-10T05:38:34.7Z",
+    "latest_version": "1.1.8",
+    "last_updated": "2025-03-11T05:49:56.43Z",
     "version_history": [
+      {
+        "version": "1.1.8",
+        "lastUpdated": "2025-03-11T05:49:56.43Z"
+      },
       {
         "version": "1.1.7",
         "lastUpdated": "2025-03-10T05:38:34.7Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "0.9.263",
         "lastUpdated": "2025-02-11T17:50:05.67Z"
-      },
-      {
-        "version": "0.9.262",
-        "lastUpdated": "2025-02-10T01:17:19.273Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.282.0",
-    "last_updated": "2025-03-10T17:52:00.847Z",
+    "latest_version": "1.282.1426",
+    "last_updated": "2025-03-11T01:46:47.28Z",
     "version_history": [
+      {
+        "version": "1.282.1426",
+        "lastUpdated": "2025-03-11T01:46:47.28Z"
+      },
       {
         "version": "1.282.0",
         "lastUpdated": "2025-03-10T17:52:00.847Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1400",
         "lastUpdated": "2025-02-26T19:47:07.637Z"
-      },
-      {
-        "version": "1.276.1399",
-        "lastUpdated": "2025-02-26T16:19:37.223Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.282.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.282.1426/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -4348,9 +4348,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.107.2025030604",
-    "last_updated": "2025-03-06T04:22:31.02Z",
+    "latest_version": "0.107.2025031104",
+    "last_updated": "2025-03-11T04:25:06.273Z",
     "version_history": [
+      {
+        "version": "0.107.2025031104",
+        "lastUpdated": "2025-03-11T04:25:06.273Z"
+      },
       {
         "version": "0.107.2025030604",
         "lastUpdated": "2025-03-06T04:22:31.02Z"
@@ -4426,15 +4430,11 @@
       {
         "version": "0.104.0",
         "lastUpdated": "2025-02-06T16:40:30.08Z"
-      },
-      {
-        "version": "0.103.2025013109",
-        "lastUpdated": "2025-01-31T09:23:46.963Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "github-copilot", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025030604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8299,9 +8299,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.3",
-    "last_updated": "2025-03-10T04:25:01.817Z",
+    "latest_version": "1.21.4",
+    "last_updated": "2025-03-11T04:29:41.37Z",
     "version_history": [
+      {
+        "version": "1.21.4",
+        "lastUpdated": "2025-03-11T04:29:41.37Z"
+      },
       {
         "version": "1.21.3",
         "lastUpdated": "2025-03-10T04:25:01.817Z"
@@ -8377,15 +8381,11 @@
       {
         "version": "1.20.39",
         "lastUpdated": "2025-01-20T04:23:53.637Z"
-      },
-      {
-        "version": "1.20.38",
-        "lastUpdated": "2025-01-17T04:30:21.937Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -14703,9 +14703,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.401",
-    "last_updated": "2025-03-07T09:06:31.543Z",
+    "latest_version": "1.0.402",
+    "last_updated": "2025-03-11T05:49:11.73Z",
     "version_history": [
+      {
+        "version": "1.0.402",
+        "lastUpdated": "2025-03-11T05:49:11.73Z"
+      },
       {
         "version": "1.0.401",
         "lastUpdated": "2025-03-07T09:06:31.543Z"
@@ -14781,15 +14785,11 @@
       {
         "version": "1.0.383",
         "lastUpdated": "2025-01-30T01:34:59.76Z"
-      },
-      {
-        "version": "1.0.382",
-        "lastUpdated": "2025-01-20T03:07:56.113Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.402/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
