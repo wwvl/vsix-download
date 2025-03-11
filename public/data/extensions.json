@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.282.1426",
-    "last_updated": "2025-03-11T01:46:47.28Z",
+    "latest_version": "1.282.1427",
+    "last_updated": "2025-03-11T16:21:07.163Z",
     "version_history": [
+      {
+        "version": "1.282.1427",
+        "lastUpdated": "2025-03-11T16:21:07.163Z"
+      },
       {
         "version": "1.282.1426",
         "lastUpdated": "2025-03-11T01:46:47.28Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1401",
         "lastUpdated": "2025-02-27T01:45:56.067Z"
-      },
-      {
-        "version": "1.276.1400",
-        "lastUpdated": "2025-02-26T19:47:07.637Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.282.1426/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.282.1427/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7866,9 +7866,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.404.0",
-    "last_updated": "2025-03-10T09:31:04.303Z",
+    "latest_version": "0.405.0",
+    "last_updated": "2025-03-11T17:28:01.647Z",
     "version_history": [
+      {
+        "version": "0.405.0",
+        "lastUpdated": "2025-03-11T17:28:01.647Z"
+      },
       {
         "version": "0.404.0",
         "lastUpdated": "2025-03-10T09:31:04.303Z"
@@ -7944,15 +7948,11 @@
       {
         "version": "0.386.0",
         "lastUpdated": "2024-09-10T21:00:10.87Z"
-      },
-      {
-        "version": "0.385.0",
-        "lastUpdated": "2024-09-04T20:55:16.663Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.404.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.405.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -10075,9 +10075,13 @@
     "extension_name": "pomdtr.excalidraw-editor",
     "display_name": "Excalidraw",
     "short_description": "Draw schemas in VS Code using Excalidraw",
-    "latest_version": "3.7.4",
-    "last_updated": "2024-04-07T14:25:48.037Z",
+    "latest_version": "3.8.0",
+    "last_updated": "2025-03-11T17:06:37.933Z",
     "version_history": [
+      {
+        "version": "3.8.0",
+        "lastUpdated": "2025-03-11T17:06:37.933Z"
+      },
       {
         "version": "3.7.4",
         "lastUpdated": "2024-04-07T14:25:48.037Z"
@@ -10153,15 +10157,11 @@
       {
         "version": "3.0.5",
         "lastUpdated": "2022-06-10T12:03:33.447Z"
-      },
-      {
-        "version": "3.0.4",
-        "lastUpdated": "2022-06-10T11:47:38.713Z"
       }
     ],
     "categories": ["Visualization"],
     "tags": ["draw", "excalidraw", "graphics", "json", "keybindings", "paint", "schemas"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.7.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor"
   },
   {
@@ -10261,9 +10261,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.4.1",
-    "last_updated": "2025-02-20T19:22:14.853Z",
+    "latest_version": "6.5.0",
+    "last_updated": "2025-03-11T14:56:07.117Z",
     "version_history": [
+      {
+        "version": "6.5.0",
+        "lastUpdated": "2025-03-11T14:56:07.117Z"
+      },
       {
         "version": "6.4.1",
         "lastUpdated": "2025-02-20T19:22:14.853Z"
@@ -10339,15 +10343,11 @@
       {
         "version": "5.15.0",
         "lastUpdated": "2024-06-04T13:16:29.377Z"
-      },
-      {
-        "version": "5.14.0",
-        "lastUpdated": "2024-05-14T13:06:43.04Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["javascript", "javascriptreact", "linters", "prisma", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.4.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
