@@ -3044,9 +3044,13 @@
     "extension_name": "EditorConfig.EditorConfig",
     "display_name": "EditorConfig for VS Code",
     "short_description": "EditorConfig Support for Visual Studio Code",
-    "latest_version": "0.17.1",
-    "last_updated": "2025-02-20T13:57:35.147Z",
+    "latest_version": "0.17.2",
+    "last_updated": "2025-03-10T19:08:46.573Z",
     "version_history": [
+      {
+        "version": "0.17.2",
+        "lastUpdated": "2025-03-10T19:08:46.573Z"
+      },
       {
         "version": "0.17.1",
         "lastUpdated": "2025-02-20T13:57:35.147Z"
@@ -3122,15 +3126,11 @@
       {
         "version": "0.14.1",
         "lastUpdated": "2019-10-10T07:09:52.263Z"
-      },
-      {
-        "version": "0.13.0",
-        "lastUpdated": "2019-02-14T07:14:59.903Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["config", "editor", "editorconfig", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
   {
@@ -6597,9 +6597,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.16.2",
-    "last_updated": "2025-02-11T01:10:22.72Z",
+    "latest_version": "1.16.3",
+    "last_updated": "2025-03-10T23:31:59.467Z",
     "version_history": [
+      {
+        "version": "1.16.3",
+        "lastUpdated": "2025-03-10T23:31:59.467Z"
+      },
       {
         "version": "1.16.2",
         "lastUpdated": "2025-02-11T01:10:22.72Z"
@@ -6611,7 +6615,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.16.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.16.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -9132,9 +9136,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250309",
-    "last_updated": "2025-03-10T00:19:25.723Z",
+    "latest_version": "5.9.20250310",
+    "last_updated": "2025-03-11T00:16:41.003Z",
     "version_history": [
+      {
+        "version": "5.9.20250310",
+        "lastUpdated": "2025-03-11T00:16:41.003Z"
+      },
       {
         "version": "5.9.20250309",
         "lastUpdated": "2025-03-10T00:19:25.723Z"
@@ -9210,15 +9218,11 @@
       {
         "version": "5.8.20250218",
         "lastUpdated": "2025-02-19T00:16:23.57Z"
-      },
-      {
-        "version": "5.8.20250217",
-        "lastUpdated": "2025-02-18T00:14:28.54Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250309/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250310/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11001,9 +11005,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2336",
-    "last_updated": "2025-03-10T00:38:42.14Z",
+    "latest_version": "0.4.2338",
+    "last_updated": "2025-03-11T00:44:18.47Z",
     "version_history": [
+      {
+        "version": "0.4.2338",
+        "lastUpdated": "2025-03-11T00:44:18.47Z"
+      },
       {
         "version": "0.4.2336",
         "lastUpdated": "2025-03-10T00:38:42.14Z"
@@ -11079,15 +11087,11 @@
       {
         "version": "0.4.2314",
         "lastUpdated": "2025-02-22T00:39:21.62Z"
-      },
-      {
-        "version": "0.4.2313",
-        "lastUpdated": "2025-02-21T00:41:44.99Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2336/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2338/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13112,9 +13116,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.61.2025030800",
-    "last_updated": "2025-03-08T01:02:02.033Z",
+    "latest_version": "1.61.2025031100",
+    "last_updated": "2025-03-11T01:15:41.497Z",
     "version_history": [
+      {
+        "version": "1.61.2025031100",
+        "lastUpdated": "2025-03-11T01:15:41.497Z"
+      },
       {
         "version": "1.61.2025030800",
         "lastUpdated": "2025-03-08T01:02:02.033Z"
@@ -13190,10 +13198,6 @@
       {
         "version": "1.60.2025012800",
         "lastUpdated": "2025-01-28T01:07:18.033Z"
-      },
-      {
-        "version": "1.60.2025012500",
-        "lastUpdated": "2025-01-25T01:11:05.813Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13212,7 +13216,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025030800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.61.2025031100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
