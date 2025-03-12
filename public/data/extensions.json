@@ -1155,9 +1155,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.8",
-    "last_updated": "2025-02-26T18:19:30.907Z",
+    "latest_version": "0.14.9",
+    "last_updated": "2025-03-12T14:58:51.743Z",
     "version_history": [
+      {
+        "version": "0.14.9",
+        "lastUpdated": "2025-03-12T14:58:51.743Z"
+      },
       {
         "version": "0.14.8",
         "lastUpdated": "2025-02-26T18:19:30.907Z"
@@ -1233,15 +1237,11 @@
       {
         "version": "0.13.63",
         "lastUpdated": "2024-12-20T17:23:14.883Z"
-      },
-      {
-        "version": "0.13.62",
-        "lastUpdated": "2024-12-11T12:27:19.673Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.283.1430",
-    "last_updated": "2025-03-12T11:12:45.927Z",
+    "latest_version": "1.284.0",
+    "last_updated": "2025-03-12T14:43:39.963Z",
     "version_history": [
+      {
+        "version": "1.284.0",
+        "lastUpdated": "2025-03-12T14:43:39.963Z"
+      },
       {
         "version": "1.283.1430",
         "lastUpdated": "2025-03-12T11:12:45.927Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1404",
         "lastUpdated": "2025-02-28T16:18:10.407Z"
-      },
-      {
-        "version": "1.276.1403",
-        "lastUpdated": "2025-02-28T01:44:39.013Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.283.1430/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.284.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031201",
-    "last_updated": "2025-03-12T04:30:11.933Z",
+    "latest_version": "0.26.2025031202",
+    "last_updated": "2025-03-12T18:07:32.767Z",
     "version_history": [
+      {
+        "version": "0.26.2025031202",
+        "lastUpdated": "2025-03-12T18:07:32.767Z"
+      },
       {
         "version": "0.26.2025031201",
         "lastUpdated": "2025-03-12T04:30:11.933Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.25.2025022401",
         "lastUpdated": "2025-02-24T04:31:55.3Z"
-      },
-      {
-        "version": "0.25.2025022101",
-        "lastUpdated": "2025-02-21T04:32:08.97Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6176,9 +6176,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.71",
-    "last_updated": "2025-03-12T04:34:07.317Z",
+    "latest_version": "1.1.73",
+    "last_updated": "2025-03-12T17:45:16.12Z",
     "version_history": [
+      {
+        "version": "1.1.73",
+        "lastUpdated": "2025-03-12T17:45:16.12Z"
+      },
       {
         "version": "1.1.71",
         "lastUpdated": "2025-03-12T04:34:07.317Z"
@@ -6254,10 +6258,6 @@
       {
         "version": "1.1.49",
         "lastUpdated": "2025-01-07T14:16:38.867Z"
-      },
-      {
-        "version": "1.1.48",
-        "lastUpdated": "2025-01-06T12:52:19.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6290,7 +6290,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.71/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.73/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -7332,9 +7332,13 @@
     "extension_name": "ms-mssql.mssql",
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
-    "latest_version": "1.29.0",
-    "last_updated": "2025-02-26T18:26:15.16Z",
+    "latest_version": "1.29.1",
+    "last_updated": "2025-03-12T17:35:17.17Z",
     "version_history": [
+      {
+        "version": "1.29.1",
+        "lastUpdated": "2025-03-12T17:35:17.17Z"
+      },
       {
         "version": "1.29.0",
         "lastUpdated": "2025-02-26T18:26:15.16Z"
@@ -7410,15 +7414,11 @@
       {
         "version": "1.15.0",
         "lastUpdated": "2022-06-15T17:14:12.757Z"
-      },
-      {
-        "version": "1.14.2",
-        "lastUpdated": "2022-05-20T17:26:58.28Z"
       }
     ],
     "categories": ["Programming Languages", "Azure"],
     "tags": ["Azure SQL Data Warehouse", "Azure SQL Database", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.29.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.29.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
@@ -10075,9 +10075,13 @@
     "extension_name": "pomdtr.excalidraw-editor",
     "display_name": "Excalidraw",
     "short_description": "Draw schemas in VS Code using Excalidraw",
-    "latest_version": "3.8.0",
-    "last_updated": "2025-03-11T17:06:37.933Z",
+    "latest_version": "3.8.1",
+    "last_updated": "2025-03-12T13:17:50.743Z",
     "version_history": [
+      {
+        "version": "3.8.1",
+        "lastUpdated": "2025-03-12T13:17:50.743Z"
+      },
       {
         "version": "3.8.0",
         "lastUpdated": "2025-03-11T17:06:37.933Z"
@@ -10153,15 +10157,11 @@
       {
         "version": "3.0.10",
         "lastUpdated": "2022-06-10T17:19:02.03Z"
-      },
-      {
-        "version": "3.0.5",
-        "lastUpdated": "2022-06-10T12:03:33.447Z"
       }
     ],
     "categories": ["Visualization"],
     "tags": ["draw", "excalidraw", "graphics", "json", "keybindings", "paint", "schemas"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/pomdtr/vsextensions/excalidraw-editor/3.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor"
   },
   {
@@ -13184,6 +13184,10 @@
         "lastUpdated": "2025-02-06T01:14:45.357Z"
       },
       {
+        "version": "1.61.0",
+        "lastUpdated": "2025-03-12T13:50:59.003Z"
+      },
+      {
         "version": "1.60.2025020400",
         "lastUpdated": "2025-02-04T01:13:38.927Z"
       },
@@ -13194,10 +13198,6 @@
       {
         "version": "1.60.2025013000",
         "lastUpdated": "2025-01-30T01:04:37.977Z"
-      },
-      {
-        "version": "1.60.2025012800",
-        "lastUpdated": "2025-01-28T01:07:18.033Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
