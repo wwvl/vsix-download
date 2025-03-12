@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.56.16964",
-    "last_updated": "2025-03-10T16:24:34.023Z",
+    "latest_version": "1.57.16971",
+    "last_updated": "2025-03-11T22:30:01.663Z",
     "version_history": [
+      {
+        "version": "1.57.16971",
+        "lastUpdated": "2025-03-11T22:30:01.663Z"
+      },
       {
         "version": "1.56.16964",
         "lastUpdated": "2025-03-10T16:24:34.023Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.54.16664",
         "lastUpdated": "2025-01-10T21:19:18.84Z"
-      },
-      {
-        "version": "1.54.16654",
-        "lastUpdated": "2025-01-08T15:51:22.647Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.56.16964/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.16971/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -9136,9 +9136,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250310",
-    "last_updated": "2025-03-11T00:16:41.003Z",
+    "latest_version": "5.9.20250311",
+    "last_updated": "2025-03-12T00:17:59.96Z",
     "version_history": [
+      {
+        "version": "5.9.20250311",
+        "lastUpdated": "2025-03-12T00:17:59.96Z"
+      },
       {
         "version": "5.9.20250310",
         "lastUpdated": "2025-03-11T00:16:41.003Z"
@@ -9214,15 +9218,11 @@
       {
         "version": "5.9.20250219",
         "lastUpdated": "2025-02-20T00:15:49.303Z"
-      },
-      {
-        "version": "5.8.20250218",
-        "lastUpdated": "2025-02-19T00:16:23.57Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250310/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250311/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
