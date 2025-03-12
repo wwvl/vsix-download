@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.282.1427",
-    "last_updated": "2025-03-11T16:21:07.163Z",
+    "latest_version": "1.283.1429",
+    "last_updated": "2025-03-12T01:45:30.14Z",
     "version_history": [
+      {
+        "version": "1.283.1429",
+        "lastUpdated": "2025-03-12T01:45:30.14Z"
+      },
       {
         "version": "1.282.1427",
         "lastUpdated": "2025-03-11T16:21:07.163Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1402",
         "lastUpdated": "2025-02-27T16:20:06.33Z"
-      },
-      {
-        "version": "1.276.1401",
-        "lastUpdated": "2025-02-27T01:45:56.067Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.282.1427/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.283.1429/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031101",
-    "last_updated": "2025-03-11T07:05:57.253Z",
+    "latest_version": "0.26.2025031201",
+    "last_updated": "2025-03-12T04:30:11.933Z",
     "version_history": [
+      {
+        "version": "0.26.2025031201",
+        "lastUpdated": "2025-03-12T04:30:11.933Z"
+      },
       {
         "version": "0.26.2025031101",
         "lastUpdated": "2025-03-11T07:05:57.253Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.25.2025022101",
         "lastUpdated": "2025-02-21T04:32:08.97Z"
-      },
-      {
-        "version": "0.25.2025022001",
-        "lastUpdated": "2025-02-20T04:39:56.293Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4348,9 +4348,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.107.2025031104",
-    "last_updated": "2025-03-11T04:25:06.273Z",
+    "latest_version": "0.107.2025031204",
+    "last_updated": "2025-03-12T04:20:49.85Z",
     "version_history": [
+      {
+        "version": "0.107.2025031204",
+        "lastUpdated": "2025-03-12T04:20:49.85Z"
+      },
       {
         "version": "0.107.2025031104",
         "lastUpdated": "2025-03-11T04:25:06.273Z"
@@ -4426,15 +4430,11 @@
       {
         "version": "0.104.1",
         "lastUpdated": "2025-02-13T14:30:42.16Z"
-      },
-      {
-        "version": "0.104.0",
-        "lastUpdated": "2025-02-06T16:40:30.08Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "github-copilot", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6176,9 +6176,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.70",
-    "last_updated": "2025-03-05T09:39:40.237Z",
+    "latest_version": "1.1.71",
+    "last_updated": "2025-03-12T04:34:07.317Z",
     "version_history": [
+      {
+        "version": "1.1.71",
+        "lastUpdated": "2025-03-12T04:34:07.317Z"
+      },
       {
         "version": "1.1.70",
         "lastUpdated": "2025-03-05T09:39:40.237Z"
@@ -6254,10 +6258,6 @@
       {
         "version": "1.1.48",
         "lastUpdated": "2025-01-06T12:52:19.29Z"
-      },
-      {
-        "version": "1.1.47",
-        "lastUpdated": "2025-01-03T15:12:18.627Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6290,7 +6290,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.70/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.71/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -8299,9 +8299,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.4",
-    "last_updated": "2025-03-11T04:29:41.37Z",
+    "latest_version": "1.21.5",
+    "last_updated": "2025-03-12T04:25:42.57Z",
     "version_history": [
+      {
+        "version": "1.21.5",
+        "lastUpdated": "2025-03-12T04:25:42.57Z"
+      },
       {
         "version": "1.21.4",
         "lastUpdated": "2025-03-11T04:29:41.37Z"
@@ -8377,15 +8381,11 @@
       {
         "version": "1.20.40",
         "lastUpdated": "2025-01-23T04:32:24.797Z"
-      },
-      {
-        "version": "1.20.39",
-        "lastUpdated": "2025-01-20T04:23:53.637Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -9043,9 +9043,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250310001",
-    "last_updated": "2025-03-10T02:54:04.803Z",
+    "latest_version": "0.13.250312001",
+    "last_updated": "2025-03-12T02:56:45.943Z",
     "version_history": [
+      {
+        "version": "0.13.250312001",
+        "lastUpdated": "2025-03-12T02:56:45.943Z"
+      },
       {
         "version": "0.13.250310001",
         "lastUpdated": "2025-03-10T02:54:04.803Z"
@@ -9121,15 +9125,11 @@
       {
         "version": "0.13.250216001",
         "lastUpdated": "2025-02-16T02:47:30.78Z"
-      },
-      {
-        "version": "0.13.250215001",
-        "lastUpdated": "2025-02-15T03:00:44.743Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250310001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250312001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
