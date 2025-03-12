@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.1105",
-    "last_updated": "2025-03-11T09:14:28.217Z",
+    "latest_version": "2025.3.1205",
+    "last_updated": "2025-03-12T09:13:00.92Z",
     "version_history": [
+      {
+        "version": "2025.3.1205",
+        "lastUpdated": "2025-03-12T09:13:00.92Z"
+      },
       {
         "version": "2025.3.1105",
         "lastUpdated": "2025-03-11T09:14:28.217Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.2304",
         "lastUpdated": "2025-02-23T09:11:38.6Z"
-      },
-      {
-        "version": "2025.2.2204",
-        "lastUpdated": "2025-02-22T09:11:36.743Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.283.1429",
-    "last_updated": "2025-03-12T01:45:30.14Z",
+    "latest_version": "1.283.1430",
+    "last_updated": "2025-03-12T11:12:45.927Z",
     "version_history": [
+      {
+        "version": "1.283.1430",
+        "lastUpdated": "2025-03-12T11:12:45.927Z"
+      },
       {
         "version": "1.283.1429",
         "lastUpdated": "2025-03-12T01:45:30.14Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1403",
         "lastUpdated": "2025-02-28T01:44:39.013Z"
-      },
-      {
-        "version": "1.276.1402",
-        "lastUpdated": "2025-02-27T16:20:06.33Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.283.1429/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.283.1430/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -6715,9 +6715,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.98.2025030509",
-    "last_updated": "2025-03-05T09:19:44.937Z",
+    "latest_version": "1.98.2025031209",
+    "last_updated": "2025-03-12T09:24:17.947Z",
     "version_history": [
+      {
+        "version": "1.98.2025031209",
+        "lastUpdated": "2025-03-12T09:24:17.947Z"
+      },
       {
         "version": "1.98.2025030509",
         "lastUpdated": "2025-03-05T09:19:44.937Z"
@@ -6793,15 +6797,11 @@
       {
         "version": "1.94.2024101609",
         "lastUpdated": "2024-10-16T09:18:25.65Z"
-      },
-      {
-        "version": "1.94.2024100909",
-        "lastUpdated": "2024-10-09T09:18:38.69Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025030509/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025031209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -10726,9 +10726,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025031108",
-    "last_updated": "2025-03-11T08:28:54.563Z",
+    "latest_version": "1.41.2025031208",
+    "last_updated": "2025-03-12T08:26:07.563Z",
     "version_history": [
+      {
+        "version": "1.41.2025031208",
+        "lastUpdated": "2025-03-12T08:26:07.563Z"
+      },
       {
         "version": "1.41.2025031108",
         "lastUpdated": "2025-03-11T08:28:54.563Z"
@@ -10804,15 +10808,11 @@
       {
         "version": "1.40.2025013008",
         "lastUpdated": "2025-01-30T08:25:11.41Z"
-      },
-      {
-        "version": "1.40.2025012908",
-        "lastUpdated": "2025-01-29T08:26:13.84Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -11852,9 +11852,13 @@
     "extension_name": "sumneko.lua",
     "display_name": "Lua",
     "short_description": "Lua Language Server coded by Lua",
-    "latest_version": "3.13.7",
-    "last_updated": "2025-03-10T14:23:04.93Z",
+    "latest_version": "3.13.8",
+    "last_updated": "2025-03-12T10:36:04.733Z",
     "version_history": [
+      {
+        "version": "3.13.8",
+        "lastUpdated": "2025-03-12T10:36:04.733Z"
+      },
       {
         "version": "3.13.7",
         "lastUpdated": "2025-03-10T14:23:04.93Z"
@@ -11930,15 +11934,11 @@
       {
         "version": "3.9.3",
         "lastUpdated": "2024-06-11T14:09:04.063Z"
-      },
-      {
-        "version": "3.9.2",
-        "lastUpdated": "2024-06-06T03:52:05.643Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters"],
     "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
   },
   {
@@ -14703,9 +14703,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.402",
-    "last_updated": "2025-03-11T05:49:11.73Z",
+    "latest_version": "1.0.403",
+    "last_updated": "2025-03-12T06:25:44.113Z",
     "version_history": [
+      {
+        "version": "1.0.403",
+        "lastUpdated": "2025-03-12T06:25:44.113Z"
+      },
       {
         "version": "1.0.402",
         "lastUpdated": "2025-03-11T05:49:11.73Z"
@@ -14781,15 +14785,11 @@
       {
         "version": "1.0.384",
         "lastUpdated": "2025-01-31T06:53:01.757Z"
-      },
-      {
-        "version": "1.0.383",
-        "lastUpdated": "2025-01-30T01:34:59.76Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.402/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.403/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
