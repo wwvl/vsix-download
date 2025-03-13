@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.284.1434",
-    "last_updated": "2025-03-13T10:04:51.443Z",
+    "latest_version": "1.284.1435",
+    "last_updated": "2025-03-13T16:19:52.393Z",
     "version_history": [
+      {
+        "version": "1.284.1435",
+        "lastUpdated": "2025-03-13T16:19:52.393Z"
+      },
       {
         "version": "1.284.1434",
         "lastUpdated": "2025-03-13T10:04:51.443Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1408",
         "lastUpdated": "2025-03-04T16:19:56.743Z"
-      },
-      {
-        "version": "1.276.1407",
-        "lastUpdated": "2025-03-04T01:45:23.66Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.284.1434/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.284.1435/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031301",
-    "last_updated": "2025-03-13T04:33:30.467Z",
+    "latest_version": "0.26.2025031302",
+    "last_updated": "2025-03-13T16:34:15.587Z",
     "version_history": [
+      {
+        "version": "0.26.2025031302",
+        "lastUpdated": "2025-03-13T16:34:15.587Z"
+      },
       {
         "version": "0.26.2025031301",
         "lastUpdated": "2025-03-13T04:33:30.467Z"
@@ -4081,6 +4085,10 @@
         "lastUpdated": "2025-03-05T20:12:06.567Z"
       },
       {
+        "version": "0.25.2025031303",
+        "lastUpdated": "2025-03-13T17:34:31.673Z"
+      },
+      {
         "version": "0.25.2025030502",
         "lastUpdated": "2025-03-05T08:47:44.32Z"
       },
@@ -4115,14 +4123,6 @@
       {
         "version": "0.25.2025022701",
         "lastUpdated": "2025-02-27T04:29:21.44Z"
-      },
-      {
-        "version": "0.25.2025022601",
-        "lastUpdated": "2025-02-26T04:29:57.383Z"
-      },
-      {
-        "version": "0.25.2025022501",
-        "lastUpdated": "2025-02-25T04:27:22.64Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6176,9 +6176,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.73",
-    "last_updated": "2025-03-12T17:45:16.12Z",
+    "latest_version": "1.1.74",
+    "last_updated": "2025-03-13T13:05:35.943Z",
     "version_history": [
+      {
+        "version": "1.1.74",
+        "lastUpdated": "2025-03-13T13:05:35.943Z"
+      },
       {
         "version": "1.1.73",
         "lastUpdated": "2025-03-12T17:45:16.12Z"
@@ -6254,10 +6258,6 @@
       {
         "version": "1.1.53",
         "lastUpdated": "2025-01-10T17:44:22.83Z"
-      },
-      {
-        "version": "1.1.51",
-        "lastUpdated": "2025-01-10T17:01:24.377Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6290,7 +6290,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.73/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.74/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11666,9 +11666,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory (Cursor Extension)",
     "short_description": "(Cursor Extension) Capture, search and learn from every AI coding journey",
-    "latest_version": "0.8.0",
-    "last_updated": "2025-03-04T20:32:53.573Z",
+    "latest_version": "0.9.0",
+    "last_updated": "2025-03-13T13:56:28.92Z",
     "version_history": [
+      {
+        "version": "0.9.0",
+        "lastUpdated": "2025-03-13T13:56:28.92Z"
+      },
       {
         "version": "0.8.0",
         "lastUpdated": "2025-03-04T20:32:53.573Z"
@@ -11744,15 +11748,11 @@
       {
         "version": "0.2.2",
         "lastUpdated": "2024-12-18T21:06:07.203Z"
-      },
-      {
-        "version": "0.1.2",
-        "lastUpdated": "2024-12-16T16:22:08.01Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.9.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
@@ -13116,9 +13116,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025031300",
-    "last_updated": "2025-03-13T01:07:09.127Z",
+    "latest_version": "1.62.2025031315",
+    "last_updated": "2025-03-13T15:55:36.067Z",
     "version_history": [
+      {
+        "version": "1.62.2025031315",
+        "lastUpdated": "2025-03-13T15:55:36.067Z"
+      },
       {
         "version": "1.62.2025031300",
         "lastUpdated": "2025-03-13T01:07:09.127Z"
@@ -13194,10 +13198,6 @@
       {
         "version": "1.60.2025020400",
         "lastUpdated": "2025-02-04T01:13:38.927Z"
-      },
-      {
-        "version": "1.60.2025020100",
-        "lastUpdated": "2025-02-01T01:11:22.053Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13216,7 +13216,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025031300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025031315/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
