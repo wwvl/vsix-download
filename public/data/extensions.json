@@ -1341,9 +1341,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automating the process of writing meaningful log messages.",
-    "latest_version": "2.12.2",
-    "last_updated": "2025-02-20T01:14:13.757Z",
+    "latest_version": "2.13.0",
+    "last_updated": "2025-03-13T04:10:20.623Z",
     "version_history": [
+      {
+        "version": "2.13.0",
+        "lastUpdated": "2025-03-13T04:10:20.623Z"
+      },
       {
         "version": "2.12.2",
         "lastUpdated": "2025-02-20T01:14:13.757Z"
@@ -1419,15 +1423,11 @@
       {
         "version": "2.9.10",
         "lastUpdated": "2023-12-16T12:14:05.407Z"
-      },
-      {
-        "version": "2.9.9",
-        "lastUpdated": "2023-12-16T00:03:35.24Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.12.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.13.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.8",
-    "last_updated": "2025-03-11T05:49:56.43Z",
+    "latest_version": "1.1.9",
+    "last_updated": "2025-03-13T02:11:29.563Z",
     "version_history": [
+      {
+        "version": "1.1.9",
+        "lastUpdated": "2025-03-13T02:11:29.563Z"
+      },
       {
         "version": "1.1.8",
         "lastUpdated": "2025-03-11T05:49:56.43Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "0.9.264",
         "lastUpdated": "2025-02-12T04:17:54.023Z"
-      },
-      {
-        "version": "0.9.263",
-        "lastUpdated": "2025-02-11T17:50:05.67Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -2486,9 +2486,13 @@
     "extension_name": "docsmsft.docs-markdown",
     "display_name": "learn-markdown",
     "short_description": "Learn Markdown Extension",
-    "latest_version": "1.0.12",
-    "last_updated": "2025-02-13T02:42:53.657Z",
+    "latest_version": "1.0.13",
+    "last_updated": "2025-03-13T02:21:16.087Z",
     "version_history": [
+      {
+        "version": "1.0.13",
+        "lastUpdated": "2025-03-13T02:21:16.087Z"
+      },
       {
         "version": "1.0.12",
         "lastUpdated": "2025-02-13T02:42:53.657Z"
@@ -2564,15 +2568,11 @@
       {
         "version": "0.2.98",
         "lastUpdated": "2021-09-20T23:04:11.17Z"
-      },
-      {
-        "version": "0.2.97",
-        "lastUpdated": "2021-08-13T22:17:37.8Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["json", "keybindings", "markdown", "snippet", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.13/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.1205",
-    "last_updated": "2025-03-12T09:13:00.92Z",
+    "latest_version": "2025.3.1301",
+    "last_updated": "2025-03-13T06:01:31.01Z",
     "version_history": [
+      {
+        "version": "2025.3.1301",
+        "lastUpdated": "2025-03-13T06:01:31.01Z"
+      },
       {
         "version": "2025.3.1205",
         "lastUpdated": "2025-03-12T09:13:00.92Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.2404",
         "lastUpdated": "2025-02-24T09:13:47.097Z"
-      },
-      {
-        "version": "2025.2.2304",
-        "lastUpdated": "2025-02-23T09:11:38.6Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3924,9 +3924,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.284.0",
-    "last_updated": "2025-03-12T14:43:39.963Z",
+    "latest_version": "1.284.1433",
+    "last_updated": "2025-03-13T04:04:13.44Z",
     "version_history": [
+      {
+        "version": "1.284.1433",
+        "lastUpdated": "2025-03-13T04:04:13.44Z"
+      },
+      {
+        "version": "1.284.1432",
+        "lastUpdated": "2025-03-13T01:47:16.033Z"
+      },
       {
         "version": "1.284.0",
         "lastUpdated": "2025-03-12T14:43:39.963Z"
@@ -3998,14 +4006,6 @@
       {
         "version": "1.276.1406",
         "lastUpdated": "2025-03-03T16:19:24.943Z"
-      },
-      {
-        "version": "1.276.1405",
-        "lastUpdated": "2025-03-03T01:45:47.68Z"
-      },
-      {
-        "version": "1.276.1404",
-        "lastUpdated": "2025-02-28T16:18:10.407Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.284.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.284.1433/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031202",
-    "last_updated": "2025-03-12T18:07:32.767Z",
+    "latest_version": "0.26.2025031301",
+    "last_updated": "2025-03-13T04:33:30.467Z",
     "version_history": [
+      {
+        "version": "0.26.2025031301",
+        "lastUpdated": "2025-03-13T04:33:30.467Z"
+      },
       {
         "version": "0.26.2025031202",
         "lastUpdated": "2025-03-12T18:07:32.767Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.25.2025022501",
         "lastUpdated": "2025-02-25T04:27:22.64Z"
-      },
-      {
-        "version": "0.25.2025022401",
-        "lastUpdated": "2025-02-24T04:31:55.3Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4348,9 +4348,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.107.2025031204",
-    "last_updated": "2025-03-12T04:20:49.85Z",
+    "latest_version": "0.107.2025031304",
+    "last_updated": "2025-03-13T04:19:55.657Z",
     "version_history": [
+      {
+        "version": "0.107.2025031304",
+        "lastUpdated": "2025-03-13T04:19:55.657Z"
+      },
       {
         "version": "0.107.2025031204",
         "lastUpdated": "2025-03-12T04:20:49.85Z"
@@ -4426,15 +4430,11 @@
       {
         "version": "0.105.2025020615",
         "lastUpdated": "2025-02-06T16:05:03.2Z"
-      },
-      {
-        "version": "0.104.1",
-        "lastUpdated": "2025-02-13T14:30:42.16Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "github-copilot", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8299,9 +8299,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.5",
-    "last_updated": "2025-03-12T04:25:42.57Z",
+    "latest_version": "1.21.6",
+    "last_updated": "2025-03-13T04:27:20.62Z",
     "version_history": [
+      {
+        "version": "1.21.6",
+        "lastUpdated": "2025-03-13T04:27:20.62Z"
+      },
       {
         "version": "1.21.5",
         "lastUpdated": "2025-03-12T04:25:42.57Z"
@@ -8377,15 +8381,11 @@
       {
         "version": "1.20.41",
         "lastUpdated": "2025-01-24T04:24:28.507Z"
-      },
-      {
-        "version": "1.20.40",
-        "lastUpdated": "2025-01-23T04:32:24.797Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -9043,9 +9043,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250312001",
-    "last_updated": "2025-03-12T02:56:45.943Z",
+    "latest_version": "0.13.250313001",
+    "last_updated": "2025-03-13T02:47:52.397Z",
     "version_history": [
+      {
+        "version": "0.13.250313001",
+        "lastUpdated": "2025-03-13T02:47:52.397Z"
+      },
       {
         "version": "0.13.250312001",
         "lastUpdated": "2025-03-12T02:56:45.943Z"
@@ -9121,15 +9125,11 @@
       {
         "version": "0.13.250217001",
         "lastUpdated": "2025-02-17T02:54:24.663Z"
-      },
-      {
-        "version": "0.13.250216001",
-        "lastUpdated": "2025-02-16T02:47:30.78Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250312001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250313001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11852,9 +11852,13 @@
     "extension_name": "sumneko.lua",
     "display_name": "Lua",
     "short_description": "Lua Language Server coded by Lua",
-    "latest_version": "3.13.8",
-    "last_updated": "2025-03-12T10:36:04.733Z",
+    "latest_version": "3.13.9",
+    "last_updated": "2025-03-13T03:47:36.653Z",
     "version_history": [
+      {
+        "version": "3.13.9",
+        "lastUpdated": "2025-03-13T03:47:36.653Z"
+      },
       {
         "version": "3.13.8",
         "lastUpdated": "2025-03-12T10:36:04.733Z"
@@ -11930,15 +11934,11 @@
       {
         "version": "3.10.0",
         "lastUpdated": "2024-08-01T11:17:15.68Z"
-      },
-      {
-        "version": "3.9.3",
-        "lastUpdated": "2024-06-11T14:09:04.063Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters"],
     "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.13.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
   },
   {
@@ -14703,9 +14703,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.403",
-    "last_updated": "2025-03-12T06:25:44.113Z",
+    "latest_version": "1.0.404",
+    "last_updated": "2025-03-13T05:07:01.217Z",
     "version_history": [
+      {
+        "version": "1.0.404",
+        "lastUpdated": "2025-03-13T05:07:01.217Z"
+      },
       {
         "version": "1.0.403",
         "lastUpdated": "2025-03-12T06:25:44.113Z"
@@ -14781,15 +14785,11 @@
       {
         "version": "1.0.385",
         "lastUpdated": "2025-02-01T22:07:51.753Z"
-      },
-      {
-        "version": "1.0.384",
-        "lastUpdated": "2025-01-31T06:53:01.757Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.403/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
