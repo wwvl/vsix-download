@@ -282,9 +282,13 @@
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
     "display_name": "TONGYI Lingma",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.1.4",
-    "last_updated": "2025-02-27T15:03:35.163Z",
+    "latest_version": "2.1.5",
+    "last_updated": "2025-03-14T14:12:33.887Z",
     "version_history": [
+      {
+        "version": "2.1.5",
+        "lastUpdated": "2025-03-14T14:12:33.887Z"
+      },
       {
         "version": "2.1.4",
         "lastUpdated": "2025-02-27T15:03:35.163Z"
@@ -360,10 +364,6 @@
       {
         "version": "1.4.11",
         "lastUpdated": "2024-11-22T13:44:08.913Z"
-      },
-      {
-        "version": "1.4.10",
-        "lastUpdated": "2024-11-15T13:29:22.833Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -396,7 +396,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
@@ -1434,9 +1434,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.16.0",
-    "last_updated": "2025-03-13T19:12:06.883Z",
+    "latest_version": "2025.18.0",
+    "last_updated": "2025-03-14T14:13:22.583Z",
     "version_history": [
+      {
+        "version": "2025.18.0",
+        "lastUpdated": "2025-03-14T14:13:22.583Z"
+      },
       {
         "version": "2025.16.0",
         "lastUpdated": "2025-03-13T19:12:06.883Z"
@@ -1512,15 +1516,11 @@
       {
         "version": "2024.38.0",
         "lastUpdated": "2024-08-08T16:28:52.753Z"
-      },
-      {
-        "version": "2024.36.0",
-        "lastUpdated": "2024-07-24T19:50:50.583Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.16971",
-    "last_updated": "2025-03-11T22:30:01.663Z",
+    "latest_version": "1.57.16987",
+    "last_updated": "2025-03-14T16:49:14.33Z",
     "version_history": [
+      {
+        "version": "1.57.16987",
+        "lastUpdated": "2025-03-14T16:49:14.33Z"
+      },
       {
         "version": "1.57.16971",
         "lastUpdated": "2025-03-11T22:30:01.663Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.54.16672",
         "lastUpdated": "2025-01-12T21:24:46.16Z"
-      },
-      {
-        "version": "1.54.16664",
-        "lastUpdated": "2025-01-10T21:19:18.84Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.16971/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.16987/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.284.1435",
-    "last_updated": "2025-03-13T16:19:52.393Z",
+    "latest_version": "1.285.1438",
+    "last_updated": "2025-03-14T16:19:51.05Z",
     "version_history": [
+      {
+        "version": "1.285.1438",
+        "lastUpdated": "2025-03-14T16:19:51.05Z"
+      },
       {
         "version": "1.284.1435",
         "lastUpdated": "2025-03-13T16:19:52.393Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.276.1409",
         "lastUpdated": "2025-03-04T19:31:38.343Z"
-      },
-      {
-        "version": "1.276.1408",
-        "lastUpdated": "2025-03-04T16:19:56.743Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.284.1435/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.285.1438/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11666,9 +11666,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory (Cursor Extension)",
     "short_description": "(Cursor Extension) Capture, search and learn from every AI coding journey",
-    "latest_version": "0.9.0",
-    "last_updated": "2025-03-13T13:56:28.92Z",
+    "latest_version": "0.9.1",
+    "last_updated": "2025-03-14T13:33:40.613Z",
     "version_history": [
+      {
+        "version": "0.9.1",
+        "lastUpdated": "2025-03-14T13:33:40.613Z"
+      },
       {
         "version": "0.9.0",
         "lastUpdated": "2025-03-13T13:56:28.92Z"
@@ -11744,15 +11748,11 @@
       {
         "version": "0.2.3",
         "lastUpdated": "2024-12-18T22:04:41.04Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2024-12-18T21:06:07.203Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.9.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.9.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
