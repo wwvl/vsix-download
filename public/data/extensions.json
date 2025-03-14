@@ -1434,9 +1434,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.14.0",
-    "last_updated": "2025-02-28T10:38:49.767Z",
+    "latest_version": "2025.16.0",
+    "last_updated": "2025-03-13T19:12:06.883Z",
     "version_history": [
+      {
+        "version": "2025.16.0",
+        "lastUpdated": "2025-03-13T19:12:06.883Z"
+      },
       {
         "version": "2025.14.0",
         "lastUpdated": "2025-02-28T10:38:49.767Z"
@@ -1512,15 +1516,11 @@
       {
         "version": "2024.36.0",
         "lastUpdated": "2024-07-24T19:50:50.583Z"
-      },
-      {
-        "version": "2024.35.12060448",
-        "lastUpdated": "2024-07-24T04:56:30.31Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.14.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031302",
-    "last_updated": "2025-03-13T16:34:15.587Z",
+    "latest_version": "0.26.2025031304",
+    "last_updated": "2025-03-13T21:47:15.373Z",
     "version_history": [
+      {
+        "version": "0.26.2025031304",
+        "lastUpdated": "2025-03-13T21:47:15.373Z"
+      },
       {
         "version": "0.26.2025031302",
         "lastUpdated": "2025-03-13T16:34:15.587Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.25.2025022801",
         "lastUpdated": "2025-02-28T04:30:35.207Z"
-      },
-      {
-        "version": "0.25.2025022701",
-        "lastUpdated": "2025-02-27T04:29:21.44Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031302/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6901,9 +6901,13 @@
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.68.46",
-    "last_updated": "2025-03-06T18:43:12.2Z",
+    "latest_version": "2.69.22",
+    "last_updated": "2025-03-13T20:52:59.83Z",
     "version_history": [
+      {
+        "version": "2.69.22",
+        "lastUpdated": "2025-03-13T20:52:59.83Z"
+      },
       {
         "version": "2.68.46",
         "lastUpdated": "2025-03-06T18:43:12.2Z"
@@ -6979,10 +6983,6 @@
       {
         "version": "2.54.20",
         "lastUpdated": "2024-10-29T23:34:34.587Z"
-      },
-      {
-        "version": "2.53.17",
-        "lastUpdated": "2024-10-23T17:51:43.757Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7005,7 +7005,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.68.46/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.69.22/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -7627,9 +7627,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.3.101",
-    "last_updated": "2025-03-12T23:29:44.43Z",
+    "latest_version": "2025.3.102",
+    "last_updated": "2025-03-13T20:47:38.597Z",
     "version_history": [
+      {
+        "version": "2025.3.102",
+        "lastUpdated": "2025-03-13T20:47:38.597Z"
+      },
       {
         "version": "2025.3.101",
         "lastUpdated": "2025-03-12T23:29:44.43Z"
@@ -7637,6 +7641,10 @@
       {
         "version": "2025.3.100",
         "lastUpdated": "2025-03-07T01:34:17.963Z"
+      },
+      {
+        "version": "2025.3.2",
+        "lastUpdated": "2025-03-13T22:23:31.47Z"
       },
       {
         "version": "2025.3.1",
@@ -7701,19 +7709,11 @@
       {
         "version": "2024.11.2",
         "lastUpdated": "2024-11-14T00:53:28.6Z"
-      },
-      {
-        "version": "2024.11.1",
-        "lastUpdated": "2024-11-04T20:45:30.607Z"
-      },
-      {
-        "version": "2024.10.104",
-        "lastUpdated": "2024-10-31T23:23:02.657Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -9136,9 +9136,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250312",
-    "last_updated": "2025-03-13T00:15:47.037Z",
+    "latest_version": "5.9.20250313",
+    "last_updated": "2025-03-14T00:17:20.043Z",
     "version_history": [
+      {
+        "version": "5.9.20250313",
+        "lastUpdated": "2025-03-14T00:17:20.043Z"
+      },
       {
         "version": "5.9.20250312",
         "lastUpdated": "2025-03-13T00:15:47.037Z"
@@ -9214,15 +9218,11 @@
       {
         "version": "5.9.20250221",
         "lastUpdated": "2025-02-22T00:15:43.763Z"
-      },
-      {
-        "version": "5.9.20250220",
-        "lastUpdated": "2025-02-21T00:21:46.14Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250312/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250313/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11005,9 +11005,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2340",
-    "last_updated": "2025-03-13T00:43:55.623Z",
+    "latest_version": "0.4.2341",
+    "last_updated": "2025-03-14T00:43:35.06Z",
     "version_history": [
+      {
+        "version": "0.4.2341",
+        "lastUpdated": "2025-03-14T00:43:35.06Z"
+      },
       {
         "version": "0.4.2340",
         "lastUpdated": "2025-03-13T00:43:55.623Z"
@@ -11083,15 +11087,11 @@
       {
         "version": "0.4.2316",
         "lastUpdated": "2025-02-24T00:41:30.637Z"
-      },
-      {
-        "version": "0.4.2315",
-        "lastUpdated": "2025-02-23T00:44:57.863Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2340/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2341/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11213,9 +11213,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "63.2.3",
-    "last_updated": "2025-02-28T21:53:11.647Z",
+    "latest_version": "63.4.1",
+    "last_updated": "2025-03-13T19:23:08.243Z",
     "version_history": [
+      {
+        "version": "63.4.1",
+        "lastUpdated": "2025-03-13T19:23:08.243Z"
+      },
       {
         "version": "63.2.3",
         "lastUpdated": "2025-02-28T21:53:11.647Z"
@@ -11291,15 +11295,11 @@
       {
         "version": "61.6.0",
         "lastUpdated": "2024-07-25T18:07:26.367Z"
-      },
-      {
-        "version": "61.5.0",
-        "lastUpdated": "2024-07-17T22:29:26.273Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.2.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.4.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -11667,11 +11667,11 @@
     "display_name": "SpecStory (Cursor Extension)",
     "short_description": "(Cursor Extension) Capture, search and learn from every AI coding journey",
     "latest_version": "0.9.0",
-    "last_updated": "2025-03-13T13:56:28.92Z",
+    "last_updated": "2025-03-13T13:53:27.697Z",
     "version_history": [
       {
         "version": "0.9.0",
-        "lastUpdated": "2025-03-13T13:56:28.92Z"
+        "lastUpdated": "2025-03-13T13:53:27.697Z"
       },
       {
         "version": "0.8.0",
