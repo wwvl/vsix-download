@@ -1620,9 +1620,17 @@
     "extension_name": "Codeium.codeium",
     "display_name": "Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more",
     "short_description": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
-    "latest_version": "1.41.2",
-    "last_updated": "2025-03-05T01:46:52.17Z",
+    "latest_version": "1.43.3",
+    "last_updated": "2025-03-15T03:15:51.777Z",
     "version_history": [
+      {
+        "version": "1.43.3",
+        "lastUpdated": "2025-03-15T03:15:51.777Z"
+      },
+      {
+        "version": "1.43.2",
+        "lastUpdated": "2025-03-15T01:27:00.263Z"
+      },
       {
         "version": "1.41.2",
         "lastUpdated": "2025-03-05T01:46:52.17Z"
@@ -1694,14 +1702,6 @@
       {
         "version": "1.30.2",
         "lastUpdated": "2024-12-13T23:38:12.513Z"
-      },
-      {
-        "version": "1.29.8",
-        "lastUpdated": "2024-12-03T20:26:41.477Z"
-      },
-      {
-        "version": "1.29.2",
-        "lastUpdated": "2024-11-23T01:13:31.343Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -1735,7 +1735,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.41.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.43.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
   },
   {
@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.10",
-    "last_updated": "2025-03-15T00:50:41.567Z",
+    "latest_version": "1.1.11",
+    "last_updated": "2025-03-15T02:27:02.463Z",
     "version_history": [
+      {
+        "version": "1.1.11",
+        "lastUpdated": "2025-03-15T02:27:02.463Z"
+      },
       {
         "version": "1.1.10",
         "lastUpdated": "2025-03-15T00:50:41.567Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "0.9.267",
         "lastUpdated": "2025-02-15T19:20:33.29Z"
-      },
-      {
-        "version": "0.9.266",
-        "lastUpdated": "2025-02-14T08:02:52.057Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -9043,9 +9043,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250314001",
-    "last_updated": "2025-03-14T02:48:54.913Z",
+    "latest_version": "0.13.250315001",
+    "last_updated": "2025-03-15T02:49:55.38Z",
     "version_history": [
+      {
+        "version": "0.13.250315001",
+        "lastUpdated": "2025-03-15T02:49:55.38Z"
+      },
       {
         "version": "0.13.250314001",
         "lastUpdated": "2025-03-14T02:48:54.913Z"
@@ -9121,15 +9125,11 @@
       {
         "version": "0.13.250219001",
         "lastUpdated": "2025-02-19T02:51:01.61Z"
-      },
-      {
-        "version": "0.13.250218001",
-        "lastUpdated": "2025-02-18T02:48:29.687Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250314001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250315001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11306,9 +11306,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.6.10",
-    "last_updated": "2025-03-10T02:24:34.31Z",
+    "latest_version": "3.7.0",
+    "last_updated": "2025-03-15T02:20:15.297Z",
     "version_history": [
+      {
+        "version": "3.7.0",
+        "lastUpdated": "2025-03-15T02:20:15.297Z"
+      },
       {
         "version": "3.6.10",
         "lastUpdated": "2025-03-10T02:24:34.31Z"
@@ -11384,15 +11388,11 @@
       {
         "version": "3.4.5",
         "lastUpdated": "2025-02-20T07:48:25.03Z"
-      },
-      {
-        "version": "3.4.4",
-        "lastUpdated": "2025-02-20T03:02:27.683Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.6.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
