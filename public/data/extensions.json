@@ -9043,9 +9043,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250315001",
-    "last_updated": "2025-03-15T02:49:55.38Z",
+    "latest_version": "0.13.250316001",
+    "last_updated": "2025-03-16T02:53:56.823Z",
     "version_history": [
+      {
+        "version": "0.13.250316001",
+        "lastUpdated": "2025-03-16T02:53:56.823Z"
+      },
       {
         "version": "0.13.250315001",
         "lastUpdated": "2025-03-15T02:49:55.38Z"
@@ -9121,15 +9125,11 @@
       {
         "version": "0.13.250220001",
         "lastUpdated": "2025-02-20T02:55:55.13Z"
-      },
-      {
-        "version": "0.13.250219001",
-        "lastUpdated": "2025-02-19T02:51:01.61Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250315001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250316001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -9853,9 +9853,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.15.15",
-    "last_updated": "2025-03-13T01:12:06.063Z",
+    "latest_version": "0.16.0",
+    "last_updated": "2025-03-16T02:39:28.7Z",
     "version_history": [
+      {
+        "version": "0.16.0",
+        "lastUpdated": "2025-03-16T02:39:28.7Z"
+      },
       {
         "version": "0.15.15",
         "lastUpdated": "2025-03-13T01:12:06.063Z"
@@ -9931,15 +9935,11 @@
       {
         "version": "0.13.0",
         "lastUpdated": "2024-11-21T14:39:34.61Z"
-      },
-      {
-        "version": "0.12.0",
-        "lastUpdated": "2024-11-20T08:00:26.063Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.15.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
