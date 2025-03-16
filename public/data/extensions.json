@@ -282,9 +282,13 @@
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
     "display_name": "TONGYI Lingma",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.1.5",
-    "last_updated": "2025-03-14T14:12:33.887Z",
+    "latest_version": "2.1.6",
+    "last_updated": "2025-03-16T08:05:03.787Z",
     "version_history": [
+      {
+        "version": "2.1.6",
+        "lastUpdated": "2025-03-16T08:05:03.787Z"
+      },
       {
         "version": "2.1.5",
         "lastUpdated": "2025-03-14T14:12:33.887Z"
@@ -360,10 +364,6 @@
       {
         "version": "1.4.12",
         "lastUpdated": "2024-11-25T14:15:07.74Z"
-      },
-      {
-        "version": "1.4.11",
-        "lastUpdated": "2024-11-22T13:44:08.913Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -396,7 +396,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.1510",
-    "last_updated": "2025-03-15T14:54:08.37Z",
+    "latest_version": "2025.3.1605",
+    "last_updated": "2025-03-16T09:12:37.187Z",
     "version_history": [
+      {
+        "version": "2025.3.1605",
+        "lastUpdated": "2025-03-16T09:12:37.187Z"
+      },
       {
         "version": "2025.3.1510",
         "lastUpdated": "2025-03-15T14:54:08.37Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.2.2804",
         "lastUpdated": "2025-02-28T09:12:13.603Z"
-      },
-      {
-        "version": "2025.2.2704",
-        "lastUpdated": "2025-02-27T09:12:40.067Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1510/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -11573,9 +11573,17 @@
     "extension_name": "shd101wyy.markdown-preview-enhanced",
     "display_name": "Markdown Preview Enhanced",
     "short_description": "Markdown Preview Enhanced ported to vscode",
-    "latest_version": "0.8.15",
-    "last_updated": "2024-11-08T05:16:30.24Z",
+    "latest_version": "0.8.17",
+    "last_updated": "2025-03-16T09:25:37.04Z",
     "version_history": [
+      {
+        "version": "0.8.17",
+        "lastUpdated": "2025-03-16T09:25:37.04Z"
+      },
+      {
+        "version": "0.8.16",
+        "lastUpdated": "2025-03-16T08:00:59.26Z"
+      },
       {
         "version": "0.8.15",
         "lastUpdated": "2024-11-08T05:16:30.24Z"
@@ -11647,19 +11655,11 @@
       {
         "version": "0.7.9",
         "lastUpdated": "2023-09-17T14:57:39.363Z"
-      },
-      {
-        "version": "0.7.8",
-        "lastUpdated": "2023-09-15T12:32:24.61Z"
-      },
-      {
-        "version": "0.7.7",
-        "lastUpdated": "2023-09-15T09:21:18.2Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["keybindings", "markdown", "quarto"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
   },
   {
