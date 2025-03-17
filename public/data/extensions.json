@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.11",
-    "last_updated": "2025-03-15T02:27:02.463Z",
+    "latest_version": "1.1.12",
+    "last_updated": "2025-03-17T02:11:31.107Z",
     "version_history": [
+      {
+        "version": "1.1.12",
+        "lastUpdated": "2025-03-17T02:11:31.107Z"
+      },
       {
         "version": "1.1.11",
         "lastUpdated": "2025-03-15T02:27:02.463Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "0.9.268",
         "lastUpdated": "2025-02-16T07:51:04.49Z"
-      },
-      {
-        "version": "0.9.267",
-        "lastUpdated": "2025-02-15T19:20:33.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.285.1438",
-    "last_updated": "2025-03-14T16:19:51.05Z",
+    "latest_version": "1.286.1440",
+    "last_updated": "2025-03-17T01:49:48.977Z",
     "version_history": [
+      {
+        "version": "1.286.1440",
+        "lastUpdated": "2025-03-17T01:49:48.977Z"
+      },
       {
         "version": "1.285.1438",
         "lastUpdated": "2025-03-14T16:19:51.05Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.277.0",
         "lastUpdated": "2025-03-04T21:41:28.67Z"
-      },
-      {
-        "version": "1.276.1409",
-        "lastUpdated": "2025-03-04T19:31:38.343Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.285.1438/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.286.1440/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031404",
-    "last_updated": "2025-03-14T23:05:40.433Z",
+    "latest_version": "0.26.2025031701",
+    "last_updated": "2025-03-17T04:25:32.12Z",
     "version_history": [
+      {
+        "version": "0.26.2025031701",
+        "lastUpdated": "2025-03-17T04:25:32.12Z"
+      },
       {
         "version": "0.26.2025031404",
         "lastUpdated": "2025-03-14T23:05:40.433Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.25.2025030302",
         "lastUpdated": "2025-03-03T09:17:34.727Z"
-      },
-      {
-        "version": "0.25.2025022803",
-        "lastUpdated": "2025-02-28T23:43:44.027Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4135,7 +4135,6 @@
       "codex",
       "co-pilot",
       "documentation",
-      "github-copilot",
       "go",
       "golang",
       "ignore",
@@ -4153,9 +4152,10 @@
       "refactor",
       "ruby",
       "snippets",
+      "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4348,9 +4348,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.107.2025031304",
-    "last_updated": "2025-03-13T04:19:55.657Z",
+    "latest_version": "0.107.2025031704",
+    "last_updated": "2025-03-17T04:22:43.26Z",
     "version_history": [
+      {
+        "version": "0.107.2025031704",
+        "lastUpdated": "2025-03-17T04:22:43.26Z"
+      },
       {
         "version": "0.107.2025031304",
         "lastUpdated": "2025-03-13T04:19:55.657Z"
@@ -4426,15 +4430,11 @@
       {
         "version": "0.105.2025021004",
         "lastUpdated": "2025-02-10T04:20:26.377Z"
-      },
-      {
-        "version": "0.105.2025020615",
-        "lastUpdated": "2025-02-06T16:05:03.2Z"
       }
     ],
     "categories": ["AI", "Chat"],
-    "tags": ["chat-participant", "github-copilot", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031304/vspackage",
+    "tags": ["chat-participant", "keybindings", "tools"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.107.2025031704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
