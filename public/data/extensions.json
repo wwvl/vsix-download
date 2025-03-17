@@ -6176,9 +6176,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.74",
-    "last_updated": "2025-03-13T13:05:35.943Z",
+    "latest_version": "1.1.75",
+    "last_updated": "2025-03-17T08:38:51.797Z",
     "version_history": [
+      {
+        "version": "1.1.75",
+        "lastUpdated": "2025-03-17T08:38:51.797Z"
+      },
       {
         "version": "1.1.74",
         "lastUpdated": "2025-03-13T13:05:35.943Z"
@@ -6254,10 +6258,6 @@
       {
         "version": "1.1.54",
         "lastUpdated": "2025-01-13T04:46:41.277Z"
-      },
-      {
-        "version": "1.1.53",
-        "lastUpdated": "2025-01-10T17:44:22.83Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6290,7 +6290,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.74/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.75/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -7866,9 +7866,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.405.0",
-    "last_updated": "2025-03-11T17:28:01.647Z",
+    "latest_version": "0.406.0",
+    "last_updated": "2025-03-17T10:42:58.073Z",
     "version_history": [
+      {
+        "version": "0.406.0",
+        "lastUpdated": "2025-03-17T10:42:58.073Z"
+      },
       {
         "version": "0.405.0",
         "lastUpdated": "2025-03-11T17:28:01.647Z"
@@ -7944,15 +7948,11 @@
       {
         "version": "0.387.0",
         "lastUpdated": "2024-09-23T16:42:57.673Z"
-      },
-      {
-        "version": "0.386.0",
-        "lastUpdated": "2024-09-10T21:00:10.87Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.405.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.406.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -14703,9 +14703,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.405",
-    "last_updated": "2025-03-15T22:09:17.803Z",
+    "latest_version": "1.0.406",
+    "last_updated": "2025-03-17T07:19:10.05Z",
     "version_history": [
+      {
+        "version": "1.0.406",
+        "lastUpdated": "2025-03-17T07:19:10.05Z"
+      },
       {
         "version": "1.0.405",
         "lastUpdated": "2025-03-15T22:09:17.803Z"
@@ -14781,15 +14785,11 @@
       {
         "version": "1.0.387",
         "lastUpdated": "2025-02-10T01:35:27.99Z"
-      },
-      {
-        "version": "1.0.386",
-        "lastUpdated": "2025-02-02T23:42:55.197Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.406/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
