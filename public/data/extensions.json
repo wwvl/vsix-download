@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025031801",
-    "last_updated": "2025-03-18T07:42:59.457Z",
+    "latest_version": "0.26.2025031802",
+    "last_updated": "2025-03-18T19:13:29.537Z",
     "version_history": [
+      {
+        "version": "0.26.2025031802",
+        "lastUpdated": "2025-03-18T19:13:29.537Z"
+      },
       {
         "version": "0.26.2025031801",
         "lastUpdated": "2025-03-18T07:42:59.457Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.25.2025030403",
         "lastUpdated": "2025-03-04T16:34:15.877Z"
-      },
-      {
-        "version": "0.25.2025030402",
-        "lastUpdated": "2025-03-04T07:02:06.4Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025031802/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8764,9 +8764,13 @@
     "extension_name": "ms-vscode.PowerShell",
     "display_name": "PowerShell",
     "short_description": "Develop PowerShell modules, commands and scripts in Visual Studio Code!",
-    "latest_version": "2025.1.0",
-    "last_updated": "2025-01-16T22:15:01.503Z",
+    "latest_version": "2025.3.0",
+    "last_updated": "2025-03-18T21:53:05.493Z",
     "version_history": [
+      {
+        "version": "2025.3.0",
+        "lastUpdated": "2025-03-18T21:53:05.493Z"
+      },
       {
         "version": "2025.1.0",
         "lastUpdated": "2025-01-16T22:15:01.503Z"
@@ -8842,15 +8846,11 @@
       {
         "version": "2023.9.3",
         "lastUpdated": "2023-09-28T22:11:53.893Z"
-      },
-      {
-        "version": "2023.9.2",
-        "lastUpdated": "2023-09-14T00:04:43.81Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Themes", "Linters", "Debuggers", "Formatters"],
     "tags": ["color-theme", "debuggers", "keybindings", "powershell", "pwsh", "snippet", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.1.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell"
   },
   {
@@ -9136,9 +9136,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250317",
-    "last_updated": "2025-03-18T00:18:22.267Z",
+    "latest_version": "5.9.20250318",
+    "last_updated": "2025-03-19T00:19:08.203Z",
     "version_history": [
+      {
+        "version": "5.9.20250318",
+        "lastUpdated": "2025-03-19T00:19:08.203Z"
+      },
       {
         "version": "5.9.20250317",
         "lastUpdated": "2025-03-18T00:18:22.267Z"
@@ -9214,15 +9218,11 @@
       {
         "version": "5.9.20250227",
         "lastUpdated": "2025-02-28T00:15:36.16Z"
-      },
-      {
-        "version": "5.9.20250226",
-        "lastUpdated": "2025-02-27T00:17:59.673Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250317/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250318/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11005,9 +11005,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2346",
-    "last_updated": "2025-03-18T00:44:15.077Z",
+    "latest_version": "0.4.2347",
+    "last_updated": "2025-03-19T00:43:40.87Z",
     "version_history": [
+      {
+        "version": "0.4.2347",
+        "lastUpdated": "2025-03-19T00:43:40.87Z"
+      },
       {
         "version": "0.4.2346",
         "lastUpdated": "2025-03-18T00:44:15.077Z"
@@ -11083,15 +11087,11 @@
       {
         "version": "0.4.2323",
         "lastUpdated": "2025-02-28T00:41:43.407Z"
-      },
-      {
-        "version": "0.4.2322",
-        "lastUpdated": "2025-02-27T00:41:08.837Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2346/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2347/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14153,9 +14153,13 @@
     "extension_name": "vsls-contrib.gistfs",
     "display_name": "GistPad",
     "short_description": "Manage your code snippets and developer notes using GitHub Gists and repositories.",
-    "latest_version": "0.7.0",
-    "last_updated": "2025-02-16T19:03:43.783Z",
+    "latest_version": "0.8.0",
+    "last_updated": "2025-03-18T19:08:02.12Z",
     "version_history": [
+      {
+        "version": "0.8.0",
+        "lastUpdated": "2025-03-18T19:08:02.12Z"
+      },
       {
         "version": "0.7.0",
         "lastUpdated": "2025-02-16T19:03:43.783Z"
@@ -14231,15 +14235,11 @@
       {
         "version": "0.1.9",
         "lastUpdated": "2020-11-17T17:42:09.917Z"
-      },
-      {
-        "version": "0.1.8",
-        "lastUpdated": "2020-07-16T23:40:45.747Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["gist", "github", "json", "notes", "snippets", "wiki"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.7.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
   },
   {
