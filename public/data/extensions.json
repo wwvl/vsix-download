@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.288.1447",
-    "last_updated": "2025-03-19T01:46:04.47Z",
+    "latest_version": "1.289.1449",
+    "last_updated": "2025-03-19T16:20:31.98Z",
     "version_history": [
+      {
+        "version": "1.289.1449",
+        "lastUpdated": "2025-03-19T16:20:31.98Z"
+      },
       {
         "version": "1.288.1447",
         "lastUpdated": "2025-03-19T01:46:04.47Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.280.1421",
         "lastUpdated": "2025-03-09T04:19:46.193Z"
-      },
-      {
-        "version": "1.280.1420",
-        "lastUpdated": "2025-03-07T19:24:28.567Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.288.1447/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.289.1449/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10726,9 +10726,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025031908",
-    "last_updated": "2025-03-19T08:25:26.687Z",
+    "latest_version": "1.41.2025031912",
+    "last_updated": "2025-03-19T13:15:48.8Z",
     "version_history": [
+      {
+        "version": "1.41.2025031912",
+        "lastUpdated": "2025-03-19T13:15:48.8Z"
+      },
       {
         "version": "1.41.2025031908",
         "lastUpdated": "2025-03-19T08:25:26.687Z"
@@ -10804,15 +10808,11 @@
       {
         "version": "1.40.2025020808",
         "lastUpdated": "2025-02-08T08:23:42.703Z"
-      },
-      {
-        "version": "1.40.2025020508",
-        "lastUpdated": "2025-02-05T08:25:22.317Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031908/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031912/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
