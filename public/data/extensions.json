@@ -6715,9 +6715,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.98.2025031209",
-    "last_updated": "2025-03-12T09:24:17.947Z",
+    "latest_version": "1.99.2025031909",
+    "last_updated": "2025-03-19T09:18:38.26Z",
     "version_history": [
+      {
+        "version": "1.99.2025031909",
+        "lastUpdated": "2025-03-19T09:18:38.26Z"
+      },
       {
         "version": "1.98.2025031209",
         "lastUpdated": "2025-03-12T09:24:17.947Z"
@@ -6793,15 +6797,11 @@
       {
         "version": "1.95.2024102309",
         "lastUpdated": "2024-10-23T09:23:19.77Z"
-      },
-      {
-        "version": "1.94.2024101609",
-        "lastUpdated": "2024-10-16T09:18:25.65Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.98.2025031209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025031909/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -10354,9 +10354,13 @@
     "extension_name": "puppet.puppet-vscode",
     "display_name": "Puppet",
     "short_description": "Official Puppet VSCode extension. Provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more",
-    "latest_version": "1.5.4",
-    "last_updated": "2024-08-29T09:29:25.85Z",
+    "latest_version": "1.5.5",
+    "last_updated": "2025-03-19T10:32:45.63Z",
     "version_history": [
+      {
+        "version": "1.5.5",
+        "lastUpdated": "2025-03-19T10:32:45.63Z"
+      },
       {
         "version": "1.5.4",
         "lastUpdated": "2024-08-29T09:29:25.85Z"
@@ -10432,15 +10436,11 @@
       {
         "version": "0.26.0",
         "lastUpdated": "2020-04-30T17:42:08.677Z"
-      },
-      {
-        "version": "0.25.2",
-        "lastUpdated": "2020-03-27T13:42:48.503Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["debuggers", "javascript", "json", "language", "linters", "node", "puppet", "puppetfile", "puppet-lint", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/puppet/vsextensions/puppet-vscode/1.5.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/puppet/vsextensions/puppet-vscode/1.5.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=puppet.puppet-vscode"
   },
   {
@@ -10726,9 +10726,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025031808",
-    "last_updated": "2025-03-18T08:25:42.88Z",
+    "latest_version": "1.41.2025031908",
+    "last_updated": "2025-03-19T08:25:26.687Z",
     "version_history": [
+      {
+        "version": "1.41.2025031908",
+        "lastUpdated": "2025-03-19T08:25:26.687Z"
+      },
       {
         "version": "1.41.2025031808",
         "lastUpdated": "2025-03-18T08:25:42.88Z"
@@ -10804,15 +10808,11 @@
       {
         "version": "1.40.2025020508",
         "lastUpdated": "2025-02-05T08:25:22.317Z"
-      },
-      {
-        "version": "1.40.2025020408",
-        "lastUpdated": "2025-02-04T08:31:36.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025031908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
