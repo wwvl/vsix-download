@@ -282,9 +282,13 @@
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
     "display_name": "TONGYI Lingma",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.1.6",
-    "last_updated": "2025-03-16T08:05:03.787Z",
+    "latest_version": "2.1.7",
+    "last_updated": "2025-03-20T14:11:04.957Z",
     "version_history": [
+      {
+        "version": "2.1.7",
+        "lastUpdated": "2025-03-20T14:11:04.957Z"
+      },
       {
         "version": "2.1.6",
         "lastUpdated": "2025-03-16T08:05:03.787Z"
@@ -360,10 +364,6 @@
       {
         "version": "1.4.13",
         "lastUpdated": "2024-11-29T13:20:11.547Z"
-      },
-      {
-        "version": "1.4.12",
-        "lastUpdated": "2024-11-25T14:15:07.74Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -396,7 +396,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
@@ -1434,9 +1434,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.18.0",
-    "last_updated": "2025-03-14T14:13:22.583Z",
+    "latest_version": "2025.20.0",
+    "last_updated": "2025-03-20T16:15:24.24Z",
     "version_history": [
+      {
+        "version": "2025.20.0",
+        "lastUpdated": "2025-03-20T16:15:24.24Z"
+      },
       {
         "version": "2025.18.0",
         "lastUpdated": "2025-03-14T14:13:22.583Z"
@@ -1512,15 +1516,11 @@
       {
         "version": "2024.40.0",
         "lastUpdated": "2024-08-09T13:39:02.26Z"
-      },
-      {
-        "version": "2024.38.0",
-        "lastUpdated": "2024-08-08T16:28:52.753Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.20.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.289.1449",
-    "last_updated": "2025-03-19T16:20:31.98Z",
+    "latest_version": "1.290.1452",
+    "last_updated": "2025-03-20T16:20:43.833Z",
     "version_history": [
+      {
+        "version": "1.290.1452",
+        "lastUpdated": "2025-03-20T16:20:43.833Z"
+      },
       {
         "version": "1.289.1449",
         "lastUpdated": "2025-03-19T16:20:31.98Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.281.1424",
         "lastUpdated": "2025-03-10T15:45:34.253Z"
-      },
-      {
-        "version": "1.280.1421",
-        "lastUpdated": "2025-03-09T04:19:46.193Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.289.1449/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.290.1452/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10541,11 +10541,11 @@
     "display_name": "Ansible",
     "short_description": "Ansible language support",
     "latest_version": "25.3.0",
-    "last_updated": "2025-03-19T21:41:05.633Z",
+    "last_updated": "2025-03-19T21:46:40.613Z",
     "version_history": [
       {
         "version": "25.3.0",
-        "lastUpdated": "2025-03-19T21:41:05.633Z"
+        "lastUpdated": "2025-03-19T21:46:40.613Z"
       },
       {
         "version": "25.2.0",
