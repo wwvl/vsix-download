@@ -1434,9 +1434,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.20.0",
-    "last_updated": "2025-03-20T16:15:24.24Z",
+    "latest_version": "2025.22.0",
+    "last_updated": "2025-03-21T14:01:05.02Z",
     "version_history": [
+      {
+        "version": "2025.22.0",
+        "lastUpdated": "2025-03-21T14:01:05.02Z"
+      },
       {
         "version": "2025.20.0",
         "lastUpdated": "2025-03-20T16:15:24.24Z"
@@ -1512,15 +1516,11 @@
       {
         "version": "2024.42.0",
         "lastUpdated": "2024-08-16T19:43:14.113Z"
-      },
-      {
-        "version": "2024.40.0",
-        "lastUpdated": "2024-08-09T13:39:02.26Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.22.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.290.1454",
-    "last_updated": "2025-03-21T11:29:43.99Z",
+    "latest_version": "1.290.1455",
+    "last_updated": "2025-03-21T16:23:08.72Z",
     "version_history": [
+      {
+        "version": "1.290.1455",
+        "lastUpdated": "2025-03-21T16:23:08.72Z"
+      },
       {
         "version": "1.290.1454",
         "lastUpdated": "2025-03-21T11:29:43.99Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.282.1427",
         "lastUpdated": "2025-03-11T16:21:07.163Z"
-      },
-      {
-        "version": "1.282.1426",
-        "lastUpdated": "2025-03-11T01:46:47.28Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.290.1454/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.290.1455/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032101",
-    "last_updated": "2025-03-21T04:30:32.59Z",
+    "latest_version": "0.26.2025032102",
+    "last_updated": "2025-03-21T16:53:28.26Z",
     "version_history": [
+      {
+        "version": "0.26.2025032102",
+        "lastUpdated": "2025-03-21T16:53:28.26Z"
+      },
       {
         "version": "0.26.2025032101",
         "lastUpdated": "2025-03-21T04:30:32.59Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025030503",
         "lastUpdated": "2025-03-05T20:12:06.567Z"
-      },
-      {
-        "version": "0.25.2025031303",
-        "lastUpdated": "2025-03-13T17:34:31.673Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -14153,9 +14153,13 @@
     "extension_name": "vsls-contrib.gistfs",
     "display_name": "GistPad",
     "short_description": "Manage your code snippets and developer notes using GitHub Gists and repositories.",
-    "latest_version": "0.8.0",
-    "last_updated": "2025-03-18T19:08:02.12Z",
+    "latest_version": "0.8.1",
+    "last_updated": "2025-03-21T15:32:55.73Z",
     "version_history": [
+      {
+        "version": "0.8.1",
+        "lastUpdated": "2025-03-21T15:32:55.73Z"
+      },
       {
         "version": "0.8.0",
         "lastUpdated": "2025-03-18T19:08:02.12Z"
@@ -14231,15 +14235,11 @@
       {
         "version": "0.1.10",
         "lastUpdated": "2020-11-26T03:49:19.16Z"
-      },
-      {
-        "version": "0.1.9",
-        "lastUpdated": "2020-11-17T17:42:09.917Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["gist", "github", "json", "notes", "snippets", "wiki"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
   },
   {
