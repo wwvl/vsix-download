@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032103",
-    "last_updated": "2025-03-22T00:18:14.25Z",
+    "latest_version": "0.26.2025032201",
+    "last_updated": "2025-03-22T02:16:37.75Z",
     "version_history": [
+      {
+        "version": "0.26.2025032201",
+        "lastUpdated": "2025-03-22T02:16:37.75Z"
+      },
       {
         "version": "0.26.2025032103",
         "lastUpdated": "2025-03-22T00:18:14.25Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025030601",
         "lastUpdated": "2025-03-06T04:30:22.22Z"
-      },
-      {
-        "version": "0.26.2025030506",
-        "lastUpdated": "2025-03-05T23:27:57.35Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9043,9 +9043,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250321001",
-    "last_updated": "2025-03-21T02:51:11.527Z",
+    "latest_version": "0.13.250322001",
+    "last_updated": "2025-03-22T02:53:43.543Z",
     "version_history": [
+      {
+        "version": "0.13.250322001",
+        "lastUpdated": "2025-03-22T02:53:43.543Z"
+      },
       {
         "version": "0.13.250321001",
         "lastUpdated": "2025-03-21T02:51:11.527Z"
@@ -9121,15 +9125,11 @@
       {
         "version": "0.13.250225001",
         "lastUpdated": "2025-02-25T02:55:13.003Z"
-      },
-      {
-        "version": "0.13.250224001",
-        "lastUpdated": "2025-02-24T02:52:52.36Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250321001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250322001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
