@@ -9043,9 +9043,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250322001",
-    "last_updated": "2025-03-22T02:53:43.543Z",
+    "latest_version": "0.13.250323001",
+    "last_updated": "2025-03-23T02:53:45.087Z",
     "version_history": [
+      {
+        "version": "0.13.250323001",
+        "lastUpdated": "2025-03-23T02:53:45.087Z"
+      },
       {
         "version": "0.13.250322001",
         "lastUpdated": "2025-03-22T02:53:43.543Z"
@@ -9121,15 +9125,11 @@
       {
         "version": "0.13.250228001",
         "lastUpdated": "2025-02-28T02:55:35.8Z"
-      },
-      {
-        "version": "0.13.250225001",
-        "lastUpdated": "2025-02-25T02:55:13.003Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250322001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250323001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11306,9 +11306,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.7.1",
-    "last_updated": "2025-03-18T04:22:38.73Z",
+    "latest_version": "3.8.0",
+    "last_updated": "2025-03-23T02:41:03.26Z",
     "version_history": [
+      {
+        "version": "3.8.0",
+        "lastUpdated": "2025-03-23T02:41:03.26Z"
+      },
       {
         "version": "3.7.1",
         "lastUpdated": "2025-03-18T04:22:38.73Z"
@@ -11384,15 +11388,11 @@
       {
         "version": "3.4.7",
         "lastUpdated": "2025-02-25T02:26:24.887Z"
-      },
-      {
-        "version": "3.4.6",
-        "lastUpdated": "2025-02-24T19:19:43.757Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.7.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
