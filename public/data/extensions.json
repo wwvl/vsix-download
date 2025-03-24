@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.290.1457",
-    "last_updated": "2025-03-24T09:49:25.953Z",
+    "latest_version": "1.290.1459",
+    "last_updated": "2025-03-24T17:12:24.743Z",
     "version_history": [
+      {
+        "version": "1.290.1459",
+        "lastUpdated": "2025-03-24T17:12:24.743Z"
+      },
       {
         "version": "1.290.1457",
         "lastUpdated": "2025-03-24T09:49:25.953Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.284.0",
         "lastUpdated": "2025-03-12T14:43:39.963Z"
-      },
-      {
-        "version": "1.283.1430",
-        "lastUpdated": "2025-03-12T11:12:45.927Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.290.1457/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.290.1459/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
