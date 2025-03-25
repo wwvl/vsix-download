@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17001",
-    "last_updated": "2025-03-18T10:24:29.777Z",
+    "latest_version": "1.57.17031",
+    "last_updated": "2025-03-25T14:09:07.323Z",
     "version_history": [
+      {
+        "version": "1.57.17031",
+        "lastUpdated": "2025-03-25T14:09:07.323Z"
+      },
       {
         "version": "1.57.17001",
         "lastUpdated": "2025-03-18T10:24:29.777Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16685",
         "lastUpdated": "2025-01-14T21:36:25.54Z"
-      },
-      {
-        "version": "1.54.16678",
-        "lastUpdated": "2025-01-13T16:52:15.503Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17031/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.291.0",
-    "last_updated": "2025-03-24T19:55:33.88Z",
+    "latest_version": "1.291.1462",
+    "last_updated": "2025-03-25T16:18:57.623Z",
     "version_history": [
+      {
+        "version": "1.291.1462",
+        "lastUpdated": "2025-03-25T16:18:57.623Z"
+      },
       {
         "version": "1.291.0",
         "lastUpdated": "2025-03-24T19:55:33.88Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.284.1433",
         "lastUpdated": "2025-03-13T04:04:13.44Z"
-      },
-      {
-        "version": "1.284.1432",
-        "lastUpdated": "2025-03-13T01:47:16.033Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.291.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.291.1462/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11005,13 +11005,9 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2355",
-    "last_updated": "2025-03-25T00:44:15.2Z",
+    "latest_version": "0.4.2354",
+    "last_updated": "2025-03-24T09:09:33.48Z",
     "version_history": [
-      {
-        "version": "0.4.2355",
-        "lastUpdated": "2025-03-25T00:44:15.2Z"
-      },
       {
         "version": "0.4.2354",
         "lastUpdated": "2025-03-24T09:09:33.48Z"
@@ -11087,11 +11083,15 @@
       {
         "version": "0.4.2332",
         "lastUpdated": "2025-03-06T00:42:26.513Z"
+      },
+      {
+        "version": "0.4.2331",
+        "lastUpdated": "2025-03-05T00:42:42.023Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2355/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2354/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
