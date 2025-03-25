@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.14",
-    "last_updated": "2025-03-23T18:10:24.45Z",
+    "latest_version": "1.1.15",
+    "last_updated": "2025-03-25T08:28:00.12Z",
     "version_history": [
+      {
+        "version": "1.1.15",
+        "lastUpdated": "2025-03-25T08:28:00.12Z"
+      },
       {
         "version": "1.1.14",
         "lastUpdated": "2025-03-23T18:10:24.45Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "1.0.0",
         "lastUpdated": "2025-02-26T12:01:32.33Z"
-      },
-      {
-        "version": "0.9.271",
-        "lastUpdated": "2025-02-24T17:39:19.18Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.1605",
-    "last_updated": "2025-03-16T09:12:37.187Z",
+    "latest_version": "2025.3.2505",
+    "last_updated": "2025-03-25T09:13:38.883Z",
     "version_history": [
+      {
+        "version": "2025.3.2505",
+        "lastUpdated": "2025-03-25T09:13:38.883Z"
+      },
       {
         "version": "2025.3.1605",
         "lastUpdated": "2025-03-16T09:12:37.187Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.104",
         "lastUpdated": "2025-03-01T09:11:44.15Z"
-      },
-      {
-        "version": "2025.2.2804",
-        "lastUpdated": "2025-02-28T09:12:13.603Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.1605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2505/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032401",
-    "last_updated": "2025-03-24T04:29:14.15Z",
+    "latest_version": "0.26.2025032502",
+    "last_updated": "2025-03-25T11:06:00.76Z",
     "version_history": [
+      {
+        "version": "0.26.2025032502",
+        "lastUpdated": "2025-03-25T11:06:00.76Z"
+      },
       {
         "version": "0.26.2025032401",
         "lastUpdated": "2025-03-24T04:29:14.15Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031001",
         "lastUpdated": "2025-03-10T04:30:14.787Z"
-      },
-      {
-        "version": "0.26.2025030701",
-        "lastUpdated": "2025-03-07T04:27:22.88Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -7518,9 +7518,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.3.2025032001",
-    "last_updated": "2025-03-20T10:44:02.74Z",
+    "latest_version": "2025.3.2025032501",
+    "last_updated": "2025-03-25T10:50:06.237Z",
     "version_history": [
+      {
+        "version": "2025.3.2025032501",
+        "lastUpdated": "2025-03-25T10:50:06.237Z"
+      },
       {
         "version": "2025.3.2025032001",
         "lastUpdated": "2025-03-20T10:44:02.74Z"
@@ -7596,10 +7600,6 @@
       {
         "version": "2024.23.2025011301",
         "lastUpdated": "2025-01-13T10:47:15.007Z"
-      },
-      {
-        "version": "2024.23.2025011101",
-        "lastUpdated": "2025-01-11T19:37:11.09Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7620,7 +7620,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025032001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025032501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -9136,9 +9136,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250323",
-    "last_updated": "2025-03-24T00:15:32.8Z",
+    "latest_version": "5.9.20250324",
+    "last_updated": "2025-03-25T00:20:54.007Z",
     "version_history": [
+      {
+        "version": "5.9.20250324",
+        "lastUpdated": "2025-03-25T00:20:54.007Z"
+      },
       {
         "version": "5.9.20250323",
         "lastUpdated": "2025-03-24T00:15:32.8Z"
@@ -9214,15 +9218,11 @@
       {
         "version": "5.9.20250305",
         "lastUpdated": "2025-03-06T00:17:21.157Z"
-      },
-      {
-        "version": "5.9.20250304",
-        "lastUpdated": "2025-03-05T00:14:14.113Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250323/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250324/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -9853,9 +9853,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.16.2",
-    "last_updated": "2025-03-21T05:51:07.287Z",
+    "latest_version": "0.16.3",
+    "last_updated": "2025-03-25T08:51:35.9Z",
     "version_history": [
+      {
+        "version": "0.16.3",
+        "lastUpdated": "2025-03-25T08:51:35.9Z"
+      },
       {
         "version": "0.16.2",
         "lastUpdated": "2025-03-21T05:51:07.287Z"
@@ -9931,15 +9935,11 @@
       {
         "version": "0.14.0",
         "lastUpdated": "2024-12-01T09:01:12.17Z"
-      },
-      {
-        "version": "0.13.2",
-        "lastUpdated": "2024-11-26T07:46:38.637Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
