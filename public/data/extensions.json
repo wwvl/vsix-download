@@ -3924,9 +3924,21 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.291.1463",
-    "last_updated": "2025-03-26T01:45:38.853Z",
+    "latest_version": "1.291.1466",
+    "last_updated": "2025-03-26T16:22:26.74Z",
     "version_history": [
+      {
+        "version": "1.291.1466",
+        "lastUpdated": "2025-03-26T16:22:26.74Z"
+      },
+      {
+        "version": "1.291.1465",
+        "lastUpdated": "2025-03-26T14:38:12.54Z"
+      },
+      {
+        "version": "1.291.1464",
+        "lastUpdated": "2025-03-26T13:33:19.517Z"
+      },
       {
         "version": "1.291.1463",
         "lastUpdated": "2025-03-26T01:45:38.853Z"
@@ -3994,18 +4006,6 @@
       {
         "version": "1.286.1440",
         "lastUpdated": "2025-03-17T01:49:48.977Z"
-      },
-      {
-        "version": "1.285.1438",
-        "lastUpdated": "2025-03-14T16:19:51.05Z"
-      },
-      {
-        "version": "1.284.1435",
-        "lastUpdated": "2025-03-13T16:19:52.393Z"
-      },
-      {
-        "version": "1.284.1434",
-        "lastUpdated": "2025-03-13T10:04:51.443Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.291.1463/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.291.1466/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11759,9 +11759,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.41",
-    "last_updated": "2025-03-02T13:12:41.08Z",
+    "latest_version": "4.0.42",
+    "last_updated": "2025-03-26T18:09:40.3Z",
     "version_history": [
+      {
+        "version": "4.0.42",
+        "lastUpdated": "2025-03-26T18:09:40.3Z"
+      },
       {
         "version": "4.0.41",
         "lastUpdated": "2025-03-02T13:12:41.08Z"
@@ -11837,15 +11841,11 @@
       {
         "version": "4.0.23",
         "lastUpdated": "2024-12-05T07:37:40.033Z"
-      },
-      {
-        "version": "4.0.21",
-        "lastUpdated": "2024-11-20T18:03:41.383Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.41/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.42/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
