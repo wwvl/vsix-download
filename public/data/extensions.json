@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.2505",
-    "last_updated": "2025-03-25T09:13:38.883Z",
+    "latest_version": "2025.3.2605",
+    "last_updated": "2025-03-26T09:12:59.547Z",
     "version_history": [
+      {
+        "version": "2025.3.2605",
+        "lastUpdated": "2025-03-26T09:12:59.547Z"
+      },
       {
         "version": "2025.3.2505",
         "lastUpdated": "2025-03-25T09:13:38.883Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.204",
         "lastUpdated": "2025-03-02T09:11:32.51Z"
-      },
-      {
-        "version": "2025.3.104",
-        "lastUpdated": "2025-03-01T09:11:44.15Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2505/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032504",
-    "last_updated": "2025-03-25T21:22:23.787Z",
+    "latest_version": "0.26.2025032604",
+    "last_updated": "2025-03-26T08:14:11.733Z",
     "version_history": [
+      {
+        "version": "0.26.2025032604",
+        "lastUpdated": "2025-03-26T08:14:11.733Z"
+      },
       {
         "version": "0.26.2025032504",
         "lastUpdated": "2025-03-25T21:22:23.787Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031201",
         "lastUpdated": "2025-03-12T04:30:11.933Z"
-      },
-      {
-        "version": "0.26.2025031101",
-        "lastUpdated": "2025-03-11T07:05:57.253Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4155,7 +4155,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6715,9 +6715,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.99.2025031909",
-    "last_updated": "2025-03-19T09:18:38.26Z",
+    "latest_version": "1.99.2025032609",
+    "last_updated": "2025-03-26T09:18:48.527Z",
     "version_history": [
+      {
+        "version": "1.99.2025032609",
+        "lastUpdated": "2025-03-26T09:18:48.527Z"
+      },
       {
         "version": "1.99.2025031909",
         "lastUpdated": "2025-03-19T09:18:38.26Z"
@@ -6793,15 +6797,11 @@
       {
         "version": "1.95.2024103009",
         "lastUpdated": "2024-10-30T09:23:20.01Z"
-      },
-      {
-        "version": "1.95.2024102309",
-        "lastUpdated": "2024-10-23T09:23:19.77Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025031909/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025032609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -7518,9 +7518,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.3.2025032501",
-    "last_updated": "2025-03-25T10:50:06.237Z",
+    "latest_version": "2025.3.2025032601",
+    "last_updated": "2025-03-26T10:52:33.05Z",
     "version_history": [
+      {
+        "version": "2025.3.2025032601",
+        "lastUpdated": "2025-03-26T10:52:33.05Z"
+      },
       {
         "version": "2025.3.2025032501",
         "lastUpdated": "2025-03-25T10:50:06.237Z"
@@ -7596,10 +7600,6 @@
       {
         "version": "2024.23.2025011501",
         "lastUpdated": "2025-01-15T18:00:47.293Z"
-      },
-      {
-        "version": "2024.23.2025011301",
-        "lastUpdated": "2025-01-13T10:47:15.007Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7620,7 +7620,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025032501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025032601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -13223,9 +13223,13 @@
     "extension_name": "vscjava.vscode-gradle",
     "display_name": "Gradle for Java",
     "short_description": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
-    "latest_version": "3.17.2025032402",
-    "last_updated": "2025-03-24T03:00:18.437Z",
+    "latest_version": "3.17.2025032611",
+    "last_updated": "2025-03-26T12:17:42.473Z",
     "version_history": [
+      {
+        "version": "3.17.2025032611",
+        "lastUpdated": "2025-03-26T12:17:42.473Z"
+      },
       {
         "version": "3.17.2025032402",
         "lastUpdated": "2025-03-24T03:00:18.437Z"
@@ -13301,15 +13305,11 @@
       {
         "version": "3.16.2024073113",
         "lastUpdated": "2024-07-31T14:32:45.723Z"
-      },
-      {
-        "version": "3.16.4",
-        "lastUpdated": "2024-08-13T11:22:12.643Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025032402/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025032611/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
   },
   {
