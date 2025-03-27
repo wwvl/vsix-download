@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.292.1468",
-    "last_updated": "2025-03-27T01:47:26.103Z",
+    "latest_version": "1.292.1469",
+    "last_updated": "2025-03-27T16:20:50.663Z",
     "version_history": [
+      {
+        "version": "1.292.1469",
+        "lastUpdated": "2025-03-27T16:20:50.663Z"
+      },
       {
         "version": "1.292.1468",
         "lastUpdated": "2025-03-27T01:47:26.103Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.288.0",
         "lastUpdated": "2025-03-18T18:05:30.97Z"
-      },
-      {
-        "version": "1.287.1445",
-        "lastUpdated": "2025-03-18T15:20:50.11Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.292.1468/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.292.1469/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7960,9 +7960,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.119.2025032621",
-    "last_updated": "2025-03-26T21:14:20.813Z",
+    "latest_version": "0.119.2025032715",
+    "last_updated": "2025-03-27T15:24:09.433Z",
     "version_history": [
+      {
+        "version": "0.119.2025032715",
+        "lastUpdated": "2025-03-27T15:24:09.433Z"
+      },
       {
         "version": "0.119.2025032621",
         "lastUpdated": "2025-03-26T21:14:20.813Z"
@@ -8038,15 +8042,11 @@
       {
         "version": "0.117.2025011723",
         "lastUpdated": "2025-01-17T23:25:20.74Z"
-      },
-      {
-        "version": "0.117.2025011715",
-        "lastUpdated": "2025-01-17T15:23:32.057Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025032621/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025032715/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
