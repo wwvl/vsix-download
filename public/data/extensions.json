@@ -3924,9 +3924,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.291.1466",
-    "last_updated": "2025-03-26T16:22:26.74Z",
+    "latest_version": "1.292.0",
+    "last_updated": "2025-03-26T21:37:46.22Z",
     "version_history": [
+      {
+        "version": "1.292.0",
+        "lastUpdated": "2025-03-26T21:37:46.22Z"
+      },
+      {
+        "version": "1.291.1467",
+        "lastUpdated": "2025-03-26T19:26:15.877Z"
+      },
       {
         "version": "1.291.1466",
         "lastUpdated": "2025-03-26T16:22:26.74Z"
@@ -3998,14 +4006,6 @@
       {
         "version": "1.287.1444",
         "lastUpdated": "2025-03-18T14:51:49.123Z"
-      },
-      {
-        "version": "1.286.1442",
-        "lastUpdated": "2025-03-18T01:46:17.44Z"
-      },
-      {
-        "version": "1.286.1440",
-        "lastUpdated": "2025-03-17T01:49:48.977Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.291.1466/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.292.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -6808,9 +6808,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.17.62",
-    "last_updated": "2025-03-19T22:51:01.367Z",
+    "latest_version": "1.17.64",
+    "last_updated": "2025-03-26T19:43:05.483Z",
     "version_history": [
+      {
+        "version": "1.17.64",
+        "lastUpdated": "2025-03-26T19:43:05.483Z"
+      },
       {
         "version": "1.17.62",
         "lastUpdated": "2025-03-19T22:51:01.367Z"
@@ -6886,15 +6890,11 @@
       {
         "version": "1.12.37",
         "lastUpdated": "2024-10-29T23:10:53.983Z"
-      },
-      {
-        "version": "1.12.27",
-        "lastUpdated": "2024-10-23T18:27:54.73Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.62/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.64/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -6907,6 +6907,10 @@
       {
         "version": "2.70.15",
         "lastUpdated": "2025-03-19T21:25:53.44Z"
+      },
+      {
+        "version": "2.69.25",
+        "lastUpdated": "2025-03-26T19:57:17.88Z"
       },
       {
         "version": "2.69.22",
@@ -6979,10 +6983,6 @@
       {
         "version": "2.55.28",
         "lastUpdated": "2024-11-12T22:51:07.86Z"
-      },
-      {
-        "version": "2.55.21",
-        "lastUpdated": "2024-11-07T18:36:42.863Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7866,9 +7866,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.407.0",
-    "last_updated": "2025-03-21T10:04:32.19Z",
+    "latest_version": "0.408.0",
+    "last_updated": "2025-03-26T21:47:58.707Z",
     "version_history": [
+      {
+        "version": "0.408.0",
+        "lastUpdated": "2025-03-26T21:47:58.707Z"
+      },
       {
         "version": "0.407.0",
         "lastUpdated": "2025-03-21T10:04:32.19Z"
@@ -7944,24 +7948,24 @@
       {
         "version": "0.389.0",
         "lastUpdated": "2024-10-03T16:07:53.85Z"
-      },
-      {
-        "version": "0.388.0",
-        "lastUpdated": "2024-10-03T17:26:19.54Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.407.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.408.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.119.2025031815",
-    "last_updated": "2025-03-18T15:26:09.78Z",
+    "latest_version": "0.119.2025032621",
+    "last_updated": "2025-03-26T21:14:20.813Z",
     "version_history": [
+      {
+        "version": "0.119.2025032621",
+        "lastUpdated": "2025-03-26T21:14:20.813Z"
+      },
       {
         "version": "0.119.2025031815",
         "lastUpdated": "2025-03-18T15:26:09.78Z"
@@ -8037,15 +8041,11 @@
       {
         "version": "0.117.2025011715",
         "lastUpdated": "2025-01-17T15:23:32.057Z"
-      },
-      {
-        "version": "0.117.2025011700",
-        "lastUpdated": "2025-01-17T01:03:34.973Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025031815/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025032621/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -9136,9 +9136,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250325",
-    "last_updated": "2025-03-26T00:19:13.86Z",
+    "latest_version": "5.9.20250326",
+    "last_updated": "2025-03-27T00:19:09.487Z",
     "version_history": [
+      {
+        "version": "5.9.20250326",
+        "lastUpdated": "2025-03-27T00:19:09.487Z"
+      },
       {
         "version": "5.9.20250325",
         "lastUpdated": "2025-03-26T00:19:13.86Z"
@@ -9214,15 +9218,11 @@
       {
         "version": "5.9.20250307",
         "lastUpdated": "2025-03-08T00:16:24.723Z"
-      },
-      {
-        "version": "5.9.20250306",
-        "lastUpdated": "2025-03-07T00:17:22.027Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250325/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250326/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -10540,9 +10540,13 @@
     "extension_name": "redhat.ansible",
     "display_name": "Ansible",
     "short_description": "Ansible language support",
-    "latest_version": "25.3.0",
-    "last_updated": "2025-03-19T21:46:40.613Z",
+    "latest_version": "25.3.1",
+    "last_updated": "2025-03-26T19:17:51.597Z",
     "version_history": [
+      {
+        "version": "25.3.1",
+        "lastUpdated": "2025-03-26T19:17:51.597Z"
+      },
       {
         "version": "25.3.0",
         "lastUpdated": "2025-03-19T21:46:40.613Z"
@@ -10618,15 +10622,11 @@
       {
         "version": "24.8.0",
         "lastUpdated": "2024-06-21T22:33:31.047Z"
-      },
-      {
-        "version": "24.7.775352",
-        "lastUpdated": "2024-06-21T20:54:21.82Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "json", "keybindings", "validation", "yaml", "yml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.3.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.3.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
   },
   {
@@ -11005,9 +11005,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2356",
-    "last_updated": "2025-03-26T00:44:09.33Z",
+    "latest_version": "0.4.2357",
+    "last_updated": "2025-03-27T00:42:52.897Z",
     "version_history": [
+      {
+        "version": "0.4.2357",
+        "lastUpdated": "2025-03-27T00:42:52.897Z"
+      },
       {
         "version": "0.4.2356",
         "lastUpdated": "2025-03-26T00:44:09.33Z"
@@ -11083,15 +11087,11 @@
       {
         "version": "0.4.2334",
         "lastUpdated": "2025-03-08T00:37:43.823Z"
-      },
-      {
-        "version": "0.4.2333",
-        "lastUpdated": "2025-03-07T00:43:13.69Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2356/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2357/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13116,9 +13116,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025032500",
-    "last_updated": "2025-03-25T00:57:43.673Z",
+    "latest_version": "1.62.2025032700",
+    "last_updated": "2025-03-27T00:59:21.803Z",
     "version_history": [
+      {
+        "version": "1.62.2025032700",
+        "lastUpdated": "2025-03-27T00:59:21.803Z"
+      },
       {
         "version": "1.62.2025032500",
         "lastUpdated": "2025-03-25T00:57:43.673Z"
@@ -13194,10 +13198,6 @@
       {
         "version": "1.61.2025021500",
         "lastUpdated": "2025-02-15T01:03:50.28Z"
-      },
-      {
-        "version": "1.61.2025021300",
-        "lastUpdated": "2025-02-13T01:04:13.27Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13216,7 +13216,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025032500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025032700/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
