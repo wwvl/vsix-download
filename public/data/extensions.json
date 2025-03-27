@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.2605",
-    "last_updated": "2025-03-26T09:12:59.547Z",
+    "latest_version": "2025.3.2705",
+    "last_updated": "2025-03-27T09:14:04.713Z",
     "version_history": [
+      {
+        "version": "2025.3.2705",
+        "lastUpdated": "2025-03-27T09:14:04.713Z"
+      },
       {
         "version": "2025.3.2605",
         "lastUpdated": "2025-03-26T09:12:59.547Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.304",
         "lastUpdated": "2025-03-03T09:13:44.597Z"
-      },
-      {
-        "version": "2025.3.204",
-        "lastUpdated": "2025-03-02T09:11:32.51Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6177,9 +6177,17 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.79",
-    "last_updated": "2025-03-26T03:09:05.24Z",
+    "latest_version": "1.1.81",
+    "last_updated": "2025-03-27T09:40:37.273Z",
     "version_history": [
+      {
+        "version": "1.1.81",
+        "lastUpdated": "2025-03-27T09:40:37.273Z"
+      },
+      {
+        "version": "1.1.80",
+        "lastUpdated": "2025-03-27T09:38:04.483Z"
+      },
       {
         "version": "1.1.79",
         "lastUpdated": "2025-03-26T03:09:05.24Z"
@@ -6251,14 +6259,6 @@
       {
         "version": "1.1.61",
         "lastUpdated": "2025-02-17T12:39:09.06Z"
-      },
-      {
-        "version": "1.1.60",
-        "lastUpdated": "2025-02-11T03:18:12.9Z"
-      },
-      {
-        "version": "1.1.59",
-        "lastUpdated": "2025-02-07T07:47:03.6Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6291,7 +6291,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.79/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.81/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -10783,6 +10783,10 @@
         "lastUpdated": "2025-02-28T08:25:05.013Z"
       },
       {
+        "version": "1.41.0",
+        "lastUpdated": "2025-03-27T12:26:08.69Z"
+      },
+      {
         "version": "1.40.2025022608",
         "lastUpdated": "2025-02-26T08:30:01.36Z"
       },
@@ -10805,10 +10809,6 @@
       {
         "version": "1.40.2025021408",
         "lastUpdated": "2025-02-14T08:25:27.197Z"
-      },
-      {
-        "version": "1.40.2025021308",
-        "lastUpdated": "2025-02-13T08:26:32.073Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
