@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17031",
-    "last_updated": "2025-03-25T14:09:07.323Z",
+    "latest_version": "1.57.17046",
+    "last_updated": "2025-03-27T20:52:50.69Z",
     "version_history": [
+      {
+        "version": "1.57.17046",
+        "lastUpdated": "2025-03-27T20:52:50.69Z"
+      },
       {
         "version": "1.57.17031",
         "lastUpdated": "2025-03-25T14:09:07.323Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16724",
         "lastUpdated": "2025-01-19T17:00:37.373Z"
-      },
-      {
-        "version": "1.55.16685",
-        "lastUpdated": "2025-01-14T21:36:25.54Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17031/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17046/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3924,9 +3924,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.292.1469",
-    "last_updated": "2025-03-27T16:20:50.663Z",
+    "latest_version": "1.293.0",
+    "last_updated": "2025-03-27T22:39:17.453Z",
     "version_history": [
+      {
+        "version": "1.293.0",
+        "lastUpdated": "2025-03-27T22:39:17.453Z"
+      },
+      {
+        "version": "1.292.1470",
+        "lastUpdated": "2025-03-27T20:13:46.037Z"
+      },
       {
         "version": "1.292.1469",
         "lastUpdated": "2025-03-27T16:20:50.663Z"
@@ -3998,14 +4006,6 @@
       {
         "version": "1.289.1449",
         "lastUpdated": "2025-03-19T16:20:31.98Z"
-      },
-      {
-        "version": "1.288.1447",
-        "lastUpdated": "2025-03-19T01:46:04.47Z"
-      },
-      {
-        "version": "1.288.0",
-        "lastUpdated": "2025-03-18T18:05:30.97Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,24 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.292.1469/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.293.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032702",
-    "last_updated": "2025-03-27T04:31:14.457Z",
+    "latest_version": "0.26.2025032801",
+    "last_updated": "2025-03-28T00:43:14.7Z",
     "version_history": [
+      {
+        "version": "0.26.2025032801",
+        "lastUpdated": "2025-03-28T00:43:14.7Z"
+      },
+      {
+        "version": "0.26.2025032703",
+        "lastUpdated": "2025-03-28T00:16:43.247Z"
+      },
       {
         "version": "0.26.2025032702",
         "lastUpdated": "2025-03-27T04:31:14.457Z"
@@ -4115,14 +4123,6 @@
       {
         "version": "0.26.2025031302",
         "lastUpdated": "2025-03-13T16:34:15.587Z"
-      },
-      {
-        "version": "0.26.2025031301",
-        "lastUpdated": "2025-03-13T04:33:30.467Z"
-      },
-      {
-        "version": "0.26.2025031202",
-        "lastUpdated": "2025-03-12T18:07:32.767Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032702/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5573,9 +5573,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.41.0",
-    "last_updated": "2025-03-16T16:48:37.133Z",
+    "latest_version": "1.42.0",
+    "last_updated": "2025-03-27T19:43:33.66Z",
     "version_history": [
+      {
+        "version": "1.42.0",
+        "lastUpdated": "2025-03-27T19:43:33.66Z"
+      },
       {
         "version": "1.41.0",
         "lastUpdated": "2025-03-16T16:48:37.133Z"
@@ -5651,15 +5655,11 @@
       {
         "version": "1.31.1",
         "lastUpdated": "2024-07-07T09:41:23.603Z"
-      },
-      {
-        "version": "1.31.0",
-        "lastUpdated": "2024-07-01T17:42:10.11Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.41.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.42.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
@@ -7628,9 +7628,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.3.103",
-    "last_updated": "2025-03-20T21:13:46.68Z",
+    "latest_version": "2025.3.104",
+    "last_updated": "2025-03-28T00:35:33.31Z",
     "version_history": [
+      {
+        "version": "2025.3.104",
+        "lastUpdated": "2025-03-28T00:35:33.31Z"
+      },
       {
         "version": "2025.3.103",
         "lastUpdated": "2025-03-20T21:13:46.68Z"
@@ -7706,15 +7710,11 @@
       {
         "version": "2024.11.100",
         "lastUpdated": "2024-11-06T23:37:06.65Z"
-      },
-      {
-        "version": "2024.11.3",
-        "lastUpdated": "2024-11-22T01:46:27.107Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -8393,9 +8393,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.24.3",
-    "last_updated": "2025-03-19T02:11:34.83Z",
+    "latest_version": "1.24.4",
+    "last_updated": "2025-03-27T23:07:10.71Z",
     "version_history": [
+      {
+        "version": "1.24.4",
+        "lastUpdated": "2025-03-27T23:07:10.71Z"
+      },
       {
         "version": "1.24.3",
         "lastUpdated": "2025-03-19T02:11:34.83Z"
@@ -8471,15 +8475,11 @@
       {
         "version": "1.22.4",
         "lastUpdated": "2024-09-20T00:20:24.037Z"
-      },
-      {
-        "version": "1.22.3",
-        "lastUpdated": "2024-09-12T23:09:35.427Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -9137,9 +9137,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250326",
-    "last_updated": "2025-03-27T00:19:09.487Z",
+    "latest_version": "5.9.20250327",
+    "last_updated": "2025-03-28T00:17:14.423Z",
     "version_history": [
+      {
+        "version": "5.9.20250327",
+        "lastUpdated": "2025-03-28T00:17:14.423Z"
+      },
       {
         "version": "5.9.20250326",
         "lastUpdated": "2025-03-27T00:19:09.487Z"
@@ -9215,15 +9219,11 @@
       {
         "version": "5.9.20250308",
         "lastUpdated": "2025-03-09T00:16:45.31Z"
-      },
-      {
-        "version": "5.9.20250307",
-        "lastUpdated": "2025-03-08T00:16:24.723Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250326/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250327/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2357",
-    "last_updated": "2025-03-27T00:42:52.897Z",
+    "latest_version": "0.4.2358",
+    "last_updated": "2025-03-28T00:45:04.057Z",
     "version_history": [
+      {
+        "version": "0.4.2358",
+        "lastUpdated": "2025-03-28T00:45:04.057Z"
+      },
       {
         "version": "0.4.2357",
         "lastUpdated": "2025-03-27T00:42:52.897Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2335",
         "lastUpdated": "2025-03-09T00:38:34.17Z"
-      },
-      {
-        "version": "0.4.2334",
-        "lastUpdated": "2025-03-08T00:37:43.823Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2357/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2358/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
