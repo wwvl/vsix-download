@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.2705",
-    "last_updated": "2025-03-27T09:14:04.713Z",
+    "latest_version": "2025.3.2805",
+    "last_updated": "2025-03-28T09:14:07.657Z",
     "version_history": [
+      {
+        "version": "2025.3.2805",
+        "lastUpdated": "2025-03-28T09:14:07.657Z"
+      },
       {
         "version": "2025.3.2705",
         "lastUpdated": "2025-03-27T09:14:04.713Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.404",
         "lastUpdated": "2025-03-04T09:13:43.55Z"
-      },
-      {
-        "version": "2025.3.304",
-        "lastUpdated": "2025-03-03T09:13:44.597Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10727,9 +10727,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.41.2025032502",
-    "last_updated": "2025-03-25T02:54:43.72Z",
+    "latest_version": "1.42.2025032808",
+    "last_updated": "2025-03-28T08:26:12.863Z",
     "version_history": [
+      {
+        "version": "1.42.2025032808",
+        "lastUpdated": "2025-03-28T08:26:12.863Z"
+      },
       {
         "version": "1.41.2025032502",
         "lastUpdated": "2025-03-25T02:54:43.72Z"
@@ -10805,15 +10809,11 @@
       {
         "version": "1.40.2025021508",
         "lastUpdated": "2025-02-15T08:28:25.27Z"
-      },
-      {
-        "version": "1.40.2025021408",
-        "lastUpdated": "2025-02-14T08:25:27.197Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.41.2025032502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.42.2025032808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -11307,9 +11307,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.8.3",
-    "last_updated": "2025-03-26T04:36:05.56Z",
+    "latest_version": "3.8.4",
+    "last_updated": "2025-03-28T08:47:08.527Z",
     "version_history": [
+      {
+        "version": "3.8.4",
+        "lastUpdated": "2025-03-28T08:47:08.527Z"
+      },
       {
         "version": "3.8.3",
         "lastUpdated": "2025-03-26T04:36:05.56Z"
@@ -11385,15 +11389,11 @@
       {
         "version": "3.5.0",
         "lastUpdated": "2025-03-01T12:39:16.02Z"
-      },
-      {
-        "version": "3.4.10",
-        "lastUpdated": "2025-02-28T02:56:13.693Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.8.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.8.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
