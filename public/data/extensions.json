@@ -1155,9 +1155,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.11",
-    "last_updated": "2025-03-20T23:03:51.253Z",
+    "latest_version": "0.14.12",
+    "last_updated": "2025-03-28T20:50:54.497Z",
     "version_history": [
+      {
+        "version": "0.14.12",
+        "lastUpdated": "2025-03-28T20:50:54.497Z"
+      },
       {
         "version": "0.14.11",
         "lastUpdated": "2025-03-20T23:03:51.253Z"
@@ -1233,15 +1237,11 @@
       {
         "version": "0.13.66",
         "lastUpdated": "2025-01-10T14:58:09.553Z"
-      },
-      {
-        "version": "0.13.65",
-        "lastUpdated": "2025-01-10T14:50:06.97Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.2805",
-    "last_updated": "2025-03-28T09:14:07.657Z",
+    "latest_version": "2025.3.2814",
+    "last_updated": "2025-03-28T18:46:28.427Z",
     "version_history": [
+      {
+        "version": "2025.3.2814",
+        "lastUpdated": "2025-03-28T18:46:28.427Z"
+      },
       {
         "version": "2025.3.2805",
         "lastUpdated": "2025-03-28T09:14:07.657Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.504",
         "lastUpdated": "2025-03-05T09:12:44.997Z"
-      },
-      {
-        "version": "2025.3.404",
-        "lastUpdated": "2025-03-04T09:13:43.55Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.2814/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032803",
-    "last_updated": "2025-03-28T02:41:23.84Z",
+    "latest_version": "0.26.2025032805",
+    "last_updated": "2025-03-28T21:47:29.103Z",
     "version_history": [
+      {
+        "version": "0.26.2025032805",
+        "lastUpdated": "2025-03-28T21:47:29.103Z"
+      },
       {
         "version": "0.26.2025032803",
         "lastUpdated": "2025-03-28T02:41:23.84Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031401",
         "lastUpdated": "2025-03-14T04:26:29.21Z"
-      },
-      {
-        "version": "0.26.2025031304",
-        "lastUpdated": "2025-03-13T21:47:15.373Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032803/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9137,9 +9137,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250327",
-    "last_updated": "2025-03-28T00:17:14.423Z",
+    "latest_version": "5.9.20250328",
+    "last_updated": "2025-03-29T00:16:16.933Z",
     "version_history": [
+      {
+        "version": "5.9.20250328",
+        "lastUpdated": "2025-03-29T00:16:16.933Z"
+      },
       {
         "version": "5.9.20250327",
         "lastUpdated": "2025-03-28T00:17:14.423Z"
@@ -9215,15 +9219,11 @@
       {
         "version": "5.9.20250309",
         "lastUpdated": "2025-03-10T00:19:25.723Z"
-      },
-      {
-        "version": "5.9.20250308",
-        "lastUpdated": "2025-03-09T00:16:45.31Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250327/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250328/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2358",
-    "last_updated": "2025-03-28T00:45:04.057Z",
+    "latest_version": "0.4.2359",
+    "last_updated": "2025-03-29T00:44:13.29Z",
     "version_history": [
+      {
+        "version": "0.4.2359",
+        "lastUpdated": "2025-03-29T00:44:13.29Z"
+      },
       {
         "version": "0.4.2358",
         "lastUpdated": "2025-03-28T00:45:04.057Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2336",
         "lastUpdated": "2025-03-10T00:38:42.14Z"
-      },
-      {
-        "version": "0.4.2335",
-        "lastUpdated": "2025-03-09T00:38:34.17Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2358/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2359/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13117,9 +13117,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025032700",
-    "last_updated": "2025-03-27T00:59:21.803Z",
+    "latest_version": "1.62.2025032900",
+    "last_updated": "2025-03-29T00:59:35.1Z",
     "version_history": [
+      {
+        "version": "1.62.2025032900",
+        "lastUpdated": "2025-03-29T00:59:35.1Z"
+      },
       {
         "version": "1.62.2025032700",
         "lastUpdated": "2025-03-27T00:59:21.803Z"
@@ -13195,10 +13199,6 @@
       {
         "version": "1.61.2025021800",
         "lastUpdated": "2025-02-18T01:03:56.457Z"
-      },
-      {
-        "version": "1.61.2025021500",
-        "lastUpdated": "2025-02-15T01:03:50.28Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13217,7 +13217,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025032700/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025032900/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -13968,9 +13968,13 @@
     "extension_name": "vscode-icons-team.vscode-icons",
     "display_name": "vscode-icons",
     "short_description": "Icons for Visual Studio Code",
-    "latest_version": "12.11.0",
-    "last_updated": "2025-01-29T20:48:14.633Z",
+    "latest_version": "12.12.0",
+    "last_updated": "2025-03-28T21:40:07.09Z",
     "version_history": [
+      {
+        "version": "12.12.0",
+        "lastUpdated": "2025-03-28T21:40:07.09Z"
+      },
       {
         "version": "12.11.0",
         "lastUpdated": "2025-01-29T20:48:14.633Z"
@@ -14046,15 +14050,11 @@
       {
         "version": "11.15.0",
         "lastUpdated": "2022-08-07T21:05:47.853Z"
-      },
-      {
-        "version": "11.14.0",
-        "lastUpdated": "2022-07-31T18:14:29.09Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["icons", "icon-theme", "multi-root ready", "portable mode ready", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.11.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
   },
   {
