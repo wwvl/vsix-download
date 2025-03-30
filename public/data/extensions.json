@@ -280,11 +280,15 @@
   },
   {
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
-    "display_name": "TONGYI Lingma",
+    "display_name": "Lingma - Alibaba Cloud AI Coding Assistant",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.1.7",
-    "last_updated": "2025-03-20T14:11:04.957Z",
+    "latest_version": "2.2.0",
+    "last_updated": "2025-03-30T13:24:10.46Z",
     "version_history": [
+      {
+        "version": "2.2.0",
+        "lastUpdated": "2025-03-30T13:24:10.46Z"
+      },
       {
         "version": "2.1.7",
         "lastUpdated": "2025-03-20T14:11:04.957Z"
@@ -360,10 +364,6 @@
       {
         "version": "1.4.14",
         "lastUpdated": "2024-12-06T14:01:22.017Z"
-      },
-      {
-        "version": "1.4.13",
-        "lastUpdated": "2024-11-29T13:20:11.547Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -396,7 +396,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.1.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
