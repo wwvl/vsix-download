@@ -1928,9 +1928,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.107.20250319",
-    "last_updated": "2025-03-19T18:33:21.977Z",
+    "latest_version": "3.107.20250331",
+    "last_updated": "2025-03-31T11:35:37.457Z",
     "version_history": [
+      {
+        "version": "3.107.20250331",
+        "lastUpdated": "2025-03-31T11:35:37.457Z"
+      },
       {
         "version": "3.107.20250319",
         "lastUpdated": "2025-03-19T18:33:21.977Z"
@@ -2006,15 +2010,11 @@
       {
         "version": "3.102.0",
         "lastUpdated": "2024-12-02T12:01:55.7Z"
-      },
-      {
-        "version": "3.101.20241127",
-        "lastUpdated": "2024-11-27T14:50:06.16Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.107.20250319/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.107.20250331/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.3005",
-    "last_updated": "2025-03-30T09:12:56.27Z",
+    "latest_version": "2025.3.3105",
+    "last_updated": "2025-03-31T09:13:42.533Z",
     "version_history": [
+      {
+        "version": "2025.3.3105",
+        "lastUpdated": "2025-03-31T09:13:42.533Z"
+      },
       {
         "version": "2025.3.3005",
         "lastUpdated": "2025-03-30T09:12:56.27Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.704",
         "lastUpdated": "2025-03-07T09:12:45.927Z"
-      },
-      {
-        "version": "2025.3.609",
-        "lastUpdated": "2025-03-06T14:58:34.72Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.3005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.3105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025032805",
-    "last_updated": "2025-03-28T21:47:29.103Z",
+    "latest_version": "0.26.2025033102",
+    "last_updated": "2025-03-31T08:18:02.537Z",
     "version_history": [
+      {
+        "version": "0.26.2025033102",
+        "lastUpdated": "2025-03-31T08:18:02.537Z"
+      },
       {
         "version": "0.26.2025032805",
         "lastUpdated": "2025-03-28T21:47:29.103Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031404",
         "lastUpdated": "2025-03-14T23:05:40.433Z"
-      },
-      {
-        "version": "0.26.2025031401",
-        "lastUpdated": "2025-03-14T04:26:29.21Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025032805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025033102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -13782,9 +13782,13 @@
     "extension_name": "vscjava.vscode-spring-boot-dashboard",
     "display_name": "Spring Boot Dashboard",
     "short_description": "Spring Boot Dashboard for VS Code",
-    "latest_version": "0.14.2024073000",
-    "last_updated": "2024-07-30T02:02:58.963Z",
+    "latest_version": "0.14.2025033000",
+    "last_updated": "2025-03-31T07:31:56.63Z",
     "version_history": [
+      {
+        "version": "0.14.2025033000",
+        "lastUpdated": "2025-03-31T07:31:56.63Z"
+      },
       {
         "version": "0.14.2024073000",
         "lastUpdated": "2024-07-30T02:02:58.963Z"
@@ -13860,15 +13864,11 @@
       {
         "version": "0.12.2023040100",
         "lastUpdated": "2023-04-01T00:07:11.423Z"
-      },
-      {
-        "version": "0.12.2023033000",
-        "lastUpdated": "2023-03-30T00:09:46.59Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-boot-dashboard/0.14.2024073000/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-boot-dashboard/0.14.2025033000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard"
   },
   {
