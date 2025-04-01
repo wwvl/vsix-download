@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025033102",
-    "last_updated": "2025-03-31T08:18:02.537Z",
+    "latest_version": "0.26.2025033103",
+    "last_updated": "2025-03-31T23:22:32.13Z",
     "version_history": [
+      {
+        "version": "0.26.2025033103",
+        "lastUpdated": "2025-03-31T23:22:32.13Z"
+      },
       {
         "version": "0.26.2025033102",
         "lastUpdated": "2025-03-31T08:18:02.537Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031701",
         "lastUpdated": "2025-03-17T04:25:32.12Z"
-      },
-      {
-        "version": "0.26.2025031404",
-        "lastUpdated": "2025-03-14T23:05:40.433Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025033102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025033103/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6716,9 +6716,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.99.2025032609",
-    "last_updated": "2025-03-26T09:18:48.527Z",
+    "latest_version": "1.99.2025033120",
+    "last_updated": "2025-03-31T21:10:16.15Z",
     "version_history": [
+      {
+        "version": "1.99.2025033120",
+        "lastUpdated": "2025-03-31T21:10:16.15Z"
+      },
       {
         "version": "1.99.2025032609",
         "lastUpdated": "2025-03-26T09:18:48.527Z"
@@ -6794,15 +6798,11 @@
       {
         "version": "1.96.2024112009",
         "lastUpdated": "2024-11-20T09:19:06.46Z"
-      },
-      {
-        "version": "1.95.2024103009",
-        "lastUpdated": "2024-10-30T09:23:20.01Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025032609/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025033120/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -7628,9 +7628,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.3.104",
-    "last_updated": "2025-03-28T00:35:33.31Z",
+    "latest_version": "2025.3.105",
+    "last_updated": "2025-03-31T21:13:31.093Z",
     "version_history": [
+      {
+        "version": "2025.3.105",
+        "lastUpdated": "2025-03-31T21:13:31.093Z"
+      },
       {
         "version": "2025.3.104",
         "lastUpdated": "2025-03-28T00:35:33.31Z"
@@ -7706,15 +7710,11 @@
       {
         "version": "2024.11.101",
         "lastUpdated": "2024-11-19T22:05:51.967Z"
-      },
-      {
-        "version": "2024.11.100",
-        "lastUpdated": "2024-11-06T23:37:06.65Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.3.105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -7960,9 +7960,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.119.2025032715",
-    "last_updated": "2025-03-27T15:24:09.433Z",
+    "latest_version": "0.119.2025033120",
+    "last_updated": "2025-03-31T20:51:24.277Z",
     "version_history": [
+      {
+        "version": "0.119.2025033120",
+        "lastUpdated": "2025-03-31T20:51:24.277Z"
+      },
       {
         "version": "0.119.2025032715",
         "lastUpdated": "2025-03-27T15:24:09.433Z"
@@ -8038,15 +8042,11 @@
       {
         "version": "0.117.2025012015",
         "lastUpdated": "2025-01-20T15:21:51.257Z"
-      },
-      {
-        "version": "0.117.2025011723",
-        "lastUpdated": "2025-01-17T23:25:20.74Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025032715/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.119.2025033120/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2361",
-    "last_updated": "2025-03-31T00:48:14.897Z",
+    "latest_version": "0.4.2363",
+    "last_updated": "2025-04-01T00:47:39.907Z",
     "version_history": [
+      {
+        "version": "0.4.2363",
+        "lastUpdated": "2025-04-01T00:47:39.907Z"
+      },
       {
         "version": "0.4.2361",
         "lastUpdated": "2025-03-31T00:48:14.897Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2341",
         "lastUpdated": "2025-03-14T00:43:35.06Z"
-      },
-      {
-        "version": "0.4.2340",
-        "lastUpdated": "2025-03-13T00:43:55.623Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2361/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2363/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13117,9 +13117,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025032900",
-    "last_updated": "2025-03-29T00:59:35.1Z",
+    "latest_version": "1.62.2025040100",
+    "last_updated": "2025-04-01T01:11:47.507Z",
     "version_history": [
+      {
+        "version": "1.62.2025040100",
+        "lastUpdated": "2025-04-01T01:11:47.507Z"
+      },
       {
         "version": "1.62.2025032900",
         "lastUpdated": "2025-03-29T00:59:35.1Z"
@@ -13195,10 +13199,6 @@
       {
         "version": "1.61.2025022000",
         "lastUpdated": "2025-02-20T01:06:18.46Z"
-      },
-      {
-        "version": "1.61.2025021800",
-        "lastUpdated": "2025-02-18T01:03:56.457Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13217,7 +13217,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025032900/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025040100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -14704,9 +14704,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.409",
-    "last_updated": "2025-03-27T06:20:18.997Z",
+    "latest_version": "1.0.410",
+    "last_updated": "2025-03-31T23:26:06.947Z",
     "version_history": [
+      {
+        "version": "1.0.410",
+        "lastUpdated": "2025-03-31T23:26:06.947Z"
+      },
       {
         "version": "1.0.409",
         "lastUpdated": "2025-03-27T06:20:18.997Z"
@@ -14782,15 +14786,11 @@
       {
         "version": "1.0.391",
         "lastUpdated": "2025-02-19T04:57:40.433Z"
-      },
-      {
-        "version": "1.0.390",
-        "lastUpdated": "2025-02-16T23:38:12.787Z"
       }
     ],
-    "categories": ["Debuggers"],
-    "tags": ["chat-participant", "debugger", "javascript", "keybindings", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.409/vspackage",
+    "categories": ["Debuggers", "AI", "Chat"],
+    "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.410/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
