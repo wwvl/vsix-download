@@ -1928,9 +1928,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.107.20250331",
-    "last_updated": "2025-03-31T11:35:37.457Z",
+    "latest_version": "3.108.0",
+    "last_updated": "2025-04-01T09:31:36.74Z",
     "version_history": [
+      {
+        "version": "3.108.0",
+        "lastUpdated": "2025-04-01T09:31:36.74Z"
+      },
       {
         "version": "3.107.20250331",
         "lastUpdated": "2025-03-31T11:35:37.457Z"
@@ -2006,24 +2010,24 @@
       {
         "version": "3.103.20241202",
         "lastUpdated": "2024-12-02T12:04:00.39Z"
-      },
-      {
-        "version": "3.102.0",
-        "lastUpdated": "2024-12-02T12:01:55.7Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.107.20250331/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.108.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.107.20250303",
-    "last_updated": "2025-03-03T17:29:07.18Z",
+    "latest_version": "3.108.0",
+    "last_updated": "2025-04-01T09:28:15.27Z",
     "version_history": [
+      {
+        "version": "3.108.0",
+        "lastUpdated": "2025-04-01T09:28:15.27Z"
+      },
       {
         "version": "3.107.20250303",
         "lastUpdated": "2025-03-03T17:29:07.18Z"
@@ -2099,15 +2103,11 @@
       {
         "version": "3.89.20240501",
         "lastUpdated": "2024-05-01T13:53:14.617Z"
-      },
-      {
-        "version": "3.88.0",
-        "lastUpdated": "2024-05-01T13:52:13.07Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.107.20250303/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.108.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.3.3111",
-    "last_updated": "2025-03-31T15:24:58.573Z",
+    "latest_version": "2025.4.105",
+    "last_updated": "2025-04-01T09:14:24.887Z",
     "version_history": [
+      {
+        "version": "2025.4.105",
+        "lastUpdated": "2025-04-01T09:14:24.887Z"
+      },
       {
         "version": "2025.3.3111",
         "lastUpdated": "2025-03-31T15:24:58.573Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.905",
         "lastUpdated": "2025-03-09T09:12:59.43Z"
-      },
-      {
-        "version": "2025.3.804",
-        "lastUpdated": "2025-03-08T09:12:16.253Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.3.3111/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9854,9 +9854,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.16.3",
-    "last_updated": "2025-03-25T08:51:35.9Z",
+    "latest_version": "0.16.4",
+    "last_updated": "2025-04-01T06:37:49.397Z",
     "version_history": [
+      {
+        "version": "0.16.4",
+        "lastUpdated": "2025-04-01T06:37:49.397Z"
+      },
       {
         "version": "0.16.3",
         "lastUpdated": "2025-03-25T08:51:35.9Z"
@@ -9932,15 +9936,11 @@
       {
         "version": "0.14.1",
         "lastUpdated": "2024-12-06T05:22:03.867Z"
-      },
-      {
-        "version": "0.14.0",
-        "lastUpdated": "2024-12-01T09:01:12.17Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -14705,11 +14705,11 @@
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
     "latest_version": "1.0.410",
-    "last_updated": "2025-03-31T23:20:56.063Z",
+    "last_updated": "2025-03-31T23:26:06.947Z",
     "version_history": [
       {
         "version": "1.0.410",
-        "lastUpdated": "2025-03-31T23:20:56.063Z"
+        "lastUpdated": "2025-03-31T23:26:06.947Z"
       },
       {
         "version": "1.0.409",
