@@ -282,9 +282,13 @@
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
     "display_name": "Lingma - Alibaba Cloud AI Coding Assistant",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.2.0",
-    "last_updated": "2025-03-30T13:24:10.46Z",
+    "latest_version": "2.2.1",
+    "last_updated": "2025-04-01T13:01:11.77Z",
     "version_history": [
+      {
+        "version": "2.2.1",
+        "lastUpdated": "2025-04-01T13:01:11.77Z"
+      },
       {
         "version": "2.2.0",
         "lastUpdated": "2025-03-30T13:24:10.46Z"
@@ -360,10 +364,6 @@
       {
         "version": "1.4.15",
         "lastUpdated": "2024-12-13T13:37:02.397Z"
-      },
-      {
-        "version": "1.4.14",
-        "lastUpdated": "2024-12-06T14:01:22.017Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -396,7 +396,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.2.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.2.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
@@ -1928,9 +1928,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.108.0",
-    "last_updated": "2025-04-01T09:31:36.74Z",
+    "latest_version": "3.109.20250401",
+    "last_updated": "2025-04-01T14:10:45.01Z",
     "version_history": [
+      {
+        "version": "3.109.20250401",
+        "lastUpdated": "2025-04-01T14:10:45.01Z"
+      },
       {
         "version": "3.108.0",
         "lastUpdated": "2025-04-01T09:31:36.74Z"
@@ -2006,24 +2010,24 @@
       {
         "version": "3.103.20241204",
         "lastUpdated": "2024-12-04T14:51:16.61Z"
-      },
-      {
-        "version": "3.103.20241202",
-        "lastUpdated": "2024-12-02T12:04:00.39Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.108.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.109.20250401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.108.0",
-    "last_updated": "2025-04-01T09:28:15.27Z",
+    "latest_version": "3.109.20250401",
+    "last_updated": "2025-04-01T14:09:04.41Z",
     "version_history": [
+      {
+        "version": "3.109.20250401",
+        "lastUpdated": "2025-04-01T14:09:04.41Z"
+      },
       {
         "version": "3.108.0",
         "lastUpdated": "2025-04-01T09:28:15.27Z"
@@ -2099,15 +2103,11 @@
       {
         "version": "3.90.0",
         "lastUpdated": "2024-05-29T14:54:18.727Z"
-      },
-      {
-        "version": "3.89.20240501",
-        "lastUpdated": "2024-05-01T13:53:14.617Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.108.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.109.20250401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17046",
-    "last_updated": "2025-03-27T20:52:50.69Z",
+    "latest_version": "1.57.17062",
+    "last_updated": "2025-04-01T13:00:01.083Z",
     "version_history": [
+      {
+        "version": "1.57.17062",
+        "lastUpdated": "2025-04-01T13:00:01.083Z"
+      },
       {
         "version": "1.57.17046",
         "lastUpdated": "2025-03-27T20:52:50.69Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16740",
         "lastUpdated": "2025-01-22T15:22:44.283Z"
-      },
-      {
-        "version": "1.55.16724",
-        "lastUpdated": "2025-01-19T17:00:37.373Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17046/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17062/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025033103",
-    "last_updated": "2025-03-31T23:22:32.13Z",
+    "latest_version": "0.26.2025040102",
+    "last_updated": "2025-04-01T14:37:16.067Z",
     "version_history": [
+      {
+        "version": "0.26.2025040102",
+        "lastUpdated": "2025-04-01T14:37:16.067Z"
+      },
       {
         "version": "0.26.2025033103",
         "lastUpdated": "2025-03-31T23:22:32.13Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031801",
         "lastUpdated": "2025-03-18T07:42:59.457Z"
-      },
-      {
-        "version": "0.26.2025031701",
-        "lastUpdated": "2025-03-17T04:25:32.12Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025033103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025040102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6177,9 +6177,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "MarsCode AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.83",
-    "last_updated": "2025-04-01T03:30:39.477Z",
+    "latest_version": "1.1.85",
+    "last_updated": "2025-04-01T15:34:54.99Z",
     "version_history": [
+      {
+        "version": "1.1.85",
+        "lastUpdated": "2025-04-01T15:34:54.99Z"
+      },
       {
         "version": "1.1.83",
         "lastUpdated": "2025-04-01T03:30:39.477Z"
@@ -6255,10 +6259,6 @@
       {
         "version": "1.1.64",
         "lastUpdated": "2025-02-24T10:22:36Z"
-      },
-      {
-        "version": "1.1.63",
-        "lastUpdated": "2025-02-20T15:41:58.463Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6291,7 +6291,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.83/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.85/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -6809,9 +6809,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.17.64",
-    "last_updated": "2025-03-26T19:43:05.483Z",
+    "latest_version": "1.18.14",
+    "last_updated": "2025-04-01T16:39:30.49Z",
     "version_history": [
+      {
+        "version": "1.18.14",
+        "lastUpdated": "2025-04-01T16:39:30.49Z"
+      },
       {
         "version": "1.17.64",
         "lastUpdated": "2025-03-26T19:43:05.483Z"
@@ -6887,24 +6891,24 @@
       {
         "version": "1.13.6",
         "lastUpdated": "2024-11-07T17:03:54.27Z"
-      },
-      {
-        "version": "1.12.37",
-        "lastUpdated": "2024-10-29T23:10:53.983Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.17.64/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.70.15",
-    "last_updated": "2025-03-19T21:25:53.44Z",
+    "latest_version": "2.72.22",
+    "last_updated": "2025-04-01T18:11:53.057Z",
     "version_history": [
+      {
+        "version": "2.72.22",
+        "lastUpdated": "2025-04-01T18:11:53.057Z"
+      },
       {
         "version": "2.70.15",
         "lastUpdated": "2025-03-19T21:25:53.44Z"
@@ -6980,10 +6984,6 @@
       {
         "version": "2.55.29",
         "lastUpdated": "2024-11-13T22:01:35.027Z"
-      },
-      {
-        "version": "2.55.28",
-        "lastUpdated": "2024-11-12T22:51:07.86Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7006,7 +7006,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.70.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.72.22/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -10795,6 +10795,10 @@
         "lastUpdated": "2025-02-28T08:25:05.013Z"
       },
       {
+        "version": "1.41.1",
+        "lastUpdated": "2025-04-01T17:37:21.793Z"
+      },
+      {
         "version": "1.41.0",
         "lastUpdated": "2025-03-27T12:26:08.69Z"
       },
@@ -10805,10 +10809,6 @@
       {
         "version": "1.40.2025022008",
         "lastUpdated": "2025-02-20T09:18:55.187Z"
-      },
-      {
-        "version": "1.40.2025021908",
-        "lastUpdated": "2025-02-19T08:31:10.643Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
@@ -12684,9 +12684,13 @@
     "extension_name": "usernamehw.errorlens",
     "display_name": "Error Lens",
     "short_description": "Improve highlighting of errors, warnings and other language diagnostics.",
-    "latest_version": "3.24.0",
-    "last_updated": "2025-03-06T16:53:30.78Z",
+    "latest_version": "3.25.0",
+    "last_updated": "2025-04-01T17:15:13.22Z",
     "version_history": [
+      {
+        "version": "3.25.0",
+        "lastUpdated": "2025-04-01T17:15:13.22Z"
+      },
       {
         "version": "3.24.0",
         "lastUpdated": "2025-03-06T16:53:30.78Z"
@@ -12762,15 +12766,11 @@
       {
         "version": "3.9.0",
         "lastUpdated": "2023-04-07T09:19:17.83Z"
-      },
-      {
-        "version": "3.8.0",
-        "lastUpdated": "2023-03-14T09:54:06.207Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["diagnostic", "error", "gutter", "highlight", "inline", "message", "problem", "problems", "status bar", "warning"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.24.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/usernamehw/vsextensions/errorlens/3.25.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
   },
   {
