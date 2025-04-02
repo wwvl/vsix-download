@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.105",
-    "last_updated": "2025-04-01T09:14:24.887Z",
+    "latest_version": "2025.4.205",
+    "last_updated": "2025-04-02T09:13:39.777Z",
     "version_history": [
+      {
+        "version": "2025.4.205",
+        "lastUpdated": "2025-04-02T09:13:39.777Z"
+      },
       {
         "version": "2025.4.105",
         "lastUpdated": "2025-04-01T09:14:24.887Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.918",
         "lastUpdated": "2025-03-09T22:50:25.91Z"
-      },
-      {
-        "version": "2025.3.905",
-        "lastUpdated": "2025-03-09T09:12:59.43Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6716,9 +6716,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.99.2025033120",
-    "last_updated": "2025-03-31T21:10:16.15Z",
+    "latest_version": "1.99.2025040209",
+    "last_updated": "2025-04-02T09:14:44.537Z",
     "version_history": [
+      {
+        "version": "1.99.2025040209",
+        "lastUpdated": "2025-04-02T09:14:44.537Z"
+      },
       {
         "version": "1.99.2025033120",
         "lastUpdated": "2025-03-31T21:10:16.15Z"
@@ -6794,15 +6798,11 @@
       {
         "version": "1.96.2024112709",
         "lastUpdated": "2024-11-27T09:19:42.48Z"
-      },
-      {
-        "version": "1.96.2024112009",
-        "lastUpdated": "2024-11-20T09:19:06.46Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025033120/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025040209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9947,9 +9947,13 @@
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.20.0",
-    "last_updated": "2025-02-28T17:06:07.557Z",
+    "latest_version": "5.21.0",
+    "last_updated": "2025-04-02T10:14:38.08Z",
     "version_history": [
+      {
+        "version": "5.21.0",
+        "lastUpdated": "2025-04-02T10:14:38.08Z"
+      },
       {
         "version": "5.20.0",
         "lastUpdated": "2025-02-28T17:06:07.557Z"
@@ -10025,15 +10029,11 @@
       {
         "version": "5.5.0",
         "lastUpdated": "2024-07-15T06:41:38.01Z"
-      },
-      {
-        "version": "5.4.2",
-        "lastUpdated": "2024-06-13T20:21:36.78Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.21.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
@@ -10169,9 +10169,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.9.0",
-    "last_updated": "2025-03-18T08:40:17.823Z",
+    "latest_version": "1.10.1",
+    "last_updated": "2025-04-02T11:30:36.7Z",
     "version_history": [
+      {
+        "version": "1.10.1",
+        "lastUpdated": "2025-04-02T11:30:36.7Z"
+      },
       {
         "version": "1.9.0",
         "lastUpdated": "2025-03-18T08:40:17.823Z"
@@ -10247,15 +10251,11 @@
       {
         "version": "0.18.0",
         "lastUpdated": "2024-01-17T05:21:08.6Z"
-      },
-      {
-        "version": "0.17.0",
-        "lastUpdated": "2023-12-28T06:15:00.773Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.9.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.10.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -10727,9 +10727,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.42.2025040104",
-    "last_updated": "2025-04-01T04:37:45.353Z",
+    "latest_version": "1.42.2025040208",
+    "last_updated": "2025-04-02T08:24:29.993Z",
     "version_history": [
+      {
+        "version": "1.42.2025040208",
+        "lastUpdated": "2025-04-02T08:24:29.993Z"
+      },
       {
         "version": "1.42.2025040104",
         "lastUpdated": "2025-04-01T04:37:45.353Z"
@@ -10805,15 +10809,11 @@
       {
         "version": "1.40.2025022608",
         "lastUpdated": "2025-02-26T08:30:01.36Z"
-      },
-      {
-        "version": "1.40.2025022008",
-        "lastUpdated": "2025-02-20T09:18:55.187Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.42.2025040104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.42.2025040208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -13224,9 +13224,13 @@
     "extension_name": "vscjava.vscode-gradle",
     "display_name": "Gradle for Java",
     "short_description": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
-    "latest_version": "3.17.2025032611",
-    "last_updated": "2025-03-26T12:17:42.473Z",
+    "latest_version": "3.17.2025040205",
+    "last_updated": "2025-04-02T07:44:45.783Z",
     "version_history": [
+      {
+        "version": "3.17.2025040205",
+        "lastUpdated": "2025-04-02T07:44:45.783Z"
+      },
       {
         "version": "3.17.2025032611",
         "lastUpdated": "2025-03-26T12:17:42.473Z"
@@ -13302,15 +13306,11 @@
       {
         "version": "3.16.2024080109",
         "lastUpdated": "2024-08-01T12:23:45.347Z"
-      },
-      {
-        "version": "3.16.2024073113",
-        "lastUpdated": "2024-07-31T14:32:45.723Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025032611/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025040205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
   },
   {
