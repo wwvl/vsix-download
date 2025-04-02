@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.294.1477",
-    "last_updated": "2025-04-01T01:48:52.987Z",
+    "latest_version": "1.294.1479",
+    "last_updated": "2025-04-02T01:46:31.063Z",
     "version_history": [
+      {
+        "version": "1.294.1479",
+        "lastUpdated": "2025-04-02T01:46:31.063Z"
+      },
       {
         "version": "1.294.1477",
         "lastUpdated": "2025-04-01T01:48:52.987Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.290.1456",
         "lastUpdated": "2025-03-24T02:04:03.08Z"
-      },
-      {
-        "version": "1.290.1455",
-        "lastUpdated": "2025-03-21T16:23:08.72Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.294.1477/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.294.1479/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -14704,9 +14704,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.411",
-    "last_updated": "2025-04-01T22:12:10.783Z",
+    "latest_version": "1.0.412",
+    "last_updated": "2025-04-02T06:04:45.863Z",
     "version_history": [
+      {
+        "version": "1.0.412",
+        "lastUpdated": "2025-04-02T06:04:45.863Z"
+      },
       {
         "version": "1.0.411",
         "lastUpdated": "2025-04-01T22:12:10.783Z"
@@ -14782,15 +14786,11 @@
       {
         "version": "1.0.393",
         "lastUpdated": "2025-02-25T02:59:49.04Z"
-      },
-      {
-        "version": "1.0.392",
-        "lastUpdated": "2025-02-20T03:51:13.25Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.411/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.412/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
