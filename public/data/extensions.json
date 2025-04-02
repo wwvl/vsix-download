@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025040102",
-    "last_updated": "2025-04-01T14:37:16.067Z",
+    "latest_version": "0.26.2025040201",
+    "last_updated": "2025-04-02T00:25:34.41Z",
     "version_history": [
+      {
+        "version": "0.26.2025040201",
+        "lastUpdated": "2025-04-02T00:25:34.41Z"
+      },
       {
         "version": "0.26.2025040102",
         "lastUpdated": "2025-04-01T14:37:16.067Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025031802",
         "lastUpdated": "2025-03-18T19:13:29.537Z"
-      },
-      {
-        "version": "0.26.2025031801",
-        "lastUpdated": "2025-03-18T07:42:59.457Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025040102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025040201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6809,9 +6809,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.18.14",
-    "last_updated": "2025-04-01T16:39:30.49Z",
+    "latest_version": "1.18.16",
+    "last_updated": "2025-04-02T00:13:07.317Z",
     "version_history": [
+      {
+        "version": "1.18.16",
+        "lastUpdated": "2025-04-02T00:13:07.317Z"
+      },
       {
         "version": "1.18.14",
         "lastUpdated": "2025-04-01T16:39:30.49Z"
@@ -6887,15 +6891,11 @@
       {
         "version": "1.13.9",
         "lastUpdated": "2024-11-13T00:27:18.497Z"
-      },
-      {
-        "version": "1.13.6",
-        "lastUpdated": "2024-11-07T17:03:54.27Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2363",
-    "last_updated": "2025-04-01T00:47:39.907Z",
+    "latest_version": "0.4.2364",
+    "last_updated": "2025-04-02T00:51:51.893Z",
     "version_history": [
+      {
+        "version": "0.4.2364",
+        "lastUpdated": "2025-04-02T00:51:51.893Z"
+      },
       {
         "version": "0.4.2363",
         "lastUpdated": "2025-04-01T00:47:39.907Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2342",
         "lastUpdated": "2025-03-15T00:43:24.593Z"
-      },
-      {
-        "version": "0.4.2341",
-        "lastUpdated": "2025-03-14T00:43:35.06Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2363/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2364/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11307,9 +11307,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.8.5",
-    "last_updated": "2025-04-01T02:48:16.89Z",
+    "latest_version": "3.8.6",
+    "last_updated": "2025-04-02T01:19:22.74Z",
     "version_history": [
+      {
+        "version": "3.8.6",
+        "lastUpdated": "2025-04-02T01:19:22.74Z"
+      },
       {
         "version": "3.8.5",
         "lastUpdated": "2025-04-01T02:48:16.89Z"
@@ -11385,15 +11389,11 @@
       {
         "version": "3.6.0",
         "lastUpdated": "2025-03-06T23:39:33.887Z"
-      },
-      {
-        "version": "3.5.1",
-        "lastUpdated": "2025-03-03T01:29:45.11Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.8.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.8.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14704,9 +14704,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.410",
-    "last_updated": "2025-03-31T23:26:06.947Z",
+    "latest_version": "1.0.411",
+    "last_updated": "2025-04-01T22:12:10.783Z",
     "version_history": [
+      {
+        "version": "1.0.411",
+        "lastUpdated": "2025-04-01T22:12:10.783Z"
+      },
       {
         "version": "1.0.410",
         "lastUpdated": "2025-03-31T23:26:06.947Z"
@@ -14782,15 +14786,11 @@
       {
         "version": "1.0.392",
         "lastUpdated": "2025-02-20T03:51:13.25Z"
-      },
-      {
-        "version": "1.0.391",
-        "lastUpdated": "2025-02-19T04:57:40.433Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.410/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.411/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
