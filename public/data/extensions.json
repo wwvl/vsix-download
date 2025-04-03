@@ -1928,12 +1928,28 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.109.20250401",
-    "last_updated": "2025-04-01T14:10:45.01Z",
+    "latest_version": "3.109.20250404",
+    "last_updated": "2025-04-03T11:25:45.84Z",
     "version_history": [
+      {
+        "version": "3.109.20250404",
+        "lastUpdated": "2025-04-03T11:25:45.84Z"
+      },
+      {
+        "version": "3.109.20250403",
+        "lastUpdated": "2025-04-03T09:38:43.453Z"
+      },
       {
         "version": "3.109.20250401",
         "lastUpdated": "2025-04-01T14:10:45.01Z"
+      },
+      {
+        "version": "3.108.2",
+        "lastUpdated": "2025-04-03T11:28:30.42Z"
+      },
+      {
+        "version": "3.108.1",
+        "lastUpdated": "2025-04-03T09:37:05.56Z"
       },
       {
         "version": "3.108.0",
@@ -1994,27 +2010,11 @@
       {
         "version": "3.103.20250116",
         "lastUpdated": "2025-01-16T17:39:46.24Z"
-      },
-      {
-        "version": "3.103.20250113",
-        "lastUpdated": "2025-01-13T11:52:09.897Z"
-      },
-      {
-        "version": "3.103.20241230",
-        "lastUpdated": "2024-12-30T12:25:48.417Z"
-      },
-      {
-        "version": "3.103.20241211",
-        "lastUpdated": "2024-12-11T10:18:10.667Z"
-      },
-      {
-        "version": "3.103.20241204",
-        "lastUpdated": "2024-12-04T14:51:16.61Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.109.20250401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.109.20250404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.295.1482",
-    "last_updated": "2025-04-03T01:47:40.277Z",
+    "latest_version": "1.295.1483",
+    "last_updated": "2025-04-03T09:05:56.767Z",
     "version_history": [
+      {
+        "version": "1.295.1483",
+        "lastUpdated": "2025-04-03T09:05:56.767Z"
+      },
       {
         "version": "1.295.1482",
         "lastUpdated": "2025-04-03T01:47:40.277Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.291.1462",
         "lastUpdated": "2025-03-25T16:18:57.623Z"
-      },
-      {
-        "version": "1.291.0",
-        "lastUpdated": "2025-03-24T19:55:33.88Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.295.1482/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.295.1483/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -13604,6 +13604,10 @@
         "lastUpdated": "2025-04-03T05:32:48.06Z"
       },
       {
+        "version": "0.43.1",
+        "lastUpdated": "2025-04-03T07:54:36.663Z"
+      },
+      {
         "version": "0.43.0",
         "lastUpdated": "2024-11-11T06:48:08.403Z"
       },
@@ -13674,10 +13678,6 @@
       {
         "version": "0.40.2023101002",
         "lastUpdated": "2023-10-13T01:36:55.21Z"
-      },
-      {
-        "version": "0.40.2023100808",
-        "lastUpdated": "2023-10-08T08:26:05.127Z"
       }
     ],
     "categories": ["Testing"],
