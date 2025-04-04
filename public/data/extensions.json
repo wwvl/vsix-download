@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.26.2025040204",
-    "last_updated": "2025-04-02T17:07:15.327Z",
+    "latest_version": "0.27.2025040402",
+    "last_updated": "2025-04-04T08:19:37.12Z",
     "version_history": [
+      {
+        "version": "0.27.2025040402",
+        "lastUpdated": "2025-04-04T08:19:37.12Z"
+      },
       {
         "version": "0.26.2025040204",
         "lastUpdated": "2025-04-02T17:07:15.327Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025032001",
         "lastUpdated": "2025-03-20T04:27:30.873Z"
-      },
-      {
-        "version": "0.26.2025031901",
-        "lastUpdated": "2025-03-19T04:29:10.01Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.26.2025040204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025040402/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4349,9 +4349,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025040314",
-    "last_updated": "2025-04-03T14:51:48.183Z",
+    "latest_version": "0.109.2025040408",
+    "last_updated": "2025-04-04T08:21:06.68Z",
     "version_history": [
+      {
+        "version": "0.109.2025040408",
+        "lastUpdated": "2025-04-04T08:21:06.68Z"
+      },
       {
         "version": "0.109.2025040314",
         "lastUpdated": "2025-04-03T14:51:48.183Z"
@@ -4427,15 +4431,11 @@
       {
         "version": "0.105.2025022404",
         "lastUpdated": "2025-02-24T04:23:58.303Z"
-      },
-      {
-        "version": "0.105.2025022004",
-        "lastUpdated": "2025-02-20T04:21:58.78Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025040314/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025040408/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -7519,9 +7519,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.3.2025032601",
-    "last_updated": "2025-03-26T10:52:33.05Z",
+    "latest_version": "2025.5.2025040401",
+    "last_updated": "2025-04-04T10:47:51.86Z",
     "version_history": [
+      {
+        "version": "2025.5.2025040401",
+        "lastUpdated": "2025-04-04T10:47:51.86Z"
+      },
       {
         "version": "2025.3.2025032601",
         "lastUpdated": "2025-03-26T10:52:33.05Z"
@@ -7597,10 +7601,6 @@
       {
         "version": "2024.23.2025012301",
         "lastUpdated": "2025-01-23T10:44:19.207Z"
-      },
-      {
-        "version": "2024.23.2025011501",
-        "lastUpdated": "2025-01-15T18:00:47.293Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7621,7 +7621,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.3.2025032601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025040401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -7875,6 +7875,10 @@
         "lastUpdated": "2025-04-04T05:30:35.73Z"
       },
       {
+        "version": "0.409.0",
+        "lastUpdated": "2025-04-04T07:03:47.637Z"
+      },
+      {
         "version": "0.408.0",
         "lastUpdated": "2025-03-26T21:47:58.707Z"
       },
@@ -7945,10 +7949,6 @@
       {
         "version": "0.391.0",
         "lastUpdated": "2024-11-15T12:38:29.9Z"
-      },
-      {
-        "version": "0.390.0",
-        "lastUpdated": "2024-11-01T21:07:57.05Z"
       }
     ],
     "categories": ["Other"],
@@ -14704,9 +14704,21 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.418",
-    "last_updated": "2025-04-04T05:34:31.587Z",
+    "latest_version": "1.0.421",
+    "last_updated": "2025-04-04T09:44:40.793Z",
     "version_history": [
+      {
+        "version": "1.0.421",
+        "lastUpdated": "2025-04-04T09:44:40.793Z"
+      },
+      {
+        "version": "1.0.420",
+        "lastUpdated": "2025-04-04T09:19:17.047Z"
+      },
+      {
+        "version": "1.0.419",
+        "lastUpdated": "2025-04-04T08:46:02.783Z"
+      },
       {
         "version": "1.0.418",
         "lastUpdated": "2025-04-04T05:34:31.587Z"
@@ -14774,23 +14786,11 @@
       {
         "version": "1.0.399",
         "lastUpdated": "2025-03-03T21:37:03.737Z"
-      },
-      {
-        "version": "1.0.398",
-        "lastUpdated": "2025-03-01T22:12:33.02Z"
-      },
-      {
-        "version": "1.0.397",
-        "lastUpdated": "2025-03-01T04:11:53.53Z"
-      },
-      {
-        "version": "1.0.396",
-        "lastUpdated": "2025-03-01T04:09:20.21Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.418/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.421/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
