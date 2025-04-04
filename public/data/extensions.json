@@ -1618,11 +1618,15 @@
   },
   {
     "extension_name": "Codeium.codeium",
-    "display_name": "Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more",
+    "display_name": "Windsurf Plugin (formerly Codeium): AI Coding Autocomplete and Chat for Python, JavaScript, TypeScript, and more",
     "short_description": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
-    "latest_version": "1.43.3",
-    "last_updated": "2025-03-15T03:15:51.777Z",
+    "latest_version": "1.43.7",
+    "last_updated": "2025-04-03T23:05:30.15Z",
     "version_history": [
+      {
+        "version": "1.43.7",
+        "lastUpdated": "2025-04-03T23:05:30.15Z"
+      },
       {
         "version": "1.43.3",
         "lastUpdated": "2025-03-15T03:15:51.777Z"
@@ -1630,6 +1634,10 @@
       {
         "version": "1.43.2",
         "lastUpdated": "2025-03-15T01:27:00.263Z"
+      },
+      {
+        "version": "1.42.7",
+        "lastUpdated": "2025-04-04T00:40:36.377Z"
       },
       {
         "version": "1.42.3",
@@ -1694,14 +1702,6 @@
       {
         "version": "1.31.2",
         "lastUpdated": "2024-12-09T19:16:14.323Z"
-      },
-      {
-        "version": "1.31.0",
-        "lastUpdated": "2024-12-09T07:34:41.86Z"
-      },
-      {
-        "version": "1.30.18",
-        "lastUpdated": "2024-12-26T22:05:52.613Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -1735,7 +1735,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.43.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.43.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
   },
   {
@@ -8393,9 +8393,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.24.4",
-    "last_updated": "2025-03-27T23:07:10.71Z",
+    "latest_version": "1.24.5",
+    "last_updated": "2025-04-03T23:07:44.313Z",
     "version_history": [
+      {
+        "version": "1.24.5",
+        "lastUpdated": "2025-04-03T23:07:44.313Z"
+      },
       {
         "version": "1.24.4",
         "lastUpdated": "2025-03-27T23:07:10.71Z"
@@ -8471,15 +8475,11 @@
       {
         "version": "1.22.5",
         "lastUpdated": "2024-09-25T02:11:57.423Z"
-      },
-      {
-        "version": "1.22.4",
-        "lastUpdated": "2024-09-20T00:20:24.037Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.24.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2365",
-    "last_updated": "2025-04-03T00:42:51.16Z",
+    "latest_version": "0.4.2366",
+    "last_updated": "2025-04-04T00:43:04.167Z",
     "version_history": [
+      {
+        "version": "0.4.2366",
+        "lastUpdated": "2025-04-04T00:43:04.167Z"
+      },
       {
         "version": "0.4.2365",
         "lastUpdated": "2025-04-03T00:42:51.16Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2344",
         "lastUpdated": "2025-03-17T00:45:02.697Z"
-      },
-      {
-        "version": "0.4.2343",
-        "lastUpdated": "2025-03-16T00:45:46.067Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2365/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2366/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
