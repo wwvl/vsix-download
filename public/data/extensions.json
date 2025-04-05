@@ -6809,9 +6809,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.18.16",
-    "last_updated": "2025-04-02T00:13:07.317Z",
+    "latest_version": "1.18.21",
+    "last_updated": "2025-04-05T01:15:48.017Z",
     "version_history": [
+      {
+        "version": "1.18.21",
+        "lastUpdated": "2025-04-05T01:15:48.017Z"
+      },
       {
         "version": "1.18.16",
         "lastUpdated": "2025-04-02T00:13:07.317Z"
@@ -6887,24 +6891,24 @@
       {
         "version": "1.14.2",
         "lastUpdated": "2024-11-13T04:48:05.887Z"
-      },
-      {
-        "version": "1.13.9",
-        "lastUpdated": "2024-11-13T00:27:18.497Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.16/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.21/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.72.22",
-    "last_updated": "2025-04-01T18:11:53.057Z",
+    "latest_version": "2.73.16",
+    "last_updated": "2025-04-05T01:13:11.743Z",
     "version_history": [
+      {
+        "version": "2.73.16",
+        "lastUpdated": "2025-04-05T01:13:11.743Z"
+      },
       {
         "version": "2.72.22",
         "lastUpdated": "2025-04-01T18:11:53.057Z"
@@ -6980,10 +6984,6 @@
       {
         "version": "2.56.29",
         "lastUpdated": "2024-11-12T20:40:13.91Z"
-      },
-      {
-        "version": "2.55.29",
-        "lastUpdated": "2024-11-13T22:01:35.027Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7006,7 +7006,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.72.22/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.73.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -8486,9 +8486,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.3.2117",
-    "last_updated": "2025-03-22T00:17:54.48Z",
+    "latest_version": "2025.4.417",
+    "last_updated": "2025-04-05T00:16:15.59Z",
     "version_history": [
+      {
+        "version": "2025.4.417",
+        "lastUpdated": "2025-04-05T00:16:15.59Z"
+      },
       {
         "version": "2025.3.2117",
         "lastUpdated": "2025-03-22T00:17:54.48Z"
@@ -8564,15 +8568,11 @@
       {
         "version": "2024.10.1517",
         "lastUpdated": "2024-10-16T00:19:23.863Z"
-      },
-      {
-        "version": "2024.10.1117",
-        "lastUpdated": "2024-10-12T00:19:00.023Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.3.2117/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.4.417/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2366",
-    "last_updated": "2025-04-04T00:43:04.167Z",
+    "latest_version": "0.4.2367",
+    "last_updated": "2025-04-05T00:41:31.133Z",
     "version_history": [
+      {
+        "version": "0.4.2367",
+        "lastUpdated": "2025-04-05T00:41:31.133Z"
+      },
       {
         "version": "0.4.2366",
         "lastUpdated": "2025-04-04T00:43:04.167Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2346",
         "lastUpdated": "2025-03-18T00:44:15.077Z"
-      },
-      {
-        "version": "0.4.2344",
-        "lastUpdated": "2025-03-17T00:45:02.697Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2366/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2367/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11307,9 +11307,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.9.0",
-    "last_updated": "2025-04-04T05:27:13.06Z",
+    "latest_version": "3.9.1",
+    "last_updated": "2025-04-04T18:43:57.827Z",
     "version_history": [
+      {
+        "version": "3.9.1",
+        "lastUpdated": "2025-04-04T18:43:57.827Z"
+      },
       {
         "version": "3.9.0",
         "lastUpdated": "2025-04-04T05:27:13.06Z"
@@ -11385,15 +11389,11 @@
       {
         "version": "3.6.2",
         "lastUpdated": "2025-03-08T03:41:08.033Z"
-      },
-      {
-        "version": "3.6.1",
-        "lastUpdated": "2025-03-07T00:47:13.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.9.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.9.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -13117,9 +13117,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025040300",
-    "last_updated": "2025-04-03T01:00:40.193Z",
+    "latest_version": "1.62.2025040500",
+    "last_updated": "2025-04-05T01:00:44.44Z",
     "version_history": [
+      {
+        "version": "1.62.2025040500",
+        "lastUpdated": "2025-04-05T01:00:44.44Z"
+      },
       {
         "version": "1.62.2025040300",
         "lastUpdated": "2025-04-03T01:00:40.193Z"
@@ -13195,10 +13199,6 @@
       {
         "version": "1.61.2025022700",
         "lastUpdated": "2025-02-27T01:06:33.35Z"
-      },
-      {
-        "version": "1.61.2025022502",
-        "lastUpdated": "2025-02-25T02:58:34.037Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13217,7 +13217,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025040300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025040500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
