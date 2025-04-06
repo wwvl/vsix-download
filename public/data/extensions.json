@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2367",
-    "last_updated": "2025-04-05T00:41:31.133Z",
+    "latest_version": "0.4.2368",
+    "last_updated": "2025-04-06T00:45:25.81Z",
     "version_history": [
+      {
+        "version": "0.4.2368",
+        "lastUpdated": "2025-04-06T00:45:25.81Z"
+      },
       {
         "version": "0.4.2367",
         "lastUpdated": "2025-04-05T00:41:31.133Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2347",
         "lastUpdated": "2025-03-19T00:43:40.87Z"
-      },
-      {
-        "version": "0.4.2346",
-        "lastUpdated": "2025-03-18T00:44:15.077Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2367/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2368/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11307,9 +11307,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.9.1",
-    "last_updated": "2025-04-04T18:43:57.827Z",
+    "latest_version": "3.9.2",
+    "last_updated": "2025-04-06T00:56:45.203Z",
     "version_history": [
+      {
+        "version": "3.9.2",
+        "lastUpdated": "2025-04-06T00:56:45.203Z"
+      },
       {
         "version": "3.9.1",
         "lastUpdated": "2025-04-04T18:43:57.827Z"
@@ -11385,15 +11389,11 @@
       {
         "version": "3.6.3",
         "lastUpdated": "2025-03-08T05:17:41.78Z"
-      },
-      {
-        "version": "3.6.2",
-        "lastUpdated": "2025-03-08T03:41:08.033Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.9.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.9.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
