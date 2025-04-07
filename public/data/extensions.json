@@ -11006,9 +11006,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2368",
-    "last_updated": "2025-04-06T00:45:25.81Z",
+    "latest_version": "0.4.2369",
+    "last_updated": "2025-04-07T00:45:05.057Z",
     "version_history": [
+      {
+        "version": "0.4.2369",
+        "lastUpdated": "2025-04-07T00:45:05.057Z"
+      },
       {
         "version": "0.4.2368",
         "lastUpdated": "2025-04-06T00:45:25.81Z"
@@ -11084,15 +11088,11 @@
       {
         "version": "0.4.2348",
         "lastUpdated": "2025-03-20T00:42:17.257Z"
-      },
-      {
-        "version": "0.4.2347",
-        "lastUpdated": "2025-03-19T00:43:40.87Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2368/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2369/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14704,9 +14704,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.421",
-    "last_updated": "2025-04-04T09:44:40.793Z",
+    "latest_version": "1.0.422",
+    "last_updated": "2025-04-06T23:46:01.957Z",
     "version_history": [
+      {
+        "version": "1.0.422",
+        "lastUpdated": "2025-04-06T23:46:01.957Z"
+      },
       {
         "version": "1.0.421",
         "lastUpdated": "2025-04-04T09:44:40.793Z"
@@ -14782,15 +14786,11 @@
       {
         "version": "1.0.400",
         "lastUpdated": "2025-03-07T08:52:39.803Z"
-      },
-      {
-        "version": "1.0.399",
-        "lastUpdated": "2025-03-03T21:37:03.737Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.421/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.422/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
