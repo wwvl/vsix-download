@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.296.1486",
-    "last_updated": "2025-04-04T16:20:42.753Z",
+    "latest_version": "1.296.1487",
+    "last_updated": "2025-04-07T01:46:43.157Z",
     "version_history": [
+      {
+        "version": "1.296.1487",
+        "lastUpdated": "2025-04-07T01:46:43.157Z"
+      },
       {
         "version": "1.296.1486",
         "lastUpdated": "2025-04-04T16:20:42.753Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.291.1467",
         "lastUpdated": "2025-03-26T19:26:15.877Z"
-      },
-      {
-        "version": "1.291.1466",
-        "lastUpdated": "2025-03-26T16:22:26.74Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.296.1486/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.296.1487/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8300,9 +8300,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.9",
-    "last_updated": "2025-04-03T04:27:17.857Z",
+    "latest_version": "1.21.10",
+    "last_updated": "2025-04-07T04:22:33.227Z",
     "version_history": [
+      {
+        "version": "1.21.10",
+        "lastUpdated": "2025-04-07T04:22:33.227Z"
+      },
       {
         "version": "1.21.9",
         "lastUpdated": "2025-04-03T04:27:17.857Z"
@@ -8378,15 +8382,11 @@
       {
         "version": "1.20.45",
         "lastUpdated": "2025-01-31T04:24:26.803Z"
-      },
-      {
-        "version": "1.20.44",
-        "lastUpdated": "2025-01-30T04:28:56.497Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -9044,9 +9044,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250406001",
-    "last_updated": "2025-04-06T02:49:04.28Z",
+    "latest_version": "0.13.250407001",
+    "last_updated": "2025-04-07T02:50:29.6Z",
     "version_history": [
+      {
+        "version": "0.13.250407001",
+        "lastUpdated": "2025-04-07T02:50:29.6Z"
+      },
       {
         "version": "0.13.250406001",
         "lastUpdated": "2025-04-06T02:49:04.28Z"
@@ -9122,15 +9126,11 @@
       {
         "version": "0.13.250316001",
         "lastUpdated": "2025-03-16T02:53:56.823Z"
-      },
-      {
-        "version": "0.13.250315001",
-        "lastUpdated": "2025-03-15T02:49:55.38Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250406001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250407001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
