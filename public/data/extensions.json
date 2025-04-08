@@ -1155,9 +1155,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.13",
-    "last_updated": "2025-04-02T14:37:05.76Z",
+    "latest_version": "0.14.14",
+    "last_updated": "2025-04-07T20:57:41.213Z",
     "version_history": [
+      {
+        "version": "0.14.14",
+        "lastUpdated": "2025-04-07T20:57:41.213Z"
+      },
       {
         "version": "0.14.13",
         "lastUpdated": "2025-04-02T14:37:05.76Z"
@@ -1233,15 +1237,11 @@
       {
         "version": "0.13.68",
         "lastUpdated": "2025-01-10T20:04:44.823Z"
-      },
-      {
-        "version": "0.13.67",
-        "lastUpdated": "2025-01-10T15:02:05.517Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.13/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -6809,9 +6809,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.18.21",
-    "last_updated": "2025-04-05T01:15:48.017Z",
+    "latest_version": "1.18.23",
+    "last_updated": "2025-04-07T21:08:58.02Z",
     "version_history": [
+      {
+        "version": "1.18.23",
+        "lastUpdated": "2025-04-07T21:08:58.02Z"
+      },
       {
         "version": "1.18.21",
         "lastUpdated": "2025-04-05T01:15:48.017Z"
@@ -6887,15 +6891,11 @@
       {
         "version": "1.14.8",
         "lastUpdated": "2024-11-19T16:31:51.41Z"
-      },
-      {
-        "version": "1.14.2",
-        "lastUpdated": "2024-11-13T04:48:05.887Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.21/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.18.23/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -6908,6 +6908,10 @@
       {
         "version": "2.73.16",
         "lastUpdated": "2025-04-05T01:13:11.743Z"
+      },
+      {
+        "version": "2.72.27",
+        "lastUpdated": "2025-04-07T21:45:19.313Z"
       },
       {
         "version": "2.72.22",
@@ -6980,10 +6984,6 @@
       {
         "version": "2.56.31",
         "lastUpdated": "2024-11-13T22:23:17.8Z"
-      },
-      {
-        "version": "2.56.29",
-        "lastUpdated": "2024-11-12T20:40:13.91Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7721,9 +7721,13 @@
     "extension_name": "ms-toolsai.datawrangler",
     "display_name": "Data Wrangler",
     "short_description": "Data viewing, cleaning and preparation for tabular datasets",
-    "latest_version": "1.21.1",
-    "last_updated": "2025-03-05T22:19:06.377Z",
+    "latest_version": "1.21.2",
+    "last_updated": "2025-04-07T23:22:16.197Z",
     "version_history": [
+      {
+        "version": "1.21.2",
+        "lastUpdated": "2025-04-07T23:22:16.197Z"
+      },
       {
         "version": "1.21.1",
         "lastUpdated": "2025-03-05T22:19:06.377Z"
@@ -7799,10 +7803,6 @@
       {
         "version": "1.13.2",
         "lastUpdated": "2024-11-07T23:07:31.453Z"
-      },
-      {
-        "version": "1.13.1",
-        "lastUpdated": "2024-10-29T23:54:10.13Z"
       }
     ],
     "categories": ["Data Science", "Machine Learning"],
@@ -7846,6 +7846,7 @@
       "Jupyter Notebook",
       "jupyterVariableViewers",
       "keybindings",
+      "language-model-tools",
       "numpy",
       "pandas",
       "parquet",
@@ -7855,21 +7856,26 @@
       "spreadsheet",
       "Stata",
       "table",
+      "tools",
       "tsv",
       "visualization",
       "xls",
       "xlsx"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
   },
   {
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.410.0",
-    "last_updated": "2025-04-04T05:30:35.73Z",
+    "latest_version": "0.411.0",
+    "last_updated": "2025-04-07T20:34:38.283Z",
     "version_history": [
+      {
+        "version": "0.411.0",
+        "lastUpdated": "2025-04-07T20:34:38.283Z"
+      },
       {
         "version": "0.410.0",
         "lastUpdated": "2025-04-04T05:30:35.73Z"
@@ -7945,15 +7951,11 @@
       {
         "version": "0.392.0",
         "lastUpdated": "2024-11-29T14:28:22.293Z"
-      },
-      {
-        "version": "0.391.0",
-        "lastUpdated": "2024-11-15T12:38:29.9Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.410.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.411.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -11006,9 +11008,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2369",
-    "last_updated": "2025-04-07T00:45:05.057Z",
+    "latest_version": "0.4.2371",
+    "last_updated": "2025-04-08T00:43:37.943Z",
     "version_history": [
+      {
+        "version": "0.4.2371",
+        "lastUpdated": "2025-04-08T00:43:37.943Z"
+      },
       {
         "version": "0.4.2369",
         "lastUpdated": "2025-04-07T00:45:05.057Z"
@@ -11084,15 +11090,11 @@
       {
         "version": "0.4.2349",
         "lastUpdated": "2025-03-21T00:47:52.043Z"
-      },
-      {
-        "version": "0.4.2348",
-        "lastUpdated": "2025-03-20T00:42:17.257Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2369/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2371/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13117,9 +13119,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025040500",
-    "last_updated": "2025-04-05T01:00:44.44Z",
+    "latest_version": "1.62.2025040800",
+    "last_updated": "2025-04-08T00:56:51.21Z",
     "version_history": [
+      {
+        "version": "1.62.2025040800",
+        "lastUpdated": "2025-04-08T00:56:51.21Z"
+      },
       {
         "version": "1.62.2025040500",
         "lastUpdated": "2025-04-05T01:00:44.44Z"
@@ -13195,10 +13201,6 @@
       {
         "version": "1.61.2025030100",
         "lastUpdated": "2025-03-01T01:07:15.353Z"
-      },
-      {
-        "version": "1.61.2025022700",
-        "lastUpdated": "2025-02-27T01:06:33.35Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13217,7 +13219,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025040500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025040800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
