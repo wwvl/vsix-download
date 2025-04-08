@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.21",
-    "last_updated": "2025-04-05T05:08:03.58Z",
+    "latest_version": "1.1.22",
+    "last_updated": "2025-04-08T16:36:47.83Z",
     "version_history": [
+      {
+        "version": "1.1.22",
+        "lastUpdated": "2025-04-08T16:36:47.83Z"
+      },
       {
         "version": "1.1.21",
         "lastUpdated": "2025-04-05T05:08:03.58Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "1.1.3",
         "lastUpdated": "2025-02-28T06:08:26.71Z"
-      },
-      {
-        "version": "1.1.2",
-        "lastUpdated": "2025-02-27T07:31:37.203Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.21/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.22/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.297.1490",
-    "last_updated": "2025-04-08T01:47:23.3Z",
+    "latest_version": "1.297.1491",
+    "last_updated": "2025-04-08T16:19:43.133Z",
     "version_history": [
+      {
+        "version": "1.297.1491",
+        "lastUpdated": "2025-04-08T16:19:43.133Z"
+      },
       {
         "version": "1.297.1490",
         "lastUpdated": "2025-04-08T01:47:23.3Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.293.0",
         "lastUpdated": "2025-03-27T22:39:17.453Z"
-      },
-      {
-        "version": "1.292.1470",
-        "lastUpdated": "2025-03-27T20:13:46.037Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.297.1490/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.297.1491/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -6623,9 +6623,13 @@
     "extension_name": "ms-azuretools.vscode-docker",
     "display_name": "Docker",
     "short_description": "Makes it easy to create, manage, and debug containerized applications.",
-    "latest_version": "1.29.4",
-    "last_updated": "2025-01-21T16:24:17.03Z",
+    "latest_version": "1.29.5",
+    "last_updated": "2025-04-08T14:47:17.16Z",
     "version_history": [
+      {
+        "version": "1.29.5",
+        "lastUpdated": "2025-04-08T14:47:17.16Z"
+      },
       {
         "version": "1.29.4",
         "lastUpdated": "2025-01-21T16:24:17.03Z"
@@ -6701,15 +6705,11 @@
       {
         "version": "1.22.1",
         "lastUpdated": "2022-07-11T14:43:38.583Z"
-      },
-      {
-        "version": "1.22.0",
-        "lastUpdated": "2022-04-18T14:48:14.077Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Azure"],
     "tags": ["compose", "container", "containers", "debuggers", "docker", "dockercompose", "dockerfile", "ignore", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
   },
   {
@@ -10264,9 +10264,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.5.0",
-    "last_updated": "2025-03-11T14:56:07.117Z",
+    "latest_version": "6.6.0",
+    "last_updated": "2025-04-08T17:20:41.933Z",
     "version_history": [
+      {
+        "version": "6.6.0",
+        "lastUpdated": "2025-04-08T17:20:41.933Z"
+      },
       {
         "version": "6.5.0",
         "lastUpdated": "2025-03-11T14:56:07.117Z"
@@ -10342,15 +10346,11 @@
       {
         "version": "5.16.0",
         "lastUpdated": "2024-06-25T14:12:25.97Z"
-      },
-      {
-        "version": "5.15.0",
-        "lastUpdated": "2024-06-04T13:16:29.377Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["javascript", "javascriptreact", "linters", "prisma", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.5.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.6.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
