@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.297.1489",
-    "last_updated": "2025-04-07T16:19:18.513Z",
+    "latest_version": "1.297.1490",
+    "last_updated": "2025-04-08T01:47:23.3Z",
     "version_history": [
+      {
+        "version": "1.297.1490",
+        "lastUpdated": "2025-04-08T01:47:23.3Z"
+      },
       {
         "version": "1.297.1489",
         "lastUpdated": "2025-04-07T16:19:18.513Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.292.1470",
         "lastUpdated": "2025-03-27T20:13:46.037Z"
-      },
-      {
-        "version": "1.292.1469",
-        "lastUpdated": "2025-03-27T16:20:50.663Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.297.1489/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.297.1490/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025040703",
-    "last_updated": "2025-04-07T18:12:56.487Z",
+    "latest_version": "0.27.2025040801",
+    "last_updated": "2025-04-08T04:27:00.187Z",
     "version_history": [
+      {
+        "version": "0.27.2025040801",
+        "lastUpdated": "2025-04-08T04:27:00.187Z"
+      },
       {
         "version": "0.27.2025040703",
         "lastUpdated": "2025-04-07T18:12:56.487Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025032201",
         "lastUpdated": "2025-03-22T02:16:37.75Z"
-      },
-      {
-        "version": "0.26.2025032103",
-        "lastUpdated": "2025-03-22T00:18:14.25Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025040703/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025040801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4349,9 +4349,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025040708",
-    "last_updated": "2025-04-07T08:34:57.193Z",
+    "latest_version": "0.109.2025040804",
+    "last_updated": "2025-04-08T04:17:14.017Z",
     "version_history": [
+      {
+        "version": "0.109.2025040804",
+        "lastUpdated": "2025-04-08T04:17:14.017Z"
+      },
       {
         "version": "0.109.2025040708",
         "lastUpdated": "2025-04-07T08:34:57.193Z"
@@ -4427,15 +4431,11 @@
       {
         "version": "0.105.2025022604",
         "lastUpdated": "2025-02-26T04:27:35.783Z"
-      },
-      {
-        "version": "0.105.2025022504",
-        "lastUpdated": "2025-02-25T04:21:10.177Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025040708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025040804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8674,9 +8674,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.13.1",
-    "last_updated": "2025-03-25T04:21:05.723Z",
+    "latest_version": "0.13.2",
+    "last_updated": "2025-04-08T04:24:25.68Z",
     "version_history": [
+      {
+        "version": "0.13.2",
+        "lastUpdated": "2025-04-08T04:24:25.68Z"
+      },
       {
         "version": "0.13.1",
         "lastUpdated": "2025-03-25T04:21:05.723Z"
@@ -8752,15 +8756,11 @@
       {
         "version": "0.12.1",
         "lastUpdated": "2024-09-19T19:39:08.727Z"
-      },
-      {
-        "version": "0.12.0",
-        "lastUpdated": "2024-09-19T19:09:29.73Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
@@ -13226,9 +13226,13 @@
     "extension_name": "vscjava.vscode-gradle",
     "display_name": "Gradle for Java",
     "short_description": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
-    "latest_version": "3.17.2025040205",
-    "last_updated": "2025-04-02T07:44:45.783Z",
+    "latest_version": "3.17.2025040701",
+    "last_updated": "2025-04-08T04:58:43.313Z",
     "version_history": [
+      {
+        "version": "3.17.2025040701",
+        "lastUpdated": "2025-04-08T04:58:43.313Z"
+      },
       {
         "version": "3.17.2025040205",
         "lastUpdated": "2025-04-02T07:44:45.783Z"
@@ -13304,15 +13308,11 @@
       {
         "version": "3.16.2024080209",
         "lastUpdated": "2024-08-02T11:24:52.54Z"
-      },
-      {
-        "version": "3.16.2024080109",
-        "lastUpdated": "2024-08-01T12:23:45.347Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025040205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025040701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
   },
   {
