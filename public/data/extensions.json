@@ -3924,9 +3924,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.298.1494",
-    "last_updated": "2025-04-09T16:22:31.16Z",
+    "latest_version": "1.300.0",
+    "last_updated": "2025-04-09T21:47:27.34Z",
     "version_history": [
+      {
+        "version": "1.300.0",
+        "lastUpdated": "2025-04-09T21:47:27.34Z"
+      },
+      {
+        "version": "1.299.1496",
+        "lastUpdated": "2025-04-09T19:37:44.733Z"
+      },
       {
         "version": "1.298.1494",
         "lastUpdated": "2025-04-09T16:22:31.16Z"
@@ -3998,14 +4006,6 @@
       {
         "version": "1.294.1477",
         "lastUpdated": "2025-04-01T01:48:52.987Z"
-      },
-      {
-        "version": "1.294.1476",
-        "lastUpdated": "2025-03-31T16:19:15.707Z"
-      },
-      {
-        "version": "1.294.1475",
-        "lastUpdated": "2025-03-31T01:46:47.16Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.298.1494/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.300.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -6598,9 +6598,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.17.0",
-    "last_updated": "2025-04-08T22:13:57.58Z",
+    "latest_version": "1.17.1",
+    "last_updated": "2025-04-09T23:49:31.247Z",
     "version_history": [
+      {
+        "version": "1.17.1",
+        "lastUpdated": "2025-04-09T23:49:31.247Z"
+      },
       {
         "version": "1.17.0",
         "lastUpdated": "2025-04-08T22:13:57.58Z"
@@ -6620,7 +6624,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.17.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.17.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -7632,9 +7636,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.4.1",
-    "last_updated": "2025-04-02T21:09:17.443Z",
+    "latest_version": "2025.4.100",
+    "last_updated": "2025-04-09T21:43:19.407Z",
     "version_history": [
+      {
+        "version": "2025.4.100",
+        "lastUpdated": "2025-04-09T21:43:19.407Z"
+      },
       {
         "version": "2025.4.1",
         "lastUpdated": "2025-04-02T21:09:17.443Z"
@@ -7710,15 +7718,11 @@
       {
         "version": "2024.12.1",
         "lastUpdated": "2024-12-06T01:30:42.353Z"
-      },
-      {
-        "version": "2024.11.102",
-        "lastUpdated": "2024-11-26T22:22:51.28Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.4.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.4.100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -11012,9 +11016,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2372",
-    "last_updated": "2025-04-09T00:45:07.437Z",
+    "latest_version": "0.4.2373",
+    "last_updated": "2025-04-10T00:43:35.733Z",
     "version_history": [
+      {
+        "version": "0.4.2373",
+        "lastUpdated": "2025-04-10T00:43:35.733Z"
+      },
       {
         "version": "0.4.2372",
         "lastUpdated": "2025-04-09T00:45:07.437Z"
@@ -11090,15 +11098,11 @@
       {
         "version": "0.4.2351",
         "lastUpdated": "2025-03-23T00:45:09.36Z"
-      },
-      {
-        "version": "0.4.2350",
-        "lastUpdated": "2025-03-22T00:42:04.907Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2372/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2373/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13123,9 +13127,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025040800",
-    "last_updated": "2025-04-08T00:56:51.21Z",
+    "latest_version": "1.62.2025041000",
+    "last_updated": "2025-04-10T00:56:14.32Z",
     "version_history": [
+      {
+        "version": "1.62.2025041000",
+        "lastUpdated": "2025-04-10T00:56:14.32Z"
+      },
       {
         "version": "1.62.2025040800",
         "lastUpdated": "2025-04-08T00:56:51.21Z"
@@ -13201,10 +13209,6 @@
       {
         "version": "1.61.2025030309",
         "lastUpdated": "2025-03-03T10:49:19.823Z"
-      },
-      {
-        "version": "1.61.2025030100",
-        "lastUpdated": "2025-03-01T01:07:15.353Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13223,7 +13227,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025040800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
