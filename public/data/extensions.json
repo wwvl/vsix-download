@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.905",
-    "last_updated": "2025-04-09T09:13:35.167Z",
+    "latest_version": "2025.4.1105",
+    "last_updated": "2025-04-11T09:13:11.67Z",
     "version_history": [
+      {
+        "version": "2025.4.1105",
+        "lastUpdated": "2025-04-11T09:13:11.67Z"
+      },
       {
         "version": "2025.4.905",
         "lastUpdated": "2025-04-09T09:13:35.167Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.1605",
         "lastUpdated": "2025-03-16T09:12:37.187Z"
-      },
-      {
-        "version": "2025.3.1510",
-        "lastUpdated": "2025-03-15T14:54:08.37Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.905/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4349,9 +4349,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025041004",
-    "last_updated": "2025-04-10T04:19:01.56Z",
+    "latest_version": "0.109.2025041110",
+    "last_updated": "2025-04-11T10:33:15.25Z",
     "version_history": [
+      {
+        "version": "0.109.2025041110",
+        "lastUpdated": "2025-04-11T10:33:15.25Z"
+      },
       {
         "version": "0.109.2025041004",
         "lastUpdated": "2025-04-10T04:19:01.56Z"
@@ -4427,15 +4431,11 @@
       {
         "version": "0.107.2025030515",
         "lastUpdated": "2025-03-05T15:24:09.97Z"
-      },
-      {
-        "version": "0.106.0",
-        "lastUpdated": "2025-03-05T20:27:24.75Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041110/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -9054,13 +9054,9 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250411001",
-    "last_updated": "2025-04-11T02:54:29.45Z",
+    "latest_version": "0.13.250410001",
+    "last_updated": "2025-04-10T02:54:43.16Z",
     "version_history": [
-      {
-        "version": "0.13.250411001",
-        "lastUpdated": "2025-04-11T02:54:29.45Z"
-      },
       {
         "version": "0.13.250410001",
         "lastUpdated": "2025-04-10T02:54:43.16Z"
@@ -9136,11 +9132,15 @@
       {
         "version": "0.13.250319001",
         "lastUpdated": "2025-03-19T02:53:47.653Z"
+      },
+      {
+        "version": "0.13.250318001",
+        "lastUpdated": "2025-03-18T02:48:32.007Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250411001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250410001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
