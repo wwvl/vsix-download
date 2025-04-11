@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17151",
-    "last_updated": "2025-04-09T13:13:53.137Z",
+    "latest_version": "1.57.17158",
+    "last_updated": "2025-04-11T12:56:57.72Z",
     "version_history": [
+      {
+        "version": "1.57.17158",
+        "lastUpdated": "2025-04-11T12:56:57.72Z"
+      },
       {
         "version": "1.57.17151",
         "lastUpdated": "2025-04-09T13:13:53.137Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16797",
         "lastUpdated": "2025-02-01T21:10:11.29Z"
-      },
-      {
-        "version": "1.55.16778",
-        "lastUpdated": "2025-01-27T17:40:23.33Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17151/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17158/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.301.0",
-    "last_updated": "2025-04-10T23:55:16.78Z",
+    "latest_version": "1.302.1505",
+    "last_updated": "2025-04-11T16:20:45.087Z",
     "version_history": [
+      {
+        "version": "1.302.1505",
+        "lastUpdated": "2025-04-11T16:20:45.087Z"
+      },
       {
         "version": "1.301.0",
         "lastUpdated": "2025-04-10T23:55:16.78Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.295.1482",
         "lastUpdated": "2025-04-03T01:47:40.277Z"
-      },
-      {
-        "version": "1.295.0",
-        "lastUpdated": "2025-04-02T17:04:04.927Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.301.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.302.1505/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -4349,9 +4349,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025041110",
-    "last_updated": "2025-04-11T10:33:15.25Z",
+    "latest_version": "0.109.2025041114",
+    "last_updated": "2025-04-11T14:18:45.243Z",
     "version_history": [
+      {
+        "version": "0.109.2025041114",
+        "lastUpdated": "2025-04-11T14:18:45.243Z"
+      },
       {
         "version": "0.109.2025041110",
         "lastUpdated": "2025-04-11T10:33:15.25Z"
@@ -4427,15 +4431,11 @@
       {
         "version": "0.107.2025030604",
         "lastUpdated": "2025-03-06T04:22:31.02Z"
-      },
-      {
-        "version": "0.107.2025030515",
-        "lastUpdated": "2025-03-05T15:24:09.97Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041110/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041114/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -9054,9 +9054,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250410001",
-    "last_updated": "2025-04-10T02:54:43.16Z",
+    "latest_version": "0.13.250411001",
+    "last_updated": "2025-04-11T02:54:29.45Z",
     "version_history": [
+      {
+        "version": "0.13.250411001",
+        "lastUpdated": "2025-04-11T02:54:29.45Z"
+      },
       {
         "version": "0.13.250410001",
         "lastUpdated": "2025-04-10T02:54:43.16Z"
@@ -9132,15 +9136,11 @@
       {
         "version": "0.13.250319001",
         "lastUpdated": "2025-03-19T02:53:47.653Z"
-      },
-      {
-        "version": "0.13.250318001",
-        "lastUpdated": "2025-03-18T02:48:32.007Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250410001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250411001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
