@@ -3924,9 +3924,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.300.1498",
-    "last_updated": "2025-04-10T16:21:41.35Z",
+    "latest_version": "1.301.0",
+    "last_updated": "2025-04-10T23:55:16.78Z",
     "version_history": [
+      {
+        "version": "1.301.0",
+        "lastUpdated": "2025-04-10T23:55:16.78Z"
+      },
+      {
+        "version": "1.300.1499",
+        "lastUpdated": "2025-04-10T21:28:29.31Z"
+      },
       {
         "version": "1.300.1498",
         "lastUpdated": "2025-04-10T16:21:41.35Z"
@@ -3998,14 +4006,6 @@
       {
         "version": "1.295.0",
         "lastUpdated": "2025-04-02T17:04:04.927Z"
-      },
-      {
-        "version": "1.294.1480",
-        "lastUpdated": "2025-04-02T14:58:43.49Z"
-      },
-      {
-        "version": "1.294.1479",
-        "lastUpdated": "2025-04-02T01:46:31.063Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.300.1498/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.301.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11016,9 +11016,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2374",
-    "last_updated": "2025-04-10T10:08:15.72Z",
+    "latest_version": "0.4.2375",
+    "last_updated": "2025-04-11T00:46:20.04Z",
     "version_history": [
+      {
+        "version": "0.4.2375",
+        "lastUpdated": "2025-04-11T00:46:20.04Z"
+      },
       {
         "version": "0.4.2374",
         "lastUpdated": "2025-04-10T10:08:15.72Z"
@@ -11094,15 +11098,11 @@
       {
         "version": "0.4.2354",
         "lastUpdated": "2025-03-24T09:09:33.48Z"
-      },
-      {
-        "version": "0.4.2352",
-        "lastUpdated": "2025-03-24T00:44:00.49Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2374/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2375/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11677,9 +11677,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory (Cursor Extension)",
     "short_description": "(Cursor Extension) Capture, search and learn from every AI coding journey",
-    "latest_version": "0.9.1",
-    "last_updated": "2025-03-14T13:33:40.613Z",
+    "latest_version": "0.10.0",
+    "last_updated": "2025-04-10T22:19:47.07Z",
     "version_history": [
+      {
+        "version": "0.10.0",
+        "lastUpdated": "2025-04-10T22:19:47.07Z"
+      },
       {
         "version": "0.9.1",
         "lastUpdated": "2025-03-14T13:33:40.613Z"
@@ -11755,15 +11759,11 @@
       {
         "version": "0.2.4",
         "lastUpdated": "2024-12-31T22:43:01.48Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2024-12-18T22:04:41.04Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.9.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
