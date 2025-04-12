@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.1105",
-    "last_updated": "2025-04-11T09:13:11.67Z",
+    "latest_version": "2025.4.1205",
+    "last_updated": "2025-04-12T09:14:10.887Z",
     "version_history": [
+      {
+        "version": "2025.4.1205",
+        "lastUpdated": "2025-04-12T09:14:10.887Z"
+      },
       {
         "version": "2025.4.1105",
         "lastUpdated": "2025-04-11T09:13:11.67Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.2505",
         "lastUpdated": "2025-03-25T09:13:38.883Z"
-      },
-      {
-        "version": "2025.3.1605",
-        "lastUpdated": "2025-03-16T09:12:37.187Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3826,99 +3826,6 @@
     "tags": ["markdown", "markmap", "mindmap"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gera2ld/vsextensions/markmap-vscode/0.2.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode"
-  },
-  {
-    "extension_name": "GitHub.codespaces",
-    "display_name": "GitHub Codespaces",
-    "short_description": "Your instant dev environment",
-    "latest_version": "1.17.3",
-    "last_updated": "2024-09-11T15:02:06.743Z",
-    "version_history": [
-      {
-        "version": "1.17.3",
-        "lastUpdated": "2024-09-11T15:02:06.743Z"
-      },
-      {
-        "version": "1.17.2",
-        "lastUpdated": "2024-07-18T18:27:15.727Z"
-      },
-      {
-        "version": "1.17.1",
-        "lastUpdated": "2024-07-03T16:10:59.197Z"
-      },
-      {
-        "version": "1.16.23",
-        "lastUpdated": "2024-06-12T18:22:54.13Z"
-      },
-      {
-        "version": "1.16.22",
-        "lastUpdated": "2024-05-06T23:57:30.41Z"
-      },
-      {
-        "version": "1.16.21",
-        "lastUpdated": "2024-05-06T18:16:32.627Z"
-      },
-      {
-        "version": "1.16.20",
-        "lastUpdated": "2024-04-29T16:57:48.773Z"
-      },
-      {
-        "version": "1.16.19",
-        "lastUpdated": "2024-04-09T17:52:49.61Z"
-      },
-      {
-        "version": "1.16.18",
-        "lastUpdated": "2024-04-01T19:53:12.867Z"
-      },
-      {
-        "version": "1.16.17",
-        "lastUpdated": "2024-03-20T19:39:19.14Z"
-      },
-      {
-        "version": "1.16.16",
-        "lastUpdated": "2024-03-19T20:03:51.523Z"
-      },
-      {
-        "version": "1.16.15",
-        "lastUpdated": "2024-03-19T17:55:40.987Z"
-      },
-      {
-        "version": "1.16.14",
-        "lastUpdated": "2024-03-14T18:51:18.507Z"
-      },
-      {
-        "version": "1.16.13",
-        "lastUpdated": "2024-03-05T16:28:19.163Z"
-      },
-      {
-        "version": "1.16.12",
-        "lastUpdated": "2024-03-04T20:19:50.833Z"
-      },
-      {
-        "version": "1.16.11",
-        "lastUpdated": "2024-02-28T20:10:03.04Z"
-      },
-      {
-        "version": "1.16.10",
-        "lastUpdated": "2024-02-06T21:17:05.23Z"
-      },
-      {
-        "version": "1.16.9",
-        "lastUpdated": "2024-01-26T19:10:39.48Z"
-      },
-      {
-        "version": "1.16.8",
-        "lastUpdated": "2024-01-24T17:48:16.39Z"
-      },
-      {
-        "version": "1.16.7",
-        "lastUpdated": "2024-01-22T17:30:42.883Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["continueOn", "json", "jsonc", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.3/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
   },
   {
     "extension_name": "GitHub.copilot",
@@ -11317,9 +11224,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.11.1",
-    "last_updated": "2025-04-10T16:33:49.953Z",
+    "latest_version": "3.12.0",
+    "last_updated": "2025-04-12T08:00:06.5Z",
     "version_history": [
+      {
+        "version": "3.12.0",
+        "lastUpdated": "2025-04-12T08:00:06.5Z"
+      },
       {
         "version": "3.11.1",
         "lastUpdated": "2025-04-10T16:33:49.953Z"
@@ -11395,15 +11306,11 @@
       {
         "version": "3.6.8",
         "lastUpdated": "2025-03-10T01:02:57.25Z"
-      },
-      {
-        "version": "3.6.7",
-        "lastUpdated": "2025-03-09T08:29:02.1Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.11.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
