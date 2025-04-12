@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041101",
-    "last_updated": "2025-04-11T04:27:06.077Z",
+    "latest_version": "0.27.2025041102",
+    "last_updated": "2025-04-11T19:30:40.567Z",
     "version_history": [
+      {
+        "version": "0.27.2025041102",
+        "lastUpdated": "2025-04-11T19:30:40.567Z"
+      },
       {
         "version": "0.27.2025041101",
         "lastUpdated": "2025-04-11T04:27:06.077Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025032702",
         "lastUpdated": "2025-03-27T04:31:14.457Z"
-      },
-      {
-        "version": "0.26.2025032604",
-        "lastUpdated": "2025-03-26T08:14:11.733Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8496,9 +8496,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.4.817",
-    "last_updated": "2025-04-09T00:18:16.337Z",
+    "latest_version": "2025.4.1117",
+    "last_updated": "2025-04-12T00:13:09.47Z",
     "version_history": [
+      {
+        "version": "2025.4.1117",
+        "lastUpdated": "2025-04-12T00:13:09.47Z"
+      },
       {
         "version": "2025.4.817",
         "lastUpdated": "2025-04-09T00:18:16.337Z"
@@ -8574,15 +8578,11 @@
       {
         "version": "2024.10.2317",
         "lastUpdated": "2024-10-24T00:17:45.02Z"
-      },
-      {
-        "version": "2024.10.2117",
-        "lastUpdated": "2024-10-22T00:16:16.6Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.4.817/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.4.1117/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11016,9 +11016,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2375",
-    "last_updated": "2025-04-11T00:46:20.04Z",
+    "latest_version": "0.4.2376",
+    "last_updated": "2025-04-12T00:46:01.49Z",
     "version_history": [
+      {
+        "version": "0.4.2376",
+        "lastUpdated": "2025-04-12T00:46:01.49Z"
+      },
       {
         "version": "0.4.2375",
         "lastUpdated": "2025-04-11T00:46:20.04Z"
@@ -11094,15 +11098,11 @@
       {
         "version": "0.4.2355",
         "lastUpdated": "2025-03-25T00:44:15.2Z"
-      },
-      {
-        "version": "0.4.2354",
-        "lastUpdated": "2025-03-24T09:09:33.48Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2375/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2376/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13127,9 +13127,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025041000",
-    "last_updated": "2025-04-10T00:56:14.32Z",
+    "latest_version": "1.62.2025041200",
+    "last_updated": "2025-04-12T01:00:12.783Z",
     "version_history": [
+      {
+        "version": "1.62.2025041200",
+        "lastUpdated": "2025-04-12T01:00:12.783Z"
+      },
       {
         "version": "1.62.2025041000",
         "lastUpdated": "2025-04-10T00:56:14.32Z"
@@ -13205,10 +13209,6 @@
       {
         "version": "1.61.2025030400",
         "lastUpdated": "2025-03-04T01:05:29.673Z"
-      },
-      {
-        "version": "1.61.2025030309",
-        "lastUpdated": "2025-03-03T10:49:19.823Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13227,7 +13227,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041000/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041200/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
