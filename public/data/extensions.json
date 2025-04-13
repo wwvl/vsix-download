@@ -11016,9 +11016,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2376",
-    "last_updated": "2025-04-12T00:46:01.49Z",
+    "latest_version": "0.4.2377",
+    "last_updated": "2025-04-13T01:08:55.03Z",
     "version_history": [
+      {
+        "version": "0.4.2377",
+        "lastUpdated": "2025-04-13T01:08:55.03Z"
+      },
       {
         "version": "0.4.2376",
         "lastUpdated": "2025-04-12T00:46:01.49Z"
@@ -11094,15 +11098,11 @@
       {
         "version": "0.4.2356",
         "lastUpdated": "2025-03-26T00:44:09.33Z"
-      },
-      {
-        "version": "0.4.2355",
-        "lastUpdated": "2025-03-25T00:44:15.2Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2376/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2377/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
