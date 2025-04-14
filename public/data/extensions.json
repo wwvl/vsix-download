@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.302.1506",
-    "last_updated": "2025-04-14T01:49:49.06Z",
+    "latest_version": "1.302.1507",
+    "last_updated": "2025-04-14T16:20:03.743Z",
     "version_history": [
+      {
+        "version": "1.302.1507",
+        "lastUpdated": "2025-04-14T16:20:03.743Z"
+      },
       {
         "version": "1.302.1506",
         "lastUpdated": "2025-04-14T01:49:49.06Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.296.0",
         "lastUpdated": "2025-04-03T14:05:50.59Z"
-      },
-      {
-        "version": "1.295.1483",
-        "lastUpdated": "2025-04-03T09:05:56.767Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.302.1506/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.302.1507/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11317,9 +11317,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.12.1",
-    "last_updated": "2025-04-13T07:08:32.707Z",
+    "latest_version": "3.12.2",
+    "last_updated": "2025-04-14T18:09:58.937Z",
     "version_history": [
+      {
+        "version": "3.12.2",
+        "lastUpdated": "2025-04-14T18:09:58.937Z"
+      },
       {
         "version": "3.12.1",
         "lastUpdated": "2025-04-13T07:08:32.707Z"
@@ -11395,15 +11399,11 @@
       {
         "version": "3.6.10",
         "lastUpdated": "2025-03-10T02:24:34.31Z"
-      },
-      {
-        "version": "3.6.9",
-        "lastUpdated": "2025-03-10T01:54:39.567Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.12.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.12.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
