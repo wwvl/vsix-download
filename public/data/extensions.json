@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.1405",
-    "last_updated": "2025-04-14T09:17:09.217Z",
+    "latest_version": "2025.4.1505",
+    "last_updated": "2025-04-15T09:14:51.103Z",
     "version_history": [
+      {
+        "version": "2025.4.1505",
+        "lastUpdated": "2025-04-15T09:14:51.103Z"
+      },
       {
         "version": "2025.4.1405",
         "lastUpdated": "2025-04-14T09:17:09.217Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.2705",
         "lastUpdated": "2025-03-27T09:14:04.713Z"
-      },
-      {
-        "version": "2025.3.2605",
-        "lastUpdated": "2025-03-26T09:12:59.547Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1505/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041501",
-    "last_updated": "2025-04-15T04:32:40.69Z",
+    "latest_version": "0.27.2025041502",
+    "last_updated": "2025-04-15T10:10:05.807Z",
     "version_history": [
+      {
+        "version": "0.27.2025041502",
+        "lastUpdated": "2025-04-15T10:10:05.807Z"
+      },
       {
         "version": "0.27.2025041501",
         "lastUpdated": "2025-04-15T04:32:40.69Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025032803",
         "lastUpdated": "2025-03-28T02:41:23.84Z"
-      },
-      {
-        "version": "0.26.2025032801",
-        "lastUpdated": "2025-03-28T00:43:14.7Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6175,11 +6175,15 @@
   },
   {
     "extension_name": "MarsCode.marscode-extension",
-    "display_name": "MarsCode AI: Coding Assistant",
+    "display_name": "Trae AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.92",
-    "last_updated": "2025-04-14T09:58:31.43Z",
+    "latest_version": "1.1.99",
+    "last_updated": "2025-04-15T11:03:58.197Z",
     "version_history": [
+      {
+        "version": "1.1.99",
+        "lastUpdated": "2025-04-15T11:03:58.197Z"
+      },
       {
         "version": "1.1.92",
         "lastUpdated": "2025-04-14T09:58:31.43Z"
@@ -6255,10 +6259,6 @@
       {
         "version": "1.1.72",
         "lastUpdated": "2025-03-13T08:51:03.333Z"
-      },
-      {
-        "version": "1.1.71",
-        "lastUpdated": "2025-03-12T04:34:07.317Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6288,10 +6288,11 @@
       "refactor",
       "ruby",
       "snippets",
+      "trae",
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.92/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.99/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -7527,9 +7528,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.5.2025041401",
-    "last_updated": "2025-04-14T18:52:57.773Z",
+    "latest_version": "2025.5.2025041501",
+    "last_updated": "2025-04-15T10:50:18.623Z",
     "version_history": [
+      {
+        "version": "2025.5.2025041501",
+        "lastUpdated": "2025-04-15T10:50:18.623Z"
+      },
       {
         "version": "2025.5.2025041401",
         "lastUpdated": "2025-04-14T18:52:57.773Z"
@@ -7605,10 +7610,6 @@
       {
         "version": "2025.1.2025021001",
         "lastUpdated": "2025-02-10T10:49:15.13Z"
-      },
-      {
-        "version": "2025.1.2025020701",
-        "lastUpdated": "2025-02-07T10:55:46.933Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7629,7 +7630,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -8868,9 +8869,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025010809",
-    "last_updated": "2025-01-08T09:36:40.493Z",
+    "latest_version": "1.6.2025041509",
+    "last_updated": "2025-04-15T09:26:41.37Z",
     "version_history": [
+      {
+        "version": "1.6.2025041509",
+        "lastUpdated": "2025-04-15T09:26:41.37Z"
+      },
       {
         "version": "1.6.2025010809",
         "lastUpdated": "2025-01-08T09:36:40.493Z"
@@ -8946,15 +8951,11 @@
       {
         "version": "1.6.2024041609",
         "lastUpdated": "2024-04-16T09:23:35.29Z"
-      },
-      {
-        "version": "1.6.2024041608",
-        "lastUpdated": "2024-04-16T09:07:42.953Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025010809/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025041509/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
