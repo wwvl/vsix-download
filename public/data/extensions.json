@@ -3041,99 +3041,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
-    "extension_name": "EditorConfig.EditorConfig",
-    "display_name": "EditorConfig for VS Code",
-    "short_description": "EditorConfig Support for Visual Studio Code",
-    "latest_version": "0.17.2",
-    "last_updated": "2025-03-10T19:08:46.573Z",
-    "version_history": [
-      {
-        "version": "0.17.2",
-        "lastUpdated": "2025-03-10T19:08:46.573Z"
-      },
-      {
-        "version": "0.17.1",
-        "lastUpdated": "2025-02-20T13:57:35.147Z"
-      },
-      {
-        "version": "0.17.0",
-        "lastUpdated": "2025-02-11T14:59:20.11Z"
-      },
-      {
-        "version": "0.16.7",
-        "lastUpdated": "2025-02-06T17:13:03.743Z"
-      },
-      {
-        "version": "0.16.4",
-        "lastUpdated": "2020-12-07T04:39:32.08Z"
-      },
-      {
-        "version": "0.16.3",
-        "lastUpdated": "2020-11-25T18:09:55.977Z"
-      },
-      {
-        "version": "0.16.2",
-        "lastUpdated": "2020-11-25T17:50:39.93Z"
-      },
-      {
-        "version": "0.16.1",
-        "lastUpdated": "2020-11-25T01:13:50.86Z"
-      },
-      {
-        "version": "0.16.0",
-        "lastUpdated": "2020-11-25T00:46:32.38Z"
-      },
-      {
-        "version": "0.15.5",
-        "lastUpdated": "2020-11-24T20:37:50.72Z"
-      },
-      {
-        "version": "0.15.4",
-        "lastUpdated": "2020-11-24T19:40:55.28Z"
-      },
-      {
-        "version": "0.15.3",
-        "lastUpdated": "2020-11-24T19:02:49.367Z"
-      },
-      {
-        "version": "0.15.2",
-        "lastUpdated": "2020-11-24T17:45:38.77Z"
-      },
-      {
-        "version": "0.15.1",
-        "lastUpdated": "2020-05-25T01:49:28.83Z"
-      },
-      {
-        "version": "0.15.0",
-        "lastUpdated": "2020-05-22T13:00:48.107Z"
-      },
-      {
-        "version": "0.14.5",
-        "lastUpdated": "2020-04-08T01:09:22.32Z"
-      },
-      {
-        "version": "0.14.4",
-        "lastUpdated": "2019-12-18T21:31:40.79Z"
-      },
-      {
-        "version": "0.14.3",
-        "lastUpdated": "2019-12-13T07:46:32.09Z"
-      },
-      {
-        "version": "0.14.2",
-        "lastUpdated": "2019-10-13T06:29:04.127Z"
-      },
-      {
-        "version": "0.14.1",
-        "lastUpdated": "2019-10-10T07:09:52.263Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["config", "editor", "editorconfig", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.2/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
-  },
-  {
     "extension_name": "Equinusocio.vsc-material-theme-icons",
     "display_name": "Material Theme Icons — Free",
     "short_description": "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.",
@@ -7527,9 +7434,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.5.2025041001",
-    "last_updated": "2025-04-10T10:44:40.887Z",
+    "latest_version": "2025.5.2025041401",
+    "last_updated": "2025-04-14T18:52:57.773Z",
     "version_history": [
+      {
+        "version": "2025.5.2025041401",
+        "lastUpdated": "2025-04-14T18:52:57.773Z"
+      },
       {
         "version": "2025.5.2025041001",
         "lastUpdated": "2025-04-10T10:44:40.887Z"
@@ -7605,10 +7516,6 @@
       {
         "version": "2025.1.2025020701",
         "lastUpdated": "2025-02-07T10:55:46.933Z"
-      },
-      {
-        "version": "2025.0.0",
-        "lastUpdated": "2025-02-06T21:13:11.643Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7629,7 +7536,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -10269,99 +10176,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
-    "extension_name": "Prisma.prisma",
-    "display_name": "Prisma",
-    "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.6.0",
-    "last_updated": "2025-04-08T17:20:41.933Z",
-    "version_history": [
-      {
-        "version": "6.6.0",
-        "lastUpdated": "2025-04-08T17:20:41.933Z"
-      },
-      {
-        "version": "6.5.0",
-        "lastUpdated": "2025-03-11T14:56:07.117Z"
-      },
-      {
-        "version": "6.4.1",
-        "lastUpdated": "2025-02-20T19:22:14.853Z"
-      },
-      {
-        "version": "6.4.0",
-        "lastUpdated": "2025-02-18T18:48:14.92Z"
-      },
-      {
-        "version": "6.3.1",
-        "lastUpdated": "2025-02-04T11:21:48.69Z"
-      },
-      {
-        "version": "6.3.0",
-        "lastUpdated": "2025-01-28T16:43:26.08Z"
-      },
-      {
-        "version": "6.2.1",
-        "lastUpdated": "2025-01-08T18:04:25.84Z"
-      },
-      {
-        "version": "6.2.0",
-        "lastUpdated": "2025-01-08T12:49:33.02Z"
-      },
-      {
-        "version": "6.1.0",
-        "lastUpdated": "2024-12-17T18:16:27.727Z"
-      },
-      {
-        "version": "6.0.0",
-        "lastUpdated": "2024-11-29T12:43:02.817Z"
-      },
-      {
-        "version": "5.22.0",
-        "lastUpdated": "2024-11-05T15:55:16.75Z"
-      },
-      {
-        "version": "5.21.1",
-        "lastUpdated": "2024-10-17T17:14:47.833Z"
-      },
-      {
-        "version": "5.21.0",
-        "lastUpdated": "2024-10-15T15:05:38.533Z"
-      },
-      {
-        "version": "5.20.0",
-        "lastUpdated": "2024-09-24T15:10:28.467Z"
-      },
-      {
-        "version": "5.19.1",
-        "lastUpdated": "2024-09-02T15:08:03.82Z"
-      },
-      {
-        "version": "5.19.0",
-        "lastUpdated": "2024-08-27T14:47:36.04Z"
-      },
-      {
-        "version": "5.18.0",
-        "lastUpdated": "2024-08-06T14:37:08.167Z"
-      },
-      {
-        "version": "5.17.0",
-        "lastUpdated": "2024-07-16T13:39:39.643Z"
-      },
-      {
-        "version": "5.16.1",
-        "lastUpdated": "2024-06-27T13:11:33.927Z"
-      },
-      {
-        "version": "5.16.0",
-        "lastUpdated": "2024-06-25T14:12:25.97Z"
-      }
-    ],
-    "categories": ["Programming Languages"],
-    "tags": ["javascript", "javascriptreact", "linters", "prisma", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.6.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
-  },
-  {
     "extension_name": "puppet.puppet-vscode",
     "display_name": "Puppet",
     "short_description": "Official Puppet VSCode extension. Provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more",
@@ -11016,9 +10830,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2378",
-    "last_updated": "2025-04-14T00:49:46.137Z",
+    "latest_version": "0.4.2396",
+    "last_updated": "2025-04-15T00:46:56.51Z",
     "version_history": [
+      {
+        "version": "0.4.2396",
+        "lastUpdated": "2025-04-15T00:46:56.51Z"
+      },
       {
         "version": "0.4.2378",
         "lastUpdated": "2025-04-14T00:49:46.137Z"
@@ -11094,15 +10912,11 @@
       {
         "version": "0.4.2358",
         "lastUpdated": "2025-03-28T00:45:04.057Z"
-      },
-      {
-        "version": "0.4.2357",
-        "lastUpdated": "2025-03-27T00:42:52.897Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2378/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2396/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13127,9 +12941,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025041200",
-    "last_updated": "2025-04-12T01:00:12.783Z",
+    "latest_version": "1.62.2025041500",
+    "last_updated": "2025-04-15T01:16:52.353Z",
     "version_history": [
+      {
+        "version": "1.62.2025041500",
+        "lastUpdated": "2025-04-15T01:16:52.353Z"
+      },
       {
         "version": "1.62.2025041200",
         "lastUpdated": "2025-04-12T01:00:12.783Z"
@@ -13205,10 +13023,6 @@
       {
         "version": "1.61.2025030513",
         "lastUpdated": "2025-03-05T13:51:09.033Z"
-      },
-      {
-        "version": "1.61.2025030400",
-        "lastUpdated": "2025-03-04T01:05:29.673Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13227,7 +13041,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041200/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -14714,9 +14528,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.426",
-    "last_updated": "2025-04-09T04:48:46.623Z",
+    "latest_version": "1.0.427",
+    "last_updated": "2025-04-15T00:37:03.22Z",
     "version_history": [
+      {
+        "version": "1.0.427",
+        "lastUpdated": "2025-04-15T00:37:03.22Z"
+      },
       {
         "version": "1.0.426",
         "lastUpdated": "2025-04-09T04:48:46.623Z"
@@ -14792,15 +14610,11 @@
       {
         "version": "1.0.404",
         "lastUpdated": "2025-03-13T05:07:01.217Z"
-      },
-      {
-        "version": "1.0.403",
-        "lastUpdated": "2025-03-12T06:25:44.113Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.426/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.427/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
