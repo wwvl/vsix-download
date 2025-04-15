@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041502",
-    "last_updated": "2025-04-15T10:10:05.807Z",
+    "latest_version": "0.27.2025041503",
+    "last_updated": "2025-04-15T17:21:41.097Z",
     "version_history": [
+      {
+        "version": "0.27.2025041503",
+        "lastUpdated": "2025-04-15T17:21:41.097Z"
+      },
       {
         "version": "0.27.2025041502",
         "lastUpdated": "2025-04-15T10:10:05.807Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025032805",
         "lastUpdated": "2025-03-28T21:47:29.103Z"
-      },
-      {
-        "version": "0.26.2025032803",
-        "lastUpdated": "2025-03-28T02:41:23.84Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041503/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4442,9 +4442,13 @@
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.47.1",
-    "last_updated": "2025-03-04T19:12:04.953Z",
+    "latest_version": "0.47.2",
+    "last_updated": "2025-04-15T15:01:25.897Z",
     "version_history": [
+      {
+        "version": "0.47.2",
+        "lastUpdated": "2025-04-15T15:01:25.897Z"
+      },
       {
         "version": "0.47.1",
         "lastUpdated": "2025-03-04T19:12:04.953Z"
@@ -4520,15 +4524,11 @@
       {
         "version": "0.41.1",
         "lastUpdated": "2024-02-22T15:42:01.783Z"
-      },
-      {
-        "version": "0.41.0",
-        "lastUpdated": "2024-02-14T18:35:06.453Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.47.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.47.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -9613,9 +9613,13 @@
     "extension_name": "Nuxt.mdc",
     "display_name": "MDC - Markdown Components",
     "short_description": "Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.",
-    "latest_version": "0.2.4",
-    "last_updated": "2025-03-06T14:20:06.79Z",
+    "latest_version": "0.3.0",
+    "last_updated": "2025-04-15T15:14:28.057Z",
     "version_history": [
+      {
+        "version": "0.3.0",
+        "lastUpdated": "2025-04-15T15:14:28.057Z"
+      },
       {
         "version": "0.2.4",
         "lastUpdated": "2025-03-06T14:20:06.79Z"
@@ -9643,7 +9647,7 @@
     ],
     "categories": ["Programming Languages", "Snippets", "Formatters"],
     "tags": ["keybindings", "Markdown Components", "mdc", "Nuxt Content", "Nuxt Markdown Components", "Nuxt MDC", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.2.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc"
   },
   {
@@ -11017,9 +11021,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2396",
-    "last_updated": "2025-04-15T00:46:56.51Z",
+    "latest_version": "0.4.2409",
+    "last_updated": "2025-04-15T14:43:21.023Z",
     "version_history": [
+      {
+        "version": "0.4.2409",
+        "lastUpdated": "2025-04-15T14:43:21.023Z"
+      },
       {
         "version": "0.4.2396",
         "lastUpdated": "2025-04-15T00:46:56.51Z"
@@ -11095,15 +11103,11 @@
       {
         "version": "0.4.2359",
         "lastUpdated": "2025-03-29T00:44:13.29Z"
-      },
-      {
-        "version": "0.4.2358",
-        "lastUpdated": "2025-03-28T00:45:04.057Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2396/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2409/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
