@@ -403,9 +403,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.21.3",
-    "last_updated": "2025-03-04T07:33:46.85Z",
+    "latest_version": "2.22.0",
+    "last_updated": "2025-04-16T04:30:05.32Z",
     "version_history": [
+      {
+        "version": "2.22.0",
+        "lastUpdated": "2025-04-16T04:30:05.32Z"
+      },
       {
         "version": "2.21.3",
         "lastUpdated": "2025-03-04T07:33:46.85Z"
@@ -481,10 +485,6 @@
       {
         "version": "2.16.0",
         "lastUpdated": "2024-09-05T11:38:21.583Z"
-      },
-      {
-        "version": "2.15.1724395434",
-        "lastUpdated": "2024-08-23T06:51:01.233Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -512,7 +512,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.21.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.302.1508",
-    "last_updated": "2025-04-15T01:48:05.247Z",
+    "latest_version": "1.302.1510",
+    "last_updated": "2025-04-16T01:47:52.08Z",
     "version_history": [
+      {
+        "version": "1.302.1510",
+        "lastUpdated": "2025-04-16T01:47:52.08Z"
+      },
       {
         "version": "1.302.1508",
         "lastUpdated": "2025-04-15T01:48:05.247Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.296.1485",
         "lastUpdated": "2025-04-04T01:46:33.123Z"
-      },
-      {
-        "version": "1.296.1484",
-        "lastUpdated": "2025-04-03T17:07:14.65Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,16 +4034,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.302.1508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.302.1510/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041504",
-    "last_updated": "2025-04-15T19:14:56.597Z",
+    "latest_version": "0.27.2025041601",
+    "last_updated": "2025-04-16T04:29:10.83Z",
     "version_history": [
+      {
+        "version": "0.27.2025041601",
+        "lastUpdated": "2025-04-16T04:29:10.83Z"
+      },
       {
         "version": "0.27.2025041504",
         "lastUpdated": "2025-04-15T19:14:56.597Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025033103",
         "lastUpdated": "2025-03-31T23:22:32.13Z"
-      },
-      {
-        "version": "0.26.2025033102",
-        "lastUpdated": "2025-03-31T08:18:02.537Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4349,9 +4349,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025041504",
-    "last_updated": "2025-04-15T04:22:07.29Z",
+    "latest_version": "0.109.2025041604",
+    "last_updated": "2025-04-16T04:23:31.54Z",
     "version_history": [
+      {
+        "version": "0.109.2025041604",
+        "lastUpdated": "2025-04-16T04:23:31.54Z"
+      },
       {
         "version": "0.109.2025041504",
         "lastUpdated": "2025-04-15T04:22:07.29Z"
@@ -4427,15 +4431,11 @@
       {
         "version": "0.107.2025031304",
         "lastUpdated": "2025-03-13T04:19:55.657Z"
-      },
-      {
-        "version": "0.107.2025031204",
-        "lastUpdated": "2025-03-12T04:20:49.85Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -7731,11 +7731,11 @@
     "display_name": "Data Wrangler",
     "short_description": "Data viewing, cleaning and preparation for tabular datasets",
     "latest_version": "1.21.3",
-    "last_updated": "2025-04-15T21:44:11.37Z",
+    "last_updated": "2025-04-15T21:48:54.22Z",
     "version_history": [
       {
         "version": "1.21.3",
-        "lastUpdated": "2025-04-15T21:44:11.37Z"
+        "lastUpdated": "2025-04-15T21:48:54.22Z"
       },
       {
         "version": "1.21.2",
@@ -8311,9 +8311,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.14",
-    "last_updated": "2025-04-14T04:23:34.54Z",
+    "latest_version": "1.21.15",
+    "last_updated": "2025-04-16T04:24:54.447Z",
     "version_history": [
+      {
+        "version": "1.21.15",
+        "lastUpdated": "2025-04-16T04:24:54.447Z"
+      },
       {
         "version": "1.21.14",
         "lastUpdated": "2025-04-14T04:23:34.54Z"
@@ -8389,15 +8393,11 @@
       {
         "version": "1.20.50",
         "lastUpdated": "2025-02-12T04:22:14.87Z"
-      },
-      {
-        "version": "1.20.49",
-        "lastUpdated": "2025-02-11T18:38:08.603Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -9055,9 +9055,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250414001",
-    "last_updated": "2025-04-14T02:50:34.197Z",
+    "latest_version": "0.13.250416001",
+    "last_updated": "2025-04-16T02:53:14.82Z",
     "version_history": [
+      {
+        "version": "0.13.250416001",
+        "lastUpdated": "2025-04-16T02:53:14.82Z"
+      },
       {
         "version": "0.13.250414001",
         "lastUpdated": "2025-04-14T02:50:34.197Z"
@@ -9133,15 +9137,11 @@
       {
         "version": "0.13.250323001",
         "lastUpdated": "2025-03-23T02:53:45.087Z"
-      },
-      {
-        "version": "0.13.250322001",
-        "lastUpdated": "2025-03-22T02:53:43.543Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250414001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250416001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
