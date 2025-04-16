@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.1505",
-    "last_updated": "2025-04-15T09:14:51.103Z",
+    "latest_version": "2025.4.1605",
+    "last_updated": "2025-04-16T09:14:43.27Z",
     "version_history": [
+      {
+        "version": "2025.4.1605",
+        "lastUpdated": "2025-04-16T09:14:43.27Z"
+      },
       {
         "version": "2025.4.1505",
         "lastUpdated": "2025-04-15T09:14:51.103Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.2805",
         "lastUpdated": "2025-03-28T09:14:07.657Z"
-      },
-      {
-        "version": "2025.3.2705",
-        "lastUpdated": "2025-03-27T09:14:04.713Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1505/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6177,9 +6177,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.1.99",
-    "last_updated": "2025-04-15T11:03:58.197Z",
+    "latest_version": "1.2.0",
+    "last_updated": "2025-04-16T09:02:50.99Z",
     "version_history": [
+      {
+        "version": "1.2.0",
+        "lastUpdated": "2025-04-16T09:02:50.99Z"
+      },
       {
         "version": "1.1.99",
         "lastUpdated": "2025-04-15T11:03:58.197Z"
@@ -6255,10 +6259,6 @@
       {
         "version": "1.1.73",
         "lastUpdated": "2025-03-12T17:45:16.12Z"
-      },
-      {
-        "version": "1.1.72",
-        "lastUpdated": "2025-03-13T08:51:03.333Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6292,7 +6292,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.1.99/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -6725,9 +6725,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.99.2025040909",
-    "last_updated": "2025-04-09T09:24:05.29Z",
+    "latest_version": "1.99.2025041609",
+    "last_updated": "2025-04-16T09:23:57.85Z",
     "version_history": [
+      {
+        "version": "1.99.2025041609",
+        "lastUpdated": "2025-04-16T09:23:57.85Z"
+      },
       {
         "version": "1.99.2025040909",
         "lastUpdated": "2025-04-09T09:24:05.29Z"
@@ -6803,15 +6807,11 @@
       {
         "version": "1.96.2024121109",
         "lastUpdated": "2024-12-11T09:17:49.613Z"
-      },
-      {
-        "version": "1.96.2024120409",
-        "lastUpdated": "2024-12-04T09:19:56.49Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025040909/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.99.2025041609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -7528,9 +7528,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.5.2025041501",
-    "last_updated": "2025-04-15T10:50:18.623Z",
+    "latest_version": "2025.5.2025041601",
+    "last_updated": "2025-04-16T10:45:56.55Z",
     "version_history": [
+      {
+        "version": "2025.5.2025041601",
+        "lastUpdated": "2025-04-16T10:45:56.55Z"
+      },
       {
         "version": "2025.5.2025041501",
         "lastUpdated": "2025-04-15T10:50:18.623Z"
@@ -7606,10 +7610,6 @@
       {
         "version": "2025.1.2025021102",
         "lastUpdated": "2025-02-11T15:06:38.203Z"
-      },
-      {
-        "version": "2025.1.2025021001",
-        "lastUpdated": "2025-02-10T10:49:15.13Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7630,7 +7630,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
