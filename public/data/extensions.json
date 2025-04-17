@@ -403,9 +403,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.22.0",
-    "last_updated": "2025-04-16T04:30:05.32Z",
+    "latest_version": "2.22.1",
+    "last_updated": "2025-04-17T04:56:30.183Z",
     "version_history": [
+      {
+        "version": "2.22.1",
+        "lastUpdated": "2025-04-17T04:56:30.183Z"
+      },
       {
         "version": "2.22.0",
         "lastUpdated": "2025-04-16T04:30:05.32Z"
@@ -481,10 +485,6 @@
       {
         "version": "2.16.1",
         "lastUpdated": "2024-09-06T09:19:16.633Z"
-      },
-      {
-        "version": "2.16.0",
-        "lastUpdated": "2024-09-05T11:38:21.583Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -512,7 +512,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.23",
-    "last_updated": "2025-04-09T17:59:39.29Z",
+    "latest_version": "1.1.24",
+    "last_updated": "2025-04-17T05:13:31.893Z",
     "version_history": [
+      {
+        "version": "1.1.24",
+        "lastUpdated": "2025-04-17T05:13:31.893Z"
+      },
       {
         "version": "1.1.23",
         "lastUpdated": "2025-04-09T17:59:39.29Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "1.1.5",
         "lastUpdated": "2025-03-07T22:13:39.893Z"
-      },
-      {
-        "version": "1.1.4",
-        "lastUpdated": "2025-03-04T04:28:03.42Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.23/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.24/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041601",
-    "last_updated": "2025-04-16T04:29:10.83Z",
+    "latest_version": "0.27.2025041701",
+    "last_updated": "2025-04-17T04:30:54.197Z",
     "version_history": [
+      {
+        "version": "0.27.2025041701",
+        "lastUpdated": "2025-04-17T04:30:54.197Z"
+      },
       {
         "version": "0.27.2025041601",
         "lastUpdated": "2025-04-16T04:29:10.83Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.26.2025040102",
         "lastUpdated": "2025-04-01T14:37:16.067Z"
-      },
-      {
-        "version": "0.26.2025033103",
-        "lastUpdated": "2025-03-31T23:22:32.13Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4349,9 +4349,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025041604",
-    "last_updated": "2025-04-16T04:23:31.54Z",
+    "latest_version": "0.109.2025041704",
+    "last_updated": "2025-04-17T04:22:10.883Z",
     "version_history": [
+      {
+        "version": "0.109.2025041704",
+        "lastUpdated": "2025-04-17T04:22:10.883Z"
+      },
       {
         "version": "0.109.2025041604",
         "lastUpdated": "2025-04-16T04:23:31.54Z"
@@ -4427,15 +4431,11 @@
       {
         "version": "0.107.2025031704",
         "lastUpdated": "2025-03-17T04:22:43.26Z"
-      },
-      {
-        "version": "0.107.2025031304",
-        "lastUpdated": "2025-03-13T04:19:55.657Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025041704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8311,9 +8311,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.15",
-    "last_updated": "2025-04-16T04:24:54.447Z",
+    "latest_version": "1.21.16",
+    "last_updated": "2025-04-17T04:29:12.277Z",
     "version_history": [
+      {
+        "version": "1.21.16",
+        "lastUpdated": "2025-04-17T04:29:12.277Z"
+      },
       {
         "version": "1.21.15",
         "lastUpdated": "2025-04-16T04:24:54.447Z"
@@ -8389,15 +8393,11 @@
       {
         "version": "1.20.51",
         "lastUpdated": "2025-02-18T20:43:04.817Z"
-      },
-      {
-        "version": "1.20.50",
-        "lastUpdated": "2025-02-12T04:22:14.87Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -8683,9 +8683,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.13.2",
-    "last_updated": "2025-04-08T04:24:25.68Z",
+    "latest_version": "0.13.3",
+    "last_updated": "2025-04-17T04:23:34.087Z",
     "version_history": [
+      {
+        "version": "0.13.3",
+        "lastUpdated": "2025-04-17T04:23:34.087Z"
+      },
       {
         "version": "0.13.2",
         "lastUpdated": "2025-04-08T04:24:25.68Z"
@@ -8761,15 +8765,11 @@
       {
         "version": "0.12.2",
         "lastUpdated": "2024-09-23T04:21:43.54Z"
-      },
-      {
-        "version": "0.12.1",
-        "lastUpdated": "2024-09-19T19:39:08.727Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
@@ -10188,9 +10188,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.10.1",
-    "last_updated": "2025-04-02T11:30:36.7Z",
+    "latest_version": "1.11.2",
+    "last_updated": "2025-04-17T05:05:31.32Z",
     "version_history": [
+      {
+        "version": "1.11.2",
+        "lastUpdated": "2025-04-17T05:05:31.32Z"
+      },
       {
         "version": "1.10.1",
         "lastUpdated": "2025-04-02T11:30:36.7Z"
@@ -10266,15 +10270,11 @@
       {
         "version": "0.19.1",
         "lastUpdated": "2024-03-12T04:21:01.62Z"
-      },
-      {
-        "version": "0.18.0",
-        "lastUpdated": "2024-01-17T05:21:08.6Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.10.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.11.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -11779,9 +11779,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.45",
-    "last_updated": "2025-04-07T07:47:54.243Z",
+    "latest_version": "4.0.46",
+    "last_updated": "2025-04-17T05:19:59.783Z",
     "version_history": [
+      {
+        "version": "4.0.46",
+        "lastUpdated": "2025-04-17T05:19:59.783Z"
+      },
       {
         "version": "4.0.45",
         "lastUpdated": "2025-04-07T07:47:54.243Z"
@@ -11857,15 +11861,11 @@
       {
         "version": "4.0.27",
         "lastUpdated": "2024-12-22T09:53:32.74Z"
-      },
-      {
-        "version": "4.0.26",
-        "lastUpdated": "2024-12-18T12:00:05.117Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.45/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.46/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
