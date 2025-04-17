@@ -4041,9 +4041,17 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041701",
-    "last_updated": "2025-04-17T04:30:54.197Z",
+    "latest_version": "0.27.2025041703",
+    "last_updated": "2025-04-17T14:12:22.023Z",
     "version_history": [
+      {
+        "version": "0.27.2025041703",
+        "lastUpdated": "2025-04-17T14:12:22.023Z"
+      },
+      {
+        "version": "0.27.2025041702",
+        "lastUpdated": "2025-04-17T14:11:41.853Z"
+      },
       {
         "version": "0.27.2025041701",
         "lastUpdated": "2025-04-17T04:30:54.197Z"
@@ -4115,14 +4123,6 @@
       {
         "version": "0.26.2025040204",
         "lastUpdated": "2025-04-02T17:07:15.327Z"
-      },
-      {
-        "version": "0.26.2025040201",
-        "lastUpdated": "2025-04-02T00:25:34.41Z"
-      },
-      {
-        "version": "0.26.2025040102",
-        "lastUpdated": "2025-04-01T14:37:16.067Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041703/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5148,9 +5148,13 @@
     "extension_name": "haskell.haskell",
     "display_name": "Haskell",
     "short_description": "Haskell language support powered by the Haskell Language Server",
-    "latest_version": "2.5.3",
-    "last_updated": "2024-05-10T14:40:40.29Z",
+    "latest_version": "2.6.0",
+    "last_updated": "2025-04-17T12:44:21.51Z",
     "version_history": [
+      {
+        "version": "2.6.0",
+        "lastUpdated": "2025-04-17T12:44:21.51Z"
+      },
       {
         "version": "2.5.3",
         "lastUpdated": "2024-05-10T14:40:40.29Z"
@@ -5226,15 +5230,11 @@
       {
         "version": "2.0.1",
         "lastUpdated": "2022-04-27T09:02:09.543Z"
-      },
-      {
-        "version": "2.0.0",
-        "lastUpdated": "2022-04-05T14:05:31.327Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["cabal", "haskell", "language", "literate haskell", "lsp", "multi-root ready", "stack"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/haskell/vsextensions/haskell/2.5.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/haskell/vsextensions/haskell/2.6.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=haskell.haskell"
   },
   {
@@ -11516,9 +11516,13 @@
     "extension_name": "seunlanlege.action-buttons",
     "display_name": "VsCode Action Buttons",
     "short_description": "Add customizable buttons to the status bar to execute actions or tasks",
-    "latest_version": "1.2.2",
-    "last_updated": "2024-02-08T17:58:48.54Z",
+    "latest_version": "1.2.3",
+    "last_updated": "2025-04-17T13:01:27.24Z",
     "version_history": [
+      {
+        "version": "1.2.3",
+        "lastUpdated": "2025-04-17T13:01:27.24Z"
+      },
       {
         "version": "1.2.2",
         "lastUpdated": "2024-02-08T17:58:48.54Z"
@@ -11590,7 +11594,7 @@
     ],
     "categories": ["Other"],
     "tags": ["action", "buttons", "runner", "status bar", "task"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/seunlanlege/vsextensions/action-buttons/1.2.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/seunlanlege/vsextensions/action-buttons/1.2.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=seunlanlege.action-buttons"
   },
   {
