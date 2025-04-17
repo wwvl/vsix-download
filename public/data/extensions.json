@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17158",
-    "last_updated": "2025-04-11T12:56:57.72Z",
+    "latest_version": "1.57.17178",
+    "last_updated": "2025-04-16T21:41:59.643Z",
     "version_history": [
+      {
+        "version": "1.57.17178",
+        "lastUpdated": "2025-04-16T21:41:59.643Z"
+      },
       {
         "version": "1.57.17158",
         "lastUpdated": "2025-04-11T12:56:57.72Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16805",
         "lastUpdated": "2025-02-04T01:35:00.483Z"
-      },
-      {
-        "version": "1.55.16797",
-        "lastUpdated": "2025-02-01T21:10:11.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17158/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17178/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3924,9 +3924,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.302.1511",
-    "last_updated": "2025-04-16T16:23:25.06Z",
+    "latest_version": "1.303.0",
+    "last_updated": "2025-04-16T23:34:13.587Z",
     "version_history": [
+      {
+        "version": "1.303.0",
+        "lastUpdated": "2025-04-16T23:34:13.587Z"
+      },
+      {
+        "version": "1.302.1512",
+        "lastUpdated": "2025-04-16T21:02:33.37Z"
+      },
       {
         "version": "1.302.1511",
         "lastUpdated": "2025-04-16T16:23:25.06Z"
@@ -3998,14 +4006,6 @@
       {
         "version": "1.296.1488",
         "lastUpdated": "2025-04-07T11:40:02.93Z"
-      },
-      {
-        "version": "1.296.1487",
-        "lastUpdated": "2025-04-07T01:46:43.157Z"
-      },
-      {
-        "version": "1.296.1486",
-        "lastUpdated": "2025-04-04T16:20:42.753Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.302.1511/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.303.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11025,9 +11025,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2414",
-    "last_updated": "2025-04-16T01:00:10.973Z",
+    "latest_version": "0.4.2423",
+    "last_updated": "2025-04-17T00:59:00.51Z",
     "version_history": [
+      {
+        "version": "0.4.2423",
+        "lastUpdated": "2025-04-17T00:59:00.51Z"
+      },
       {
         "version": "0.4.2414",
         "lastUpdated": "2025-04-16T01:00:10.973Z"
@@ -11103,15 +11107,11 @@
       {
         "version": "0.4.2361",
         "lastUpdated": "2025-03-31T00:48:14.897Z"
-      },
-      {
-        "version": "0.4.2360",
-        "lastUpdated": "2025-03-30T00:47:33.957Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2414/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2423/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13136,9 +13136,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.62.2025041500",
-    "last_updated": "2025-04-15T01:16:52.353Z",
+    "latest_version": "1.62.2025041700",
+    "last_updated": "2025-04-17T01:01:25.827Z",
     "version_history": [
+      {
+        "version": "1.62.2025041700",
+        "lastUpdated": "2025-04-17T01:01:25.827Z"
+      },
       {
         "version": "1.62.2025041500",
         "lastUpdated": "2025-04-15T01:16:52.353Z"
@@ -13214,10 +13218,6 @@
       {
         "version": "1.61.2025030600",
         "lastUpdated": "2025-03-06T01:07:19.003Z"
-      },
-      {
-        "version": "1.61.2025030513",
-        "lastUpdated": "2025-03-05T13:51:09.033Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13236,7 +13236,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.62.2025041700/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -14723,9 +14723,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.428",
-    "last_updated": "2025-04-15T22:08:52.027Z",
+    "latest_version": "1.0.429",
+    "last_updated": "2025-04-16T22:55:48.69Z",
     "version_history": [
+      {
+        "version": "1.0.429",
+        "lastUpdated": "2025-04-16T22:55:48.69Z"
+      },
       {
         "version": "1.0.428",
         "lastUpdated": "2025-04-15T22:08:52.027Z"
@@ -14801,15 +14805,11 @@
       {
         "version": "1.0.406",
         "lastUpdated": "2025-03-17T07:19:10.05Z"
-      },
-      {
-        "version": "1.0.405",
-        "lastUpdated": "2025-03-15T22:09:17.803Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.428/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.429/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
