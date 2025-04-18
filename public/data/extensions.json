@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.1705",
-    "last_updated": "2025-04-17T09:14:47.903Z",
+    "latest_version": "2025.4.1805",
+    "last_updated": "2025-04-18T09:13:20.417Z",
     "version_history": [
+      {
+        "version": "2025.4.1805",
+        "lastUpdated": "2025-04-18T09:13:20.417Z"
+      },
       {
         "version": "2025.4.1705",
         "lastUpdated": "2025-04-17T09:14:47.903Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.3.2905",
         "lastUpdated": "2025-03-29T09:12:10.43Z"
-      },
-      {
-        "version": "2025.3.2814",
-        "lastUpdated": "2025-03-28T18:46:28.427Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.1805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7528,9 +7528,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.5.2025041601",
-    "last_updated": "2025-04-16T10:45:56.55Z",
+    "latest_version": "2025.5.2025041801",
+    "last_updated": "2025-04-18T10:45:27.277Z",
     "version_history": [
+      {
+        "version": "2025.5.2025041801",
+        "lastUpdated": "2025-04-18T10:45:27.277Z"
+      },
       {
         "version": "2025.5.2025041601",
         "lastUpdated": "2025-04-16T10:45:56.55Z"
@@ -7606,10 +7610,6 @@
       {
         "version": "2025.1.2025021701",
         "lastUpdated": "2025-02-17T10:44:58.007Z"
-      },
-      {
-        "version": "2025.1.2025021102",
-        "lastUpdated": "2025-02-11T15:06:38.203Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7630,7 +7630,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.5.2025041801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -11029,9 +11029,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2426",
-    "last_updated": "2025-04-18T00:58:46.53Z",
+    "latest_version": "0.4.2427",
+    "last_updated": "2025-04-18T10:58:18.097Z",
     "version_history": [
+      {
+        "version": "0.4.2427",
+        "lastUpdated": "2025-04-18T10:58:18.097Z"
+      },
       {
         "version": "0.4.2426",
         "lastUpdated": "2025-04-18T00:58:46.53Z"
@@ -11107,15 +11111,11 @@
       {
         "version": "0.4.2365",
         "lastUpdated": "2025-04-03T00:42:51.16Z"
-      },
-      {
-        "version": "0.4.2364",
-        "lastUpdated": "2025-04-02T00:51:51.893Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2426/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2427/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
