@@ -11029,9 +11029,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2425",
-    "last_updated": "2025-04-17T09:19:59.477Z",
+    "latest_version": "0.4.2426",
+    "last_updated": "2025-04-18T00:58:46.53Z",
     "version_history": [
+      {
+        "version": "0.4.2426",
+        "lastUpdated": "2025-04-18T00:58:46.53Z"
+      },
       {
         "version": "0.4.2425",
         "lastUpdated": "2025-04-17T09:19:59.477Z"
@@ -11107,15 +11111,11 @@
       {
         "version": "0.4.2364",
         "lastUpdated": "2025-04-02T00:51:51.893Z"
-      },
-      {
-        "version": "0.4.2363",
-        "lastUpdated": "2025-04-01T00:47:39.907Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2425/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2426/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11237,9 +11237,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "63.7.0",
-    "last_updated": "2025-04-04T14:31:35.01Z",
+    "latest_version": "63.9.2",
+    "last_updated": "2025-04-17T18:53:46.42Z",
     "version_history": [
+      {
+        "version": "63.9.2",
+        "lastUpdated": "2025-04-17T18:53:46.42Z"
+      },
       {
         "version": "63.7.0",
         "lastUpdated": "2025-04-04T14:31:35.01Z"
@@ -11315,15 +11319,11 @@
       {
         "version": "61.11.0",
         "lastUpdated": "2024-08-29T13:46:08.53Z"
-      },
-      {
-        "version": "61.10.0",
-        "lastUpdated": "2024-08-20T23:47:42.51Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.7.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.9.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
