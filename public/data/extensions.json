@@ -9055,9 +9055,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250416001",
-    "last_updated": "2025-04-16T02:53:14.82Z",
+    "latest_version": "0.13.250419001",
+    "last_updated": "2025-04-19T02:51:59.57Z",
     "version_history": [
+      {
+        "version": "0.13.250419001",
+        "lastUpdated": "2025-04-19T02:51:59.57Z"
+      },
       {
         "version": "0.13.250416001",
         "lastUpdated": "2025-04-16T02:53:14.82Z"
@@ -9133,15 +9137,11 @@
       {
         "version": "0.13.250324001",
         "lastUpdated": "2025-03-24T02:50:52.433Z"
-      },
-      {
-        "version": "0.13.250323001",
-        "lastUpdated": "2025-03-23T02:53:45.087Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250416001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250419001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11787,9 +11787,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.46",
-    "last_updated": "2025-04-17T05:19:59.783Z",
+    "latest_version": "4.0.47",
+    "last_updated": "2025-04-19T06:12:01.713Z",
     "version_history": [
+      {
+        "version": "4.0.47",
+        "lastUpdated": "2025-04-19T06:12:01.713Z"
+      },
       {
         "version": "4.0.46",
         "lastUpdated": "2025-04-17T05:19:59.783Z"
@@ -11865,15 +11869,11 @@
       {
         "version": "4.0.28",
         "lastUpdated": "2024-12-24T12:36:25.29Z"
-      },
-      {
-        "version": "4.0.27",
-        "lastUpdated": "2024-12-22T09:53:32.74Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.46/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.47/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
