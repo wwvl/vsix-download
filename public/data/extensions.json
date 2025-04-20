@@ -4041,9 +4041,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025041802",
-    "last_updated": "2025-04-18T21:13:43.723Z",
+    "latest_version": "0.27.2025042002",
+    "last_updated": "2025-04-20T16:13:41.43Z",
     "version_history": [
+      {
+        "version": "0.27.2025042002",
+        "lastUpdated": "2025-04-20T16:13:41.43Z"
+      },
       {
         "version": "0.27.2025041802",
         "lastUpdated": "2025-04-18T21:13:43.723Z"
@@ -4119,10 +4123,6 @@
       {
         "version": "0.27.2025040702",
         "lastUpdated": "2025-04-07T17:24:29.237Z"
-      },
-      {
-        "version": "0.27.2025040701",
-        "lastUpdated": "2025-04-07T08:33:56.097Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4156,7 +4156,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025041802/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025042002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
