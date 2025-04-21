@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17178",
-    "last_updated": "2025-04-16T21:41:59.643Z",
+    "latest_version": "1.57.17188",
+    "last_updated": "2025-04-21T17:17:15.89Z",
     "version_history": [
+      {
+        "version": "1.57.17188",
+        "lastUpdated": "2025-04-21T17:17:15.89Z"
+      },
       {
         "version": "1.57.17178",
         "lastUpdated": "2025-04-16T21:41:59.643Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16816",
         "lastUpdated": "2025-02-05T21:44:45.23Z"
-      },
-      {
-        "version": "1.55.16805",
-        "lastUpdated": "2025-02-04T01:35:00.483Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17178/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17188/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3924,9 +3924,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.304.1518",
-    "last_updated": "2025-04-21T01:47:10.867Z",
+    "latest_version": "1.304.1519",
+    "last_updated": "2025-04-21T16:22:00.79Z",
     "version_history": [
+      {
+        "version": "1.304.1519",
+        "lastUpdated": "2025-04-21T16:22:00.79Z"
+      },
       {
         "version": "1.304.1518",
         "lastUpdated": "2025-04-21T01:47:10.867Z"
@@ -4002,10 +4006,6 @@
       {
         "version": "1.297.1491",
         "lastUpdated": "2025-04-08T16:19:43.133Z"
-      },
-      {
-        "version": "1.297.1490",
-        "lastUpdated": "2025-04-08T01:47:23.3Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4034,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.304.1518/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.304.1519/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -9877,9 +9877,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.16.6",
-    "last_updated": "2025-04-14T04:06:08.913Z",
+    "latest_version": "0.16.7",
+    "last_updated": "2025-04-21T15:24:07.043Z",
     "version_history": [
+      {
+        "version": "0.16.7",
+        "lastUpdated": "2025-04-21T15:24:07.043Z"
+      },
       {
         "version": "0.16.6",
         "lastUpdated": "2025-04-14T04:06:08.913Z"
@@ -9955,15 +9959,11 @@
       {
         "version": "0.15.2",
         "lastUpdated": "2024-12-14T05:50:57.65Z"
-      },
-      {
-        "version": "0.15.1",
-        "lastUpdated": "2024-12-13T13:45:27.3Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
