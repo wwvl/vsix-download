@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17188",
-    "last_updated": "2025-04-21T17:17:15.89Z",
+    "latest_version": "1.57.17193",
+    "last_updated": "2025-04-22T13:17:50.02Z",
     "version_history": [
+      {
+        "version": "1.57.17193",
+        "lastUpdated": "2025-04-22T13:17:50.02Z"
+      },
       {
         "version": "1.57.17188",
         "lastUpdated": "2025-04-21T17:17:15.89Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16818",
         "lastUpdated": "2025-02-06T00:05:41.2Z"
-      },
-      {
-        "version": "1.55.16816",
-        "lastUpdated": "2025-02-05T21:44:45.23Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17188/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17193/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -3137,9 +3137,13 @@
     "extension_name": "Equinusocio.vsc-material-theme-icons",
     "display_name": "Material Theme Icons — Free",
     "short_description": "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.",
-    "latest_version": "3.8.12",
-    "last_updated": "2025-03-07T03:39:05.14Z",
+    "latest_version": "3.9.0",
+    "last_updated": "2025-04-22T15:11:27.527Z",
     "version_history": [
+      {
+        "version": "3.9.0",
+        "lastUpdated": "2025-04-22T15:11:27.527Z"
+      },
       {
         "version": "3.8.12",
         "lastUpdated": "2025-03-07T03:39:05.14Z"
@@ -3163,7 +3167,7 @@
     ],
     "categories": ["Themes"],
     "tags": ["icon-theme", "theme", "Themes", "VSCode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme-icons/3.8.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme-icons/3.9.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons"
   },
   {
@@ -3924,9 +3928,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.304.1520",
-    "last_updated": "2025-04-22T01:47:47.017Z",
+    "latest_version": "1.304.1521",
+    "last_updated": "2025-04-22T16:19:55.27Z",
     "version_history": [
+      {
+        "version": "1.304.1521",
+        "lastUpdated": "2025-04-22T16:19:55.27Z"
+      },
       {
         "version": "1.304.1520",
         "lastUpdated": "2025-04-22T01:47:47.017Z"
@@ -4002,10 +4010,6 @@
       {
         "version": "1.298.1494",
         "lastUpdated": "2025-04-09T16:22:31.16Z"
-      },
-      {
-        "version": "1.298.1493",
-        "lastUpdated": "2025-04-09T01:48:36.963Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4034,7 +4038,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.304.1520/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.304.1521/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7730,9 +7734,13 @@
     "extension_name": "ms-toolsai.datawrangler",
     "display_name": "Data Wrangler",
     "short_description": "Data viewing, cleaning and preparation for tabular datasets",
-    "latest_version": "1.21.3",
-    "last_updated": "2025-04-15T21:48:54.22Z",
+    "latest_version": "1.21.4",
+    "last_updated": "2025-04-22T18:03:52.73Z",
     "version_history": [
+      {
+        "version": "1.21.4",
+        "lastUpdated": "2025-04-22T18:03:52.73Z"
+      },
       {
         "version": "1.21.3",
         "lastUpdated": "2025-04-15T21:48:54.22Z"
@@ -7808,10 +7816,6 @@
       {
         "version": "1.14.0",
         "lastUpdated": "2024-12-04T01:25:10.21Z"
-      },
-      {
-        "version": "1.13.3",
-        "lastUpdated": "2024-11-20T00:29:05.527Z"
       }
     ],
     "categories": ["Data Science", "Machine Learning"],
@@ -7871,7 +7875,7 @@
       "xls",
       "xlsx"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
   },
   {
@@ -14339,9 +14343,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue - Official",
     "short_description": "Language Support for Vue",
-    "latest_version": "2.2.8",
-    "last_updated": "2025-03-02T10:33:01.907Z",
+    "latest_version": "2.2.10",
+    "last_updated": "2025-04-22T16:18:14.907Z",
     "version_history": [
+      {
+        "version": "2.2.10",
+        "lastUpdated": "2025-04-22T16:18:14.907Z"
+      },
       {
         "version": "2.2.8",
         "lastUpdated": "2025-03-02T10:33:01.907Z"
@@ -14417,15 +14425,11 @@
       {
         "version": "2.0.18",
         "lastUpdated": "2024-05-15T12:09:59.92Z"
-      },
-      {
-        "version": "2.0.17",
-        "lastUpdated": "2024-05-10T09:02:30.743Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "plaintext", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/2.2.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
