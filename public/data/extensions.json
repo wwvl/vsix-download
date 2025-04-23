@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.304.1522",
-    "last_updated": "2025-04-23T01:46:51.273Z",
+    "latest_version": "1.304.1523",
+    "last_updated": "2025-04-23T16:20:27.823Z",
     "version_history": [
+      {
+        "version": "1.304.1523",
+        "lastUpdated": "2025-04-23T16:20:27.823Z"
+      },
       {
         "version": "1.304.1522",
         "lastUpdated": "2025-04-23T01:46:51.273Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.300.0",
         "lastUpdated": "2025-04-09T21:47:27.34Z"
-      },
-      {
-        "version": "1.299.1496",
-        "lastUpdated": "2025-04-09T19:37:44.733Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.304.1522/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.304.1523/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8412,9 +8412,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.25.0",
-    "last_updated": "2025-04-11T02:43:49.91Z",
+    "latest_version": "1.25.1",
+    "last_updated": "2025-04-23T16:10:48.01Z",
     "version_history": [
+      {
+        "version": "1.25.1",
+        "lastUpdated": "2025-04-23T16:10:48.01Z"
+      },
       {
         "version": "1.25.0",
         "lastUpdated": "2025-04-11T02:43:49.91Z"
@@ -8490,15 +8494,11 @@
       {
         "version": "1.22.7",
         "lastUpdated": "2024-10-01T23:36:59.247Z"
-      },
-      {
-        "version": "1.22.6",
-        "lastUpdated": "2024-09-26T01:03:35.587Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.25.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.25.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
