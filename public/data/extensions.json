@@ -1155,9 +1155,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.15",
-    "last_updated": "2025-04-09T11:26:09.153Z",
+    "latest_version": "0.14.16",
+    "last_updated": "2025-04-24T17:37:29.51Z",
     "version_history": [
+      {
+        "version": "0.14.16",
+        "lastUpdated": "2025-04-24T17:37:29.51Z"
+      },
       {
         "version": "0.14.15",
         "lastUpdated": "2025-04-09T11:26:09.153Z"
@@ -1233,15 +1237,11 @@
       {
         "version": "0.13.70",
         "lastUpdated": "2025-01-21T16:23:29.05Z"
-      },
-      {
-        "version": "0.13.69",
-        "lastUpdated": "2025-01-11T21:43:54.937Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.2405",
-    "last_updated": "2025-04-24T09:14:11.84Z",
+    "latest_version": "2025.4.2413",
+    "last_updated": "2025-04-24T17:12:16.433Z",
     "version_history": [
+      {
+        "version": "2025.4.2413",
+        "lastUpdated": "2025-04-24T17:12:16.433Z"
+      },
       {
         "version": "2025.4.2405",
         "lastUpdated": "2025-04-24T09:14:11.84Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.213",
         "lastUpdated": "2025-04-02T17:50:02.537Z"
-      },
-      {
-        "version": "2025.4.205",
-        "lastUpdated": "2025-04-02T09:13:39.777Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.2405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.2413/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.305.1525",
-    "last_updated": "2025-04-24T01:48:53.797Z",
+    "latest_version": "1.306.1527",
+    "last_updated": "2025-04-24T16:20:02.807Z",
     "version_history": [
+      {
+        "version": "1.306.1527",
+        "lastUpdated": "2025-04-24T16:20:02.807Z"
+      },
       {
         "version": "1.305.1525",
         "lastUpdated": "2025-04-24T01:48:53.797Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.300.1499",
         "lastUpdated": "2025-04-10T21:28:29.31Z"
-      },
-      {
-        "version": "1.300.1498",
-        "lastUpdated": "2025-04-10T16:21:41.35Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,16 +4042,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.305.1525/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.306.1527/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025042401",
-    "last_updated": "2025-04-24T04:30:25.527Z",
+    "latest_version": "0.27.2025042402",
+    "last_updated": "2025-04-24T18:17:52.91Z",
     "version_history": [
+      {
+        "version": "0.27.2025042402",
+        "lastUpdated": "2025-04-24T18:17:52.91Z"
+      },
       {
         "version": "0.27.2025042401",
         "lastUpdated": "2025-04-24T04:30:25.527Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025041002",
         "lastUpdated": "2025-04-10T08:04:56.527Z"
-      },
-      {
-        "version": "0.27.2025041001",
-        "lastUpdated": "2025-04-10T04:27:57Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025042401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025042402/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025042404",
-    "last_updated": "2025-04-24T04:22:24.41Z",
+    "latest_version": "0.109.2025042415",
+    "last_updated": "2025-04-24T15:24:12.033Z",
     "version_history": [
+      {
+        "version": "0.109.2025042415",
+        "lastUpdated": "2025-04-24T15:24:12.033Z"
+      },
       {
         "version": "0.109.2025042404",
         "lastUpdated": "2025-04-24T04:22:24.41Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.107.2025032604",
         "lastUpdated": "2025-03-26T04:22:02.283Z"
-      },
-      {
-        "version": "0.107.2025032404",
-        "lastUpdated": "2025-03-24T04:21:34.767Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025042404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025042415/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -5581,9 +5581,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.43.0",
-    "last_updated": "2025-04-19T17:18:49.77Z",
+    "latest_version": "1.44.0",
+    "last_updated": "2025-04-24T16:24:16.693Z",
     "version_history": [
+      {
+        "version": "1.44.0",
+        "lastUpdated": "2025-04-24T16:24:16.693Z"
+      },
       {
         "version": "1.43.0",
         "lastUpdated": "2025-04-19T17:18:49.77Z"
@@ -5659,15 +5663,11 @@
       {
         "version": "1.32.2",
         "lastUpdated": "2024-08-10T12:00:41.07Z"
-      },
-      {
-        "version": "1.32.1",
-        "lastUpdated": "2024-07-23T10:31:40.55Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.43.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.44.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
@@ -7646,11 +7646,11 @@
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
     "latest_version": "2025.4.101",
-    "last_updated": "2025-04-23T22:37:12.92Z",
+    "last_updated": "2025-04-23T22:43:59.36Z",
     "version_history": [
       {
         "version": "2025.4.101",
-        "lastUpdated": "2025-04-23T22:37:12.92Z"
+        "lastUpdated": "2025-04-23T22:43:59.36Z"
       },
       {
         "version": "2025.4.100",
@@ -10572,9 +10572,13 @@
     "extension_name": "redhat.ansible",
     "display_name": "Ansible",
     "short_description": "Ansible language support",
-    "latest_version": "25.3.1",
-    "last_updated": "2025-03-26T19:17:51.597Z",
+    "latest_version": "25.4.0",
+    "last_updated": "2025-04-24T15:14:58.233Z",
     "version_history": [
+      {
+        "version": "25.4.0",
+        "lastUpdated": "2025-04-24T15:14:58.233Z"
+      },
       {
         "version": "25.3.1",
         "lastUpdated": "2025-03-26T19:17:51.597Z"
@@ -10650,15 +10654,11 @@
       {
         "version": "24.8.1",
         "lastUpdated": "2024-06-25T16:49:02.167Z"
-      },
-      {
-        "version": "24.8.0",
-        "lastUpdated": "2024-06-21T22:33:31.047Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "json", "keybindings", "validation", "yaml", "yml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.3.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
   },
   {
