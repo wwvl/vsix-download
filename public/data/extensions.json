@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.308.1532",
-    "last_updated": "2025-04-25T16:41:05.643Z",
+    "latest_version": "1.309.0",
+    "last_updated": "2025-04-25T21:34:26.493Z",
     "version_history": [
+      {
+        "version": "1.309.0",
+        "lastUpdated": "2025-04-25T21:34:26.493Z"
+      },
       {
         "version": "1.308.1532",
         "lastUpdated": "2025-04-25T16:41:05.643Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.302.1507",
         "lastUpdated": "2025-04-14T16:20:03.743Z"
-      },
-      {
-        "version": "1.302.1506",
-        "lastUpdated": "2025-04-14T01:49:49.06Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.308.1532/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.309.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8412,9 +8412,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.25.1",
-    "last_updated": "2025-04-23T16:10:48.01Z",
+    "latest_version": "1.25.2",
+    "last_updated": "2025-04-25T23:54:58.38Z",
     "version_history": [
+      {
+        "version": "1.25.2",
+        "lastUpdated": "2025-04-25T23:54:58.38Z"
+      },
       {
         "version": "1.25.1",
         "lastUpdated": "2025-04-23T16:10:48.01Z"
@@ -8490,15 +8494,11 @@
       {
         "version": "1.22.8",
         "lastUpdated": "2024-10-09T00:12:32.82Z"
-      },
-      {
-        "version": "1.22.7",
-        "lastUpdated": "2024-10-01T23:36:59.247Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.25.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.25.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -9156,9 +9156,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250424",
-    "last_updated": "2025-04-25T00:16:21.963Z",
+    "latest_version": "5.9.20250425",
+    "last_updated": "2025-04-26T00:17:55.72Z",
     "version_history": [
+      {
+        "version": "5.9.20250425",
+        "lastUpdated": "2025-04-26T00:17:55.72Z"
+      },
       {
         "version": "5.9.20250424",
         "lastUpdated": "2025-04-25T00:16:21.963Z"
@@ -9234,15 +9238,11 @@
       {
         "version": "5.9.20250314",
         "lastUpdated": "2025-03-15T00:16:49.92Z"
-      },
-      {
-        "version": "5.9.20250313",
-        "lastUpdated": "2025-03-14T00:17:20.043Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250424/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250425/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11037,9 +11037,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2437",
-    "last_updated": "2025-04-25T00:57:34.357Z",
+    "latest_version": "0.4.2438",
+    "last_updated": "2025-04-26T00:55:27.327Z",
     "version_history": [
+      {
+        "version": "0.4.2438",
+        "lastUpdated": "2025-04-26T00:55:27.327Z"
+      },
       {
         "version": "0.4.2437",
         "lastUpdated": "2025-04-25T00:57:34.357Z"
@@ -11115,15 +11119,11 @@
       {
         "version": "0.4.2375",
         "lastUpdated": "2025-04-11T00:46:20.04Z"
-      },
-      {
-        "version": "0.4.2374",
-        "lastUpdated": "2025-04-10T10:08:15.72Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2437/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2438/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11338,9 +11338,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.13.2",
-    "last_updated": "2025-04-24T07:59:22.21Z",
+    "latest_version": "3.13.3",
+    "last_updated": "2025-04-25T21:09:27.403Z",
     "version_history": [
+      {
+        "version": "3.13.3",
+        "lastUpdated": "2025-04-25T21:09:27.403Z"
+      },
       {
         "version": "3.13.2",
         "lastUpdated": "2025-04-24T07:59:22.21Z"
@@ -11416,15 +11420,11 @@
       {
         "version": "3.8.2",
         "lastUpdated": "2025-03-24T21:57:12.857Z"
-      },
-      {
-        "version": "3.8.1",
-        "lastUpdated": "2025-03-24T21:16:55.103Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.13.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.13.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -11701,10 +11701,14 @@
   {
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
-    "short_description": "Capture, search and learn from every AI coding journey",
-    "latest_version": "0.11.0",
-    "last_updated": "2025-04-25T16:48:09.593Z",
+    "short_description": "Save, export, search and share AI chat history",
+    "latest_version": "0.11.1",
+    "last_updated": "2025-04-25T21:24:40.15Z",
     "version_history": [
+      {
+        "version": "0.11.1",
+        "lastUpdated": "2025-04-25T21:24:40.15Z"
+      },
       {
         "version": "0.11.0",
         "lastUpdated": "2025-04-25T16:48:09.593Z"
@@ -11780,15 +11784,11 @@
       {
         "version": "0.2.7",
         "lastUpdated": "2025-01-07T12:38:51.293Z"
-      },
-      {
-        "version": "0.2.6",
-        "lastUpdated": "2025-01-04T02:01:17.79Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.11.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.11.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
