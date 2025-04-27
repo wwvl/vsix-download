@@ -403,9 +403,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.22.3",
-    "last_updated": "2025-04-18T05:11:34.347Z",
+    "latest_version": "2.22.5",
+    "last_updated": "2025-04-27T03:57:38.913Z",
     "version_history": [
+      {
+        "version": "2.22.5",
+        "lastUpdated": "2025-04-27T03:57:38.913Z"
+      },
       {
         "version": "2.22.3",
         "lastUpdated": "2025-04-18T05:11:34.347Z"
@@ -481,10 +485,6 @@
       {
         "version": "2.17.0",
         "lastUpdated": "2024-09-20T02:31:03.223Z"
-      },
-      {
-        "version": "2.16.2",
-        "lastUpdated": "2024-09-12T11:19:37.523Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -512,7 +512,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -9063,9 +9063,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250426001",
-    "last_updated": "2025-04-26T02:50:34.847Z",
+    "latest_version": "0.13.250427001",
+    "last_updated": "2025-04-27T02:56:27.633Z",
     "version_history": [
+      {
+        "version": "0.13.250427001",
+        "lastUpdated": "2025-04-27T02:56:27.633Z"
+      },
       {
         "version": "0.13.250426001",
         "lastUpdated": "2025-04-26T02:50:34.847Z"
@@ -9141,15 +9145,11 @@
       {
         "version": "0.13.250331001",
         "lastUpdated": "2025-03-31T02:47:40.403Z"
-      },
-      {
-        "version": "0.13.250330001",
-        "lastUpdated": "2025-03-30T02:45:09.12Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250426001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250427001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11795,9 +11795,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.47",
-    "last_updated": "2025-04-19T06:12:01.713Z",
+    "latest_version": "4.0.48",
+    "last_updated": "2025-04-27T06:12:22.28Z",
     "version_history": [
+      {
+        "version": "4.0.48",
+        "lastUpdated": "2025-04-27T06:12:22.28Z"
+      },
       {
         "version": "4.0.47",
         "lastUpdated": "2025-04-19T06:12:01.713Z"
@@ -11873,15 +11877,11 @@
       {
         "version": "4.0.29",
         "lastUpdated": "2024-12-29T12:35:21.387Z"
-      },
-      {
-        "version": "4.0.28",
-        "lastUpdated": "2024-12-24T12:36:25.29Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.47/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.48/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
