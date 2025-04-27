@@ -1062,9 +1062,13 @@
     "extension_name": "biomejs.biome",
     "display_name": "Biome",
     "short_description": "Toolchain of the web",
-    "latest_version": "2025.3.151143",
-    "last_updated": "2025-03-15T11:48:31.283Z",
+    "latest_version": "2025.4.271358",
+    "last_updated": "2025-04-27T14:01:39.447Z",
     "version_history": [
+      {
+        "version": "2025.4.271358",
+        "lastUpdated": "2025-04-27T14:01:39.447Z"
+      },
       {
         "version": "2025.3.151143",
         "lastUpdated": "2025-03-15T11:48:31.283Z"
@@ -1140,15 +1144,11 @@
       {
         "version": "2024.8.300856",
         "lastUpdated": "2024-08-30T09:00:08.47Z"
-      },
-      {
-        "version": "2024.8.221006",
-        "lastUpdated": "2024-08-22T10:10:11.407Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
     "tags": ["biome_syntax_tree", "Formatter", "Linter"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.3.151143/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.4.271358/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=biomejs.biome"
   },
   {
@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.57.17198",
-    "last_updated": "2025-04-24T23:23:27.803Z",
+    "latest_version": "1.57.17201",
+    "last_updated": "2025-04-27T15:47:01.61Z",
     "version_history": [
+      {
+        "version": "1.57.17201",
+        "lastUpdated": "2025-04-27T15:47:01.61Z"
+      },
       {
         "version": "1.57.17198",
         "lastUpdated": "2025-04-24T23:23:27.803Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.55.16842",
         "lastUpdated": "2025-02-10T19:20:22.957Z"
-      },
-      {
-        "version": "1.55.16833",
-        "lastUpdated": "2025-02-09T20:16:07.833Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17198/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.57.17201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -6183,11 +6183,15 @@
   },
   {
     "extension_name": "MarsCode.marscode-extension",
-    "display_name": "Trae AI: Coding Assistant",
+    "display_name": "Trae AI(formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.4",
-    "last_updated": "2025-04-23T06:18:41.853Z",
+    "latest_version": "1.2.5",
+    "last_updated": "2025-04-27T16:29:08.193Z",
     "version_history": [
+      {
+        "version": "1.2.5",
+        "lastUpdated": "2025-04-27T16:29:08.193Z"
+      },
       {
         "version": "1.2.4",
         "lastUpdated": "2025-04-23T06:18:41.853Z"
@@ -6263,10 +6267,6 @@
       {
         "version": "1.1.78",
         "lastUpdated": "2025-03-23T07:51:45.993Z"
-      },
-      {
-        "version": "1.1.77",
-        "lastUpdated": "2025-03-21T06:22:41.003Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6300,7 +6300,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
