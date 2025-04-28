@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.26",
-    "last_updated": "2025-04-24T22:50:00.2Z",
+    "latest_version": "1.1.27",
+    "last_updated": "2025-04-28T18:08:22.587Z",
     "version_history": [
+      {
+        "version": "1.1.27",
+        "lastUpdated": "2025-04-28T18:08:22.587Z"
+      },
       {
         "version": "1.1.26",
         "lastUpdated": "2025-04-24T22:50:00.2Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "1.1.8",
         "lastUpdated": "2025-03-11T05:49:56.43Z"
-      },
-      {
-        "version": "1.1.7",
-        "lastUpdated": "2025-03-10T05:38:34.7Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.26/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.27/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -6640,9 +6640,13 @@
     "extension_name": "ms-azuretools.vscode-docker",
     "display_name": "Docker",
     "short_description": "Makes it easy to create, manage, and debug containerized applications.",
-    "latest_version": "1.29.5",
-    "last_updated": "2025-04-08T14:47:17.16Z",
+    "latest_version": "1.29.6",
+    "last_updated": "2025-04-28T17:26:26.983Z",
     "version_history": [
+      {
+        "version": "1.29.6",
+        "lastUpdated": "2025-04-28T17:26:26.983Z"
+      },
       {
         "version": "1.29.5",
         "lastUpdated": "2025-04-08T14:47:17.16Z"
@@ -6718,15 +6722,11 @@
       {
         "version": "1.22.2",
         "lastUpdated": "2022-10-18T16:41:16.473Z"
-      },
-      {
-        "version": "1.22.1",
-        "lastUpdated": "2022-07-11T14:43:38.583Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Azure"],
     "tags": ["compose", "container", "containers", "debuggers", "docker", "dockercompose", "dockerfile", "ignore", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-docker/1.29.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker"
   },
   {
@@ -10851,9 +10851,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.17.0",
-    "last_updated": "2025-03-05T19:16:43.1Z",
+    "latest_version": "1.18.0",
+    "last_updated": "2025-04-28T15:44:39.27Z",
     "version_history": [
+      {
+        "version": "1.18.0",
+        "lastUpdated": "2025-04-28T15:44:39.27Z"
+      },
       {
         "version": "1.17.0",
         "lastUpdated": "2025-03-05T19:16:43.1Z"
@@ -10929,15 +10933,11 @@
       {
         "version": "1.3.0",
         "lastUpdated": "2022-01-14T13:51:28.12Z"
-      },
-      {
-        "version": "1.2.2",
-        "lastUpdated": "2021-11-30T14:57:15.33Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
-    "tags": ["autocompletion", "dockercompose", "kubernetes", "validation", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.17.0/vspackage",
+    "tags": ["autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -12905,9 +12905,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.17.0",
-    "last_updated": "2025-03-22T11:38:26.88Z",
+    "latest_version": "1.17.1",
+    "last_updated": "2025-04-28T16:03:34.547Z",
     "version_history": [
+      {
+        "version": "1.17.1",
+        "lastUpdated": "2025-04-28T16:03:34.547Z"
+      },
       {
         "version": "1.17.0",
         "lastUpdated": "2025-03-22T11:38:26.88Z"
@@ -12983,15 +12987,11 @@
       {
         "version": "1.10.0",
         "lastUpdated": "2025-01-13T13:42:24.647Z"
-      },
-      {
-        "version": "1.9.0",
-        "lastUpdated": "2025-01-09T16:57:58.87Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.17.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.17.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
