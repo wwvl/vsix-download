@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025042804",
-    "last_updated": "2025-04-28T04:25:29.62Z",
+    "latest_version": "0.109.2025042810",
+    "last_updated": "2025-04-28T10:14:41.29Z",
     "version_history": [
+      {
+        "version": "0.109.2025042810",
+        "lastUpdated": "2025-04-28T10:14:41.29Z"
+      },
       {
         "version": "0.109.2025042804",
         "lastUpdated": "2025-04-28T04:25:29.62Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025040314",
         "lastUpdated": "2025-04-03T14:51:48.183Z"
-      },
-      {
-        "version": "0.108.0",
-        "lastUpdated": "2025-04-03T15:40:53.253Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025042804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025042810/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6186,11 +6186,11 @@
     "display_name": "Trae AI(formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
     "latest_version": "1.2.5",
-    "last_updated": "2025-04-27T16:24:05.96Z",
+    "last_updated": "2025-04-27T16:29:08.193Z",
     "version_history": [
       {
         "version": "1.2.5",
-        "lastUpdated": "2025-04-27T16:24:05.96Z"
+        "lastUpdated": "2025-04-27T16:29:08.193Z"
       },
       {
         "version": "1.2.4",
