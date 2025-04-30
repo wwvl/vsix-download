@@ -403,9 +403,17 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.22.7",
-    "last_updated": "2025-04-30T04:47:32.36Z",
+    "latest_version": "2.22.9",
+    "last_updated": "2025-04-30T11:06:55.333Z",
     "version_history": [
+      {
+        "version": "2.22.9",
+        "lastUpdated": "2025-04-30T11:06:55.333Z"
+      },
+      {
+        "version": "2.22.8",
+        "lastUpdated": "2025-04-30T10:56:56.27Z"
+      },
       {
         "version": "2.22.7",
         "lastUpdated": "2025-04-30T04:47:32.36Z"
@@ -477,14 +485,6 @@
       {
         "version": "2.17.4",
         "lastUpdated": "2024-10-16T09:47:17.98Z"
-      },
-      {
-        "version": "2.17.3",
-        "lastUpdated": "2024-10-09T11:12:23.02Z"
-      },
-      {
-        "version": "2.17.2",
-        "lastUpdated": "2024-10-09T10:42:42.477Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -512,7 +512,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.4.2905",
-    "last_updated": "2025-04-29T09:13:47.837Z",
+    "latest_version": "2025.4.3005",
+    "last_updated": "2025-04-30T09:13:43.923Z",
     "version_history": [
+      {
+        "version": "2025.4.3005",
+        "lastUpdated": "2025-04-30T09:13:43.923Z"
+      },
       {
         "version": "2025.4.2905",
         "lastUpdated": "2025-04-29T09:13:47.837Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.705",
         "lastUpdated": "2025-04-07T09:14:41.787Z"
-      },
-      {
-        "version": "2025.4.605",
-        "lastUpdated": "2025-04-06T09:12:19.297Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.2905/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.4.3005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6734,9 +6734,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.100.2025042309",
-    "last_updated": "2025-04-23T09:19:21.28Z",
+    "latest_version": "1.100.2025043009",
+    "last_updated": "2025-04-30T09:21:36.38Z",
     "version_history": [
+      {
+        "version": "1.100.2025043009",
+        "lastUpdated": "2025-04-30T09:21:36.38Z"
+      },
       {
         "version": "1.100.2025042309",
         "lastUpdated": "2025-04-23T09:19:21.28Z"
@@ -6812,15 +6816,11 @@
       {
         "version": "1.97.2024122509",
         "lastUpdated": "2024-12-25T09:23:14.423Z"
-      },
-      {
-        "version": "1.97.2024121809",
-        "lastUpdated": "2024-12-18T09:22:30.107Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025042309/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025043009/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
