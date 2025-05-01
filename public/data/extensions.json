@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.311.0",
-    "last_updated": "2025-04-29T06:01:19.107Z",
+    "latest_version": "1.311.1540",
+    "last_updated": "2025-05-01T16:46:47.73Z",
     "version_history": [
+      {
+        "version": "1.311.1540",
+        "lastUpdated": "2025-05-01T16:46:47.73Z"
+      },
       {
         "version": "1.311.0",
         "lastUpdated": "2025-04-29T06:01:19.107Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.302.1511",
         "lastUpdated": "2025-04-16T16:23:25.06Z"
-      },
-      {
-        "version": "1.302.1510",
-        "lastUpdated": "2025-04-16T01:47:52.08Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.311.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.311.1540/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7980,9 +7980,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.120.2025040915",
-    "last_updated": "2025-04-09T15:19:16.25Z",
+    "latest_version": "0.120.2025050115",
+    "last_updated": "2025-05-01T15:21:21.12Z",
     "version_history": [
+      {
+        "version": "0.120.2025050115",
+        "lastUpdated": "2025-05-01T15:21:21.12Z"
+      },
       {
         "version": "0.120.2025040915",
         "lastUpdated": "2025-04-09T15:19:16.25Z"
@@ -8058,15 +8062,11 @@
       {
         "version": "0.117.2025012315",
         "lastUpdated": "2025-01-23T15:25:41.15Z"
-      },
-      {
-        "version": "0.117.2025012215",
-        "lastUpdated": "2025-01-22T15:27:06.61Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.120.2025040915/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.120.2025050115/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -11246,9 +11246,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "63.10.0",
-    "last_updated": "2025-04-23T11:19:35.77Z",
+    "latest_version": "63.11.0",
+    "last_updated": "2025-05-01T16:37:39.51Z",
     "version_history": [
+      {
+        "version": "63.11.0",
+        "lastUpdated": "2025-05-01T16:37:39.51Z"
+      },
       {
         "version": "63.10.0",
         "lastUpdated": "2025-04-23T11:19:35.77Z"
@@ -11324,15 +11328,11 @@
       {
         "version": "61.15.0",
         "lastUpdated": "2024-09-26T18:34:46.81Z"
-      },
-      {
-        "version": "61.12.0",
-        "lastUpdated": "2024-09-04T17:08:26.04Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.10.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.11.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
