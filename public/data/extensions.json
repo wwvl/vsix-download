@@ -2393,9 +2393,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.58.17217",
-    "last_updated": "2025-04-30T16:43:13.513Z",
+    "latest_version": "1.58.17223",
+    "last_updated": "2025-05-02T09:37:24.597Z",
     "version_history": [
+      {
+        "version": "1.58.17223",
+        "lastUpdated": "2025-05-02T09:37:24.597Z"
+      },
       {
         "version": "1.58.17217",
         "lastUpdated": "2025-04-30T16:43:13.513Z"
@@ -2471,15 +2475,11 @@
       {
         "version": "1.56.16883",
         "lastUpdated": "2025-02-19T17:27:00.44Z"
-      },
-      {
-        "version": "1.56.16853",
-        "lastUpdated": "2025-02-11T21:17:31.707Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.58.17217/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.58.17223/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.105",
-    "last_updated": "2025-05-01T09:13:47.627Z",
+    "latest_version": "2025.5.205",
+    "last_updated": "2025-05-02T09:13:24.547Z",
     "version_history": [
+      {
+        "version": "2025.5.205",
+        "lastUpdated": "2025-05-02T09:13:24.547Z"
+      },
       {
         "version": "2025.5.105",
         "lastUpdated": "2025-05-01T09:13:47.627Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.905",
         "lastUpdated": "2025-04-09T09:13:35.167Z"
-      },
-      {
-        "version": "2025.4.805",
-        "lastUpdated": "2025-04-08T09:14:05.55Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025050201",
-    "last_updated": "2025-05-02T04:34:21.663Z",
+    "latest_version": "0.27.2025050202",
+    "last_updated": "2025-05-02T09:34:02.983Z",
     "version_history": [
+      {
+        "version": "0.27.2025050202",
+        "lastUpdated": "2025-05-02T09:34:02.983Z"
+      },
       {
         "version": "0.27.2025050201",
         "lastUpdated": "2025-05-02T04:34:21.663Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025041801",
         "lastUpdated": "2025-04-18T04:25:54.86Z"
-      },
-      {
-        "version": "0.27.2025041703",
-        "lastUpdated": "2025-04-17T14:12:22.023Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
