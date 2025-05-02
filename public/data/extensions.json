@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.311.1540",
-    "last_updated": "2025-05-01T16:46:47.73Z",
+    "latest_version": "1.312.0",
+    "last_updated": "2025-05-01T20:17:27.18Z",
     "version_history": [
+      {
+        "version": "1.312.0",
+        "lastUpdated": "2025-05-01T20:17:27.18Z"
+      },
       {
         "version": "1.311.1540",
         "lastUpdated": "2025-05-01T16:46:47.73Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.302.1512",
         "lastUpdated": "2025-04-16T21:02:33.37Z"
-      },
-      {
-        "version": "1.302.1511",
-        "lastUpdated": "2025-04-16T16:23:25.06Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.311.1540/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.312.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8506,9 +8506,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.4.3017",
-    "last_updated": "2025-05-01T00:18:25.267Z",
+    "latest_version": "2025.5.117",
+    "last_updated": "2025-05-02T00:18:54.03Z",
     "version_history": [
+      {
+        "version": "2025.5.117",
+        "lastUpdated": "2025-05-02T00:18:54.03Z"
+      },
       {
         "version": "2025.4.3017",
         "lastUpdated": "2025-05-01T00:18:25.267Z"
@@ -8584,15 +8588,11 @@
       {
         "version": "2024.11.1117",
         "lastUpdated": "2024-11-12T10:49:34.693Z"
-      },
-      {
-        "version": "2024.11.417",
-        "lastUpdated": "2024-11-05T01:14:45.637Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.4.3017/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.5.117/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -9157,9 +9157,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250430",
-    "last_updated": "2025-05-01T00:20:31.593Z",
+    "latest_version": "5.9.20250501",
+    "last_updated": "2025-05-02T00:20:52.523Z",
     "version_history": [
+      {
+        "version": "5.9.20250501",
+        "lastUpdated": "2025-05-02T00:20:52.523Z"
+      },
       {
         "version": "5.9.20250430",
         "lastUpdated": "2025-05-01T00:20:31.593Z"
@@ -9235,15 +9239,11 @@
       {
         "version": "5.9.20250320",
         "lastUpdated": "2025-03-21T00:21:14.773Z"
-      },
-      {
-        "version": "5.9.20250319",
-        "lastUpdated": "2025-03-20T00:18:16.733Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250430/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11038,9 +11038,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2444",
-    "last_updated": "2025-05-01T01:01:43.223Z",
+    "latest_version": "0.4.2445",
+    "last_updated": "2025-05-02T00:58:38.707Z",
     "version_history": [
+      {
+        "version": "0.4.2445",
+        "lastUpdated": "2025-05-02T00:58:38.707Z"
+      },
       {
         "version": "0.4.2444",
         "lastUpdated": "2025-05-01T01:01:43.223Z"
@@ -11116,15 +11120,11 @@
       {
         "version": "0.4.2414",
         "lastUpdated": "2025-04-16T01:00:10.973Z"
-      },
-      {
-        "version": "0.4.2409",
-        "lastUpdated": "2025-04-15T14:43:21.023Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2444/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2445/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14740,9 +14740,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.430",
-    "last_updated": "2025-04-21T23:33:06.74Z",
+    "latest_version": "1.0.431",
+    "last_updated": "2025-05-01T22:13:37.437Z",
     "version_history": [
+      {
+        "version": "1.0.431",
+        "lastUpdated": "2025-05-01T22:13:37.437Z"
+      },
       {
         "version": "1.0.430",
         "lastUpdated": "2025-04-21T23:33:06.74Z"
@@ -14818,15 +14822,11 @@
       {
         "version": "1.0.408",
         "lastUpdated": "2025-03-27T02:49:46.31Z"
-      },
-      {
-        "version": "1.0.407",
-        "lastUpdated": "2025-03-24T06:11:14.207Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.430/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.431/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
