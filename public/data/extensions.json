@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.205",
-    "last_updated": "2025-05-02T09:13:24.547Z",
+    "latest_version": "2025.5.213",
+    "last_updated": "2025-05-02T18:00:04.933Z",
     "version_history": [
+      {
+        "version": "2025.5.213",
+        "lastUpdated": "2025-05-02T18:00:04.933Z"
+      },
       {
         "version": "2025.5.205",
         "lastUpdated": "2025-05-02T09:13:24.547Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.1105",
         "lastUpdated": "2025-04-11T09:13:11.67Z"
-      },
-      {
-        "version": "2025.4.905",
-        "lastUpdated": "2025-04-09T09:13:35.167Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.213/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025050104",
-    "last_updated": "2025-05-01T04:22:30.813Z",
+    "latest_version": "0.109.2025050213",
+    "last_updated": "2025-05-02T13:27:23.03Z",
     "version_history": [
+      {
+        "version": "0.109.2025050213",
+        "lastUpdated": "2025-05-02T13:27:23.03Z"
+      },
       {
         "version": "0.109.2025050104",
         "lastUpdated": "2025-05-01T04:22:30.813Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025041004",
         "lastUpdated": "2025-04-10T04:19:01.56Z"
-      },
-      {
-        "version": "0.109.2025040904",
-        "lastUpdated": "2025-04-09T04:21:07.14Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025050104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025050213/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -9983,9 +9983,13 @@
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.21.2",
-    "last_updated": "2025-04-03T17:31:54.433Z",
+    "latest_version": "5.22.0",
+    "last_updated": "2025-05-02T14:25:16.067Z",
     "version_history": [
+      {
+        "version": "5.22.0",
+        "lastUpdated": "2025-05-02T14:25:16.067Z"
+      },
       {
         "version": "5.21.2",
         "lastUpdated": "2025-04-03T17:31:54.433Z"
@@ -10061,15 +10065,11 @@
       {
         "version": "5.7.0",
         "lastUpdated": "2024-07-22T14:50:39.057Z"
-      },
-      {
-        "version": "5.6.0",
-        "lastUpdated": "2024-07-16T20:54:33.063Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.21.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.22.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
@@ -12015,9 +12015,13 @@
     "extension_name": "svelte.svelte-vscode",
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
-    "latest_version": "109.5.4",
-    "last_updated": "2025-04-13T07:17:56.523Z",
+    "latest_version": "109.6.0",
+    "last_updated": "2025-05-02T15:55:23.907Z",
     "version_history": [
+      {
+        "version": "109.6.0",
+        "lastUpdated": "2025-05-02T15:55:23.907Z"
+      },
       {
         "version": "109.5.4",
         "lastUpdated": "2025-04-13T07:17:56.523Z"
@@ -12093,15 +12097,11 @@
       {
         "version": "109.0.0",
         "lastUpdated": "2024-09-02T12:04:18.383Z"
-      },
-      {
-        "version": "108.6.1",
-        "lastUpdated": "2024-08-22T16:20:05.08Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.5.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.6.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
   {
