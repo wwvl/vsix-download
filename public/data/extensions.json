@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.30",
-    "last_updated": "2025-04-30T05:15:42.937Z",
+    "latest_version": "1.1.31",
+    "last_updated": "2025-05-02T04:57:18.8Z",
     "version_history": [
+      {
+        "version": "1.1.31",
+        "lastUpdated": "2025-05-02T04:57:18.8Z"
+      },
       {
         "version": "1.1.30",
         "lastUpdated": "2025-04-30T05:15:42.937Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "1.1.12",
         "lastUpdated": "2025-03-17T02:11:31.107Z"
-      },
-      {
-        "version": "1.1.11",
-        "lastUpdated": "2025-03-15T02:27:02.463Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.30/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.31/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025050101",
-    "last_updated": "2025-05-01T04:28:56.19Z",
+    "latest_version": "0.27.2025050201",
+    "last_updated": "2025-05-02T04:34:21.663Z",
     "version_history": [
+      {
+        "version": "0.27.2025050201",
+        "lastUpdated": "2025-05-02T04:34:21.663Z"
+      },
       {
         "version": "0.27.2025050101",
         "lastUpdated": "2025-05-01T04:28:56.19Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025041703",
         "lastUpdated": "2025-04-17T14:12:22.023Z"
-      },
-      {
-        "version": "0.27.2025041702",
-        "lastUpdated": "2025-04-17T14:11:41.853Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6608,9 +6608,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.17.1",
-    "last_updated": "2025-04-09T23:49:31.247Z",
+    "latest_version": "1.17.2",
+    "last_updated": "2025-05-02T03:22:22.447Z",
     "version_history": [
+      {
+        "version": "1.17.2",
+        "lastUpdated": "2025-05-02T03:22:22.447Z"
+      },
       {
         "version": "1.17.1",
         "lastUpdated": "2025-04-09T23:49:31.247Z"
@@ -6634,7 +6638,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.17.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.17.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
