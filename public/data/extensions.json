@@ -1835,9 +1835,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.31",
-    "last_updated": "2025-05-02T04:57:18.8Z",
+    "latest_version": "1.1.32",
+    "last_updated": "2025-05-03T02:14:29.64Z",
     "version_history": [
+      {
+        "version": "1.1.32",
+        "lastUpdated": "2025-05-03T02:14:29.64Z"
+      },
       {
         "version": "1.1.31",
         "lastUpdated": "2025-05-02T04:57:18.8Z"
@@ -1913,15 +1917,11 @@
       {
         "version": "1.1.13",
         "lastUpdated": "2025-03-20T05:36:44.527Z"
-      },
-      {
-        "version": "1.1.12",
-        "lastUpdated": "2025-03-17T02:11:31.107Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.31/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.32/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -9068,9 +9068,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250501001",
-    "last_updated": "2025-05-01T02:56:47.58Z",
+    "latest_version": "0.13.250503001",
+    "last_updated": "2025-05-03T02:52:23.253Z",
     "version_history": [
+      {
+        "version": "0.13.250503001",
+        "lastUpdated": "2025-05-03T02:52:23.253Z"
+      },
       {
         "version": "0.13.250501001",
         "lastUpdated": "2025-05-01T02:56:47.58Z"
@@ -9146,15 +9150,11 @@
       {
         "version": "0.13.250406001",
         "lastUpdated": "2025-04-06T02:49:04.28Z"
-      },
-      {
-        "version": "0.13.250405001",
-        "lastUpdated": "2025-04-05T02:47:45.78Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250501001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250503001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11343,9 +11343,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.13.3",
-    "last_updated": "2025-04-25T21:09:27.403Z",
+    "latest_version": "3.14.0",
+    "last_updated": "2025-05-03T04:12:14.94Z",
     "version_history": [
+      {
+        "version": "3.14.0",
+        "lastUpdated": "2025-05-03T04:12:14.94Z"
+      },
       {
         "version": "3.13.3",
         "lastUpdated": "2025-04-25T21:09:27.403Z"
@@ -11421,15 +11425,11 @@
       {
         "version": "3.8.3",
         "lastUpdated": "2025-03-26T04:36:05.56Z"
-      },
-      {
-        "version": "3.8.2",
-        "lastUpdated": "2025-03-24T21:57:12.857Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.13.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.14.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
