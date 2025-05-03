@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025050202",
-    "last_updated": "2025-05-02T09:34:02.983Z",
+    "latest_version": "0.27.2025050203",
+    "last_updated": "2025-05-02T22:53:11.077Z",
     "version_history": [
+      {
+        "version": "0.27.2025050203",
+        "lastUpdated": "2025-05-02T22:53:11.077Z"
+      },
       {
         "version": "0.27.2025050202",
         "lastUpdated": "2025-05-02T09:34:02.983Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025041802",
         "lastUpdated": "2025-04-18T21:13:43.723Z"
-      },
-      {
-        "version": "0.27.2025041801",
-        "lastUpdated": "2025-04-18T04:25:54.86Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -7355,9 +7355,13 @@
     "extension_name": "ms-mssql.mssql",
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
-    "latest_version": "1.31.0",
-    "last_updated": "2025-04-30T17:31:12.873Z",
+    "latest_version": "1.31.1",
+    "last_updated": "2025-05-02T19:10:28.583Z",
     "version_history": [
+      {
+        "version": "1.31.1",
+        "lastUpdated": "2025-05-02T19:10:28.583Z"
+      },
       {
         "version": "1.31.0",
         "lastUpdated": "2025-04-30T17:31:12.873Z"
@@ -7433,15 +7437,11 @@
       {
         "version": "1.17.1",
         "lastUpdated": "2023-01-30T23:14:34.817Z"
-      },
-      {
-        "version": "1.17.0",
-        "lastUpdated": "2023-01-25T18:06:40.563Z"
       }
     ],
     "categories": ["Programming Languages", "Azure"],
     "tags": ["Azure SQL Database", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL database in Fabric", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.31.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.31.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
@@ -9161,9 +9161,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250501",
-    "last_updated": "2025-05-02T00:20:52.523Z",
+    "latest_version": "5.9.20250502",
+    "last_updated": "2025-05-03T00:16:24.64Z",
     "version_history": [
+      {
+        "version": "5.9.20250502",
+        "lastUpdated": "2025-05-03T00:16:24.64Z"
+      },
       {
         "version": "5.9.20250501",
         "lastUpdated": "2025-05-02T00:20:52.523Z"
@@ -9239,15 +9243,11 @@
       {
         "version": "5.9.20250321",
         "lastUpdated": "2025-03-22T00:16:22.907Z"
-      },
-      {
-        "version": "5.9.20250320",
-        "lastUpdated": "2025-03-21T00:21:14.773Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11042,9 +11042,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2445",
-    "last_updated": "2025-05-02T00:58:38.707Z",
+    "latest_version": "0.4.2446",
+    "last_updated": "2025-05-03T00:56:35.96Z",
     "version_history": [
+      {
+        "version": "0.4.2446",
+        "lastUpdated": "2025-05-03T00:56:35.96Z"
+      },
       {
         "version": "0.4.2445",
         "lastUpdated": "2025-05-02T00:58:38.707Z"
@@ -11120,15 +11124,11 @@
       {
         "version": "0.4.2423",
         "lastUpdated": "2025-04-17T00:59:00.51Z"
-      },
-      {
-        "version": "0.4.2414",
-        "lastUpdated": "2025-04-16T01:00:10.973Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2445/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2446/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13157,9 +13157,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025050100",
-    "last_updated": "2025-05-01T01:09:04.32Z",
+    "latest_version": "1.63.2025050300",
+    "last_updated": "2025-05-03T00:53:59.18Z",
     "version_history": [
+      {
+        "version": "1.63.2025050300",
+        "lastUpdated": "2025-05-03T00:53:59.18Z"
+      },
       {
         "version": "1.63.2025050100",
         "lastUpdated": "2025-05-01T01:09:04.32Z"
@@ -13235,10 +13239,6 @@
       {
         "version": "1.62.2025031315",
         "lastUpdated": "2025-03-13T15:55:36.067Z"
-      },
-      {
-        "version": "1.62.2025031300",
-        "lastUpdated": "2025-03-13T01:07:09.127Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13257,7 +13257,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025050100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025050300/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
