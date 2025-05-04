@@ -762,9 +762,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.0.0",
-    "last_updated": "2025-02-18T09:23:31.97Z",
+    "latest_version": "66.1.0",
+    "last_updated": "2025-05-04T13:57:29.583Z",
     "version_history": [
+      {
+        "version": "66.1.0",
+        "lastUpdated": "2025-05-04T13:57:29.583Z"
+      },
       {
         "version": "66.0.0",
         "lastUpdated": "2025-02-18T09:23:31.97Z"
@@ -840,15 +844,11 @@
       {
         "version": "0.62.4",
         "lastUpdated": "2024-09-16T13:29:36.14Z"
-      },
-      {
-        "version": "0.62.3",
-        "lastUpdated": "2024-08-24T16:15:28.767Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.0.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -5582,9 +5582,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.44.1",
-    "last_updated": "2025-04-24T18:56:35.297Z",
+    "latest_version": "1.45.0",
+    "last_updated": "2025-05-04T17:05:09.507Z",
     "version_history": [
+      {
+        "version": "1.45.0",
+        "lastUpdated": "2025-05-04T17:05:09.507Z"
+      },
       {
         "version": "1.44.1",
         "lastUpdated": "2025-04-24T18:56:35.297Z"
@@ -5660,15 +5664,11 @@
       {
         "version": "1.32.4",
         "lastUpdated": "2024-09-11T18:23:56.533Z"
-      },
-      {
-        "version": "1.32.3",
-        "lastUpdated": "2024-08-10T14:44:17.733Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.44.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.45.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
