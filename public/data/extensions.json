@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.305",
-    "last_updated": "2025-05-03T09:12:34.947Z",
+    "latest_version": "2025.5.502",
+    "last_updated": "2025-05-05T06:55:27.78Z",
     "version_history": [
+      {
+        "version": "2025.5.502",
+        "lastUpdated": "2025-05-05T06:55:27.78Z"
+      },
       {
         "version": "2025.5.305",
         "lastUpdated": "2025-05-03T09:12:34.947Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.1405",
         "lastUpdated": "2025-04-14T09:17:09.217Z"
-      },
-      {
-        "version": "2025.4.1205",
-        "lastUpdated": "2025-04-12T09:14:10.887Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.305/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025050213",
-    "last_updated": "2025-05-02T13:27:23.03Z",
+    "latest_version": "0.109.2025050508",
+    "last_updated": "2025-05-05T08:33:35.593Z",
     "version_history": [
+      {
+        "version": "0.109.2025050508",
+        "lastUpdated": "2025-05-05T08:33:35.593Z"
+      },
       {
         "version": "0.109.2025050213",
         "lastUpdated": "2025-05-02T13:27:23.03Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025041110",
         "lastUpdated": "2025-04-11T10:33:15.25Z"
-      },
-      {
-        "version": "0.109.2025041004",
-        "lastUpdated": "2025-04-10T04:19:01.56Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025050213/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025050508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11800,9 +11800,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.0.48",
-    "last_updated": "2025-04-27T06:12:22.28Z",
+    "latest_version": "4.0.49",
+    "last_updated": "2025-05-05T08:19:25.683Z",
     "version_history": [
+      {
+        "version": "4.0.49",
+        "lastUpdated": "2025-05-05T08:19:25.683Z"
+      },
       {
         "version": "4.0.48",
         "lastUpdated": "2025-04-27T06:12:22.28Z"
@@ -11878,15 +11882,11 @@
       {
         "version": "4.0.30",
         "lastUpdated": "2025-01-02T09:42:12.103Z"
-      },
-      {
-        "version": "4.0.29",
-        "lastUpdated": "2024-12-29T12:35:21.387Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.48/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.0.49/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
