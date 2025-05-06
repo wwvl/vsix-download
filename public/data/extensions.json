@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.314.0",
-    "last_updated": "2025-05-05T20:14:36.107Z",
+    "latest_version": "1.314.1544",
+    "last_updated": "2025-05-06T01:53:43.737Z",
     "version_history": [
+      {
+        "version": "1.314.1544",
+        "lastUpdated": "2025-05-06T01:53:43.737Z"
+      },
       {
         "version": "1.314.0",
         "lastUpdated": "2025-05-05T20:14:36.107Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.304.1518",
         "lastUpdated": "2025-04-21T01:47:10.867Z"
-      },
-      {
-        "version": "1.304.1517",
-        "lastUpdated": "2025-04-18T16:20:18.117Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.314.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.314.1544/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7984,9 +7984,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.120.2025050115",
-    "last_updated": "2025-05-01T15:21:21.12Z",
+    "latest_version": "0.120.2025050601",
+    "last_updated": "2025-05-06T02:26:24.447Z",
     "version_history": [
+      {
+        "version": "0.120.2025050601",
+        "lastUpdated": "2025-05-06T02:26:24.447Z"
+      },
       {
         "version": "0.120.2025050115",
         "lastUpdated": "2025-05-01T15:21:21.12Z"
@@ -8062,15 +8066,11 @@
       {
         "version": "0.117.2025012415",
         "lastUpdated": "2025-01-24T15:25:38.98Z"
-      },
-      {
-        "version": "0.117.2025012315",
-        "lastUpdated": "2025-01-23T15:25:41.15Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.120.2025050115/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.120.2025050601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -8324,9 +8324,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.21",
-    "last_updated": "2025-05-01T04:32:08.797Z",
+    "latest_version": "1.21.22",
+    "last_updated": "2025-05-06T04:29:14.833Z",
     "version_history": [
+      {
+        "version": "1.21.22",
+        "lastUpdated": "2025-05-06T04:29:14.833Z"
+      },
       {
         "version": "1.21.21",
         "lastUpdated": "2025-05-01T04:32:08.797Z"
@@ -8402,15 +8406,11 @@
       {
         "version": "1.21.3",
         "lastUpdated": "2025-03-10T04:25:01.817Z"
-      },
-      {
-        "version": "1.21.2",
-        "lastUpdated": "2025-03-05T04:23:42.96Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.21/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.22/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
