@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.605",
-    "last_updated": "2025-05-06T09:13:27.927Z",
+    "latest_version": "2025.5.705",
+    "last_updated": "2025-05-07T09:26:59.017Z",
     "version_history": [
+      {
+        "version": "2025.5.705",
+        "lastUpdated": "2025-05-07T09:26:59.017Z"
+      },
       {
         "version": "2025.5.605",
         "lastUpdated": "2025-05-06T09:13:27.927Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.1605",
         "lastUpdated": "2025-04-16T09:14:43.27Z"
-      },
-      {
-        "version": "2025.4.1505",
-        "lastUpdated": "2025-04-15T09:14:51.103Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.109.2025050616",
-    "last_updated": "2025-05-06T17:12:18.027Z",
+    "latest_version": "0.109.2025050710",
+    "last_updated": "2025-05-07T10:13:19.23Z",
     "version_history": [
+      {
+        "version": "0.109.2025050710",
+        "lastUpdated": "2025-05-07T10:13:19.23Z"
+      },
       {
         "version": "0.109.2025050616",
         "lastUpdated": "2025-05-06T17:12:18.027Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025041504",
         "lastUpdated": "2025-04-15T04:22:07.29Z"
-      },
-      {
-        "version": "0.109.2025041404",
-        "lastUpdated": "2025-04-14T04:19:59.333Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025050616/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.109.2025050710/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6738,9 +6738,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.100.2025043009",
-    "last_updated": "2025-04-30T09:21:36.38Z",
+    "latest_version": "1.100.2025050709",
+    "last_updated": "2025-05-07T09:19:14.607Z",
     "version_history": [
+      {
+        "version": "1.100.2025050709",
+        "lastUpdated": "2025-05-07T09:19:14.607Z"
+      },
       {
         "version": "1.100.2025043009",
         "lastUpdated": "2025-04-30T09:21:36.38Z"
@@ -6816,15 +6820,11 @@
       {
         "version": "1.97.2025010109",
         "lastUpdated": "2025-01-01T09:14:08.1Z"
-      },
-      {
-        "version": "1.97.2024122509",
-        "lastUpdated": "2024-12-25T09:23:14.423Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025043009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025050709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
