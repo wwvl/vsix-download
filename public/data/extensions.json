@@ -3932,9 +3932,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.316.1552",
-    "last_updated": "2025-05-08T17:18:29.737Z",
+    "latest_version": "1.317.0",
+    "last_updated": "2025-05-08T23:28:52.167Z",
     "version_history": [
+      {
+        "version": "1.317.0",
+        "lastUpdated": "2025-05-08T23:28:52.167Z"
+      },
+      {
+        "version": "1.316.1553",
+        "lastUpdated": "2025-05-08T19:39:01.317Z"
+      },
       {
         "version": "1.316.1552",
         "lastUpdated": "2025-05-08T17:18:29.737Z"
@@ -4006,14 +4014,6 @@
       {
         "version": "1.306.1527",
         "lastUpdated": "2025-04-24T16:20:02.807Z"
-      },
-      {
-        "version": "1.305.1525",
-        "lastUpdated": "2025-04-24T01:48:53.797Z"
-      },
-      {
-        "version": "1.304.1523",
-        "lastUpdated": "2025-04-23T16:20:27.823Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,16 +4042,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.316.1552/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.317.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.27.2025050603",
-    "last_updated": "2025-05-06T21:27:04.26Z",
+    "latest_version": "0.28.2025050803",
+    "last_updated": "2025-05-08T18:32:20.287Z",
     "version_history": [
+      {
+        "version": "0.28.2025050803",
+        "lastUpdated": "2025-05-08T18:32:20.287Z"
+      },
       {
         "version": "0.27.2025050603",
         "lastUpdated": "2025-05-06T21:27:04.26Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025042301",
         "lastUpdated": "2025-04-23T04:29:27.557Z"
-      },
-      {
-        "version": "0.27.2025042201",
-        "lastUpdated": "2025-04-22T08:12:56.893Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.27.2025050603/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025050803/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6831,9 +6831,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.19.45",
-    "last_updated": "2025-04-29T20:36:48.67Z",
+    "latest_version": "1.19.60",
+    "last_updated": "2025-05-08T19:48:56.517Z",
     "version_history": [
+      {
+        "version": "1.19.60",
+        "lastUpdated": "2025-05-08T19:48:56.517Z"
+      },
       {
         "version": "1.19.45",
         "lastUpdated": "2025-04-29T20:36:48.67Z"
@@ -6909,24 +6913,24 @@
       {
         "version": "1.15.32",
         "lastUpdated": "2025-01-08T00:33:18.77Z"
-      },
-      {
-        "version": "1.15.13",
-        "lastUpdated": "2024-12-11T20:17:08.763Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.19.45/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.19.60/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.74.24",
-    "last_updated": "2025-04-15T20:13:13.647Z",
+    "latest_version": "2.76.23",
+    "last_updated": "2025-05-08T19:04:02.13Z",
     "version_history": [
+      {
+        "version": "2.76.23",
+        "lastUpdated": "2025-05-08T19:04:02.13Z"
+      },
       {
         "version": "2.74.24",
         "lastUpdated": "2025-04-15T20:13:13.647Z"
@@ -7002,10 +7006,6 @@
       {
         "version": "2.59.14",
         "lastUpdated": "2024-12-03T21:14:08.51Z"
-      },
-      {
-        "version": "2.58.20",
-        "lastUpdated": "2024-11-26T22:42:47.23Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7028,16 +7028,20 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.74.24/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.76.23/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
     "extension_name": "ms-dotnettools.vscode-dotnet-runtime",
     "display_name": ".NET Install Tool",
     "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
-    "latest_version": "2.3.3",
-    "last_updated": "2025-04-15T18:56:03.313Z",
+    "latest_version": "2.3.4",
+    "last_updated": "2025-05-08T19:11:43.75Z",
     "version_history": [
+      {
+        "version": "2.3.4",
+        "lastUpdated": "2025-05-08T19:11:43.75Z"
+      },
       {
         "version": "2.3.3",
         "lastUpdated": "2025-04-15T18:56:03.313Z"
@@ -7113,15 +7117,11 @@
       {
         "version": "2.1.2",
         "lastUpdated": "2024-08-19T18:48:36.36Z"
-      },
-      {
-        "version": "2.1.1",
-        "lastUpdated": "2024-07-17T23:01:07.87Z"
       }
     ],
     "categories": ["Other"],
     "tags": [".NET", ".NET Core", "dotnet", "Extension Authoring", "runtime"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
   },
   {
@@ -7448,9 +7448,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.6.0",
-    "last_updated": "2025-04-04T17:13:05.93Z",
+    "latest_version": "2025.8.0",
+    "last_updated": "2025-05-08T19:01:57.91Z",
     "version_history": [
+      {
+        "version": "2025.8.0",
+        "lastUpdated": "2025-05-08T19:01:57.91Z"
+      },
       {
         "version": "2025.6.0",
         "lastUpdated": "2025-04-04T17:13:05.93Z"
@@ -7526,15 +7530,11 @@
       {
         "version": "2024.15.2025012001",
         "lastUpdated": "2025-01-20T10:37:51.02Z"
-      },
-      {
-        "version": "2024.15.2025011702",
-        "lastUpdated": "2025-01-17T20:46:57.73Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.6.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -7547,6 +7547,10 @@
       {
         "version": "2025.7.2025050601",
         "lastUpdated": "2025-05-06T08:46:44.463Z"
+      },
+      {
+        "version": "2025.6.0",
+        "lastUpdated": "2025-05-08T19:02:53.393Z"
       },
       {
         "version": "2025.5.2025042501",
@@ -7619,10 +7623,6 @@
       {
         "version": "2025.3.2025030601",
         "lastUpdated": "2025-03-06T10:47:07.78Z"
-      },
-      {
-        "version": "2025.2.0",
-        "lastUpdated": "2025-03-05T18:46:25.26Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7899,6 +7899,10 @@
         "lastUpdated": "2025-05-08T13:43:52.973Z"
       },
       {
+        "version": "0.413.0",
+        "lastUpdated": "2025-05-08T19:43:09.36Z"
+      },
+      {
         "version": "0.412.0",
         "lastUpdated": "2025-04-24T07:43:24.567Z"
       },
@@ -7969,10 +7973,6 @@
       {
         "version": "0.395.0",
         "lastUpdated": "2024-12-11T18:06:29.433Z"
-      },
-      {
-        "version": "0.394.0",
-        "lastUpdated": "2024-12-11T19:11:07.243Z"
       }
     ],
     "categories": ["Other"],
@@ -7984,9 +7984,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.120.2025050815",
-    "last_updated": "2025-05-08T17:47:53.993Z",
+    "latest_version": "0.121.2025050818",
+    "last_updated": "2025-05-08T18:45:06.45Z",
     "version_history": [
+      {
+        "version": "0.121.2025050818",
+        "lastUpdated": "2025-05-08T18:45:06.45Z"
+      },
       {
         "version": "0.120.2025050815",
         "lastUpdated": "2025-05-08T17:47:53.993Z"
@@ -8002,6 +8006,10 @@
       {
         "version": "0.120.2025040915",
         "lastUpdated": "2025-04-09T15:19:16.25Z"
+      },
+      {
+        "version": "0.120.0",
+        "lastUpdated": "2025-05-08T20:06:59.99Z"
       },
       {
         "version": "0.119.2025033120",
@@ -8058,19 +8066,11 @@
       {
         "version": "0.118.2025020617",
         "lastUpdated": "2025-02-06T18:10:21.637Z"
-      },
-      {
-        "version": "0.118.0",
-        "lastUpdated": "2025-03-05T19:47:09.053Z"
-      },
-      {
-        "version": "0.117.2025013120",
-        "lastUpdated": "2025-01-31T20:35:33.95Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.120.2025050815/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025050818/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -8510,9 +8510,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.5.117",
-    "last_updated": "2025-05-02T00:18:54.03Z",
+    "latest_version": "2025.5.817",
+    "last_updated": "2025-05-09T00:18:09.683Z",
     "version_history": [
+      {
+        "version": "2025.5.817",
+        "lastUpdated": "2025-05-09T00:18:09.683Z"
+      },
       {
         "version": "2025.5.117",
         "lastUpdated": "2025-05-02T00:18:54.03Z"
@@ -8588,15 +8592,11 @@
       {
         "version": "2024.11.1917",
         "lastUpdated": "2024-11-20T01:14:26.717Z"
-      },
-      {
-        "version": "2024.11.1117",
-        "lastUpdated": "2024-11-12T10:49:34.693Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.5.117/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.5.817/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -9161,9 +9161,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250507",
-    "last_updated": "2025-05-08T00:18:04.183Z",
+    "latest_version": "5.9.20250508",
+    "last_updated": "2025-05-09T00:17:06.09Z",
     "version_history": [
+      {
+        "version": "5.9.20250508",
+        "lastUpdated": "2025-05-09T00:17:06.09Z"
+      },
       {
         "version": "5.9.20250507",
         "lastUpdated": "2025-05-08T00:18:04.183Z"
@@ -9239,15 +9243,11 @@
       {
         "version": "5.9.20250327",
         "lastUpdated": "2025-03-28T00:17:14.423Z"
-      },
-      {
-        "version": "5.9.20250326",
-        "lastUpdated": "2025-03-27T00:19:09.487Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250507/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11042,9 +11042,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2452",
-    "last_updated": "2025-05-08T00:57:58.53Z",
+    "latest_version": "0.4.2453",
+    "last_updated": "2025-05-09T00:56:34.45Z",
     "version_history": [
+      {
+        "version": "0.4.2453",
+        "lastUpdated": "2025-05-09T00:56:34.45Z"
+      },
       {
         "version": "0.4.2452",
         "lastUpdated": "2025-05-08T00:57:58.53Z"
@@ -11120,15 +11124,11 @@
       {
         "version": "0.4.2430",
         "lastUpdated": "2025-04-21T00:57:25.563Z"
-      },
-      {
-        "version": "0.4.2429",
-        "lastUpdated": "2025-04-20T00:59:34.943Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2452/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2453/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11707,9 +11707,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.11.4",
-    "last_updated": "2025-05-05T22:41:26.353Z",
+    "latest_version": "0.12.0",
+    "last_updated": "2025-05-08T23:06:13.57Z",
     "version_history": [
+      {
+        "version": "0.12.0",
+        "lastUpdated": "2025-05-08T23:06:13.57Z"
+      },
       {
         "version": "0.11.4",
         "lastUpdated": "2025-05-05T22:41:26.353Z"
@@ -11785,15 +11789,11 @@
       {
         "version": "0.3.3",
         "lastUpdated": "2025-01-15T15:10:30.343Z"
-      },
-      {
-        "version": "0.3.2",
-        "lastUpdated": "2025-01-14T17:38:47.79Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.11.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
