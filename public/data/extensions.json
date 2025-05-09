@@ -9890,9 +9890,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.16.9",
-    "last_updated": "2025-05-03T13:30:42.547Z",
+    "latest_version": "0.16.10",
+    "last_updated": "2025-05-09T07:05:26.057Z",
     "version_history": [
+      {
+        "version": "0.16.10",
+        "lastUpdated": "2025-05-09T07:05:26.057Z"
+      },
       {
         "version": "0.16.9",
         "lastUpdated": "2025-05-03T13:30:42.547Z"
@@ -9968,15 +9972,11 @@
       {
         "version": "0.15.6",
         "lastUpdated": "2025-01-13T03:26:01.717Z"
-      },
-      {
-        "version": "0.15.5",
-        "lastUpdated": "2025-01-02T11:10:21.473Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -10298,9 +10298,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.7.0",
-    "last_updated": "2025-04-29T15:06:34.49Z",
+    "latest_version": "6.7.1",
+    "last_updated": "2025-05-09T10:41:53.78Z",
     "version_history": [
+      {
+        "version": "6.7.1",
+        "lastUpdated": "2025-05-09T10:41:53.78Z"
+      },
       {
         "version": "6.7.0",
         "lastUpdated": "2025-04-29T15:06:34.49Z"
@@ -10376,15 +10380,11 @@
       {
         "version": "5.17.0",
         "lastUpdated": "2024-07-16T13:39:39.643Z"
-      },
-      {
-        "version": "5.16.1",
-        "lastUpdated": "2024-06-27T13:11:33.927Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["javascript", "javascriptreact", "linters", "prisma", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.7.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.7.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -10763,9 +10763,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.42.2025050808",
-    "last_updated": "2025-05-08T08:43:38.353Z",
+    "latest_version": "1.42.2025050908",
+    "last_updated": "2025-05-09T08:48:11.333Z",
     "version_history": [
+      {
+        "version": "1.42.2025050908",
+        "lastUpdated": "2025-05-09T08:48:11.333Z"
+      },
       {
         "version": "1.42.2025050808",
         "lastUpdated": "2025-05-08T08:43:38.353Z"
@@ -10841,15 +10845,11 @@
       {
         "version": "1.41.2025030108",
         "lastUpdated": "2025-03-01T08:23:32.7Z"
-      },
-      {
-        "version": "1.41.2025022808",
-        "lastUpdated": "2025-02-28T08:25:05.013Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.42.2025050808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.42.2025050908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -12910,9 +12910,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.18.0",
-    "last_updated": "2025-04-29T18:33:29.893Z",
+    "latest_version": "1.18.1",
+    "last_updated": "2025-05-09T08:04:37.213Z",
     "version_history": [
+      {
+        "version": "1.18.1",
+        "lastUpdated": "2025-05-09T08:04:37.213Z"
+      },
       {
         "version": "1.18.0",
         "lastUpdated": "2025-04-29T18:33:29.893Z"
@@ -12988,15 +12992,11 @@
       {
         "version": "1.10.2",
         "lastUpdated": "2025-01-16T13:01:26.227Z"
-      },
-      {
-        "version": "1.10.1",
-        "lastUpdated": "2025-01-14T05:45:01.65Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.18.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
