@@ -12911,6 +12911,99 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"
   },
   {
+    "extension_name": "vitest.explorer",
+    "display_name": "Vitest",
+    "short_description": "A Vite-native testing framework. It's fast!",
+    "latest_version": "1.18.1",
+    "last_updated": "2025-05-09T08:04:37.213Z",
+    "version_history": [
+      {
+        "version": "1.18.1",
+        "lastUpdated": "2025-05-09T08:04:37.213Z"
+      },
+      {
+        "version": "1.18.0",
+        "lastUpdated": "2025-04-29T18:33:29.893Z"
+      },
+      {
+        "version": "1.17.1",
+        "lastUpdated": "2025-04-28T16:03:34.547Z"
+      },
+      {
+        "version": "1.17.0",
+        "lastUpdated": "2025-03-22T11:38:26.88Z"
+      },
+      {
+        "version": "1.16.1",
+        "lastUpdated": "2025-03-21T10:25:18.957Z"
+      },
+      {
+        "version": "1.16.0",
+        "lastUpdated": "2025-03-03T15:55:31.88Z"
+      },
+      {
+        "version": "1.14.4",
+        "lastUpdated": "2025-02-22T10:05:31.44Z"
+      },
+      {
+        "version": "1.14.3",
+        "lastUpdated": "2025-02-18T16:16:55.033Z"
+      },
+      {
+        "version": "1.14.2",
+        "lastUpdated": "2025-02-18T16:05:30.17Z"
+      },
+      {
+        "version": "1.14.1",
+        "lastUpdated": "2025-02-14T14:04:45.577Z"
+      },
+      {
+        "version": "1.14.0",
+        "lastUpdated": "2025-02-13T15:36:36.183Z"
+      },
+      {
+        "version": "1.13.0",
+        "lastUpdated": "2025-02-11T16:03:43.8Z"
+      },
+      {
+        "version": "1.12.1",
+        "lastUpdated": "2025-02-07T16:45:42.907Z"
+      },
+      {
+        "version": "1.12.0",
+        "lastUpdated": "2025-02-07T16:32:26.1Z"
+      },
+      {
+        "version": "1.10.7",
+        "lastUpdated": "2025-02-04T15:16:18.27Z"
+      },
+      {
+        "version": "1.10.6",
+        "lastUpdated": "2025-01-23T15:52:13.88Z"
+      },
+      {
+        "version": "1.10.5",
+        "lastUpdated": "2025-01-22T17:23:49.217Z"
+      },
+      {
+        "version": "1.10.4",
+        "lastUpdated": "2025-01-22T14:26:02.06Z"
+      },
+      {
+        "version": "1.10.3",
+        "lastUpdated": "2025-01-21T15:20:16.137Z"
+      },
+      {
+        "version": "1.10.2",
+        "lastUpdated": "2025-01-16T13:01:26.227Z"
+      }
+    ],
+    "categories": ["Testing"],
+    "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.18.1/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
+  },
+  {
     "extension_name": "vivaxy.vscode-conventional-commits",
     "display_name": "Conventional Commits",
     "short_description": "💬Conventional Commits for VSCode.",
