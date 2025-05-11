@@ -9068,9 +9068,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250510001",
-    "last_updated": "2025-05-10T02:52:57.547Z",
+    "latest_version": "0.13.250511001",
+    "last_updated": "2025-05-11T02:51:11.027Z",
     "version_history": [
+      {
+        "version": "0.13.250511001",
+        "lastUpdated": "2025-05-11T02:51:11.027Z"
+      },
       {
         "version": "0.13.250510001",
         "lastUpdated": "2025-05-10T02:52:57.547Z"
@@ -9146,15 +9150,11 @@
       {
         "version": "0.13.250413001",
         "lastUpdated": "2025-04-13T02:58:59.38Z"
-      },
-      {
-        "version": "0.13.250412001",
-        "lastUpdated": "2025-04-12T02:52:57.293Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250510001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250511001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11047,11 +11047,11 @@
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
     "latest_version": "0.4.2455",
-    "last_updated": "2025-05-11T01:00:49.36Z",
+    "last_updated": "2025-05-11T00:56:14.737Z",
     "version_history": [
       {
         "version": "0.4.2455",
-        "lastUpdated": "2025-05-11T01:00:49.36Z"
+        "lastUpdated": "2025-05-11T00:56:14.737Z"
       },
       {
         "version": "0.4.2454",
