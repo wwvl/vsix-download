@@ -9161,9 +9161,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250509",
-    "last_updated": "2025-05-10T00:16:38.773Z",
+    "latest_version": "5.9.20250510",
+    "last_updated": "2025-05-11T00:19:35.217Z",
     "version_history": [
+      {
+        "version": "5.9.20250510",
+        "lastUpdated": "2025-05-11T00:19:35.217Z"
+      },
       {
         "version": "5.9.20250509",
         "lastUpdated": "2025-05-10T00:16:38.773Z"
@@ -9239,15 +9243,11 @@
       {
         "version": "5.9.20250329",
         "lastUpdated": "2025-03-30T00:17:28.41Z"
-      },
-      {
-        "version": "5.9.20250328",
-        "lastUpdated": "2025-03-29T00:16:16.933Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250509/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250510/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11046,9 +11046,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2454",
-    "last_updated": "2025-05-10T00:57:13.663Z",
+    "latest_version": "0.4.2455",
+    "last_updated": "2025-05-11T01:00:49.36Z",
     "version_history": [
+      {
+        "version": "0.4.2455",
+        "lastUpdated": "2025-05-11T01:00:49.36Z"
+      },
       {
         "version": "0.4.2454",
         "lastUpdated": "2025-05-10T00:57:13.663Z"
@@ -11124,15 +11128,11 @@
       {
         "version": "0.4.2434",
         "lastUpdated": "2025-04-22T00:54:52.857Z"
-      },
-      {
-        "version": "0.4.2432",
-        "lastUpdated": "2025-04-21T07:45:57.14Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2454/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2455/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11347,9 +11347,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.15.0",
-    "last_updated": "2025-05-10T00:27:44.423Z",
+    "latest_version": "3.15.1",
+    "last_updated": "2025-05-11T00:55:46.007Z",
     "version_history": [
+      {
+        "version": "3.15.1",
+        "lastUpdated": "2025-05-11T00:55:46.007Z"
+      },
       {
         "version": "3.15.0",
         "lastUpdated": "2025-05-10T00:27:44.423Z"
@@ -11425,15 +11429,11 @@
       {
         "version": "3.8.6",
         "lastUpdated": "2025-04-02T01:19:22.74Z"
-      },
-      {
-        "version": "3.8.5",
-        "lastUpdated": "2025-04-01T02:48:16.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
