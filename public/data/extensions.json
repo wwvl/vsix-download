@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1005",
-    "last_updated": "2025-05-10T09:12:20.827Z",
+    "latest_version": "2025.5.1105",
+    "last_updated": "2025-05-11T09:13:21.46Z",
     "version_history": [
+      {
+        "version": "2025.5.1105",
+        "lastUpdated": "2025-05-11T09:13:21.46Z"
+      },
       {
         "version": "2025.5.1005",
         "lastUpdated": "2025-05-10T09:12:20.827Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.1815",
         "lastUpdated": "2025-04-18T19:56:45.127Z"
-      },
-      {
-        "version": "2025.4.1805",
-        "lastUpdated": "2025-04-18T09:13:20.417Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -11047,11 +11047,11 @@
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
     "latest_version": "0.4.2455",
-    "last_updated": "2025-05-11T00:56:14.737Z",
+    "last_updated": "2025-05-11T01:00:49.36Z",
     "version_history": [
       {
         "version": "0.4.2455",
-        "lastUpdated": "2025-05-11T00:56:14.737Z"
+        "lastUpdated": "2025-05-11T01:00:49.36Z"
       },
       {
         "version": "0.4.2454",
