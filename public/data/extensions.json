@@ -403,9 +403,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.22.11",
-    "last_updated": "2025-05-12T04:17:01.583Z",
+    "latest_version": "2.22.12",
+    "last_updated": "2025-05-12T12:17:19.443Z",
     "version_history": [
+      {
+        "version": "2.22.12",
+        "lastUpdated": "2025-05-12T12:17:19.443Z"
+      },
       {
         "version": "2.22.11",
         "lastUpdated": "2025-05-12T04:17:01.583Z"
@@ -481,10 +485,6 @@
       {
         "version": "2.17.7",
         "lastUpdated": "2024-11-01T02:30:23.223Z"
-      },
-      {
-        "version": "2.17.6",
-        "lastUpdated": "2024-10-28T07:51:01.867Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -512,7 +512,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025051201",
-    "last_updated": "2025-05-12T04:30:48.727Z",
+    "latest_version": "0.28.2025051202",
+    "last_updated": "2025-05-12T09:56:26.76Z",
     "version_history": [
+      {
+        "version": "0.28.2025051202",
+        "lastUpdated": "2025-05-12T09:56:26.76Z"
+      },
       {
         "version": "0.28.2025051201",
         "lastUpdated": "2025-05-12T04:30:48.727Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025042503",
         "lastUpdated": "2025-04-25T08:46:04.2Z"
-      },
-      {
-        "version": "0.27.2025042402",
-        "lastUpdated": "2025-04-24T18:17:52.91Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.111.2025051204",
-    "last_updated": "2025-05-12T04:27:28.963Z",
+    "latest_version": "0.111.2025051212",
+    "last_updated": "2025-05-12T12:20:08.657Z",
     "version_history": [
+      {
+        "version": "0.111.2025051212",
+        "lastUpdated": "2025-05-12T12:20:08.657Z"
+      },
       {
         "version": "0.111.2025051204",
         "lastUpdated": "2025-05-12T04:27:28.963Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025042204",
         "lastUpdated": "2025-04-22T04:21:51.033Z"
-      },
-      {
-        "version": "0.109.2025042104",
-        "lastUpdated": "2025-04-21T04:22:13.37Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025051204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025051212/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -7448,9 +7448,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.8.0",
-    "last_updated": "2025-05-08T19:01:57.91Z",
+    "latest_version": "2025.9.2025051201",
+    "last_updated": "2025-05-12T10:35:15.2Z",
     "version_history": [
+      {
+        "version": "2025.9.2025051201",
+        "lastUpdated": "2025-05-12T10:35:15.2Z"
+      },
       {
         "version": "2025.8.0",
         "lastUpdated": "2025-05-08T19:01:57.91Z"
@@ -7526,24 +7530,24 @@
       {
         "version": "2024.15.2025012301",
         "lastUpdated": "2025-01-24T01:50:25.303Z"
-      },
-      {
-        "version": "2024.15.2025012001",
-        "lastUpdated": "2025-01-20T10:37:51.02Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.9.2025051201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025050601",
-    "last_updated": "2025-05-06T08:46:44.463Z",
+    "latest_version": "2025.7.2025051201",
+    "last_updated": "2025-05-12T10:44:26.23Z",
     "version_history": [
+      {
+        "version": "2025.7.2025051201",
+        "lastUpdated": "2025-05-12T10:44:26.23Z"
+      },
       {
         "version": "2025.7.2025050601",
         "lastUpdated": "2025-05-06T08:46:44.463Z"
@@ -7619,10 +7623,6 @@
       {
         "version": "2025.3.2025031001",
         "lastUpdated": "2025-03-10T10:46:49.18Z"
-      },
-      {
-        "version": "2025.3.2025030601",
-        "lastUpdated": "2025-03-06T10:47:07.78Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7643,7 +7643,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025050601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
