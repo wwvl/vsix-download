@@ -1341,9 +1341,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automating the process of writing meaningful log messages.",
-    "latest_version": "2.15.3",
-    "last_updated": "2025-04-14T04:45:06Z",
+    "latest_version": "2.16.0",
+    "last_updated": "2025-05-11T22:41:14.723Z",
     "version_history": [
+      {
+        "version": "2.16.0",
+        "lastUpdated": "2025-05-11T22:41:14.723Z"
+      },
       {
         "version": "2.15.3",
         "lastUpdated": "2025-04-14T04:45:06Z"
@@ -1419,15 +1423,11 @@
       {
         "version": "2.10.5",
         "lastUpdated": "2024-10-20T02:08:04.073Z"
-      },
-      {
-        "version": "2.10.4",
-        "lastUpdated": "2024-01-21T22:18:57.827Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.15.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -9161,9 +9161,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250510",
-    "last_updated": "2025-05-11T00:19:35.217Z",
+    "latest_version": "5.9.20250511",
+    "last_updated": "2025-05-12T00:18:30.763Z",
     "version_history": [
+      {
+        "version": "5.9.20250511",
+        "lastUpdated": "2025-05-12T00:18:30.763Z"
+      },
       {
         "version": "5.9.20250510",
         "lastUpdated": "2025-05-11T00:19:35.217Z"
@@ -9239,15 +9243,11 @@
       {
         "version": "5.9.20250330",
         "lastUpdated": "2025-03-31T00:16:19.78Z"
-      },
-      {
-        "version": "5.9.20250329",
-        "lastUpdated": "2025-03-30T00:17:28.41Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250510/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250511/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11046,9 +11046,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2455",
-    "last_updated": "2025-05-11T01:00:49.36Z",
+    "latest_version": "0.4.2456",
+    "last_updated": "2025-05-12T00:58:15.98Z",
     "version_history": [
+      {
+        "version": "0.4.2456",
+        "lastUpdated": "2025-05-12T00:58:15.98Z"
+      },
       {
         "version": "0.4.2455",
         "lastUpdated": "2025-05-11T01:00:49.36Z"
@@ -11124,15 +11128,11 @@
       {
         "version": "0.4.2435",
         "lastUpdated": "2025-04-23T00:57:55.933Z"
-      },
-      {
-        "version": "0.4.2434",
-        "lastUpdated": "2025-04-22T00:54:52.857Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2455/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2456/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14012,9 +14012,13 @@
     "extension_name": "vscode-icons-team.vscode-icons",
     "display_name": "vscode-icons",
     "short_description": "Icons for Visual Studio Code",
-    "latest_version": "12.12.0",
-    "last_updated": "2025-03-28T21:40:07.09Z",
+    "latest_version": "12.13.0",
+    "last_updated": "2025-05-11T19:07:14.94Z",
     "version_history": [
+      {
+        "version": "12.13.0",
+        "lastUpdated": "2025-05-11T19:07:14.94Z"
+      },
       {
         "version": "12.12.0",
         "lastUpdated": "2025-03-28T21:40:07.09Z"
@@ -14090,15 +14094,11 @@
       {
         "version": "11.16.0",
         "lastUpdated": "2022-08-28T17:07:43.687Z"
-      },
-      {
-        "version": "11.15.0",
-        "lastUpdated": "2022-08-07T21:05:47.853Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["icons", "icon-theme", "multi-root ready", "portable mode ready", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscode-icons-team/vsextensions/vscode-icons/12.13.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons"
   },
   {
