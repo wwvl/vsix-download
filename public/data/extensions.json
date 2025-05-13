@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1202",
-    "last_updated": "2025-05-12T06:24:31.197Z",
+    "latest_version": "2025.5.1305",
+    "last_updated": "2025-05-13T09:15:13.09Z",
     "version_history": [
+      {
+        "version": "2025.5.1305",
+        "lastUpdated": "2025-05-13T09:15:13.09Z"
+      },
       {
         "version": "2025.5.1202",
         "lastUpdated": "2025-05-12T06:24:31.197Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.2205",
         "lastUpdated": "2025-04-22T09:14:12.947Z"
-      },
-      {
-        "version": "2025.4.2105",
-        "lastUpdated": "2025-04-21T09:14:01.13Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7541,9 +7541,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025051201",
-    "last_updated": "2025-05-12T10:44:26.23Z",
+    "latest_version": "2025.7.2025051301",
+    "last_updated": "2025-05-13T10:49:44.39Z",
     "version_history": [
+      {
+        "version": "2025.7.2025051301",
+        "lastUpdated": "2025-05-13T10:49:44.39Z"
+      },
       {
         "version": "2025.7.2025051201",
         "lastUpdated": "2025-05-12T10:44:26.23Z"
@@ -7619,10 +7623,6 @@
       {
         "version": "2025.3.2025031701",
         "lastUpdated": "2025-03-17T10:43:30.823Z"
-      },
-      {
-        "version": "2025.3.2025031001",
-        "lastUpdated": "2025-03-10T10:46:49.18Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7643,7 +7643,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -8603,9 +8603,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2024091601",
-    "last_updated": "2024-09-16T09:20:57.98Z",
+    "latest_version": "0.5.2025051301",
+    "last_updated": "2025-05-13T09:23:51.93Z",
     "version_history": [
+      {
+        "version": "0.5.2025051301",
+        "lastUpdated": "2025-05-13T09:23:51.93Z"
+      },
       {
         "version": "0.5.2024091601",
         "lastUpdated": "2024-09-16T09:20:57.98Z"
@@ -8681,15 +8685,11 @@
       {
         "version": "0.5.2023100501",
         "lastUpdated": "2023-10-05T09:16:26.473Z"
-      },
-      {
-        "version": "0.5.2023100201",
-        "lastUpdated": "2023-10-02T09:21:10.323Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2024091601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025051301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
