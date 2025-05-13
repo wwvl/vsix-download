@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.318.1558",
-    "last_updated": "2025-05-12T16:20:53.38Z",
+    "latest_version": "1.319.1560",
+    "last_updated": "2025-05-13T01:46:30.767Z",
     "version_history": [
+      {
+        "version": "1.319.1560",
+        "lastUpdated": "2025-05-13T01:46:30.767Z"
+      },
       {
         "version": "1.318.1558",
         "lastUpdated": "2025-05-12T16:20:53.38Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.308.1532",
         "lastUpdated": "2025-04-25T16:41:05.643Z"
-      },
-      {
-        "version": "1.308.1531",
-        "lastUpdated": "2025-04-25T16:24:14.14Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.318.1558/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.319.1560/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.111.2025051212",
-    "last_updated": "2025-05-12T12:20:08.657Z",
+    "latest_version": "0.111.2025051304",
+    "last_updated": "2025-05-13T04:24:13.217Z",
     "version_history": [
+      {
+        "version": "0.111.2025051304",
+        "lastUpdated": "2025-05-13T04:24:13.217Z"
+      },
       {
         "version": "0.111.2025051212",
         "lastUpdated": "2025-05-12T12:20:08.657Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025042304",
         "lastUpdated": "2025-04-23T04:23:00.487Z"
-      },
-      {
-        "version": "0.109.2025042204",
-        "lastUpdated": "2025-04-22T04:21:51.033Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025051212/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025051304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8324,9 +8324,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.23",
-    "last_updated": "2025-05-12T04:23:19.45Z",
+    "latest_version": "1.21.24",
+    "last_updated": "2025-05-13T04:25:07.41Z",
     "version_history": [
+      {
+        "version": "1.21.24",
+        "lastUpdated": "2025-05-13T04:25:07.41Z"
+      },
       {
         "version": "1.21.23",
         "lastUpdated": "2025-05-12T04:23:19.45Z"
@@ -8402,15 +8406,11 @@
       {
         "version": "1.21.5",
         "lastUpdated": "2025-03-12T04:25:42.57Z"
-      },
-      {
-        "version": "1.21.4",
-        "lastUpdated": "2025-03-11T04:29:41.37Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.23/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.24/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -9068,9 +9068,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250512001",
-    "last_updated": "2025-05-12T02:52:17.877Z",
+    "latest_version": "0.13.250513001",
+    "last_updated": "2025-05-13T02:55:04.787Z",
     "version_history": [
+      {
+        "version": "0.13.250513001",
+        "lastUpdated": "2025-05-13T02:55:04.787Z"
+      },
       {
         "version": "0.13.250512001",
         "lastUpdated": "2025-05-12T02:52:17.877Z"
@@ -9146,15 +9150,11 @@
       {
         "version": "0.13.250416001",
         "lastUpdated": "2025-04-16T02:53:14.82Z"
-      },
-      {
-        "version": "0.13.250414001",
-        "lastUpdated": "2025-04-14T02:50:34.197Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250512001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250513001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -13162,11 +13162,11 @@
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
     "latest_version": "1.63.2025051300",
-    "last_updated": "2025-05-13T00:38:39.81Z",
+    "last_updated": "2025-05-13T01:01:40.05Z",
     "version_history": [
       {
         "version": "1.63.2025051300",
-        "lastUpdated": "2025-05-13T00:38:39.81Z"
+        "lastUpdated": "2025-05-13T01:01:40.05Z"
       },
       {
         "version": "1.63.2025051000",
@@ -13919,9 +13919,13 @@
     "extension_name": "vscjava.vscode-spring-initializr",
     "display_name": "Spring Initializr Java Support",
     "short_description": "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.",
-    "latest_version": "0.11.2024112703",
-    "last_updated": "2024-11-27T08:07:34.837Z",
+    "latest_version": "0.11.2025051201",
+    "last_updated": "2025-05-13T01:57:53.14Z",
     "version_history": [
+      {
+        "version": "0.11.2025051201",
+        "lastUpdated": "2025-05-13T01:57:53.14Z"
+      },
       {
         "version": "0.11.2024112703",
         "lastUpdated": "2024-11-27T08:07:34.837Z"
@@ -13997,15 +14001,11 @@
       {
         "version": "0.10.2022071503",
         "lastUpdated": "2022-07-15T03:05:47.273Z"
-      },
-      {
-        "version": "0.10.2022071403",
-        "lastUpdated": "2022-07-14T03:05:41.217Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2024112703/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2025051201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr"
   },
   {
