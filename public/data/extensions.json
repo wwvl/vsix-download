@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025051401",
-    "last_updated": "2025-05-14T04:33:32.607Z",
+    "latest_version": "0.28.2025051402",
+    "last_updated": "2025-05-14T08:32:37.373Z",
     "version_history": [
+      {
+        "version": "0.28.2025051402",
+        "lastUpdated": "2025-05-14T08:32:37.373Z"
+      },
       {
         "version": "0.28.2025051401",
         "lastUpdated": "2025-05-14T04:33:32.607Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025042802",
         "lastUpdated": "2025-04-28T21:22:10.107Z"
-      },
-      {
-        "version": "0.27.2025042801",
-        "lastUpdated": "2025-04-28T04:27:49.427Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051402/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6738,9 +6738,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.100.2025050709",
-    "last_updated": "2025-05-07T09:19:14.607Z",
+    "latest_version": "1.100.2025051409",
+    "last_updated": "2025-05-14T09:18:35.36Z",
     "version_history": [
+      {
+        "version": "1.100.2025051409",
+        "lastUpdated": "2025-05-14T09:18:35.36Z"
+      },
       {
         "version": "1.100.2025050709",
         "lastUpdated": "2025-05-07T09:19:14.607Z"
@@ -6816,15 +6820,11 @@
       {
         "version": "1.97.2025010809",
         "lastUpdated": "2025-01-08T09:28:56.553Z"
-      },
-      {
-        "version": "1.97.2025010109",
-        "lastUpdated": "2025-01-01T09:14:08.1Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025050709/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025051409/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -7541,9 +7541,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025051301",
-    "last_updated": "2025-05-13T10:49:44.39Z",
+    "latest_version": "2025.7.2025051401",
+    "last_updated": "2025-05-14T10:52:09.157Z",
     "version_history": [
+      {
+        "version": "2025.7.2025051401",
+        "lastUpdated": "2025-05-14T10:52:09.157Z"
+      },
       {
         "version": "2025.7.2025051301",
         "lastUpdated": "2025-05-13T10:49:44.39Z"
@@ -7619,10 +7623,6 @@
       {
         "version": "2025.3.2025032001",
         "lastUpdated": "2025-03-20T10:44:02.74Z"
-      },
-      {
-        "version": "2025.3.2025031701",
-        "lastUpdated": "2025-03-17T10:43:30.823Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7643,7 +7643,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -14748,9 +14748,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.432",
-    "last_updated": "2025-05-07T02:15:28.09Z",
+    "latest_version": "1.0.438",
+    "last_updated": "2025-05-14T09:43:23.313Z",
     "version_history": [
+      {
+        "version": "1.0.438",
+        "lastUpdated": "2025-05-14T09:43:23.313Z"
+      },
+      {
+        "version": "1.0.437",
+        "lastUpdated": "2025-05-14T08:56:29.05Z"
+      },
       {
         "version": "1.0.432",
         "lastUpdated": "2025-05-07T02:15:28.09Z"
@@ -14822,19 +14830,11 @@
       {
         "version": "1.0.411",
         "lastUpdated": "2025-04-01T22:12:10.783Z"
-      },
-      {
-        "version": "1.0.410",
-        "lastUpdated": "2025-03-31T23:26:06.947Z"
-      },
-      {
-        "version": "1.0.409",
-        "lastUpdated": "2025-03-27T06:20:18.997Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.432/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.438/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
