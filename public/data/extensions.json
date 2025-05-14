@@ -2300,9 +2300,13 @@
     "extension_name": "denoland.vscode-deno",
     "display_name": "Deno",
     "short_description": "A language server client for Deno.",
-    "latest_version": "3.44.1",
-    "last_updated": "2025-05-04T07:47:24.1Z",
+    "latest_version": "3.44.2",
+    "last_updated": "2025-05-13T20:32:16.07Z",
     "version_history": [
+      {
+        "version": "3.44.2",
+        "lastUpdated": "2025-05-13T20:32:16.07Z"
+      },
       {
         "version": "3.44.1",
         "lastUpdated": "2025-05-04T07:47:24.1Z"
@@ -2378,15 +2382,11 @@
       {
         "version": "3.37.0",
         "lastUpdated": "2024-04-12T21:03:48.473Z"
-      },
-      {
-        "version": "3.36.0",
-        "lastUpdated": "2024-03-27T03:55:54.063Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
     "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.44.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.44.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
   },
   {
@@ -2951,9 +2951,17 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1305",
-    "last_updated": "2025-05-13T09:15:13.09Z",
+    "latest_version": "2025.5.1318",
+    "last_updated": "2025-05-13T23:00:02.74Z",
     "version_history": [
+      {
+        "version": "2025.5.1318",
+        "lastUpdated": "2025-05-13T23:00:02.74Z"
+      },
+      {
+        "version": "2025.5.1314",
+        "lastUpdated": "2025-05-13T19:00:58.293Z"
+      },
       {
         "version": "2025.5.1305",
         "lastUpdated": "2025-05-13T09:15:13.09Z"
@@ -3025,19 +3033,11 @@
       {
         "version": "2025.4.2405",
         "lastUpdated": "2025-04-24T09:14:11.84Z"
-      },
-      {
-        "version": "2025.4.2219",
-        "lastUpdated": "2025-04-22T23:07:12.883Z"
-      },
-      {
-        "version": "2025.4.2205",
-        "lastUpdated": "2025-04-22T09:14:12.947Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1305/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1318/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5582,9 +5582,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.45.0",
-    "last_updated": "2025-05-04T17:05:09.507Z",
+    "latest_version": "1.46.0",
+    "last_updated": "2025-05-13T20:02:31.657Z",
     "version_history": [
+      {
+        "version": "1.46.0",
+        "lastUpdated": "2025-05-13T20:02:31.657Z"
+      },
       {
         "version": "1.45.0",
         "lastUpdated": "2025-05-04T17:05:09.507Z"
@@ -5660,15 +5664,11 @@
       {
         "version": "1.33.0",
         "lastUpdated": "2024-09-27T09:30:02.74Z"
-      },
-      {
-        "version": "1.32.4",
-        "lastUpdated": "2024-09-11T18:23:56.533Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.45.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.46.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
@@ -9161,9 +9161,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250512",
-    "last_updated": "2025-05-13T00:20:17.207Z",
+    "latest_version": "5.9.20250513",
+    "last_updated": "2025-05-14T00:17:45.763Z",
     "version_history": [
+      {
+        "version": "5.9.20250513",
+        "lastUpdated": "2025-05-14T00:17:45.763Z"
+      },
       {
         "version": "5.9.20250512",
         "lastUpdated": "2025-05-13T00:20:17.207Z"
@@ -9239,15 +9243,11 @@
       {
         "version": "5.9.20250424",
         "lastUpdated": "2025-04-25T00:16:21.963Z"
-      },
-      {
-        "version": "5.9.20250423",
-        "lastUpdated": "2025-04-23T19:55:07.35Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250512/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250513/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11046,9 +11046,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2458",
-    "last_updated": "2025-05-13T01:00:12.91Z",
+    "latest_version": "0.4.2459",
+    "last_updated": "2025-05-14T00:57:02.317Z",
     "version_history": [
+      {
+        "version": "0.4.2459",
+        "lastUpdated": "2025-05-14T00:57:02.317Z"
+      },
       {
         "version": "0.4.2458",
         "lastUpdated": "2025-05-13T01:00:12.91Z"
@@ -11124,15 +11128,11 @@
       {
         "version": "0.4.2437",
         "lastUpdated": "2025-04-25T00:57:34.357Z"
-      },
-      {
-        "version": "0.4.2436",
-        "lastUpdated": "2025-04-24T00:57:45.333Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2458/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2459/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11347,9 +11347,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.15.2",
-    "last_updated": "2025-05-12T23:11:58.69Z",
+    "latest_version": "3.15.3",
+    "last_updated": "2025-05-13T23:38:18.213Z",
     "version_history": [
+      {
+        "version": "3.15.3",
+        "lastUpdated": "2025-05-13T23:38:18.213Z"
+      },
       {
         "version": "3.15.2",
         "lastUpdated": "2025-05-12T23:11:58.69Z"
@@ -11425,15 +11429,11 @@
       {
         "version": "3.9.1",
         "lastUpdated": "2025-04-04T18:43:57.827Z"
-      },
-      {
-        "version": "3.9.0",
-        "lastUpdated": "2025-04-04T05:27:13.06Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -13162,11 +13162,11 @@
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
     "latest_version": "1.63.2025051300",
-    "last_updated": "2025-05-13T00:38:39.81Z",
+    "last_updated": "2025-05-13T01:01:40.05Z",
     "version_history": [
       {
         "version": "1.63.2025051300",
-        "lastUpdated": "2025-05-13T00:38:39.81Z"
+        "lastUpdated": "2025-05-13T01:01:40.05Z"
       },
       {
         "version": "1.63.2025051000",
