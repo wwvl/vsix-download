@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1318",
-    "last_updated": "2025-05-13T23:00:02.74Z",
+    "latest_version": "2025.5.1412",
+    "last_updated": "2025-05-14T16:26:42.073Z",
     "version_history": [
+      {
+        "version": "2025.5.1412",
+        "lastUpdated": "2025-05-14T16:26:42.073Z"
+      },
       {
         "version": "2025.5.1318",
         "lastUpdated": "2025-05-13T23:00:02.74Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.2413",
         "lastUpdated": "2025-04-24T17:12:16.433Z"
-      },
-      {
-        "version": "2025.4.2405",
-        "lastUpdated": "2025-04-24T09:14:11.84Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1318/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1412/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.319.1562",
-    "last_updated": "2025-05-14T01:51:23.91Z",
+    "latest_version": "1.320.1564",
+    "last_updated": "2025-05-14T16:20:33.003Z",
     "version_history": [
+      {
+        "version": "1.320.1564",
+        "lastUpdated": "2025-05-14T16:20:33.003Z"
+      },
       {
         "version": "1.319.1562",
         "lastUpdated": "2025-05-14T01:51:23.91Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.311.0",
         "lastUpdated": "2025-04-29T06:01:19.107Z"
-      },
-      {
-        "version": "1.310.1538",
-        "lastUpdated": "2025-04-29T01:47:38.867Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.319.1562/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.320.1564/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -6186,9 +6186,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.7",
-    "last_updated": "2025-05-10T05:20:39.113Z",
+    "latest_version": "1.2.9",
+    "last_updated": "2025-05-14T13:53:38.057Z",
     "version_history": [
+      {
+        "version": "1.2.9",
+        "lastUpdated": "2025-05-14T13:53:38.057Z"
+      },
       {
         "version": "1.2.7",
         "lastUpdated": "2025-05-10T05:20:39.113Z"
@@ -6264,10 +6268,6 @@
       {
         "version": "1.1.80",
         "lastUpdated": "2025-03-27T09:38:04.483Z"
-      },
-      {
-        "version": "1.1.79",
-        "lastUpdated": "2025-03-26T03:09:05.24Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -6301,7 +6301,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -7743,9 +7743,13 @@
     "extension_name": "ms-toolsai.datawrangler",
     "display_name": "Data Wrangler",
     "short_description": "Data viewing, cleaning and preparation for tabular datasets",
-    "latest_version": "1.21.4",
-    "last_updated": "2025-04-22T18:03:52.73Z",
+    "latest_version": "1.21.5",
+    "last_updated": "2025-05-14T17:37:04.107Z",
     "version_history": [
+      {
+        "version": "1.21.5",
+        "lastUpdated": "2025-05-14T17:37:04.107Z"
+      },
       {
         "version": "1.21.4",
         "lastUpdated": "2025-04-22T18:03:52.73Z"
@@ -7821,10 +7825,6 @@
       {
         "version": "1.15.0",
         "lastUpdated": "2024-12-04T01:18:49.733Z"
-      },
-      {
-        "version": "1.14.0",
-        "lastUpdated": "2024-12-04T01:25:10.21Z"
       }
     ],
     "categories": ["Data Science", "Machine Learning"],
@@ -7884,7 +7884,7 @@
       "xls",
       "xlsx"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.21.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
   },
   {
@@ -12019,9 +12019,13 @@
     "extension_name": "svelte.svelte-vscode",
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
-    "latest_version": "109.6.0",
-    "last_updated": "2025-05-02T15:55:23.907Z",
+    "latest_version": "109.7.0",
+    "last_updated": "2025-05-14T16:15:08.077Z",
     "version_history": [
+      {
+        "version": "109.7.0",
+        "lastUpdated": "2025-05-14T16:15:08.077Z"
+      },
       {
         "version": "109.6.0",
         "lastUpdated": "2025-05-02T15:55:23.907Z"
@@ -12097,15 +12101,11 @@
       {
         "version": "109.0.1",
         "lastUpdated": "2024-09-12T11:28:15.787Z"
-      },
-      {
-        "version": "109.0.0",
-        "lastUpdated": "2024-09-02T12:04:18.383Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.6.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
   {
