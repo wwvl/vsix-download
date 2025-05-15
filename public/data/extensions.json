@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1412",
-    "last_updated": "2025-05-14T16:26:42.073Z",
+    "latest_version": "2025.5.1419",
+    "last_updated": "2025-05-14T23:15:41.657Z",
     "version_history": [
+      {
+        "version": "2025.5.1419",
+        "lastUpdated": "2025-05-14T23:15:41.657Z"
+      },
       {
         "version": "2025.5.1412",
         "lastUpdated": "2025-05-14T16:26:42.073Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.2505",
         "lastUpdated": "2025-04-25T09:15:33.947Z"
-      },
-      {
-        "version": "2025.4.2413",
-        "lastUpdated": "2025-04-24T17:12:16.433Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1412/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1419/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -3932,9 +3932,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.320.1564",
-    "last_updated": "2025-05-14T16:20:33.003Z",
+    "latest_version": "1.320.1565",
+    "last_updated": "2025-05-14T20:33:27.187Z",
     "version_history": [
+      {
+        "version": "1.320.1565",
+        "lastUpdated": "2025-05-14T20:33:27.187Z"
+      },
       {
         "version": "1.320.1564",
         "lastUpdated": "2025-05-14T16:20:33.003Z"
@@ -4010,10 +4014,6 @@
       {
         "version": "1.311.1540",
         "lastUpdated": "2025-05-01T16:46:47.73Z"
-      },
-      {
-        "version": "1.311.0",
-        "lastUpdated": "2025-04-29T06:01:19.107Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4042,7 +4042,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.320.1564/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.320.1565/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -4636,9 +4636,13 @@
     "extension_name": "GoogleCloudTools.cloudcode",
     "display_name": "Google Cloud Code",
     "short_description": "Tools for Google Cloud",
-    "latest_version": "2.29.0",
-    "last_updated": "2025-04-28T21:29:54.707Z",
+    "latest_version": "2.30.0",
+    "last_updated": "2025-05-15T00:31:47.703Z",
     "version_history": [
+      {
+        "version": "2.30.0",
+        "lastUpdated": "2025-05-15T00:31:47.703Z"
+      },
       {
         "version": "2.29.0",
         "lastUpdated": "2025-04-28T21:29:54.707Z"
@@ -4714,10 +4718,6 @@
       {
         "version": "2.16.4",
         "lastUpdated": "2024-08-17T07:56:56.2Z"
-      },
-      {
-        "version": "2.16.2",
-        "lastUpdated": "2024-08-13T22:20:15.233Z"
       }
     ],
     "categories": ["Snippets", "Linters", "Debuggers"],
@@ -4762,7 +4762,7 @@
       "Skaffold",
       "snippet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.29.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.30.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
   },
   {
@@ -6831,9 +6831,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.19.63",
-    "last_updated": "2025-05-13T17:07:12.61Z",
+    "latest_version": "1.20.4",
+    "last_updated": "2025-05-14T23:27:38.697Z",
     "version_history": [
+      {
+        "version": "1.20.4",
+        "lastUpdated": "2025-05-14T23:27:38.697Z"
+      },
       {
         "version": "1.19.63",
         "lastUpdated": "2025-05-13T17:07:12.61Z"
@@ -6909,24 +6913,28 @@
       {
         "version": "1.16.4",
         "lastUpdated": "2025-01-14T17:16:29.687Z"
-      },
-      {
-        "version": "1.15.34",
-        "lastUpdated": "2025-01-13T20:37:59.793Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.19.63/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.20.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.76.23",
-    "last_updated": "2025-05-08T19:04:02.13Z",
+    "latest_version": "2.78.15",
+    "last_updated": "2025-05-14T21:48:37.163Z",
     "version_history": [
+      {
+        "version": "2.78.15",
+        "lastUpdated": "2025-05-14T21:48:37.163Z"
+      },
+      {
+        "version": "2.76.27",
+        "lastUpdated": "2025-05-14T22:30:13.557Z"
+      },
       {
         "version": "2.76.23",
         "lastUpdated": "2025-05-08T19:04:02.13Z"
@@ -6998,14 +7006,6 @@
       {
         "version": "2.61.27",
         "lastUpdated": "2025-01-08T00:51:09.487Z"
-      },
-      {
-        "version": "2.60.26",
-        "lastUpdated": "2024-12-11T21:54:16.187Z"
-      },
-      {
-        "version": "2.59.14",
-        "lastUpdated": "2024-12-03T21:14:08.51Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -7028,7 +7028,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.76.23/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.78.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -7650,9 +7650,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.4.104",
-    "last_updated": "2025-05-09T18:22:45.55Z",
+    "latest_version": "2025.5.1",
+    "last_updated": "2025-05-15T00:59:28.517Z",
     "version_history": [
+      {
+        "version": "2025.5.1",
+        "lastUpdated": "2025-05-15T00:59:28.517Z"
+      },
       {
         "version": "2025.4.104",
         "lastUpdated": "2025-05-09T18:22:45.55Z"
@@ -7728,15 +7732,11 @@
       {
         "version": "2025.2.1",
         "lastUpdated": "2025-02-05T22:23:51.71Z"
-      },
-      {
-        "version": "2025.1.102",
-        "lastUpdated": "2025-01-30T00:22:46.307Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.4.104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.5.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -9161,9 +9161,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250513",
-    "last_updated": "2025-05-14T00:17:45.763Z",
+    "latest_version": "5.9.20250514",
+    "last_updated": "2025-05-15T00:22:18.05Z",
     "version_history": [
+      {
+        "version": "5.9.20250514",
+        "lastUpdated": "2025-05-15T00:22:18.05Z"
+      },
       {
         "version": "5.9.20250513",
         "lastUpdated": "2025-05-14T00:17:45.763Z"
@@ -9239,15 +9243,11 @@
       {
         "version": "5.9.20250425",
         "lastUpdated": "2025-04-26T00:17:55.72Z"
-      },
-      {
-        "version": "5.9.20250424",
-        "lastUpdated": "2025-04-25T00:16:21.963Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250513/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250514/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11046,9 +11046,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2459",
-    "last_updated": "2025-05-14T00:57:02.317Z",
+    "latest_version": "0.4.2460",
+    "last_updated": "2025-05-15T00:57:07.663Z",
     "version_history": [
+      {
+        "version": "0.4.2460",
+        "lastUpdated": "2025-05-15T00:57:07.663Z"
+      },
       {
         "version": "0.4.2459",
         "lastUpdated": "2025-05-14T00:57:02.317Z"
@@ -11124,15 +11128,11 @@
       {
         "version": "0.4.2438",
         "lastUpdated": "2025-04-26T00:55:27.327Z"
-      },
-      {
-        "version": "0.4.2437",
-        "lastUpdated": "2025-04-25T00:57:34.357Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2459/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2460/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11347,9 +11347,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.15.3",
-    "last_updated": "2025-05-13T23:38:18.213Z",
+    "latest_version": "3.15.4",
+    "last_updated": "2025-05-14T23:47:22.33Z",
     "version_history": [
+      {
+        "version": "3.15.4",
+        "lastUpdated": "2025-05-14T23:47:22.33Z"
+      },
       {
         "version": "3.15.3",
         "lastUpdated": "2025-05-13T23:38:18.213Z"
@@ -11425,15 +11429,11 @@
       {
         "version": "3.9.2",
         "lastUpdated": "2025-04-06T00:56:45.203Z"
-      },
-      {
-        "version": "3.9.1",
-        "lastUpdated": "2025-04-04T18:43:57.827Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -13161,9 +13161,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025051300",
-    "last_updated": "2025-05-13T01:01:40.05Z",
+    "latest_version": "1.63.2025051500",
+    "last_updated": "2025-05-15T00:58:16.15Z",
     "version_history": [
+      {
+        "version": "1.63.2025051500",
+        "lastUpdated": "2025-05-15T00:58:16.15Z"
+      },
       {
         "version": "1.63.2025051300",
         "lastUpdated": "2025-05-13T01:01:40.05Z"
@@ -13239,10 +13243,6 @@
       {
         "version": "1.62.2025032500",
         "lastUpdated": "2025-03-25T00:57:43.673Z"
-      },
-      {
-        "version": "1.62.2025032200",
-        "lastUpdated": "2025-03-22T00:55:18.317Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13261,7 +13261,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025051300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025051500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
