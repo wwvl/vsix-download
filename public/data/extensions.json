@@ -762,9 +762,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.1.1",
-    "last_updated": "2025-05-08T10:10:41.67Z",
+    "latest_version": "66.1.2",
+    "last_updated": "2025-05-15T03:18:02.837Z",
     "version_history": [
+      {
+        "version": "66.1.2",
+        "lastUpdated": "2025-05-15T03:18:02.837Z"
+      },
       {
         "version": "66.1.1",
         "lastUpdated": "2025-05-08T10:10:41.67Z"
@@ -840,15 +844,11 @@
       {
         "version": "0.63.2",
         "lastUpdated": "2024-10-02T02:50:48.723Z"
-      },
-      {
-        "version": "0.63.1",
-        "lastUpdated": "2024-09-29T02:01:59.67Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.1.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.1.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1419",
-    "last_updated": "2025-05-14T23:15:41.657Z",
+    "latest_version": "2025.5.1421",
+    "last_updated": "2025-05-15T01:24:14.207Z",
     "version_history": [
+      {
+        "version": "2025.5.1421",
+        "lastUpdated": "2025-05-15T01:24:14.207Z"
+      },
       {
         "version": "2025.5.1419",
         "lastUpdated": "2025-05-14T23:15:41.657Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.2705",
         "lastUpdated": "2025-04-27T09:12:22.61Z"
-      },
-      {
-        "version": "2025.4.2505",
-        "lastUpdated": "2025-04-25T09:15:33.947Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1419/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1421/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025051402",
-    "last_updated": "2025-05-14T08:32:37.373Z",
+    "latest_version": "0.28.2025051501",
+    "last_updated": "2025-05-15T04:37:42.39Z",
     "version_history": [
+      {
+        "version": "0.28.2025051501",
+        "lastUpdated": "2025-05-15T04:37:42.39Z"
+      },
       {
         "version": "0.28.2025051402",
         "lastUpdated": "2025-05-14T08:32:37.373Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025042804",
         "lastUpdated": "2025-04-28T21:54:25.78Z"
-      },
-      {
-        "version": "0.27.2025042802",
-        "lastUpdated": "2025-04-28T21:22:10.107Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051402/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -4357,9 +4357,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.111.2025051404",
-    "last_updated": "2025-05-14T04:24:38.863Z",
+    "latest_version": "0.111.2025051504",
+    "last_updated": "2025-05-15T04:28:12.993Z",
     "version_history": [
+      {
+        "version": "0.111.2025051504",
+        "lastUpdated": "2025-05-15T04:28:12.993Z"
+      },
       {
         "version": "0.111.2025051404",
         "lastUpdated": "2025-05-14T04:24:38.863Z"
@@ -4435,15 +4439,11 @@
       {
         "version": "0.109.2025042415",
         "lastUpdated": "2025-04-24T15:24:12.033Z"
-      },
-      {
-        "version": "0.109.2025042404",
-        "lastUpdated": "2025-04-24T04:22:24.41Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025051404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025051504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11347,9 +11347,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.15.4",
-    "last_updated": "2025-05-14T23:47:22.33Z",
+    "latest_version": "3.15.5",
+    "last_updated": "2025-05-15T04:33:40.39Z",
     "version_history": [
+      {
+        "version": "3.15.5",
+        "lastUpdated": "2025-05-15T04:33:40.39Z"
+      },
       {
         "version": "3.15.4",
         "lastUpdated": "2025-05-14T23:47:22.33Z"
@@ -11425,15 +11429,11 @@
       {
         "version": "3.10.0",
         "lastUpdated": "2025-04-08T23:14:10.883Z"
-      },
-      {
-        "version": "3.9.2",
-        "lastUpdated": "2025-04-06T00:56:45.203Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14748,9 +14748,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.438",
-    "last_updated": "2025-05-14T09:43:23.313Z",
+    "latest_version": "1.0.439",
+    "last_updated": "2025-05-15T03:25:17.793Z",
     "version_history": [
+      {
+        "version": "1.0.439",
+        "lastUpdated": "2025-05-15T03:25:17.793Z"
+      },
       {
         "version": "1.0.438",
         "lastUpdated": "2025-05-14T09:43:23.313Z"
@@ -14826,15 +14830,11 @@
       {
         "version": "1.0.412",
         "lastUpdated": "2025-04-02T06:04:45.863Z"
-      },
-      {
-        "version": "1.0.411",
-        "lastUpdated": "2025-04-01T22:12:10.783Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.438/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.439/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
