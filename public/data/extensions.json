@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1505",
-    "last_updated": "2025-05-15T09:14:45.447Z",
+    "latest_version": "2025.5.1605",
+    "last_updated": "2025-05-16T09:13:35.36Z",
     "version_history": [
+      {
+        "version": "2025.5.1605",
+        "lastUpdated": "2025-05-16T09:13:35.36Z"
+      },
       {
         "version": "2025.5.1505",
         "lastUpdated": "2025-05-15T09:14:45.447Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.4.3005",
         "lastUpdated": "2025-04-30T09:13:43.923Z"
-      },
-      {
-        "version": "2025.4.2905",
-        "lastUpdated": "2025-04-29T09:13:47.837Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1505/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7541,9 +7541,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025051507",
-    "last_updated": "2025-05-15T23:39:39.03Z",
+    "latest_version": "2025.7.2025051601",
+    "last_updated": "2025-05-16T10:46:07.277Z",
     "version_history": [
+      {
+        "version": "2025.7.2025051601",
+        "lastUpdated": "2025-05-16T10:46:07.277Z"
+      },
       {
         "version": "2025.7.2025051507",
         "lastUpdated": "2025-05-15T23:39:39.03Z"
@@ -7619,10 +7623,6 @@
       {
         "version": "2025.5.2025040801",
         "lastUpdated": "2025-04-08T10:50:33.437Z"
-      },
-      {
-        "version": "2025.5.2025040401",
-        "lastUpdated": "2025-04-04T10:47:51.86Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -7645,7 +7645,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051507/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -9896,9 +9896,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.16.10",
-    "last_updated": "2025-05-09T07:05:26.057Z",
+    "latest_version": "0.16.11",
+    "last_updated": "2025-05-16T09:41:10.45Z",
     "version_history": [
+      {
+        "version": "0.16.11",
+        "lastUpdated": "2025-05-16T09:41:10.45Z"
+      },
       {
         "version": "0.16.10",
         "lastUpdated": "2025-05-09T07:05:26.057Z"
@@ -9974,24 +9978,24 @@
       {
         "version": "0.15.7",
         "lastUpdated": "2025-01-19T01:14:25.167Z"
-      },
-      {
-        "version": "0.15.6",
-        "lastUpdated": "2025-01-13T03:26:01.717Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.22.0",
-    "last_updated": "2025-05-02T14:25:16.067Z",
+    "latest_version": "5.23.0",
+    "last_updated": "2025-05-16T09:30:15.683Z",
     "version_history": [
+      {
+        "version": "5.23.0",
+        "lastUpdated": "2025-05-16T09:30:15.683Z"
+      },
       {
         "version": "5.22.0",
         "lastUpdated": "2025-05-02T14:25:16.067Z"
@@ -10067,15 +10071,11 @@
       {
         "version": "5.8.0",
         "lastUpdated": "2024-07-24T20:28:36.6Z"
-      },
-      {
-        "version": "5.7.0",
-        "lastUpdated": "2024-07-22T14:50:39.057Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.22.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.23.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
@@ -10769,9 +10769,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.42.2025050908",
-    "last_updated": "2025-05-09T08:48:11.333Z",
+    "latest_version": "1.43.2025051608",
+    "last_updated": "2025-05-16T08:45:06.08Z",
     "version_history": [
+      {
+        "version": "1.43.2025051608",
+        "lastUpdated": "2025-05-16T08:45:06.08Z"
+      },
       {
         "version": "1.42.2025050908",
         "lastUpdated": "2025-05-09T08:48:11.333Z"
@@ -10847,15 +10851,11 @@
       {
         "version": "1.41.2025031008",
         "lastUpdated": "2025-03-10T08:27:18.553Z"
-      },
-      {
-        "version": "1.41.2025030508",
-        "lastUpdated": "2025-03-05T08:27:44.98Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.42.2025050908/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025051608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -12022,11 +12022,11 @@
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
     "latest_version": "109.8.0",
-    "last_updated": "2025-05-15T14:02:35.653Z",
+    "last_updated": "2025-05-15T14:07:35.953Z",
     "version_history": [
       {
         "version": "109.8.0",
-        "lastUpdated": "2025-05-15T14:02:35.653Z"
+        "lastUpdated": "2025-05-15T14:07:35.953Z"
       },
       {
         "version": "109.7.0",
