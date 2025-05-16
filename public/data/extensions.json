@@ -669,9 +669,13 @@
     "extension_name": "antfu.iconify",
     "display_name": "Iconify IntelliSense",
     "short_description": "Intelligent Iconify previewing and searching for VS Code",
-    "latest_version": "0.10.2",
-    "last_updated": "2024-11-18T04:01:18.243Z",
+    "latest_version": "0.10.4",
+    "last_updated": "2025-05-16T06:03:45.113Z",
     "version_history": [
+      {
+        "version": "0.10.4",
+        "lastUpdated": "2025-05-16T06:03:45.113Z"
+      },
       {
         "version": "0.10.2",
         "lastUpdated": "2024-11-18T04:01:18.243Z"
@@ -747,15 +751,11 @@
       {
         "version": "0.5.4",
         "lastUpdated": "2023-06-27T13:07:54.903Z"
-      },
-      {
-        "version": "0.5.3",
-        "lastUpdated": "2023-05-10T16:23:01.987Z"
       }
     ],
     "categories": ["Snippets", "Visualization"],
     "tags": ["css", "django-html", "handlebars", "html", "iconify", "icons", "javascript", "javascriptreact", "markdown", "mdx", "snippet", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.10.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.10.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.iconify"
   },
   {
@@ -4049,9 +4049,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025051503",
-    "last_updated": "2025-05-15T21:25:26.973Z",
+    "latest_version": "0.28.2025051601",
+    "last_updated": "2025-05-16T04:31:57.223Z",
     "version_history": [
+      {
+        "version": "0.28.2025051601",
+        "lastUpdated": "2025-05-16T04:31:57.223Z"
+      },
       {
         "version": "0.28.2025051503",
         "lastUpdated": "2025-05-15T21:25:26.973Z"
@@ -4127,10 +4131,6 @@
       {
         "version": "0.27.2025042903",
         "lastUpdated": "2025-04-29T17:54:08.997Z"
-      },
-      {
-        "version": "0.27.2025042902",
-        "lastUpdated": "2025-04-29T13:23:20.02Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -4164,7 +4164,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051503/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -12022,11 +12022,11 @@
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
     "latest_version": "109.8.0",
-    "last_updated": "2025-05-15T14:07:35.953Z",
+    "last_updated": "2025-05-15T14:02:35.653Z",
     "version_history": [
       {
         "version": "109.8.0",
-        "lastUpdated": "2025-05-15T14:07:35.953Z"
+        "lastUpdated": "2025-05-15T14:02:35.653Z"
       },
       {
         "version": "109.7.0",
@@ -14750,9 +14750,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.440",
-    "last_updated": "2025-05-15T11:11:49.967Z",
+    "latest_version": "1.0.441",
+    "last_updated": "2025-05-16T02:56:46.133Z",
     "version_history": [
+      {
+        "version": "1.0.441",
+        "lastUpdated": "2025-05-16T02:56:46.133Z"
+      },
       {
         "version": "1.0.440",
         "lastUpdated": "2025-05-15T11:11:49.967Z"
@@ -14828,15 +14832,11 @@
       {
         "version": "1.0.417",
         "lastUpdated": "2025-04-03T04:53:57.567Z"
-      },
-      {
-        "version": "1.0.416",
-        "lastUpdated": "2025-04-03T04:42:24.16Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.440/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.441/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
