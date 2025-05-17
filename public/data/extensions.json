@@ -2951,9 +2951,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.1605",
-    "last_updated": "2025-05-16T09:13:35.36Z",
+    "latest_version": "2025.5.1705",
+    "last_updated": "2025-05-17T09:12:10.153Z",
     "version_history": [
+      {
+        "version": "2025.5.1705",
+        "lastUpdated": "2025-05-17T09:12:10.153Z"
+      },
       {
         "version": "2025.5.1605",
         "lastUpdated": "2025-05-16T09:13:35.36Z"
@@ -3029,15 +3033,11 @@
       {
         "version": "2025.5.105",
         "lastUpdated": "2025-05-01T09:13:47.627Z"
-      },
-      {
-        "version": "2025.4.3005",
-        "lastUpdated": "2025-04-30T09:13:43.923Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.1705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10769,9 +10769,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.43.2025051608",
-    "last_updated": "2025-05-16T08:45:06.08Z",
+    "latest_version": "1.43.2025051708",
+    "last_updated": "2025-05-17T08:46:54.09Z",
     "version_history": [
+      {
+        "version": "1.43.2025051708",
+        "lastUpdated": "2025-05-17T08:46:54.09Z"
+      },
       {
         "version": "1.43.2025051608",
         "lastUpdated": "2025-05-16T08:45:06.08Z"
@@ -10847,15 +10851,11 @@
       {
         "version": "1.41.2025031108",
         "lastUpdated": "2025-03-11T08:28:54.563Z"
-      },
-      {
-        "version": "1.41.2025031008",
-        "lastUpdated": "2025-03-10T08:27:18.553Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025051608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025051708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14750,9 +14750,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.441",
-    "last_updated": "2025-05-16T02:56:46.133Z",
+    "latest_version": "1.0.442",
+    "last_updated": "2025-05-17T06:34:27.077Z",
     "version_history": [
+      {
+        "version": "1.0.442",
+        "lastUpdated": "2025-05-17T06:34:27.077Z"
+      },
       {
         "version": "1.0.441",
         "lastUpdated": "2025-05-16T02:56:46.133Z"
@@ -14828,15 +14832,11 @@
       {
         "version": "1.0.418",
         "lastUpdated": "2025-04-04T05:34:31.587Z"
-      },
-      {
-        "version": "1.0.417",
-        "lastUpdated": "2025-04-03T04:53:57.567Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.441/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.442/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
