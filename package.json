@@ -16,7 +16,7 @@
     "up": "taze major -I"
   },
   "dependencies": {
-    "@nuxt/ui": "3.0.0-alpha.13",
+    "@nuxt/ui": "3.1.2",
     "@supabase/supabase-js": "^2.49.4",
     "@vueuse/core": "^13.2.0",
     "defu": "^6.1.4",
