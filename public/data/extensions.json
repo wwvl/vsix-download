@@ -8512,9 +8512,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.5.1217",
-    "last_updated": "2025-05-13T00:17:53.21Z",
+    "latest_version": "2025.5.1617",
+    "last_updated": "2025-05-17T00:17:34.07Z",
     "version_history": [
+      {
+        "version": "2025.5.1617",
+        "lastUpdated": "2025-05-17T00:17:34.07Z"
+      },
       {
         "version": "2025.5.1217",
         "lastUpdated": "2025-05-13T00:17:53.21Z"
@@ -8590,15 +8594,11 @@
       {
         "version": "2024.12.1117",
         "lastUpdated": "2024-12-12T01:14:46.23Z"
-      },
-      {
-        "version": "2024.11.2917",
-        "lastUpdated": "2024-11-30T01:13:50.84Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.5.1217/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.5.1617/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11048,9 +11048,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2462",
-    "last_updated": "2025-05-16T00:57:37.58Z",
+    "latest_version": "0.4.2463",
+    "last_updated": "2025-05-17T00:55:02.333Z",
     "version_history": [
+      {
+        "version": "0.4.2463",
+        "lastUpdated": "2025-05-17T00:55:02.333Z"
+      },
       {
         "version": "0.4.2462",
         "lastUpdated": "2025-05-16T00:57:37.58Z"
@@ -11126,15 +11130,11 @@
       {
         "version": "0.4.2442",
         "lastUpdated": "2025-04-29T01:01:51.187Z"
-      },
-      {
-        "version": "0.4.2440",
-        "lastUpdated": "2025-04-28T01:00:11.35Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2462/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2463/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -11349,9 +11349,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.15.5",
-    "last_updated": "2025-05-15T04:33:40.39Z",
+    "latest_version": "3.16.0",
+    "last_updated": "2025-05-16T23:52:22.99Z",
     "version_history": [
+      {
+        "version": "3.16.0",
+        "lastUpdated": "2025-05-16T23:52:22.99Z"
+      },
       {
         "version": "3.15.5",
         "lastUpdated": "2025-05-15T04:33:40.39Z"
@@ -11427,15 +11431,11 @@
       {
         "version": "3.10.1",
         "lastUpdated": "2025-04-09T10:02:47.31Z"
-      },
-      {
-        "version": "3.10.0",
-        "lastUpdated": "2025-04-08T23:14:10.883Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.15.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -13163,9 +13163,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025051500",
-    "last_updated": "2025-05-15T00:58:16.15Z",
+    "latest_version": "1.63.2025051700",
+    "last_updated": "2025-05-17T01:05:13.623Z",
     "version_history": [
+      {
+        "version": "1.63.2025051700",
+        "lastUpdated": "2025-05-17T01:05:13.623Z"
+      },
       {
         "version": "1.63.2025051500",
         "lastUpdated": "2025-05-15T00:58:16.15Z"
@@ -13241,10 +13245,6 @@
       {
         "version": "1.62.2025032700",
         "lastUpdated": "2025-03-27T00:59:21.803Z"
-      },
-      {
-        "version": "1.62.2025032500",
-        "lastUpdated": "2025-03-25T00:57:43.673Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -13263,7 +13263,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025051500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025051700/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
