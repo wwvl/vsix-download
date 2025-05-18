@@ -9520,9 +9520,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250514001",
-    "last_updated": "2025-05-14T02:56:13.663Z",
+    "latest_version": "0.13.250518001",
+    "last_updated": "2025-05-18T03:09:44.897Z",
     "version_history": [
+      {
+        "version": "0.13.250518001",
+        "lastUpdated": "2025-05-18T03:09:44.897Z"
+      },
       {
         "version": "0.13.250514001",
         "lastUpdated": "2025-05-14T02:56:13.663Z"
@@ -9598,15 +9602,11 @@
       {
         "version": "0.13.250420001",
         "lastUpdated": "2025-04-20T02:56:35.03Z"
-      },
-      {
-        "version": "0.13.250419001",
-        "lastUpdated": "2025-04-19T02:51:59.57Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250514001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250518001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -10713,6 +10713,42 @@
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.23.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
+  },
+  {
+    "extension_name": "platformio.platformio-ide",
+    "display_name": "PlatformIO IDE",
+    "short_description": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)",
+    "latest_version": "3.3.4",
+    "last_updated": "2025-01-11T15:01:34.96Z",
+    "version_history": [
+      {
+        "version": "3.3.4",
+        "lastUpdated": "2025-01-11T15:01:34.96Z"
+      },
+      {
+        "version": "3.3.3",
+        "lastUpdated": "2025-01-10T20:01:33.123Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
+    "tags": [
+      "arduino",
+      "arm",
+      "asm",
+      "Assembly",
+      "debuggers",
+      "Disassembly",
+      "embedded",
+      "keybindings",
+      "Memory",
+      "microcontroller",
+      "platformio-debug.asm",
+      "platformio-debug.disassembly",
+      "platformio-debug.memoryview",
+      "risc-v"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/platformio/vsextensions/platformio-ide/3.3.4/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide"
   },
   {
     "extension_name": "pomdtr.excalidraw-editor",
