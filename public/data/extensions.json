@@ -10715,42 +10715,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
-    "extension_name": "platformio.platformio-ide",
-    "display_name": "PlatformIO IDE",
-    "short_description": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)",
-    "latest_version": "3.3.4",
-    "last_updated": "2025-01-11T15:01:34.96Z",
-    "version_history": [
-      {
-        "version": "3.3.4",
-        "lastUpdated": "2025-01-11T15:01:34.96Z"
-      },
-      {
-        "version": "3.3.3",
-        "lastUpdated": "2025-01-10T20:01:33.123Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
-    "tags": [
-      "arduino",
-      "arm",
-      "asm",
-      "Assembly",
-      "debuggers",
-      "Disassembly",
-      "embedded",
-      "keybindings",
-      "Memory",
-      "microcontroller",
-      "platformio-debug.asm",
-      "platformio-debug.disassembly",
-      "platformio-debug.memoryview",
-      "risc-v"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/platformio/vsextensions/platformio-ide/3.3.4/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide"
-  },
-  {
     "extension_name": "pomdtr.excalidraw-editor",
     "display_name": "Excalidraw",
     "short_description": "Draw schemas in VS Code using Excalidraw",
@@ -11777,9 +11741,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2463",
-    "last_updated": "2025-05-17T00:55:02.333Z",
+    "latest_version": "0.4.2464",
+    "last_updated": "2025-05-18T00:57:39.557Z",
     "version_history": [
+      {
+        "version": "0.4.2464",
+        "lastUpdated": "2025-05-18T00:57:39.557Z"
+      },
       {
         "version": "0.4.2463",
         "lastUpdated": "2025-05-17T00:55:02.333Z"
@@ -11855,15 +11823,11 @@
       {
         "version": "0.4.2443",
         "lastUpdated": "2025-04-30T00:57:46.307Z"
-      },
-      {
-        "version": "0.4.2442",
-        "lastUpdated": "2025-04-29T01:01:51.187Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2463/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2464/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -12078,9 +12042,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.16.0",
-    "last_updated": "2025-05-16T23:52:22.99Z",
+    "latest_version": "3.16.1",
+    "last_updated": "2025-05-18T01:12:22.597Z",
     "version_history": [
+      {
+        "version": "3.16.1",
+        "lastUpdated": "2025-05-18T01:12:22.597Z"
+      },
       {
         "version": "3.16.0",
         "lastUpdated": "2025-05-16T23:52:22.99Z"
@@ -12156,15 +12124,11 @@
       {
         "version": "3.11.0",
         "lastUpdated": "2025-04-10T09:23:44.35Z"
-      },
-      {
-        "version": "3.10.1",
-        "lastUpdated": "2025-04-09T10:02:47.31Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.16.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
