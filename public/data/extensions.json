@@ -432,9 +432,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.22.12",
-    "last_updated": "2025-05-12T12:17:19.443Z",
+    "latest_version": "2.22.14",
+    "last_updated": "2025-05-19T12:13:42.793Z",
     "version_history": [
+      {
+        "version": "2.22.14",
+        "lastUpdated": "2025-05-19T12:13:42.793Z"
+      },
       {
         "version": "2.22.12",
         "lastUpdated": "2025-05-12T12:17:19.443Z"
@@ -510,10 +514,6 @@
       {
         "version": "2.18.0",
         "lastUpdated": "2024-11-20T14:06:13.06Z"
-      },
-      {
-        "version": "2.17.7",
-        "lastUpdated": "2024-11-01T02:30:23.223Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -541,7 +541,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.22.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -7991,9 +7991,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025051601",
-    "last_updated": "2025-05-16T10:46:07.277Z",
+    "latest_version": "2025.7.2025051901",
+    "last_updated": "2025-05-19T10:48:37.917Z",
     "version_history": [
+      {
+        "version": "2025.7.2025051901",
+        "lastUpdated": "2025-05-19T10:48:37.917Z"
+      },
       {
         "version": "2025.7.2025051601",
         "lastUpdated": "2025-05-16T10:46:07.277Z"
@@ -8069,10 +8073,6 @@
       {
         "version": "2025.5.2025041001",
         "lastUpdated": "2025-04-10T10:44:40.887Z"
-      },
-      {
-        "version": "2025.5.2025040801",
-        "lastUpdated": "2025-04-08T10:50:33.437Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -8095,7 +8095,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025051901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -9055,9 +9055,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025051901",
-    "last_updated": "2025-05-19T01:11:16.963Z",
+    "latest_version": "0.5.2025051902",
+    "last_updated": "2025-05-19T09:23:48.34Z",
     "version_history": [
+      {
+        "version": "0.5.2025051902",
+        "lastUpdated": "2025-05-19T09:23:48.34Z"
+      },
       {
         "version": "0.5.2025051901",
         "lastUpdated": "2025-05-19T01:11:16.963Z"
@@ -9133,15 +9137,11 @@
       {
         "version": "0.5.2023110901",
         "lastUpdated": "2023-11-09T09:11:04.6Z"
-      },
-      {
-        "version": "0.5.2023110804",
-        "lastUpdated": "2023-11-08T22:42:44.877Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025051901/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025051902/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -15538,10 +15538,14 @@
   {
     "extension_name": "Vxplain.vxplain",
     "display_name": "Vxplain | Understand Any Codebase",
-    "short_description": "Generate diagrams for all code levels",
-    "latest_version": "0.9.2",
-    "last_updated": "2025-05-16T11:56:33.153Z",
+    "short_description": "Autogenerate architecture diagrams, function call graphs, flowcharts, summaries and more",
+    "latest_version": "0.9.4",
+    "last_updated": "2025-05-19T10:06:56.36Z",
     "version_history": [
+      {
+        "version": "0.9.4",
+        "lastUpdated": "2025-05-19T10:06:56.36Z"
+      },
       {
         "version": "0.9.2",
         "lastUpdated": "2025-05-16T11:56:33.153Z"
@@ -15617,15 +15621,11 @@
       {
         "version": "0.5.4",
         "lastUpdated": "2025-04-17T11:48:01.81Z"
-      },
-      {
-        "version": "0.5.3",
-        "lastUpdated": "2025-04-17T00:22:17.5Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "Visualization", "Education", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/0.9.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/0.9.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain"
   },
   {
@@ -15838,9 +15838,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.443",
-    "last_updated": "2025-05-19T03:06:45.86Z",
+    "latest_version": "1.0.445",
+    "last_updated": "2025-05-19T10:09:44.543Z",
     "version_history": [
+      {
+        "version": "1.0.445",
+        "lastUpdated": "2025-05-19T10:09:44.543Z"
+      },
+      {
+        "version": "1.0.444",
+        "lastUpdated": "2025-05-19T09:40:56.5Z"
+      },
       {
         "version": "1.0.443",
         "lastUpdated": "2025-05-19T03:06:45.86Z"
@@ -15912,19 +15920,11 @@
       {
         "version": "1.0.421",
         "lastUpdated": "2025-04-04T09:44:40.793Z"
-      },
-      {
-        "version": "1.0.420",
-        "lastUpdated": "2025-04-04T09:19:17.047Z"
-      },
-      {
-        "version": "1.0.419",
-        "lastUpdated": "2025-04-04T08:46:02.783Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.443/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.445/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
