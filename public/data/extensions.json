@@ -9055,9 +9055,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025051301",
-    "last_updated": "2025-05-13T09:23:51.93Z",
+    "latest_version": "0.5.2025051901",
+    "last_updated": "2025-05-19T01:11:16.963Z",
     "version_history": [
+      {
+        "version": "0.5.2025051901",
+        "lastUpdated": "2025-05-19T01:11:16.963Z"
+      },
       {
         "version": "0.5.2025051301",
         "lastUpdated": "2025-05-13T09:23:51.93Z"
@@ -9133,15 +9137,11 @@
       {
         "version": "0.5.2023110804",
         "lastUpdated": "2023-11-08T22:42:44.877Z"
-      },
-      {
-        "version": "0.5.2023100501",
-        "lastUpdated": "2023-10-05T09:16:26.473Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025051301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025051901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -11777,9 +11777,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2464",
-    "last_updated": "2025-05-18T00:57:39.557Z",
+    "latest_version": "0.4.2465",
+    "last_updated": "2025-05-19T00:58:01.77Z",
     "version_history": [
+      {
+        "version": "0.4.2465",
+        "lastUpdated": "2025-05-19T00:58:01.77Z"
+      },
       {
         "version": "0.4.2464",
         "lastUpdated": "2025-05-18T00:57:39.557Z"
@@ -11855,15 +11859,11 @@
       {
         "version": "0.4.2444",
         "lastUpdated": "2025-05-01T01:01:43.223Z"
-      },
-      {
-        "version": "0.4.2443",
-        "lastUpdated": "2025-04-30T00:57:46.307Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2464/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2465/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
