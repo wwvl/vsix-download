@@ -95,7 +95,7 @@ def main():
             fail_count += 1
 
     # 打印统计信息
-    print(f"\n处理完成！")
+    print("\n处理完成！")
     print(f"成功：{success_count} 个")
     print(f"失败：{fail_count} 个")
 
