@@ -1402,9 +1402,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.451.0",
-    "last_updated": "2025-05-19T18:21:46.023Z",
+    "latest_version": "0.452.0",
+    "last_updated": "2025-05-19T20:02:13.863Z",
     "version_history": [
+      {
+        "version": "0.452.0",
+        "lastUpdated": "2025-05-19T20:02:13.863Z"
+      },
       {
         "version": "0.451.0",
         "lastUpdated": "2025-05-19T18:21:46.023Z"
@@ -1480,15 +1484,11 @@
       {
         "version": "0.434.1",
         "lastUpdated": "2025-05-05T17:38:45.103Z"
-      },
-      {
-        "version": "0.434.0",
-        "lastUpdated": "2025-05-03T18:20:47.837Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.451.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.452.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5370,9 +5370,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025051901",
-    "last_updated": "2025-05-19T04:33:06.41Z",
+    "latest_version": "0.28.2025051903",
+    "last_updated": "2025-05-19T20:34:14.473Z",
     "version_history": [
+      {
+        "version": "0.28.2025051903",
+        "lastUpdated": "2025-05-19T20:34:14.473Z"
+      },
       {
         "version": "0.28.2025051901",
         "lastUpdated": "2025-05-19T04:33:06.41Z"
@@ -5448,10 +5452,6 @@
       {
         "version": "0.27.2025050101",
         "lastUpdated": "2025-05-01T04:28:56.19Z"
-      },
-      {
-        "version": "0.27.2025043002",
-        "lastUpdated": "2025-04-30T20:39:25.98Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5485,7 +5485,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051901/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025051903/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8455,9 +8455,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.17.2",
-    "last_updated": "2025-05-02T03:22:22.447Z",
+    "latest_version": "1.17.3",
+    "last_updated": "2025-05-19T20:44:29.797Z",
     "version_history": [
+      {
+        "version": "1.17.3",
+        "lastUpdated": "2025-05-19T20:44:29.797Z"
+      },
       {
         "version": "1.17.2",
         "lastUpdated": "2025-05-02T03:22:22.447Z"
@@ -8485,7 +8489,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.17.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.17.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -13253,9 +13257,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2465",
-    "last_updated": "2025-05-19T00:58:01.77Z",
+    "latest_version": "0.4.2467",
+    "last_updated": "2025-05-20T00:57:04.773Z",
     "version_history": [
+      {
+        "version": "0.4.2467",
+        "lastUpdated": "2025-05-20T00:57:04.773Z"
+      },
       {
         "version": "0.4.2465",
         "lastUpdated": "2025-05-19T00:58:01.77Z"
@@ -13331,15 +13339,11 @@
       {
         "version": "0.4.2445",
         "lastUpdated": "2025-05-02T00:58:38.707Z"
-      },
-      {
-        "version": "0.4.2444",
-        "lastUpdated": "2025-05-01T01:01:43.223Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2465/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2467/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14011,6 +14015,10 @@
         "lastUpdated": "2025-05-15T11:41:13.55Z"
       },
       {
+        "version": "1.94.2",
+        "lastUpdated": "2025-05-20T01:27:31.527Z"
+      },
+      {
         "version": "1.94.1",
         "lastUpdated": "2025-05-19T17:07:40.3Z"
       },
@@ -14077,10 +14085,6 @@
       {
         "version": "1.88.0",
         "lastUpdated": "2025-04-23T20:13:49.713Z"
-      },
-      {
-        "version": "1.87.1745438987",
-        "lastUpdated": "2025-04-23T20:15:14.107Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15923,9 +15927,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025051700",
-    "last_updated": "2025-05-17T01:05:13.623Z",
+    "latest_version": "1.63.2025052000",
+    "last_updated": "2025-05-20T01:09:17.353Z",
     "version_history": [
+      {
+        "version": "1.63.2025052000",
+        "lastUpdated": "2025-05-20T01:09:17.353Z"
+      },
       {
         "version": "1.63.2025051700",
         "lastUpdated": "2025-05-17T01:05:13.623Z"
@@ -16001,10 +16009,6 @@
       {
         "version": "1.62.2025032900",
         "lastUpdated": "2025-03-29T00:59:35.1Z"
-      },
-      {
-        "version": "1.62.2025032700",
-        "lastUpdated": "2025-03-27T00:59:21.803Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16023,7 +16027,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025051700/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025052000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17395,11 +17399,19 @@
   },
   {
     "extension_name": "Vxplain.vxplain",
-    "display_name": "Vxplain | Understand Any Codebase",
-    "short_description": "Autogenerate architecture diagrams, function call graphs, flowcharts, summaries and more",
-    "latest_version": "0.9.4",
-    "last_updated": "2025-05-19T10:06:56.36Z",
+    "display_name": "Vxplain - Understand Any Codebase",
+    "short_description": "Autogenerate architecture diagrams, function call graphs, flowcharts, summaries, visualize code and more",
+    "latest_version": "0.9.7",
+    "last_updated": "2025-05-19T19:10:14.257Z",
     "version_history": [
+      {
+        "version": "0.9.7",
+        "lastUpdated": "2025-05-19T19:10:14.257Z"
+      },
+      {
+        "version": "0.9.5",
+        "lastUpdated": "2025-05-19T19:09:43.363Z"
+      },
       {
         "version": "0.9.4",
         "lastUpdated": "2025-05-19T10:06:56.36Z"
@@ -17471,19 +17483,11 @@
       {
         "version": "0.6.3",
         "lastUpdated": "2025-04-18T11:46:54.123Z"
-      },
-      {
-        "version": "0.6.1",
-        "lastUpdated": "2025-04-17T21:20:03.297Z"
-      },
-      {
-        "version": "0.5.4",
-        "lastUpdated": "2025-04-17T11:48:01.81Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "Visualization", "Education", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/0.9.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/0.9.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain"
   },
   {
