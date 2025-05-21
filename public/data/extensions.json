@@ -1306,99 +1306,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.vite"
   },
   {
-    "extension_name": "astro-build.astro-vscode",
-    "display_name": "Astro",
-    "short_description": "Language support for Astro",
-    "latest_version": "2.15.4",
-    "last_updated": "2024-10-25T19:20:33.81Z",
-    "version_history": [
-      {
-        "version": "2.15.4",
-        "lastUpdated": "2024-10-25T19:20:33.81Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2024-10-17T12:17:36.82Z"
-      },
-      {
-        "version": "2.15.2",
-        "lastUpdated": "2024-10-07T13:31:54.637Z"
-      },
-      {
-        "version": "2.15.1",
-        "lastUpdated": "2024-10-07T13:10:02.497Z"
-      },
-      {
-        "version": "2.14.2",
-        "lastUpdated": "2024-09-06T09:42:51.79Z"
-      },
-      {
-        "version": "2.14.1",
-        "lastUpdated": "2024-08-18T22:22:33.953Z"
-      },
-      {
-        "version": "2.14.0",
-        "lastUpdated": "2024-08-15T10:22:49.08Z"
-      },
-      {
-        "version": "2.13.4",
-        "lastUpdated": "2024-08-14T11:56:41.89Z"
-      },
-      {
-        "version": "2.13.3",
-        "lastUpdated": "2024-08-13T10:57:54.377Z"
-      },
-      {
-        "version": "2.13.2",
-        "lastUpdated": "2024-08-06T17:14:13.43Z"
-      },
-      {
-        "version": "2.13.1",
-        "lastUpdated": "2024-07-31T16:26:19.01Z"
-      },
-      {
-        "version": "2.13.0",
-        "lastUpdated": "2024-07-31T12:18:06.07Z"
-      },
-      {
-        "version": "2.12.8",
-        "lastUpdated": "2024-07-25T22:59:20.09Z"
-      },
-      {
-        "version": "2.12.7",
-        "lastUpdated": "2024-07-25T22:12:02.923Z"
-      },
-      {
-        "version": "2.12.6",
-        "lastUpdated": "2024-07-23T14:16:32.627Z"
-      },
-      {
-        "version": "2.11.0",
-        "lastUpdated": "2024-07-08T11:26:59.96Z"
-      },
-      {
-        "version": "2.10.2",
-        "lastUpdated": "2024-05-15T14:58:36.947Z"
-      },
-      {
-        "version": "2.10.1",
-        "lastUpdated": "2024-05-15T13:43:19.717Z"
-      },
-      {
-        "version": "2.10.0",
-        "lastUpdated": "2024-05-15T12:16:48.51Z"
-      },
-      {
-        "version": "2.9.1",
-        "lastUpdated": "2024-05-15T10:07:05.947Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Linters", "Formatters"],
-    "tags": ["astro", "javascript", "node", "react", "snippet", "Static site generator", "svelte", "typescript", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.15.4/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode"
-  },
-  {
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
@@ -3389,9 +3296,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.58.17385",
-    "last_updated": "2025-05-20T17:50:18.25Z",
+    "latest_version": "1.58.17393",
+    "last_updated": "2025-05-21T09:32:50.707Z",
     "version_history": [
+      {
+        "version": "1.58.17393",
+        "lastUpdated": "2025-05-21T09:32:50.707Z"
+      },
       {
         "version": "1.58.17385",
         "lastUpdated": "2025-05-20T17:50:18.25Z"
@@ -3467,15 +3378,11 @@
       {
         "version": "1.56.16950",
         "lastUpdated": "2025-03-06T22:30:20.3Z"
-      },
-      {
-        "version": "1.56.16914",
-        "lastUpdated": "2025-02-27T16:08:52.94Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.58.17385/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.58.17393/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4081,9 +3988,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.2019",
-    "last_updated": "2025-05-20T23:32:53.797Z",
+    "latest_version": "2025.5.2105",
+    "last_updated": "2025-05-21T09:14:17.493Z",
     "version_history": [
+      {
+        "version": "2025.5.2105",
+        "lastUpdated": "2025-05-21T09:14:17.493Z"
+      },
       {
         "version": "2025.5.2019",
         "lastUpdated": "2025-05-20T23:32:53.797Z"
@@ -4159,15 +4070,11 @@
       {
         "version": "2025.5.502",
         "lastUpdated": "2025-05-05T06:55:27.78Z"
-      },
-      {
-        "version": "2025.5.305",
-        "lastUpdated": "2025-05-03T09:12:34.947Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2019/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8593,9 +8500,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.100.2025051409",
-    "last_updated": "2025-05-14T09:18:35.36Z",
+    "latest_version": "1.101.2025052109",
+    "last_updated": "2025-05-21T09:17:27.7Z",
     "version_history": [
+      {
+        "version": "1.101.2025052109",
+        "lastUpdated": "2025-05-21T09:17:27.7Z"
+      },
       {
         "version": "1.100.2025051409",
         "lastUpdated": "2025-05-14T09:18:35.36Z"
@@ -8671,15 +8582,11 @@
       {
         "version": "1.97.2025011509",
         "lastUpdated": "2025-01-15T09:20:58.02Z"
-      },
-      {
-        "version": "1.97.2025010809",
-        "lastUpdated": "2025-01-08T09:28:56.553Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.100.2025051409/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.101.2025052109/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9396,9 +9303,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025052101",
-    "last_updated": "2025-05-21T04:36:51.39Z",
+    "latest_version": "2025.7.2025052102",
+    "last_updated": "2025-05-21T10:47:58.007Z",
     "version_history": [
+      {
+        "version": "2025.7.2025052102",
+        "lastUpdated": "2025-05-21T10:47:58.007Z"
+      },
       {
         "version": "2025.7.2025052101",
         "lastUpdated": "2025-05-21T04:36:51.39Z"
@@ -9474,10 +9385,6 @@
       {
         "version": "2025.5.2025042101",
         "lastUpdated": "2025-04-21T10:46:54.567Z"
-      },
-      {
-        "version": "2025.5.2025041801",
-        "lastUpdated": "2025-04-18T10:45:27.277Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9500,7 +9407,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025052101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025052102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -14498,9 +14405,13 @@
     "extension_name": "svelte.svelte-vscode",
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
-    "latest_version": "109.8.0",
-    "last_updated": "2025-05-15T14:07:35.953Z",
+    "latest_version": "109.8.1",
+    "last_updated": "2025-05-21T08:35:23.99Z",
     "version_history": [
+      {
+        "version": "109.8.1",
+        "lastUpdated": "2025-05-21T08:35:23.99Z"
+      },
       {
         "version": "109.8.0",
         "lastUpdated": "2025-05-15T14:07:35.953Z"
@@ -14576,15 +14487,11 @@
       {
         "version": "109.0.3",
         "lastUpdated": "2024-09-27T21:14:51.907Z"
-      },
-      {
-        "version": "109.0.2",
-        "lastUpdated": "2024-09-26T12:29:31.28Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
   {
