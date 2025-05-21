@@ -1306,15 +1306,116 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.vite"
   },
   {
+    "extension_name": "astro-build.astro-vscode",
+    "display_name": "Astro",
+    "short_description": "Language support for Astro",
+    "latest_version": "2.15.4",
+    "last_updated": "2024-10-25T19:20:33.81Z",
+    "version_history": [
+      {
+        "version": "2.15.4",
+        "lastUpdated": "2024-10-25T19:20:33.81Z"
+      },
+      {
+        "version": "2.15.3",
+        "lastUpdated": "2024-10-17T12:17:36.82Z"
+      },
+      {
+        "version": "2.15.2",
+        "lastUpdated": "2024-10-07T13:31:54.637Z"
+      },
+      {
+        "version": "2.15.1",
+        "lastUpdated": "2024-10-07T13:10:02.497Z"
+      },
+      {
+        "version": "2.14.2",
+        "lastUpdated": "2024-09-06T09:42:51.79Z"
+      },
+      {
+        "version": "2.14.1",
+        "lastUpdated": "2024-08-18T22:22:33.953Z"
+      },
+      {
+        "version": "2.14.0",
+        "lastUpdated": "2024-08-15T10:22:49.08Z"
+      },
+      {
+        "version": "2.13.4",
+        "lastUpdated": "2024-08-14T11:56:41.89Z"
+      },
+      {
+        "version": "2.13.3",
+        "lastUpdated": "2024-08-13T10:57:54.377Z"
+      },
+      {
+        "version": "2.13.2",
+        "lastUpdated": "2024-08-06T17:14:13.43Z"
+      },
+      {
+        "version": "2.13.1",
+        "lastUpdated": "2024-07-31T16:26:19.01Z"
+      },
+      {
+        "version": "2.13.0",
+        "lastUpdated": "2024-07-31T12:18:06.07Z"
+      },
+      {
+        "version": "2.12.8",
+        "lastUpdated": "2024-07-25T22:59:20.09Z"
+      },
+      {
+        "version": "2.12.7",
+        "lastUpdated": "2024-07-25T22:12:02.923Z"
+      },
+      {
+        "version": "2.12.6",
+        "lastUpdated": "2024-07-23T14:16:32.627Z"
+      },
+      {
+        "version": "2.11.0",
+        "lastUpdated": "2024-07-08T11:26:59.96Z"
+      },
+      {
+        "version": "2.10.2",
+        "lastUpdated": "2024-05-15T14:58:36.947Z"
+      },
+      {
+        "version": "2.10.1",
+        "lastUpdated": "2024-05-15T13:43:19.717Z"
+      },
+      {
+        "version": "2.10.0",
+        "lastUpdated": "2024-05-15T12:16:48.51Z"
+      },
+      {
+        "version": "2.9.1",
+        "lastUpdated": "2024-05-15T10:07:05.947Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Linters", "Formatters"],
+    "tags": ["astro", "javascript", "node", "react", "snippet", "Static site generator", "svelte", "typescript", "vue"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.15.4/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode"
+  },
+  {
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.454.0",
-    "last_updated": "2025-05-20T18:14:46.31Z",
+    "latest_version": "0.455.0",
+    "last_updated": "2025-05-21T17:05:17.893Z",
     "version_history": [
+      {
+        "version": "0.455.0",
+        "lastUpdated": "2025-05-21T17:05:17.893Z"
+      },
       {
         "version": "0.454.0",
         "lastUpdated": "2025-05-20T18:14:46.31Z"
+      },
+      {
+        "version": "0.453.1",
+        "lastUpdated": "2025-05-21T16:26:11.79Z"
       },
       {
         "version": "0.453.0",
@@ -1383,19 +1484,11 @@
       {
         "version": "0.438.0",
         "lastUpdated": "2025-05-07T19:21:17.887Z"
-      },
-      {
-        "version": "0.437.0",
-        "lastUpdated": "2025-05-07T17:05:40.4Z"
-      },
-      {
-        "version": "0.436.0",
-        "lastUpdated": "2025-05-06T17:04:49.72Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.454.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.455.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5164,9 +5257,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.322.1576",
-    "last_updated": "2025-05-21T01:49:15.01Z",
+    "latest_version": "1.322.1577",
+    "last_updated": "2025-05-21T15:27:46.55Z",
     "version_history": [
+      {
+        "version": "1.322.1577",
+        "lastUpdated": "2025-05-21T15:27:46.55Z"
+      },
       {
         "version": "1.322.1576",
         "lastUpdated": "2025-05-21T01:49:15.01Z"
@@ -5242,10 +5339,6 @@
       {
         "version": "1.316.1550",
         "lastUpdated": "2025-05-08T01:50:05.767Z"
-      },
-      {
-        "version": "1.314.1547",
-        "lastUpdated": "2025-05-07T16:23:17.093Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5274,7 +5367,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.322.1576/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.322.1577/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8686,9 +8779,13 @@
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.78.15",
-    "last_updated": "2025-05-14T21:48:37.163Z",
+    "latest_version": "2.79.8",
+    "last_updated": "2025-05-21T18:15:31.03Z",
     "version_history": [
+      {
+        "version": "2.79.8",
+        "lastUpdated": "2025-05-21T18:15:31.03Z"
+      },
       {
         "version": "2.78.15",
         "lastUpdated": "2025-05-14T21:48:37.163Z"
@@ -8764,10 +8861,6 @@
       {
         "version": "2.61.28",
         "lastUpdated": "2025-01-13T23:13:19.543Z"
-      },
-      {
-        "version": "2.61.27",
-        "lastUpdated": "2025-01-08T00:51:09.487Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -8790,7 +8883,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.78.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.79.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -13376,9 +13469,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "63.12.0",
-    "last_updated": "2025-05-08T16:15:59.82Z",
+    "latest_version": "63.14.1",
+    "last_updated": "2025-05-21T16:25:11.19Z",
     "version_history": [
+      {
+        "version": "63.14.1",
+        "lastUpdated": "2025-05-21T16:25:11.19Z"
+      },
       {
         "version": "63.12.0",
         "lastUpdated": "2025-05-08T16:15:59.82Z"
@@ -13454,15 +13551,11 @@
       {
         "version": "62.0.0",
         "lastUpdated": "2024-10-09T15:48:04.22Z"
-      },
-      {
-        "version": "61.16.0",
-        "lastUpdated": "2024-10-02T21:39:03.81Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/63.14.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -16224,9 +16317,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.29.2024091906",
-    "last_updated": "2024-09-19T07:02:49.44Z",
+    "latest_version": "0.29.2025052111",
+    "last_updated": "2025-05-21T12:39:18.98Z",
     "version_history": [
+      {
+        "version": "0.29.2025052111",
+        "lastUpdated": "2025-05-21T12:39:18.98Z"
+      },
       {
         "version": "0.29.2024091906",
         "lastUpdated": "2024-09-19T07:02:49.44Z"
@@ -16302,15 +16399,11 @@
       {
         "version": "0.25.2024032507",
         "lastUpdated": "2024-03-25T07:53:58.27Z"
-      },
-      {
-        "version": "0.25.2023121402",
-        "lastUpdated": "2023-12-14T06:26:28.907Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2024091906/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025052111/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
