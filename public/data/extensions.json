@@ -4081,9 +4081,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.2105",
-    "last_updated": "2025-05-21T09:14:17.493Z",
+    "latest_version": "2025.5.2203",
+    "last_updated": "2025-05-22T07:28:07.947Z",
     "version_history": [
+      {
+        "version": "2025.5.2203",
+        "lastUpdated": "2025-05-22T07:28:07.947Z"
+      },
       {
         "version": "2025.5.2105",
         "lastUpdated": "2025-05-21T09:14:17.493Z"
@@ -4159,15 +4163,11 @@
       {
         "version": "2025.5.605",
         "lastUpdated": "2025-05-06T09:13:27.927Z"
-      },
-      {
-        "version": "2025.5.502",
-        "lastUpdated": "2025-05-05T06:55:27.78Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5374,9 +5374,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025052101",
-    "last_updated": "2025-05-21T04:29:36.42Z",
+    "latest_version": "0.28.2025052203",
+    "last_updated": "2025-05-22T11:33:23.873Z",
     "version_history": [
+      {
+        "version": "0.28.2025052203",
+        "lastUpdated": "2025-05-22T11:33:23.873Z"
+      },
       {
         "version": "0.28.2025052101",
         "lastUpdated": "2025-05-21T04:29:36.42Z"
@@ -5452,10 +5456,6 @@
       {
         "version": "0.27.2025050203",
         "lastUpdated": "2025-05-02T22:53:11.077Z"
-      },
-      {
-        "version": "0.27.2025050202",
-        "lastUpdated": "2025-05-02T09:34:02.983Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5489,7 +5489,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
