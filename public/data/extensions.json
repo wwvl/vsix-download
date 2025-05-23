@@ -1844,9 +1844,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.18",
-    "last_updated": "2025-05-20T16:11:16.79Z",
+    "latest_version": "0.14.19",
+    "last_updated": "2025-05-22T22:10:04.25Z",
     "version_history": [
+      {
+        "version": "0.14.19",
+        "lastUpdated": "2025-05-22T22:10:04.25Z"
+      },
       {
         "version": "0.14.18",
         "lastUpdated": "2025-05-20T16:11:16.79Z"
@@ -1922,15 +1926,11 @@
       {
         "version": "0.14.0",
         "lastUpdated": "2025-01-21T17:36:24.76Z"
-      },
-      {
-        "version": "0.13.72",
-        "lastUpdated": "2025-01-21T16:58:10.713Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.18/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.19/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -11018,9 +11018,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250514",
-    "last_updated": "2025-05-15T00:22:18.05Z",
+    "latest_version": "5.9.20250522",
+    "last_updated": "2025-05-23T00:19:17.88Z",
     "version_history": [
+      {
+        "version": "5.9.20250522",
+        "lastUpdated": "2025-05-23T00:19:17.88Z"
+      },
       {
         "version": "5.9.20250514",
         "lastUpdated": "2025-05-15T00:22:18.05Z"
@@ -11096,15 +11100,11 @@
       {
         "version": "5.9.20250426",
         "lastUpdated": "2025-04-27T00:16:37.51Z"
-      },
-      {
-        "version": "5.9.20250425",
-        "lastUpdated": "2025-04-26T00:17:55.72Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250514/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250522/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13168,9 +13168,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.18.0",
-    "last_updated": "2025-05-21T22:38:52.45Z",
+    "latest_version": "3.18.1",
+    "last_updated": "2025-05-22T20:10:21.19Z",
     "version_history": [
+      {
+        "version": "3.18.1",
+        "lastUpdated": "2025-05-22T20:10:21.19Z"
+      },
       {
         "version": "3.18.0",
         "lastUpdated": "2025-05-21T22:38:52.45Z"
@@ -13246,24 +13250,24 @@
       {
         "version": "3.14.2",
         "lastUpdated": "2025-04-24T23:49:45.183Z"
-      },
-      {
-        "version": "3.14.1",
-        "lastUpdated": "2025-04-24T16:35:42.037Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.18.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2469",
-    "last_updated": "2025-05-22T00:56:33.993Z",
+    "latest_version": "0.4.2470",
+    "last_updated": "2025-05-23T00:56:00.767Z",
     "version_history": [
+      {
+        "version": "0.4.2470",
+        "lastUpdated": "2025-05-23T00:56:00.767Z"
+      },
       {
         "version": "0.4.2469",
         "lastUpdated": "2025-05-22T00:56:33.993Z"
@@ -13339,15 +13343,11 @@
       {
         "version": "0.4.2448",
         "lastUpdated": "2025-05-05T00:59:55.85Z"
-      },
-      {
-        "version": "0.4.2447",
-        "lastUpdated": "2025-05-04T00:59:05.88Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2469/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2470/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13562,9 +13562,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.17.0",
-    "last_updated": "2025-05-22T18:15:07.917Z",
+    "latest_version": "3.17.2",
+    "last_updated": "2025-05-22T22:55:25.95Z",
     "version_history": [
+      {
+        "version": "3.17.2",
+        "lastUpdated": "2025-05-22T22:55:25.95Z"
+      },
+      {
+        "version": "3.17.1",
+        "lastUpdated": "2025-05-22T21:08:59.683Z"
+      },
       {
         "version": "3.17.0",
         "lastUpdated": "2025-05-22T18:15:07.917Z"
@@ -13636,19 +13644,11 @@
       {
         "version": "3.12.3",
         "lastUpdated": "2025-04-15T02:54:56.533Z"
-      },
-      {
-        "version": "3.12.2",
-        "lastUpdated": "2025-04-14T18:09:58.937Z"
-      },
-      {
-        "version": "3.12.1",
-        "lastUpdated": "2025-04-13T07:08:32.707Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14007,9 +14007,17 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.95.1747743137",
-    "last_updated": "2025-05-20T12:17:34.09Z",
+    "latest_version": "1.97.1747944554",
+    "last_updated": "2025-05-22T20:16:48.63Z",
     "version_history": [
+      {
+        "version": "1.97.1747944554",
+        "lastUpdated": "2025-05-22T20:16:48.63Z"
+      },
+      {
+        "version": "1.96.0",
+        "lastUpdated": "2025-05-22T18:42:15.723Z"
+      },
       {
         "version": "1.95.1747743137",
         "lastUpdated": "2025-05-20T12:17:34.09Z"
@@ -14081,14 +14089,6 @@
       {
         "version": "1.89.1745538592",
         "lastUpdated": "2025-04-24T23:55:39.15Z"
-      },
-      {
-        "version": "1.89.1745454294",
-        "lastUpdated": "2025-04-24T00:33:10.03Z"
-      },
-      {
-        "version": "1.89.1745452339",
-        "lastUpdated": "2025-04-23T23:58:07.863Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -14134,7 +14134,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.95.1747743137/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.97.1747944554/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
