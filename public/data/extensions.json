@@ -2645,9 +2645,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - Codestral, Claude, and more",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.37",
-    "last_updated": "2025-05-20T18:27:38.817Z",
+    "latest_version": "1.1.39",
+    "last_updated": "2025-05-23T06:00:50.52Z",
     "version_history": [
+      {
+        "version": "1.1.39",
+        "lastUpdated": "2025-05-23T06:00:50.52Z"
+      },
       {
         "version": "1.1.37",
         "lastUpdated": "2025-05-20T18:27:38.817Z"
@@ -2723,15 +2727,11 @@
       {
         "version": "1.1.19",
         "lastUpdated": "2025-04-03T02:31:09.697Z"
-      },
-      {
-        "version": "1.1.18",
-        "lastUpdated": "2025-04-01T02:56:14.12Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.37/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.39/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5374,9 +5374,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025052204",
-    "last_updated": "2025-05-22T17:28:01.887Z",
+    "latest_version": "0.28.2025052301",
+    "last_updated": "2025-05-23T04:30:09.943Z",
     "version_history": [
+      {
+        "version": "0.28.2025052301",
+        "lastUpdated": "2025-05-23T04:30:09.943Z"
+      },
       {
         "version": "0.28.2025052204",
         "lastUpdated": "2025-05-22T17:28:01.887Z"
@@ -5452,10 +5456,6 @@
       {
         "version": "0.27.2025050602",
         "lastUpdated": "2025-05-06T21:08:37.54Z"
-      },
-      {
-        "version": "0.27.2025050502",
-        "lastUpdated": "2025-05-05T22:37:00.407Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5489,7 +5489,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10181,9 +10181,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.27",
-    "last_updated": "2025-05-20T04:24:59.497Z",
+    "latest_version": "1.21.28",
+    "last_updated": "2025-05-23T04:29:19.083Z",
     "version_history": [
+      {
+        "version": "1.21.28",
+        "lastUpdated": "2025-05-23T04:29:19.083Z"
+      },
       {
         "version": "1.21.27",
         "lastUpdated": "2025-05-20T04:24:59.497Z"
@@ -10259,15 +10263,11 @@
       {
         "version": "1.21.9",
         "lastUpdated": "2025-04-03T04:27:17.857Z"
-      },
-      {
-        "version": "1.21.8",
-        "lastUpdated": "2025-03-25T04:27:32.133Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.27/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.28/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -13562,9 +13562,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.17.2",
-    "last_updated": "2025-05-22T22:55:25.95Z",
+    "latest_version": "3.17.4",
+    "last_updated": "2025-05-23T03:23:56.56Z",
     "version_history": [
+      {
+        "version": "3.17.4",
+        "lastUpdated": "2025-05-23T03:23:56.56Z"
+      },
+      {
+        "version": "3.17.3",
+        "lastUpdated": "2025-05-23T02:59:14.823Z"
+      },
       {
         "version": "3.17.2",
         "lastUpdated": "2025-05-22T22:55:25.95Z"
@@ -13636,19 +13644,11 @@
       {
         "version": "3.13.1",
         "lastUpdated": "2025-04-19T09:21:31.617Z"
-      },
-      {
-        "version": "3.13.0",
-        "lastUpdated": "2025-04-19T06:31:31.41Z"
-      },
-      {
-        "version": "3.12.3",
-        "lastUpdated": "2025-04-15T02:54:56.533Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16875,9 +16875,13 @@
     "extension_name": "vscodevim.vim",
     "display_name": "Vim",
     "short_description": "Vim emulation for Visual Studio Code",
-    "latest_version": "1.29.2",
-    "last_updated": "2025-05-16T15:19:07.817Z",
+    "latest_version": "1.30.0",
+    "last_updated": "2025-05-23T04:29:49.87Z",
     "version_history": [
+      {
+        "version": "1.30.0",
+        "lastUpdated": "2025-05-23T04:29:49.87Z"
+      },
       {
         "version": "1.29.2",
         "lastUpdated": "2025-05-16T15:19:07.817Z"
@@ -16953,15 +16957,11 @@
       {
         "version": "1.24.0",
         "lastUpdated": "2022-09-27T00:40:06.54Z"
-      },
-      {
-        "version": "1.23.2",
-        "lastUpdated": "2022-08-02T02:48:43.08Z"
       }
     ],
     "categories": ["Keymaps"],
     "tags": ["keybindings", "vi", "vim", "Vimscript", "vscodevim"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.29.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscodevim/vsextensions/vim/1.30.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
   },
   {
@@ -17704,9 +17704,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.445",
-    "last_updated": "2025-05-19T10:09:44.543Z",
+    "latest_version": "1.0.447",
+    "last_updated": "2025-05-23T04:06:45.337Z",
     "version_history": [
+      {
+        "version": "1.0.447",
+        "lastUpdated": "2025-05-23T04:06:45.337Z"
+      },
+      {
+        "version": "1.0.446",
+        "lastUpdated": "2025-05-23T02:06:57.39Z"
+      },
       {
         "version": "1.0.445",
         "lastUpdated": "2025-05-19T10:09:44.543Z"
@@ -17778,19 +17786,11 @@
       {
         "version": "1.0.424",
         "lastUpdated": "2025-04-07T07:24:55.58Z"
-      },
-      {
-        "version": "1.0.422",
-        "lastUpdated": "2025-04-06T23:46:01.957Z"
-      },
-      {
-        "version": "1.0.421",
-        "lastUpdated": "2025-04-04T09:44:40.793Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.445/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.447/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
