@@ -761,122 +761,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
-    "extension_name": "aminer.codegeex",
-    "display_name": "CodeGeeX: AI Coding Assistant",
-    "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.23.0",
-    "last_updated": "2025-05-23T12:18:22.597Z",
-    "version_history": [
-      {
-        "version": "2.23.0",
-        "lastUpdated": "2025-05-23T12:18:22.597Z"
-      },
-      {
-        "version": "2.22.14",
-        "lastUpdated": "2025-05-19T12:13:42.793Z"
-      },
-      {
-        "version": "2.22.12",
-        "lastUpdated": "2025-05-12T12:17:19.443Z"
-      },
-      {
-        "version": "2.22.11",
-        "lastUpdated": "2025-05-12T04:17:01.583Z"
-      },
-      {
-        "version": "2.22.10",
-        "lastUpdated": "2025-05-08T12:22:13.69Z"
-      },
-      {
-        "version": "2.22.9",
-        "lastUpdated": "2025-04-30T11:06:55.333Z"
-      },
-      {
-        "version": "2.22.8",
-        "lastUpdated": "2025-04-30T10:56:56.27Z"
-      },
-      {
-        "version": "2.22.7",
-        "lastUpdated": "2025-04-30T04:47:32.36Z"
-      },
-      {
-        "version": "2.22.6",
-        "lastUpdated": "2025-04-28T04:58:58.67Z"
-      },
-      {
-        "version": "2.22.5",
-        "lastUpdated": "2025-04-27T03:57:38.913Z"
-      },
-      {
-        "version": "2.22.3",
-        "lastUpdated": "2025-04-18T05:11:34.347Z"
-      },
-      {
-        "version": "2.22.1",
-        "lastUpdated": "2025-04-17T04:56:30.183Z"
-      },
-      {
-        "version": "2.22.0",
-        "lastUpdated": "2025-04-16T04:30:05.32Z"
-      },
-      {
-        "version": "2.21.3",
-        "lastUpdated": "2025-03-04T07:33:46.85Z"
-      },
-      {
-        "version": "2.21.2",
-        "lastUpdated": "2025-02-20T05:53:42.437Z"
-      },
-      {
-        "version": "2.21.1",
-        "lastUpdated": "2025-01-23T07:08:10.4Z"
-      },
-      {
-        "version": "2.21.0",
-        "lastUpdated": "2025-01-20T02:30:58.903Z"
-      },
-      {
-        "version": "2.20.1",
-        "lastUpdated": "2024-12-25T07:15:53.133Z"
-      },
-      {
-        "version": "2.20.0",
-        "lastUpdated": "2024-12-23T13:16:38.97Z"
-      },
-      {
-        "version": "2.19.0",
-        "lastUpdated": "2024-12-04T11:53:53.48Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning"],
-    "tags": [
-      "ai",
-      "autocomplete",
-      "c#",
-      "c++",
-      "chat",
-      "chatglm",
-      "code explanation",
-      "code generation",
-      "codegeex",
-      "glm",
-      "go",
-      "inline completion",
-      "java",
-      "javascript",
-      "keybindings",
-      "php",
-      "python",
-      "typescript",
-      "zhipu",
-      "zhipu ai",
-      "智谱",
-      "智谱AI"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.23.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
-  },
-  {
     "extension_name": "antfu.browse-lite",
     "display_name": "Browse Lite",
     "short_description": "Embedded browser in VS Code.",
@@ -1402,9 +1286,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.462.0",
-    "last_updated": "2025-05-22T17:48:29.33Z",
+    "latest_version": "0.463.0",
+    "last_updated": "2025-05-23T17:04:44.16Z",
     "version_history": [
+      {
+        "version": "0.463.0",
+        "lastUpdated": "2025-05-23T17:04:44.16Z"
+      },
       {
         "version": "0.462.0",
         "lastUpdated": "2025-05-22T17:48:29.33Z"
@@ -1480,15 +1368,11 @@
       {
         "version": "0.447.0",
         "lastUpdated": "2025-05-14T23:10:54.317Z"
-      },
-      {
-        "version": "0.446.0",
-        "lastUpdated": "2025-05-14T19:25:58.63Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.462.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.463.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2826,99 +2710,6 @@
     "tags": ["color-theme", "excel", "http", "icon-theme", "keybindings", "markdown", "pdf", "reg", "snippet", "theme", "word", "xlsx"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/cweijan/vsextensions/vscode-office/3.5.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office"
-  },
-  {
-    "extension_name": "Dart-Code.dart-code",
-    "display_name": "Dart",
-    "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.111.20250519",
-    "last_updated": "2025-05-19T15:01:55.153Z",
-    "version_history": [
-      {
-        "version": "3.111.20250519",
-        "lastUpdated": "2025-05-19T15:01:55.153Z"
-      },
-      {
-        "version": "3.111.20250501",
-        "lastUpdated": "2025-05-01T11:19:44.94Z"
-      },
-      {
-        "version": "3.110.0",
-        "lastUpdated": "2025-05-01T11:03:48.867Z"
-      },
-      {
-        "version": "3.109.20250429",
-        "lastUpdated": "2025-04-29T09:39:53.923Z"
-      },
-      {
-        "version": "3.109.20250404",
-        "lastUpdated": "2025-04-03T11:25:45.84Z"
-      },
-      {
-        "version": "3.109.20250403",
-        "lastUpdated": "2025-04-03T09:38:43.453Z"
-      },
-      {
-        "version": "3.109.20250401",
-        "lastUpdated": "2025-04-01T14:10:45.01Z"
-      },
-      {
-        "version": "3.108.2",
-        "lastUpdated": "2025-04-03T11:28:30.42Z"
-      },
-      {
-        "version": "3.108.1",
-        "lastUpdated": "2025-04-03T09:37:05.56Z"
-      },
-      {
-        "version": "3.108.0",
-        "lastUpdated": "2025-04-01T09:31:36.74Z"
-      },
-      {
-        "version": "3.107.20250331",
-        "lastUpdated": "2025-03-31T11:35:37.457Z"
-      },
-      {
-        "version": "3.107.20250319",
-        "lastUpdated": "2025-03-19T18:33:21.977Z"
-      },
-      {
-        "version": "3.107.20250311",
-        "lastUpdated": "2025-03-11T11:36:12.24Z"
-      },
-      {
-        "version": "3.107.20250303",
-        "lastUpdated": "2025-03-03T17:33:14.677Z"
-      },
-      {
-        "version": "3.106.0",
-        "lastUpdated": "2025-03-03T17:31:29.3Z"
-      },
-      {
-        "version": "3.105.20250225",
-        "lastUpdated": "2025-02-25T17:20:00.117Z"
-      },
-      {
-        "version": "3.105.20250220",
-        "lastUpdated": "2025-02-20T12:56:00.597Z"
-      },
-      {
-        "version": "3.105.20250213",
-        "lastUpdated": "2025-02-13T14:38:47.243Z"
-      },
-      {
-        "version": "3.105.20250207",
-        "lastUpdated": "2025-02-07T12:39:32.217Z"
-      },
-      {
-        "version": "3.105.20250203",
-        "lastUpdated": "2025-02-03T15:04:55.247Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.111.20250519/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
@@ -5257,9 +5048,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.323.1580",
-    "last_updated": "2025-05-22T16:24:21.007Z",
+    "latest_version": "1.323.1582",
+    "last_updated": "2025-05-23T16:24:15.033Z",
     "version_history": [
+      {
+        "version": "1.323.1582",
+        "lastUpdated": "2025-05-23T16:24:15.033Z"
+      },
       {
         "version": "1.323.1580",
         "lastUpdated": "2025-05-22T16:24:21.007Z"
@@ -5335,10 +5130,6 @@
       {
         "version": "1.316.1553",
         "lastUpdated": "2025-05-08T19:39:01.317Z"
-      },
-      {
-        "version": "1.316.1552",
-        "lastUpdated": "2025-05-08T17:18:29.737Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5367,7 +5158,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1580/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1582/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10274,9 +10065,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.26.0",
-    "last_updated": "2025-05-22T02:12:31.473Z",
+    "latest_version": "1.26.1",
+    "last_updated": "2025-05-23T16:30:41.657Z",
     "version_history": [
+      {
+        "version": "1.26.1",
+        "lastUpdated": "2025-05-23T16:30:41.657Z"
+      },
       {
         "version": "1.26.0",
         "lastUpdated": "2025-05-22T02:12:31.473Z"
@@ -10352,15 +10147,11 @@
       {
         "version": "1.22.11",
         "lastUpdated": "2024-11-06T03:08:28.463Z"
-      },
-      {
-        "version": "1.22.10",
-        "lastUpdated": "2024-10-21T23:44:12.35Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.26.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.26.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -11199,99 +10990,6 @@
     "tags": ["Co-Debug", "Co-Edit", "Collaboration", "debuggers", "keybindings", "liveshare", "Remote", "remote-menu", "Sharing"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5948/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
-  },
-  {
-    "extension_name": "ms-windows-ai-studio.windows-ai-studio",
-    "display_name": "AI Toolkit for Visual Studio Code",
-    "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.14.0",
-    "last_updated": "2025-05-19T17:09:16.39Z",
-    "version_history": [
-      {
-        "version": "0.14.0",
-        "lastUpdated": "2025-05-19T17:09:16.39Z"
-      },
-      {
-        "version": "0.13.2025051506",
-        "lastUpdated": "2025-05-15T07:11:08.477Z"
-      },
-      {
-        "version": "0.13.2025050905",
-        "lastUpdated": "2025-05-09T06:13:00.8Z"
-      },
-      {
-        "version": "0.13.2025042908",
-        "lastUpdated": "2025-04-29T09:27:41.023Z"
-      },
-      {
-        "version": "0.13.2025042907",
-        "lastUpdated": "2025-04-29T08:33:49.707Z"
-      },
-      {
-        "version": "0.12.1",
-        "lastUpdated": "2025-04-29T03:47:33.313Z"
-      },
-      {
-        "version": "0.12.0",
-        "lastUpdated": "2025-04-28T09:11:21.17Z"
-      },
-      {
-        "version": "0.11.2025042202",
-        "lastUpdated": "2025-04-22T06:09:51.7Z"
-      },
-      {
-        "version": "0.11.2025041806",
-        "lastUpdated": "2025-04-18T07:16:59.46Z"
-      },
-      {
-        "version": "0.11.2025041008",
-        "lastUpdated": "2025-04-10T10:07:46.51Z"
-      },
-      {
-        "version": "0.11.2025040806",
-        "lastUpdated": "2025-04-08T09:29:46.453Z"
-      },
-      {
-        "version": "0.11.2025040302",
-        "lastUpdated": "2025-04-03T03:04:16.377Z"
-      },
-      {
-        "version": "0.10.9",
-        "lastUpdated": "2025-04-01T06:55:58.613Z"
-      },
-      {
-        "version": "0.10.8",
-        "lastUpdated": "2025-03-27T09:35:59.413Z"
-      },
-      {
-        "version": "0.10.7",
-        "lastUpdated": "2025-03-25T06:15:50.937Z"
-      },
-      {
-        "version": "0.10.6",
-        "lastUpdated": "2025-03-14T06:34:29.72Z"
-      },
-      {
-        "version": "0.10.5",
-        "lastUpdated": "2025-03-13T08:14:51.85Z"
-      },
-      {
-        "version": "0.10.4",
-        "lastUpdated": "2025-03-04T14:51:08.773Z"
-      },
-      {
-        "version": "0.10.3",
-        "lastUpdated": "2025-03-03T19:12:39.593Z"
-      },
-      {
-        "version": "0.10.2",
-        "lastUpdated": "2025-02-27T09:25:19.607Z"
-      }
-    ],
-    "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
-    "tags": ["ai", "Azure", "Chat", "Data Science", "LLM", "Machine Learning", "models", "studio", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.14.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
     "extension_name": "msazurermtools.azurerm-vscode-tools",
@@ -13562,9 +13260,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.17.4",
-    "last_updated": "2025-05-23T03:23:56.56Z",
+    "latest_version": "3.17.5",
+    "last_updated": "2025-05-23T17:03:38.977Z",
     "version_history": [
+      {
+        "version": "3.17.5",
+        "lastUpdated": "2025-05-23T17:03:38.977Z"
+      },
       {
         "version": "3.17.4",
         "lastUpdated": "2025-05-23T03:23:56.56Z"
@@ -13640,15 +13342,11 @@
       {
         "version": "3.13.2",
         "lastUpdated": "2025-04-24T07:59:22.21Z"
-      },
-      {
-        "version": "3.13.1",
-        "lastUpdated": "2025-04-19T09:21:31.617Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
