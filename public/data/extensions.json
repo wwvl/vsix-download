@@ -1751,9 +1751,13 @@
     "extension_name": "biomejs.biome",
     "display_name": "Biome",
     "short_description": "Toolchain of the web",
-    "latest_version": "2025.5.40952",
-    "last_updated": "2025-05-04T09:55:44.643Z",
+    "latest_version": "2025.5.241642",
+    "last_updated": "2025-05-24T16:46:32.02Z",
     "version_history": [
+      {
+        "version": "2025.5.241642",
+        "lastUpdated": "2025-05-24T16:46:32.02Z"
+      },
       {
         "version": "2025.5.40952",
         "lastUpdated": "2025-05-04T09:55:44.643Z"
@@ -1829,15 +1833,11 @@
       {
         "version": "2024.9.91939",
         "lastUpdated": "2024-09-09T19:43:19.753Z"
-      },
-      {
-        "version": "2024.8.301002",
-        "lastUpdated": "2024-08-30T10:06:23.59Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
-    "tags": ["biome_syntax_tree", "Formatter", "Linter"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.5.40952/vspackage",
+    "tags": ["biome_syntax_tree"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.5.241642/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=biomejs.biome"
   },
   {
