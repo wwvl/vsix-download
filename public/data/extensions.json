@@ -11982,9 +11982,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.16.11",
-    "last_updated": "2025-05-16T09:41:10.45Z",
+    "latest_version": "0.16.12",
+    "last_updated": "2025-05-25T06:59:04.09Z",
     "version_history": [
+      {
+        "version": "0.16.12",
+        "lastUpdated": "2025-05-25T06:59:04.09Z"
+      },
       {
         "version": "0.16.11",
         "lastUpdated": "2025-05-16T09:41:10.45Z"
@@ -12060,15 +12064,11 @@
       {
         "version": "0.15.8",
         "lastUpdated": "2025-01-24T10:20:05.77Z"
-      },
-      {
-        "version": "0.15.7",
-        "lastUpdated": "2025-01-19T01:14:25.167Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.16.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
