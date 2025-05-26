@@ -5261,9 +5261,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.323.1583",
-    "last_updated": "2025-05-26T01:49:02.43Z",
+    "latest_version": "1.323.1584",
+    "last_updated": "2025-05-26T16:19:25.61Z",
     "version_history": [
+      {
+        "version": "1.323.1584",
+        "lastUpdated": "2025-05-26T16:19:25.61Z"
+      },
       {
         "version": "1.323.1583",
         "lastUpdated": "2025-05-26T01:49:02.43Z"
@@ -5339,10 +5343,6 @@
       {
         "version": "1.317.1555",
         "lastUpdated": "2025-05-09T16:20:27.957Z"
-      },
-      {
-        "version": "1.317.0",
-        "lastUpdated": "2025-05-08T23:28:52.167Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5371,7 +5371,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1583/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1584/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7856,11 +7856,11 @@
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
     "latest_version": "1.2.13",
-    "last_updated": "2025-05-26T09:53:37.407Z",
+    "last_updated": "2025-05-26T09:59:20.32Z",
     "version_history": [
       {
         "version": "1.2.13",
-        "lastUpdated": "2025-05-26T09:53:37.407Z"
+        "lastUpdated": "2025-05-26T09:59:20.32Z"
       },
       {
         "version": "1.2.12",
@@ -14145,9 +14145,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.12.0",
-    "last_updated": "2025-05-08T23:06:13.57Z",
+    "latest_version": "0.12.1",
+    "last_updated": "2025-05-26T13:24:34.287Z",
     "version_history": [
+      {
+        "version": "0.12.1",
+        "lastUpdated": "2025-05-26T13:24:34.287Z"
+      },
       {
         "version": "0.12.0",
         "lastUpdated": "2025-05-08T23:06:13.57Z"
@@ -14223,15 +14227,11 @@
       {
         "version": "0.4.0",
         "lastUpdated": "2025-01-17T00:08:54.793Z"
-      },
-      {
-        "version": "0.3.3",
-        "lastUpdated": "2025-01-15T15:10:30.343Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.12.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
