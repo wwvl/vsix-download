@@ -1406,9 +1406,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.464.0",
-    "last_updated": "2025-05-23T19:15:49.09Z",
+    "latest_version": "0.465.0",
+    "last_updated": "2025-05-27T17:08:18.213Z",
     "version_history": [
+      {
+        "version": "0.465.0",
+        "lastUpdated": "2025-05-27T17:08:18.213Z"
+      },
       {
         "version": "0.464.0",
         "lastUpdated": "2025-05-23T19:15:49.09Z"
@@ -1484,15 +1488,11 @@
       {
         "version": "0.449.0",
         "lastUpdated": "2025-05-15T17:05:53.387Z"
-      },
-      {
-        "version": "0.448.0",
-        "lastUpdated": "2025-05-15T03:12:18.47Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.464.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.465.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5261,9 +5261,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.323.1586",
-    "last_updated": "2025-05-27T09:59:43.857Z",
+    "latest_version": "1.323.1587",
+    "last_updated": "2025-05-27T16:21:53.683Z",
     "version_history": [
+      {
+        "version": "1.323.1587",
+        "lastUpdated": "2025-05-27T16:21:53.683Z"
+      },
       {
         "version": "1.323.1586",
         "lastUpdated": "2025-05-27T09:59:43.857Z"
@@ -5339,10 +5343,6 @@
       {
         "version": "1.319.1560",
         "lastUpdated": "2025-05-13T01:46:30.767Z"
-      },
-      {
-        "version": "1.318.1558",
-        "lastUpdated": "2025-05-12T16:20:53.38Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5371,7 +5371,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1586/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1587/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
