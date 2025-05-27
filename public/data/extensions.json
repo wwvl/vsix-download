@@ -2034,9 +2034,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automating the process of writing meaningful log messages.",
-    "latest_version": "2.16.0",
-    "last_updated": "2025-05-11T22:41:14.723Z",
+    "latest_version": "2.17.0",
+    "last_updated": "2025-05-27T01:19:24.4Z",
     "version_history": [
+      {
+        "version": "2.17.0",
+        "lastUpdated": "2025-05-27T01:19:24.4Z"
+      },
       {
         "version": "2.16.0",
         "lastUpdated": "2025-05-11T22:41:14.723Z"
@@ -2112,15 +2116,11 @@
       {
         "version": "2.10.6",
         "lastUpdated": "2024-12-28T22:44:20.667Z"
-      },
-      {
-        "version": "2.10.5",
-        "lastUpdated": "2024-10-20T02:08:04.073Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.17.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -3021,9 +3021,13 @@
     "extension_name": "DavidAnson.vscode-markdownlint",
     "display_name": "markdownlint",
     "short_description": "Markdown linting and style checking for Visual Studio Code",
-    "latest_version": "0.59.0",
-    "last_updated": "2025-02-18T03:44:18.123Z",
+    "latest_version": "0.60.0",
+    "last_updated": "2025-05-27T01:23:51.017Z",
     "version_history": [
+      {
+        "version": "0.60.0",
+        "lastUpdated": "2025-05-27T01:23:51.017Z"
+      },
       {
         "version": "0.59.0",
         "lastUpdated": "2025-02-18T03:44:18.123Z"
@@ -3099,15 +3103,11 @@
       {
         "version": "0.44.4",
         "lastUpdated": "2021-10-03T19:14:06.47Z"
-      },
-      {
-        "version": "0.44.3",
-        "lastUpdated": "2021-09-27T04:35:09.857Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
     "tags": ["CommonMark", "json", "lint", "linters", "markdown", "md", "multi-root ready", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.59.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.60.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint"
   },
   {
@@ -15935,9 +15935,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025052404",
-    "last_updated": "2025-05-24T05:17:45.68Z",
+    "latest_version": "1.63.2025052700",
+    "last_updated": "2025-05-27T01:10:08.39Z",
     "version_history": [
+      {
+        "version": "1.63.2025052700",
+        "lastUpdated": "2025-05-27T01:10:08.39Z"
+      },
       {
         "version": "1.63.2025052404",
         "lastUpdated": "2025-05-24T05:17:45.68Z"
@@ -16013,10 +16017,6 @@
       {
         "version": "1.62.2025040500",
         "lastUpdated": "2025-04-05T01:00:44.44Z"
-      },
-      {
-        "version": "1.62.2025040300",
-        "lastUpdated": "2025-04-03T01:00:40.193Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16035,7 +16035,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025052404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025052700/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
