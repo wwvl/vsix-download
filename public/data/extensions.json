@@ -5378,9 +5378,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025052701",
-    "last_updated": "2025-05-27T04:28:38.27Z",
+    "latest_version": "0.28.2025052801",
+    "last_updated": "2025-05-28T04:30:45.367Z",
     "version_history": [
+      {
+        "version": "0.28.2025052801",
+        "lastUpdated": "2025-05-28T04:30:45.367Z"
+      },
       {
         "version": "0.28.2025052701",
         "lastUpdated": "2025-05-27T04:28:38.27Z"
@@ -5456,10 +5460,6 @@
       {
         "version": "0.28.2025050901",
         "lastUpdated": "2025-05-09T04:27:55.923Z"
-      },
-      {
-        "version": "0.28.2025050803",
-        "lastUpdated": "2025-05-08T18:32:20.287Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5493,7 +5493,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5686,9 +5686,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.111.2025052704",
-    "last_updated": "2025-05-27T04:23:10.343Z",
+    "latest_version": "0.111.2025052804",
+    "last_updated": "2025-05-28T04:23:04.793Z",
     "version_history": [
+      {
+        "version": "0.111.2025052804",
+        "lastUpdated": "2025-05-28T04:23:04.793Z"
+      },
       {
         "version": "0.111.2025052704",
         "lastUpdated": "2025-05-27T04:23:10.343Z"
@@ -5764,15 +5768,11 @@
       {
         "version": "0.109.2025043013",
         "lastUpdated": "2025-04-30T13:29:12.903Z"
-      },
-      {
-        "version": "0.109.2025043004",
-        "lastUpdated": "2025-04-30T04:23:33.277Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025052704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.111.2025052804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -5965,9 +5965,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.33.0",
-    "last_updated": "2025-05-15T00:44:44.467Z",
+    "latest_version": "2.34.0",
+    "last_updated": "2025-05-28T01:33:27.537Z",
     "version_history": [
+      {
+        "version": "2.34.0",
+        "lastUpdated": "2025-05-28T01:33:27.537Z"
+      },
       {
         "version": "2.33.0",
         "lastUpdated": "2025-05-15T00:44:44.467Z"
@@ -6043,24 +6047,24 @@
       {
         "version": "2.24.0",
         "lastUpdated": "2025-01-09T10:13:58.7Z"
-      },
-      {
-        "version": "2.23.1",
-        "lastUpdated": "2024-12-12T22:28:22.133Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.33.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.34.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
     "extension_name": "GoogleCloudTools.cloudcode",
     "display_name": "Google Cloud Code",
     "short_description": "Tools for Google Cloud",
-    "latest_version": "2.30.0",
-    "last_updated": "2025-05-15T00:31:47.703Z",
+    "latest_version": "2.31.0",
+    "last_updated": "2025-05-28T01:33:13.573Z",
     "version_history": [
+      {
+        "version": "2.31.0",
+        "lastUpdated": "2025-05-28T01:33:13.573Z"
+      },
       {
         "version": "2.30.0",
         "lastUpdated": "2025-05-15T00:31:47.703Z"
@@ -6136,10 +6140,6 @@
       {
         "version": "2.16.7",
         "lastUpdated": "2024-08-27T16:18:15.483Z"
-      },
-      {
-        "version": "2.16.4",
-        "lastUpdated": "2024-08-17T07:56:56.2Z"
       }
     ],
     "categories": ["Snippets", "Linters", "Debuggers"],
@@ -6184,7 +6184,7 @@
       "Skaffold",
       "snippet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.30.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.31.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
   },
   {
@@ -10929,9 +10929,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250527001",
-    "last_updated": "2025-05-27T02:57:20.327Z",
+    "latest_version": "0.13.250528001",
+    "last_updated": "2025-05-28T02:56:40.99Z",
     "version_history": [
+      {
+        "version": "0.13.250528001",
+        "lastUpdated": "2025-05-28T02:56:40.99Z"
+      },
       {
         "version": "0.13.250527001",
         "lastUpdated": "2025-05-27T02:57:20.327Z"
@@ -11007,15 +11011,11 @@
       {
         "version": "0.13.250430001",
         "lastUpdated": "2025-04-30T02:51:53.767Z"
-      },
-      {
-        "version": "0.13.250429001",
-        "lastUpdated": "2025-04-29T02:53:58.717Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250527001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250528001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -13566,9 +13566,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.17.6",
-    "last_updated": "2025-05-28T00:58:07.777Z",
+    "latest_version": "3.17.7",
+    "last_updated": "2025-05-28T03:37:34.21Z",
     "version_history": [
+      {
+        "version": "3.17.7",
+        "lastUpdated": "2025-05-28T03:37:34.21Z"
+      },
       {
         "version": "3.17.6",
         "lastUpdated": "2025-05-28T00:58:07.777Z"
@@ -13644,15 +13648,11 @@
       {
         "version": "3.14.0",
         "lastUpdated": "2025-05-03T04:12:14.94Z"
-      },
-      {
-        "version": "3.13.3",
-        "lastUpdated": "2025-04-25T21:09:27.403Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14842,9 +14842,13 @@
     "extension_name": "Tencent-Cloud.coding-copilot",
     "display_name": "腾讯云代码助手 CodeBuddy",
     "short_description": "Tencent Cloud CodeBuddy",
-    "latest_version": "3.1.17",
-    "last_updated": "2025-05-23T12:09:20.783Z",
+    "latest_version": "3.1.18",
+    "last_updated": "2025-05-28T03:19:46.813Z",
     "version_history": [
+      {
+        "version": "3.1.18",
+        "lastUpdated": "2025-05-28T03:19:46.813Z"
+      },
       {
         "version": "3.1.17",
         "lastUpdated": "2025-05-23T12:09:20.783Z"
@@ -14920,10 +14924,6 @@
       {
         "version": "3.0.7",
         "lastUpdated": "2025-04-09T06:31:34.09Z"
-      },
-      {
-        "version": "3.0.6",
-        "lastUpdated": "2025-04-08T16:30:24.367Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -14967,7 +14967,7 @@
       "腾讯云开发助手",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Tencent-Cloud/vsextensions/coding-copilot/3.1.17/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Tencent-Cloud/vsextensions/coding-copilot/3.1.18/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Tencent-Cloud.coding-copilot"
   },
   {
