@@ -1410,9 +1410,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.465.0",
-    "last_updated": "2025-05-27T17:08:18.213Z",
+    "latest_version": "0.466.0",
+    "last_updated": "2025-05-28T17:09:39.44Z",
     "version_history": [
+      {
+        "version": "0.466.0",
+        "lastUpdated": "2025-05-28T17:09:39.44Z"
+      },
       {
         "version": "0.465.0",
         "lastUpdated": "2025-05-27T17:08:18.213Z"
@@ -1488,15 +1492,11 @@
       {
         "version": "0.451.0",
         "lastUpdated": "2025-05-19T18:21:46.023Z"
-      },
-      {
-        "version": "0.450.0",
-        "lastUpdated": "2025-05-16T17:04:40.437Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.465.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.466.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -4089,9 +4089,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.2705",
-    "last_updated": "2025-05-27T09:13:04.92Z",
+    "latest_version": "2025.5.2810",
+    "last_updated": "2025-05-28T14:11:09.803Z",
     "version_history": [
+      {
+        "version": "2025.5.2810",
+        "lastUpdated": "2025-05-28T14:11:09.803Z"
+      },
       {
         "version": "2025.5.2705",
         "lastUpdated": "2025-05-27T09:13:04.92Z"
@@ -4167,15 +4171,11 @@
       {
         "version": "2025.5.1105",
         "lastUpdated": "2025-05-11T09:13:21.46Z"
-      },
-      {
-        "version": "2025.5.1005",
-        "lastUpdated": "2025-05-10T09:12:20.827Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2810/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5265,9 +5265,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.323.1587",
-    "last_updated": "2025-05-27T16:21:53.683Z",
+    "latest_version": "1.324.1591",
+    "last_updated": "2025-05-28T18:01:23.9Z",
     "version_history": [
+      {
+        "version": "1.324.1591",
+        "lastUpdated": "2025-05-28T18:01:23.9Z"
+      },
+      {
+        "version": "1.324.1590",
+        "lastUpdated": "2025-05-28T16:20:39.553Z"
+      },
       {
         "version": "1.323.1587",
         "lastUpdated": "2025-05-27T16:21:53.683Z"
@@ -5339,14 +5347,6 @@
       {
         "version": "1.319.1562",
         "lastUpdated": "2025-05-14T01:51:23.91Z"
-      },
-      {
-        "version": "1.319.1561",
-        "lastUpdated": "2025-05-13T16:22:05.623Z"
-      },
-      {
-        "version": "1.319.1560",
-        "lastUpdated": "2025-05-13T01:46:30.767Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5375,7 +5375,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.323.1587/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.324.1591/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7859,9 +7859,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.15",
-    "last_updated": "2025-05-27T08:42:39.45Z",
+    "latest_version": "1.2.16",
+    "last_updated": "2025-05-28T16:51:20.38Z",
     "version_history": [
+      {
+        "version": "1.2.16",
+        "lastUpdated": "2025-05-28T16:51:20.38Z"
+      },
       {
         "version": "1.2.15",
         "lastUpdated": "2025-05-27T08:42:39.45Z"
@@ -7937,10 +7941,6 @@
       {
         "version": "1.1.86",
         "lastUpdated": "2025-04-03T05:32:35.003Z"
-      },
-      {
-        "version": "1.1.85",
-        "lastUpdated": "2025-04-01T15:34:54.99Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -7974,7 +7974,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -14015,9 +14015,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.97.1748370157",
-    "last_updated": "2025-05-27T18:28:39.427Z",
+    "latest_version": "1.98.0",
+    "last_updated": "2025-05-28T17:38:48.79Z",
     "version_history": [
+      {
+        "version": "1.98.0",
+        "lastUpdated": "2025-05-28T17:38:48.79Z"
+      },
       {
         "version": "1.97.1748370157",
         "lastUpdated": "2025-05-27T18:28:39.427Z"
@@ -14093,10 +14097,6 @@
       {
         "version": "1.91.1746101690",
         "lastUpdated": "2025-05-01T12:20:09.123Z"
-      },
-      {
-        "version": "1.90.0",
-        "lastUpdated": "2025-05-01T04:33:19.47Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -14142,7 +14142,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.97.1748370157/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.98.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
