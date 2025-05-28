@@ -3,9 +3,13 @@
     "extension_name": "360-Geelib-Copilot-Code.geelibcopilotcode",
     "display_name": "360geelib.copilot.code",
     "short_description": "IDE plugin for your favorite languages powered by 360 code LLM. Higher efficiency, more innovation!",
-    "latest_version": "4.0.2",
-    "last_updated": "2025-05-26T03:29:32.19Z",
+    "latest_version": "4.0.3",
+    "last_updated": "2025-05-28T07:04:11.293Z",
     "version_history": [
+      {
+        "version": "4.0.3",
+        "lastUpdated": "2025-05-28T07:04:11.293Z"
+      },
       {
         "version": "4.0.2",
         "lastUpdated": "2025-05-26T03:29:32.19Z"
@@ -29,7 +33,7 @@
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/360-Geelib-Copilot-Code/vsextensions/geelibcopilotcode/4.0.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/360-Geelib-Copilot-Code/vsextensions/geelibcopilotcode/4.0.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=360-Geelib-Copilot-Code.geelibcopilotcode"
   },
   {
@@ -768,9 +772,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.23.1",
-    "last_updated": "2025-05-26T07:06:33.267Z",
+    "latest_version": "2.23.2",
+    "last_updated": "2025-05-28T12:22:16.63Z",
     "version_history": [
+      {
+        "version": "2.23.2",
+        "lastUpdated": "2025-05-28T12:22:16.63Z"
+      },
       {
         "version": "2.23.1",
         "lastUpdated": "2025-05-26T07:06:33.267Z"
@@ -846,10 +854,6 @@
       {
         "version": "2.20.1",
         "lastUpdated": "2024-12-25T07:15:53.133Z"
-      },
-      {
-        "version": "2.20.0",
-        "lastUpdated": "2024-12-23T13:16:38.97Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -877,7 +881,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.23.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.23.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -8597,9 +8601,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.101.2025052109",
-    "last_updated": "2025-05-21T09:17:27.7Z",
+    "latest_version": "1.101.2025052809",
+    "last_updated": "2025-05-28T09:23:06.833Z",
     "version_history": [
+      {
+        "version": "1.101.2025052809",
+        "lastUpdated": "2025-05-28T09:23:06.833Z"
+      },
       {
         "version": "1.101.2025052109",
         "lastUpdated": "2025-05-21T09:17:27.7Z"
@@ -8675,15 +8683,11 @@
       {
         "version": "1.97.2025012209",
         "lastUpdated": "2025-01-22T09:20:56.567Z"
-      },
-      {
-        "version": "1.97.2025011509",
-        "lastUpdated": "2025-01-15T09:20:58.02Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.101.2025052109/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.101.2025052809/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9400,9 +9404,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025052701",
-    "last_updated": "2025-05-27T10:45:31.433Z",
+    "latest_version": "2025.7.2025052801",
+    "last_updated": "2025-05-28T10:53:22.873Z",
     "version_history": [
+      {
+        "version": "2025.7.2025052801",
+        "lastUpdated": "2025-05-28T10:53:22.873Z"
+      },
       {
         "version": "2025.7.2025052701",
         "lastUpdated": "2025-05-27T10:45:31.433Z"
@@ -9478,10 +9486,6 @@
       {
         "version": "2025.6.0",
         "lastUpdated": "2025-05-08T19:02:53.393Z"
-      },
-      {
-        "version": "2025.5.2025042501",
-        "lastUpdated": "2025-04-25T10:43:54.7Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9504,7 +9508,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025052701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025052801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -12859,9 +12863,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.43.2025052708",
-    "last_updated": "2025-05-27T08:28:45.22Z",
+    "latest_version": "1.43.2025052808",
+    "last_updated": "2025-05-28T08:28:24.733Z",
     "version_history": [
+      {
+        "version": "1.43.2025052808",
+        "lastUpdated": "2025-05-28T08:28:24.733Z"
+      },
       {
         "version": "1.43.2025052708",
         "lastUpdated": "2025-05-27T08:28:45.22Z"
@@ -12937,15 +12945,11 @@
       {
         "version": "1.41.2025031808",
         "lastUpdated": "2025-03-18T08:25:42.88Z"
-      },
-      {
-        "version": "1.41.2025031408",
-        "lastUpdated": "2025-03-14T08:24:44.633Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025052708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025052808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
