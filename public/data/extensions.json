@@ -1503,9 +1503,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.8.0",
-    "last_updated": "2025-05-19T14:21:58.89Z",
+    "latest_version": "3.8.3",
+    "last_updated": "2025-05-29T10:07:33.82Z",
     "version_history": [
+      {
+        "version": "3.8.3",
+        "lastUpdated": "2025-05-29T10:07:33.82Z"
+      },
       {
         "version": "3.8.0",
         "lastUpdated": "2025-05-19T14:21:58.89Z"
@@ -1581,10 +1585,6 @@
       {
         "version": "3.4.0",
         "lastUpdated": "2025-03-09T15:02:58.15Z"
-      },
-      {
-        "version": "3.3.2",
-        "lastUpdated": "2025-02-18T10:56:41.62Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1638,7 +1638,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.8.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -4089,9 +4089,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.5.2815",
-    "last_updated": "2025-05-28T19:30:36.063Z",
+    "latest_version": "2025.5.2905",
+    "last_updated": "2025-05-29T09:13:32.54Z",
     "version_history": [
+      {
+        "version": "2025.5.2905",
+        "lastUpdated": "2025-05-29T09:13:32.54Z"
+      },
       {
         "version": "2025.5.2815",
         "lastUpdated": "2025-05-28T19:30:36.063Z"
@@ -4167,15 +4171,11 @@
       {
         "version": "2025.5.1305",
         "lastUpdated": "2025-05-13T09:15:13.09Z"
-      },
-      {
-        "version": "2025.5.1202",
-        "lastUpdated": "2025-05-12T06:24:31.197Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2815/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.5.2905/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -14846,9 +14846,13 @@
     "extension_name": "Tencent-Cloud.coding-copilot",
     "display_name": "腾讯云代码助手 CodeBuddy",
     "short_description": "Tencent Cloud CodeBuddy",
-    "latest_version": "3.1.18",
-    "last_updated": "2025-05-28T03:19:46.813Z",
+    "latest_version": "3.1.19",
+    "last_updated": "2025-05-29T06:33:58.933Z",
     "version_history": [
+      {
+        "version": "3.1.19",
+        "lastUpdated": "2025-05-29T06:33:58.933Z"
+      },
       {
         "version": "3.1.18",
         "lastUpdated": "2025-05-28T03:19:46.813Z"
@@ -14924,10 +14928,6 @@
       {
         "version": "3.1.0",
         "lastUpdated": "2025-04-11T12:38:49.43Z"
-      },
-      {
-        "version": "3.0.7",
-        "lastUpdated": "2025-04-09T06:31:34.09Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -14971,7 +14971,7 @@
       "腾讯云开发助手",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Tencent-Cloud/vsextensions/coding-copilot/3.1.18/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Tencent-Cloud/vsextensions/coding-copilot/3.1.19/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Tencent-Cloud.coding-copilot"
   },
   {
