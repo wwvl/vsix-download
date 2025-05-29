@@ -43,6 +43,7 @@ DominicVonk.parameter-hints
 DotJoshJohnson.xml
 dracula-theme.theme-dracula
 dsznajder.es7-react-js-snippets
+Dwtexe.cursor-stats
 eamodio.gitlens
 EditorConfig.EditorConfig
 Equinusocio.vsc-material-theme-icons
