@@ -981,9 +981,13 @@
     "extension_name": "antfu.goto-alias",
     "display_name": "Goto definition alias",
     "short_description": "Go to definition following alias redirections",
-    "latest_version": "0.2.1",
-    "last_updated": "2024-11-04T04:40:21.54Z",
+    "latest_version": "0.3.0",
+    "last_updated": "2025-05-30T04:20:05.28Z",
     "version_history": [
+      {
+        "version": "0.3.0",
+        "lastUpdated": "2025-05-30T04:20:05.28Z"
+      },
       {
         "version": "0.2.1",
         "lastUpdated": "2024-11-04T04:40:21.54Z"
@@ -1031,7 +1035,7 @@
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/goto-alias/0.2.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/goto-alias/0.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias"
   },
   {
@@ -2038,9 +2042,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automating the process of writing meaningful log messages.",
-    "latest_version": "2.17.0",
-    "last_updated": "2025-05-27T01:19:24.4Z",
+    "latest_version": "2.18.0",
+    "last_updated": "2025-05-30T02:47:33.46Z",
     "version_history": [
+      {
+        "version": "2.18.0",
+        "lastUpdated": "2025-05-30T02:47:33.46Z"
+      },
       {
         "version": "2.17.0",
         "lastUpdated": "2025-05-27T01:19:24.4Z"
@@ -2116,15 +2124,11 @@
       {
         "version": "2.10.7",
         "lastUpdated": "2025-01-17T04:39:58.48Z"
-      },
-      {
-        "version": "2.10.6",
-        "lastUpdated": "2024-12-28T22:44:20.667Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.17.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/2.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5443,9 +5447,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025052902",
-    "last_updated": "2025-05-29T18:34:12.997Z",
+    "latest_version": "0.28.2025053001",
+    "last_updated": "2025-05-30T04:29:56.087Z",
     "version_history": [
+      {
+        "version": "0.28.2025053001",
+        "lastUpdated": "2025-05-30T04:29:56.087Z"
+      },
       {
         "version": "0.28.2025052902",
         "lastUpdated": "2025-05-29T18:34:12.997Z"
@@ -5521,10 +5529,6 @@
       {
         "version": "0.28.2025051401",
         "lastUpdated": "2025-05-14T04:33:32.607Z"
-      },
-      {
-        "version": "0.28.2025051202",
-        "lastUpdated": "2025-05-12T09:56:26.76Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5558,7 +5562,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025052902/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025053001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10994,9 +10998,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250528001",
-    "last_updated": "2025-05-28T02:56:40.99Z",
+    "latest_version": "0.13.250530001",
+    "last_updated": "2025-05-30T02:53:10.173Z",
     "version_history": [
+      {
+        "version": "0.13.250530001",
+        "lastUpdated": "2025-05-30T02:53:10.173Z"
+      },
       {
         "version": "0.13.250528001",
         "lastUpdated": "2025-05-28T02:56:40.99Z"
@@ -11072,15 +11080,11 @@
       {
         "version": "0.13.250501001",
         "lastUpdated": "2025-05-01T02:56:47.58Z"
-      },
-      {
-        "version": "0.13.250430001",
-        "lastUpdated": "2025-04-30T02:51:53.767Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250528001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250530001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -16386,9 +16390,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.29.2025052111",
-    "last_updated": "2025-05-21T12:39:18.98Z",
+    "latest_version": "0.29.2025053003",
+    "last_updated": "2025-05-30T05:51:32.107Z",
     "version_history": [
+      {
+        "version": "0.29.2025053003",
+        "lastUpdated": "2025-05-30T05:51:32.107Z"
+      },
       {
         "version": "0.29.2025052111",
         "lastUpdated": "2025-05-21T12:39:18.98Z"
@@ -16464,15 +16472,11 @@
       {
         "version": "0.27.0",
         "lastUpdated": "2024-06-03T04:48:12.207Z"
-      },
-      {
-        "version": "0.26.0",
-        "lastUpdated": "2024-04-05T07:33:53.533Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025052111/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025053003/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
