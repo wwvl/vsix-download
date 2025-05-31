@@ -1426,6 +1426,10 @@
         "lastUpdated": "2025-05-29T22:36:46.133Z"
       },
       {
+        "version": "0.467.1",
+        "lastUpdated": "2025-05-30T21:08:52.793Z"
+      },
+      {
         "version": "0.467.0",
         "lastUpdated": "2025-05-29T17:09:52.013Z"
       },
@@ -1492,10 +1496,6 @@
       {
         "version": "0.454.0",
         "lastUpdated": "2025-05-20T18:14:46.31Z"
-      },
-      {
-        "version": "0.453.1",
-        "lastUpdated": "2025-05-21T16:26:11.79Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
@@ -8759,9 +8759,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.20.32",
-    "last_updated": "2025-05-28T19:31:02.863Z",
+    "latest_version": "1.20.33",
+    "last_updated": "2025-05-30T20:59:49.503Z",
     "version_history": [
+      {
+        "version": "1.20.33",
+        "lastUpdated": "2025-05-30T20:59:49.503Z"
+      },
       {
         "version": "1.20.32",
         "lastUpdated": "2025-05-28T19:31:02.863Z"
@@ -8837,15 +8841,11 @@
       {
         "version": "1.17.12",
         "lastUpdated": "2025-02-12T18:18:53.47Z"
-      },
-      {
-        "version": "1.17.4",
-        "lastUpdated": "2025-02-05T18:03:48.087Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.20.32/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.20.33/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -11091,9 +11091,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250529",
-    "last_updated": "2025-05-30T00:25:02.84Z",
+    "latest_version": "5.9.20250530",
+    "last_updated": "2025-05-31T00:26:25.13Z",
     "version_history": [
+      {
+        "version": "5.9.20250530",
+        "lastUpdated": "2025-05-31T00:26:25.13Z"
+      },
       {
         "version": "5.9.20250529",
         "lastUpdated": "2025-05-30T00:25:02.84Z"
@@ -11169,15 +11173,11 @@
       {
         "version": "5.9.20250503",
         "lastUpdated": "2025-05-04T00:15:07.757Z"
-      },
-      {
-        "version": "5.9.20250502",
-        "lastUpdated": "2025-05-03T00:16:24.64Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250529/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250530/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13334,9 +13334,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2478",
-    "last_updated": "2025-05-30T00:56:54.91Z",
+    "latest_version": "0.4.2479",
+    "last_updated": "2025-05-31T00:56:22.38Z",
     "version_history": [
+      {
+        "version": "0.4.2479",
+        "lastUpdated": "2025-05-31T00:56:22.38Z"
+      },
       {
         "version": "0.4.2478",
         "lastUpdated": "2025-05-30T00:56:54.91Z"
@@ -13412,15 +13416,11 @@
       {
         "version": "0.4.2455",
         "lastUpdated": "2025-05-11T01:00:49.36Z"
-      },
-      {
-        "version": "0.4.2454",
-        "lastUpdated": "2025-05-10T00:57:13.663Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2478/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2479/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16004,9 +16004,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025052700",
-    "last_updated": "2025-05-27T01:10:08.39Z",
+    "latest_version": "1.63.2025053100",
+    "last_updated": "2025-05-31T01:01:10.237Z",
     "version_history": [
+      {
+        "version": "1.63.2025053100",
+        "lastUpdated": "2025-05-31T01:01:10.237Z"
+      },
       {
         "version": "1.63.2025052700",
         "lastUpdated": "2025-05-27T01:10:08.39Z"
@@ -16082,10 +16086,6 @@
       {
         "version": "1.62.2025040800",
         "lastUpdated": "2025-04-08T00:56:51.21Z"
-      },
-      {
-        "version": "1.62.2025040500",
-        "lastUpdated": "2025-04-05T01:00:44.44Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16104,7 +16104,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025052700/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025053100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17478,9 +17478,13 @@
     "extension_name": "Vxplain.vxplain",
     "display_name": "Vxplain | Understand Any Codebase",
     "short_description": "Autogenerate architecture diagrams, function call graphs, flowcharts, summaries, visualize code and more.",
-    "latest_version": "1.0.6",
-    "last_updated": "2025-05-27T21:54:17.983Z",
+    "latest_version": "1.1.0",
+    "last_updated": "2025-05-30T18:57:01.647Z",
     "version_history": [
+      {
+        "version": "1.1.0",
+        "lastUpdated": "2025-05-30T18:57:01.647Z"
+      },
       {
         "version": "1.0.6",
         "lastUpdated": "2025-05-27T21:54:17.983Z"
@@ -17556,10 +17560,6 @@
       {
         "version": "0.8.1",
         "lastUpdated": "2025-04-28T17:46:38.793Z"
-      },
-      {
-        "version": "0.7.6",
-        "lastUpdated": "2025-04-27T06:30:13.797Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "Visualization", "Education", "AI", "Chat"],
@@ -17581,7 +17581,7 @@
       "visual",
       "visualization"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/1.0.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/1.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain"
   },
   {
