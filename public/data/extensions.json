@@ -4247,9 +4247,13 @@
     "extension_name": "EditorConfig.EditorConfig",
     "display_name": "EditorConfig for VS Code",
     "short_description": "EditorConfig Support for Visual Studio Code",
-    "latest_version": "0.17.2",
-    "last_updated": "2025-03-10T19:08:46.573Z",
+    "latest_version": "0.17.3",
+    "last_updated": "2025-05-31T20:37:21.18Z",
     "version_history": [
+      {
+        "version": "0.17.3",
+        "lastUpdated": "2025-05-31T20:37:21.18Z"
+      },
       {
         "version": "0.17.2",
         "lastUpdated": "2025-03-10T19:08:46.573Z"
@@ -4325,15 +4329,11 @@
       {
         "version": "0.14.2",
         "lastUpdated": "2019-10-13T06:29:04.127Z"
-      },
-      {
-        "version": "0.14.1",
-        "lastUpdated": "2019-10-10T07:09:52.263Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["config", "editor", "editorconfig", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
   {
@@ -11091,9 +11091,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250530",
-    "last_updated": "2025-05-31T00:26:25.13Z",
+    "latest_version": "5.9.20250531",
+    "last_updated": "2025-06-01T00:19:01.637Z",
     "version_history": [
+      {
+        "version": "5.9.20250531",
+        "lastUpdated": "2025-06-01T00:19:01.637Z"
+      },
       {
         "version": "5.9.20250530",
         "lastUpdated": "2025-05-31T00:26:25.13Z"
@@ -11169,15 +11173,11 @@
       {
         "version": "5.9.20250504",
         "lastUpdated": "2025-05-05T00:17:40.307Z"
-      },
-      {
-        "version": "5.9.20250503",
-        "lastUpdated": "2025-05-04T00:15:07.757Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250530/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250531/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13334,9 +13334,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2479",
-    "last_updated": "2025-05-31T00:56:22.38Z",
+    "latest_version": "0.4.2480",
+    "last_updated": "2025-06-01T01:04:45.35Z",
     "version_history": [
+      {
+        "version": "0.4.2480",
+        "lastUpdated": "2025-06-01T01:04:45.35Z"
+      },
       {
         "version": "0.4.2479",
         "lastUpdated": "2025-05-31T00:56:22.38Z"
@@ -13412,15 +13416,11 @@
       {
         "version": "0.4.2456",
         "lastUpdated": "2025-05-12T00:58:15.98Z"
-      },
-      {
-        "version": "0.4.2455",
-        "lastUpdated": "2025-05-11T01:00:49.36Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2479/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2480/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -15356,9 +15356,13 @@
     "extension_name": "unifiedjs.vscode-mdx",
     "display_name": "MDX",
     "short_description": "Language support for MDX",
-    "latest_version": "1.8.14",
-    "last_updated": "2025-04-19T12:13:28.673Z",
+    "latest_version": "1.8.15",
+    "last_updated": "2025-05-31T19:00:27.723Z",
     "version_history": [
+      {
+        "version": "1.8.15",
+        "lastUpdated": "2025-05-31T19:00:27.723Z"
+      },
       {
         "version": "1.8.14",
         "lastUpdated": "2025-04-19T12:13:28.673Z"
@@ -15434,15 +15438,11 @@
       {
         "version": "1.7.0",
         "lastUpdated": "2024-01-20T12:08:48.96Z"
-      },
-      {
-        "version": "1.6.1",
-        "lastUpdated": "2023-12-19T15:44:17.353Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["javascript", "javascriptreact", "json", "keybindings", "Markdown", "mdx", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx"
   },
   {
