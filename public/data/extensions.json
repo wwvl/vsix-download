@@ -1414,9 +1414,21 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.469.0",
-    "last_updated": "2025-05-30T17:07:41.947Z",
+    "latest_version": "0.471.0",
+    "last_updated": "2025-06-02T17:08:34.873Z",
     "version_history": [
+      {
+        "version": "0.471.0",
+        "lastUpdated": "2025-06-02T17:08:34.873Z"
+      },
+      {
+        "version": "0.470.1",
+        "lastUpdated": "2025-06-02T17:40:15.89Z"
+      },
+      {
+        "version": "0.470.0",
+        "lastUpdated": "2025-06-02T16:54:50.25Z"
+      },
       {
         "version": "0.469.0",
         "lastUpdated": "2025-05-30T17:07:41.947Z"
@@ -1484,23 +1496,11 @@
       {
         "version": "0.456.1",
         "lastUpdated": "2025-05-22T01:55:14.497Z"
-      },
-      {
-        "version": "0.456.0",
-        "lastUpdated": "2025-05-21T19:14:35.733Z"
-      },
-      {
-        "version": "0.455.0",
-        "lastUpdated": "2025-05-21T17:05:17.893Z"
-      },
-      {
-        "version": "0.454.0",
-        "lastUpdated": "2025-05-20T18:14:46.31Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.469.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.471.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -3401,9 +3401,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.58.17393",
-    "last_updated": "2025-05-21T09:32:50.707Z",
+    "latest_version": "1.58.17439",
+    "last_updated": "2025-06-02T13:30:19.15Z",
     "version_history": [
+      {
+        "version": "1.58.17439",
+        "lastUpdated": "2025-06-02T13:30:19.15Z"
+      },
       {
         "version": "1.58.17393",
         "lastUpdated": "2025-05-21T09:32:50.707Z"
@@ -3479,15 +3483,11 @@
       {
         "version": "1.56.16964",
         "lastUpdated": "2025-03-10T16:24:34.023Z"
-      },
-      {
-        "version": "1.56.16950",
-        "lastUpdated": "2025-03-06T22:30:20.3Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.58.17393/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.58.17439/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4247,9 +4247,13 @@
     "extension_name": "EditorConfig.EditorConfig",
     "display_name": "EditorConfig for VS Code",
     "short_description": "EditorConfig Support for Visual Studio Code",
-    "latest_version": "0.17.3",
-    "last_updated": "2025-05-31T20:37:21.18Z",
+    "latest_version": "0.17.4",
+    "last_updated": "2025-06-02T16:33:47.03Z",
     "version_history": [
+      {
+        "version": "0.17.4",
+        "lastUpdated": "2025-06-02T16:33:47.03Z"
+      },
       {
         "version": "0.17.3",
         "lastUpdated": "2025-05-31T20:37:21.18Z"
@@ -4325,15 +4329,11 @@
       {
         "version": "0.14.3",
         "lastUpdated": "2019-12-13T07:46:32.09Z"
-      },
-      {
-        "version": "0.14.2",
-        "lastUpdated": "2019-10-13T06:29:04.127Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["config", "editor", "editorconfig", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
   {
