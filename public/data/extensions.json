@@ -4154,9 +4154,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.205",
-    "last_updated": "2025-06-02T09:15:21.473Z",
+    "latest_version": "2025.6.305",
+    "last_updated": "2025-06-03T09:14:03.767Z",
     "version_history": [
+      {
+        "version": "2025.6.305",
+        "lastUpdated": "2025-06-03T09:14:03.767Z"
+      },
       {
         "version": "2025.6.205",
         "lastUpdated": "2025-06-02T09:15:21.473Z"
@@ -4232,15 +4236,11 @@
       {
         "version": "2025.5.1421",
         "lastUpdated": "2025-05-15T01:24:14.207Z"
-      },
-      {
-        "version": "2025.5.1419",
-        "lastUpdated": "2025-05-14T23:15:41.657Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -12928,9 +12928,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.43.2025053008",
-    "last_updated": "2025-05-30T08:28:26.95Z",
+    "latest_version": "1.43.2025060308",
+    "last_updated": "2025-06-03T08:30:31.18Z",
     "version_history": [
+      {
+        "version": "1.43.2025060308",
+        "lastUpdated": "2025-06-03T08:30:31.18Z"
+      },
       {
         "version": "1.43.2025053008",
         "lastUpdated": "2025-05-30T08:28:26.95Z"
@@ -13006,15 +13010,11 @@
       {
         "version": "1.41.2025031912",
         "lastUpdated": "2025-03-19T13:15:48.8Z"
-      },
-      {
-        "version": "1.41.2025031908",
-        "lastUpdated": "2025-03-19T08:25:26.687Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025053008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025060308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -16004,9 +16004,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025060300",
-    "last_updated": "2025-06-03T01:01:32.16Z",
+    "latest_version": "1.63.2025060311",
+    "last_updated": "2025-06-03T12:12:48.44Z",
     "version_history": [
+      {
+        "version": "1.63.2025060311",
+        "lastUpdated": "2025-06-03T12:12:48.44Z"
+      },
       {
         "version": "1.63.2025060300",
         "lastUpdated": "2025-06-03T01:01:32.16Z"
@@ -16082,10 +16086,6 @@
       {
         "version": "1.62.2025041200",
         "lastUpdated": "2025-04-12T01:00:12.783Z"
-      },
-      {
-        "version": "1.62.2025041000",
-        "lastUpdated": "2025-04-10T00:56:14.32Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16104,7 +16104,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025060300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025060311/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
