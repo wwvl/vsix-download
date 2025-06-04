@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.472.0",
-    "last_updated": "2025-06-03T17:11:57.363Z",
+    "latest_version": "0.473.0",
+    "last_updated": "2025-06-04T17:09:33.56Z",
     "version_history": [
+      {
+        "version": "0.473.0",
+        "lastUpdated": "2025-06-04T17:09:33.56Z"
+      },
       {
         "version": "0.472.0",
         "lastUpdated": "2025-06-03T17:11:57.363Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.458.0",
         "lastUpdated": "2025-05-22T02:08:45.19Z"
-      },
-      {
-        "version": "0.457.0",
-        "lastUpdated": "2025-05-21T20:25:22.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.472.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.473.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2656,11 +2656,15 @@
   },
   {
     "extension_name": "Continue.continue",
-    "display_name": "Continue - Codestral, Claude, and more",
+    "display_name": "Continue",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.42",
-    "last_updated": "2025-06-03T23:45:12.35Z",
+    "latest_version": "1.1.43",
+    "last_updated": "2025-06-04T17:56:23.013Z",
     "version_history": [
+      {
+        "version": "1.1.43",
+        "lastUpdated": "2025-06-04T17:56:23.013Z"
+      },
       {
         "version": "1.1.42",
         "lastUpdated": "2025-06-03T23:45:12.35Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.23",
         "lastUpdated": "2025-04-09T17:59:39.29Z"
-      },
-      {
-        "version": "1.1.22",
-        "lastUpdated": "2025-04-08T16:36:47.83Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
-    "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.42/vspackage",
+    "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.43/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5331,9 +5331,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.328.1603",
-    "last_updated": "2025-06-04T01:47:29.137Z",
+    "latest_version": "1.328.1604",
+    "last_updated": "2025-06-04T16:19:19.337Z",
     "version_history": [
+      {
+        "version": "1.328.1604",
+        "lastUpdated": "2025-06-04T16:19:19.337Z"
+      },
       {
         "version": "1.328.1603",
         "lastUpdated": "2025-06-04T01:47:29.137Z"
@@ -5409,10 +5413,6 @@
       {
         "version": "1.322.1577",
         "lastUpdated": "2025-05-21T15:27:46.55Z"
-      },
-      {
-        "version": "1.322.1576",
-        "lastUpdated": "2025-05-21T01:49:15.01Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5441,7 +5441,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.328.1603/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.328.1604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8440,9 +8440,13 @@
     "extension_name": "monokai.theme-monokai-pro-vscode",
     "display_name": "Monokai Pro",
     "short_description": "✨ Professional dark & light theme + icon pack, from the author of the original Monokai color scheme.",
-    "latest_version": "2.0.6",
-    "last_updated": "2025-01-15T12:20:32.087Z",
+    "latest_version": "2.0.7",
+    "last_updated": "2025-06-04T13:16:51.32Z",
     "version_history": [
+      {
+        "version": "2.0.7",
+        "lastUpdated": "2025-06-04T13:16:51.32Z"
+      },
       {
         "version": "2.0.6",
         "lastUpdated": "2025-01-15T12:20:32.087Z"
@@ -8518,15 +8522,11 @@
       {
         "version": "1.1.16",
         "lastUpdated": "2020-06-06T13:46:13.45Z"
-      },
-      {
-        "version": "1.1.15",
-        "lastUpdated": "2020-02-17T19:30:41.46Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["beautiful functionality", "color-theme", "dark", "focus", "icons", "icon-theme", "light", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
   },
   {
@@ -9822,9 +9822,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.414.0",
-    "last_updated": "2025-05-08T13:43:52.973Z",
+    "latest_version": "0.415.0",
+    "last_updated": "2025-06-04T13:37:14.27Z",
     "version_history": [
+      {
+        "version": "0.415.0",
+        "lastUpdated": "2025-06-04T13:37:14.27Z"
+      },
       {
         "version": "0.414.0",
         "lastUpdated": "2025-05-08T13:43:52.973Z"
@@ -9900,15 +9904,11 @@
       {
         "version": "0.396.0",
         "lastUpdated": "2025-01-27T22:48:02.387Z"
-      },
-      {
-        "version": "0.395.0",
-        "lastUpdated": "2024-12-11T18:06:29.433Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.414.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.415.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
