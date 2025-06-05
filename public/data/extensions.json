@@ -1423,6 +1423,10 @@
         "lastUpdated": "2025-06-04T17:09:33.56Z"
       },
       {
+        "version": "0.472.1",
+        "lastUpdated": "2025-06-04T20:54:18.603Z"
+      },
+      {
         "version": "0.472.0",
         "lastUpdated": "2025-06-03T17:11:57.363Z"
       },
@@ -1493,10 +1497,6 @@
       {
         "version": "0.458.1",
         "lastUpdated": "2025-05-22T05:19:49.98Z"
-      },
-      {
-        "version": "0.458.0",
-        "lastUpdated": "2025-05-22T02:08:45.19Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.43",
-    "last_updated": "2025-06-04T17:56:23.013Z",
+    "latest_version": "1.1.44",
+    "last_updated": "2025-06-04T19:59:17.307Z",
     "version_history": [
+      {
+        "version": "1.1.44",
+        "lastUpdated": "2025-06-04T19:59:17.307Z"
+      },
       {
         "version": "1.1.43",
         "lastUpdated": "2025-06-04T17:56:23.013Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.24",
         "lastUpdated": "2025-04-17T05:13:31.893Z"
-      },
-      {
-        "version": "1.1.23",
-        "lastUpdated": "2025-04-09T17:59:39.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.43/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.44/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -11092,9 +11092,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250603",
-    "last_updated": "2025-06-04T00:19:27.8Z",
+    "latest_version": "5.9.20250604",
+    "last_updated": "2025-06-05T00:21:20.497Z",
     "version_history": [
+      {
+        "version": "5.9.20250604",
+        "lastUpdated": "2025-06-05T00:21:20.497Z"
+      },
       {
         "version": "5.9.20250603",
         "lastUpdated": "2025-06-04T00:19:27.8Z"
@@ -11170,15 +11174,11 @@
       {
         "version": "5.9.20250508",
         "lastUpdated": "2025-05-09T00:17:06.09Z"
-      },
-      {
-        "version": "5.9.20250507",
-        "lastUpdated": "2025-05-08T00:18:04.183Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250603/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13335,9 +13335,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2484",
-    "last_updated": "2025-06-04T01:00:25.467Z",
+    "latest_version": "0.4.2485",
+    "last_updated": "2025-06-05T00:59:02.66Z",
     "version_history": [
+      {
+        "version": "0.4.2485",
+        "lastUpdated": "2025-06-05T00:59:02.66Z"
+      },
       {
         "version": "0.4.2484",
         "lastUpdated": "2025-06-04T01:00:25.467Z"
@@ -13413,15 +13417,11 @@
       {
         "version": "0.4.2461",
         "lastUpdated": "2025-05-15T14:22:24.52Z"
-      },
-      {
-        "version": "0.4.2460",
-        "lastUpdated": "2025-05-15T00:57:07.663Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2484/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2485/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -15758,9 +15758,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.20.2",
-    "last_updated": "2025-06-03T18:51:11.307Z",
+    "latest_version": "1.20.3",
+    "last_updated": "2025-06-04T19:42:31.31Z",
     "version_history": [
+      {
+        "version": "1.20.3",
+        "lastUpdated": "2025-06-04T19:42:31.31Z"
+      },
       {
         "version": "1.20.2",
         "lastUpdated": "2025-06-03T18:51:11.307Z"
@@ -15836,15 +15840,11 @@
       {
         "version": "1.10.6",
         "lastUpdated": "2025-01-23T15:52:13.88Z"
-      },
-      {
-        "version": "1.10.5",
-        "lastUpdated": "2025-01-22T17:23:49.217Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.20.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.20.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
@@ -16005,9 +16005,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025060311",
-    "last_updated": "2025-06-03T12:12:48.44Z",
+    "latest_version": "1.63.2025060500",
+    "last_updated": "2025-06-05T01:07:02.507Z",
     "version_history": [
+      {
+        "version": "1.63.2025060500",
+        "lastUpdated": "2025-06-05T01:07:02.507Z"
+      },
       {
         "version": "1.63.2025060311",
         "lastUpdated": "2025-06-03T12:12:48.44Z"
@@ -16083,10 +16087,6 @@
       {
         "version": "1.62.2025041500",
         "lastUpdated": "2025-04-15T01:16:52.353Z"
-      },
-      {
-        "version": "1.62.2025041200",
-        "lastUpdated": "2025-04-12T01:00:12.783Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16105,7 +16105,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025060311/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025060500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17682,9 +17682,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.0.3",
-    "last_updated": "2025-05-13T12:58:35.17Z",
+    "latest_version": "25.0.4",
+    "last_updated": "2025-06-04T21:10:14.973Z",
     "version_history": [
+      {
+        "version": "25.0.4",
+        "lastUpdated": "2025-06-04T21:10:14.973Z"
+      },
       {
         "version": "25.0.3",
         "lastUpdated": "2025-05-13T12:58:35.17Z"
@@ -17760,10 +17764,6 @@
       {
         "version": "24.2.4",
         "lastUpdated": "2023-11-01T19:17:58.49Z"
-      },
-      {
-        "version": "24.2.3",
-        "lastUpdated": "2023-10-04T12:44:39.31Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -17788,7 +17788,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.0.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.0.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
