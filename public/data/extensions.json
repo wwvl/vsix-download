@@ -2844,9 +2844,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.113.20250602",
-    "last_updated": "2025-06-02T11:26:46.997Z",
+    "latest_version": "3.113.20250605",
+    "last_updated": "2025-06-05T10:53:14.993Z",
     "version_history": [
+      {
+        "version": "3.113.20250605",
+        "lastUpdated": "2025-06-05T10:53:14.993Z"
+      },
       {
         "version": "3.113.20250602",
         "lastUpdated": "2025-06-02T11:26:46.997Z"
@@ -2922,15 +2926,11 @@
       {
         "version": "3.105.20250220",
         "lastUpdated": "2025-02-20T12:56:00.597Z"
-      },
-      {
-        "version": "3.105.20250213",
-        "lastUpdated": "2025-02-13T14:38:47.243Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.113.20250602/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.113.20250605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5448,9 +5448,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025060401",
-    "last_updated": "2025-06-04T04:29:38.183Z",
+    "latest_version": "0.28.2025060502",
+    "last_updated": "2025-06-05T09:54:01.553Z",
     "version_history": [
+      {
+        "version": "0.28.2025060502",
+        "lastUpdated": "2025-06-05T09:54:01.553Z"
+      },
       {
         "version": "0.28.2025060401",
         "lastUpdated": "2025-06-04T04:29:38.183Z"
@@ -5526,10 +5530,6 @@
       {
         "version": "0.28.2025051601",
         "lastUpdated": "2025-05-16T04:31:57.223Z"
-      },
-      {
-        "version": "0.28.2025051503",
-        "lastUpdated": "2025-05-15T21:25:26.973Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5563,7 +5563,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025060401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025060502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9470,9 +9470,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.7.2025060401",
-    "last_updated": "2025-06-04T10:46:14.923Z",
+    "latest_version": "2025.7.2025060501",
+    "last_updated": "2025-06-05T10:49:48.85Z",
     "version_history": [
+      {
+        "version": "2025.7.2025060501",
+        "lastUpdated": "2025-06-05T10:49:48.85Z"
+      },
       {
         "version": "2025.7.2025060401",
         "lastUpdated": "2025-06-04T10:46:14.923Z"
@@ -9548,10 +9552,6 @@
       {
         "version": "2025.7.2025051301",
         "lastUpdated": "2025-05-13T10:49:44.39Z"
-      },
-      {
-        "version": "2025.7.2025051201",
-        "lastUpdated": "2025-05-12T10:44:26.23Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9574,7 +9574,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025060401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.7.2025060501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
