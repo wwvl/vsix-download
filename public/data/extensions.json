@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.476.0",
-    "last_updated": "2025-06-06T17:07:08.823Z",
+    "latest_version": "0.477.0",
+    "last_updated": "2025-06-06T18:27:21.213Z",
     "version_history": [
+      {
+        "version": "0.477.0",
+        "lastUpdated": "2025-06-06T18:27:21.213Z"
+      },
       {
         "version": "0.476.0",
         "lastUpdated": "2025-06-06T17:07:08.823Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.464.0",
         "lastUpdated": "2025-05-23T19:15:49.09Z"
-      },
-      {
-        "version": "0.463.0",
-        "lastUpdated": "2025-05-23T17:04:44.16Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.476.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.477.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5452,9 +5452,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.28.2025060502",
-    "last_updated": "2025-06-05T09:54:01.553Z",
+    "latest_version": "0.28.2025060602",
+    "last_updated": "2025-06-06T21:10:23.837Z",
     "version_history": [
+      {
+        "version": "0.28.2025060602",
+        "lastUpdated": "2025-06-06T21:10:23.837Z"
+      },
       {
         "version": "0.28.2025060502",
         "lastUpdated": "2025-06-05T09:54:01.553Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.28.2025051602",
         "lastUpdated": "2025-05-16T18:05:53.217Z"
-      },
-      {
-        "version": "0.28.2025051601",
-        "lastUpdated": "2025-05-16T04:31:57.223Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5567,7 +5567,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025060502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.28.2025060602/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11096,9 +11096,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250605",
-    "last_updated": "2025-06-06T00:19:00.17Z",
+    "latest_version": "5.9.20250606",
+    "last_updated": "2025-06-07T00:16:17.467Z",
     "version_history": [
+      {
+        "version": "5.9.20250606",
+        "lastUpdated": "2025-06-07T00:16:17.467Z"
+      },
       {
         "version": "5.9.20250605",
         "lastUpdated": "2025-06-06T00:19:00.17Z"
@@ -11174,15 +11178,11 @@
       {
         "version": "5.9.20250510",
         "lastUpdated": "2025-05-11T00:19:35.217Z"
-      },
-      {
-        "version": "5.9.20250509",
-        "lastUpdated": "2025-05-10T00:16:38.773Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250606/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13339,9 +13339,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2486",
-    "last_updated": "2025-06-06T00:58:04.69Z",
+    "latest_version": "0.4.2487",
+    "last_updated": "2025-06-07T00:57:11.413Z",
     "version_history": [
+      {
+        "version": "0.4.2487",
+        "lastUpdated": "2025-06-07T00:57:11.413Z"
+      },
       {
         "version": "0.4.2486",
         "lastUpdated": "2025-06-06T00:58:04.69Z"
@@ -13417,15 +13421,11 @@
       {
         "version": "0.4.2463",
         "lastUpdated": "2025-05-17T00:55:02.333Z"
-      },
-      {
-        "version": "0.4.2462",
-        "lastUpdated": "2025-05-16T00:57:37.58Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2486/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2487/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16009,9 +16009,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.63.2025060500",
-    "last_updated": "2025-06-05T01:07:02.507Z",
+    "latest_version": "1.63.2025060700",
+    "last_updated": "2025-06-07T01:01:13.397Z",
     "version_history": [
+      {
+        "version": "1.63.2025060700",
+        "lastUpdated": "2025-06-07T01:01:13.397Z"
+      },
       {
         "version": "1.63.2025060500",
         "lastUpdated": "2025-06-05T01:07:02.507Z"
@@ -16087,10 +16091,6 @@
       {
         "version": "1.62.2025041700",
         "lastUpdated": "2025-04-17T01:01:25.827Z"
-      },
-      {
-        "version": "1.62.2025041500",
-        "lastUpdated": "2025-04-15T01:16:52.353Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16109,7 +16109,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025060500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.63.2025060700/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
