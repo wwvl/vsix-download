@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.330.1610",
-    "last_updated": "2025-06-06T16:20:09.627Z",
+    "latest_version": "1.330.1611",
+    "last_updated": "2025-06-09T01:54:22.58Z",
     "version_history": [
+      {
+        "version": "1.330.1611",
+        "lastUpdated": "2025-06-09T01:54:22.58Z"
+      },
       {
         "version": "1.330.1610",
         "lastUpdated": "2025-06-06T16:20:09.627Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.323.1584",
         "lastUpdated": "2025-05-26T16:19:25.61Z"
-      },
-      {
-        "version": "1.323.1583",
-        "lastUpdated": "2025-05-26T01:49:02.43Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.330.1610/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.330.1611/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11003,9 +11003,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250607001",
-    "last_updated": "2025-06-07T03:00:37.12Z",
+    "latest_version": "0.13.250609001",
+    "last_updated": "2025-06-09T02:57:06.853Z",
     "version_history": [
+      {
+        "version": "0.13.250609001",
+        "lastUpdated": "2025-06-09T02:57:06.853Z"
+      },
       {
         "version": "0.13.250607001",
         "lastUpdated": "2025-06-07T03:00:37.12Z"
@@ -11081,15 +11085,11 @@
       {
         "version": "0.13.250514001",
         "lastUpdated": "2025-05-14T02:56:13.663Z"
-      },
-      {
-        "version": "0.13.250513001",
-        "lastUpdated": "2025-05-13T02:55:04.787Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250607001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250609001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -16395,9 +16395,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.29.2025053003",
-    "last_updated": "2025-05-30T05:51:32.107Z",
+    "latest_version": "0.29.2025060902",
+    "last_updated": "2025-06-09T04:59:59.73Z",
     "version_history": [
+      {
+        "version": "0.29.2025060902",
+        "lastUpdated": "2025-06-09T04:59:59.73Z"
+      },
       {
         "version": "0.29.2025053003",
         "lastUpdated": "2025-05-30T05:51:32.107Z"
@@ -16473,15 +16477,11 @@
       {
         "version": "0.27.2024060609",
         "lastUpdated": "2024-06-06T09:29:47.47Z"
-      },
-      {
-        "version": "0.27.2024060303",
-        "lastUpdated": "2024-06-03T04:52:33.577Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025053003/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025060902/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
