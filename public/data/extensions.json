@@ -1415,9 +1415,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.477.0",
-    "last_updated": "2025-06-06T18:27:21.213Z",
+    "latest_version": "0.478.0",
+    "last_updated": "2025-06-09T17:07:28.243Z",
     "version_history": [
+      {
+        "version": "0.478.0",
+        "lastUpdated": "2025-06-09T17:07:28.243Z"
+      },
+      {
+        "version": "0.477.1",
+        "lastUpdated": "2025-06-09T17:39:40.593Z"
+      },
       {
         "version": "0.477.0",
         "lastUpdated": "2025-06-06T18:27:21.213Z"
@@ -1489,19 +1497,11 @@
       {
         "version": "0.465.0",
         "lastUpdated": "2025-05-27T17:08:18.213Z"
-      },
-      {
-        "version": "0.464.1",
-        "lastUpdated": "2025-05-27T18:41:16.367Z"
-      },
-      {
-        "version": "0.464.0",
-        "lastUpdated": "2025-05-23T19:15:49.09Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.477.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.478.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5335,9 +5335,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.330.1611",
-    "last_updated": "2025-06-09T01:54:22.58Z",
+    "latest_version": "1.330.1613",
+    "last_updated": "2025-06-09T18:01:18.3Z",
     "version_history": [
+      {
+        "version": "1.330.1613",
+        "lastUpdated": "2025-06-09T18:01:18.3Z"
+      },
+      {
+        "version": "1.330.1612",
+        "lastUpdated": "2025-06-09T16:29:58.02Z"
+      },
       {
         "version": "1.330.1611",
         "lastUpdated": "2025-06-09T01:54:22.58Z"
@@ -5409,14 +5417,6 @@
       {
         "version": "1.323.1587",
         "lastUpdated": "2025-05-27T16:21:53.683Z"
-      },
-      {
-        "version": "1.323.1586",
-        "lastUpdated": "2025-05-27T09:59:43.857Z"
-      },
-      {
-        "version": "1.323.1584",
-        "lastUpdated": "2025-05-26T16:19:25.61Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.330.1611/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.330.1613/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -7139,9 +7139,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.49.0",
-    "last_updated": "2025-06-01T13:28:13.84Z",
+    "latest_version": "1.49.1",
+    "last_updated": "2025-06-09T14:18:47.533Z",
     "version_history": [
+      {
+        "version": "1.49.1",
+        "lastUpdated": "2025-06-09T14:18:47.533Z"
+      },
       {
         "version": "1.49.0",
         "lastUpdated": "2025-06-01T13:28:13.84Z"
@@ -7217,15 +7221,11 @@
       {
         "version": "1.36.0",
         "lastUpdated": "2024-11-30T13:51:05.08Z"
-      },
-      {
-        "version": "1.35.0",
-        "lastUpdated": "2024-11-10T13:30:07.937Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.49.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.49.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
@@ -8351,9 +8351,13 @@
     "extension_name": "mongodb.mongodb-vscode",
     "display_name": "MongoDB for VS Code",
     "short_description": "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.",
-    "latest_version": "1.13.2",
-    "last_updated": "2025-05-07T17:26:35.557Z",
+    "latest_version": "1.13.3",
+    "last_updated": "2025-06-09T15:24:34.8Z",
     "version_history": [
+      {
+        "version": "1.13.3",
+        "lastUpdated": "2025-06-09T15:24:34.8Z"
+      },
       {
         "version": "1.13.2",
         "lastUpdated": "2025-05-07T17:26:35.557Z"
@@ -8429,15 +8433,11 @@
       {
         "version": "1.2.1",
         "lastUpdated": "2023-08-23T13:57:31.377Z"
-      },
-      {
-        "version": "1.2.0",
-        "lastUpdated": "2023-08-15T15:11:27.2Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],
     "tags": ["chat-participant", "copilot", "Database", "Databases", "javascript", "json", "keybindings", "MongoDB", "MongoDB Atlas", "MQL", "plaintext", "snippet", "terraform"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.13.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.13.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
   },
   {
@@ -12060,9 +12060,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.18.0",
-    "last_updated": "2025-06-06T15:29:31.467Z",
+    "latest_version": "0.18.1",
+    "last_updated": "2025-06-09T13:57:28.987Z",
     "version_history": [
+      {
+        "version": "0.18.1",
+        "lastUpdated": "2025-06-09T13:57:28.987Z"
+      },
       {
         "version": "0.18.0",
         "lastUpdated": "2025-06-06T15:29:31.467Z"
@@ -12138,15 +12142,11 @@
       {
         "version": "0.15.11",
         "lastUpdated": "2025-02-16T01:32:35.52Z"
-      },
-      {
-        "version": "0.15.10",
-        "lastUpdated": "2025-02-06T06:52:45.497Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.18.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
