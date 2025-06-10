@@ -772,9 +772,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.23.3",
-    "last_updated": "2025-06-04T11:23:47.09Z",
+    "latest_version": "2.24.0",
+    "last_updated": "2025-06-10T12:34:19.25Z",
     "version_history": [
+      {
+        "version": "2.24.0",
+        "lastUpdated": "2025-06-10T12:34:19.25Z"
+      },
       {
         "version": "2.23.3",
         "lastUpdated": "2025-06-04T11:23:47.09Z"
@@ -850,10 +854,6 @@
       {
         "version": "2.21.1",
         "lastUpdated": "2025-01-23T07:08:10.4Z"
-      },
-      {
-        "version": "2.21.0",
-        "lastUpdated": "2025-01-20T02:30:58.903Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -882,7 +882,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.23.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -9585,13 +9585,9 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.5.103",
-    "last_updated": "2025-06-10T00:54:12.763Z",
+    "latest_version": "2025.5.102",
+    "last_updated": "2025-06-09T20:16:22.103Z",
     "version_history": [
-      {
-        "version": "2025.5.103",
-        "lastUpdated": "2025-06-10T00:54:12.763Z"
-      },
       {
         "version": "2025.5.102",
         "lastUpdated": "2025-06-09T20:16:22.103Z"
@@ -9667,11 +9663,15 @@
       {
         "version": "2025.2.103",
         "lastUpdated": "2025-03-03T22:35:48.56Z"
+      },
+      {
+        "version": "2025.2.102",
+        "lastUpdated": "2025-02-27T20:56:05.383Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.5.103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.5.102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -12060,9 +12060,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "0.18.1",
-    "last_updated": "2025-06-09T13:57:28.987Z",
+    "latest_version": "1.0.0",
+    "last_updated": "2025-06-10T08:56:13.897Z",
     "version_history": [
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2025-06-10T08:56:13.897Z"
+      },
       {
         "version": "0.18.1",
         "lastUpdated": "2025-06-09T13:57:28.987Z"
@@ -12138,15 +12142,11 @@
       {
         "version": "0.15.12",
         "lastUpdated": "2025-02-24T07:59:05.477Z"
-      },
-      {
-        "version": "0.15.11",
-        "lastUpdated": "2025-02-16T01:32:35.52Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/0.18.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
