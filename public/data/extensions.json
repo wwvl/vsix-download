@@ -10259,9 +10259,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.28",
-    "last_updated": "2025-05-23T04:29:19.083Z",
+    "latest_version": "1.21.29",
+    "last_updated": "2025-06-10T04:31:27.08Z",
     "version_history": [
+      {
+        "version": "1.21.29",
+        "lastUpdated": "2025-06-10T04:31:27.08Z"
+      },
       {
         "version": "1.21.28",
         "lastUpdated": "2025-05-23T04:29:19.083Z"
@@ -10337,15 +10341,11 @@
       {
         "version": "1.21.10",
         "lastUpdated": "2025-04-07T04:22:33.227Z"
-      },
-      {
-        "version": "1.21.9",
-        "lastUpdated": "2025-04-03T04:27:17.857Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMake Cache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.28/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.29/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -10631,9 +10631,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.13.5",
-    "last_updated": "2025-04-30T04:28:04.23Z",
+    "latest_version": "0.13.6",
+    "last_updated": "2025-06-10T04:24:29.197Z",
     "version_history": [
+      {
+        "version": "0.13.6",
+        "lastUpdated": "2025-06-10T04:24:29.197Z"
+      },
       {
         "version": "0.13.5",
         "lastUpdated": "2025-04-30T04:28:04.23Z"
@@ -10709,15 +10713,11 @@
       {
         "version": "0.12.5",
         "lastUpdated": "2024-10-14T04:26:08.993Z"
-      },
-      {
-        "version": "0.12.4",
-        "lastUpdated": "2024-10-09T04:27:00.01Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
@@ -11097,11 +11097,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "5.9.20250609",
-    "last_updated": "2025-06-10T00:16:02.317Z",
+    "last_updated": "2025-06-10T00:13:03.603Z",
     "version_history": [
       {
         "version": "5.9.20250609",
-        "lastUpdated": "2025-06-10T00:16:02.317Z"
+        "lastUpdated": "2025-06-10T00:13:03.603Z"
       },
       {
         "version": "5.9.20250608",
@@ -13246,9 +13246,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.19.5",
-    "last_updated": "2025-06-06T06:48:06.287Z",
+    "latest_version": "3.19.6",
+    "last_updated": "2025-06-10T05:37:57.59Z",
     "version_history": [
+      {
+        "version": "3.19.6",
+        "lastUpdated": "2025-06-10T05:37:57.59Z"
+      },
       {
         "version": "3.19.5",
         "lastUpdated": "2025-06-06T06:48:06.287Z"
@@ -13324,15 +13328,11 @@
       {
         "version": "3.16.3",
         "lastUpdated": "2025-05-08T14:53:18.017Z"
-      },
-      {
-        "version": "3.16.2",
-        "lastUpdated": "2025-05-08T04:32:43.85Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.19.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.19.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
