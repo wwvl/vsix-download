@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.479.0",
-    "last_updated": "2025-06-10T17:08:57.19Z",
+    "latest_version": "0.480.0",
+    "last_updated": "2025-06-11T17:07:16.017Z",
     "version_history": [
+      {
+        "version": "0.480.0",
+        "lastUpdated": "2025-06-11T17:07:16.017Z"
+      },
       {
         "version": "0.479.0",
         "lastUpdated": "2025-06-10T17:08:57.19Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.467.1",
         "lastUpdated": "2025-05-30T21:08:52.793Z"
-      },
-      {
-        "version": "0.467.0",
-        "lastUpdated": "2025-05-29T17:09:52.013Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.479.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.480.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.332.1616",
-    "last_updated": "2025-06-10T16:34:38.353Z",
+    "latest_version": "1.332.1618",
+    "last_updated": "2025-06-11T16:31:26.39Z",
     "version_history": [
+      {
+        "version": "1.332.1618",
+        "lastUpdated": "2025-06-11T16:31:26.39Z"
+      },
       {
         "version": "1.332.1616",
         "lastUpdated": "2025-06-10T16:34:38.353Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.325.0",
         "lastUpdated": "2025-05-28T20:14:40.267Z"
-      },
-      {
-        "version": "1.324.1591",
-        "lastUpdated": "2025-05-28T18:01:23.9Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.332.1616/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.332.1618/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -12468,9 +12468,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.9.0",
-    "last_updated": "2025-06-03T18:18:32.263Z",
+    "latest_version": "6.9.1",
+    "last_updated": "2025-06-11T16:16:19.433Z",
     "version_history": [
+      {
+        "version": "6.9.1",
+        "lastUpdated": "2025-06-11T16:16:19.433Z"
+      },
       {
         "version": "6.9.0",
         "lastUpdated": "2025-06-03T18:18:32.263Z"
@@ -12546,15 +12550,11 @@
       {
         "version": "5.21.0",
         "lastUpdated": "2024-10-15T15:05:38.533Z"
-      },
-      {
-        "version": "5.20.0",
-        "lastUpdated": "2024-09-24T15:10:28.467Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.9.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.9.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -13246,9 +13246,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.19.6",
-    "last_updated": "2025-06-10T05:37:57.59Z",
+    "latest_version": "3.19.7",
+    "last_updated": "2025-06-11T17:50:26.583Z",
     "version_history": [
+      {
+        "version": "3.19.7",
+        "lastUpdated": "2025-06-11T17:50:26.583Z"
+      },
       {
         "version": "3.19.6",
         "lastUpdated": "2025-06-10T05:37:57.59Z"
@@ -13324,15 +13328,11 @@
       {
         "version": "3.16.4",
         "lastUpdated": "2025-05-10T04:20:30.97Z"
-      },
-      {
-        "version": "3.16.3",
-        "lastUpdated": "2025-05-08T14:53:18.017Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.19.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.19.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -14085,9 +14085,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.101.1749131443",
-    "last_updated": "2025-06-05T13:55:17.157Z",
+    "latest_version": "1.102.0",
+    "last_updated": "2025-06-11T18:08:34.617Z",
     "version_history": [
+      {
+        "version": "1.102.0",
+        "lastUpdated": "2025-06-11T18:08:34.617Z"
+      },
       {
         "version": "1.101.1749131443",
         "lastUpdated": "2025-06-05T13:55:17.157Z"
@@ -14163,10 +14167,6 @@
       {
         "version": "1.93.1746734742",
         "lastUpdated": "2025-05-08T20:24:31.103Z"
-      },
-      {
-        "version": "1.93.1746666235",
-        "lastUpdated": "2025-05-08T01:19:44.95Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -14212,7 +14212,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.101.1749131443/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.102.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
@@ -16085,12 +16085,12 @@
         "lastUpdated": "2025-05-01T01:09:04.32Z"
       },
       {
-        "version": "1.62.2025042200",
-        "lastUpdated": "2025-04-22T00:58:52.027Z"
+        "version": "1.63.0",
+        "lastUpdated": "2025-06-11T14:05:55.79Z"
       },
       {
-        "version": "1.62.2025041900",
-        "lastUpdated": "2025-04-19T01:07:23.89Z"
+        "version": "1.62.2025042200",
+        "lastUpdated": "2025-04-22T00:58:52.027Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
