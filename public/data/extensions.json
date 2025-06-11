@@ -2655,11 +2655,15 @@
   },
   {
     "extension_name": "Continue.continue",
-    "display_name": "Continue - Codestral, Claude, and more",
+    "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.45",
-    "last_updated": "2025-06-06T06:13:04.18Z",
+    "latest_version": "1.1.47",
+    "last_updated": "2025-06-11T04:26:35.283Z",
     "version_history": [
+      {
+        "version": "1.1.47",
+        "lastUpdated": "2025-06-11T04:26:35.283Z"
+      },
       {
         "version": "1.1.45",
         "lastUpdated": "2025-06-06T06:13:04.18Z"
@@ -2735,15 +2739,11 @@
       {
         "version": "1.1.26",
         "lastUpdated": "2025-04-24T22:50:00.2Z"
-      },
-      {
-        "version": "1.1.25",
-        "lastUpdated": "2025-04-24T00:48:03.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
-    "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.45/vspackage",
+    "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.47/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -13640,11 +13640,11 @@
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
     "latest_version": "3.17.12",
-    "last_updated": "2025-06-10T17:22:45.18Z",
+    "last_updated": "2025-06-10T17:27:17.903Z",
     "version_history": [
       {
         "version": "3.17.12",
-        "lastUpdated": "2025-06-10T17:22:45.18Z"
+        "lastUpdated": "2025-06-10T17:27:17.903Z"
       },
       {
         "version": "3.17.11",
