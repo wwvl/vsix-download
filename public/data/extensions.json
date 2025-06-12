@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.1105",
-    "last_updated": "2025-06-11T09:13:57.74Z",
+    "latest_version": "2025.6.1205",
+    "last_updated": "2025-06-12T09:14:20.4Z",
     "version_history": [
+      {
+        "version": "2025.6.1205",
+        "lastUpdated": "2025-06-12T09:14:20.4Z"
+      },
       {
         "version": "2025.6.1105",
         "lastUpdated": "2025-06-11T09:13:57.74Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.5.2017",
         "lastUpdated": "2025-05-20T21:33:14.58Z"
-      },
-      {
-        "version": "2025.5.2005",
-        "lastUpdated": "2025-05-20T09:15:24.82Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -12061,11 +12061,11 @@
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
     "latest_version": "1.1.0",
-    "last_updated": "2025-06-12T05:32:01.383Z",
+    "last_updated": "2025-06-12T06:42:33.437Z",
     "version_history": [
       {
         "version": "1.1.0",
-        "lastUpdated": "2025-06-12T05:32:01.383Z"
+        "lastUpdated": "2025-06-12T06:42:33.437Z"
       },
       {
         "version": "1.0.0",
@@ -12933,9 +12933,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.43.2025061108",
-    "last_updated": "2025-06-11T08:30:02.21Z",
+    "latest_version": "1.43.2025061208",
+    "last_updated": "2025-06-12T08:30:14.77Z",
     "version_history": [
+      {
+        "version": "1.43.2025061208",
+        "lastUpdated": "2025-06-12T08:30:14.77Z"
+      },
       {
         "version": "1.43.2025061108",
         "lastUpdated": "2025-06-11T08:30:02.21Z"
@@ -13011,15 +13015,11 @@
       {
         "version": "1.42.0",
         "lastUpdated": "2025-05-15T16:19:42.383Z"
-      },
-      {
-        "version": "1.41.2025032502",
-        "lastUpdated": "2025-03-25T02:54:43.72Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025061108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025061208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -13339,9 +13339,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2493",
-    "last_updated": "2025-06-12T00:58:12.08Z",
+    "latest_version": "0.4.2494",
+    "last_updated": "2025-06-12T07:14:01.59Z",
     "version_history": [
+      {
+        "version": "0.4.2494",
+        "lastUpdated": "2025-06-12T07:14:01.59Z"
+      },
       {
         "version": "0.4.2493",
         "lastUpdated": "2025-06-12T00:58:12.08Z"
@@ -13417,15 +13421,11 @@
       {
         "version": "0.4.2469",
         "lastUpdated": "2025-05-22T00:56:33.993Z"
-      },
-      {
-        "version": "0.4.2468",
-        "lastUpdated": "2025-05-21T00:57:11.447Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2493/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2494/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
