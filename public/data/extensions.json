@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.481.0",
-    "last_updated": "2025-06-12T17:09:59.477Z",
+    "latest_version": "0.482.0",
+    "last_updated": "2025-06-13T17:06:57.103Z",
     "version_history": [
+      {
+        "version": "0.482.0",
+        "lastUpdated": "2025-06-13T17:06:57.103Z"
+      },
       {
         "version": "0.481.0",
         "lastUpdated": "2025-06-12T17:09:59.477Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.469.0",
         "lastUpdated": "2025-05-30T17:07:41.947Z"
-      },
-      {
-        "version": "0.468.0",
-        "lastUpdated": "2025-05-29T22:36:46.133Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.481.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.482.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -11792,9 +11792,13 @@
     "extension_name": "Nuxt.mdc",
     "display_name": "MDC - Markdown Components",
     "short_description": "Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.",
-    "latest_version": "0.3.2",
-    "last_updated": "2025-05-09T14:39:14.303Z",
+    "latest_version": "0.3.3",
+    "last_updated": "2025-06-13T14:30:18.183Z",
     "version_history": [
+      {
+        "version": "0.3.3",
+        "lastUpdated": "2025-06-13T14:30:18.183Z"
+      },
       {
         "version": "0.3.2",
         "lastUpdated": "2025-05-09T14:39:14.303Z"
@@ -11834,7 +11838,7 @@
     ],
     "categories": ["Programming Languages", "Snippets", "Formatters"],
     "tags": ["keybindings", "Markdown Components", "mdc", "Nuxt Content", "Nuxt Markdown Components", "Nuxt MDC", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.3.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Nuxt/vsextensions/mdc/0.3.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc"
   },
   {
