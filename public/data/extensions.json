@@ -3402,9 +3402,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17466",
-    "last_updated": "2025-06-12T23:23:32.2Z",
+    "latest_version": "1.59.17474",
+    "last_updated": "2025-06-14T16:24:39.843Z",
     "version_history": [
+      {
+        "version": "1.59.17474",
+        "lastUpdated": "2025-06-14T16:24:39.843Z"
+      },
       {
         "version": "1.59.17466",
         "lastUpdated": "2025-06-12T23:23:32.2Z"
@@ -3480,15 +3484,11 @@
       {
         "version": "1.57.17001",
         "lastUpdated": "2025-03-18T10:24:29.777Z"
-      },
-      {
-        "version": "1.57.16987",
-        "lastUpdated": "2025-03-14T16:49:14.33Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17466/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17474/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
