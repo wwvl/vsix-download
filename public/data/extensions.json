@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.1219",
-    "last_updated": "2025-06-13T00:06:04.913Z",
+    "latest_version": "2025.6.1405",
+    "last_updated": "2025-06-14T09:12:44.26Z",
     "version_history": [
+      {
+        "version": "2025.6.1405",
+        "lastUpdated": "2025-06-14T09:12:44.26Z"
+      },
       {
         "version": "2025.6.1219",
         "lastUpdated": "2025-06-13T00:06:04.913Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.5.2105",
         "lastUpdated": "2025-05-21T09:14:17.493Z"
-      },
-      {
-        "version": "2025.5.2019",
-        "lastUpdated": "2025-05-20T23:32:53.797Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1219/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1405/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -15766,9 +15766,17 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.20.3",
-    "last_updated": "2025-06-04T19:42:31.31Z",
+    "latest_version": "1.22.1",
+    "last_updated": "2025-06-14T11:30:55.873Z",
     "version_history": [
+      {
+        "version": "1.22.1",
+        "lastUpdated": "2025-06-14T11:30:55.873Z"
+      },
+      {
+        "version": "1.22.0",
+        "lastUpdated": "2025-06-14T09:26:17.153Z"
+      },
       {
         "version": "1.20.3",
         "lastUpdated": "2025-06-04T19:42:31.31Z"
@@ -15840,19 +15848,11 @@
       {
         "version": "1.12.0",
         "lastUpdated": "2025-02-07T16:32:26.1Z"
-      },
-      {
-        "version": "1.10.7",
-        "lastUpdated": "2025-02-04T15:16:18.27Z"
-      },
-      {
-        "version": "1.10.6",
-        "lastUpdated": "2025-01-23T15:52:13.88Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.20.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.22.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
