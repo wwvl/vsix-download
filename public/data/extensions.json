@@ -15766,9 +15766,17 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.22.1",
-    "last_updated": "2025-06-14T11:30:55.873Z",
+    "latest_version": "1.24.1",
+    "last_updated": "2025-06-15T08:34:49.557Z",
     "version_history": [
+      {
+        "version": "1.24.1",
+        "lastUpdated": "2025-06-15T08:34:49.557Z"
+      },
+      {
+        "version": "1.24.0",
+        "lastUpdated": "2025-06-15T08:10:51.973Z"
+      },
       {
         "version": "1.22.1",
         "lastUpdated": "2025-06-14T11:30:55.873Z"
@@ -15840,19 +15848,11 @@
       {
         "version": "1.13.0",
         "lastUpdated": "2025-02-11T16:03:43.8Z"
-      },
-      {
-        "version": "1.12.1",
-        "lastUpdated": "2025-02-07T16:45:42.907Z"
-      },
-      {
-        "version": "1.12.0",
-        "lastUpdated": "2025-02-07T16:32:26.1Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.22.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.24.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
