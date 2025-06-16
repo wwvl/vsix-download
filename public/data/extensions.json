@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.47",
-    "last_updated": "2025-06-11T04:26:35.283Z",
+    "latest_version": "1.1.48",
+    "last_updated": "2025-06-15T20:11:30.02Z",
     "version_history": [
+      {
+        "version": "1.1.48",
+        "lastUpdated": "2025-06-15T20:11:30.02Z"
+      },
       {
         "version": "1.1.47",
         "lastUpdated": "2025-06-11T04:26:35.283Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.27",
         "lastUpdated": "2025-04-28T18:08:22.587Z"
-      },
-      {
-        "version": "1.1.26",
-        "lastUpdated": "2025-04-24T22:50:00.2Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.47/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.48/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3402,9 +3402,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17477",
-    "last_updated": "2025-06-15T17:32:16.43Z",
+    "latest_version": "1.59.17478",
+    "last_updated": "2025-06-15T18:31:18.93Z",
     "version_history": [
+      {
+        "version": "1.59.17478",
+        "lastUpdated": "2025-06-15T18:31:18.93Z"
+      },
       {
         "version": "1.59.17477",
         "lastUpdated": "2025-06-15T17:32:16.43Z"
@@ -3480,15 +3484,11 @@
       {
         "version": "1.57.17046",
         "lastUpdated": "2025-03-27T20:52:50.69Z"
-      },
-      {
-        "version": "1.57.17031",
-        "lastUpdated": "2025-03-25T14:09:07.323Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17477/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17478/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -11096,9 +11096,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250614",
-    "last_updated": "2025-06-15T00:18:49.157Z",
+    "latest_version": "5.9.20250615",
+    "last_updated": "2025-06-16T00:17:58.793Z",
     "version_history": [
+      {
+        "version": "5.9.20250615",
+        "lastUpdated": "2025-06-16T00:17:58.793Z"
+      },
       {
         "version": "5.9.20250614",
         "lastUpdated": "2025-06-15T00:18:49.157Z"
@@ -11174,15 +11178,11 @@
       {
         "version": "5.9.20250527",
         "lastUpdated": "2025-05-28T00:22:19.473Z"
-      },
-      {
-        "version": "5.9.20250525",
-        "lastUpdated": "2025-05-26T00:18:26.61Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250614/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250615/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13343,9 +13343,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2498",
-    "last_updated": "2025-06-15T01:01:38.05Z",
+    "latest_version": "0.4.2499",
+    "last_updated": "2025-06-16T01:00:28.207Z",
     "version_history": [
+      {
+        "version": "0.4.2499",
+        "lastUpdated": "2025-06-16T01:00:28.207Z"
+      },
       {
         "version": "0.4.2498",
         "lastUpdated": "2025-06-15T01:01:38.05Z"
@@ -13421,15 +13425,11 @@
       {
         "version": "0.4.2477",
         "lastUpdated": "2025-05-29T00:55:24.933Z"
-      },
-      {
-        "version": "0.4.2473",
-        "lastUpdated": "2025-05-26T00:56:10.73Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2498/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2499/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -17803,9 +17803,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.451",
-    "last_updated": "2025-06-01T22:13:36.17Z",
+    "latest_version": "1.0.453",
+    "last_updated": "2025-06-15T22:10:18.65Z",
     "version_history": [
+      {
+        "version": "1.0.453",
+        "lastUpdated": "2025-06-15T22:10:18.65Z"
+      },
+      {
+        "version": "1.0.452",
+        "lastUpdated": "2025-06-15T21:45:28.947Z"
+      },
       {
         "version": "1.0.451",
         "lastUpdated": "2025-06-01T22:13:36.17Z"
@@ -17877,19 +17885,11 @@
       {
         "version": "1.0.430",
         "lastUpdated": "2025-04-21T23:33:06.74Z"
-      },
-      {
-        "version": "1.0.429",
-        "lastUpdated": "2025-04-16T22:55:48.69Z"
-      },
-      {
-        "version": "1.0.428",
-        "lastUpdated": "2025-04-15T22:08:52.027Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.451/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.453/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
