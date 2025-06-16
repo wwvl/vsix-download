@@ -2443,12 +2443,20 @@
     "extension_name": "Codeium.codeium",
     "display_name": "Windsurf Plugin (formerly Codeium): AI Coding Autocomplete and Chat for Python, JavaScript, TypeScript, and more",
     "short_description": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
-    "latest_version": "1.49.1",
-    "last_updated": "2025-06-09T23:37:31.733Z",
+    "latest_version": "1.49.2",
+    "last_updated": "2025-06-16T06:52:20.233Z",
     "version_history": [
+      {
+        "version": "1.49.2",
+        "lastUpdated": "2025-06-16T06:52:20.233Z"
+      },
       {
         "version": "1.49.1",
         "lastUpdated": "2025-06-09T23:37:31.733Z"
+      },
+      {
+        "version": "1.48.2",
+        "lastUpdated": "2025-06-16T07:24:31.937Z"
       },
       {
         "version": "1.47.1",
@@ -2517,14 +2525,6 @@
       {
         "version": "1.31.18",
         "lastUpdated": "2024-12-23T23:32:04.013Z"
-      },
-      {
-        "version": "1.31.17",
-        "lastUpdated": "2024-12-20T22:21:15.82Z"
-      },
-      {
-        "version": "1.31.15",
-        "lastUpdated": "2024-12-20T00:26:02Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -2558,7 +2558,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.49.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Codeium/vsextensions/codeium/1.49.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
   },
   {
@@ -10538,9 +10538,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025051902",
-    "last_updated": "2025-05-19T09:23:48.34Z",
+    "latest_version": "0.5.2025061601",
+    "last_updated": "2025-06-16T09:21:50.28Z",
     "version_history": [
+      {
+        "version": "0.5.2025061601",
+        "lastUpdated": "2025-06-16T09:21:50.28Z"
+      },
       {
         "version": "0.5.2025051902",
         "lastUpdated": "2025-05-19T09:23:48.34Z"
@@ -10616,15 +10620,11 @@
       {
         "version": "0.5.2023112001",
         "lastUpdated": "2023-11-20T09:13:22.07Z"
-      },
-      {
-        "version": "0.5.2023110901",
-        "lastUpdated": "2023-11-09T09:11:04.6Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025051902/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025061601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -14316,9 +14316,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.1.0",
-    "last_updated": "2025-05-08T08:21:51.31Z",
+    "latest_version": "4.2.0",
+    "last_updated": "2025-06-16T07:59:49.503Z",
     "version_history": [
+      {
+        "version": "4.2.0",
+        "lastUpdated": "2025-06-16T07:59:49.503Z"
+      },
       {
         "version": "4.1.0",
         "lastUpdated": "2025-05-08T08:21:51.31Z"
@@ -14394,15 +14398,11 @@
       {
         "version": "4.0.32",
         "lastUpdated": "2025-01-05T17:50:39.72Z"
-      },
-      {
-        "version": "4.0.31",
-        "lastUpdated": "2025-01-02T10:33:40.673Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.1.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
