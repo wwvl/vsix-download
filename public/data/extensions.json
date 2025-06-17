@@ -1136,9 +1136,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.2.2",
-    "last_updated": "2025-06-17T12:15:54.497Z",
+    "latest_version": "66.2.3",
+    "last_updated": "2025-06-17T15:54:26.177Z",
     "version_history": [
+      {
+        "version": "66.2.3",
+        "lastUpdated": "2025-06-17T15:54:26.177Z"
+      },
       {
         "version": "66.2.2",
         "lastUpdated": "2025-06-17T12:15:54.497Z"
@@ -1214,15 +1218,11 @@
       {
         "version": "0.63.6",
         "lastUpdated": "2024-10-22T06:20:29.03Z"
-      },
-      {
-        "version": "0.63.5",
-        "lastUpdated": "2024-10-22T06:02:44.763Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.2.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.2.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.483.0",
-    "last_updated": "2025-06-16T17:09:58.443Z",
+    "latest_version": "0.484.0",
+    "last_updated": "2025-06-17T17:08:27.203Z",
     "version_history": [
+      {
+        "version": "0.484.0",
+        "lastUpdated": "2025-06-17T17:08:27.203Z"
+      },
       {
         "version": "0.483.0",
         "lastUpdated": "2025-06-16T17:09:58.443Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.471.0",
         "lastUpdated": "2025-06-02T17:08:34.873Z"
-      },
-      {
-        "version": "0.470.1",
-        "lastUpdated": "2025-06-02T17:40:15.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.483.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.484.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2136,9 +2136,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.22.0",
-    "last_updated": "2025-03-21T14:01:05.02Z",
+    "latest_version": "2025.24.0",
+    "last_updated": "2025-06-17T17:01:39.327Z",
     "version_history": [
+      {
+        "version": "2025.24.0",
+        "lastUpdated": "2025-06-17T17:01:39.327Z"
+      },
       {
         "version": "2025.22.0",
         "lastUpdated": "2025-03-21T14:01:05.02Z"
@@ -2214,15 +2218,11 @@
       {
         "version": "2024.44.0",
         "lastUpdated": "2024-09-06T09:04:35.007Z"
-      },
-      {
-        "version": "2024.42.0",
-        "lastUpdated": "2024-08-16T19:43:14.113Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.22.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.1705",
-    "last_updated": "2025-06-17T09:14:42.16Z",
+    "latest_version": "2025.6.1714",
+    "last_updated": "2025-06-17T18:25:57.073Z",
     "version_history": [
+      {
+        "version": "2025.6.1714",
+        "lastUpdated": "2025-06-17T18:25:57.073Z"
+      },
       {
         "version": "2025.6.1705",
         "lastUpdated": "2025-06-17T09:14:42.16Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.5.2305",
         "lastUpdated": "2025-05-23T09:14:28.59Z"
-      },
-      {
-        "version": "2025.5.2203",
-        "lastUpdated": "2025-05-22T07:28:07.947Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1714/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.335.1628",
-    "last_updated": "2025-06-17T01:54:02.44Z",
+    "latest_version": "1.335.1629",
+    "last_updated": "2025-06-17T16:27:16.087Z",
     "version_history": [
+      {
+        "version": "1.335.1629",
+        "lastUpdated": "2025-06-17T16:27:16.087Z"
+      },
       {
         "version": "1.335.1628",
         "lastUpdated": "2025-06-17T01:54:02.44Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.328.1604",
         "lastUpdated": "2025-06-04T16:19:19.337Z"
-      },
-      {
-        "version": "1.328.1603",
-        "lastUpdated": "2025-06-04T01:47:29.137Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.335.1628/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.335.1629/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8764,9 +8764,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.30.13",
-    "last_updated": "2025-06-11T19:01:28.11Z",
+    "latest_version": "1.30.23",
+    "last_updated": "2025-06-17T16:10:07.237Z",
     "version_history": [
+      {
+        "version": "1.30.23",
+        "lastUpdated": "2025-06-17T16:10:07.237Z"
+      },
       {
         "version": "1.30.13",
         "lastUpdated": "2025-06-11T19:01:28.11Z"
@@ -8842,24 +8846,24 @@
       {
         "version": "1.17.64",
         "lastUpdated": "2025-03-26T19:43:05.483Z"
-      },
-      {
-        "version": "1.17.62",
-        "lastUpdated": "2025-03-19T22:51:01.367Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.30.13/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.30.23/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.82.12",
-    "last_updated": "2025-06-11T19:49:58.053Z",
+    "latest_version": "2.83.5",
+    "last_updated": "2025-06-17T13:21:50.397Z",
     "version_history": [
+      {
+        "version": "2.83.5",
+        "lastUpdated": "2025-06-17T13:21:50.397Z"
+      },
       {
         "version": "2.82.12",
         "lastUpdated": "2025-06-11T19:49:58.053Z"
@@ -8935,10 +8939,6 @@
       {
         "version": "2.67.20",
         "lastUpdated": "2025-02-28T20:45:05.41Z"
-      },
-      {
-        "version": "2.65.29",
-        "lastUpdated": "2025-02-12T18:58:52.237Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -8961,7 +8961,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.82.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.83.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -11097,11 +11097,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "5.9.20250616",
-    "last_updated": "2025-06-17T00:13:55.85Z",
+    "last_updated": "2025-06-17T00:19:00.32Z",
     "version_history": [
       {
         "version": "5.9.20250616",
-        "lastUpdated": "2025-06-17T00:13:55.85Z"
+        "lastUpdated": "2025-06-17T00:19:00.32Z"
       },
       {
         "version": "5.9.20250615",
@@ -12472,9 +12472,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.9.1",
-    "last_updated": "2025-06-11T16:16:19.433Z",
+    "latest_version": "6.10.0",
+    "last_updated": "2025-06-17T16:57:11.127Z",
     "version_history": [
+      {
+        "version": "6.10.0",
+        "lastUpdated": "2025-06-17T16:57:11.127Z"
+      },
       {
         "version": "6.9.1",
         "lastUpdated": "2025-06-11T16:16:19.433Z"
@@ -12550,15 +12554,11 @@
       {
         "version": "5.21.1",
         "lastUpdated": "2024-10-17T17:14:47.833Z"
-      },
-      {
-        "version": "5.21.0",
-        "lastUpdated": "2024-10-15T15:05:38.533Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.9.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
