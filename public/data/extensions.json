@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.1714",
-    "last_updated": "2025-06-17T18:25:57.073Z",
+    "latest_version": "2025.6.1805",
+    "last_updated": "2025-06-18T09:14:11.27Z",
     "version_history": [
+      {
+        "version": "2025.6.1805",
+        "lastUpdated": "2025-06-18T09:14:11.27Z"
+      },
       {
         "version": "2025.6.1714",
         "lastUpdated": "2025-06-17T18:25:57.073Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.5.2405",
         "lastUpdated": "2025-05-24T09:13:42.23Z"
-      },
-      {
-        "version": "2025.5.2305",
-        "lastUpdated": "2025-05-23T09:14:28.59Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1714/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.1805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8671,9 +8671,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.101.2025061109",
-    "last_updated": "2025-06-11T09:22:20.967Z",
+    "latest_version": "1.102.2025061809",
+    "last_updated": "2025-06-18T09:22:49.62Z",
     "version_history": [
+      {
+        "version": "1.102.2025061809",
+        "lastUpdated": "2025-06-18T09:22:49.62Z"
+      },
       {
         "version": "1.101.2025061109",
         "lastUpdated": "2025-06-11T09:22:20.967Z"
@@ -8749,15 +8753,11 @@
       {
         "version": "1.97.2025021209",
         "lastUpdated": "2025-02-12T09:16:20.94Z"
-      },
-      {
-        "version": "1.97.2025020509",
-        "lastUpdated": "2025-02-05T09:22:17.403Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.101.2025061109/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.102.2025061809/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9474,9 +9474,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.8.0",
-    "last_updated": "2025-06-16T16:18:10.197Z",
+    "latest_version": "2025.9.2025061801",
+    "last_updated": "2025-06-18T10:57:10.82Z",
     "version_history": [
+      {
+        "version": "2025.9.2025061801",
+        "lastUpdated": "2025-06-18T10:57:10.82Z"
+      },
       {
         "version": "2025.8.0",
         "lastUpdated": "2025-06-16T16:18:10.197Z"
@@ -9552,10 +9556,6 @@
       {
         "version": "2025.7.2025051504",
         "lastUpdated": "2025-05-15T10:52:29.023Z"
-      },
-      {
-        "version": "2025.7.2025051401",
-        "lastUpdated": "2025-05-14T10:52:09.157Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9578,7 +9578,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025061801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -11097,11 +11097,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "5.9.20250617",
-    "last_updated": "2025-06-18T00:13:56.797Z",
+    "last_updated": "2025-06-18T00:17:30.827Z",
     "version_history": [
       {
         "version": "5.9.20250617",
-        "lastUpdated": "2025-06-18T00:13:56.797Z"
+        "lastUpdated": "2025-06-18T00:17:30.827Z"
       },
       {
         "version": "5.9.20250616",
@@ -12937,9 +12937,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.43.2025061208",
-    "last_updated": "2025-06-12T08:30:14.77Z",
+    "latest_version": "1.43.2025061808",
+    "last_updated": "2025-06-18T08:28:29.553Z",
     "version_history": [
+      {
+        "version": "1.43.2025061808",
+        "lastUpdated": "2025-06-18T08:28:29.553Z"
+      },
       {
         "version": "1.43.2025061208",
         "lastUpdated": "2025-06-12T08:30:14.77Z"
@@ -13015,15 +13019,11 @@
       {
         "version": "1.42.2025032808",
         "lastUpdated": "2025-03-28T08:26:12.863Z"
-      },
-      {
-        "version": "1.42.0",
-        "lastUpdated": "2025-05-15T16:19:42.383Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025061208/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025061808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -15766,9 +15766,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.24.5",
-    "last_updated": "2025-06-17T21:46:50.99Z",
+    "latest_version": "1.24.6",
+    "last_updated": "2025-06-18T07:13:18.067Z",
     "version_history": [
+      {
+        "version": "1.24.6",
+        "lastUpdated": "2025-06-18T07:13:18.067Z"
+      },
       {
         "version": "1.24.5",
         "lastUpdated": "2025-06-17T21:46:50.99Z"
@@ -15844,15 +15848,11 @@
       {
         "version": "1.14.4",
         "lastUpdated": "2025-02-22T10:05:31.44Z"
-      },
-      {
-        "version": "1.14.3",
-        "lastUpdated": "2025-02-18T16:16:55.033Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.24.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.24.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
