@@ -5760,9 +5760,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025062009",
-    "last_updated": "2025-06-20T09:51:20.94Z",
+    "latest_version": "0.113.2025062020",
+    "last_updated": "2025-06-20T20:16:01.703Z",
     "version_history": [
+      {
+        "version": "0.113.2025062020",
+        "lastUpdated": "2025-06-20T20:16:01.703Z"
+      },
       {
         "version": "0.113.2025062009",
         "lastUpdated": "2025-06-20T09:51:20.94Z"
@@ -5838,15 +5842,11 @@
       {
         "version": "0.111.2025051504",
         "lastUpdated": "2025-05-15T04:28:12.993Z"
-      },
-      {
-        "version": "0.111.2025051404",
-        "lastUpdated": "2025-05-14T04:24:38.863Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062020/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8346,99 +8346,6 @@
     "tags": ["dotenv", "env", "Environment Variables"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mikestead/vsextensions/dotenv/1.0.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv"
-  },
-  {
-    "extension_name": "mongodb.mongodb-vscode",
-    "display_name": "MongoDB for VS Code",
-    "short_description": "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.",
-    "latest_version": "1.13.3",
-    "last_updated": "2025-06-09T15:24:34.8Z",
-    "version_history": [
-      {
-        "version": "1.13.3",
-        "lastUpdated": "2025-06-09T15:24:34.8Z"
-      },
-      {
-        "version": "1.13.2",
-        "lastUpdated": "2025-05-07T17:26:35.557Z"
-      },
-      {
-        "version": "1.13.1",
-        "lastUpdated": "2025-05-06T15:13:06.833Z"
-      },
-      {
-        "version": "1.13.0",
-        "lastUpdated": "2025-04-04T12:45:42.74Z"
-      },
-      {
-        "version": "1.12.1",
-        "lastUpdated": "2025-03-07T13:39:03.063Z"
-      },
-      {
-        "version": "1.12.0",
-        "lastUpdated": "2025-01-30T16:21:30.46Z"
-      },
-      {
-        "version": "1.11.0",
-        "lastUpdated": "2024-12-11T15:19:40.113Z"
-      },
-      {
-        "version": "1.10.0",
-        "lastUpdated": "2024-11-25T15:22:36.26Z"
-      },
-      {
-        "version": "1.9.3",
-        "lastUpdated": "2024-10-24T13:23:28.21Z"
-      },
-      {
-        "version": "1.9.2",
-        "lastUpdated": "2024-10-21T15:58:26.827Z"
-      },
-      {
-        "version": "1.9.1",
-        "lastUpdated": "2024-09-30T21:23:06.21Z"
-      },
-      {
-        "version": "1.8.1",
-        "lastUpdated": "2024-09-02T07:35:17.27Z"
-      },
-      {
-        "version": "1.8.0",
-        "lastUpdated": "2024-08-29T09:00:34.26Z"
-      },
-      {
-        "version": "1.7.0",
-        "lastUpdated": "2024-08-01T15:00:19.13Z"
-      },
-      {
-        "version": "1.6.1",
-        "lastUpdated": "2024-07-15T17:33:34.287Z"
-      },
-      {
-        "version": "1.6.0",
-        "lastUpdated": "2024-04-23T11:57:40.5Z"
-      },
-      {
-        "version": "1.5.0",
-        "lastUpdated": "2024-01-24T16:11:10.507Z"
-      },
-      {
-        "version": "1.4.0",
-        "lastUpdated": "2024-01-09T20:02:06.543Z"
-      },
-      {
-        "version": "1.3.1",
-        "lastUpdated": "2023-10-09T18:38:18.607Z"
-      },
-      {
-        "version": "1.2.1",
-        "lastUpdated": "2023-08-23T13:57:31.377Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],
-    "tags": ["chat-participant", "copilot", "Database", "Databases", "javascript", "json", "keybindings", "MongoDB", "MongoDB Atlas", "MQL", "plaintext", "snippet", "terraform"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.13.3/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
   },
   {
     "extension_name": "monokai.theme-monokai-pro-vscode",
@@ -11096,9 +11003,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250619",
-    "last_updated": "2025-06-20T00:16:40.823Z",
+    "latest_version": "5.9.20250620",
+    "last_updated": "2025-06-21T00:18:19.883Z",
     "version_history": [
+      {
+        "version": "5.9.20250620",
+        "lastUpdated": "2025-06-21T00:18:19.883Z"
+      },
       {
         "version": "5.9.20250619",
         "lastUpdated": "2025-06-20T00:16:40.823Z"
@@ -11174,15 +11085,11 @@
       {
         "version": "5.9.20250601",
         "lastUpdated": "2025-06-02T00:18:59.033Z"
-      },
-      {
-        "version": "5.9.20250531",
-        "lastUpdated": "2025-06-01T00:19:01.637Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250619/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250620/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13343,9 +13250,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2505",
-    "last_updated": "2025-06-20T00:58:12.187Z",
+    "latest_version": "0.4.2506",
+    "last_updated": "2025-06-21T00:56:08.587Z",
     "version_history": [
+      {
+        "version": "0.4.2506",
+        "lastUpdated": "2025-06-21T00:56:08.587Z"
+      },
       {
         "version": "0.4.2505",
         "lastUpdated": "2025-06-20T00:58:12.187Z"
@@ -13421,15 +13332,11 @@
       {
         "version": "0.4.2484",
         "lastUpdated": "2025-06-04T01:00:25.467Z"
-      },
-      {
-        "version": "0.4.2483",
-        "lastUpdated": "2025-06-03T00:57:24.607Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2505/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2506/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -13644,9 +13551,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.17.14",
-    "last_updated": "2025-06-18T05:36:52.167Z",
+    "latest_version": "3.17.15",
+    "last_updated": "2025-06-20T19:54:04.413Z",
     "version_history": [
+      {
+        "version": "3.17.15",
+        "lastUpdated": "2025-06-20T19:54:04.413Z"
+      },
       {
         "version": "3.17.14",
         "lastUpdated": "2025-06-18T05:36:52.167Z"
@@ -13722,15 +13633,11 @@
       {
         "version": "3.16.0",
         "lastUpdated": "2025-05-16T23:52:22.99Z"
-      },
-      {
-        "version": "3.15.5",
-        "lastUpdated": "2025-05-15T04:33:40.39Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.17.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16013,9 +15920,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.64.2025061900",
-    "last_updated": "2025-06-19T01:10:20.33Z",
+    "latest_version": "1.64.2025062100",
+    "last_updated": "2025-06-21T01:03:04.623Z",
     "version_history": [
+      {
+        "version": "1.64.2025062100",
+        "lastUpdated": "2025-06-21T01:03:04.623Z"
+      },
       {
         "version": "1.64.2025061900",
         "lastUpdated": "2025-06-19T01:10:20.33Z"
@@ -16091,10 +16002,6 @@
       {
         "version": "1.63.2025050800",
         "lastUpdated": "2025-05-08T01:03:39.683Z"
-      },
-      {
-        "version": "1.63.2025050600",
-        "lastUpdated": "2025-05-06T01:14:31.82Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16113,7 +16020,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025061900/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025062100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17487,9 +17394,13 @@
     "extension_name": "Vxplain.vxplain",
     "display_name": "Vxplain | Understand Any Codebase",
     "short_description": "Autogenerate architecture diagrams, function call graphs, flowcharts, summaries, visualize code and more.",
-    "latest_version": "1.1.2",
-    "last_updated": "2025-06-16T18:59:06.523Z",
+    "latest_version": "1.1.4",
+    "last_updated": "2025-06-21T01:13:11.417Z",
     "version_history": [
+      {
+        "version": "1.1.4",
+        "lastUpdated": "2025-06-21T01:13:11.417Z"
+      },
       {
         "version": "1.1.2",
         "lastUpdated": "2025-06-16T18:59:06.523Z"
@@ -17565,10 +17476,6 @@
       {
         "version": "0.8.6",
         "lastUpdated": "2025-04-30T23:31:06.387Z"
-      },
-      {
-        "version": "0.8.5",
-        "lastUpdated": "2025-04-30T22:46:06.65Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "Visualization", "Education", "AI", "Chat"],
@@ -17590,7 +17497,7 @@
       "visual",
       "visualization"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/1.1.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/1.1.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain"
   },
   {
