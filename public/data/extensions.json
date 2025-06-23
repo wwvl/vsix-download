@@ -3402,9 +3402,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17484",
-    "last_updated": "2025-06-17T23:11:27.02Z",
+    "latest_version": "1.59.17502",
+    "last_updated": "2025-06-23T11:45:29.83Z",
     "version_history": [
+      {
+        "version": "1.59.17502",
+        "lastUpdated": "2025-06-23T11:45:29.83Z"
+      },
       {
         "version": "1.59.17484",
         "lastUpdated": "2025-06-17T23:11:27.02Z"
@@ -3480,15 +3484,11 @@
       {
         "version": "1.57.17151",
         "lastUpdated": "2025-04-09T13:13:53.137Z"
-      },
-      {
-        "version": "1.57.17062",
-        "lastUpdated": "2025-04-01T13:00:01.083Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17484/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -11282,9 +11282,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.15.2025060503",
-    "last_updated": "2025-06-05T05:26:40.8Z",
+    "latest_version": "0.15.2025062307",
+    "last_updated": "2025-06-23T08:46:45.167Z",
     "version_history": [
+      {
+        "version": "0.15.2025062307",
+        "lastUpdated": "2025-06-23T08:46:45.167Z"
+      },
       {
         "version": "0.15.2025060503",
         "lastUpdated": "2025-06-05T05:26:40.8Z"
@@ -11360,15 +11364,11 @@
       {
         "version": "0.10.7",
         "lastUpdated": "2025-03-25T06:15:50.937Z"
-      },
-      {
-        "version": "0.10.6",
-        "lastUpdated": "2025-03-14T06:34:29.72Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "LLM", "Machine Learning", "models", "studio", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.15.2025060503/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.15.2025062307/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -12064,9 +12064,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.2.0",
-    "last_updated": "2025-06-19T04:32:43.183Z",
+    "latest_version": "1.3.0",
+    "last_updated": "2025-06-23T07:05:41.82Z",
     "version_history": [
+      {
+        "version": "1.3.0",
+        "lastUpdated": "2025-06-23T07:05:41.82Z"
+      },
       {
         "version": "1.2.0",
         "lastUpdated": "2025-06-19T04:32:43.183Z"
@@ -12142,24 +12146,24 @@
       {
         "version": "0.16.0",
         "lastUpdated": "2025-03-16T02:39:28.7Z"
-      },
-      {
-        "version": "0.15.15",
-        "lastUpdated": "2025-03-13T01:12:06.063Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.2.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.23.0",
-    "last_updated": "2025-05-16T09:30:15.683Z",
+    "latest_version": "5.24.0",
+    "last_updated": "2025-06-23T12:06:11.98Z",
     "version_history": [
+      {
+        "version": "5.24.0",
+        "lastUpdated": "2025-06-23T12:06:11.98Z"
+      },
       {
         "version": "5.23.0",
         "lastUpdated": "2025-05-16T09:30:15.683Z"
@@ -12235,15 +12239,11 @@
       {
         "version": "5.9.0",
         "lastUpdated": "2024-08-10T08:59:35.42Z"
-      },
-      {
-        "version": "5.8.0",
-        "lastUpdated": "2024-07-24T20:28:36.6Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.23.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
