@@ -1415,9 +1415,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.487.0",
-    "last_updated": "2025-06-20T17:06:11.047Z",
+    "latest_version": "0.488.0",
+    "last_updated": "2025-06-23T17:08:24.983Z",
     "version_history": [
+      {
+        "version": "0.488.0",
+        "lastUpdated": "2025-06-23T17:08:24.983Z"
+      },
+      {
+        "version": "0.487.1",
+        "lastUpdated": "2025-06-23T17:43:08.863Z"
+      },
       {
         "version": "0.487.0",
         "lastUpdated": "2025-06-20T17:06:11.047Z"
@@ -1489,19 +1497,11 @@
       {
         "version": "0.473.0",
         "lastUpdated": "2025-06-04T17:09:33.56Z"
-      },
-      {
-        "version": "0.472.3",
-        "lastUpdated": "2025-06-06T18:11:37.17Z"
-      },
-      {
-        "version": "0.472.2",
-        "lastUpdated": "2025-06-05T20:15:14.417Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.487.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.488.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2844,9 +2844,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.113.20250611",
-    "last_updated": "2025-06-11T11:23:32.69Z",
+    "latest_version": "3.113.20250623",
+    "last_updated": "2025-06-23T14:58:32.323Z",
     "version_history": [
+      {
+        "version": "3.113.20250623",
+        "lastUpdated": "2025-06-23T14:58:32.323Z"
+      },
       {
         "version": "3.113.20250611",
         "lastUpdated": "2025-06-11T11:23:32.69Z"
@@ -2922,15 +2926,11 @@
       {
         "version": "3.106.0",
         "lastUpdated": "2025-03-03T17:31:29.3Z"
-      },
-      {
-        "version": "3.105.20250225",
-        "lastUpdated": "2025-02-25T17:20:00.117Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.113.20250611/vspackage",
+    "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.113.20250623/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -3402,9 +3402,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17502",
-    "last_updated": "2025-06-23T11:45:29.83Z",
+    "latest_version": "1.59.17515",
+    "last_updated": "2025-06-23T15:16:41.553Z",
     "version_history": [
+      {
+        "version": "1.59.17515",
+        "lastUpdated": "2025-06-23T15:16:41.553Z"
+      },
       {
         "version": "1.59.17502",
         "lastUpdated": "2025-06-23T11:45:29.83Z"
@@ -3480,15 +3484,11 @@
       {
         "version": "1.57.17158",
         "lastUpdated": "2025-04-11T12:56:57.72Z"
-      },
-      {
-        "version": "1.57.17151",
-        "lastUpdated": "2025-04-09T13:13:53.137Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17515/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -5760,9 +5760,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025062304",
-    "last_updated": "2025-06-23T04:26:01.723Z",
+    "latest_version": "0.113.2025062314",
+    "last_updated": "2025-06-23T14:22:26.277Z",
     "version_history": [
+      {
+        "version": "0.113.2025062314",
+        "lastUpdated": "2025-06-23T14:22:26.277Z"
+      },
       {
         "version": "0.113.2025062304",
         "lastUpdated": "2025-06-23T04:26:01.723Z"
@@ -5838,24 +5842,24 @@
       {
         "version": "0.111.2025052104",
         "lastUpdated": "2025-05-21T04:24:06.08Z"
-      },
-      {
-        "version": "0.111.2025051904",
-        "lastUpdated": "2025-05-19T04:23:39.553Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062314/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.47.3",
-    "last_updated": "2025-06-05T19:11:50.663Z",
+    "latest_version": "0.47.4",
+    "last_updated": "2025-06-23T18:19:29.07Z",
     "version_history": [
+      {
+        "version": "0.47.4",
+        "lastUpdated": "2025-06-23T18:19:29.07Z"
+      },
       {
         "version": "0.47.3",
         "lastUpdated": "2025-06-05T19:11:50.663Z"
@@ -5931,15 +5935,28 @@
       {
         "version": "0.41.3",
         "lastUpdated": "2024-04-22T14:24:49.76Z"
-      },
-      {
-        "version": "0.41.2",
-        "lastUpdated": "2024-03-14T19:53:22.297Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": ["debuggers", "go", "Go Checksum File", "Go Module File", "Go Template File", "Go Work File", "go.mod", "go.sum", "go.work", "golang", "gopls", "gotmpl", "multi-root ready", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.47.3/vspackage",
+    "tags": [
+      "debuggers",
+      "go",
+      "Go Assembly",
+      "Go Checksum File",
+      "Go Module File",
+      "Go Template File",
+      "Go Work File",
+      "go.asm",
+      "go.mod",
+      "go.sum",
+      "go.work",
+      "golang",
+      "gopls",
+      "gotmpl",
+      "multi-root ready",
+      "snippet"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.47.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -8968,9 +8985,13 @@
     "extension_name": "ms-dotnettools.vscode-dotnet-runtime",
     "display_name": ".NET Install Tool",
     "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
-    "latest_version": "2.3.5",
-    "last_updated": "2025-05-27T16:56:03.083Z",
+    "latest_version": "2.3.6",
+    "last_updated": "2025-06-23T17:13:35.22Z",
     "version_history": [
+      {
+        "version": "2.3.6",
+        "lastUpdated": "2025-06-23T17:13:35.22Z"
+      },
       {
         "version": "2.3.5",
         "lastUpdated": "2025-05-27T16:56:03.083Z"
@@ -9046,15 +9067,11 @@
       {
         "version": "2.1.4",
         "lastUpdated": "2024-08-20T19:42:08.38Z"
-      },
-      {
-        "version": "2.1.3",
-        "lastUpdated": "2024-08-20T16:51:38.823Z"
       }
     ],
     "categories": ["Other"],
     "tags": [".NET", ".NET Core", "dotnet", "Extension Authoring", "runtime"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
   },
   {
@@ -13250,9 +13267,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.21.3",
-    "last_updated": "2025-06-21T19:51:28.113Z",
+    "latest_version": "3.21.4",
+    "last_updated": "2025-06-23T14:33:09.53Z",
     "version_history": [
+      {
+        "version": "3.21.4",
+        "lastUpdated": "2025-06-23T14:33:09.53Z"
+      },
       {
         "version": "3.21.3",
         "lastUpdated": "2025-06-21T19:51:28.113Z"
@@ -13328,24 +13349,24 @@
       {
         "version": "3.18.3",
         "lastUpdated": "2025-05-25T00:04:34.973Z"
-      },
-      {
-        "version": "3.18.2",
-        "lastUpdated": "2025-05-23T08:47:12.343Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.21.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.21.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2508",
-    "last_updated": "2025-06-23T00:59:06.407Z",
+    "latest_version": "0.4.2510",
+    "last_updated": "2025-06-23T13:14:36.427Z",
     "version_history": [
+      {
+        "version": "0.4.2510",
+        "lastUpdated": "2025-06-23T13:14:36.427Z"
+      },
       {
         "version": "0.4.2508",
         "lastUpdated": "2025-06-23T00:59:06.407Z"
@@ -13421,15 +13442,11 @@
       {
         "version": "0.4.2487",
         "lastUpdated": "2025-06-07T00:57:11.413Z"
-      },
-      {
-        "version": "0.4.2486",
-        "lastUpdated": "2025-06-06T00:58:04.69Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2510/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
