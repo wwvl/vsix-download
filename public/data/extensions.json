@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.488.0",
-    "last_updated": "2025-06-23T17:08:24.983Z",
+    "latest_version": "0.489.0",
+    "last_updated": "2025-06-24T17:08:20.28Z",
     "version_history": [
+      {
+        "version": "0.489.0",
+        "lastUpdated": "2025-06-24T17:08:20.28Z"
+      },
       {
         "version": "0.488.0",
         "lastUpdated": "2025-06-23T17:08:24.983Z"
@@ -1493,24 +1497,28 @@
       {
         "version": "0.474.0",
         "lastUpdated": "2025-06-05T17:09:08.813Z"
-      },
-      {
-        "version": "0.473.0",
-        "lastUpdated": "2025-06-04T17:09:33.56Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.488.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.489.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.9.1",
-    "last_updated": "2025-06-11T12:07:29.387Z",
+    "latest_version": "3.10.1",
+    "last_updated": "2025-06-24T15:36:05.84Z",
     "version_history": [
+      {
+        "version": "3.10.1",
+        "lastUpdated": "2025-06-24T15:36:05.84Z"
+      },
+      {
+        "version": "3.10.0",
+        "lastUpdated": "2025-06-24T14:22:19.34Z"
+      },
       {
         "version": "3.9.1",
         "lastUpdated": "2025-06-11T12:07:29.387Z"
@@ -1582,14 +1590,6 @@
       {
         "version": "3.4.4",
         "lastUpdated": "2025-03-19T05:26:24.013Z"
-      },
-      {
-        "version": "3.4.3",
-        "lastUpdated": "2025-03-17T13:13:42.437Z"
-      },
-      {
-        "version": "3.4.2",
-        "lastUpdated": "2025-03-14T13:25:15.357Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1643,7 +1643,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.9.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.10.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.336.0",
-    "last_updated": "2025-06-19T16:22:04.403Z",
+    "latest_version": "1.337.1641",
+    "last_updated": "2025-06-24T16:21:29.783Z",
     "version_history": [
+      {
+        "version": "1.337.1641",
+        "lastUpdated": "2025-06-24T16:21:29.783Z"
+      },
       {
         "version": "1.336.0",
         "lastUpdated": "2025-06-19T16:22:04.403Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.330.1612",
         "lastUpdated": "2025-06-09T16:29:58.02Z"
-      },
-      {
-        "version": "1.330.1611",
-        "lastUpdated": "2025-06-09T01:54:22.58Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.336.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.337.1641/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -14106,9 +14106,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.105.1750295617",
-    "last_updated": "2025-06-19T01:19:37.25Z",
+    "latest_version": "1.105.1750788384",
+    "last_updated": "2025-06-24T18:12:54.91Z",
     "version_history": [
+      {
+        "version": "1.105.1750788384",
+        "lastUpdated": "2025-06-24T18:12:54.91Z"
+      },
       {
         "version": "1.105.1750295617",
         "lastUpdated": "2025-06-19T01:19:37.25Z"
@@ -14184,10 +14188,6 @@
       {
         "version": "1.94.1",
         "lastUpdated": "2025-05-19T17:07:40.3Z"
-      },
-      {
-        "version": "1.94.0",
-        "lastUpdated": "2025-05-14T23:26:46.123Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -14233,7 +14233,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.105.1750295617/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.105.1750788384/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
