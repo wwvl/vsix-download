@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.2517",
-    "last_updated": "2025-06-25T21:36:12.51Z",
+    "latest_version": "2025.6.2605",
+    "last_updated": "2025-06-26T09:13:47.32Z",
     "version_history": [
+      {
+        "version": "2025.6.2605",
+        "lastUpdated": "2025-06-26T09:13:47.32Z"
+      },
       {
         "version": "2025.6.2517",
         "lastUpdated": "2025-06-25T21:36:12.51Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.5.3105",
         "lastUpdated": "2025-05-31T09:12:47.66Z"
-      },
-      {
-        "version": "2025.5.3005",
-        "lastUpdated": "2025-05-30T09:13:19.867Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.2517/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.2605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5761,9 +5761,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025062604",
-    "last_updated": "2025-06-26T04:22:43.963Z",
+    "latest_version": "0.113.2025062610",
+    "last_updated": "2025-06-26T10:41:20.363Z",
     "version_history": [
+      {
+        "version": "0.113.2025062610",
+        "lastUpdated": "2025-06-26T10:41:20.363Z"
+      },
       {
         "version": "0.113.2025062604",
         "lastUpdated": "2025-06-26T04:22:43.963Z"
@@ -5839,15 +5843,11 @@
       {
         "version": "0.111.2025052904",
         "lastUpdated": "2025-05-29T04:44:15.49Z"
-      },
-      {
-        "version": "0.111.2025052804",
-        "lastUpdated": "2025-05-28T04:23:04.793Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062610/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -16789,9 +16789,13 @@
     "extension_name": "vscjava.vscode-spring-initializr",
     "display_name": "Spring Initializr Java Support",
     "short_description": "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.",
-    "latest_version": "0.11.2025051201",
-    "last_updated": "2025-05-13T01:57:53.14Z",
+    "latest_version": "0.11.2025062607",
+    "last_updated": "2025-06-26T07:47:23.89Z",
     "version_history": [
+      {
+        "version": "0.11.2025062607",
+        "lastUpdated": "2025-06-26T07:47:23.89Z"
+      },
       {
         "version": "0.11.2025051201",
         "lastUpdated": "2025-05-13T01:57:53.14Z"
@@ -16867,15 +16871,11 @@
       {
         "version": "0.10.2022072203",
         "lastUpdated": "2022-07-22T03:05:06.583Z"
-      },
-      {
-        "version": "0.10.2022071503",
-        "lastUpdated": "2022-07-15T03:05:47.273Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2025051201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2025062607/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr"
   },
   {
