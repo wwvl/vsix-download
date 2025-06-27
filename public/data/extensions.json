@@ -5452,9 +5452,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025062601",
-    "last_updated": "2025-06-26T04:29:18.6Z",
+    "latest_version": "0.29.2025062701",
+    "last_updated": "2025-06-27T04:30:29.493Z",
     "version_history": [
+      {
+        "version": "0.29.2025062701",
+        "lastUpdated": "2025-06-27T04:30:29.493Z"
+      },
       {
         "version": "0.29.2025062601",
         "lastUpdated": "2025-06-26T04:29:18.6Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.28.2025060902",
         "lastUpdated": "2025-06-09T22:59:15.02Z"
-      },
-      {
-        "version": "0.28.2025060602",
-        "lastUpdated": "2025-06-06T21:10:23.837Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025062601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025062701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -7947,9 +7947,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.23",
-    "last_updated": "2025-06-20T05:01:46.89Z",
+    "latest_version": "1.2.24",
+    "last_updated": "2025-06-27T05:34:58.967Z",
     "version_history": [
+      {
+        "version": "1.2.24",
+        "lastUpdated": "2025-06-27T05:34:58.967Z"
+      },
       {
         "version": "1.2.23",
         "lastUpdated": "2025-06-20T05:01:46.89Z"
@@ -8025,10 +8029,6 @@
       {
         "version": "1.2.0",
         "lastUpdated": "2025-04-16T09:02:50.99Z"
-      },
-      {
-        "version": "1.1.99",
-        "lastUpdated": "2025-04-15T11:03:58.197Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8062,7 +8062,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.23/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.24/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11021,9 +11021,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250626001",
-    "last_updated": "2025-06-26T02:56:24.06Z",
+    "latest_version": "0.13.250627001",
+    "last_updated": "2025-06-27T02:55:46.153Z",
     "version_history": [
+      {
+        "version": "0.13.250627001",
+        "lastUpdated": "2025-06-27T02:55:46.153Z"
+      },
       {
         "version": "0.13.250626001",
         "lastUpdated": "2025-06-26T02:56:24.06Z"
@@ -11099,15 +11103,11 @@
       {
         "version": "0.13.250601001",
         "lastUpdated": "2025-06-01T03:07:04.937Z"
-      },
-      {
-        "version": "0.13.250531001",
-        "lastUpdated": "2025-05-31T02:54:59.153Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250626001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250627001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
