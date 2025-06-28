@@ -5452,9 +5452,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025062703",
-    "last_updated": "2025-06-27T18:06:20.32Z",
+    "latest_version": "0.29.2025062705",
+    "last_updated": "2025-06-27T21:04:14.177Z",
     "version_history": [
+      {
+        "version": "0.29.2025062705",
+        "lastUpdated": "2025-06-27T21:04:14.177Z"
+      },
       {
         "version": "0.29.2025062703",
         "lastUpdated": "2025-06-27T18:06:20.32Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.28.2025061102",
         "lastUpdated": "2025-06-11T21:12:57.827Z"
-      },
-      {
-        "version": "0.28.2025061002",
-        "lastUpdated": "2025-06-10T17:16:14.673Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025062703/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025062705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9493,11 +9493,11 @@
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
     "latest_version": "2025.9.2025062701",
-    "last_updated": "2025-06-27T10:44:32.377Z",
+    "last_updated": "2025-06-27T10:49:52.877Z",
     "version_history": [
       {
         "version": "2025.9.2025062701",
-        "lastUpdated": "2025-06-27T10:44:32.377Z"
+        "lastUpdated": "2025-06-27T10:49:52.877Z"
       },
       {
         "version": "2025.9.2025062501",
@@ -11114,9 +11114,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250626",
-    "last_updated": "2025-06-27T00:18:49.41Z",
+    "latest_version": "5.9.20250627",
+    "last_updated": "2025-06-28T00:15:58.547Z",
     "version_history": [
+      {
+        "version": "5.9.20250627",
+        "lastUpdated": "2025-06-28T00:15:58.547Z"
+      },
       {
         "version": "5.9.20250626",
         "lastUpdated": "2025-06-27T00:18:49.41Z"
@@ -11192,15 +11196,11 @@
       {
         "version": "5.9.20250608",
         "lastUpdated": "2025-06-09T00:17:16.877Z"
-      },
-      {
-        "version": "5.9.20250607",
-        "lastUpdated": "2025-06-08T00:18:29.17Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250626/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250627/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12959,9 +12959,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.43.2025062508",
-    "last_updated": "2025-06-25T08:27:37.44Z",
+    "latest_version": "1.44.2025062800",
+    "last_updated": "2025-06-28T00:25:39.803Z",
     "version_history": [
+      {
+        "version": "1.44.2025062800",
+        "lastUpdated": "2025-06-28T00:25:39.803Z"
+      },
       {
         "version": "1.43.2025062508",
         "lastUpdated": "2025-06-25T08:27:37.44Z"
@@ -13037,15 +13041,11 @@
       {
         "version": "1.42.2025041008",
         "lastUpdated": "2025-04-10T08:23:59.973Z"
-      },
-      {
-        "version": "1.42.2025040208",
-        "lastUpdated": "2025-04-02T08:24:29.993Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.43.2025062508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025062800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -13272,9 +13272,17 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.22.2",
-    "last_updated": "2025-06-27T17:04:30.12Z",
+    "latest_version": "3.22.4",
+    "last_updated": "2025-06-28T00:28:10.64Z",
     "version_history": [
+      {
+        "version": "3.22.4",
+        "lastUpdated": "2025-06-28T00:28:10.64Z"
+      },
+      {
+        "version": "3.22.3",
+        "lastUpdated": "2025-06-27T19:52:09.67Z"
+      },
       {
         "version": "3.22.2",
         "lastUpdated": "2025-06-27T17:04:30.12Z"
@@ -13346,19 +13354,11 @@
       {
         "version": "3.19.3",
         "lastUpdated": "2025-06-02T11:54:41.773Z"
-      },
-      {
-        "version": "3.19.2",
-        "lastUpdated": "2025-06-02T03:34:24.267Z"
-      },
-      {
-        "version": "3.19.1",
-        "lastUpdated": "2025-05-31T02:33:35.9Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.22.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.22.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -16035,9 +16035,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.64.2025062600",
-    "last_updated": "2025-06-26T01:13:50.743Z",
+    "latest_version": "1.64.2025062800",
+    "last_updated": "2025-06-28T01:14:53.667Z",
     "version_history": [
+      {
+        "version": "1.64.2025062800",
+        "lastUpdated": "2025-06-28T01:14:53.667Z"
+      },
       {
         "version": "1.64.2025062600",
         "lastUpdated": "2025-06-26T01:13:50.743Z"
@@ -16113,10 +16117,6 @@
       {
         "version": "1.63.2025051500",
         "lastUpdated": "2025-05-15T00:58:16.15Z"
-      },
-      {
-        "version": "1.63.2025051300",
-        "lastUpdated": "2025-05-13T01:01:40.05Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16135,7 +16135,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025062600/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025062800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
