@@ -8162,9 +8162,13 @@
     "extension_name": "mechatroner.rainbow-csv",
     "display_name": "Rainbow CSV",
     "short_description": "Highlight CSV and TSV files, Run SQL-like queries",
-    "latest_version": "3.19.0",
-    "last_updated": "2025-04-05T03:08:59.383Z",
+    "latest_version": "3.20.0",
+    "last_updated": "2025-06-28T02:07:00.687Z",
     "version_history": [
+      {
+        "version": "3.20.0",
+        "lastUpdated": "2025-06-28T02:07:00.687Z"
+      },
       {
         "version": "3.19.0",
         "lastUpdated": "2025-04-05T03:08:59.383Z"
@@ -8240,15 +8244,11 @@
       {
         "version": "3.4.0",
         "lastUpdated": "2022-12-03T01:23:30.49Z"
-      },
-      {
-        "version": "3.3.0",
-        "lastUpdated": "2022-11-05T01:20:50.31Z"
       }
     ],
     "categories": ["Programming Languages", "Data Science"],
     "tags": ["csv", "CSV (pipe)", "csv (semicolon)", "csv (whitespace)", "dynamic csv", "highlight", "plaintext", "sql", "tsv"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mechatroner/vsextensions/rainbow-csv/3.19.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mechatroner/vsextensions/rainbow-csv/3.20.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
   },
   {
@@ -11021,9 +11021,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250627001",
-    "last_updated": "2025-06-27T02:55:46.153Z",
+    "latest_version": "0.13.250628001",
+    "last_updated": "2025-06-28T02:52:49.793Z",
     "version_history": [
+      {
+        "version": "0.13.250628001",
+        "lastUpdated": "2025-06-28T02:52:49.793Z"
+      },
       {
         "version": "0.13.250627001",
         "lastUpdated": "2025-06-27T02:55:46.153Z"
@@ -11099,15 +11103,11 @@
       {
         "version": "0.13.250602001",
         "lastUpdated": "2025-06-02T02:54:09.957Z"
-      },
-      {
-        "version": "0.13.250601001",
-        "lastUpdated": "2025-06-01T03:07:04.937Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250627001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250628001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
