@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.338.1648",
-    "last_updated": "2025-06-27T16:20:43.637Z",
+    "latest_version": "1.338.1649",
+    "last_updated": "2025-06-30T01:48:04.837Z",
     "version_history": [
+      {
+        "version": "1.338.1649",
+        "lastUpdated": "2025-06-30T01:48:04.837Z"
+      },
       {
         "version": "1.338.1648",
         "lastUpdated": "2025-06-27T16:20:43.637Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.333.1622",
         "lastUpdated": "2025-06-13T01:53:30.41Z"
-      },
-      {
-        "version": "1.333.1621",
-        "lastUpdated": "2025-06-12T16:28:50.797Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.338.1648/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.338.1649/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025062705",
-    "last_updated": "2025-06-27T21:04:14.177Z",
+    "latest_version": "0.29.2025063001",
+    "last_updated": "2025-06-30T04:26:10.07Z",
     "version_history": [
+      {
+        "version": "0.29.2025063001",
+        "lastUpdated": "2025-06-30T04:26:10.07Z"
+      },
       {
         "version": "0.29.2025062705",
         "lastUpdated": "2025-06-27T21:04:14.177Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.28.2025061202",
         "lastUpdated": "2025-06-12T15:12:28.2Z"
-      },
-      {
-        "version": "0.28.2025061102",
-        "lastUpdated": "2025-06-11T21:12:57.827Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025062705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025063001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5761,9 +5761,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025062717",
-    "last_updated": "2025-06-27T18:08:12.443Z",
+    "latest_version": "0.113.2025063004",
+    "last_updated": "2025-06-30T04:22:22.097Z",
     "version_history": [
+      {
+        "version": "0.113.2025063004",
+        "lastUpdated": "2025-06-30T04:22:22.097Z"
+      },
       {
         "version": "0.113.2025062717",
         "lastUpdated": "2025-06-27T18:08:12.443Z"
@@ -5839,15 +5843,11 @@
       {
         "version": "0.111.2025060404",
         "lastUpdated": "2025-06-04T04:22:19.21Z"
-      },
-      {
-        "version": "0.111.2025060304",
-        "lastUpdated": "2025-06-03T04:25:51.75Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025062717/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025063004/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -10277,9 +10277,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.33",
-    "last_updated": "2025-06-26T04:25:30.263Z",
+    "latest_version": "1.21.34",
+    "last_updated": "2025-06-30T04:23:11.713Z",
     "version_history": [
+      {
+        "version": "1.21.34",
+        "lastUpdated": "2025-06-30T04:23:11.713Z"
+      },
       {
         "version": "1.21.33",
         "lastUpdated": "2025-06-26T04:25:30.263Z"
@@ -10355,15 +10359,11 @@
       {
         "version": "1.21.15",
         "lastUpdated": "2025-04-16T04:24:54.447Z"
-      },
-      {
-        "version": "1.21.14",
-        "lastUpdated": "2025-04-14T04:23:34.54Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.33/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.34/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -12086,9 +12086,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.3.0",
-    "last_updated": "2025-06-23T07:05:41.82Z",
+    "latest_version": "1.4.0",
+    "last_updated": "2025-06-30T06:03:24.91Z",
     "version_history": [
+      {
+        "version": "1.4.0",
+        "lastUpdated": "2025-06-30T06:03:24.91Z"
+      },
       {
         "version": "1.3.0",
         "lastUpdated": "2025-06-23T07:05:41.82Z"
@@ -12164,15 +12168,11 @@
       {
         "version": "0.16.1",
         "lastUpdated": "2025-03-20T05:21:33.177Z"
-      },
-      {
-        "version": "0.16.0",
-        "lastUpdated": "2025-03-16T02:39:28.7Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.3.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
