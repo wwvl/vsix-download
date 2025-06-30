@@ -5575,9 +5575,13 @@
     "extension_name": "GitHub.remotehub",
     "display_name": "GitHub Repositories",
     "short_description": "Remotely browse and edit any GitHub repository",
-    "latest_version": "0.65.2024112101",
-    "last_updated": "2024-11-21T09:22:11.343Z",
+    "latest_version": "0.65.2025063001",
+    "last_updated": "2025-06-30T09:28:40.67Z",
     "version_history": [
+      {
+        "version": "0.65.2025063001",
+        "lastUpdated": "2025-06-30T09:28:40.67Z"
+      },
       {
         "version": "0.65.2024112101",
         "lastUpdated": "2024-11-21T09:22:11.343Z"
@@ -5653,15 +5657,11 @@
       {
         "version": "0.61.2023092801",
         "lastUpdated": "2023-09-28T09:20:14Z"
-      },
-      {
-        "version": "0.61.2023092601",
-        "lastUpdated": "2023-09-26T09:21:37.3Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2024112101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2025063001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub"
   },
   {
@@ -9399,9 +9399,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.11.2025062501",
-    "last_updated": "2025-06-25T10:39:18.41Z",
+    "latest_version": "2025.11.2025063001",
+    "last_updated": "2025-06-30T10:48:16.92Z",
     "version_history": [
+      {
+        "version": "2025.11.2025063001",
+        "lastUpdated": "2025-06-30T10:48:16.92Z"
+      },
       {
         "version": "2025.11.2025062501",
         "lastUpdated": "2025-06-25T10:39:18.41Z"
@@ -9477,24 +9481,24 @@
       {
         "version": "2025.1.2025021101",
         "lastUpdated": "2025-02-11T10:37:13.077Z"
-      },
-      {
-        "version": "2025.1.2025020701",
-        "lastUpdated": "2025-02-07T10:52:04.31Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025062501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025063001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.9.2025062701",
-    "last_updated": "2025-06-27T10:49:52.877Z",
+    "latest_version": "2025.9.2025063001",
+    "last_updated": "2025-06-30T10:54:28.043Z",
     "version_history": [
+      {
+        "version": "2025.9.2025063001",
+        "lastUpdated": "2025-06-30T10:54:28.043Z"
+      },
       {
         "version": "2025.9.2025062701",
         "lastUpdated": "2025-06-27T10:49:52.877Z"
@@ -9570,10 +9574,6 @@
       {
         "version": "2025.7.2025052002",
         "lastUpdated": "2025-05-20T05:42:39.353Z"
-      },
-      {
-        "version": "2025.7.2025051901",
-        "lastUpdated": "2025-05-19T10:48:37.917Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9596,7 +9596,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025062701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025063001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -10556,9 +10556,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025061601",
-    "last_updated": "2025-06-16T09:21:50.28Z",
+    "latest_version": "0.5.2025063001",
+    "last_updated": "2025-06-30T09:29:42.063Z",
     "version_history": [
+      {
+        "version": "0.5.2025063001",
+        "lastUpdated": "2025-06-30T09:29:42.063Z"
+      },
       {
         "version": "0.5.2025061601",
         "lastUpdated": "2025-06-16T09:21:50.28Z"
@@ -10634,15 +10638,11 @@
       {
         "version": "0.5.2023113001",
         "lastUpdated": "2023-11-30T18:05:37.69Z"
-      },
-      {
-        "version": "0.5.2023112001",
-        "lastUpdated": "2023-11-20T09:13:22.07Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025061601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025063001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -10835,9 +10835,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025061709",
-    "last_updated": "2025-06-17T09:23:30.81Z",
+    "latest_version": "1.6.2025063009",
+    "last_updated": "2025-06-30T09:32:59.853Z",
     "version_history": [
+      {
+        "version": "1.6.2025063009",
+        "lastUpdated": "2025-06-30T09:32:59.853Z"
+      },
       {
         "version": "1.6.2025061709",
         "lastUpdated": "2025-06-17T09:23:30.81Z"
@@ -10913,15 +10917,11 @@
       {
         "version": "1.6.2024042409",
         "lastUpdated": "2024-04-24T09:33:41.48Z"
-      },
-      {
-        "version": "1.6.2024042309",
-        "lastUpdated": "2024-04-23T09:42:51.993Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025061709/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025063009/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
@@ -16235,9 +16235,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025042405",
-    "last_updated": "2025-04-24T06:01:33.13Z",
+    "latest_version": "0.58.2025063005",
+    "last_updated": "2025-06-30T07:19:12.07Z",
     "version_history": [
+      {
+        "version": "0.58.2025063005",
+        "lastUpdated": "2025-06-30T07:19:12.07Z"
+      },
       {
         "version": "0.58.2025042405",
         "lastUpdated": "2025-04-24T06:01:33.13Z"
@@ -16313,15 +16317,11 @@
       {
         "version": "0.56.0",
         "lastUpdated": "2024-01-31T02:20:41.413Z"
-      },
-      {
-        "version": "0.55.2023121302",
-        "lastUpdated": "2023-12-13T02:14:37.48Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025042405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025063005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
@@ -16421,9 +16421,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.29.2025060902",
-    "last_updated": "2025-06-09T04:59:59.73Z",
+    "latest_version": "0.29.2025062500",
+    "last_updated": "2025-06-30T08:11:17.79Z",
     "version_history": [
+      {
+        "version": "0.29.2025062500",
+        "lastUpdated": "2025-06-30T08:11:17.79Z"
+      },
       {
         "version": "0.29.2025060902",
         "lastUpdated": "2025-06-09T04:59:59.73Z"
@@ -16499,15 +16503,11 @@
       {
         "version": "0.27.2024060717",
         "lastUpdated": "2024-06-07T17:33:49.247Z"
-      },
-      {
-        "version": "0.27.2024060609",
-        "lastUpdated": "2024-06-06T09:29:47.47Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025060902/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025062500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
