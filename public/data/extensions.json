@@ -1415,12 +1415,20 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.493.0",
-    "last_updated": "2025-06-30T17:09:42.837Z",
+    "latest_version": "0.494.0",
+    "last_updated": "2025-07-01T00:10:17.093Z",
     "version_history": [
+      {
+        "version": "0.494.0",
+        "lastUpdated": "2025-07-01T00:10:17.093Z"
+      },
       {
         "version": "0.493.0",
         "lastUpdated": "2025-06-30T17:09:42.837Z"
+      },
+      {
+        "version": "0.492.2",
+        "lastUpdated": "2025-06-30T22:41:52.587Z"
       },
       {
         "version": "0.492.1",
@@ -1489,19 +1497,11 @@
       {
         "version": "0.479.0",
         "lastUpdated": "2025-06-10T17:08:57.19Z"
-      },
-      {
-        "version": "0.478.0",
-        "lastUpdated": "2025-06-09T17:07:28.243Z"
-      },
-      {
-        "version": "0.477.2",
-        "lastUpdated": "2025-06-10T23:18:53.233Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.493.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.494.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.338.1650",
-    "last_updated": "2025-06-30T16:21:09.257Z",
+    "latest_version": "1.338.1651",
+    "last_updated": "2025-07-01T01:47:54.37Z",
     "version_history": [
+      {
+        "version": "1.338.1651",
+        "lastUpdated": "2025-07-01T01:47:54.37Z"
+      },
       {
         "version": "1.338.1650",
         "lastUpdated": "2025-06-30T16:21:09.257Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.335.1626",
         "lastUpdated": "2025-06-16T01:58:04.55Z"
-      },
-      {
-        "version": "1.335.0",
-        "lastUpdated": "2025-06-13T05:23:39.013Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.338.1650/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.338.1651/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10754,6 +10754,10 @@
         "lastUpdated": "2025-03-18T21:53:05.493Z"
       },
       {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-06-30T22:48:14.27Z"
+      },
+      {
         "version": "2025.1.0",
         "lastUpdated": "2025-01-16T22:15:01.503Z"
       },
@@ -10820,10 +10824,6 @@
       {
         "version": "2023.9.5",
         "lastUpdated": "2023-10-10T23:35:06.857Z"
-      },
-      {
-        "version": "2023.9.4",
-        "lastUpdated": "2023-09-29T22:05:26.26Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Themes", "Linters", "Debuggers", "Formatters"],
@@ -11114,9 +11114,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250629",
-    "last_updated": "2025-06-30T00:19:09.047Z",
+    "latest_version": "5.9.20250630",
+    "last_updated": "2025-07-01T00:17:24.31Z",
     "version_history": [
+      {
+        "version": "5.9.20250630",
+        "lastUpdated": "2025-07-01T00:17:24.31Z"
+      },
       {
         "version": "5.9.20250629",
         "lastUpdated": "2025-06-30T00:19:09.047Z"
@@ -11192,15 +11196,11 @@
       {
         "version": "5.9.20250611",
         "lastUpdated": "2025-06-12T00:16:59.37Z"
-      },
-      {
-        "version": "5.9.20250610",
-        "lastUpdated": "2025-06-11T00:20:57.553Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250629/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250630/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13365,9 +13365,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2518",
-    "last_updated": "2025-06-30T00:57:13.333Z",
+    "latest_version": "0.4.2520",
+    "last_updated": "2025-07-01T01:00:40.207Z",
     "version_history": [
+      {
+        "version": "0.4.2520",
+        "lastUpdated": "2025-07-01T01:00:40.207Z"
+      },
       {
         "version": "0.4.2518",
         "lastUpdated": "2025-06-30T00:57:13.333Z"
@@ -13443,15 +13447,11 @@
       {
         "version": "0.4.2496",
         "lastUpdated": "2025-06-13T01:01:11.85Z"
-      },
-      {
-        "version": "0.4.2495",
-        "lastUpdated": "2025-06-12T14:28:50.177Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2518/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2520/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16035,9 +16035,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.64.2025062800",
-    "last_updated": "2025-06-28T01:14:53.667Z",
+    "latest_version": "1.64.2025070100",
+    "last_updated": "2025-07-01T01:06:40.33Z",
     "version_history": [
+      {
+        "version": "1.64.2025070100",
+        "lastUpdated": "2025-07-01T01:06:40.33Z"
+      },
       {
         "version": "1.64.2025062800",
         "lastUpdated": "2025-06-28T01:14:53.667Z"
@@ -16113,10 +16117,6 @@
       {
         "version": "1.63.2025051700",
         "lastUpdated": "2025-05-17T01:05:13.623Z"
-      },
-      {
-        "version": "1.63.2025051500",
-        "lastUpdated": "2025-05-15T00:58:16.15Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16135,7 +16135,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025062800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025070100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17825,9 +17825,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.454",
-    "last_updated": "2025-06-29T03:11:28.817Z",
+    "latest_version": "1.0.455",
+    "last_updated": "2025-07-01T00:57:50Z",
     "version_history": [
+      {
+        "version": "1.0.455",
+        "lastUpdated": "2025-07-01T00:57:50Z"
+      },
       {
         "version": "1.0.454",
         "lastUpdated": "2025-06-29T03:11:28.817Z"
@@ -17903,15 +17907,11 @@
       {
         "version": "1.0.432",
         "lastUpdated": "2025-05-07T02:15:28.09Z"
-      },
-      {
-        "version": "1.0.431",
-        "lastUpdated": "2025-05-01T22:13:37.437Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.454/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.455/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
