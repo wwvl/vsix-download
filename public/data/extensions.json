@@ -772,9 +772,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.25.0",
-    "last_updated": "2025-06-23T04:32:59.8Z",
+    "latest_version": "2.26.0",
+    "last_updated": "2025-07-01T12:18:02.11Z",
     "version_history": [
+      {
+        "version": "2.26.0",
+        "lastUpdated": "2025-07-01T12:18:02.11Z"
+      },
       {
         "version": "2.25.0",
         "lastUpdated": "2025-06-23T04:32:59.8Z"
@@ -850,10 +854,6 @@
       {
         "version": "2.22.1",
         "lastUpdated": "2025-04-17T04:56:30.183Z"
-      },
-      {
-        "version": "2.22.0",
-        "lastUpdated": "2025-04-16T04:30:05.32Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -882,7 +882,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.25.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.26.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -1416,11 +1416,11 @@
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
     "latest_version": "0.494.0",
-    "last_updated": "2025-07-01T00:04:21.08Z",
+    "last_updated": "2025-07-01T00:10:17.093Z",
     "version_history": [
       {
         "version": "0.494.0",
-        "lastUpdated": "2025-07-01T00:04:21.08Z"
+        "lastUpdated": "2025-07-01T00:10:17.093Z"
       },
       {
         "version": "0.493.0",
@@ -2659,11 +2659,11 @@
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
     "latest_version": "1.1.53",
-    "last_updated": "2025-07-01T06:24:46.913Z",
+    "last_updated": "2025-07-01T06:30:58.463Z",
     "version_history": [
       {
         "version": "1.1.53",
-        "lastUpdated": "2025-07-01T06:24:46.913Z"
+        "lastUpdated": "2025-07-01T06:30:58.463Z"
       },
       {
         "version": "1.1.52",
@@ -2844,9 +2844,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.113.20250623",
-    "last_updated": "2025-06-23T14:58:32.323Z",
+    "latest_version": "3.115.20250701",
+    "last_updated": "2025-07-01T11:23:00.37Z",
     "version_history": [
+      {
+        "version": "3.115.20250701",
+        "lastUpdated": "2025-07-01T11:23:00.37Z"
+      },
+      {
+        "version": "3.114.0",
+        "lastUpdated": "2025-07-01T11:22:23.63Z"
+      },
       {
         "version": "3.113.20250623",
         "lastUpdated": "2025-06-23T14:58:32.323Z"
@@ -2918,28 +2926,28 @@
       {
         "version": "3.107.20250311",
         "lastUpdated": "2025-03-11T11:36:12.24Z"
-      },
-      {
-        "version": "3.107.20250303",
-        "lastUpdated": "2025-03-03T17:33:14.677Z"
-      },
-      {
-        "version": "3.106.0",
-        "lastUpdated": "2025-03-03T17:31:29.3Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.113.20250623/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.113.20250603",
-    "last_updated": "2025-06-02T11:30:39.847Z",
+    "latest_version": "3.115.20250701",
+    "last_updated": "2025-07-01T11:17:36.583Z",
     "version_history": [
+      {
+        "version": "3.115.20250701",
+        "lastUpdated": "2025-07-01T11:17:36.583Z"
+      },
+      {
+        "version": "3.114.0",
+        "lastUpdated": "2025-07-01T11:14:43.557Z"
+      },
       {
         "version": "3.113.20250603",
         "lastUpdated": "2025-06-02T11:30:39.847Z"
@@ -3011,19 +3019,11 @@
       {
         "version": "3.97.20240902",
         "lastUpdated": "2024-09-02T13:46:13.96Z"
-      },
-      {
-        "version": "3.96.0",
-        "lastUpdated": "2024-09-02T13:38:53.003Z"
-      },
-      {
-        "version": "3.95.20240801",
-        "lastUpdated": "2024-08-01T12:16:33.557Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.113.20250603/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.115.20250701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.6.2905",
-    "last_updated": "2025-06-29T09:14:01.827Z",
+    "latest_version": "2025.7.105",
+    "last_updated": "2025-07-01T09:15:55.003Z",
     "version_history": [
+      {
+        "version": "2025.7.105",
+        "lastUpdated": "2025-07-01T09:15:55.003Z"
+      },
       {
         "version": "2025.6.2905",
         "lastUpdated": "2025-06-29T09:14:01.827Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.6.305",
         "lastUpdated": "2025-06-03T09:14:03.767Z"
-      },
-      {
-        "version": "2025.6.205",
-        "lastUpdated": "2025-06-02T09:15:21.473Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.6.2905/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5761,9 +5761,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025070104",
-    "last_updated": "2025-07-01T04:21:45.59Z",
+    "latest_version": "0.113.2025070106",
+    "last_updated": "2025-07-01T06:51:03.787Z",
     "version_history": [
+      {
+        "version": "0.113.2025070106",
+        "lastUpdated": "2025-07-01T06:51:03.787Z"
+      },
       {
         "version": "0.113.2025070104",
         "lastUpdated": "2025-07-01T04:21:45.59Z"
@@ -5839,15 +5843,11 @@
       {
         "version": "0.111.2025061704",
         "lastUpdated": "2025-06-17T04:23:18.863Z"
-      },
-      {
-        "version": "0.111.2025061604",
-        "lastUpdated": "2025-06-16T04:23:02.49Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070106/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -9399,9 +9399,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.11.2025063001",
-    "last_updated": "2025-06-30T10:48:16.92Z",
+    "latest_version": "2025.11.2025070101",
+    "last_updated": "2025-07-01T10:42:09.53Z",
     "version_history": [
+      {
+        "version": "2025.11.2025070101",
+        "lastUpdated": "2025-07-01T10:42:09.53Z"
+      },
       {
         "version": "2025.11.2025063001",
         "lastUpdated": "2025-06-30T10:48:16.92Z"
@@ -9477,24 +9481,24 @@
       {
         "version": "2025.1.2025021201",
         "lastUpdated": "2025-02-12T10:39:21.293Z"
-      },
-      {
-        "version": "2025.1.2025021101",
-        "lastUpdated": "2025-02-11T10:37:13.077Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025063001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025070101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.9.2025063002",
-    "last_updated": "2025-06-30T16:50:01.243Z",
+    "latest_version": "2025.9.2025070101",
+    "last_updated": "2025-07-01T10:48:51.777Z",
     "version_history": [
+      {
+        "version": "2025.9.2025070101",
+        "lastUpdated": "2025-07-01T10:48:51.777Z"
+      },
       {
         "version": "2025.9.2025063002",
         "lastUpdated": "2025-06-30T16:50:01.243Z"
@@ -9570,10 +9574,6 @@
       {
         "version": "2025.7.2025052004",
         "lastUpdated": "2025-05-20T22:31:15.323Z"
-      },
-      {
-        "version": "2025.7.2025052003",
-        "lastUpdated": "2025-05-20T10:48:38.797Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9596,7 +9596,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025063002/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025070101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -12494,9 +12494,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.10.1",
-    "last_updated": "2025-06-18T21:09:21.583Z",
+    "latest_version": "6.11.0",
+    "last_updated": "2025-07-01T12:10:41.73Z",
     "version_history": [
+      {
+        "version": "6.11.0",
+        "lastUpdated": "2025-07-01T12:10:41.73Z"
+      },
       {
         "version": "6.10.1",
         "lastUpdated": "2025-06-18T21:09:21.583Z"
@@ -12572,15 +12576,11 @@
       {
         "version": "6.0.0",
         "lastUpdated": "2024-11-29T12:43:02.817Z"
-      },
-      {
-        "version": "5.22.0",
-        "lastUpdated": "2024-11-05T15:55:16.75Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.10.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.11.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
