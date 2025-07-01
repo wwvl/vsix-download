@@ -1416,11 +1416,11 @@
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
     "latest_version": "0.494.0",
-    "last_updated": "2025-07-01T00:10:17.093Z",
+    "last_updated": "2025-07-01T00:04:21.08Z",
     "version_history": [
       {
         "version": "0.494.0",
-        "lastUpdated": "2025-07-01T00:10:17.093Z"
+        "lastUpdated": "2025-07-01T00:04:21.08Z"
       },
       {
         "version": "0.493.0",
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.52",
-    "last_updated": "2025-06-26T05:13:22.37Z",
+    "latest_version": "1.1.53",
+    "last_updated": "2025-07-01T06:24:46.913Z",
     "version_history": [
+      {
+        "version": "1.1.53",
+        "lastUpdated": "2025-07-01T06:24:46.913Z"
+      },
       {
         "version": "1.1.52",
         "lastUpdated": "2025-06-26T05:13:22.37Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.30",
         "lastUpdated": "2025-04-30T05:15:42.937Z"
-      },
-      {
-        "version": "1.1.29",
-        "lastUpdated": "2025-04-29T04:32:35.437Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.52/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.53/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5452,9 +5452,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025063001",
-    "last_updated": "2025-06-30T04:26:10.07Z",
+    "latest_version": "0.29.2025070102",
+    "last_updated": "2025-07-01T04:27:51.31Z",
     "version_history": [
+      {
+        "version": "0.29.2025070102",
+        "lastUpdated": "2025-07-01T04:27:51.31Z"
+      },
       {
         "version": "0.29.2025063001",
         "lastUpdated": "2025-06-30T04:26:10.07Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.28.2025061102",
         "lastUpdated": "2025-06-11T21:12:57.827Z"
-      },
-      {
-        "version": "0.28.2025061002",
-        "lastUpdated": "2025-06-10T17:16:14.673Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025063001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5761,9 +5761,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025063016",
-    "last_updated": "2025-06-30T16:42:55.893Z",
+    "latest_version": "0.113.2025070104",
+    "last_updated": "2025-07-01T04:21:45.59Z",
     "version_history": [
+      {
+        "version": "0.113.2025070104",
+        "lastUpdated": "2025-07-01T04:21:45.59Z"
+      },
       {
         "version": "0.113.2025063016",
         "lastUpdated": "2025-06-30T16:42:55.893Z"
@@ -5839,15 +5843,11 @@
       {
         "version": "0.111.2025061604",
         "lastUpdated": "2025-06-16T04:23:02.49Z"
-      },
-      {
-        "version": "0.111.2025060504",
-        "lastUpdated": "2025-06-05T04:23:11.26Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025063016/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -10277,9 +10277,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.34",
-    "last_updated": "2025-06-30T04:23:11.713Z",
+    "latest_version": "1.21.35",
+    "last_updated": "2025-07-01T04:26:23.243Z",
     "version_history": [
+      {
+        "version": "1.21.35",
+        "lastUpdated": "2025-07-01T04:26:23.243Z"
+      },
       {
         "version": "1.21.34",
         "lastUpdated": "2025-06-30T04:23:11.713Z"
@@ -10355,15 +10359,11 @@
       {
         "version": "1.21.16",
         "lastUpdated": "2025-04-17T04:29:12.277Z"
-      },
-      {
-        "version": "1.21.15",
-        "lastUpdated": "2025-04-16T04:24:54.447Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.34/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.35/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -10649,9 +10649,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.13.6",
-    "last_updated": "2025-06-10T04:24:29.197Z",
+    "latest_version": "0.13.7",
+    "last_updated": "2025-07-01T04:25:12.49Z",
     "version_history": [
+      {
+        "version": "0.13.7",
+        "lastUpdated": "2025-07-01T04:25:12.49Z"
+      },
       {
         "version": "0.13.6",
         "lastUpdated": "2025-06-10T04:24:29.197Z"
@@ -10727,15 +10731,11 @@
       {
         "version": "0.12.6",
         "lastUpdated": "2024-10-15T04:19:52.963Z"
-      },
-      {
-        "version": "0.12.5",
-        "lastUpdated": "2024-10-14T04:26:08.993Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
