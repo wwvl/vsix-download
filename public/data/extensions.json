@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.495.0",
-    "last_updated": "2025-07-01T17:10:15.72Z",
+    "latest_version": "0.496.0",
+    "last_updated": "2025-07-02T17:10:29.463Z",
     "version_history": [
+      {
+        "version": "0.496.0",
+        "lastUpdated": "2025-07-02T17:10:29.463Z"
+      },
       {
         "version": "0.495.0",
         "lastUpdated": "2025-07-01T17:10:15.72Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.481.0",
         "lastUpdated": "2025-06-12T17:09:59.477Z"
-      },
-      {
-        "version": "0.480.0",
-        "lastUpdated": "2025-06-11T17:07:16.017Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.495.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.496.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2844,12 +2844,20 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.115.20250701",
-    "last_updated": "2025-07-01T11:23:00.37Z",
+    "latest_version": "3.115.20250702",
+    "last_updated": "2025-07-02T18:19:14.133Z",
     "version_history": [
+      {
+        "version": "3.115.20250702",
+        "lastUpdated": "2025-07-02T18:19:14.133Z"
+      },
       {
         "version": "3.115.20250701",
         "lastUpdated": "2025-07-01T11:23:00.37Z"
+      },
+      {
+        "version": "3.114.2",
+        "lastUpdated": "2025-07-02T17:54:52.497Z"
       },
       {
         "version": "3.114.1",
@@ -2918,19 +2926,11 @@
       {
         "version": "3.108.0",
         "lastUpdated": "2025-04-01T09:31:36.74Z"
-      },
-      {
-        "version": "3.107.20250331",
-        "lastUpdated": "2025-03-31T11:35:37.457Z"
-      },
-      {
-        "version": "3.107.20250319",
-        "lastUpdated": "2025-03-19T18:33:21.977Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.338.1653",
-    "last_updated": "2025-07-02T01:47:38.587Z",
+    "latest_version": "1.339.1655",
+    "last_updated": "2025-07-02T16:21:35.537Z",
     "version_history": [
+      {
+        "version": "1.339.1655",
+        "lastUpdated": "2025-07-02T16:21:35.537Z"
+      },
       {
         "version": "1.338.1653",
         "lastUpdated": "2025-07-02T01:47:38.587Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.335.1629",
         "lastUpdated": "2025-06-17T16:27:16.087Z"
-      },
-      {
-        "version": "1.335.1628",
-        "lastUpdated": "2025-06-17T01:54:02.44Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.338.1653/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1655/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025070102",
-    "last_updated": "2025-07-01T04:27:51.31Z",
+    "latest_version": "0.29.2025070202",
+    "last_updated": "2025-07-02T15:18:16.453Z",
     "version_history": [
+      {
+        "version": "0.29.2025070202",
+        "lastUpdated": "2025-07-02T15:18:16.453Z"
+      },
       {
         "version": "0.29.2025070102",
         "lastUpdated": "2025-07-01T04:27:51.31Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.28.2025061202",
         "lastUpdated": "2025-06-12T15:12:28.2Z"
-      },
-      {
-        "version": "0.28.2025061102",
-        "lastUpdated": "2025-06-11T21:12:57.827Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11714,99 +11714,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview"
   },
   {
-    "extension_name": "nikhilweee.vsleet",
-    "display_name": "vsleet",
-    "short_description": "Submit LeetCode problems directly from VSCode",
-    "latest_version": "0.2.9",
-    "last_updated": "2025-03-27T05:16:01.58Z",
-    "version_history": [
-      {
-        "version": "0.2.9",
-        "lastUpdated": "2025-03-27T05:16:01.58Z"
-      },
-      {
-        "version": "0.2.8",
-        "lastUpdated": "2025-02-17T07:38:07.213Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2024-11-30T01:47:31.13Z"
-      },
-      {
-        "version": "0.2.4",
-        "lastUpdated": "2024-11-20T03:16:39.5Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2024-11-18T08:26:51.1Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2024-11-18T07:43:44.943Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2024-11-18T06:17:57.28Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2024-11-18T05:52:04.667Z"
-      },
-      {
-        "version": "0.1.13",
-        "lastUpdated": "2024-01-08T05:06:25.85Z"
-      },
-      {
-        "version": "0.1.12",
-        "lastUpdated": "2024-01-07T21:48:50.797Z"
-      },
-      {
-        "version": "0.1.11",
-        "lastUpdated": "2024-01-07T21:26:44.477Z"
-      },
-      {
-        "version": "0.1.10",
-        "lastUpdated": "2024-01-07T00:25:27.62Z"
-      },
-      {
-        "version": "0.1.9",
-        "lastUpdated": "2023-11-12T18:46:16.193Z"
-      },
-      {
-        "version": "0.1.8",
-        "lastUpdated": "2023-11-11T18:46:13.897Z"
-      },
-      {
-        "version": "0.1.7",
-        "lastUpdated": "2023-11-11T17:31:26.033Z"
-      },
-      {
-        "version": "0.1.6",
-        "lastUpdated": "2023-11-11T16:54:58.397Z"
-      },
-      {
-        "version": "0.1.5",
-        "lastUpdated": "2023-11-10T05:38:33.73Z"
-      },
-      {
-        "version": "0.1.4",
-        "lastUpdated": "2023-11-05T19:58:05.56Z"
-      },
-      {
-        "version": "0.1.3",
-        "lastUpdated": "2023-11-05T19:53:15.93Z"
-      },
-      {
-        "version": "0.1.2",
-        "lastUpdated": "2023-11-03T05:59:31.513Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["keybindings", "leetcode", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nikhilweee/vsextensions/vsleet/0.2.9/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=nikhilweee.vsleet"
-  },
-  {
     "extension_name": "Nuxt.mdc",
     "display_name": "MDC - Markdown Components",
     "short_description": "Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.",
@@ -12773,9 +12680,13 @@
     "extension_name": "redhat.ansible",
     "display_name": "Ansible",
     "short_description": "Ansible language support",
-    "latest_version": "25.4.0",
-    "last_updated": "2025-04-24T15:14:58.233Z",
+    "latest_version": "25.7.0",
+    "last_updated": "2025-07-02T18:25:48.467Z",
     "version_history": [
+      {
+        "version": "25.7.0",
+        "lastUpdated": "2025-07-02T18:25:48.467Z"
+      },
       {
         "version": "25.4.0",
         "lastUpdated": "2025-04-24T15:14:58.233Z"
@@ -12851,15 +12762,11 @@
       {
         "version": "24.8.3",
         "lastUpdated": "2024-07-18T21:03:34.573Z"
-      },
-      {
-        "version": "24.8.1",
-        "lastUpdated": "2024-06-25T16:49:02.167Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "json", "keybindings", "validation", "yaml", "yml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
   },
   {
