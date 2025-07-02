@@ -1416,11 +1416,11 @@
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
     "latest_version": "0.495.0",
-    "last_updated": "2025-07-01T17:04:47.697Z",
+    "last_updated": "2025-07-01T17:10:15.72Z",
     "version_history": [
       {
         "version": "0.495.0",
-        "lastUpdated": "2025-07-01T17:04:47.697Z"
+        "lastUpdated": "2025-07-01T17:10:15.72Z"
       },
       {
         "version": "0.494.0",
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.53",
-    "last_updated": "2025-07-01T06:30:58.463Z",
+    "latest_version": "1.1.54",
+    "last_updated": "2025-07-01T21:21:06.447Z",
     "version_history": [
+      {
+        "version": "1.1.54",
+        "lastUpdated": "2025-07-01T21:21:06.447Z"
+      },
       {
         "version": "1.1.53",
         "lastUpdated": "2025-07-01T06:30:58.463Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.31",
         "lastUpdated": "2025-05-02T04:57:18.8Z"
-      },
-      {
-        "version": "1.1.30",
-        "lastUpdated": "2025-04-30T05:15:42.937Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.53/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.54/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -8782,9 +8782,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.30.28",
-    "last_updated": "2025-06-26T20:34:12.107Z",
+    "latest_version": "1.30.32",
+    "last_updated": "2025-07-02T01:37:39.337Z",
     "version_history": [
+      {
+        "version": "1.30.32",
+        "lastUpdated": "2025-07-02T01:37:39.337Z"
+      },
       {
         "version": "1.30.28",
         "lastUpdated": "2025-06-26T20:34:12.107Z"
@@ -8860,24 +8864,24 @@
       {
         "version": "1.18.16",
         "lastUpdated": "2025-04-02T00:13:07.317Z"
-      },
-      {
-        "version": "1.18.14",
-        "lastUpdated": "2025-04-01T16:39:30.49Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.30.28/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.30.32/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.84.18",
-    "last_updated": "2025-06-26T20:53:09.183Z",
+    "latest_version": "2.84.19",
+    "last_updated": "2025-07-02T01:04:51.117Z",
     "version_history": [
+      {
+        "version": "2.84.19",
+        "lastUpdated": "2025-07-02T01:04:51.117Z"
+      },
       {
         "version": "2.84.18",
         "lastUpdated": "2025-06-26T20:53:09.183Z"
@@ -8953,10 +8957,6 @@
       {
         "version": "2.69.22",
         "lastUpdated": "2025-03-13T20:52:59.83Z"
-      },
-      {
-        "version": "2.68.46",
-        "lastUpdated": "2025-03-06T18:43:12.2Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -8979,7 +8979,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.84.18/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.84.19/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -10463,9 +10463,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.6.317",
-    "last_updated": "2025-06-04T00:19:01.407Z",
+    "latest_version": "2025.7.117",
+    "last_updated": "2025-07-02T00:18:33.237Z",
     "version_history": [
+      {
+        "version": "2025.7.117",
+        "lastUpdated": "2025-07-02T00:18:33.237Z"
+      },
       {
         "version": "2025.6.317",
         "lastUpdated": "2025-06-04T00:19:01.407Z"
@@ -10541,15 +10545,11 @@
       {
         "version": "2024.12.1317",
         "lastUpdated": "2024-12-14T01:12:57.983Z"
-      },
-      {
-        "version": "2024.12.1217",
-        "lastUpdated": "2024-12-13T01:15:03.83Z"
       }
     ],
     "categories": ["Debuggers"],
-    "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssembly Text Format"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.6.317/vspackage",
+    "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssemblyTextFormat"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.117/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11114,9 +11114,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250630",
-    "last_updated": "2025-07-01T00:17:24.31Z",
+    "latest_version": "5.9.20250701",
+    "last_updated": "2025-07-02T00:19:00.72Z",
     "version_history": [
+      {
+        "version": "5.9.20250701",
+        "lastUpdated": "2025-07-02T00:19:00.72Z"
+      },
       {
         "version": "5.9.20250630",
         "lastUpdated": "2025-07-01T00:17:24.31Z"
@@ -11192,15 +11196,11 @@
       {
         "version": "5.9.20250612",
         "lastUpdated": "2025-06-13T00:21:30.537Z"
-      },
-      {
-        "version": "5.9.20250611",
-        "lastUpdated": "2025-06-12T00:16:59.37Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250630/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12086,9 +12086,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.4.0",
-    "last_updated": "2025-06-30T06:03:24.91Z",
+    "latest_version": "1.5.0",
+    "last_updated": "2025-07-02T01:11:31.623Z",
     "version_history": [
+      {
+        "version": "1.5.0",
+        "lastUpdated": "2025-07-02T01:11:31.623Z"
+      },
       {
         "version": "1.4.0",
         "lastUpdated": "2025-06-30T06:03:24.91Z"
@@ -12164,15 +12168,11 @@
       {
         "version": "0.16.2",
         "lastUpdated": "2025-03-21T05:51:07.287Z"
-      },
-      {
-        "version": "0.16.1",
-        "lastUpdated": "2025-03-20T05:21:33.177Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -13365,9 +13365,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2520",
-    "last_updated": "2025-07-01T01:00:40.207Z",
+    "latest_version": "0.4.2521",
+    "last_updated": "2025-07-02T00:54:48.097Z",
     "version_history": [
+      {
+        "version": "0.4.2521",
+        "lastUpdated": "2025-07-02T00:54:48.097Z"
+      },
       {
         "version": "0.4.2520",
         "lastUpdated": "2025-07-01T01:00:40.207Z"
@@ -13443,15 +13447,11 @@
       {
         "version": "0.4.2497",
         "lastUpdated": "2025-06-14T00:59:17.477Z"
-      },
-      {
-        "version": "0.4.2496",
-        "lastUpdated": "2025-06-13T01:01:11.85Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2520/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2521/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -17825,9 +17825,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.455",
-    "last_updated": "2025-07-01T00:57:50Z",
+    "latest_version": "1.0.456",
+    "last_updated": "2025-07-01T22:14:31.597Z",
     "version_history": [
+      {
+        "version": "1.0.456",
+        "lastUpdated": "2025-07-01T22:14:31.597Z"
+      },
       {
         "version": "1.0.455",
         "lastUpdated": "2025-07-01T00:57:50Z"
@@ -17903,15 +17907,11 @@
       {
         "version": "1.0.437",
         "lastUpdated": "2025-05-14T08:56:29.05Z"
-      },
-      {
-        "version": "1.0.432",
-        "lastUpdated": "2025-05-07T02:15:28.09Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.455/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.456/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
