@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.105",
-    "last_updated": "2025-07-01T09:15:55.003Z",
+    "latest_version": "2025.7.305",
+    "last_updated": "2025-07-03T09:15:18.557Z",
     "version_history": [
+      {
+        "version": "2025.7.305",
+        "lastUpdated": "2025-07-03T09:15:18.557Z"
+      },
       {
         "version": "2025.7.105",
         "lastUpdated": "2025-07-01T09:15:55.003Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.6.405",
         "lastUpdated": "2025-06-04T09:13:58.44Z"
-      },
-      {
-        "version": "2025.6.305",
-        "lastUpdated": "2025-06-03T09:14:03.767Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -7947,9 +7947,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.25",
-    "last_updated": "2025-06-30T14:43:51.16Z",
+    "latest_version": "1.2.28",
+    "last_updated": "2025-07-03T07:52:25.383Z",
     "version_history": [
+      {
+        "version": "1.2.28",
+        "lastUpdated": "2025-07-03T07:52:25.383Z"
+      },
       {
         "version": "1.2.25",
         "lastUpdated": "2025-06-30T14:43:51.16Z"
@@ -8025,10 +8029,6 @@
       {
         "version": "1.2.2",
         "lastUpdated": "2025-04-18T05:08:47.527Z"
-      },
-      {
-        "version": "1.2.1",
-        "lastUpdated": "2025-04-16T16:14:43.94Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8062,7 +8062,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.25/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.28/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -9492,9 +9492,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.9.2025070101",
-    "last_updated": "2025-07-01T10:48:51.777Z",
+    "latest_version": "2025.9.2025070301",
+    "last_updated": "2025-07-03T10:48:56.47Z",
     "version_history": [
+      {
+        "version": "2025.9.2025070301",
+        "lastUpdated": "2025-07-03T10:48:56.47Z"
+      },
       {
         "version": "2025.9.2025070101",
         "lastUpdated": "2025-07-01T10:48:51.777Z"
@@ -9570,10 +9574,6 @@
       {
         "version": "2025.7.2025052101",
         "lastUpdated": "2025-05-21T04:36:51.39Z"
-      },
-      {
-        "version": "2025.7.2025052004",
-        "lastUpdated": "2025-05-20T22:31:15.323Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -9596,7 +9596,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025070101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025070301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -9844,9 +9844,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.419.0",
-    "last_updated": "2025-06-30T13:31:21.423Z",
+    "latest_version": "0.420.0",
+    "last_updated": "2025-07-03T09:38:28.07Z",
     "version_history": [
+      {
+        "version": "0.420.0",
+        "lastUpdated": "2025-07-03T09:38:28.07Z"
+      },
       {
         "version": "0.419.0",
         "lastUpdated": "2025-06-30T13:31:21.423Z"
@@ -9922,15 +9926,11 @@
       {
         "version": "0.401.0",
         "lastUpdated": "2025-03-05T18:29:45.6Z"
-      },
-      {
-        "version": "0.400.0",
-        "lastUpdated": "2025-02-26T18:24:21.22Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.419.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.420.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -12959,9 +12959,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025070208",
-    "last_updated": "2025-07-02T08:42:14.23Z",
+    "latest_version": "1.44.2025070308",
+    "last_updated": "2025-07-03T08:29:37.733Z",
     "version_history": [
+      {
+        "version": "1.44.2025070308",
+        "lastUpdated": "2025-07-03T08:29:37.733Z"
+      },
       {
         "version": "1.44.2025070208",
         "lastUpdated": "2025-07-02T08:42:14.23Z"
@@ -13037,15 +13041,11 @@
       {
         "version": "1.42.2025050908",
         "lastUpdated": "2025-05-09T08:48:11.333Z"
-      },
-      {
-        "version": "1.42.2025050808",
-        "lastUpdated": "2025-05-08T08:43:38.353Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025070208/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025070308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14573,9 +14573,13 @@
     "extension_name": "Supabase.vscode-supabase-extension",
     "display_name": "Supabase",
     "short_description": "Supabase Extension for VS Code and GitHub Copilot.",
-    "latest_version": "0.0.9",
-    "last_updated": "2024-09-10T19:24:08.99Z",
+    "latest_version": "0.0.10",
+    "last_updated": "2025-07-03T09:07:33.673Z",
     "version_history": [
+      {
+        "version": "0.0.10",
+        "lastUpdated": "2025-07-03T09:07:33.673Z"
+      },
       {
         "version": "0.0.9",
         "lastUpdated": "2024-09-10T19:24:08.99Z"
@@ -14595,7 +14599,7 @@
     ],
     "categories": ["AI", "Chat"],
     "tags": ["Databases", "Postgres", "supabase"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
   },
   {
