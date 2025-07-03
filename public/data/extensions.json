@@ -3402,9 +3402,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17545",
-    "last_updated": "2025-06-28T16:09:32.823Z",
+    "latest_version": "1.59.17595",
+    "last_updated": "2025-07-03T14:35:48.52Z",
     "version_history": [
+      {
+        "version": "1.59.17595",
+        "lastUpdated": "2025-07-03T14:35:48.52Z"
+      },
       {
         "version": "1.59.17545",
         "lastUpdated": "2025-06-28T16:09:32.823Z"
@@ -3480,15 +3484,11 @@
       {
         "version": "1.57.17188",
         "lastUpdated": "2025-04-21T17:17:15.89Z"
-      },
-      {
-        "version": "1.57.17178",
-        "lastUpdated": "2025-04-16T21:41:59.643Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17545/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17595/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -5761,9 +5761,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025070304",
-    "last_updated": "2025-07-03T04:22:18.59Z",
+    "latest_version": "0.113.2025070315",
+    "last_updated": "2025-07-03T15:18:40.88Z",
     "version_history": [
+      {
+        "version": "0.113.2025070315",
+        "lastUpdated": "2025-07-03T15:18:40.88Z"
+      },
       {
         "version": "0.113.2025070304",
         "lastUpdated": "2025-07-03T04:22:18.59Z"
@@ -5839,15 +5843,11 @@
       {
         "version": "0.111.2025061914",
         "lastUpdated": "2025-06-19T14:18:43.93Z"
-      },
-      {
-        "version": "0.111.2025061904",
-        "lastUpdated": "2025-06-19T04:24:19.47Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070315/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -12494,9 +12494,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.11.0",
-    "last_updated": "2025-07-01T12:10:41.73Z",
+    "latest_version": "6.11.1",
+    "last_updated": "2025-07-03T14:59:34.887Z",
     "version_history": [
+      {
+        "version": "6.11.1",
+        "lastUpdated": "2025-07-03T14:59:34.887Z"
+      },
       {
         "version": "6.11.0",
         "lastUpdated": "2025-07-01T12:10:41.73Z"
@@ -12572,15 +12576,11 @@
       {
         "version": "6.1.0",
         "lastUpdated": "2024-12-17T18:16:27.727Z"
-      },
-      {
-        "version": "6.0.0",
-        "lastUpdated": "2024-11-29T12:43:02.817Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.11.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.11.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -13573,9 +13573,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "64.2.1",
-    "last_updated": "2025-06-25T23:35:26.503Z",
+    "latest_version": "64.3.0",
+    "last_updated": "2025-07-03T14:00:35.857Z",
     "version_history": [
+      {
+        "version": "64.3.0",
+        "lastUpdated": "2025-07-03T14:00:35.857Z"
+      },
       {
         "version": "64.2.1",
         "lastUpdated": "2025-06-25T23:35:26.503Z"
@@ -13651,15 +13655,11 @@
       {
         "version": "62.13.0",
         "lastUpdated": "2025-01-09T18:50:27.31Z"
-      },
-      {
-        "version": "62.12.0",
-        "lastUpdated": "2025-01-03T15:05:02.683Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.2.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -14111,9 +14111,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.107.1751045923",
-    "last_updated": "2025-06-27T17:43:29.977Z",
+    "latest_version": "1.108.0",
+    "last_updated": "2025-07-03T16:46:24.86Z",
     "version_history": [
+      {
+        "version": "1.108.0",
+        "lastUpdated": "2025-07-03T16:46:24.86Z"
+      },
       {
         "version": "1.107.1751045923",
         "lastUpdated": "2025-06-27T17:43:29.977Z"
@@ -14189,10 +14193,6 @@
       {
         "version": "1.98.1",
         "lastUpdated": "2025-06-03T16:23:06.673Z"
-      },
-      {
-        "version": "1.98.0",
-        "lastUpdated": "2025-05-28T17:38:48.79Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -14238,7 +14238,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.107.1751045923/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.108.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
