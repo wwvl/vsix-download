@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.339.1655",
-    "last_updated": "2025-07-02T16:21:35.537Z",
+    "latest_version": "1.339.1656",
+    "last_updated": "2025-07-03T01:47:09.183Z",
     "version_history": [
+      {
+        "version": "1.339.1656",
+        "lastUpdated": "2025-07-03T01:47:09.183Z"
+      },
       {
         "version": "1.339.1655",
         "lastUpdated": "2025-07-02T16:21:35.537Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.335.1630",
         "lastUpdated": "2025-06-18T01:56:43.223Z"
-      },
-      {
-        "version": "1.335.1629",
-        "lastUpdated": "2025-06-17T16:27:16.087Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1655/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1656/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025070202",
-    "last_updated": "2025-07-02T15:18:16.453Z",
+    "latest_version": "0.29.2025070301",
+    "last_updated": "2025-07-03T04:26:15.42Z",
     "version_history": [
+      {
+        "version": "0.29.2025070301",
+        "lastUpdated": "2025-07-03T04:26:15.42Z"
+      },
       {
         "version": "0.29.2025070202",
         "lastUpdated": "2025-07-02T15:18:16.453Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025061203",
         "lastUpdated": "2025-06-12T20:47:34.83Z"
-      },
-      {
-        "version": "0.28.2025061202",
-        "lastUpdated": "2025-06-12T15:12:28.2Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5761,9 +5761,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025070204",
-    "last_updated": "2025-07-02T04:22:26.32Z",
+    "latest_version": "0.113.2025070304",
+    "last_updated": "2025-07-03T04:22:18.59Z",
     "version_history": [
+      {
+        "version": "0.113.2025070304",
+        "lastUpdated": "2025-07-03T04:22:18.59Z"
+      },
       {
         "version": "0.113.2025070204",
         "lastUpdated": "2025-07-02T04:22:26.32Z"
@@ -5839,15 +5843,11 @@
       {
         "version": "0.111.2025061904",
         "lastUpdated": "2025-06-19T04:24:19.47Z"
-      },
-      {
-        "version": "0.111.2025061804",
-        "lastUpdated": "2025-06-18T04:23:59.887Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11021,9 +11021,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250702001",
-    "last_updated": "2025-07-02T03:07:40.487Z",
+    "latest_version": "0.13.250703001",
+    "last_updated": "2025-07-03T02:55:22.037Z",
     "version_history": [
+      {
+        "version": "0.13.250703001",
+        "lastUpdated": "2025-07-03T02:55:22.037Z"
+      },
       {
         "version": "0.13.250702001",
         "lastUpdated": "2025-07-02T03:07:40.487Z"
@@ -11099,15 +11103,11 @@
       {
         "version": "0.13.250605001",
         "lastUpdated": "2025-06-05T02:56:53.58Z"
-      },
-      {
-        "version": "0.13.250604001",
-        "lastUpdated": "2025-06-04T02:54:53.583Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250702001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250703001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -12401,9 +12401,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.12.1",
-    "last_updated": "2025-06-12T06:06:07.267Z",
+    "latest_version": "1.13.1",
+    "last_updated": "2025-07-03T06:00:55.167Z",
     "version_history": [
+      {
+        "version": "1.13.1",
+        "lastUpdated": "2025-07-03T06:00:55.167Z"
+      },
       {
         "version": "1.12.1",
         "lastUpdated": "2025-06-12T06:06:07.267Z"
@@ -12479,15 +12483,11 @@
       {
         "version": "1.0.1",
         "lastUpdated": "2024-04-16T12:33:59.177Z"
-      },
-      {
-        "version": "1.0.0",
-        "lastUpdated": "2024-04-16T09:05:28.367Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.12.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.13.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -13666,9 +13666,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.18.1",
-    "last_updated": "2025-06-29T01:57:14.683Z",
+    "latest_version": "3.18.2",
+    "last_updated": "2025-07-03T05:39:15.007Z",
     "version_history": [
+      {
+        "version": "3.18.2",
+        "lastUpdated": "2025-07-03T05:39:15.007Z"
+      },
       {
         "version": "3.18.1",
         "lastUpdated": "2025-06-29T01:57:14.683Z"
@@ -13744,15 +13748,11 @@
       {
         "version": "3.17.0",
         "lastUpdated": "2025-05-22T18:15:07.917Z"
-      },
-      {
-        "version": "3.16.3",
-        "lastUpdated": "2025-05-21T20:43:06.557Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
