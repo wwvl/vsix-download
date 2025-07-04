@@ -1857,9 +1857,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.23",
-    "last_updated": "2025-06-19T14:55:35.773Z",
+    "latest_version": "0.14.24",
+    "last_updated": "2025-07-03T19:45:21.317Z",
     "version_history": [
+      {
+        "version": "0.14.24",
+        "lastUpdated": "2025-07-03T19:45:21.317Z"
+      },
       {
         "version": "0.14.23",
         "lastUpdated": "2025-06-19T14:55:35.773Z"
@@ -1935,15 +1939,11 @@
       {
         "version": "0.14.5",
         "lastUpdated": "2025-02-17T18:15:12.477Z"
-      },
-      {
-        "version": "0.14.4",
-        "lastUpdated": "2025-02-12T14:47:09.047Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.23/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.24/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.55",
-    "last_updated": "2025-07-03T19:16:39.66Z",
+    "latest_version": "1.1.56",
+    "last_updated": "2025-07-04T04:00:01.02Z",
     "version_history": [
+      {
+        "version": "1.1.56",
+        "lastUpdated": "2025-07-04T04:00:01.02Z"
+      },
       {
         "version": "1.1.55",
         "lastUpdated": "2025-07-03T19:16:39.66Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.33",
         "lastUpdated": "2025-05-06T21:17:16.85Z"
-      },
-      {
-        "version": "1.1.32",
-        "lastUpdated": "2025-05-03T02:14:29.64Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.55/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.56/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.339.1656",
-    "last_updated": "2025-07-03T01:47:09.183Z",
+    "latest_version": "1.339.1658",
+    "last_updated": "2025-07-04T01:48:09.407Z",
     "version_history": [
+      {
+        "version": "1.339.1658",
+        "lastUpdated": "2025-07-04T01:48:09.407Z"
+      },
       {
         "version": "1.339.1656",
         "lastUpdated": "2025-07-03T01:47:09.183Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.335.1631",
         "lastUpdated": "2025-06-18T16:28:47.41Z"
-      },
-      {
-        "version": "1.335.1630",
-        "lastUpdated": "2025-06-18T01:56:43.223Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1656/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1658/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11021,9 +11021,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250703001",
-    "last_updated": "2025-07-03T02:55:22.037Z",
+    "latest_version": "0.13.250704001",
+    "last_updated": "2025-07-04T02:52:06.053Z",
     "version_history": [
+      {
+        "version": "0.13.250704001",
+        "lastUpdated": "2025-07-04T02:52:06.053Z"
+      },
       {
         "version": "0.13.250703001",
         "lastUpdated": "2025-07-03T02:55:22.037Z"
@@ -11099,15 +11103,11 @@
       {
         "version": "0.13.250606001",
         "lastUpdated": "2025-06-06T02:58:10.197Z"
-      },
-      {
-        "version": "0.13.250605001",
-        "lastUpdated": "2025-06-05T02:56:53.58Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250703001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250704001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
