@@ -7157,9 +7157,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.51.0",
-    "last_updated": "2025-06-24T19:10:52.46Z",
+    "latest_version": "1.52.0",
+    "last_updated": "2025-07-05T10:53:40.657Z",
     "version_history": [
+      {
+        "version": "1.52.0",
+        "lastUpdated": "2025-07-05T10:53:40.657Z"
+      },
       {
         "version": "1.51.0",
         "lastUpdated": "2025-06-24T19:10:52.46Z"
@@ -7235,15 +7239,11 @@
       {
         "version": "1.38.1",
         "lastUpdated": "2025-01-12T12:06:37.113Z"
-      },
-      {
-        "version": "1.38.0",
-        "lastUpdated": "2024-12-28T15:45:11.123Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.51.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.52.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
