@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import type { Extension } from '@/types/extension'
 import type { DropdownMenuItem } from '@nuxt/ui'
-import { useExtension } from '@/composables/useExtension'
+import type { Extension } from '@/types/extension'
 import { computed } from 'vue'
+import { useExtension } from '@/composables/useExtension'
 
 const props = defineProps<{
   extension: Extension

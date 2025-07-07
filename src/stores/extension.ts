@@ -1,7 +1,7 @@
 import type { Extension } from '@/types/extension'
-import { supabase } from '@/composables/useSupabase'
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
+import { supabase } from '@/composables/useSupabase'
 
 export const useExtensionStore = defineStore(
   'extension',

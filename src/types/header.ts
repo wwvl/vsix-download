@@ -2,8 +2,8 @@ import type { ButtonProps, DrawerProps, ModalProps, SlideoverProps } from '@nuxt
 
 export type HeaderMode = 'modal' | 'slideover' | 'drawer'
 
-export type HeaderMenu<T extends HeaderMode> =
-  T extends 'modal' ? ModalProps
+export type HeaderMenu<T extends HeaderMode>
+  = T extends 'modal' ? ModalProps
     : T extends 'slideover' ? SlideoverProps
       : T extends 'drawer' ? DrawerProps
         : never

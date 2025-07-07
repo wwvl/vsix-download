@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import type { Extension } from '@/types/extension'
 import type { TableColumn } from '@nuxt/ui'
-import { getDownloadUrl } from '@/composables/useExtension'
+import type { Extension } from '@/types/extension'
 import { computed, h, resolveComponent, toRefs } from 'vue'
+import { getDownloadUrl } from '@/composables/useExtension'
 
 const props = defineProps<{
   extension: Extension

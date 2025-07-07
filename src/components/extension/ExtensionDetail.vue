@@ -1,8 +1,8 @@
 <!-- eslint-disable vue/html-self-closing -->
 <script setup lang="ts">
 import type { Extension } from '@/types/extension'
-import { useExtension } from '@/composables/useExtension'
 import { computed, resolveComponent, toRefs } from 'vue'
+import { useExtension } from '@/composables/useExtension'
 
 const props = defineProps<{
   extension: Extension

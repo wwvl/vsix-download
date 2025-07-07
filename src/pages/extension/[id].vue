@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { useExtensionStore } from '@/stores/extension'
 import { computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
+import { useExtensionStore } from '@/stores/extension'
 
 const route = useRoute()
 const store = useExtensionStore()

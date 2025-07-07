@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { useExtensionStore } from '@/stores/extension'
 import { onMounted } from 'vue'
+import { useExtensionStore } from '@/stores/extension'
 
 const store = useExtensionStore()
 

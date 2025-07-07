@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import type { Extension } from '@/types/extension'
 import type { TableColumn } from '@nuxt/ui'
 import type { Column } from '@tanstack/vue-table'
+import type { Extension } from '@/types/extension'
 
-import { useExtension } from '@/composables/useExtension'
 import { getPaginationRowModel } from '@tanstack/vue-table'
 import { useEventListener } from '@vueuse/core'
 import { upperFirst } from 'scule'
 import { computed, h, ref, resolveComponent, toRefs } from 'vue'
 import { useRouter } from 'vue-router'
+import { useExtension } from '@/composables/useExtension'
 
 const props = defineProps<{
   extensions: Extension[]

@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { useExtensionStore } from '@/stores/extension'
 import { computed, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { useExtensionStore } from '@/stores/extension'
 
 const route = useRoute()
 const router = useRouter()
