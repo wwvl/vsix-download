@@ -25,6 +25,8 @@ ChakrounAnas.turbo-console-log
 charliermarsh.ruff
 christian-kohler.path-intellisense
 cipchk.cssrem
+cloudstudio.live-server
+cnbcool.cnb-welcome
 Codeium.codeium
 colourafredi.vscode-deepseek
 Continue.continue
@@ -60,6 +62,7 @@ GeriYoco.vscode-image-gallery
 GitHub.codespaces
 GitHub.copilot
 GitHub.copilot-chat
+github.github-vscode-theme
 GitHub.remotehub
 GitHub.vscode-github-actions
 GitHub.vscode-pull-request-github
@@ -103,10 +106,15 @@ ms-dotnettools.vscodeintellicode-csharp
 ms-iot.vscode-ros
 ms-kubernetes-tools.vscode-kubernetes-tools
 ms-mssql.mssql
+ms-python.black-formatter
 ms-python.debugpy
+ms-python.flake8
+ms-python.mypy-type-checker
+ms-python.pylint
 ms-python.python
 ms-python.vscode-pylance
 ms-toolsai.datawrangler
+ms-toolsai.jupyter
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-wsl
@@ -167,7 +175,7 @@ svelte.svelte-vscode
 swellaby.vscode-rust-test-adapter
 tamasfe.even-better-toml
 tauri-apps.tauri-vscode
-Tencent-Cloud.coding-copilot
+tencent-cloud.coding-copilot
 think2011.react-i18n
 timonwong.shellcheck
 tomoki1207.pdf
