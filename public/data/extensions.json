@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.339.1659",
-    "last_updated": "2025-07-04T16:21:15.33Z",
+    "latest_version": "1.339.1660",
+    "last_updated": "2025-07-07T01:48:59.04Z",
     "version_history": [
+      {
+        "version": "1.339.1660",
+        "lastUpdated": "2025-07-07T01:48:59.04Z"
+      },
       {
         "version": "1.339.1659",
         "lastUpdated": "2025-07-04T16:21:15.33Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.335.1633",
         "lastUpdated": "2025-06-19T14:06:29.027Z"
-      },
-      {
-        "version": "1.335.1632",
-        "lastUpdated": "2025-06-19T01:52:50.397Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1659/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1660/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -12086,9 +12086,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.5.0",
-    "last_updated": "2025-07-02T01:11:31.623Z",
+    "latest_version": "1.6.0",
+    "last_updated": "2025-07-07T05:02:29.16Z",
     "version_history": [
+      {
+        "version": "1.6.0",
+        "lastUpdated": "2025-07-07T05:02:29.16Z"
+      },
       {
         "version": "1.5.0",
         "lastUpdated": "2025-07-02T01:11:31.623Z"
@@ -12164,15 +12168,11 @@
       {
         "version": "0.16.3",
         "lastUpdated": "2025-03-25T08:51:35.9Z"
-      },
-      {
-        "version": "0.16.2",
-        "lastUpdated": "2025-03-21T05:51:07.287Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.5.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.6.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
