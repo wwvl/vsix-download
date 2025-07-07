@@ -73,6 +73,7 @@ GoogleCloudTools.cloudcode
 GraphQL.vscode-graphql-syntax
 Gruntfuggly.todo-tree
 GuodongSun.vscode-git-cruise
+HarshVandanaSharma.gkeep
 HashiCorp.terraform
 haskell.haskell
 hbenl.vscode-test-explorer
