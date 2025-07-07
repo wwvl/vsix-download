@@ -1415,9 +1415,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.496.0",
-    "last_updated": "2025-07-02T17:10:29.463Z",
+    "latest_version": "0.497.0",
+    "last_updated": "2025-07-07T17:29:08.15Z",
     "version_history": [
+      {
+        "version": "0.497.0",
+        "lastUpdated": "2025-07-07T17:29:08.15Z"
+      },
+      {
+        "version": "0.496.1",
+        "lastUpdated": "2025-07-07T17:41:22.48Z"
+      },
       {
         "version": "0.496.0",
         "lastUpdated": "2025-07-02T17:10:29.463Z"
@@ -1489,28 +1497,24 @@
       {
         "version": "0.482.1",
         "lastUpdated": "2025-06-16T17:41:43.857Z"
-      },
-      {
-        "version": "0.482.0",
-        "lastUpdated": "2025-06-13T17:06:57.103Z"
-      },
-      {
-        "version": "0.481.0",
-        "lastUpdated": "2025-06-12T17:09:59.477Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.496.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.497.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.10.4",
-    "last_updated": "2025-07-01T17:01:24.707Z",
+    "latest_version": "3.11.0",
+    "last_updated": "2025-07-07T14:08:20.053Z",
     "version_history": [
+      {
+        "version": "3.11.0",
+        "lastUpdated": "2025-07-07T14:08:20.053Z"
+      },
       {
         "version": "3.10.4",
         "lastUpdated": "2025-07-01T17:01:24.707Z"
@@ -1586,10 +1590,6 @@
       {
         "version": "3.4.7",
         "lastUpdated": "2025-03-24T14:41:15.61Z"
-      },
-      {
-        "version": "3.4.6",
-        "lastUpdated": "2025-03-20T14:11:59.837Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1643,7 +1643,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.10.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.11.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5335,9 +5335,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.339.1660",
-    "last_updated": "2025-07-07T01:48:59.04Z",
+    "latest_version": "1.340.1663",
+    "last_updated": "2025-07-07T18:06:04.22Z",
     "version_history": [
+      {
+        "version": "1.340.1663",
+        "lastUpdated": "2025-07-07T18:06:04.22Z"
+      },
+      {
+        "version": "1.339.1661",
+        "lastUpdated": "2025-07-07T16:20:12.15Z"
+      },
       {
         "version": "1.339.1660",
         "lastUpdated": "2025-07-07T01:48:59.04Z"
@@ -5409,14 +5417,6 @@
       {
         "version": "1.337.1641",
         "lastUpdated": "2025-06-24T16:21:29.783Z"
-      },
-      {
-        "version": "1.336.0",
-        "lastUpdated": "2025-06-19T16:22:04.403Z"
-      },
-      {
-        "version": "1.335.1633",
-        "lastUpdated": "2025-06-19T14:06:29.027Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.339.1660/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.340.1663/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025070403",
-    "last_updated": "2025-07-04T14:58:43.46Z",
+    "latest_version": "0.29.2025070702",
+    "last_updated": "2025-07-07T16:44:24.873Z",
     "version_history": [
+      {
+        "version": "0.29.2025070702",
+        "lastUpdated": "2025-07-07T16:44:24.873Z"
+      },
       {
         "version": "0.29.2025070403",
         "lastUpdated": "2025-07-04T14:58:43.46Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025061701",
         "lastUpdated": "2025-06-17T04:28:05.117Z"
-      },
-      {
-        "version": "0.29.2025061601",
-        "lastUpdated": "2025-06-16T04:30:00.84Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,8 +5568,101 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070403/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
+  },
+  {
+    "extension_name": "github.github-vscode-theme",
+    "display_name": "GitHub Theme",
+    "short_description": "GitHub theme for VS Code",
+    "latest_version": "6.3.5",
+    "last_updated": "2024-10-03T05:36:07.743Z",
+    "version_history": [
+      {
+        "version": "6.3.5",
+        "lastUpdated": "2024-10-03T05:36:07.743Z"
+      },
+      {
+        "version": "6.3.4",
+        "lastUpdated": "2023-03-28T11:46:22.217Z"
+      },
+      {
+        "version": "6.3.3",
+        "lastUpdated": "2023-01-17T01:28:12.987Z"
+      },
+      {
+        "version": "6.3.2",
+        "lastUpdated": "2022-07-19T05:37:38.583Z"
+      },
+      {
+        "version": "6.3.1",
+        "lastUpdated": "2022-07-15T11:52:35.58Z"
+      },
+      {
+        "version": "6.3.0",
+        "lastUpdated": "2022-07-15T03:02:40.283Z"
+      },
+      {
+        "version": "6.2.0",
+        "lastUpdated": "2022-07-14T01:23:45.39Z"
+      },
+      {
+        "version": "6.1.0",
+        "lastUpdated": "2022-07-11T08:17:36.59Z"
+      },
+      {
+        "version": "6.0.0",
+        "lastUpdated": "2022-02-11T07:23:20.333Z"
+      },
+      {
+        "version": "5.2.2",
+        "lastUpdated": "2022-02-08T08:40:16.64Z"
+      },
+      {
+        "version": "5.2.1",
+        "lastUpdated": "2022-01-28T05:58:44.057Z"
+      },
+      {
+        "version": "5.2.0",
+        "lastUpdated": "2022-01-28T02:10:06.707Z"
+      },
+      {
+        "version": "5.1.0",
+        "lastUpdated": "2021-11-24T08:39:51.893Z"
+      },
+      {
+        "version": "5.0.3",
+        "lastUpdated": "2021-10-18T16:05:03.183Z"
+      },
+      {
+        "version": "5.0.2",
+        "lastUpdated": "2021-10-18T02:10:11.42Z"
+      },
+      {
+        "version": "5.0.0",
+        "lastUpdated": "2021-09-21T23:17:24.83Z"
+      },
+      {
+        "version": "4.2.1",
+        "lastUpdated": "2021-09-08T02:23:44.94Z"
+      },
+      {
+        "version": "4.2.0",
+        "lastUpdated": "2021-09-08T01:22:22.63Z"
+      },
+      {
+        "version": "4.1.1",
+        "lastUpdated": "2021-04-28T14:41:45.87Z"
+      },
+      {
+        "version": "4.1.0",
+        "lastUpdated": "2021-04-28T14:31:52.193Z"
+      }
+    ],
+    "categories": ["Themes"],
+    "tags": ["colorblind", "color-theme", "dark", "github", "light", "protanopia", "theme"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/github/vsextensions/github-vscode-theme/6.3.5/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=github.github-vscode-theme"
   },
   {
     "extension_name": "GitHub.remotehub",
@@ -5761,9 +5854,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025070415",
-    "last_updated": "2025-07-04T15:28:02.247Z",
+    "latest_version": "0.113.2025070716",
+    "last_updated": "2025-07-07T16:24:33.35Z",
     "version_history": [
+      {
+        "version": "0.113.2025070716",
+        "lastUpdated": "2025-07-07T16:24:33.35Z"
+      },
       {
         "version": "0.113.2025070415",
         "lastUpdated": "2025-07-04T15:28:02.247Z"
@@ -5839,24 +5936,24 @@
       {
         "version": "0.113.2025062020",
         "lastUpdated": "2025-06-20T20:16:01.703Z"
-      },
-      {
-        "version": "0.113.2025062009",
-        "lastUpdated": "2025-06-20T09:51:20.94Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070415/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070716/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.48.0",
-    "last_updated": "2025-06-30T15:36:32.24Z",
+    "latest_version": "0.49.0",
+    "last_updated": "2025-07-07T15:48:58.947Z",
     "version_history": [
+      {
+        "version": "0.49.0",
+        "lastUpdated": "2025-07-07T15:48:58.947Z"
+      },
       {
         "version": "0.48.0",
         "lastUpdated": "2025-06-30T15:36:32.24Z"
@@ -5932,10 +6029,6 @@
       {
         "version": "0.42.0",
         "lastUpdated": "2024-07-17T18:28:25.46Z"
-      },
-      {
-        "version": "0.41.4",
-        "lastUpdated": "2024-04-24T17:20:00.813Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
@@ -5957,7 +6050,7 @@
       "multi-root ready",
       "snippet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.48.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.49.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -6557,6 +6650,31 @@
     "tags": ["branch", "commit", "diff", "flow", "git", "graph", "history", "log", "scm", "tag"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GuodongSun/vsextensions/vscode-git-cruise/0.2.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise"
+  },
+  {
+    "extension_name": "HarshVandanaSharma.gkeep",
+    "display_name": "gkeep",
+    "short_description": "An extension which adds .gitkeep file to include blank folders for git add",
+    "latest_version": "1.2.0",
+    "last_updated": "2024-05-16T08:18:44.783Z",
+    "version_history": [
+      {
+        "version": "1.2.0",
+        "lastUpdated": "2024-05-16T08:18:44.783Z"
+      },
+      {
+        "version": "1.1.0",
+        "lastUpdated": "2024-05-16T08:02:53.373Z"
+      },
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2024-05-16T07:41:48.28Z"
+      }
+    ],
+    "categories": ["Other"],
+    "tags": ["git"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HarshVandanaSharma/vsextensions/gkeep/1.2.0/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=HarshVandanaSharma.gkeep"
   },
   {
     "extension_name": "HashiCorp.terraform",
@@ -7947,9 +8065,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.29",
-    "last_updated": "2025-07-06T11:39:32.93Z",
+    "latest_version": "1.2.30",
+    "last_updated": "2025-07-07T15:33:18.31Z",
     "version_history": [
+      {
+        "version": "1.2.30",
+        "lastUpdated": "2025-07-07T15:33:18.31Z"
+      },
       {
         "version": "1.2.29",
         "lastUpdated": "2025-07-06T11:39:32.93Z"
@@ -8025,10 +8147,6 @@
       {
         "version": "1.2.4",
         "lastUpdated": "2025-04-23T06:18:41.853Z"
-      },
-      {
-        "version": "1.2.3",
-        "lastUpdated": "2025-04-21T10:23:35.197Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8062,7 +8180,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.29/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.30/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -9396,6 +9514,99 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
+    "extension_name": "ms-python.black-formatter",
+    "display_name": "Black Formatter",
+    "short_description": "Formatting support for Python files using the Black formatter.",
+    "latest_version": "2025.3.11831009",
+    "last_updated": "2025-07-02T10:20:47.517Z",
+    "version_history": [
+      {
+        "version": "2025.3.11831009",
+        "lastUpdated": "2025-07-02T10:20:47.517Z"
+      },
+      {
+        "version": "2025.3.11821010",
+        "lastUpdated": "2025-07-01T10:24:54.773Z"
+      },
+      {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-03-05T18:22:02.243Z"
+      },
+      {
+        "version": "2025.1.10511010",
+        "lastUpdated": "2025-02-20T10:21:17.89Z"
+      },
+      {
+        "version": "2024.6.0",
+        "lastUpdated": "2025-02-06T21:28:44.367Z"
+      },
+      {
+        "version": "2024.5.13171011",
+        "lastUpdated": "2024-11-12T10:47:42.94Z"
+      },
+      {
+        "version": "2024.5.12841012",
+        "lastUpdated": "2024-10-10T10:21:23.367Z"
+      },
+      {
+        "version": "2024.4.0",
+        "lastUpdated": "2024-10-10T14:23:22.157Z"
+      },
+      {
+        "version": "2024.3.12751822",
+        "lastUpdated": "2024-10-01T18:30:27.493Z"
+      },
+      {
+        "version": "2024.3.12071014",
+        "lastUpdated": "2024-07-25T10:24:37.847Z"
+      },
+      {
+        "version": "2024.3.11501016",
+        "lastUpdated": "2024-05-29T10:25:36.333Z"
+      },
+      {
+        "version": "2024.3.11481013",
+        "lastUpdated": "2024-05-27T10:22:08.473Z"
+      },
+      {
+        "version": "2024.3.11371020",
+        "lastUpdated": "2024-05-16T10:27:51.183Z"
+      },
+      {
+        "version": "2024.2.0",
+        "lastUpdated": "2024-04-04T18:57:18.413Z"
+      },
+      {
+        "version": "2024.1.10861010",
+        "lastUpdated": "2024-03-26T10:18:03.937Z"
+      },
+      {
+        "version": "2024.1.10681007",
+        "lastUpdated": "2024-03-08T10:16:05.477Z"
+      },
+      {
+        "version": "2024.1.10451008",
+        "lastUpdated": "2024-02-14T10:16:19.25Z"
+      },
+      {
+        "version": "2024.1.10371008",
+        "lastUpdated": "2024-02-06T10:16:16Z"
+      },
+      {
+        "version": "2024.1.10361006",
+        "lastUpdated": "2024-02-05T10:14:44.05Z"
+      },
+      {
+        "version": "2024.1.10331006",
+        "lastUpdated": "2024-02-02T10:14:51.943Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Formatters"],
+    "tags": ["black", "formatting", "python", "toml"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/black-formatter/2025.3.11831009/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter"
+  },
+  {
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
@@ -9487,6 +9698,285 @@
     "tags": ["debugger", "debuggers", "debugpy", "python"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025070101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
+  },
+  {
+    "extension_name": "ms-python.flake8",
+    "display_name": "Flake8",
+    "short_description": "Linting support for Python files using Flake8.",
+    "latest_version": "2025.3.11811013",
+    "last_updated": "2025-06-30T10:29:16.71Z",
+    "version_history": [
+      {
+        "version": "2025.3.11811013",
+        "lastUpdated": "2025-06-30T10:29:16.71Z"
+      },
+      {
+        "version": "2025.3.11051009",
+        "lastUpdated": "2025-04-15T10:20:29.187Z"
+      },
+      {
+        "version": "2025.3.10971008",
+        "lastUpdated": "2025-04-07T10:17:18.413Z"
+      },
+      {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-03-05T18:29:53.52Z"
+      },
+      {
+        "version": "2025.1.10481012",
+        "lastUpdated": "2025-02-17T10:21:55.48Z"
+      },
+      {
+        "version": "2025.1.10441012",
+        "lastUpdated": "2025-02-13T10:23:10.207Z"
+      },
+      {
+        "version": "2024.0.0",
+        "lastUpdated": "2025-02-06T21:27:09.743Z"
+      },
+      {
+        "version": "2023.13.13171014",
+        "lastUpdated": "2024-11-12T10:46:10.183Z"
+      },
+      {
+        "version": "2023.13.12291011",
+        "lastUpdated": "2024-08-16T10:21:17.87Z"
+      },
+      {
+        "version": "2023.13.11511011",
+        "lastUpdated": "2024-05-30T10:20:24.383Z"
+      },
+      {
+        "version": "2023.13.11501019",
+        "lastUpdated": "2024-05-29T10:28:00.013Z"
+      },
+      {
+        "version": "2023.13.11481016",
+        "lastUpdated": "2024-05-27T10:25:43.277Z"
+      },
+      {
+        "version": "2023.13.11371021",
+        "lastUpdated": "2024-05-16T10:30:46.147Z"
+      },
+      {
+        "version": "2023.13.10681010",
+        "lastUpdated": "2024-03-08T10:19:14.7Z"
+      },
+      {
+        "version": "2023.13.10601010",
+        "lastUpdated": "2024-02-29T10:19:45.78Z"
+      },
+      {
+        "version": "2023.13.10591841",
+        "lastUpdated": "2024-02-28T18:51:28.557Z"
+      },
+      {
+        "version": "2023.13.10582022",
+        "lastUpdated": "2024-02-27T20:31:57.78Z"
+      },
+      {
+        "version": "2023.11.13551006",
+        "lastUpdated": "2023-12-21T10:13:10.24Z"
+      },
+      {
+        "version": "2023.11.13471008",
+        "lastUpdated": "2023-12-13T10:17:19.443Z"
+      },
+      {
+        "version": "2023.11.13331010",
+        "lastUpdated": "2023-11-29T10:16:34.96Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Linters"],
+    "tags": ["flake8", "ini", "linters", "linting", "python"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.11811013/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.flake8"
+  },
+  {
+    "extension_name": "ms-python.mypy-type-checker",
+    "display_name": "Mypy Type Checker",
+    "short_description": "Type checking support for Python files using Mypy.",
+    "latest_version": "2025.3.11821011",
+    "last_updated": "2025-07-01T10:25:25.097Z",
+    "version_history": [
+      {
+        "version": "2025.3.11821011",
+        "lastUpdated": "2025-07-01T10:25:25.097Z"
+      },
+      {
+        "version": "2025.3.11811016",
+        "lastUpdated": "2025-06-30T10:28:22.23Z"
+      },
+      {
+        "version": "2025.3.11071011",
+        "lastUpdated": "2025-04-17T10:22:48.763Z"
+      },
+      {
+        "version": "2025.3.11001007",
+        "lastUpdated": "2025-04-10T10:17:41.207Z"
+      },
+      {
+        "version": "2025.3.10801012",
+        "lastUpdated": "2025-03-21T10:23:10.637Z"
+      },
+      {
+        "version": "2025.3.10721011",
+        "lastUpdated": "2025-03-13T10:22:42.977Z"
+      },
+      {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-03-05T18:30:41.82Z"
+      },
+      {
+        "version": "2025.1.10581009",
+        "lastUpdated": "2025-02-27T10:20:15.44Z"
+      },
+      {
+        "version": "2025.1.10561011",
+        "lastUpdated": "2025-02-25T10:21:39.63Z"
+      },
+      {
+        "version": "2025.1.10511014",
+        "lastUpdated": "2025-02-20T10:24:13.523Z"
+      },
+      {
+        "version": "2025.1.10451009",
+        "lastUpdated": "2025-02-14T10:20:09.58Z"
+      },
+      {
+        "version": "2025.1.10381011",
+        "lastUpdated": "2025-02-07T10:32:27.883Z"
+      },
+      {
+        "version": "2024.2.0",
+        "lastUpdated": "2025-02-06T21:27:38.993Z"
+      },
+      {
+        "version": "2024.1.13171012",
+        "lastUpdated": "2024-11-12T10:49:03.54Z"
+      },
+      {
+        "version": "2024.1.12601012",
+        "lastUpdated": "2024-09-16T10:21:25.323Z"
+      },
+      {
+        "version": "2024.0.0",
+        "lastUpdated": "2024-09-05T21:54:14.83Z"
+      },
+      {
+        "version": "2023.9.12421015",
+        "lastUpdated": "2024-08-29T10:23:14.85Z"
+      },
+      {
+        "version": "2023.9.12151008",
+        "lastUpdated": "2024-08-02T10:17:39.417Z"
+      },
+      {
+        "version": "2023.9.11861016",
+        "lastUpdated": "2024-07-04T10:26:17.26Z"
+      },
+      {
+        "version": "2023.9.11501016",
+        "lastUpdated": "2024-05-29T10:25:11.947Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Linters", "Formatters"],
+    "tags": ["mypy", "python"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.11821011/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker"
+  },
+  {
+    "extension_name": "ms-python.pylint",
+    "display_name": "Pylint",
+    "short_description": "Linting support for Python files using Pylint.",
+    "latest_version": "2025.3.11821009",
+    "last_updated": "2025-07-01T10:22:22.017Z",
+    "version_history": [
+      {
+        "version": "2025.3.11821009",
+        "lastUpdated": "2025-07-01T10:22:22.017Z"
+      },
+      {
+        "version": "2025.3.11811012",
+        "lastUpdated": "2025-06-30T10:28:54.427Z"
+      },
+      {
+        "version": "2025.3.10971010",
+        "lastUpdated": "2025-04-07T10:18:47.96Z"
+      },
+      {
+        "version": "2025.2.0",
+        "lastUpdated": "2025-03-05T18:29:20.42Z"
+      },
+      {
+        "version": "2025.1.10511012",
+        "lastUpdated": "2025-02-20T10:23:15.403Z"
+      },
+      {
+        "version": "2024.2.0",
+        "lastUpdated": "2025-02-06T21:28:14.463Z"
+      },
+      {
+        "version": "2024.1.13511018",
+        "lastUpdated": "2024-12-16T10:34:34.823Z"
+      },
+      {
+        "version": "2024.1.13491325",
+        "lastUpdated": "2024-12-14T13:35:42.493Z"
+      },
+      {
+        "version": "2024.1.13171016",
+        "lastUpdated": "2024-11-12T10:47:39.26Z"
+      },
+      {
+        "version": "2024.1.13121010",
+        "lastUpdated": "2024-11-07T20:17:20.857Z"
+      },
+      {
+        "version": "2024.1.12811009",
+        "lastUpdated": "2024-10-07T10:18:52.433Z"
+      },
+      {
+        "version": "2024.1.10221013",
+        "lastUpdated": "2025-01-22T10:23:18.18Z"
+      },
+      {
+        "version": "2024.1.10211013",
+        "lastUpdated": "2025-01-21T10:29:49.297Z"
+      },
+      {
+        "version": "2024.0.0",
+        "lastUpdated": "2024-10-09T18:05:43.187Z"
+      },
+      {
+        "version": "2023.11.13481007",
+        "lastUpdated": "2023-12-14T10:15:51.48Z"
+      },
+      {
+        "version": "2023.11.13201006",
+        "lastUpdated": "2023-11-16T10:12:36.887Z"
+      },
+      {
+        "version": "2023.11.13191929",
+        "lastUpdated": "2023-11-15T19:38:43.513Z"
+      },
+      {
+        "version": "2023.11.13171007",
+        "lastUpdated": "2023-11-13T10:13:15.363Z"
+      },
+      {
+        "version": "2023.11.13121006",
+        "lastUpdated": "2023-11-08T10:12:02.5Z"
+      },
+      {
+        "version": "2023.11.13101007",
+        "lastUpdated": "2023-11-06T10:15:07.14Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Linters"],
+    "tags": ["ini", "linters", "linting", "pylint", "python"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/pylint/2025.3.11821009/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.pylint"
   },
   {
     "extension_name": "ms-python.python",
@@ -9839,6 +10329,99 @@
     ],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/datawrangler/1.23.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler"
+  },
+  {
+    "extension_name": "ms-toolsai.jupyter",
+    "display_name": "Jupyter",
+    "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
+    "latest_version": "2025.6.2025070201",
+    "last_updated": "2025-07-02T09:52:54.44Z",
+    "version_history": [
+      {
+        "version": "2025.6.2025070201",
+        "lastUpdated": "2025-07-02T09:52:54.44Z"
+      },
+      {
+        "version": "2025.6.2025070101",
+        "lastUpdated": "2025-07-01T09:51:43.66Z"
+      },
+      {
+        "version": "2025.6.2025063001",
+        "lastUpdated": "2025-06-30T10:06:20.35Z"
+      },
+      {
+        "version": "2025.6.2025062701",
+        "lastUpdated": "2025-06-27T09:45:52.65Z"
+      },
+      {
+        "version": "2025.6.2025061701",
+        "lastUpdated": "2025-06-17T09:50:48.487Z"
+      },
+      {
+        "version": "2025.6.2025061301",
+        "lastUpdated": "2025-06-13T09:49:36.133Z"
+      },
+      {
+        "version": "2025.5.2025060601",
+        "lastUpdated": "2025-06-06T03:30:38.207Z"
+      },
+      {
+        "version": "2025.5.2025060501",
+        "lastUpdated": "2025-06-05T09:51:05.363Z"
+      },
+      {
+        "version": "2025.5.2025060401",
+        "lastUpdated": "2025-06-04T10:04:18.983Z"
+      },
+      {
+        "version": "2025.5.2025060301",
+        "lastUpdated": "2025-06-03T09:55:06.873Z"
+      },
+      {
+        "version": "2025.5.2025053001",
+        "lastUpdated": "2025-05-30T09:48:56.12Z"
+      },
+      {
+        "version": "2025.5.2025052901",
+        "lastUpdated": "2025-05-29T10:00:18.553Z"
+      },
+      {
+        "version": "2025.5.2025052801",
+        "lastUpdated": "2025-05-28T10:04:42.12Z"
+      },
+      {
+        "version": "2025.5.2025052701",
+        "lastUpdated": "2025-05-27T09:49:00.033Z"
+      },
+      {
+        "version": "2025.5.2025052301",
+        "lastUpdated": "2025-05-23T09:51:01.957Z"
+      },
+      {
+        "version": "2025.5.2025052103",
+        "lastUpdated": "2025-05-21T09:55:07.853Z"
+      },
+      {
+        "version": "2025.5.2025052102",
+        "lastUpdated": "2025-05-21T04:31:16.69Z"
+      },
+      {
+        "version": "2025.5.2025052002",
+        "lastUpdated": "2025-05-20T22:49:00.877Z"
+      },
+      {
+        "version": "2025.5.2025052001",
+        "lastUpdated": "2025-05-20T09:45:59.99Z"
+      },
+      {
+        "version": "2025.5.2025051901",
+        "lastUpdated": "2025-05-19T09:48:11.337Z"
+      }
+    ],
+    "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
+    "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.6.2025070201/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
     "extension_name": "ms-vscode-remote.remote-containers",
@@ -14943,7 +15526,7 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode"
   },
   {
-    "extension_name": "Tencent-Cloud.coding-copilot",
+    "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "腾讯云代码助手 CodeBuddy",
     "short_description": "Tencent Cloud CodeBuddy",
     "latest_version": "3.1.20",
@@ -15071,8 +15654,8 @@
       "腾讯云开发助手",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Tencent-Cloud/vsextensions/coding-copilot/3.1.20/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Tencent-Cloud.coding-copilot"
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.1.20/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
     "extension_name": "think2011.react-i18n",
@@ -17169,9 +17752,13 @@
     "extension_name": "vsls-contrib.gistfs",
     "display_name": "GistPad",
     "short_description": "Manage your code snippets and developer notes using GitHub Gists and repositories.",
-    "latest_version": "0.9.4",
-    "last_updated": "2025-06-16T21:06:22.16Z",
+    "latest_version": "0.9.5",
+    "last_updated": "2025-07-07T15:28:39.47Z",
     "version_history": [
+      {
+        "version": "0.9.5",
+        "lastUpdated": "2025-07-07T15:28:39.47Z"
+      },
       {
         "version": "0.9.4",
         "lastUpdated": "2025-06-16T21:06:22.16Z"
@@ -17247,15 +17834,11 @@
       {
         "version": "0.2.4",
         "lastUpdated": "2021-03-22T02:40:45.537Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2021-03-20T02:51:12.08Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["gist", "json", "language-model-tools", "notes", "snippets", "wiki"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.9.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vsls-contrib/vsextensions/gistfs/0.9.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs"
   },
   {
