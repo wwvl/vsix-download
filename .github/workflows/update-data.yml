@@ -50,7 +50,7 @@ jobs:
       - name: Format and Lint
         run: |
           pnpm format public/data/extensions.json
-          pnpm lint:fix public/data/extensions.json
+          # pnpm lint:fix public/data/extensions.json
 
       - name: Commit and push if changed
         run: |
