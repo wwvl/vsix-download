@@ -651,9 +651,13 @@
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
     "display_name": "Lingma - Alibaba Cloud AI Coding Assistant",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.5.14",
-    "last_updated": "2025-06-27T14:42:53.3Z",
+    "latest_version": "2.5.15",
+    "last_updated": "2025-07-10T14:39:48.98Z",
     "version_history": [
+      {
+        "version": "2.5.15",
+        "lastUpdated": "2025-07-10T14:39:48.98Z"
+      },
       {
         "version": "2.5.14",
         "lastUpdated": "2025-06-27T14:42:53.3Z"
@@ -729,10 +733,6 @@
       {
         "version": "2.1.7",
         "lastUpdated": "2025-03-20T14:11:04.957Z"
-      },
-      {
-        "version": "2.1.6",
-        "lastUpdated": "2025-03-16T08:05:03.787Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -765,7 +765,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.5.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.5.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.499.0",
-    "last_updated": "2025-07-09T17:07:04.207Z",
+    "latest_version": "0.500.0",
+    "last_updated": "2025-07-10T17:08:28.903Z",
     "version_history": [
+      {
+        "version": "0.500.0",
+        "lastUpdated": "2025-07-10T17:08:28.903Z"
+      },
       {
         "version": "0.499.0",
         "lastUpdated": "2025-07-09T17:07:04.207Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.486.0",
         "lastUpdated": "2025-06-19T17:08:08.51Z"
-      },
-      {
-        "version": "0.485.0",
-        "lastUpdated": "2025-06-18T17:07:10.05Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.499.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.500.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -1857,9 +1857,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.24",
-    "last_updated": "2025-07-03T19:45:21.317Z",
+    "latest_version": "0.14.25",
+    "last_updated": "2025-07-10T15:43:54.22Z",
     "version_history": [
+      {
+        "version": "0.14.25",
+        "lastUpdated": "2025-07-10T15:43:54.22Z"
+      },
       {
         "version": "0.14.24",
         "lastUpdated": "2025-07-03T19:45:21.317Z"
@@ -1935,15 +1939,11 @@
       {
         "version": "0.14.6",
         "lastUpdated": "2025-02-18T12:56:51.063Z"
-      },
-      {
-        "version": "0.14.5",
-        "lastUpdated": "2025-02-17T18:15:12.477Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.24/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.25/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.342.0",
-    "last_updated": "2025-07-10T10:04:29.99Z",
+    "latest_version": "1.342.1670",
+    "last_updated": "2025-07-10T16:21:05.197Z",
     "version_history": [
+      {
+        "version": "1.342.1670",
+        "lastUpdated": "2025-07-10T16:21:05.197Z"
+      },
       {
         "version": "1.342.0",
         "lastUpdated": "2025-07-10T10:04:29.99Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.338.1650",
         "lastUpdated": "2025-06-30T16:21:09.257Z"
-      },
-      {
-        "version": "1.338.1649",
-        "lastUpdated": "2025-06-30T01:48:04.837Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.342.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.342.1670/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025070903",
-    "last_updated": "2025-07-09T08:23:16.05Z",
+    "latest_version": "0.30.2025071002",
+    "last_updated": "2025-07-10T17:47:14.923Z",
     "version_history": [
+      {
+        "version": "0.30.2025071002",
+        "lastUpdated": "2025-07-10T17:47:14.923Z"
+      },
       {
         "version": "0.29.2025070903",
         "lastUpdated": "2025-07-09T08:23:16.05Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025062301",
         "lastUpdated": "2025-06-23T04:33:17.04Z"
-      },
-      {
-        "version": "0.29.2025062002",
-        "lastUpdated": "2025-06-20T15:39:57.037Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070903/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025071002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5854,9 +5854,17 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025070816",
-    "last_updated": "2025-07-08T16:39:19.327Z",
+    "latest_version": "0.115.2025071016",
+    "last_updated": "2025-07-10T16:24:30.227Z",
     "version_history": [
+      {
+        "version": "0.115.2025071016",
+        "lastUpdated": "2025-07-10T16:24:30.227Z"
+      },
+      {
+        "version": "0.114.0",
+        "lastUpdated": "2025-07-10T17:39:47.8Z"
+      },
       {
         "version": "0.113.2025070816",
         "lastUpdated": "2025-07-08T16:39:19.327Z"
@@ -5928,19 +5936,11 @@
       {
         "version": "0.113.2025062404",
         "lastUpdated": "2025-06-24T04:22:38.603Z"
-      },
-      {
-        "version": "0.113.2025062314",
-        "lastUpdated": "2025-06-23T14:22:26.277Z"
-      },
-      {
-        "version": "0.113.2025062304",
-        "lastUpdated": "2025-06-23T04:26:01.723Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070816/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025071016/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -10647,9 +10647,17 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.421.0",
-    "last_updated": "2025-07-08T14:55:23.72Z",
+    "latest_version": "0.423.0",
+    "last_updated": "2025-07-10T17:53:33.61Z",
     "version_history": [
+      {
+        "version": "0.423.0",
+        "lastUpdated": "2025-07-10T17:53:33.61Z"
+      },
+      {
+        "version": "0.422.0",
+        "lastUpdated": "2025-07-10T18:12:17.88Z"
+      },
       {
         "version": "0.421.0",
         "lastUpdated": "2025-07-08T14:55:23.72Z"
@@ -10721,19 +10729,11 @@
       {
         "version": "0.404.0",
         "lastUpdated": "2025-03-10T09:31:04.303Z"
-      },
-      {
-        "version": "0.403.0",
-        "lastUpdated": "2025-03-07T20:47:33.637Z"
-      },
-      {
-        "version": "0.402.0",
-        "lastUpdated": "2025-03-05T10:57:15.873Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.421.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.423.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -15048,9 +15048,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.14.0",
-    "last_updated": "2025-07-08T21:09:34.753Z",
+    "latest_version": "0.15.0",
+    "last_updated": "2025-07-10T17:00:49.563Z",
     "version_history": [
+      {
+        "version": "0.15.0",
+        "lastUpdated": "2025-07-10T17:00:49.563Z"
+      },
       {
         "version": "0.14.0",
         "lastUpdated": "2025-07-08T21:09:34.753Z"
@@ -15126,15 +15130,11 @@
       {
         "version": "0.5.0",
         "lastUpdated": "2025-02-03T16:27:20.027Z"
-      },
-      {
-        "version": "0.4.2",
-        "lastUpdated": "2025-01-22T23:13:29.907Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.14.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.15.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
@@ -16595,9 +16595,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.26.0",
-    "last_updated": "2025-06-21T16:45:16.183Z",
+    "latest_version": "1.26.2",
+    "last_updated": "2025-07-10T14:13:29.81Z",
     "version_history": [
+      {
+        "version": "1.26.2",
+        "lastUpdated": "2025-07-10T14:13:29.81Z"
+      },
       {
         "version": "1.26.0",
         "lastUpdated": "2025-06-21T16:45:16.183Z"
@@ -16673,15 +16677,11 @@
       {
         "version": "1.17.0",
         "lastUpdated": "2025-03-22T11:38:26.88Z"
-      },
-      {
-        "version": "1.16.1",
-        "lastUpdated": "2025-03-21T10:25:18.957Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.26.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.26.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
