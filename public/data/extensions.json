@@ -772,9 +772,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.26.0",
-    "last_updated": "2025-07-01T12:18:02.11Z",
+    "latest_version": "2.26.6",
+    "last_updated": "2025-07-10T08:28:10.713Z",
     "version_history": [
+      {
+        "version": "2.26.6",
+        "lastUpdated": "2025-07-10T08:28:10.713Z"
+      },
       {
         "version": "2.26.0",
         "lastUpdated": "2025-07-01T12:18:02.11Z"
@@ -850,10 +854,6 @@
       {
         "version": "2.22.3",
         "lastUpdated": "2025-04-18T05:11:34.347Z"
-      },
-      {
-        "version": "2.22.1",
-        "lastUpdated": "2025-04-17T04:56:30.183Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -882,7 +882,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.26.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.26.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -1415,12 +1415,24 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.497.0",
-    "last_updated": "2025-07-07T17:29:08.15Z",
+    "latest_version": "0.499.0",
+    "last_updated": "2025-07-09T17:07:04.207Z",
     "version_history": [
+      {
+        "version": "0.499.0",
+        "lastUpdated": "2025-07-09T17:07:04.207Z"
+      },
+      {
+        "version": "0.498.0",
+        "lastUpdated": "2025-07-08T17:06:34.453Z"
+      },
       {
         "version": "0.497.0",
         "lastUpdated": "2025-07-07T17:29:08.15Z"
+      },
+      {
+        "version": "0.496.2",
+        "lastUpdated": "2025-07-08T22:59:48.177Z"
       },
       {
         "version": "0.496.1",
@@ -1485,23 +1497,11 @@
       {
         "version": "0.485.0",
         "lastUpdated": "2025-06-18T17:07:10.05Z"
-      },
-      {
-        "version": "0.484.0",
-        "lastUpdated": "2025-06-17T17:08:27.203Z"
-      },
-      {
-        "version": "0.483.0",
-        "lastUpdated": "2025-06-16T17:09:58.443Z"
-      },
-      {
-        "version": "0.482.1",
-        "lastUpdated": "2025-06-16T17:41:43.857Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.497.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.499.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.56",
-    "last_updated": "2025-07-04T04:00:01.02Z",
+    "latest_version": "1.1.59",
+    "last_updated": "2025-07-08T17:42:44.547Z",
     "version_history": [
+      {
+        "version": "1.1.59",
+        "lastUpdated": "2025-07-08T17:42:44.547Z"
+      },
       {
         "version": "1.1.56",
         "lastUpdated": "2025-07-04T04:00:01.02Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.34",
         "lastUpdated": "2025-05-10T04:02:46.877Z"
-      },
-      {
-        "version": "1.1.33",
-        "lastUpdated": "2025-05-06T21:17:16.85Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.56/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.59/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -3402,9 +3402,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17595",
-    "last_updated": "2025-07-03T14:35:48.52Z",
+    "latest_version": "1.59.17638",
+    "last_updated": "2025-07-08T20:25:33.183Z",
     "version_history": [
+      {
+        "version": "1.59.17638",
+        "lastUpdated": "2025-07-08T20:25:33.183Z"
+      },
       {
         "version": "1.59.17595",
         "lastUpdated": "2025-07-03T14:35:48.52Z"
@@ -3480,15 +3484,11 @@
       {
         "version": "1.57.17193",
         "lastUpdated": "2025-04-22T13:17:50.02Z"
-      },
-      {
-        "version": "1.57.17188",
-        "lastUpdated": "2025-04-21T17:17:15.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17595/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17638/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4159,9 +4159,21 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.315",
-    "last_updated": "2025-07-03T19:12:41.85Z",
+    "latest_version": "2025.7.905",
+    "last_updated": "2025-07-09T09:14:57.373Z",
     "version_history": [
+      {
+        "version": "2025.7.905",
+        "lastUpdated": "2025-07-09T09:14:57.373Z"
+      },
+      {
+        "version": "2025.7.814",
+        "lastUpdated": "2025-07-08T18:31:24.08Z"
+      },
+      {
+        "version": "2025.7.805",
+        "lastUpdated": "2025-07-08T09:14:56.12Z"
+      },
       {
         "version": "2025.7.315",
         "lastUpdated": "2025-07-03T19:12:41.85Z"
@@ -4229,23 +4241,11 @@
       {
         "version": "2025.6.1205",
         "lastUpdated": "2025-06-12T09:14:20.4Z"
-      },
-      {
-        "version": "2025.6.1105",
-        "lastUpdated": "2025-06-11T09:13:57.74Z"
-      },
-      {
-        "version": "2025.6.705",
-        "lastUpdated": "2025-06-07T09:13:50.04Z"
-      },
-      {
-        "version": "2025.6.605",
-        "lastUpdated": "2025-06-06T09:17:35.097Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.315/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.905/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5335,9 +5335,37 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.340.1663",
-    "last_updated": "2025-07-07T18:06:04.22Z",
+    "latest_version": "1.341.1669",
+    "last_updated": "2025-07-10T06:15:40.793Z",
     "version_history": [
+      {
+        "version": "1.341.1669",
+        "lastUpdated": "2025-07-10T06:15:40.793Z"
+      },
+      {
+        "version": "1.341.1668",
+        "lastUpdated": "2025-07-10T01:48:01.25Z"
+      },
+      {
+        "version": "1.341.1667",
+        "lastUpdated": "2025-07-09T16:18:57.963Z"
+      },
+      {
+        "version": "1.341.1666",
+        "lastUpdated": "2025-07-09T01:48:33.193Z"
+      },
+      {
+        "version": "1.341.1665",
+        "lastUpdated": "2025-07-08T16:20:57.2Z"
+      },
+      {
+        "version": "1.341.1664",
+        "lastUpdated": "2025-07-08T01:47:38.373Z"
+      },
+      {
+        "version": "1.341.0",
+        "lastUpdated": "2025-07-07T21:11:11.233Z"
+      },
       {
         "version": "1.340.1663",
         "lastUpdated": "2025-07-07T18:06:04.22Z"
@@ -5389,34 +5417,6 @@
       {
         "version": "1.338.1648",
         "lastUpdated": "2025-06-27T16:20:43.637Z"
-      },
-      {
-        "version": "1.338.1646",
-        "lastUpdated": "2025-06-26T16:20:10.903Z"
-      },
-      {
-        "version": "1.338.0",
-        "lastUpdated": "2025-06-26T05:05:36.827Z"
-      },
-      {
-        "version": "1.337.1645",
-        "lastUpdated": "2025-06-26T02:44:24.427Z"
-      },
-      {
-        "version": "1.337.1644",
-        "lastUpdated": "2025-06-26T01:47:46.387Z"
-      },
-      {
-        "version": "1.337.1643",
-        "lastUpdated": "2025-06-25T16:20:17.813Z"
-      },
-      {
-        "version": "1.337.1642",
-        "lastUpdated": "2025-06-25T01:49:09.507Z"
-      },
-      {
-        "version": "1.337.1641",
-        "lastUpdated": "2025-06-24T16:21:29.783Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,32 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.340.1663/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.341.1669/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.29.2025070702",
-    "last_updated": "2025-07-07T16:44:24.873Z",
+    "latest_version": "0.29.2025070903",
+    "last_updated": "2025-07-09T08:23:16.05Z",
     "version_history": [
+      {
+        "version": "0.29.2025070903",
+        "lastUpdated": "2025-07-09T08:23:16.05Z"
+      },
+      {
+        "version": "0.29.2025070803",
+        "lastUpdated": "2025-07-08T22:59:35.187Z"
+      },
+      {
+        "version": "0.29.2025070802",
+        "lastUpdated": "2025-07-08T17:06:26.94Z"
+      },
+      {
+        "version": "0.29.2025070703",
+        "lastUpdated": "2025-07-07T21:26:08.033Z"
+      },
       {
         "version": "0.29.2025070702",
         "lastUpdated": "2025-07-07T16:44:24.873Z"
@@ -5518,22 +5534,6 @@
       {
         "version": "0.29.2025062002",
         "lastUpdated": "2025-06-20T15:39:57.037Z"
-      },
-      {
-        "version": "0.29.2025062001",
-        "lastUpdated": "2025-06-20T04:28:17.26Z"
-      },
-      {
-        "version": "0.29.2025061901",
-        "lastUpdated": "2025-06-19T04:30:15.68Z"
-      },
-      {
-        "version": "0.29.2025061801",
-        "lastUpdated": "2025-06-18T04:29:05.877Z"
-      },
-      {
-        "version": "0.29.2025061701",
-        "lastUpdated": "2025-06-17T04:28:05.117Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070702/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.29.2025070903/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5854,9 +5854,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.113.2025070716",
-    "last_updated": "2025-07-07T16:24:33.35Z",
+    "latest_version": "0.113.2025070816",
+    "last_updated": "2025-07-08T16:39:19.327Z",
     "version_history": [
+      {
+        "version": "0.113.2025070816",
+        "lastUpdated": "2025-07-08T16:39:19.327Z"
+      },
       {
         "version": "0.113.2025070716",
         "lastUpdated": "2025-07-07T16:24:33.35Z"
@@ -5932,15 +5936,11 @@
       {
         "version": "0.113.2025062304",
         "lastUpdated": "2025-06-23T04:26:01.723Z"
-      },
-      {
-        "version": "0.113.2025062020",
-        "lastUpdated": "2025-06-20T20:16:01.703Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070716/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.113.2025070816/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8065,9 +8065,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.30",
-    "last_updated": "2025-07-07T15:33:18.31Z",
+    "latest_version": "1.2.31",
+    "last_updated": "2025-07-10T06:17:03.643Z",
     "version_history": [
+      {
+        "version": "1.2.31",
+        "lastUpdated": "2025-07-10T06:17:03.643Z"
+      },
       {
         "version": "1.2.30",
         "lastUpdated": "2025-07-07T15:33:18.31Z"
@@ -8143,10 +8147,6 @@
       {
         "version": "1.2.5",
         "lastUpdated": "2025-04-27T16:29:08.193Z"
-      },
-      {
-        "version": "1.2.4",
-        "lastUpdated": "2025-04-23T06:18:41.853Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8180,7 +8180,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.30/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.31/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -8807,9 +8807,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.102.2025070209",
-    "last_updated": "2025-07-02T09:17:26.363Z",
+    "latest_version": "1.102.2025070909",
+    "last_updated": "2025-07-09T09:17:39.637Z",
     "version_history": [
+      {
+        "version": "1.102.2025070909",
+        "lastUpdated": "2025-07-09T09:17:39.637Z"
+      },
       {
         "version": "1.102.2025070209",
         "lastUpdated": "2025-07-02T09:17:26.363Z"
@@ -8885,24 +8889,24 @@
       {
         "version": "1.98.2025030509",
         "lastUpdated": "2025-03-05T09:19:44.937Z"
-      },
-      {
-        "version": "1.98.2025022609",
-        "lastUpdated": "2025-02-26T09:34:30.973Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.102.2025070209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.102.2025070909/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.30.32",
-    "last_updated": "2025-07-02T01:37:39.337Z",
+    "latest_version": "1.30.35",
+    "last_updated": "2025-07-09T18:51:42.333Z",
     "version_history": [
+      {
+        "version": "1.30.35",
+        "lastUpdated": "2025-07-09T18:51:42.333Z"
+      },
       {
         "version": "1.30.32",
         "lastUpdated": "2025-07-02T01:37:39.337Z"
@@ -8978,15 +8982,11 @@
       {
         "version": "1.18.21",
         "lastUpdated": "2025-04-05T01:15:48.017Z"
-      },
-      {
-        "version": "1.18.16",
-        "lastUpdated": "2025-04-02T00:13:07.317Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.30.32/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.30.35/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -10022,6 +10022,10 @@
         "lastUpdated": "2025-06-18T10:57:10.82Z"
       },
       {
+        "version": "2025.8.1",
+        "lastUpdated": "2025-07-08T17:33:34.207Z"
+      },
+      {
         "version": "2025.8.0",
         "lastUpdated": "2025-06-16T16:18:10.197Z"
       },
@@ -10060,10 +10064,6 @@
       {
         "version": "2025.7.2025052102",
         "lastUpdated": "2025-05-21T10:47:58.007Z"
-      },
-      {
-        "version": "2025.7.2025052101",
-        "lastUpdated": "2025-05-21T04:36:51.39Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10362,6 +10362,10 @@
         "lastUpdated": "2025-06-13T09:49:36.133Z"
       },
       {
+        "version": "2025.6.0",
+        "lastUpdated": "2025-07-08T16:38:47.827Z"
+      },
+      {
         "version": "2025.5.2025060601",
         "lastUpdated": "2025-06-06T03:30:38.207Z"
       },
@@ -10412,10 +10416,6 @@
       {
         "version": "2025.5.2025052001",
         "lastUpdated": "2025-05-20T09:45:59.99Z"
-      },
-      {
-        "version": "2025.5.2025051901",
-        "lastUpdated": "2025-05-19T09:48:11.337Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
@@ -10424,12 +10424,236 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
+    "extension_name": "ms-toolsai.jupyter-keymap",
+    "display_name": "Jupyter Keymap",
+    "short_description": "Jupyter keymaps for notebooks",
+    "latest_version": "1.1.2",
+    "last_updated": "2023-06-05T17:53:31.993Z",
+    "version_history": [
+      {
+        "version": "1.1.2",
+        "lastUpdated": "2023-06-05T17:53:31.993Z"
+      },
+      {
+        "version": "1.1.1",
+        "lastUpdated": "2023-05-12T20:06:34.827Z"
+      },
+      {
+        "version": "1.1.0",
+        "lastUpdated": "2023-02-28T18:10:28.19Z"
+      },
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2021-08-20T20:16:52.027Z"
+      }
+    ],
+    "categories": ["Notebooks"],
+    "tags": ["keybindings", "notebook-keymap"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter-keymap/1.1.2/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap"
+  },
+  {
+    "extension_name": "ms-toolsai.jupyter-renderers",
+    "display_name": "Jupyter Notebook Renderers",
+    "short_description": "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)",
+    "latest_version": "1.3.2025062701",
+    "last_updated": "2025-06-27T07:16:12.467Z",
+    "version_history": [
+      {
+        "version": "1.3.2025062701",
+        "lastUpdated": "2025-06-27T07:16:12.467Z"
+      },
+      {
+        "version": "1.3.2025061301",
+        "lastUpdated": "2025-06-27T07:17:15.687Z"
+      },
+      {
+        "version": "1.3.0",
+        "lastUpdated": "2025-07-08T23:59:54.22Z"
+      },
+      {
+        "version": "1.1.2025012901",
+        "lastUpdated": "2025-01-29T00:57:06.337Z"
+      },
+      {
+        "version": "1.1.0",
+        "lastUpdated": "2025-02-05T00:18:47.973Z"
+      },
+      {
+        "version": "1.0.2025011401",
+        "lastUpdated": "2025-01-14T17:11:48.57Z"
+      },
+      {
+        "version": "1.0.2024102901",
+        "lastUpdated": "2024-10-29T19:18:54.917Z"
+      },
+      {
+        "version": "1.0.2024101602",
+        "lastUpdated": "2024-10-17T08:09:52.153Z"
+      },
+      {
+        "version": "1.0.21",
+        "lastUpdated": "2024-10-30T22:55:52.93Z"
+      },
+      {
+        "version": "1.0.20",
+        "lastUpdated": "2024-10-28T21:36:35.93Z"
+      },
+      {
+        "version": "1.0.19",
+        "lastUpdated": "2024-07-30T21:11:13.52Z"
+      },
+      {
+        "version": "1.0.18",
+        "lastUpdated": "2024-06-06T15:02:47.587Z"
+      },
+      {
+        "version": "1.0.17",
+        "lastUpdated": "2023-06-28T23:01:18.16Z"
+      },
+      {
+        "version": "1.0.15",
+        "lastUpdated": "2023-02-10T14:02:15.627Z"
+      },
+      {
+        "version": "1.0.14",
+        "lastUpdated": "2023-01-18T23:32:37.303Z"
+      },
+      {
+        "version": "1.0.13",
+        "lastUpdated": "2023-01-17T02:18:12.783Z"
+      },
+      {
+        "version": "1.0.12",
+        "lastUpdated": "2022-10-27T22:34:22.477Z"
+      },
+      {
+        "version": "1.0.11",
+        "lastUpdated": "2022-10-17T20:50:35.007Z"
+      },
+      {
+        "version": "1.0.10",
+        "lastUpdated": "2022-09-26T22:28:43.41Z"
+      },
+      {
+        "version": "1.0.9",
+        "lastUpdated": "2022-07-20T19:01:49.273Z"
+      }
+    ],
+    "categories": ["Data Science", "Machine Learning", "Visualization", "Notebooks"],
+    "tags": ["jupyter", "multi-root ready", "notebook", "notebookRenderer"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter-renderers/1.3.2025062701/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers"
+  },
+  {
+    "extension_name": "ms-toolsai.vscode-jupyter-cell-tags",
+    "display_name": "Jupyter Cell Tags",
+    "short_description": "Jupyter Cell Tags support for VS Code",
+    "latest_version": "0.1.9",
+    "last_updated": "2024-04-03T01:41:26.07Z",
+    "version_history": [
+      {
+        "version": "0.1.9",
+        "lastUpdated": "2024-04-03T01:41:26.07Z"
+      },
+      {
+        "version": "0.1.8",
+        "lastUpdated": "2023-03-17T15:01:53.453Z"
+      },
+      {
+        "version": "0.1.7",
+        "lastUpdated": "2023-03-16T16:59:11.81Z"
+      },
+      {
+        "version": "0.1.6",
+        "lastUpdated": "2022-10-05T17:42:51.28Z"
+      },
+      {
+        "version": "0.1.5",
+        "lastUpdated": "2022-09-28T22:26:43.28Z"
+      },
+      {
+        "version": "0.1.4",
+        "lastUpdated": "2022-09-27T18:08:09.427Z"
+      },
+      {
+        "version": "0.1.3",
+        "lastUpdated": "2022-09-22T21:42:01.343Z"
+      },
+      {
+        "version": "0.1.2",
+        "lastUpdated": "2022-09-22T20:31:57.163Z"
+      },
+      {
+        "version": "0.1.1",
+        "lastUpdated": "2022-09-22T00:28:14.94Z"
+      },
+      {
+        "version": "0.1.0",
+        "lastUpdated": "2022-09-21T16:30:45.373Z"
+      },
+      {
+        "version": "0.0.1",
+        "lastUpdated": "2022-09-21T15:14:09.19Z"
+      }
+    ],
+    "categories": ["Notebooks"],
+    "tags": [],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/vscode-jupyter-cell-tags/0.1.9/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags"
+  },
+  {
+    "extension_name": "ms-toolsai.vscode-jupyter-slideshow",
+    "display_name": "Jupyter Slide Show",
+    "short_description": "Jupyter Slide Show support for VS Code",
+    "latest_version": "0.1.6",
+    "last_updated": "2024-04-03T01:45:59.507Z",
+    "version_history": [
+      {
+        "version": "0.1.6",
+        "lastUpdated": "2024-04-03T01:45:59.507Z"
+      },
+      {
+        "version": "0.1.5",
+        "lastUpdated": "2022-09-28T22:27:00.353Z"
+      },
+      {
+        "version": "0.1.4",
+        "lastUpdated": "2022-09-27T18:10:54.76Z"
+      },
+      {
+        "version": "0.1.3",
+        "lastUpdated": "2022-09-22T21:42:01.45Z"
+      },
+      {
+        "version": "0.1.2",
+        "lastUpdated": "2022-09-22T20:31:44.39Z"
+      },
+      {
+        "version": "0.1.0",
+        "lastUpdated": "2022-09-22T00:28:10.487Z"
+      },
+      {
+        "version": "0.0.1",
+        "lastUpdated": "2022-09-21T15:13:42.467Z"
+      }
+    ],
+    "categories": ["Notebooks"],
+    "tags": [],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/vscode-jupyter-slideshow/0.1.6/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow"
+  },
+  {
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.420.0",
-    "last_updated": "2025-07-03T09:38:28.07Z",
+    "latest_version": "0.421.0",
+    "last_updated": "2025-07-08T14:55:23.72Z",
     "version_history": [
+      {
+        "version": "0.421.0",
+        "lastUpdated": "2025-07-08T14:55:23.72Z"
+      },
       {
         "version": "0.420.0",
         "lastUpdated": "2025-07-03T09:38:28.07Z"
@@ -10505,15 +10729,11 @@
       {
         "version": "0.402.0",
         "lastUpdated": "2025-03-05T10:57:15.873Z"
-      },
-      {
-        "version": "0.401.0",
-        "lastUpdated": "2025-03-05T18:29:45.6Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.420.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.421.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -10860,9 +11080,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.21.35",
-    "last_updated": "2025-07-01T04:26:23.243Z",
+    "latest_version": "1.21.36",
+    "last_updated": "2025-07-08T15:45:14.397Z",
     "version_history": [
+      {
+        "version": "1.21.36",
+        "lastUpdated": "2025-07-08T15:45:14.397Z"
+      },
       {
         "version": "1.21.35",
         "lastUpdated": "2025-07-01T04:26:23.243Z"
@@ -10938,15 +11162,11 @@
       {
         "version": "1.21.17",
         "lastUpdated": "2025-04-21T04:22:23.667Z"
-      },
-      {
-        "version": "1.21.16",
-        "lastUpdated": "2025-04-17T04:29:12.277Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.35/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.21.36/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -11604,9 +11824,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250706001",
-    "last_updated": "2025-07-06T03:01:18.62Z",
+    "latest_version": "0.13.250709001",
+    "last_updated": "2025-07-09T03:07:11.783Z",
     "version_history": [
+      {
+        "version": "0.13.250709001",
+        "lastUpdated": "2025-07-09T03:07:11.783Z"
+      },
       {
         "version": "0.13.250706001",
         "lastUpdated": "2025-07-06T03:01:18.62Z"
@@ -11682,24 +11906,32 @@
       {
         "version": "0.13.250612001",
         "lastUpdated": "2025-06-12T02:54:32.023Z"
-      },
-      {
-        "version": "0.13.250609001",
-        "lastUpdated": "2025-06-09T02:57:06.853Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250706001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250709001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250706",
-    "last_updated": "2025-07-07T00:16:43.84Z",
+    "latest_version": "5.9.20250709",
+    "last_updated": "2025-07-10T00:23:41.64Z",
     "version_history": [
+      {
+        "version": "5.9.20250709",
+        "lastUpdated": "2025-07-10T00:23:41.64Z"
+      },
+      {
+        "version": "5.9.20250708",
+        "lastUpdated": "2025-07-09T00:19:55.043Z"
+      },
+      {
+        "version": "5.9.20250707",
+        "lastUpdated": "2025-07-08T00:18:53.447Z"
+      },
       {
         "version": "5.9.20250706",
         "lastUpdated": "2025-07-07T00:16:43.84Z"
@@ -11767,23 +11999,11 @@
       {
         "version": "5.9.20250620",
         "lastUpdated": "2025-06-21T00:18:19.883Z"
-      },
-      {
-        "version": "5.9.20250619",
-        "lastUpdated": "2025-06-20T00:16:40.823Z"
-      },
-      {
-        "version": "5.9.20250618",
-        "lastUpdated": "2025-06-19T00:22:51.653Z"
-      },
-      {
-        "version": "5.9.20250617",
-        "lastUpdated": "2025-06-18T00:17:30.827Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250706/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -11883,9 +12103,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.16.0",
-    "last_updated": "2025-07-02T06:22:38.967Z",
+    "latest_version": "0.16.1",
+    "last_updated": "2025-07-09T06:19:25.917Z",
     "version_history": [
+      {
+        "version": "0.16.1",
+        "lastUpdated": "2025-07-09T06:19:25.917Z"
+      },
       {
         "version": "0.16.0",
         "lastUpdated": "2025-07-02T06:22:38.967Z"
@@ -11961,15 +12185,11 @@
       {
         "version": "0.10.9",
         "lastUpdated": "2025-04-01T06:55:58.613Z"
-      },
-      {
-        "version": "0.10.8",
-        "lastUpdated": "2025-03-27T09:35:59.413Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "LLM", "Machine Learning", "models", "studio", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.16.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -12984,9 +13204,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.13.1",
-    "last_updated": "2025-07-03T06:00:55.167Z",
+    "latest_version": "1.14.0",
+    "last_updated": "2025-07-10T07:23:18.837Z",
     "version_history": [
+      {
+        "version": "1.14.0",
+        "lastUpdated": "2025-07-10T07:23:18.837Z"
+      },
       {
         "version": "1.13.1",
         "lastUpdated": "2025-07-03T06:00:55.167Z"
@@ -13062,15 +13286,11 @@
       {
         "version": "1.0.2",
         "lastUpdated": "2024-05-21T11:39:48.703Z"
-      },
-      {
-        "version": "1.0.1",
-        "lastUpdated": "2024-04-16T12:33:59.177Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.13.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.14.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -13542,9 +13762,17 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025070308",
-    "last_updated": "2025-07-03T08:29:37.733Z",
+    "latest_version": "1.44.2025070813",
+    "last_updated": "2025-07-08T14:09:26.01Z",
     "version_history": [
+      {
+        "version": "1.44.2025070813",
+        "lastUpdated": "2025-07-08T14:09:26.01Z"
+      },
+      {
+        "version": "1.44.2025070808",
+        "lastUpdated": "2025-07-08T08:27:45.56Z"
+      },
       {
         "version": "1.44.2025070308",
         "lastUpdated": "2025-07-03T08:29:37.733Z"
@@ -13616,19 +13844,11 @@
       {
         "version": "1.43.1",
         "lastUpdated": "2025-07-01T13:26:03.163Z"
-      },
-      {
-        "version": "1.43.0",
-        "lastUpdated": "2025-06-26T12:51:32.323Z"
-      },
-      {
-        "version": "1.42.2025050908",
-        "lastUpdated": "2025-05-09T08:48:11.333Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025070308/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025070813/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -13855,9 +14075,33 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.22.6",
-    "last_updated": "2025-07-02T21:26:44.87Z",
+    "latest_version": "3.23.5",
+    "last_updated": "2025-07-09T23:46:45.92Z",
     "version_history": [
+      {
+        "version": "3.23.5",
+        "lastUpdated": "2025-07-09T23:46:45.92Z"
+      },
+      {
+        "version": "3.23.4",
+        "lastUpdated": "2025-07-09T22:10:17.647Z"
+      },
+      {
+        "version": "3.23.3",
+        "lastUpdated": "2025-07-09T14:27:02.667Z"
+      },
+      {
+        "version": "3.23.2",
+        "lastUpdated": "2025-07-09T14:04:15.193Z"
+      },
+      {
+        "version": "3.23.1",
+        "lastUpdated": "2025-07-09T12:22:15.297Z"
+      },
+      {
+        "version": "3.23.0",
+        "lastUpdated": "2025-07-09T04:23:36.67Z"
+      },
       {
         "version": "3.22.6",
         "lastUpdated": "2025-07-02T21:26:44.87Z"
@@ -13913,44 +14157,40 @@
       {
         "version": "3.20.3",
         "lastUpdated": "2025-06-14T03:46:51.923Z"
-      },
-      {
-        "version": "3.20.2",
-        "lastUpdated": "2025-06-13T19:24:22.933Z"
-      },
-      {
-        "version": "3.20.1",
-        "lastUpdated": "2025-06-13T05:56:08.403Z"
-      },
-      {
-        "version": "3.20.0",
-        "lastUpdated": "2025-06-12T22:26:02.673Z"
-      },
-      {
-        "version": "3.19.7",
-        "lastUpdated": "2025-06-11T17:50:26.583Z"
-      },
-      {
-        "version": "3.19.6",
-        "lastUpdated": "2025-06-10T05:37:57.59Z"
-      },
-      {
-        "version": "3.19.5",
-        "lastUpdated": "2025-06-06T06:48:06.287Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.22.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.23.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2526",
-    "last_updated": "2025-07-07T00:58:36.98Z",
+    "latest_version": "0.4.2534",
+    "last_updated": "2025-07-10T00:57:52.9Z",
     "version_history": [
+      {
+        "version": "0.4.2534",
+        "lastUpdated": "2025-07-10T00:57:52.9Z"
+      },
+      {
+        "version": "0.4.2532",
+        "lastUpdated": "2025-07-09T08:24:18.31Z"
+      },
+      {
+        "version": "0.4.2530",
+        "lastUpdated": "2025-07-09T00:59:28.94Z"
+      },
+      {
+        "version": "0.4.2529",
+        "lastUpdated": "2025-07-08T08:49:58.623Z"
+      },
+      {
+        "version": "0.4.2528",
+        "lastUpdated": "2025-07-08T00:57:15.417Z"
+      },
       {
         "version": "0.4.2526",
         "lastUpdated": "2025-07-07T00:58:36.98Z"
@@ -14010,31 +14250,11 @@
       {
         "version": "0.4.2508",
         "lastUpdated": "2025-06-23T00:59:06.407Z"
-      },
-      {
-        "version": "0.4.2507",
-        "lastUpdated": "2025-06-22T00:59:29.16Z"
-      },
-      {
-        "version": "0.4.2506",
-        "lastUpdated": "2025-06-21T00:56:08.587Z"
-      },
-      {
-        "version": "0.4.2505",
-        "lastUpdated": "2025-06-20T00:58:12.187Z"
-      },
-      {
-        "version": "0.4.2504",
-        "lastUpdated": "2025-06-19T06:44:09.103Z"
-      },
-      {
-        "version": "0.4.2503",
-        "lastUpdated": "2025-06-19T00:58:47.51Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2526/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2534/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14249,9 +14469,33 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.18.3",
-    "last_updated": "2025-07-03T22:21:42.753Z",
+    "latest_version": "3.18.10",
+    "last_updated": "2025-07-10T07:20:55.81Z",
     "version_history": [
+      {
+        "version": "3.18.10",
+        "lastUpdated": "2025-07-10T07:20:55.81Z"
+      },
+      {
+        "version": "3.18.9",
+        "lastUpdated": "2025-07-09T22:00:00.4Z"
+      },
+      {
+        "version": "3.18.7",
+        "lastUpdated": "2025-07-09T02:00:41.133Z"
+      },
+      {
+        "version": "3.18.6",
+        "lastUpdated": "2025-07-08T23:37:38.423Z"
+      },
+      {
+        "version": "3.18.5",
+        "lastUpdated": "2025-07-08T02:39:19.35Z"
+      },
+      {
+        "version": "3.18.4",
+        "lastUpdated": "2025-07-07T20:44:22.223Z"
+      },
       {
         "version": "3.18.3",
         "lastUpdated": "2025-07-03T22:21:42.753Z"
@@ -14307,35 +14551,11 @@
       {
         "version": "3.17.7",
         "lastUpdated": "2025-05-28T03:37:34.21Z"
-      },
-      {
-        "version": "3.17.6",
-        "lastUpdated": "2025-05-28T00:58:07.777Z"
-      },
-      {
-        "version": "3.17.5",
-        "lastUpdated": "2025-05-23T17:03:38.977Z"
-      },
-      {
-        "version": "3.17.4",
-        "lastUpdated": "2025-05-23T03:23:56.56Z"
-      },
-      {
-        "version": "3.17.3",
-        "lastUpdated": "2025-05-23T02:59:14.823Z"
-      },
-      {
-        "version": "3.17.2",
-        "lastUpdated": "2025-05-22T22:55:25.95Z"
-      },
-      {
-        "version": "3.17.1",
-        "lastUpdated": "2025-05-22T21:08:59.683Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14694,9 +14914,17 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.109.1751640716",
-    "last_updated": "2025-07-04T14:57:13.24Z",
+    "latest_version": "1.111.1752131950",
+    "last_updated": "2025-07-10T07:24:18.787Z",
     "version_history": [
+      {
+        "version": "1.111.1752131950",
+        "lastUpdated": "2025-07-10T07:24:18.787Z"
+      },
+      {
+        "version": "1.110.0",
+        "lastUpdated": "2025-07-09T18:49:02.713Z"
+      },
       {
         "version": "1.109.1751640716",
         "lastUpdated": "2025-07-04T14:57:13.24Z"
@@ -14768,14 +14996,6 @@
       {
         "version": "1.101.1749131443",
         "lastUpdated": "2025-06-05T13:55:17.157Z"
-      },
-      {
-        "version": "1.100.0",
-        "lastUpdated": "2025-06-05T02:00:14.517Z"
-      },
-      {
-        "version": "1.99.1748488107",
-        "lastUpdated": "2025-05-29T03:13:45.27Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -14821,16 +15041,20 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.109.1751640716/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.111.1752131950/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.13.0",
-    "last_updated": "2025-06-27T13:24:54.807Z",
+    "latest_version": "0.14.0",
+    "last_updated": "2025-07-08T21:09:34.753Z",
     "version_history": [
+      {
+        "version": "0.14.0",
+        "lastUpdated": "2025-07-08T21:09:34.753Z"
+      },
       {
         "version": "0.13.0",
         "lastUpdated": "2025-06-27T13:24:54.807Z"
@@ -14906,15 +15130,11 @@
       {
         "version": "0.4.2",
         "lastUpdated": "2025-01-22T23:13:29.907Z"
-      },
-      {
-        "version": "0.4.1",
-        "lastUpdated": "2025-01-21T03:22:47.597Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.13.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.14.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
@@ -15710,9 +15930,13 @@
     "extension_name": "timonwong.shellcheck",
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
-    "latest_version": "0.37.7",
-    "last_updated": "2025-02-10T16:58:09.587Z",
+    "latest_version": "0.38.0",
+    "last_updated": "2025-07-09T20:47:27.317Z",
     "version_history": [
+      {
+        "version": "0.38.0",
+        "lastUpdated": "2025-07-09T20:47:27.317Z"
+      },
       {
         "version": "0.37.7",
         "lastUpdated": "2025-02-10T16:58:09.587Z"
@@ -15788,15 +16012,11 @@
       {
         "version": "0.32.1",
         "lastUpdated": "2023-04-15T20:01:54.43Z"
-      },
-      {
-        "version": "0.32.0",
-        "lastUpdated": "2023-04-14T01:07:05.333Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
-    "tags": ["bash", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.37.7/vspackage",
+    "tags": ["bash", "bats", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
   {
@@ -16622,9 +16842,17 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "1.64.2025070500",
-    "last_updated": "2025-07-05T01:06:02.533Z",
+    "latest_version": "2.0.2025071000",
+    "last_updated": "2025-07-10T01:09:44.41Z",
     "version_history": [
+      {
+        "version": "2.0.2025071000",
+        "lastUpdated": "2025-07-10T01:09:44.41Z"
+      },
+      {
+        "version": "1.64.2025070800",
+        "lastUpdated": "2025-07-08T01:11:51.02Z"
+      },
       {
         "version": "1.64.2025070500",
         "lastUpdated": "2025-07-05T01:06:02.533Z"
@@ -16696,14 +16924,6 @@
       {
         "version": "1.63.2025052700",
         "lastUpdated": "2025-05-27T01:10:08.39Z"
-      },
-      {
-        "version": "1.63.2025052404",
-        "lastUpdated": "2025-05-24T05:17:45.68Z"
-      },
-      {
-        "version": "1.63.2025052200",
-        "lastUpdated": "2025-05-22T01:02:53.727Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16722,7 +16942,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/1.64.2025070500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025071000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -18412,9 +18632,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.456",
-    "last_updated": "2025-07-01T22:14:31.597Z",
+    "latest_version": "1.0.457",
+    "last_updated": "2025-07-09T06:29:34.16Z",
     "version_history": [
+      {
+        "version": "1.0.457",
+        "lastUpdated": "2025-07-09T06:29:34.16Z"
+      },
       {
         "version": "1.0.456",
         "lastUpdated": "2025-07-01T22:14:31.597Z"
@@ -18490,15 +18714,11 @@
       {
         "version": "1.0.438",
         "lastUpdated": "2025-05-14T09:43:23.313Z"
-      },
-      {
-        "version": "1.0.437",
-        "lastUpdated": "2025-05-14T08:56:29.05Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.456/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.457/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
