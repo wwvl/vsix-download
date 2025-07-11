@@ -9703,9 +9703,13 @@
     "extension_name": "ms-python.flake8",
     "display_name": "Flake8",
     "short_description": "Linting support for Python files using Flake8.",
-    "latest_version": "2025.3.11811013",
-    "last_updated": "2025-06-30T10:29:16.71Z",
+    "latest_version": "2025.3.11921009",
+    "last_updated": "2025-07-11T10:21:26.487Z",
     "version_history": [
+      {
+        "version": "2025.3.11921009",
+        "lastUpdated": "2025-07-11T10:21:26.487Z"
+      },
       {
         "version": "2025.3.11811013",
         "lastUpdated": "2025-06-30T10:29:16.71Z"
@@ -9781,15 +9785,11 @@
       {
         "version": "2023.11.13471008",
         "lastUpdated": "2023-12-13T10:17:19.443Z"
-      },
-      {
-        "version": "2023.11.13331010",
-        "lastUpdated": "2023-11-29T10:16:34.96Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["flake8", "ini", "linters", "linting", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.11811013/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.11921009/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.flake8"
   },
   {
@@ -10334,9 +10334,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.6.2025070201",
-    "last_updated": "2025-07-02T09:52:54.44Z",
+    "latest_version": "2025.7.2025071101",
+    "last_updated": "2025-07-11T09:42:48.74Z",
     "version_history": [
+      {
+        "version": "2025.7.2025071101",
+        "lastUpdated": "2025-07-11T09:42:48.74Z"
+      },
       {
         "version": "2025.6.2025070201",
         "lastUpdated": "2025-07-02T09:52:54.44Z"
@@ -10412,15 +10416,11 @@
       {
         "version": "2025.5.2025052002",
         "lastUpdated": "2025-05-20T22:49:00.877Z"
-      },
-      {
-        "version": "2025.5.2025052001",
-        "lastUpdated": "2025-05-20T09:45:59.99Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.6.2025070201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025071101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -13762,9 +13762,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025070813",
-    "last_updated": "2025-07-08T14:09:26.01Z",
+    "latest_version": "1.44.2025071108",
+    "last_updated": "2025-07-11T08:25:26.52Z",
     "version_history": [
+      {
+        "version": "1.44.2025071108",
+        "lastUpdated": "2025-07-11T08:25:26.52Z"
+      },
       {
         "version": "1.44.2025070813",
         "lastUpdated": "2025-07-08T14:09:26.01Z"
@@ -13840,15 +13844,11 @@
       {
         "version": "1.43.2025051608",
         "lastUpdated": "2025-05-16T08:45:06.08Z"
-      },
-      {
-        "version": "1.43.1",
-        "lastUpdated": "2025-07-01T13:26:03.163Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025070813/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025071108/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
