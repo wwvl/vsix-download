@@ -2043,9 +2043,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automating the process of writing meaningful log messages.",
-    "latest_version": "3.1.1",
-    "last_updated": "2025-07-02T10:11:02.887Z",
+    "latest_version": "3.2.0",
+    "last_updated": "2025-07-10T20:35:09.35Z",
     "version_history": [
+      {
+        "version": "3.2.0",
+        "lastUpdated": "2025-07-10T20:35:09.35Z"
+      },
       {
         "version": "3.1.1",
         "lastUpdated": "2025-07-02T10:11:02.887Z"
@@ -2121,15 +2125,11 @@
       {
         "version": "2.11.2",
         "lastUpdated": "2025-02-03T13:17:48.607Z"
-      },
-      {
-        "version": "2.11.1",
-        "lastUpdated": "2025-02-03T00:18:14.463Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "keybindings", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.1.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.59",
-    "last_updated": "2025-07-08T17:42:44.547Z",
+    "latest_version": "1.1.60",
+    "last_updated": "2025-07-11T00:10:11.21Z",
     "version_history": [
+      {
+        "version": "1.1.60",
+        "lastUpdated": "2025-07-11T00:10:11.21Z"
+      },
       {
         "version": "1.1.59",
         "lastUpdated": "2025-07-08T17:42:44.547Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.35",
         "lastUpdated": "2025-05-15T22:36:10.877Z"
-      },
-      {
-        "version": "1.1.34",
-        "lastUpdated": "2025-05-10T04:02:46.877Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.59/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.60/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -6150,9 +6150,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.39.0",
-    "last_updated": "2025-07-02T20:20:15.51Z",
+    "latest_version": "2.40.0",
+    "last_updated": "2025-07-11T00:07:19.863Z",
     "version_history": [
+      {
+        "version": "2.40.0",
+        "lastUpdated": "2025-07-11T00:07:19.863Z"
+      },
       {
         "version": "2.39.0",
         "lastUpdated": "2025-07-02T20:20:15.51Z"
@@ -6228,15 +6232,11 @@
       {
         "version": "2.27.1",
         "lastUpdated": "2025-02-20T20:52:00.97Z"
-      },
-      {
-        "version": "2.27.0",
-        "lastUpdated": "2025-02-20T06:17:00.403Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.39.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.40.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -9630,6 +9630,10 @@
         "lastUpdated": "2025-06-13T10:40:30.873Z"
       },
       {
+        "version": "2025.10.0",
+        "lastUpdated": "2025-07-10T22:37:39.08Z"
+      },
+      {
         "version": "2025.9.2025053001",
         "lastUpdated": "2025-05-30T10:41:17.723Z"
       },
@@ -9688,10 +9692,6 @@
       {
         "version": "2025.1.2025021301",
         "lastUpdated": "2025-02-13T10:40:10.467Z"
-      },
-      {
-        "version": "2025.1.2025021201",
-        "lastUpdated": "2025-02-12T10:39:21.293Z"
       }
     ],
     "categories": ["Debuggers"],
@@ -9982,9 +9982,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.9.2025070301",
-    "last_updated": "2025-07-03T10:48:56.47Z",
+    "latest_version": "2025.10.0",
+    "last_updated": "2025-07-10T23:38:18.19Z",
     "version_history": [
+      {
+        "version": "2025.10.0",
+        "lastUpdated": "2025-07-10T23:38:18.19Z"
+      },
       {
         "version": "2025.9.2025070301",
         "lastUpdated": "2025-07-03T10:48:56.47Z"
@@ -10060,10 +10064,6 @@
       {
         "version": "2025.7.2025052301",
         "lastUpdated": "2025-05-23T10:48:15.56Z"
-      },
-      {
-        "version": "2025.7.2025052102",
-        "lastUpdated": "2025-05-21T10:47:58.007Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10086,16 +10086,20 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.9.2025070301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.6.101",
-    "last_updated": "2025-07-03T00:51:42.333Z",
+    "latest_version": "2025.6.102",
+    "last_updated": "2025-07-10T22:36:09.247Z",
     "version_history": [
+      {
+        "version": "2025.6.102",
+        "lastUpdated": "2025-07-10T22:36:09.247Z"
+      },
       {
         "version": "2025.6.101",
         "lastUpdated": "2025-07-03T00:51:42.333Z"
@@ -10171,15 +10175,11 @@
       {
         "version": "2025.3.102",
         "lastUpdated": "2025-03-13T20:47:38.597Z"
-      },
-      {
-        "version": "2025.3.101",
-        "lastUpdated": "2025-03-12T23:29:44.43Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.6.101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.6.102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -11917,9 +11917,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250709",
-    "last_updated": "2025-07-10T00:23:41.64Z",
+    "latest_version": "5.9.20250710",
+    "last_updated": "2025-07-11T00:23:29.89Z",
     "version_history": [
+      {
+        "version": "5.9.20250710",
+        "lastUpdated": "2025-07-11T00:23:29.89Z"
+      },
       {
         "version": "5.9.20250709",
         "lastUpdated": "2025-07-10T00:23:41.64Z"
@@ -11995,15 +11999,11 @@
       {
         "version": "5.9.20250621",
         "lastUpdated": "2025-06-22T00:19:52.923Z"
-      },
-      {
-        "version": "5.9.20250620",
-        "lastUpdated": "2025-06-21T00:18:19.883Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250709/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250710/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14168,9 +14168,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2534",
-    "last_updated": "2025-07-10T00:57:52.9Z",
+    "latest_version": "0.4.2535",
+    "last_updated": "2025-07-11T01:01:37.217Z",
     "version_history": [
+      {
+        "version": "0.4.2535",
+        "lastUpdated": "2025-07-11T01:01:37.217Z"
+      },
       {
         "version": "0.4.2534",
         "lastUpdated": "2025-07-10T00:57:52.9Z"
@@ -14246,15 +14250,11 @@
       {
         "version": "0.4.2510",
         "lastUpdated": "2025-06-23T13:14:36.427Z"
-      },
-      {
-        "version": "0.4.2508",
-        "lastUpdated": "2025-06-23T00:59:06.407Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2534/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2535/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14469,9 +14469,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.18.10",
-    "last_updated": "2025-07-10T07:20:55.81Z",
+    "latest_version": "3.18.11",
+    "last_updated": "2025-07-10T21:10:35.387Z",
     "version_history": [
+      {
+        "version": "3.18.11",
+        "lastUpdated": "2025-07-10T21:10:35.387Z"
+      },
       {
         "version": "3.18.10",
         "lastUpdated": "2025-07-10T07:20:55.81Z"
@@ -14547,15 +14551,11 @@
       {
         "version": "3.17.8",
         "lastUpdated": "2025-05-29T06:19:09.06Z"
-      },
-      {
-        "version": "3.17.7",
-        "lastUpdated": "2025-05-28T03:37:34.21Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16595,9 +16595,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.26.2",
-    "last_updated": "2025-07-10T14:13:29.81Z",
+    "latest_version": "1.26.3",
+    "last_updated": "2025-07-10T18:51:13.257Z",
     "version_history": [
+      {
+        "version": "1.26.3",
+        "lastUpdated": "2025-07-10T18:51:13.257Z"
+      },
       {
         "version": "1.26.2",
         "lastUpdated": "2025-07-10T14:13:29.81Z"
@@ -16673,15 +16677,11 @@
       {
         "version": "1.17.1",
         "lastUpdated": "2025-04-28T16:03:34.547Z"
-      },
-      {
-        "version": "1.17.0",
-        "lastUpdated": "2025-03-22T11:38:26.88Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.26.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.26.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
@@ -18632,9 +18632,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.457",
-    "last_updated": "2025-07-09T06:29:34.16Z",
+    "latest_version": "1.0.458",
+    "last_updated": "2025-07-10T22:38:53.313Z",
     "version_history": [
+      {
+        "version": "1.0.458",
+        "lastUpdated": "2025-07-10T22:38:53.313Z"
+      },
       {
         "version": "1.0.457",
         "lastUpdated": "2025-07-09T06:29:34.16Z"
@@ -18710,15 +18714,11 @@
       {
         "version": "1.0.439",
         "lastUpdated": "2025-05-15T03:25:17.793Z"
-      },
-      {
-        "version": "1.0.438",
-        "lastUpdated": "2025-05-14T09:43:23.313Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.457/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.458/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
