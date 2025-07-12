@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.1005",
-    "last_updated": "2025-07-10T09:15:16.93Z",
+    "latest_version": "2025.7.1205",
+    "last_updated": "2025-07-12T09:12:57.51Z",
     "version_history": [
+      {
+        "version": "2025.7.1205",
+        "lastUpdated": "2025-07-12T09:12:57.51Z"
+      },
       {
         "version": "2025.7.1005",
         "lastUpdated": "2025-07-10T09:15:16.93Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.6.1405",
         "lastUpdated": "2025-06-14T09:12:44.26Z"
-      },
-      {
-        "version": "2025.6.1219",
-        "lastUpdated": "2025-06-13T00:06:04.913Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.1005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.1205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8065,9 +8065,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.31",
-    "last_updated": "2025-07-10T06:17:03.643Z",
+    "latest_version": "1.2.32",
+    "last_updated": "2025-07-12T11:01:25.487Z",
     "version_history": [
+      {
+        "version": "1.2.32",
+        "lastUpdated": "2025-07-12T11:01:25.487Z"
+      },
       {
         "version": "1.2.31",
         "lastUpdated": "2025-07-10T06:17:03.643Z"
@@ -8143,10 +8147,6 @@
       {
         "version": "1.2.7",
         "lastUpdated": "2025-05-10T05:20:39.113Z"
-      },
-      {
-        "version": "1.2.5",
-        "lastUpdated": "2025-04-27T16:29:08.193Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8180,7 +8180,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.31/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.32/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -14469,9 +14469,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.18.12",
-    "last_updated": "2025-07-11T03:09:08.71Z",
+    "latest_version": "3.18.14",
+    "last_updated": "2025-07-12T10:00:41.83Z",
     "version_history": [
+      {
+        "version": "3.18.14",
+        "lastUpdated": "2025-07-12T10:00:41.83Z"
+      },
+      {
+        "version": "3.18.13",
+        "lastUpdated": "2025-07-12T09:25:41.82Z"
+      },
       {
         "version": "3.18.12",
         "lastUpdated": "2025-07-11T03:09:08.71Z"
@@ -14543,19 +14551,11 @@
       {
         "version": "3.17.11",
         "lastUpdated": "2025-06-05T19:08:10.66Z"
-      },
-      {
-        "version": "3.17.10",
-        "lastUpdated": "2025-06-05T04:57:35.013Z"
-      },
-      {
-        "version": "3.17.9",
-        "lastUpdated": "2025-06-03T03:04:46.673Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.18.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
