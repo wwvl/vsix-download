@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.501.0",
-    "last_updated": "2025-07-11T17:07:14.047Z",
+    "latest_version": "0.502.0",
+    "last_updated": "2025-07-11T18:29:58.197Z",
     "version_history": [
+      {
+        "version": "0.502.0",
+        "lastUpdated": "2025-07-11T18:29:58.197Z"
+      },
       {
         "version": "0.501.0",
         "lastUpdated": "2025-07-11T17:07:14.047Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.487.1",
         "lastUpdated": "2025-06-23T17:43:08.863Z"
-      },
-      {
-        "version": "0.487.0",
-        "lastUpdated": "2025-06-20T17:06:11.047Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.501.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.502.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -11266,9 +11266,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.7.217",
-    "last_updated": "2025-07-03T00:24:09.423Z",
+    "latest_version": "2025.7.1117",
+    "last_updated": "2025-07-12T00:23:27Z",
     "version_history": [
+      {
+        "version": "2025.7.1117",
+        "lastUpdated": "2025-07-12T00:23:27Z"
+      },
       {
         "version": "2025.7.217",
         "lastUpdated": "2025-07-03T00:24:09.423Z"
@@ -11344,15 +11348,11 @@
       {
         "version": "2024.12.1917",
         "lastUpdated": "2024-12-20T01:14:37.44Z"
-      },
-      {
-        "version": "2024.12.1817",
-        "lastUpdated": "2024-12-19T01:15:12.283Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssemblyTextFormat"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.217/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.1117/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11917,9 +11917,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250710",
-    "last_updated": "2025-07-11T00:23:29.89Z",
+    "latest_version": "5.9.20250711",
+    "last_updated": "2025-07-12T00:22:59.16Z",
     "version_history": [
+      {
+        "version": "5.9.20250711",
+        "lastUpdated": "2025-07-12T00:22:59.16Z"
+      },
       {
         "version": "5.9.20250710",
         "lastUpdated": "2025-07-11T00:23:29.89Z"
@@ -11995,15 +11999,11 @@
       {
         "version": "5.9.20250622",
         "lastUpdated": "2025-06-23T00:20:43.793Z"
-      },
-      {
-        "version": "5.9.20250621",
-        "lastUpdated": "2025-06-22T00:19:52.923Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250710/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250711/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14168,9 +14168,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2535",
-    "last_updated": "2025-07-11T01:01:37.217Z",
+    "latest_version": "0.4.2536",
+    "last_updated": "2025-07-12T01:00:00.733Z",
     "version_history": [
+      {
+        "version": "0.4.2536",
+        "lastUpdated": "2025-07-12T01:00:00.733Z"
+      },
       {
         "version": "0.4.2535",
         "lastUpdated": "2025-07-11T01:01:37.217Z"
@@ -14246,15 +14250,11 @@
       {
         "version": "0.4.2511",
         "lastUpdated": "2025-06-24T01:00:12.32Z"
-      },
-      {
-        "version": "0.4.2510",
-        "lastUpdated": "2025-06-23T13:14:36.427Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2535/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2536/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
