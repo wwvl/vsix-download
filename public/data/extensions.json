@@ -10334,9 +10334,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.7.2025071101",
-    "last_updated": "2025-07-11T09:42:48.74Z",
+    "latest_version": "2025.7.2025071401",
+    "last_updated": "2025-07-14T09:42:21.6Z",
     "version_history": [
+      {
+        "version": "2025.7.2025071401",
+        "lastUpdated": "2025-07-14T09:42:21.6Z"
+      },
       {
         "version": "2025.7.2025071101",
         "lastUpdated": "2025-07-11T09:42:48.74Z"
@@ -10412,15 +10416,11 @@
       {
         "version": "2025.5.2025052102",
         "lastUpdated": "2025-05-21T04:31:16.69Z"
-      },
-      {
-        "version": "2025.5.2025052002",
-        "lastUpdated": "2025-05-20T22:49:00.877Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025071101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025071401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -10647,9 +10647,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.423.0",
-    "last_updated": "2025-07-10T17:53:33.61Z",
+    "latest_version": "0.424.0",
+    "last_updated": "2025-07-14T09:45:04.583Z",
     "version_history": [
+      {
+        "version": "0.424.0",
+        "lastUpdated": "2025-07-14T09:45:04.583Z"
+      },
       {
         "version": "0.423.0",
         "lastUpdated": "2025-07-10T17:53:33.61Z"
@@ -10725,15 +10729,11 @@
       {
         "version": "0.405.0",
         "lastUpdated": "2025-03-11T17:28:01.647Z"
-      },
-      {
-        "version": "0.404.0",
-        "lastUpdated": "2025-03-10T09:31:04.303Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.423.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.424.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
