@@ -1415,9 +1415,21 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.502.0",
-    "last_updated": "2025-07-11T18:29:58.197Z",
+    "latest_version": "0.504.0",
+    "last_updated": "2025-07-14T18:26:41.937Z",
     "version_history": [
+      {
+        "version": "0.504.0",
+        "lastUpdated": "2025-07-14T18:26:41.937Z"
+      },
+      {
+        "version": "0.503.0",
+        "lastUpdated": "2025-07-14T17:09:13.14Z"
+      },
+      {
+        "version": "0.502.1",
+        "lastUpdated": "2025-07-14T17:42:38.19Z"
+      },
       {
         "version": "0.502.0",
         "lastUpdated": "2025-07-11T18:29:58.197Z"
@@ -1485,23 +1497,11 @@
       {
         "version": "0.490.0",
         "lastUpdated": "2025-06-25T17:08:10.48Z"
-      },
-      {
-        "version": "0.489.0",
-        "lastUpdated": "2025-06-24T17:08:20.28Z"
-      },
-      {
-        "version": "0.488.0",
-        "lastUpdated": "2025-06-23T17:08:24.983Z"
-      },
-      {
-        "version": "0.487.1",
-        "lastUpdated": "2025-06-23T17:43:08.863Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.502.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.504.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.343.1674",
-    "last_updated": "2025-07-14T01:46:52.84Z",
+    "latest_version": "1.343.1675",
+    "last_updated": "2025-07-14T16:20:58.607Z",
     "version_history": [
+      {
+        "version": "1.343.1675",
+        "lastUpdated": "2025-07-14T16:20:58.607Z"
+      },
       {
         "version": "1.343.1674",
         "lastUpdated": "2025-07-14T01:46:52.84Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.338.1653",
         "lastUpdated": "2025-07-02T01:47:38.587Z"
-      },
-      {
-        "version": "1.338.1652",
-        "lastUpdated": "2025-07-01T16:21:48.44Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.343.1674/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.343.1675/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10659,6 +10659,10 @@
         "lastUpdated": "2025-07-10T17:53:33.61Z"
       },
       {
+        "version": "0.422.1",
+        "lastUpdated": "2025-07-14T13:35:38.273Z"
+      },
+      {
         "version": "0.422.0",
         "lastUpdated": "2025-07-10T18:12:17.88Z"
       },
@@ -10725,10 +10729,6 @@
       {
         "version": "0.406.0",
         "lastUpdated": "2025-03-17T10:42:58.073Z"
-      },
-      {
-        "version": "0.405.0",
-        "lastUpdated": "2025-03-11T17:28:01.647Z"
       }
     ],
     "categories": ["Other"],
@@ -15930,9 +15930,13 @@
     "extension_name": "timonwong.shellcheck",
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
-    "latest_version": "0.38.0",
-    "last_updated": "2025-07-09T20:47:27.317Z",
+    "latest_version": "0.38.1",
+    "last_updated": "2025-07-14T16:53:53.123Z",
     "version_history": [
+      {
+        "version": "0.38.1",
+        "lastUpdated": "2025-07-14T16:53:53.123Z"
+      },
       {
         "version": "0.38.0",
         "lastUpdated": "2025-07-09T20:47:27.317Z"
@@ -16008,15 +16012,11 @@
       {
         "version": "0.32.2",
         "lastUpdated": "2023-04-17T22:57:52.877Z"
-      },
-      {
-        "version": "0.32.1",
-        "lastUpdated": "2023-04-15T20:01:54.43Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["bash", "bats", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
   {
