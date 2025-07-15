@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.504.0",
-    "last_updated": "2025-07-14T18:26:41.937Z",
+    "latest_version": "0.505.0",
+    "last_updated": "2025-07-15T17:08:32.73Z",
     "version_history": [
+      {
+        "version": "0.505.0",
+        "lastUpdated": "2025-07-15T17:08:32.73Z"
+      },
       {
         "version": "0.504.0",
         "lastUpdated": "2025-07-14T18:26:41.937Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.491.0",
         "lastUpdated": "2025-06-26T17:07:46.47Z"
-      },
-      {
-        "version": "0.490.0",
-        "lastUpdated": "2025-06-25T17:08:10.48Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.504.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.505.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.62",
-    "last_updated": "2025-07-13T18:30:23.317Z",
+    "latest_version": "1.1.63",
+    "last_updated": "2025-07-15T15:58:43.65Z",
     "version_history": [
+      {
+        "version": "1.1.63",
+        "lastUpdated": "2025-07-15T15:58:43.65Z"
+      },
       {
         "version": "1.1.62",
         "lastUpdated": "2025-07-13T18:30:23.317Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.39",
         "lastUpdated": "2025-05-23T06:00:50.52Z"
-      },
-      {
-        "version": "1.1.37",
-        "lastUpdated": "2025-05-20T18:27:38.817Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.62/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.63/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -2844,9 +2844,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.115.20250702",
-    "last_updated": "2025-07-02T18:19:14.133Z",
+    "latest_version": "3.115.20250715",
+    "last_updated": "2025-07-15T14:31:27.137Z",
     "version_history": [
+      {
+        "version": "3.115.20250715",
+        "lastUpdated": "2025-07-15T14:31:27.137Z"
+      },
       {
         "version": "3.115.20250702",
         "lastUpdated": "2025-07-02T18:19:14.133Z"
@@ -2922,15 +2926,11 @@
       {
         "version": "3.108.1",
         "lastUpdated": "2025-04-03T09:37:05.56Z"
-      },
-      {
-        "version": "3.108.0",
-        "lastUpdated": "2025-04-01T09:31:36.74Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250702/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250715/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -4894,9 +4894,13 @@
     "extension_name": "foxundermoon.shell-format",
     "display_name": "shell-format",
     "short_description": "A formatter for shell scripts, Dockerfile, gitignore, dotenv, /etc/hosts, jvmoptions, and other file types",
-    "latest_version": "7.2.5",
-    "last_updated": "2023-02-21T09:01:02.063Z",
+    "latest_version": "7.2.8",
+    "last_updated": "2025-07-15T13:48:32.69Z",
     "version_history": [
+      {
+        "version": "7.2.8",
+        "lastUpdated": "2025-07-15T13:48:32.69Z"
+      },
       {
         "version": "7.2.5",
         "lastUpdated": "2023-02-21T09:01:02.063Z"
@@ -4972,10 +4976,6 @@
       {
         "version": "4.0.11",
         "lastUpdated": "2019-05-05T11:25:54.633Z"
-      },
-      {
-        "version": "4.0.10",
-        "lastUpdated": "2019-04-30T07:50:36.537Z"
       }
     ],
     "categories": ["Formatters"],
@@ -5004,7 +5004,7 @@
       "vmoptions",
       "zshrc"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/foxundermoon/vsextensions/shell-format/7.2.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/foxundermoon/vsextensions/shell-format/7.2.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format"
   },
   {
@@ -5335,9 +5335,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.343.1676",
-    "last_updated": "2025-07-15T01:47:49.133Z",
+    "latest_version": "1.344.0",
+    "last_updated": "2025-07-15T18:05:35.573Z",
     "version_history": [
+      {
+        "version": "1.344.0",
+        "lastUpdated": "2025-07-15T18:05:35.573Z"
+      },
+      {
+        "version": "1.343.1677",
+        "lastUpdated": "2025-07-15T15:47:01.52Z"
+      },
       {
         "version": "1.343.1676",
         "lastUpdated": "2025-07-15T01:47:49.133Z"
@@ -5409,14 +5417,6 @@
       {
         "version": "1.339.1658",
         "lastUpdated": "2025-07-04T01:48:09.407Z"
-      },
-      {
-        "version": "1.339.1656",
-        "lastUpdated": "2025-07-03T01:47:09.183Z"
-      },
-      {
-        "version": "1.339.1655",
-        "lastUpdated": "2025-07-02T16:21:35.537Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.343.1676/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.344.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10744,9 +10744,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.121.2025063015",
-    "last_updated": "2025-06-30T15:26:24.637Z",
+    "latest_version": "0.121.2025071515",
+    "last_updated": "2025-07-15T15:20:57.807Z",
     "version_history": [
+      {
+        "version": "0.121.2025071515",
+        "lastUpdated": "2025-07-15T15:20:57.807Z"
+      },
       {
         "version": "0.121.2025063015",
         "lastUpdated": "2025-06-30T15:26:24.637Z"
@@ -10822,15 +10826,11 @@
       {
         "version": "0.118.2025022419",
         "lastUpdated": "2025-02-24T19:58:54.447Z"
-      },
-      {
-        "version": "0.118.2025021215",
-        "lastUpdated": "2025-02-12T15:23:54.61Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025063015/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025071515/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -13301,9 +13301,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.11.1",
-    "last_updated": "2025-07-03T14:59:34.887Z",
+    "latest_version": "6.12.0",
+    "last_updated": "2025-07-15T16:09:59.063Z",
     "version_history": [
+      {
+        "version": "6.12.0",
+        "lastUpdated": "2025-07-15T16:09:59.063Z"
+      },
       {
         "version": "6.11.1",
         "lastUpdated": "2025-07-03T14:59:34.887Z"
@@ -13379,15 +13383,11 @@
       {
         "version": "6.2.0",
         "lastUpdated": "2025-01-08T12:49:33.02Z"
-      },
-      {
-        "version": "6.1.0",
-        "lastUpdated": "2024-12-17T18:16:27.727Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.11.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
