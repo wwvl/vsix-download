@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.1505",
-    "last_updated": "2025-07-15T09:18:02.067Z",
+    "latest_version": "2025.7.1605",
+    "last_updated": "2025-07-16T09:15:48.587Z",
     "version_history": [
+      {
+        "version": "2025.7.1605",
+        "lastUpdated": "2025-07-16T09:15:48.587Z"
+      },
       {
         "version": "2025.7.1505",
         "lastUpdated": "2025-07-15T09:18:02.067Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.6.1805",
         "lastUpdated": "2025-06-18T09:14:11.27Z"
-      },
-      {
-        "version": "2025.6.1714",
-        "lastUpdated": "2025-06-17T18:25:57.073Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.1505/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.1605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8811,9 +8811,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.102.2025070909",
-    "last_updated": "2025-07-09T09:17:39.637Z",
+    "latest_version": "1.102.2025071609",
+    "last_updated": "2025-07-16T09:21:04.903Z",
     "version_history": [
+      {
+        "version": "1.102.2025071609",
+        "lastUpdated": "2025-07-16T09:21:04.903Z"
+      },
       {
         "version": "1.102.2025070909",
         "lastUpdated": "2025-07-09T09:17:39.637Z"
@@ -8889,15 +8893,11 @@
       {
         "version": "1.98.2025031209",
         "lastUpdated": "2025-03-12T09:24:17.947Z"
-      },
-      {
-        "version": "1.98.2025030509",
-        "lastUpdated": "2025-03-05T09:19:44.937Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.102.2025070909/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.102.2025071609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -10338,9 +10338,17 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.7.2025071501",
-    "last_updated": "2025-07-15T09:49:54.713Z",
+    "latest_version": "2025.7.2025071602",
+    "last_updated": "2025-07-16T09:56:09.47Z",
     "version_history": [
+      {
+        "version": "2025.7.2025071602",
+        "lastUpdated": "2025-07-16T09:56:09.47Z"
+      },
+      {
+        "version": "2025.7.2025071601",
+        "lastUpdated": "2025-07-16T07:52:38.873Z"
+      },
       {
         "version": "2025.7.2025071501",
         "lastUpdated": "2025-07-15T09:49:54.713Z"
@@ -10412,19 +10420,11 @@
       {
         "version": "2025.5.2025052701",
         "lastUpdated": "2025-05-27T09:49:00.033Z"
-      },
-      {
-        "version": "2025.5.2025052301",
-        "lastUpdated": "2025-05-23T09:51:01.957Z"
-      },
-      {
-        "version": "2025.5.2025052103",
-        "lastUpdated": "2025-05-21T09:55:07.853Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025071501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025071602/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
