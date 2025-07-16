@@ -5452,9 +5452,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.30.2025071501",
-    "last_updated": "2025-07-15T04:26:25.753Z",
+    "latest_version": "0.30.2025071502",
+    "last_updated": "2025-07-15T22:21:25.24Z",
     "version_history": [
+      {
+        "version": "0.30.2025071502",
+        "lastUpdated": "2025-07-15T22:21:25.24Z"
+      },
       {
         "version": "0.30.2025071501",
         "lastUpdated": "2025-07-15T04:26:25.753Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025062701",
         "lastUpdated": "2025-06-27T04:30:29.493Z"
-      },
-      {
-        "version": "0.29.2025062601",
-        "lastUpdated": "2025-06-26T04:29:18.6Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025071501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025071502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11921,9 +11921,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250714",
-    "last_updated": "2025-07-15T00:21:13.693Z",
+    "latest_version": "5.9.20250715",
+    "last_updated": "2025-07-16T00:18:08.087Z",
     "version_history": [
+      {
+        "version": "5.9.20250715",
+        "lastUpdated": "2025-07-16T00:18:08.087Z"
+      },
       {
         "version": "5.9.20250714",
         "lastUpdated": "2025-07-15T00:21:13.693Z"
@@ -11999,15 +12003,11 @@
       {
         "version": "5.9.20250626",
         "lastUpdated": "2025-06-27T00:18:49.41Z"
-      },
-      {
-        "version": "5.9.20250625",
-        "lastUpdated": "2025-06-26T00:21:36.483Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250714/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250715/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14172,9 +14172,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2540",
-    "last_updated": "2025-07-15T00:59:06.14Z",
+    "latest_version": "0.4.2541",
+    "last_updated": "2025-07-16T00:57:46.127Z",
     "version_history": [
+      {
+        "version": "0.4.2541",
+        "lastUpdated": "2025-07-16T00:57:46.127Z"
+      },
       {
         "version": "0.4.2540",
         "lastUpdated": "2025-07-15T00:59:06.14Z"
@@ -14250,15 +14254,11 @@
       {
         "version": "0.4.2517",
         "lastUpdated": "2025-06-29T01:02:25.99Z"
-      },
-      {
-        "version": "0.4.2516",
-        "lastUpdated": "2025-06-28T10:45:46.89Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2540/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2541/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -18636,9 +18636,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.458",
-    "last_updated": "2025-07-10T22:38:53.313Z",
+    "latest_version": "1.0.459",
+    "last_updated": "2025-07-15T22:09:48.463Z",
     "version_history": [
+      {
+        "version": "1.0.459",
+        "lastUpdated": "2025-07-15T22:09:48.463Z"
+      },
       {
         "version": "1.0.458",
         "lastUpdated": "2025-07-10T22:38:53.313Z"
@@ -18714,15 +18718,11 @@
       {
         "version": "1.0.440",
         "lastUpdated": "2025-05-15T11:11:49.967Z"
-      },
-      {
-        "version": "1.0.439",
-        "lastUpdated": "2025-05-15T03:25:17.793Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.458/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.459/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
