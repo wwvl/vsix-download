@@ -2658,9 +2658,17 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.63",
-    "last_updated": "2025-07-15T15:58:43.65Z",
+    "latest_version": "1.1.65",
+    "last_updated": "2025-07-17T05:38:36.113Z",
     "version_history": [
+      {
+        "version": "1.1.65",
+        "lastUpdated": "2025-07-17T05:38:36.113Z"
+      },
+      {
+        "version": "1.1.64",
+        "lastUpdated": "2025-07-17T02:33:15.733Z"
+      },
       {
         "version": "1.1.63",
         "lastUpdated": "2025-07-15T15:58:43.65Z"
@@ -2732,19 +2740,11 @@
       {
         "version": "1.1.41",
         "lastUpdated": "2025-05-29T15:11:10.28Z"
-      },
-      {
-        "version": "1.1.40",
-        "lastUpdated": "2025-05-26T05:34:40.763Z"
-      },
-      {
-        "version": "1.1.39",
-        "lastUpdated": "2025-05-23T06:00:50.52Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.63/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.65/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.344.1680",
-    "last_updated": "2025-07-16T16:21:39.203Z",
+    "latest_version": "1.344.1681",
+    "last_updated": "2025-07-17T01:48:27.09Z",
     "version_history": [
+      {
+        "version": "1.344.1681",
+        "lastUpdated": "2025-07-17T01:48:27.09Z"
+      },
       {
         "version": "1.344.1680",
         "lastUpdated": "2025-07-16T16:21:39.203Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.339.1661",
         "lastUpdated": "2025-07-07T16:20:12.15Z"
-      },
-      {
-        "version": "1.339.1660",
-        "lastUpdated": "2025-07-07T01:48:59.04Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.344.1680/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.344.1681/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5854,9 +5854,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.115.2025071604",
-    "last_updated": "2025-07-16T04:20:52.22Z",
+    "latest_version": "0.115.2025071704",
+    "last_updated": "2025-07-17T04:20:42.97Z",
     "version_history": [
+      {
+        "version": "0.115.2025071704",
+        "lastUpdated": "2025-07-17T04:20:42.97Z"
+      },
       {
         "version": "0.115.2025071604",
         "lastUpdated": "2025-07-16T04:20:52.22Z"
@@ -5932,15 +5936,11 @@
       {
         "version": "0.113.2025062622",
         "lastUpdated": "2025-06-26T22:34:42.443Z"
-      },
-      {
-        "version": "0.113.2025062610",
-        "lastUpdated": "2025-06-26T10:41:20.363Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025071604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025071704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
