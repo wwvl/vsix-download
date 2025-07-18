@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.345.1683",
-    "last_updated": "2025-07-17T16:20:58.247Z",
+    "latest_version": "1.345.1684",
+    "last_updated": "2025-07-18T01:49:10.927Z",
     "version_history": [
+      {
+        "version": "1.345.1684",
+        "lastUpdated": "2025-07-18T01:49:10.927Z"
+      },
       {
         "version": "1.345.1683",
         "lastUpdated": "2025-07-17T16:20:58.247Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.341.0",
         "lastUpdated": "2025-07-07T21:11:11.233Z"
-      },
-      {
-        "version": "1.340.1663",
-        "lastUpdated": "2025-07-07T18:06:04.22Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.345.1683/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.345.1684/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.30.2025071701",
-    "last_updated": "2025-07-17T11:16:35.937Z",
+    "latest_version": "0.30.2025071801",
+    "last_updated": "2025-07-18T04:24:56.93Z",
     "version_history": [
+      {
+        "version": "0.30.2025071801",
+        "lastUpdated": "2025-07-18T04:24:56.93Z"
+      },
       {
         "version": "0.30.2025071701",
         "lastUpdated": "2025-07-17T11:16:35.937Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025063001",
         "lastUpdated": "2025-06-30T04:26:10.07Z"
-      },
-      {
-        "version": "0.29.2025062705",
-        "lastUpdated": "2025-06-27T21:04:14.177Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025071701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025071801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11828,9 +11828,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250715001",
-    "last_updated": "2025-07-15T03:01:33.63Z",
+    "latest_version": "0.13.250718001",
+    "last_updated": "2025-07-18T03:06:10.51Z",
     "version_history": [
+      {
+        "version": "0.13.250718001",
+        "lastUpdated": "2025-07-18T03:06:10.51Z"
+      },
       {
         "version": "0.13.250715001",
         "lastUpdated": "2025-07-15T03:01:33.63Z"
@@ -11906,15 +11910,11 @@
       {
         "version": "0.13.250620001",
         "lastUpdated": "2025-06-20T02:58:15.987Z"
-      },
-      {
-        "version": "0.13.250618001",
-        "lastUpdated": "2025-06-18T02:55:08.81Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250715001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250718001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
