@@ -769,123 +769,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
-    "extension_name": "aminer.codegeex",
-    "display_name": "CodeGeeX: AI Coding Assistant",
-    "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.27.0",
-    "last_updated": "2025-07-10T10:16:45.333Z",
-    "version_history": [
-      {
-        "version": "2.27.0",
-        "lastUpdated": "2025-07-10T10:16:45.333Z"
-      },
-      {
-        "version": "2.26.6",
-        "lastUpdated": "2025-07-10T08:28:10.713Z"
-      },
-      {
-        "version": "2.26.0",
-        "lastUpdated": "2025-07-01T12:18:02.11Z"
-      },
-      {
-        "version": "2.25.0",
-        "lastUpdated": "2025-06-23T04:32:59.8Z"
-      },
-      {
-        "version": "2.24.2",
-        "lastUpdated": "2025-06-11T12:14:55.617Z"
-      },
-      {
-        "version": "2.24.1",
-        "lastUpdated": "2025-06-10T16:45:42.743Z"
-      },
-      {
-        "version": "2.24.0",
-        "lastUpdated": "2025-06-10T12:39:35.043Z"
-      },
-      {
-        "version": "2.23.3",
-        "lastUpdated": "2025-06-04T11:23:47.09Z"
-      },
-      {
-        "version": "2.23.2",
-        "lastUpdated": "2025-05-28T12:22:16.63Z"
-      },
-      {
-        "version": "2.23.1",
-        "lastUpdated": "2025-05-26T07:06:33.267Z"
-      },
-      {
-        "version": "2.23.0",
-        "lastUpdated": "2025-05-23T12:18:22.597Z"
-      },
-      {
-        "version": "2.22.14",
-        "lastUpdated": "2025-05-19T12:13:42.793Z"
-      },
-      {
-        "version": "2.22.12",
-        "lastUpdated": "2025-05-12T12:17:19.443Z"
-      },
-      {
-        "version": "2.22.11",
-        "lastUpdated": "2025-05-12T04:17:01.583Z"
-      },
-      {
-        "version": "2.22.10",
-        "lastUpdated": "2025-05-08T12:22:13.69Z"
-      },
-      {
-        "version": "2.22.9",
-        "lastUpdated": "2025-04-30T11:06:55.333Z"
-      },
-      {
-        "version": "2.22.8",
-        "lastUpdated": "2025-04-30T10:56:56.27Z"
-      },
-      {
-        "version": "2.22.7",
-        "lastUpdated": "2025-04-30T04:47:32.36Z"
-      },
-      {
-        "version": "2.22.6",
-        "lastUpdated": "2025-04-28T04:58:58.67Z"
-      },
-      {
-        "version": "2.22.5",
-        "lastUpdated": "2025-04-27T03:57:38.913Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning"],
-    "tags": [
-      "agent",
-      "ai",
-      "autocomplete",
-      "c#",
-      "c++",
-      "chat",
-      "chatglm",
-      "code explanation",
-      "code generation",
-      "codegeex",
-      "glm",
-      "go",
-      "inline completion",
-      "java",
-      "javascript",
-      "keybindings",
-      "php",
-      "python",
-      "typescript",
-      "zhipu",
-      "zhipu ai",
-      "智谱",
-      "智谱AI"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.27.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
-  },
-  {
     "extension_name": "antfu.browse-lite",
     "display_name": "Browse Lite",
     "short_description": "Embedded browser in VS Code.",
@@ -11921,9 +11804,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250718",
-    "last_updated": "2025-07-19T00:16:19.2Z",
+    "latest_version": "5.9.20250719",
+    "last_updated": "2025-07-20T00:16:46.04Z",
     "version_history": [
+      {
+        "version": "5.9.20250719",
+        "lastUpdated": "2025-07-20T00:16:46.04Z"
+      },
       {
         "version": "5.9.20250718",
         "lastUpdated": "2025-07-19T00:16:19.2Z"
@@ -11999,15 +11886,11 @@
       {
         "version": "5.9.20250630",
         "lastUpdated": "2025-07-01T00:17:24.31Z"
-      },
-      {
-        "version": "5.9.20250629",
-        "lastUpdated": "2025-06-30T00:19:09.047Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250718/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250719/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14172,9 +14055,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2544",
-    "last_updated": "2025-07-19T01:09:23.93Z",
+    "latest_version": "0.4.2545",
+    "last_updated": "2025-07-20T01:04:30.507Z",
     "version_history": [
+      {
+        "version": "0.4.2545",
+        "lastUpdated": "2025-07-20T01:04:30.507Z"
+      },
       {
         "version": "0.4.2544",
         "lastUpdated": "2025-07-19T01:09:23.93Z"
@@ -14250,15 +14137,11 @@
       {
         "version": "0.4.2522",
         "lastUpdated": "2025-07-03T00:55:47.827Z"
-      },
-      {
-        "version": "0.4.2521",
-        "lastUpdated": "2025-07-02T00:54:48.097Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2544/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2545/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
