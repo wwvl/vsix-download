@@ -5335,9 +5335,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.345.1686",
-    "last_updated": "2025-07-21T01:48:31.56Z",
+    "latest_version": "1.345.1688",
+    "last_updated": "2025-07-21T17:05:33.013Z",
     "version_history": [
+      {
+        "version": "1.345.1688",
+        "lastUpdated": "2025-07-21T17:05:33.013Z"
+      },
+      {
+        "version": "1.345.1687",
+        "lastUpdated": "2025-07-21T16:21:23.207Z"
+      },
       {
         "version": "1.345.1686",
         "lastUpdated": "2025-07-21T01:48:31.56Z"
@@ -5409,14 +5417,6 @@
       {
         "version": "1.341.1667",
         "lastUpdated": "2025-07-09T16:18:57.963Z"
-      },
-      {
-        "version": "1.341.1666",
-        "lastUpdated": "2025-07-09T01:48:33.193Z"
-      },
-      {
-        "version": "1.341.1665",
-        "lastUpdated": "2025-07-08T16:20:57.2Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,16 +5445,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.345.1686/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.345.1688/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.30.2025072102",
-    "last_updated": "2025-07-21T09:42:15.687Z",
+    "latest_version": "0.30.2025072103",
+    "last_updated": "2025-07-21T15:44:24.017Z",
     "version_history": [
+      {
+        "version": "0.30.2025072103",
+        "lastUpdated": "2025-07-21T15:44:24.017Z"
+      },
       {
         "version": "0.30.2025072102",
         "lastUpdated": "2025-07-21T09:42:15.687Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025070202",
         "lastUpdated": "2025-07-02T15:18:16.453Z"
-      },
-      {
-        "version": "0.29.2025070102",
-        "lastUpdated": "2025-07-01T04:27:51.31Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025072102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025072103/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5886,6 +5886,10 @@
         "lastUpdated": "2025-07-10T16:24:30.227Z"
       },
       {
+        "version": "0.114.3",
+        "lastUpdated": "2025-07-21T17:23:00.22Z"
+      },
+      {
         "version": "0.114.2",
         "lastUpdated": "2025-07-18T08:39:37.817Z"
       },
@@ -5932,10 +5936,6 @@
       {
         "version": "0.113.2025070104",
         "lastUpdated": "2025-07-01T04:21:45.59Z"
-      },
-      {
-        "version": "0.113.2025063016",
-        "lastUpdated": "2025-06-30T16:42:55.893Z"
       }
     ],
     "categories": ["AI", "Chat"],
@@ -8065,9 +8065,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.32",
-    "last_updated": "2025-07-12T11:01:25.487Z",
+    "latest_version": "1.2.33",
+    "last_updated": "2025-07-21T16:58:01.86Z",
     "version_history": [
+      {
+        "version": "1.2.33",
+        "lastUpdated": "2025-07-21T16:58:01.86Z"
+      },
       {
         "version": "1.2.32",
         "lastUpdated": "2025-07-12T11:01:25.487Z"
@@ -8143,10 +8147,6 @@
       {
         "version": "1.2.9",
         "lastUpdated": "2025-05-14T13:53:38.057Z"
-      },
-      {
-        "version": "1.2.7",
-        "lastUpdated": "2025-05-10T05:20:39.113Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8180,7 +8180,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.32/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.33/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
