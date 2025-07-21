@@ -5854,9 +5854,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.115.2025071715",
-    "last_updated": "2025-07-17T15:53:01.263Z",
+    "latest_version": "0.115.2025072104",
+    "last_updated": "2025-07-21T04:19:38.43Z",
     "version_history": [
+      {
+        "version": "0.115.2025072104",
+        "lastUpdated": "2025-07-21T04:19:38.43Z"
+      },
       {
         "version": "0.115.2025071715",
         "lastUpdated": "2025-07-17T15:53:01.263Z"
@@ -5932,15 +5936,11 @@
       {
         "version": "0.113.2025063016",
         "lastUpdated": "2025-06-30T16:42:55.893Z"
-      },
-      {
-        "version": "0.113.2025063004",
-        "lastUpdated": "2025-06-30T04:22:22.097Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025071715/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025072104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11828,9 +11828,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250720001",
-    "last_updated": "2025-07-20T03:02:25.743Z",
+    "latest_version": "0.13.250721001",
+    "last_updated": "2025-07-21T02:56:24.503Z",
     "version_history": [
+      {
+        "version": "0.13.250721001",
+        "lastUpdated": "2025-07-21T02:56:24.503Z"
+      },
       {
         "version": "0.13.250720001",
         "lastUpdated": "2025-07-20T03:02:25.743Z"
@@ -11906,15 +11910,11 @@
       {
         "version": "0.13.250623001",
         "lastUpdated": "2025-06-23T02:53:08.817Z"
-      },
-      {
-        "version": "0.13.250622001",
-        "lastUpdated": "2025-06-22T02:56:59.15Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250720001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250721001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
