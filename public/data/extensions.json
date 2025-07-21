@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.345.1685",
-    "last_updated": "2025-07-18T16:21:59.13Z",
+    "latest_version": "1.345.1686",
+    "last_updated": "2025-07-21T01:48:31.56Z",
     "version_history": [
+      {
+        "version": "1.345.1686",
+        "lastUpdated": "2025-07-21T01:48:31.56Z"
+      },
       {
         "version": "1.345.1685",
         "lastUpdated": "2025-07-18T16:21:59.13Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.341.1665",
         "lastUpdated": "2025-07-08T16:20:57.2Z"
-      },
-      {
-        "version": "1.341.1664",
-        "lastUpdated": "2025-07-08T01:47:38.373Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.345.1685/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.345.1686/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11921,9 +11921,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250719",
-    "last_updated": "2025-07-20T00:16:46.04Z",
+    "latest_version": "5.9.20250720",
+    "last_updated": "2025-07-21T00:16:43.7Z",
     "version_history": [
+      {
+        "version": "5.9.20250720",
+        "lastUpdated": "2025-07-21T00:16:43.7Z"
+      },
       {
         "version": "5.9.20250719",
         "lastUpdated": "2025-07-20T00:16:46.04Z"
@@ -11999,15 +12003,11 @@
       {
         "version": "5.9.20250701",
         "lastUpdated": "2025-07-02T00:19:00.72Z"
-      },
-      {
-        "version": "5.9.20250630",
-        "lastUpdated": "2025-07-01T00:17:24.31Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250719/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250720/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14172,9 +14172,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2545",
-    "last_updated": "2025-07-20T01:04:30.507Z",
+    "latest_version": "0.4.2546",
+    "last_updated": "2025-07-21T01:02:42.537Z",
     "version_history": [
+      {
+        "version": "0.4.2546",
+        "lastUpdated": "2025-07-21T01:02:42.537Z"
+      },
       {
         "version": "0.4.2545",
         "lastUpdated": "2025-07-20T01:04:30.507Z"
@@ -14250,15 +14254,11 @@
       {
         "version": "0.4.2523",
         "lastUpdated": "2025-07-04T00:56:22.083Z"
-      },
-      {
-        "version": "0.4.2522",
-        "lastUpdated": "2025-07-03T00:55:47.827Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2545/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2546/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
