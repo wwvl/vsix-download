@@ -5452,9 +5452,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.30.2025071801",
-    "last_updated": "2025-07-18T04:24:56.93Z",
+    "latest_version": "0.30.2025072102",
+    "last_updated": "2025-07-21T09:42:15.687Z",
     "version_history": [
+      {
+        "version": "0.30.2025072102",
+        "lastUpdated": "2025-07-21T09:42:15.687Z"
+      },
       {
         "version": "0.30.2025071801",
         "lastUpdated": "2025-07-18T04:24:56.93Z"
@@ -5530,10 +5534,6 @@
       {
         "version": "0.29.2025070102",
         "lastUpdated": "2025-07-01T04:27:51.31Z"
-      },
-      {
-        "version": "0.29.2025063001",
-        "lastUpdated": "2025-06-30T04:26:10.07Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5568,7 +5568,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025071801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025072102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10338,9 +10338,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.7.2025071602",
-    "last_updated": "2025-07-16T09:56:09.47Z",
+    "latest_version": "2025.7.2025072101",
+    "last_updated": "2025-07-21T09:47:34.877Z",
     "version_history": [
+      {
+        "version": "2025.7.2025072101",
+        "lastUpdated": "2025-07-21T09:47:34.877Z"
+      },
       {
         "version": "2025.7.2025071602",
         "lastUpdated": "2025-07-16T09:56:09.47Z"
@@ -10416,15 +10420,11 @@
       {
         "version": "2025.5.2025052801",
         "lastUpdated": "2025-05-28T10:04:42.12Z"
-      },
-      {
-        "version": "2025.5.2025052701",
-        "lastUpdated": "2025-05-27T09:49:00.033Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025071602/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025072101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
