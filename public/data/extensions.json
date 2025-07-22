@@ -5854,9 +5854,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.115.2025072104",
-    "last_updated": "2025-07-21T04:19:38.43Z",
+    "latest_version": "0.115.2025072209",
+    "last_updated": "2025-07-22T09:27:12.823Z",
     "version_history": [
+      {
+        "version": "0.115.2025072209",
+        "lastUpdated": "2025-07-22T09:27:12.823Z"
+      },
       {
         "version": "0.115.2025072104",
         "lastUpdated": "2025-07-21T04:19:38.43Z"
@@ -5932,15 +5936,11 @@
       {
         "version": "0.113.2025070106",
         "lastUpdated": "2025-07-01T06:51:03.787Z"
-      },
-      {
-        "version": "0.113.2025070104",
-        "lastUpdated": "2025-07-01T04:21:45.59Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025072104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025072209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -9614,9 +9614,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.11.2025070101",
-    "last_updated": "2025-07-01T10:42:09.53Z",
+    "latest_version": "2025.11.2025072201",
+    "last_updated": "2025-07-22T10:34:52.057Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072201",
+        "lastUpdated": "2025-07-22T10:34:52.057Z"
+      },
       {
         "version": "2025.11.2025070101",
         "lastUpdated": "2025-07-01T10:42:09.53Z"
@@ -9692,15 +9696,11 @@
       {
         "version": "2025.1.2025021401",
         "lastUpdated": "2025-02-14T10:39:19.85Z"
-      },
-      {
-        "version": "2025.1.2025021301",
-        "lastUpdated": "2025-02-13T10:40:10.467Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025070101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025072201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -9986,9 +9986,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.11.2025071801",
-    "last_updated": "2025-07-18T10:41:35Z",
+    "latest_version": "2025.11.2025072201",
+    "last_updated": "2025-07-22T10:46:52.197Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072201",
+        "lastUpdated": "2025-07-22T10:46:52.197Z"
+      },
       {
         "version": "2025.11.2025071801",
         "lastUpdated": "2025-07-18T10:41:35Z"
@@ -10064,10 +10068,6 @@
       {
         "version": "2025.7.2025053001",
         "lastUpdated": "2025-05-30T10:50:08.53Z"
-      },
-      {
-        "version": "2025.7.2025052901",
-        "lastUpdated": "2025-05-29T23:00:51.787Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10090,7 +10090,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025071801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -11642,9 +11642,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025063009",
-    "last_updated": "2025-06-30T09:32:59.853Z",
+    "latest_version": "1.6.2025072209",
+    "last_updated": "2025-07-22T09:20:17.283Z",
     "version_history": [
+      {
+        "version": "1.6.2025072209",
+        "lastUpdated": "2025-07-22T09:20:17.283Z"
+      },
       {
         "version": "1.6.2025063009",
         "lastUpdated": "2025-06-30T09:32:59.853Z"
@@ -11720,15 +11724,11 @@
       {
         "version": "1.6.2024051509",
         "lastUpdated": "2024-05-15T09:41:50.49Z"
-      },
-      {
-        "version": "1.6.2024042409",
-        "lastUpdated": "2024-04-24T09:33:41.48Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025063009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025072209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
@@ -12893,9 +12893,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.7.0",
-    "last_updated": "2025-07-16T23:14:57.507Z",
+    "latest_version": "1.8.0",
+    "last_updated": "2025-07-22T11:34:17.76Z",
     "version_history": [
+      {
+        "version": "1.8.0",
+        "lastUpdated": "2025-07-22T11:34:17.76Z"
+      },
       {
         "version": "1.7.0",
         "lastUpdated": "2025-07-16T23:14:57.507Z"
@@ -12971,15 +12975,11 @@
       {
         "version": "0.16.5",
         "lastUpdated": "2025-04-07T09:45:34.87Z"
-      },
-      {
-        "version": "0.16.4",
-        "lastUpdated": "2025-04-01T06:37:49.397Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.7.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -15380,9 +15380,13 @@
     "extension_name": "Supabase.vscode-supabase-extension",
     "display_name": "Supabase",
     "short_description": "Supabase Extension for VS Code and GitHub Copilot.",
-    "latest_version": "0.0.10",
-    "last_updated": "2025-07-03T09:07:33.673Z",
+    "latest_version": "0.0.11",
+    "last_updated": "2025-07-22T08:00:52.29Z",
     "version_history": [
+      {
+        "version": "0.0.11",
+        "lastUpdated": "2025-07-22T08:00:52.29Z"
+      },
       {
         "version": "0.0.10",
         "lastUpdated": "2025-07-03T09:07:33.673Z"
@@ -15406,7 +15410,7 @@
     ],
     "categories": ["AI", "Chat"],
     "tags": ["Databases", "Postgres", "supabase"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
   },
   {
