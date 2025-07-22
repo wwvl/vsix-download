@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.510.0",
-    "last_updated": "2025-07-21T20:12:26.14Z",
+    "latest_version": "0.511.0",
+    "last_updated": "2025-07-22T17:52:33.8Z",
     "version_history": [
+      {
+        "version": "0.511.0",
+        "lastUpdated": "2025-07-22T17:52:33.8Z"
+      },
       {
         "version": "0.510.0",
         "lastUpdated": "2025-07-21T20:12:26.14Z"
@@ -1493,24 +1497,24 @@
       {
         "version": "0.496.0",
         "lastUpdated": "2025-07-02T17:10:29.463Z"
-      },
-      {
-        "version": "0.495.0",
-        "lastUpdated": "2025-07-01T17:10:15.72Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.510.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.511.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.11.0",
-    "last_updated": "2025-07-07T14:08:20.053Z",
+    "latest_version": "3.12.0",
+    "last_updated": "2025-07-22T13:18:27.837Z",
     "version_history": [
+      {
+        "version": "3.12.0",
+        "lastUpdated": "2025-07-22T13:18:27.837Z"
+      },
       {
         "version": "3.11.0",
         "lastUpdated": "2025-07-07T14:08:20.053Z"
@@ -1586,10 +1590,6 @@
       {
         "version": "3.5.0",
         "lastUpdated": "2025-03-29T16:22:36.933Z"
-      },
-      {
-        "version": "3.4.7",
-        "lastUpdated": "2025-03-24T14:41:15.61Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1643,7 +1643,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.11.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.1805",
-    "last_updated": "2025-07-18T09:16:54.91Z",
+    "latest_version": "2025.7.2211",
+    "last_updated": "2025-07-22T15:25:38.183Z",
     "version_history": [
+      {
+        "version": "2025.7.2211",
+        "lastUpdated": "2025-07-22T15:25:38.183Z"
+      },
       {
         "version": "2025.7.1805",
         "lastUpdated": "2025-07-18T09:16:54.91Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.6.2405",
         "lastUpdated": "2025-06-24T09:18:54.187Z"
-      },
-      {
-        "version": "2025.6.2105",
-        "lastUpdated": "2025-06-21T09:12:00.957Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.1805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2211/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.346.1690",
-    "last_updated": "2025-07-22T01:49:19.263Z",
+    "latest_version": "1.346.1691",
+    "last_updated": "2025-07-22T16:21:34.4Z",
     "version_history": [
+      {
+        "version": "1.346.1691",
+        "lastUpdated": "2025-07-22T16:21:34.4Z"
+      },
       {
         "version": "1.346.1690",
         "lastUpdated": "2025-07-22T01:49:19.263Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.342.1670",
         "lastUpdated": "2025-07-10T16:21:05.197Z"
-      },
-      {
-        "version": "1.342.0",
-        "lastUpdated": "2025-07-10T10:04:29.99Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.346.1690/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.346.1691/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
