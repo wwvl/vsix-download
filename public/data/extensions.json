@@ -4159,9 +4159,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.2211",
-    "last_updated": "2025-07-22T15:25:38.183Z",
+    "latest_version": "2025.7.2305",
+    "last_updated": "2025-07-23T09:17:19.8Z",
     "version_history": [
+      {
+        "version": "2025.7.2305",
+        "lastUpdated": "2025-07-23T09:17:19.8Z"
+      },
       {
         "version": "2025.7.2211",
         "lastUpdated": "2025-07-22T15:25:38.183Z"
@@ -4237,15 +4241,11 @@
       {
         "version": "2025.6.2505",
         "lastUpdated": "2025-06-25T09:14:28.027Z"
-      },
-      {
-        "version": "2025.6.2405",
-        "lastUpdated": "2025-06-24T09:18:54.187Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2211/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8811,9 +8811,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.102.2025071609",
-    "last_updated": "2025-07-16T09:21:04.903Z",
+    "latest_version": "1.103.2025072309",
+    "last_updated": "2025-07-23T09:18:46.65Z",
     "version_history": [
+      {
+        "version": "1.103.2025072309",
+        "lastUpdated": "2025-07-23T09:18:46.65Z"
+      },
       {
         "version": "1.102.2025071609",
         "lastUpdated": "2025-07-16T09:21:04.903Z"
@@ -8889,15 +8893,11 @@
       {
         "version": "1.99.2025031909",
         "lastUpdated": "2025-03-19T09:18:38.26Z"
-      },
-      {
-        "version": "1.98.2025031209",
-        "lastUpdated": "2025-03-12T09:24:17.947Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.102.2025071609/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.103.2025072309/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -11642,9 +11642,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025072209",
-    "last_updated": "2025-07-22T09:20:17.283Z",
+    "latest_version": "1.6.2025072309",
+    "last_updated": "2025-07-23T09:24:56.62Z",
     "version_history": [
+      {
+        "version": "1.6.2025072309",
+        "lastUpdated": "2025-07-23T09:24:56.62Z"
+      },
       {
         "version": "1.6.2025072209",
         "lastUpdated": "2025-07-22T09:20:17.283Z"
@@ -11720,15 +11724,11 @@
       {
         "version": "1.6.2024052709",
         "lastUpdated": "2024-05-27T09:31:44.577Z"
-      },
-      {
-        "version": "1.6.2024051509",
-        "lastUpdated": "2024-05-15T09:41:50.49Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025072209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025072309/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
@@ -12107,9 +12107,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.17.2025071705",
-    "last_updated": "2025-07-17T08:29:32.177Z",
+    "latest_version": "0.17.2025072306",
+    "last_updated": "2025-07-23T07:38:53.667Z",
     "version_history": [
+      {
+        "version": "0.17.2025072306",
+        "lastUpdated": "2025-07-23T07:38:53.667Z"
+      },
       {
         "version": "0.17.2025071705",
         "lastUpdated": "2025-07-17T08:29:32.177Z"
@@ -12185,15 +12189,11 @@
       {
         "version": "0.11.2025040806",
         "lastUpdated": "2025-04-08T09:29:46.453Z"
-      },
-      {
-        "version": "0.11.2025040302",
-        "lastUpdated": "2025-04-03T03:04:16.377Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "LLM", "Machine Learning", "models", "studio", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.17.2025071705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.17.2025072306/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -13766,9 +13766,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025071808",
-    "last_updated": "2025-07-18T08:31:54.79Z",
+    "latest_version": "1.44.2025072308",
+    "last_updated": "2025-07-23T08:32:40.673Z",
     "version_history": [
+      {
+        "version": "1.44.2025072308",
+        "lastUpdated": "2025-07-23T08:32:40.673Z"
+      },
       {
         "version": "1.44.2025071808",
         "lastUpdated": "2025-07-18T08:31:54.79Z"
@@ -13844,15 +13848,11 @@
       {
         "version": "1.43.2025052308",
         "lastUpdated": "2025-05-23T08:25:45.623Z"
-      },
-      {
-        "version": "1.43.2025051708",
-        "lastUpdated": "2025-05-17T08:46:54.09Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025071808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025072308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
