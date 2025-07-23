@@ -6243,9 +6243,13 @@
     "extension_name": "GoogleCloudTools.cloudcode",
     "display_name": "Google Cloud Code",
     "short_description": "Tools for Google Cloud",
-    "latest_version": "2.31.1",
-    "last_updated": "2025-05-29T00:17:31.85Z",
+    "latest_version": "2.32.0",
+    "last_updated": "2025-07-23T01:20:16.473Z",
     "version_history": [
+      {
+        "version": "2.32.0",
+        "lastUpdated": "2025-07-23T01:20:16.473Z"
+      },
       {
         "version": "2.31.1",
         "lastUpdated": "2025-05-29T00:17:31.85Z"
@@ -6321,10 +6325,6 @@
       {
         "version": "2.18.0",
         "lastUpdated": "2024-09-30T20:09:45.443Z"
-      },
-      {
-        "version": "2.17.0",
-        "lastUpdated": "2024-09-09T17:41:28.963Z"
       }
     ],
     "categories": ["Snippets", "Linters", "Debuggers"],
@@ -6369,7 +6369,7 @@
       "Skaffold",
       "snippet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.31.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.32.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
   },
   {
@@ -11270,9 +11270,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.7.2117",
-    "last_updated": "2025-07-22T00:17:50.403Z",
+    "latest_version": "2025.7.2217",
+    "last_updated": "2025-07-23T00:17:05.033Z",
     "version_history": [
+      {
+        "version": "2025.7.2217",
+        "lastUpdated": "2025-07-23T00:17:05.033Z"
+      },
       {
         "version": "2025.7.2117",
         "lastUpdated": "2025-07-22T00:17:50.403Z"
@@ -11348,15 +11352,11 @@
       {
         "version": "2025.1.817",
         "lastUpdated": "2025-01-09T01:14:14.9Z"
-      },
-      {
-        "version": "2025.1.717",
-        "lastUpdated": "2025-01-08T01:15:26.89Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssemblyTextFormat"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.2117/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.2217/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11921,9 +11921,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250721",
-    "last_updated": "2025-07-22T00:19:07.49Z",
+    "latest_version": "5.9.20250722",
+    "last_updated": "2025-07-23T00:18:40.1Z",
     "version_history": [
+      {
+        "version": "5.9.20250722",
+        "lastUpdated": "2025-07-23T00:18:40.1Z"
+      },
       {
         "version": "5.9.20250721",
         "lastUpdated": "2025-07-22T00:19:07.49Z"
@@ -11999,15 +12003,11 @@
       {
         "version": "5.9.20250703",
         "lastUpdated": "2025-07-04T00:18:42.127Z"
-      },
-      {
-        "version": "5.9.20250702",
-        "lastUpdated": "2025-07-03T00:21:45.887Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250721/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250722/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14172,9 +14172,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2548",
-    "last_updated": "2025-07-22T01:10:02.633Z",
+    "latest_version": "0.4.2549",
+    "last_updated": "2025-07-23T01:14:20.477Z",
     "version_history": [
+      {
+        "version": "0.4.2549",
+        "lastUpdated": "2025-07-23T01:14:20.477Z"
+      },
       {
         "version": "0.4.2548",
         "lastUpdated": "2025-07-22T01:10:02.633Z"
@@ -14250,15 +14254,11 @@
       {
         "version": "0.4.2525",
         "lastUpdated": "2025-07-06T00:59:52.743Z"
-      },
-      {
-        "version": "0.4.2524",
-        "lastUpdated": "2025-07-05T00:55:54.357Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2548/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2549/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14473,9 +14473,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.19.7",
-    "last_updated": "2025-07-18T01:37:32.757Z",
+    "latest_version": "3.19.8",
+    "last_updated": "2025-07-22T18:54:22.293Z",
     "version_history": [
+      {
+        "version": "3.19.8",
+        "lastUpdated": "2025-07-22T18:54:22.293Z"
+      },
       {
         "version": "3.19.7",
         "lastUpdated": "2025-07-18T01:37:32.757Z"
@@ -14551,15 +14555,11 @@
       {
         "version": "3.18.2",
         "lastUpdated": "2025-07-03T05:39:15.007Z"
-      },
-      {
-        "version": "3.18.1",
-        "lastUpdated": "2025-06-29T01:57:14.683Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.19.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.19.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
