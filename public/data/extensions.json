@@ -13766,9 +13766,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025072308",
-    "last_updated": "2025-07-23T08:32:40.673Z",
+    "latest_version": "1.44.2025072408",
+    "last_updated": "2025-07-24T08:37:23.097Z",
     "version_history": [
+      {
+        "version": "1.44.2025072408",
+        "lastUpdated": "2025-07-24T08:37:23.097Z"
+      },
       {
         "version": "1.44.2025072308",
         "lastUpdated": "2025-07-23T08:32:40.673Z"
@@ -13844,15 +13848,11 @@
       {
         "version": "1.43.2025052708",
         "lastUpdated": "2025-05-27T08:28:45.22Z"
-      },
-      {
-        "version": "1.43.2025052308",
-        "lastUpdated": "2025-05-23T08:25:45.623Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025072308/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025072408/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14918,9 +14918,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.113.1752759214",
-    "last_updated": "2025-07-17T13:38:43.567Z",
+    "latest_version": "1.114.0",
+    "last_updated": "2025-07-24T08:43:01.997Z",
     "version_history": [
+      {
+        "version": "1.114.0",
+        "lastUpdated": "2025-07-24T08:43:01.997Z"
+      },
       {
         "version": "1.113.1752759214",
         "lastUpdated": "2025-07-17T13:38:43.567Z"
@@ -14996,10 +15000,6 @@
       {
         "version": "1.102.0",
         "lastUpdated": "2025-06-11T18:08:34.617Z"
-      },
-      {
-        "version": "1.101.1749676897",
-        "lastUpdated": "2025-06-11T21:27:25.643Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15045,16 +15045,20 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.113.1752759214/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.114.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.16.0",
-    "last_updated": "2025-07-23T13:38:31.607Z",
+    "latest_version": "0.17.0",
+    "last_updated": "2025-07-24T09:58:26.933Z",
     "version_history": [
+      {
+        "version": "0.17.0",
+        "lastUpdated": "2025-07-24T09:58:26.933Z"
+      },
       {
         "version": "0.16.0",
         "lastUpdated": "2025-07-23T13:38:31.607Z"
@@ -15130,15 +15134,11 @@
       {
         "version": "0.6.1",
         "lastUpdated": "2025-02-23T20:13:29.417Z"
-      },
-      {
-        "version": "0.6.0",
-        "lastUpdated": "2025-02-22T12:30:04.07Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.17.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
