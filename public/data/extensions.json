@@ -1415,9 +1415,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.511.0",
-    "last_updated": "2025-07-22T17:52:33.8Z",
+    "latest_version": "0.513.0",
+    "last_updated": "2025-07-23T20:56:53.983Z",
     "version_history": [
+      {
+        "version": "0.513.0",
+        "lastUpdated": "2025-07-23T20:56:53.983Z"
+      },
+      {
+        "version": "0.512.0",
+        "lastUpdated": "2025-07-23T18:40:16.38Z"
+      },
       {
         "version": "0.511.0",
         "lastUpdated": "2025-07-22T17:52:33.8Z"
@@ -1489,19 +1497,11 @@
       {
         "version": "0.496.2",
         "lastUpdated": "2025-07-08T22:59:48.177Z"
-      },
-      {
-        "version": "0.496.1",
-        "lastUpdated": "2025-07-07T17:41:22.48Z"
-      },
-      {
-        "version": "0.496.0",
-        "lastUpdated": "2025-07-02T17:10:29.463Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.511.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.513.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2658,9 +2658,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.66",
-    "last_updated": "2025-07-18T20:24:41.513Z",
+    "latest_version": "1.1.67",
+    "last_updated": "2025-07-23T23:38:48.13Z",
     "version_history": [
+      {
+        "version": "1.1.67",
+        "lastUpdated": "2025-07-23T23:38:48.13Z"
+      },
       {
         "version": "1.1.66",
         "lastUpdated": "2025-07-18T20:24:41.513Z"
@@ -2736,15 +2740,11 @@
       {
         "version": "1.1.43",
         "lastUpdated": "2025-06-04T17:56:23.013Z"
-      },
-      {
-        "version": "1.1.42",
-        "lastUpdated": "2025-06-03T23:45:12.35Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.66/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.67/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5854,9 +5854,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.115.2025072304",
-    "last_updated": "2025-07-23T04:20:57.167Z",
+    "latest_version": "0.115.2025072320",
+    "last_updated": "2025-07-23T20:27:10.647Z",
     "version_history": [
+      {
+        "version": "0.115.2025072320",
+        "lastUpdated": "2025-07-23T20:27:10.647Z"
+      },
       {
         "version": "0.115.2025072304",
         "lastUpdated": "2025-07-23T04:20:57.167Z"
@@ -5932,15 +5936,11 @@
       {
         "version": "0.113.2025070304",
         "lastUpdated": "2025-07-03T04:22:18.59Z"
-      },
-      {
-        "version": "0.113.2025070204",
-        "lastUpdated": "2025-07-02T04:22:26.32Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025072304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.115.2025072320/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -9428,9 +9428,13 @@
     "extension_name": "ms-mssql.mssql",
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
-    "latest_version": "1.33.0",
-    "last_updated": "2025-06-18T17:07:06.087Z",
+    "latest_version": "1.34.0",
+    "last_updated": "2025-07-23T19:13:51.62Z",
     "version_history": [
+      {
+        "version": "1.34.0",
+        "lastUpdated": "2025-07-23T19:13:51.62Z"
+      },
       {
         "version": "1.33.0",
         "lastUpdated": "2025-06-18T17:07:06.087Z"
@@ -9506,15 +9510,11 @@
       {
         "version": "1.20.0",
         "lastUpdated": "2023-07-26T17:21:12.083Z"
-      },
-      {
-        "version": "1.19.1",
-        "lastUpdated": "2023-06-05T17:19:51.043Z"
       }
     ],
     "categories": ["Programming Languages", "Azure"],
     "tags": ["Azure SQL Database", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL database in Fabric", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.33.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.34.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
@@ -11921,9 +11921,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250722",
-    "last_updated": "2025-07-23T00:18:40.1Z",
+    "latest_version": "5.9.20250723",
+    "last_updated": "2025-07-24T00:18:12.55Z",
     "version_history": [
+      {
+        "version": "5.9.20250723",
+        "lastUpdated": "2025-07-24T00:18:12.55Z"
+      },
       {
         "version": "5.9.20250722",
         "lastUpdated": "2025-07-23T00:18:40.1Z"
@@ -11999,15 +12003,11 @@
       {
         "version": "5.9.20250704",
         "lastUpdated": "2025-07-05T00:13:34.64Z"
-      },
-      {
-        "version": "5.9.20250703",
-        "lastUpdated": "2025-07-04T00:18:42.127Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250722/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250723/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14172,9 +14172,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2549",
-    "last_updated": "2025-07-23T01:14:20.477Z",
+    "latest_version": "0.4.2550",
+    "last_updated": "2025-07-24T00:59:00.247Z",
     "version_history": [
+      {
+        "version": "0.4.2550",
+        "lastUpdated": "2025-07-24T00:59:00.247Z"
+      },
       {
         "version": "0.4.2549",
         "lastUpdated": "2025-07-23T01:14:20.477Z"
@@ -14250,15 +14254,11 @@
       {
         "version": "0.4.2526",
         "lastUpdated": "2025-07-07T00:58:36.98Z"
-      },
-      {
-        "version": "0.4.2525",
-        "lastUpdated": "2025-07-06T00:59:52.743Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2549/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2550/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14473,9 +14473,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.20.0",
-    "last_updated": "2025-07-23T03:15:19.34Z",
+    "latest_version": "3.20.1",
+    "last_updated": "2025-07-23T19:04:59.65Z",
     "version_history": [
+      {
+        "version": "3.20.1",
+        "lastUpdated": "2025-07-23T19:04:59.65Z"
+      },
       {
         "version": "3.20.0",
         "lastUpdated": "2025-07-23T03:15:19.34Z"
@@ -14551,15 +14555,11 @@
       {
         "version": "3.18.4",
         "lastUpdated": "2025-07-07T20:44:22.223Z"
-      },
-      {
-        "version": "3.18.3",
-        "lastUpdated": "2025-07-03T22:21:42.753Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
