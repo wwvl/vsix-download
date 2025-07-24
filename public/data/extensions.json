@@ -651,9 +651,13 @@
     "extension_name": "Alibaba-Cloud.tongyi-lingma",
     "display_name": "Lingma - Alibaba Cloud AI Coding Assistant",
     "short_description": "Type Less, Code More",
-    "latest_version": "2.5.16",
-    "last_updated": "2025-07-18T14:36:05.763Z",
+    "latest_version": "2.5.17",
+    "last_updated": "2025-07-24T14:02:42.827Z",
     "version_history": [
+      {
+        "version": "2.5.17",
+        "lastUpdated": "2025-07-24T14:02:42.827Z"
+      },
       {
         "version": "2.5.16",
         "lastUpdated": "2025-07-18T14:36:05.763Z"
@@ -729,10 +733,6 @@
       {
         "version": "2.2.1",
         "lastUpdated": "2025-04-01T13:01:11.77Z"
-      },
-      {
-        "version": "2.2.0",
-        "lastUpdated": "2025-03-30T13:24:10.46Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -765,7 +765,7 @@
       "通义灵码",
       "阿里云"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.5.16/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.5.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
   },
   {
@@ -2844,9 +2844,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.115.20250715",
-    "last_updated": "2025-07-15T14:31:27.137Z",
+    "latest_version": "3.115.20250724",
+    "last_updated": "2025-07-24T15:42:55.527Z",
     "version_history": [
+      {
+        "version": "3.115.20250724",
+        "lastUpdated": "2025-07-24T15:42:55.527Z"
+      },
       {
         "version": "3.115.20250715",
         "lastUpdated": "2025-07-15T14:31:27.137Z"
@@ -2922,15 +2926,11 @@
       {
         "version": "3.108.2",
         "lastUpdated": "2025-04-03T11:28:30.42Z"
-      },
-      {
-        "version": "3.108.1",
-        "lastUpdated": "2025-04-03T09:37:05.56Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250715/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250724/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5335,9 +5335,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.347.1694",
-    "last_updated": "2025-07-23T16:25:44.38Z",
+    "latest_version": "1.348.1697",
+    "last_updated": "2025-07-24T16:21:39.763Z",
     "version_history": [
+      {
+        "version": "1.348.1697",
+        "lastUpdated": "2025-07-24T16:21:39.763Z"
+      },
       {
         "version": "1.347.1694",
         "lastUpdated": "2025-07-23T16:25:44.38Z"
@@ -5413,10 +5417,6 @@
       {
         "version": "1.343.1675",
         "lastUpdated": "2025-07-14T16:20:58.607Z"
-      },
-      {
-        "version": "1.343.1674",
-        "lastUpdated": "2025-07-14T01:46:52.84Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5445,7 +5445,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.347.1694/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.348.1697/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8904,9 +8904,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.40.25",
-    "last_updated": "2025-07-16T22:37:39.553Z",
+    "latest_version": "1.41.5",
+    "last_updated": "2025-07-24T18:14:21.367Z",
     "version_history": [
+      {
+        "version": "1.41.5",
+        "lastUpdated": "2025-07-24T18:14:21.367Z"
+      },
       {
         "version": "1.40.25",
         "lastUpdated": "2025-07-16T22:37:39.553Z"
@@ -8982,15 +8986,11 @@
       {
         "version": "1.19.4",
         "lastUpdated": "2025-04-08T19:10:17.96Z"
-      },
-      {
-        "version": "1.18.25",
-        "lastUpdated": "2025-04-15T21:52:03.01Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.40.25/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.41.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -13208,9 +13208,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.14.0",
-    "last_updated": "2025-07-10T07:23:18.837Z",
+    "latest_version": "1.15.0",
+    "last_updated": "2025-07-24T15:38:33.333Z",
     "version_history": [
+      {
+        "version": "1.15.0",
+        "lastUpdated": "2025-07-24T15:38:33.333Z"
+      },
       {
         "version": "1.14.0",
         "lastUpdated": "2025-07-10T07:23:18.837Z"
@@ -13286,15 +13290,11 @@
       {
         "version": "1.0.3",
         "lastUpdated": "2024-05-23T12:09:51.603Z"
-      },
-      {
-        "version": "1.0.2",
-        "lastUpdated": "2024-05-21T11:39:48.703Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.14.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.15.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -14918,12 +14918,24 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.114.0",
-    "last_updated": "2025-07-24T08:43:01.997Z",
+    "latest_version": "1.115.1753378183",
+    "last_updated": "2025-07-24T17:35:40.177Z",
     "version_history": [
+      {
+        "version": "1.115.1753378183",
+        "lastUpdated": "2025-07-24T17:35:40.177Z"
+      },
       {
         "version": "1.114.0",
         "lastUpdated": "2025-07-24T08:43:01.997Z"
+      },
+      {
+        "version": "1.113.1753376082",
+        "lastUpdated": "2025-07-24T17:00:42.77Z"
+      },
+      {
+        "version": "1.113.1753374523",
+        "lastUpdated": "2025-07-24T16:34:30.023Z"
       },
       {
         "version": "1.113.1752759214",
@@ -14988,18 +15000,6 @@
       {
         "version": "1.105.1750295617",
         "lastUpdated": "2025-06-19T01:19:37.25Z"
-      },
-      {
-        "version": "1.104.0",
-        "lastUpdated": "2025-06-18T19:16:10.31Z"
-      },
-      {
-        "version": "1.103.1749679430",
-        "lastUpdated": "2025-06-11T22:10:54.95Z"
-      },
-      {
-        "version": "1.102.0",
-        "lastUpdated": "2025-06-11T18:08:34.617Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15045,7 +15045,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.114.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.115.1753378183/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
@@ -18138,9 +18138,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.0.3",
-    "last_updated": "2025-07-18T15:23:21.93Z",
+    "latest_version": "3.0.4",
+    "last_updated": "2025-07-24T18:03:49.743Z",
     "version_history": [
+      {
+        "version": "3.0.4",
+        "lastUpdated": "2025-07-24T18:03:49.743Z"
+      },
       {
         "version": "3.0.3",
         "lastUpdated": "2025-07-18T15:23:21.93Z"
@@ -18216,15 +18220,11 @@
       {
         "version": "2.0.24",
         "lastUpdated": "2024-06-30T07:49:30.983Z"
-      },
-      {
-        "version": "2.0.22",
-        "lastUpdated": "2024-06-23T15:54:17.373Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
