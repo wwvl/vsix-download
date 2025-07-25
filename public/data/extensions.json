@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.513.0",
-    "last_updated": "2025-07-23T20:56:53.983Z",
+    "latest_version": "0.514.0",
+    "last_updated": "2025-07-24T18:53:41.76Z",
     "version_history": [
+      {
+        "version": "0.514.0",
+        "lastUpdated": "2025-07-24T18:53:41.76Z"
+      },
       {
         "version": "0.513.0",
         "lastUpdated": "2025-07-23T20:56:53.983Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.497.0",
         "lastUpdated": "2025-07-07T17:29:08.15Z"
-      },
-      {
-        "version": "0.496.2",
-        "lastUpdated": "2025-07-08T22:59:48.177Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.513.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.514.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -6150,9 +6150,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.41.0",
-    "last_updated": "2025-07-18T16:19:53.15Z",
+    "latest_version": "2.42.0",
+    "last_updated": "2025-07-24T19:58:14.487Z",
     "version_history": [
+      {
+        "version": "2.42.0",
+        "lastUpdated": "2025-07-24T19:58:14.487Z"
+      },
       {
         "version": "2.41.0",
         "lastUpdated": "2025-07-18T16:19:53.15Z"
@@ -6228,15 +6232,11 @@
       {
         "version": "2.27.4",
         "lastUpdated": "2025-02-24T21:08:25.377Z"
-      },
-      {
-        "version": "2.27.3",
-        "lastUpdated": "2025-02-23T18:55:36.797Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.41.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.42.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -8673,9 +8673,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.18.0",
-    "last_updated": "2025-07-14T22:07:29.16Z",
+    "latest_version": "1.18.1",
+    "last_updated": "2025-07-24T23:59:27.81Z",
     "version_history": [
+      {
+        "version": "1.18.1",
+        "lastUpdated": "2025-07-24T23:59:27.81Z"
+      },
       {
         "version": "1.18.0",
         "lastUpdated": "2025-07-14T22:07:29.16Z"
@@ -8711,7 +8715,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.18.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -8997,9 +9001,13 @@
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.86.19",
-    "last_updated": "2025-07-16T22:32:59.573Z",
+    "latest_version": "2.87.26",
+    "last_updated": "2025-07-24T18:56:39.16Z",
     "version_history": [
+      {
+        "version": "2.87.26",
+        "lastUpdated": "2025-07-24T18:56:39.16Z"
+      },
       {
         "version": "2.86.19",
         "lastUpdated": "2025-07-16T22:32:59.573Z"
@@ -9075,10 +9083,6 @@
       {
         "version": "2.70.15",
         "lastUpdated": "2025-03-19T21:25:53.44Z"
-      },
-      {
-        "version": "2.69.25",
-        "lastUpdated": "2025-03-26T19:57:17.88Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9101,7 +9105,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.86.19/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.87.26/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -10097,9 +10101,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.6.106",
-    "last_updated": "2025-07-20T05:07:12.533Z",
+    "latest_version": "2025.7.1",
+    "last_updated": "2025-07-24T22:44:34.03Z",
     "version_history": [
+      {
+        "version": "2025.7.1",
+        "lastUpdated": "2025-07-24T22:44:34.03Z"
+      },
       {
         "version": "2025.6.106",
         "lastUpdated": "2025-07-20T05:07:12.533Z"
@@ -10175,15 +10183,11 @@
       {
         "version": "2025.3.105",
         "lastUpdated": "2025-03-31T21:13:31.093Z"
-      },
-      {
-        "version": "2025.3.104",
-        "lastUpdated": "2025-03-28T00:35:33.31Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.6.106/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.7.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -11921,9 +11925,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250723",
-    "last_updated": "2025-07-24T00:18:12.55Z",
+    "latest_version": "5.9.20250724",
+    "last_updated": "2025-07-25T00:19:27.567Z",
     "version_history": [
+      {
+        "version": "5.9.20250724",
+        "lastUpdated": "2025-07-25T00:19:27.567Z"
+      },
       {
         "version": "5.9.20250723",
         "lastUpdated": "2025-07-24T00:18:12.55Z"
@@ -11999,15 +12007,11 @@
       {
         "version": "5.9.20250705",
         "lastUpdated": "2025-07-06T00:25:36.67Z"
-      },
-      {
-        "version": "5.9.20250704",
-        "lastUpdated": "2025-07-05T00:13:34.64Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250723/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250724/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14172,9 +14176,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2550",
-    "last_updated": "2025-07-24T00:59:00.247Z",
+    "latest_version": "0.4.2551",
+    "last_updated": "2025-07-25T01:13:58.92Z",
     "version_history": [
+      {
+        "version": "0.4.2551",
+        "lastUpdated": "2025-07-25T01:13:58.92Z"
+      },
       {
         "version": "0.4.2550",
         "lastUpdated": "2025-07-24T00:59:00.247Z"
@@ -14250,15 +14258,11 @@
       {
         "version": "0.4.2528",
         "lastUpdated": "2025-07-08T00:57:15.417Z"
-      },
-      {
-        "version": "0.4.2526",
-        "lastUpdated": "2025-07-07T00:58:36.98Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2550/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2551/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
