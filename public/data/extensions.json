@@ -1508,9 +1508,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.12.0",
-    "last_updated": "2025-07-22T13:18:27.837Z",
+    "latest_version": "3.12.2",
+    "last_updated": "2025-07-25T08:39:18.89Z",
     "version_history": [
+      {
+        "version": "3.12.2",
+        "lastUpdated": "2025-07-25T08:39:18.89Z"
+      },
       {
         "version": "3.12.0",
         "lastUpdated": "2025-07-22T13:18:27.837Z"
@@ -1586,10 +1590,6 @@
       {
         "version": "3.5.1",
         "lastUpdated": "2025-04-01T14:27:17.643Z"
-      },
-      {
-        "version": "3.5.0",
-        "lastUpdated": "2025-03-29T16:22:36.933Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1643,7 +1643,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.12.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5067,6 +5067,99 @@
     "tags": ["snippet", "zip"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gep13/vsextensions/chocolatey-vscode/0.7.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gep13.chocolatey-vscode"
+  },
+  {
+    "extension_name": "gera2ld.markmap-vscode",
+    "display_name": "Markmap",
+    "short_description": "Visualize your markdown in VSCode",
+    "latest_version": "0.2.11",
+    "last_updated": "2025-06-12T03:28:09.43Z",
+    "version_history": [
+      {
+        "version": "0.2.11",
+        "lastUpdated": "2025-06-12T03:28:09.43Z"
+      },
+      {
+        "version": "0.2.10",
+        "lastUpdated": "2025-02-14T17:00:09.36Z"
+      },
+      {
+        "version": "0.2.9",
+        "lastUpdated": "2025-02-13T14:30:45.963Z"
+      },
+      {
+        "version": "0.2.8",
+        "lastUpdated": "2025-01-13T16:11:01.7Z"
+      },
+      {
+        "version": "0.2.7",
+        "lastUpdated": "2025-01-08T04:49:24.173Z"
+      },
+      {
+        "version": "0.2.6",
+        "lastUpdated": "2025-01-04T14:01:01.82Z"
+      },
+      {
+        "version": "0.2.5",
+        "lastUpdated": "2025-01-01T06:53:42.517Z"
+      },
+      {
+        "version": "0.2.4",
+        "lastUpdated": "2024-12-30T07:24:27.773Z"
+      },
+      {
+        "version": "0.2.3",
+        "lastUpdated": "2024-12-28T12:51:25.627Z"
+      },
+      {
+        "version": "0.2.2",
+        "lastUpdated": "2024-12-24T16:37:54.117Z"
+      },
+      {
+        "version": "0.2.1",
+        "lastUpdated": "2024-12-20T06:44:32.377Z"
+      },
+      {
+        "version": "0.2.0",
+        "lastUpdated": "2024-12-19T06:24:35.643Z"
+      },
+      {
+        "version": "0.1.7",
+        "lastUpdated": "2024-12-18T05:44:00.89Z"
+      },
+      {
+        "version": "0.1.6",
+        "lastUpdated": "2024-09-26T10:18:36.98Z"
+      },
+      {
+        "version": "0.1.5",
+        "lastUpdated": "2024-09-26T07:33:25.36Z"
+      },
+      {
+        "version": "0.1.4",
+        "lastUpdated": "2024-04-21T16:01:57.83Z"
+      },
+      {
+        "version": "0.1.3",
+        "lastUpdated": "2024-03-12T14:41:21.983Z"
+      },
+      {
+        "version": "0.1.2",
+        "lastUpdated": "2023-12-03T09:17:07.77Z"
+      },
+      {
+        "version": "0.1.1",
+        "lastUpdated": "2023-07-26T15:42:31.16Z"
+      },
+      {
+        "version": "0.1.0",
+        "lastUpdated": "2023-07-16T13:53:36.503Z"
+      }
+    ],
+    "categories": ["Visualization"],
+    "tags": ["markdown", "markmap", "mindmap"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gera2ld/vsextensions/markmap-vscode/0.2.11/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode"
   },
   {
     "extension_name": "GeriYoco.vscode-image-gallery",
@@ -9897,9 +9990,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.11.2025072201",
-    "last_updated": "2025-07-22T10:46:52.197Z",
+    "latest_version": "2025.11.2025072501",
+    "last_updated": "2025-07-25T10:43:49.243Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072501",
+        "lastUpdated": "2025-07-25T10:43:49.243Z"
+      },
       {
         "version": "2025.11.2025072201",
         "lastUpdated": "2025-07-22T10:46:52.197Z"
@@ -9975,10 +10072,6 @@
       {
         "version": "2025.7.2025060401",
         "lastUpdated": "2025-06-04T10:46:14.923Z"
-      },
-      {
-        "version": "2025.7.2025053001",
-        "lastUpdated": "2025-05-30T10:50:08.53Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10001,7 +10094,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -13677,9 +13770,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025072408",
-    "last_updated": "2025-07-24T08:37:23.097Z",
+    "latest_version": "1.44.2025072508",
+    "last_updated": "2025-07-25T08:30:49.123Z",
     "version_history": [
+      {
+        "version": "1.44.2025072508",
+        "lastUpdated": "2025-07-25T08:30:49.123Z"
+      },
       {
         "version": "1.44.2025072408",
         "lastUpdated": "2025-07-24T08:37:23.097Z"
@@ -13755,15 +13852,11 @@
       {
         "version": "1.43.2025052808",
         "lastUpdated": "2025-05-28T08:28:24.733Z"
-      },
-      {
-        "version": "1.43.2025052708",
-        "lastUpdated": "2025-05-27T08:28:45.22Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025072408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025072508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
