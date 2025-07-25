@@ -1415,9 +1415,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.514.0",
-    "last_updated": "2025-07-24T18:53:41.76Z",
+    "latest_version": "0.515.0",
+    "last_updated": "2025-07-25T17:07:56.623Z",
     "version_history": [
+      {
+        "version": "0.515.0",
+        "lastUpdated": "2025-07-25T17:07:56.623Z"
+      },
       {
         "version": "0.514.0",
         "lastUpdated": "2025-07-24T18:53:41.76Z"
@@ -1493,15 +1497,11 @@
       {
         "version": "0.498.0",
         "lastUpdated": "2025-07-08T17:06:34.453Z"
-      },
-      {
-        "version": "0.497.0",
-        "lastUpdated": "2025-07-07T17:29:08.15Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.514.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.515.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
