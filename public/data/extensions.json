@@ -11832,9 +11832,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250724001",
-    "last_updated": "2025-07-24T03:00:43.027Z",
+    "latest_version": "0.13.250726001",
+    "last_updated": "2025-07-26T03:08:12.553Z",
     "version_history": [
+      {
+        "version": "0.13.250726001",
+        "lastUpdated": "2025-07-26T03:08:12.553Z"
+      },
       {
         "version": "0.13.250724001",
         "lastUpdated": "2025-07-24T03:00:43.027Z"
@@ -11910,15 +11914,11 @@
       {
         "version": "0.13.250628001",
         "lastUpdated": "2025-06-28T02:52:49.793Z"
-      },
-      {
-        "version": "0.13.250627001",
-        "lastUpdated": "2025-06-27T02:55:46.153Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250724001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250726001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -14083,9 +14083,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.23.19",
-    "last_updated": "2025-07-23T18:04:42.197Z",
+    "latest_version": "3.24.0",
+    "last_updated": "2025-07-26T04:50:38.89Z",
     "version_history": [
+      {
+        "version": "3.24.0",
+        "lastUpdated": "2025-07-26T04:50:38.89Z"
+      },
       {
         "version": "3.23.19",
         "lastUpdated": "2025-07-23T18:04:42.197Z"
@@ -14161,15 +14165,11 @@
       {
         "version": "3.23.1",
         "lastUpdated": "2025-07-09T12:22:15.297Z"
-      },
-      {
-        "version": "3.23.0",
-        "lastUpdated": "2025-07-09T04:23:36.67Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.23.19/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
