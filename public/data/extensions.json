@@ -4253,6 +4253,99 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
+    "extension_name": "EditorConfig.EditorConfig",
+    "display_name": "EditorConfig for VS Code",
+    "short_description": "EditorConfig Support for Visual Studio Code",
+    "latest_version": "0.17.4",
+    "last_updated": "2025-06-02T16:33:47.03Z",
+    "version_history": [
+      {
+        "version": "0.17.4",
+        "lastUpdated": "2025-06-02T16:33:47.03Z"
+      },
+      {
+        "version": "0.17.3",
+        "lastUpdated": "2025-05-31T20:37:21.18Z"
+      },
+      {
+        "version": "0.17.2",
+        "lastUpdated": "2025-03-10T19:08:46.573Z"
+      },
+      {
+        "version": "0.17.1",
+        "lastUpdated": "2025-02-20T13:57:35.147Z"
+      },
+      {
+        "version": "0.17.0",
+        "lastUpdated": "2025-02-11T14:59:20.11Z"
+      },
+      {
+        "version": "0.16.7",
+        "lastUpdated": "2025-02-06T17:13:03.743Z"
+      },
+      {
+        "version": "0.16.4",
+        "lastUpdated": "2020-12-07T04:39:32.08Z"
+      },
+      {
+        "version": "0.16.3",
+        "lastUpdated": "2020-11-25T18:09:55.977Z"
+      },
+      {
+        "version": "0.16.2",
+        "lastUpdated": "2020-11-25T17:50:39.93Z"
+      },
+      {
+        "version": "0.16.1",
+        "lastUpdated": "2020-11-25T01:13:50.86Z"
+      },
+      {
+        "version": "0.16.0",
+        "lastUpdated": "2020-11-25T00:46:32.38Z"
+      },
+      {
+        "version": "0.15.5",
+        "lastUpdated": "2020-11-24T20:37:50.72Z"
+      },
+      {
+        "version": "0.15.4",
+        "lastUpdated": "2020-11-24T19:40:55.28Z"
+      },
+      {
+        "version": "0.15.3",
+        "lastUpdated": "2020-11-24T19:02:49.367Z"
+      },
+      {
+        "version": "0.15.2",
+        "lastUpdated": "2020-11-24T17:45:38.77Z"
+      },
+      {
+        "version": "0.15.1",
+        "lastUpdated": "2020-05-25T01:49:28.83Z"
+      },
+      {
+        "version": "0.15.0",
+        "lastUpdated": "2020-05-22T13:00:48.107Z"
+      },
+      {
+        "version": "0.14.5",
+        "lastUpdated": "2020-04-08T01:09:22.32Z"
+      },
+      {
+        "version": "0.14.4",
+        "lastUpdated": "2019-12-18T21:31:40.79Z"
+      },
+      {
+        "version": "0.14.3",
+        "lastUpdated": "2019-12-13T07:46:32.09Z"
+      }
+    ],
+    "categories": ["Other"],
+    "tags": ["config", "editor", "editorconfig", "multi-root ready"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.4/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
+  },
+  {
     "extension_name": "Equinusocio.vsc-material-theme-icons",
     "display_name": "Material Theme Icons — Free",
     "short_description": "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.",
