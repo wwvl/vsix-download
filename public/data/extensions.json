@@ -11925,9 +11925,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250725",
-    "last_updated": "2025-07-26T00:15:35.58Z",
+    "latest_version": "5.9.20250726",
+    "last_updated": "2025-07-27T00:15:43.907Z",
     "version_history": [
+      {
+        "version": "5.9.20250726",
+        "lastUpdated": "2025-07-27T00:15:43.907Z"
+      },
       {
         "version": "5.9.20250725",
         "lastUpdated": "2025-07-26T00:15:35.58Z"
@@ -12003,15 +12007,11 @@
       {
         "version": "5.9.20250707",
         "lastUpdated": "2025-07-08T00:18:53.447Z"
-      },
-      {
-        "version": "5.9.20250706",
-        "lastUpdated": "2025-07-07T00:16:43.84Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250725/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250726/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14084,11 +14084,11 @@
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
     "latest_version": "3.24.0",
-    "last_updated": "2025-07-26T04:43:33.44Z",
+    "last_updated": "2025-07-26T04:50:38.89Z",
     "version_history": [
       {
         "version": "3.24.0",
-        "lastUpdated": "2025-07-26T04:43:33.44Z"
+        "lastUpdated": "2025-07-26T04:50:38.89Z"
       },
       {
         "version": "3.23.19",
@@ -14176,9 +14176,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2552",
-    "last_updated": "2025-07-26T01:01:56.79Z",
+    "latest_version": "0.4.2553",
+    "last_updated": "2025-07-27T01:07:33.103Z",
     "version_history": [
+      {
+        "version": "0.4.2553",
+        "lastUpdated": "2025-07-27T01:07:33.103Z"
+      },
       {
         "version": "0.4.2552",
         "lastUpdated": "2025-07-26T01:01:56.79Z"
@@ -14254,15 +14258,11 @@
       {
         "version": "0.4.2530",
         "lastUpdated": "2025-07-09T00:59:28.94Z"
-      },
-      {
-        "version": "0.4.2529",
-        "lastUpdated": "2025-07-08T08:49:58.623Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2552/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2553/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -18920,6 +18920,99 @@
     "tags": ["cloudmusic", "music", "Netease", "网易云", "网易云音乐", "音乐"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yxl/vsextensions/cloudmusic/9.22.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yxl.cloudmusic"
+  },
+  {
+    "extension_name": "yy0931.vscode-sqlite3-editor",
+    "display_name": "SQLite3 Editor",
+    "short_description": "Edit SQLite3 files like you would in spreadsheet applications.",
+    "latest_version": "1.0.207",
+    "last_updated": "2025-04-27T07:28:14.35Z",
+    "version_history": [
+      {
+        "version": "1.0.207",
+        "lastUpdated": "2025-04-27T07:28:14.35Z"
+      },
+      {
+        "version": "1.0.206",
+        "lastUpdated": "2025-04-26T03:06:11.373Z"
+      },
+      {
+        "version": "1.0.205",
+        "lastUpdated": "2025-03-21T07:46:32.443Z"
+      },
+      {
+        "version": "1.0.204",
+        "lastUpdated": "2025-02-23T14:48:05.1Z"
+      },
+      {
+        "version": "1.0.203",
+        "lastUpdated": "2025-02-21T23:21:33.777Z"
+      },
+      {
+        "version": "1.0.202",
+        "lastUpdated": "2025-02-10T05:15:23.173Z"
+      },
+      {
+        "version": "1.0.201",
+        "lastUpdated": "2025-01-26T02:58:54.53Z"
+      },
+      {
+        "version": "1.0.200",
+        "lastUpdated": "2024-12-31T14:02:50.857Z"
+      },
+      {
+        "version": "1.0.199",
+        "lastUpdated": "2024-12-30T13:51:16.67Z"
+      },
+      {
+        "version": "1.0.198",
+        "lastUpdated": "2024-12-29T14:02:35.847Z"
+      },
+      {
+        "version": "1.0.197",
+        "lastUpdated": "2024-12-09T13:58:30.417Z"
+      },
+      {
+        "version": "1.0.196",
+        "lastUpdated": "2024-10-13T14:53:43.537Z"
+      },
+      {
+        "version": "1.0.195",
+        "lastUpdated": "2024-09-29T11:15:53.673Z"
+      },
+      {
+        "version": "1.0.194",
+        "lastUpdated": "2024-09-23T11:49:31.61Z"
+      },
+      {
+        "version": "1.0.193",
+        "lastUpdated": "2024-09-22T13:13:43.03Z"
+      },
+      {
+        "version": "1.0.192",
+        "lastUpdated": "2024-09-02T12:20:26.11Z"
+      },
+      {
+        "version": "1.0.191",
+        "lastUpdated": "2024-09-01T09:30:10.293Z"
+      },
+      {
+        "version": "1.0.190",
+        "lastUpdated": "2024-08-31T14:35:18.127Z"
+      },
+      {
+        "version": "1.0.189",
+        "lastUpdated": "2024-06-28T12:02:08.367Z"
+      },
+      {
+        "version": "1.0.188",
+        "lastUpdated": "2024-06-02T09:36:49.357Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Data Science", "Visualization", "Education"],
+    "tags": ["database", "keybindings", "query-editor", "sqlite", "SQLite3 Editor Query", "sqlite3-editor-database", "table", "viewer"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yy0931/vsextensions/vscode-sqlite3-editor/1.0.207/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor"
   },
   {
     "extension_name": "yzhang.markdown-all-in-one",
