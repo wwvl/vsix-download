@@ -5672,9 +5672,13 @@
     "extension_name": "GitHub.remotehub",
     "display_name": "GitHub Repositories",
     "short_description": "Remotely browse and edit any GitHub repository",
-    "latest_version": "0.65.2025063001",
-    "last_updated": "2025-06-30T09:28:40.67Z",
+    "latest_version": "0.65.2025072801",
+    "last_updated": "2025-07-28T09:25:27.133Z",
     "version_history": [
+      {
+        "version": "0.65.2025072801",
+        "lastUpdated": "2025-07-28T09:25:27.133Z"
+      },
       {
         "version": "0.65.2025063001",
         "lastUpdated": "2025-06-30T09:28:40.67Z"
@@ -5750,15 +5754,11 @@
       {
         "version": "0.61.2023100201",
         "lastUpdated": "2023-10-02T09:21:20.133Z"
-      },
-      {
-        "version": "0.61.2023092801",
-        "lastUpdated": "2023-09-28T09:20:14Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2025063001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2025072801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub"
   },
   {
@@ -9622,9 +9622,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.11.2025072201",
-    "last_updated": "2025-07-22T10:34:52.057Z",
+    "latest_version": "2025.11.2025072801",
+    "last_updated": "2025-07-28T10:41:29.307Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072801",
+        "lastUpdated": "2025-07-28T10:41:29.307Z"
+      },
       {
         "version": "2025.11.2025072201",
         "lastUpdated": "2025-07-22T10:34:52.057Z"
@@ -9700,15 +9704,11 @@
       {
         "version": "2025.1.2025021701",
         "lastUpdated": "2025-02-17T10:37:29.917Z"
-      },
-      {
-        "version": "2025.1.2025021401",
-        "lastUpdated": "2025-02-14T10:39:19.85Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025072201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025072801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -9994,9 +9994,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.11.2025072501",
-    "last_updated": "2025-07-25T10:43:49.243Z",
+    "latest_version": "2025.11.2025072801",
+    "last_updated": "2025-07-28T10:44:53.76Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072801",
+        "lastUpdated": "2025-07-28T10:44:53.76Z"
+      },
       {
         "version": "2025.11.2025072501",
         "lastUpdated": "2025-07-25T10:43:49.243Z"
@@ -10072,10 +10076,6 @@
       {
         "version": "2025.7.2025060501",
         "lastUpdated": "2025-06-05T10:49:48.85Z"
-      },
-      {
-        "version": "2025.7.2025060401",
-        "lastUpdated": "2025-06-04T10:46:14.923Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10098,7 +10098,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
