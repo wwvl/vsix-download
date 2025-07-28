@@ -772,9 +772,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.27.0",
-    "last_updated": "2025-07-10T10:16:45.333Z",
+    "latest_version": "2.27.5",
+    "last_updated": "2025-07-28T12:58:11.253Z",
     "version_history": [
+      {
+        "version": "2.27.5",
+        "lastUpdated": "2025-07-28T12:58:11.253Z"
+      },
       {
         "version": "2.27.0",
         "lastUpdated": "2025-07-10T10:16:45.333Z"
@@ -850,10 +854,6 @@
       {
         "version": "2.22.6",
         "lastUpdated": "2025-04-28T04:58:58.67Z"
-      },
-      {
-        "version": "2.22.5",
-        "lastUpdated": "2025-04-27T03:57:38.913Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -882,7 +882,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.27.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.27.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -1419,9 +1419,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.516.0",
-    "last_updated": "2025-07-25T23:18:15.923Z",
+    "latest_version": "0.517.0",
+    "last_updated": "2025-07-28T17:11:20.123Z",
     "version_history": [
+      {
+        "version": "0.517.0",
+        "lastUpdated": "2025-07-28T17:11:20.123Z"
+      },
+      {
+        "version": "0.516.1",
+        "lastUpdated": "2025-07-28T17:45:25.213Z"
+      },
       {
         "version": "0.516.0",
         "lastUpdated": "2025-07-25T23:18:15.923Z"
@@ -1493,19 +1501,11 @@
       {
         "version": "0.501.0",
         "lastUpdated": "2025-07-11T17:07:14.047Z"
-      },
-      {
-        "version": "0.500.0",
-        "lastUpdated": "2025-07-10T17:08:28.903Z"
-      },
-      {
-        "version": "0.499.0",
-        "lastUpdated": "2025-07-09T17:07:04.207Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.516.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.517.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2662,9 +2662,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.67",
-    "last_updated": "2025-07-23T23:38:48.13Z",
+    "latest_version": "1.1.69",
+    "last_updated": "2025-07-28T16:19:20.357Z",
     "version_history": [
+      {
+        "version": "1.1.69",
+        "lastUpdated": "2025-07-28T16:19:20.357Z"
+      },
       {
         "version": "1.1.67",
         "lastUpdated": "2025-07-23T23:38:48.13Z"
@@ -2740,15 +2744,11 @@
       {
         "version": "1.1.44",
         "lastUpdated": "2025-06-04T19:59:17.307Z"
-      },
-      {
-        "version": "1.1.43",
-        "lastUpdated": "2025-06-04T17:56:23.013Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.67/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.69/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -2848,9 +2848,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.115.20250724",
-    "last_updated": "2025-07-24T15:42:55.527Z",
+    "latest_version": "3.115.20250728",
+    "last_updated": "2025-07-28T14:32:08.623Z",
     "version_history": [
+      {
+        "version": "3.115.20250728",
+        "lastUpdated": "2025-07-28T14:32:08.623Z"
+      },
       {
         "version": "3.115.20250724",
         "lastUpdated": "2025-07-24T15:42:55.527Z"
@@ -2926,15 +2930,11 @@
       {
         "version": "3.109.20250401",
         "lastUpdated": "2025-04-01T14:10:45.01Z"
-      },
-      {
-        "version": "3.108.2",
-        "lastUpdated": "2025-04-03T11:28:30.42Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250724/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250728/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -3406,9 +3406,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17685",
-    "last_updated": "2025-07-23T17:12:44.9Z",
+    "latest_version": "1.59.17702",
+    "last_updated": "2025-07-28T16:55:03.687Z",
     "version_history": [
+      {
+        "version": "1.59.17702",
+        "lastUpdated": "2025-07-28T16:55:03.687Z"
+      },
       {
         "version": "1.59.17685",
         "lastUpdated": "2025-07-23T17:12:44.9Z"
@@ -3484,15 +3488,11 @@
       {
         "version": "1.58.17223",
         "lastUpdated": "2025-05-02T09:37:24.597Z"
-      },
-      {
-        "version": "1.58.17217",
-        "lastUpdated": "2025-04-30T16:43:13.513Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17685/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4163,9 +4163,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.2605",
-    "last_updated": "2025-07-26T09:14:25.03Z",
+    "latest_version": "2025.7.2812",
+    "last_updated": "2025-07-28T17:00:27.317Z",
     "version_history": [
+      {
+        "version": "2025.7.2812",
+        "lastUpdated": "2025-07-28T17:00:27.317Z"
+      },
       {
         "version": "2025.7.2605",
         "lastUpdated": "2025-07-26T09:14:25.03Z"
@@ -4241,15 +4245,11 @@
       {
         "version": "2025.6.2605",
         "lastUpdated": "2025-06-26T09:13:47.32Z"
-      },
-      {
-        "version": "2025.6.2517",
-        "lastUpdated": "2025-06-25T21:36:12.51Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2812/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
