@@ -5339,9 +5339,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.348.1700",
-    "last_updated": "2025-07-28T01:48:15.33Z",
+    "latest_version": "1.349.1703",
+    "last_updated": "2025-07-29T01:53:47.223Z",
     "version_history": [
+      {
+        "version": "1.349.1703",
+        "lastUpdated": "2025-07-29T01:53:47.223Z"
+      },
       {
         "version": "1.348.1700",
         "lastUpdated": "2025-07-28T01:48:15.33Z"
@@ -5417,10 +5421,6 @@
       {
         "version": "1.344.0",
         "lastUpdated": "2025-07-15T18:05:35.573Z"
-      },
-      {
-        "version": "1.343.1677",
-        "lastUpdated": "2025-07-15T15:47:01.52Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5449,7 +5449,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.348.1700/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.349.1703/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -11929,9 +11929,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250727",
-    "last_updated": "2025-07-28T00:17:41.12Z",
+    "latest_version": "5.9.20250728",
+    "last_updated": "2025-07-29T00:21:46.86Z",
     "version_history": [
+      {
+        "version": "5.9.20250728",
+        "lastUpdated": "2025-07-29T00:21:46.86Z"
+      },
       {
         "version": "5.9.20250727",
         "lastUpdated": "2025-07-28T00:17:41.12Z"
@@ -12007,15 +12011,11 @@
       {
         "version": "5.9.20250709",
         "lastUpdated": "2025-07-10T00:23:41.64Z"
-      },
-      {
-        "version": "5.9.20250708",
-        "lastUpdated": "2025-07-09T00:19:55.043Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250727/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250728/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14180,9 +14180,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2554",
-    "last_updated": "2025-07-28T01:01:13.62Z",
+    "latest_version": "0.4.2556",
+    "last_updated": "2025-07-29T01:01:59.6Z",
     "version_history": [
+      {
+        "version": "0.4.2556",
+        "lastUpdated": "2025-07-29T01:01:59.6Z"
+      },
       {
         "version": "0.4.2554",
         "lastUpdated": "2025-07-28T01:01:13.62Z"
@@ -14258,15 +14262,11 @@
       {
         "version": "0.4.2534",
         "lastUpdated": "2025-07-10T00:57:52.9Z"
-      },
-      {
-        "version": "0.4.2532",
-        "lastUpdated": "2025-07-09T08:24:18.31Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2554/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2556/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16858,9 +16858,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025072600",
-    "last_updated": "2025-07-26T01:05:26.727Z",
+    "latest_version": "2.0.2025072900",
+    "last_updated": "2025-07-29T01:16:23.41Z",
     "version_history": [
+      {
+        "version": "2.0.2025072900",
+        "lastUpdated": "2025-07-29T01:16:23.41Z"
+      },
       {
         "version": "2.0.2025072600",
         "lastUpdated": "2025-07-26T01:05:26.727Z"
@@ -16936,10 +16940,6 @@
       {
         "version": "1.63.2025060500",
         "lastUpdated": "2025-06-05T01:07:02.507Z"
-      },
-      {
-        "version": "1.63.2025060311",
-        "lastUpdated": "2025-06-03T12:12:48.44Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16958,7 +16958,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025072600/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025072900/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
