@@ -2662,9 +2662,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.69",
-    "last_updated": "2025-07-28T16:19:20.357Z",
+    "latest_version": "1.1.71",
+    "last_updated": "2025-07-29T07:20:44.607Z",
     "version_history": [
+      {
+        "version": "1.1.71",
+        "lastUpdated": "2025-07-29T07:20:44.607Z"
+      },
       {
         "version": "1.1.69",
         "lastUpdated": "2025-07-28T16:19:20.357Z"
@@ -2740,15 +2744,11 @@
       {
         "version": "1.1.45",
         "lastUpdated": "2025-06-06T06:13:04.18Z"
-      },
-      {
-        "version": "1.1.44",
-        "lastUpdated": "2025-06-04T19:59:17.307Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.69/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.71/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -4163,9 +4163,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.2812",
-    "last_updated": "2025-07-28T17:00:27.317Z",
+    "latest_version": "2025.7.2905",
+    "last_updated": "2025-07-29T09:17:45.957Z",
     "version_history": [
+      {
+        "version": "2025.7.2905",
+        "lastUpdated": "2025-07-29T09:17:45.957Z"
+      },
       {
         "version": "2025.7.2812",
         "lastUpdated": "2025-07-28T17:00:27.317Z"
@@ -4241,15 +4245,11 @@
       {
         "version": "2025.6.2705",
         "lastUpdated": "2025-06-27T09:13:54.11Z"
-      },
-      {
-        "version": "2025.6.2605",
-        "lastUpdated": "2025-06-26T09:13:47.32Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2812/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2905/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9622,9 +9622,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.11.2025072801",
-    "last_updated": "2025-07-28T10:41:29.307Z",
+    "latest_version": "2025.11.2025072901",
+    "last_updated": "2025-07-29T10:38:32.423Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072901",
+        "lastUpdated": "2025-07-29T10:38:32.423Z"
+      },
       {
         "version": "2025.11.2025072801",
         "lastUpdated": "2025-07-28T10:41:29.307Z"
@@ -9700,15 +9704,11 @@
       {
         "version": "2025.1.2025022401",
         "lastUpdated": "2025-02-24T10:38:30.14Z"
-      },
-      {
-        "version": "2025.1.2025021701",
-        "lastUpdated": "2025-02-17T10:37:29.917Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025072801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.11.2025072901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -9994,9 +9994,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.11.2025072801",
-    "last_updated": "2025-07-28T10:44:53.76Z",
+    "latest_version": "2025.11.2025072901",
+    "last_updated": "2025-07-29T10:46:46.533Z",
     "version_history": [
+      {
+        "version": "2025.11.2025072901",
+        "lastUpdated": "2025-07-29T10:46:46.533Z"
+      },
       {
         "version": "2025.11.2025072801",
         "lastUpdated": "2025-07-28T10:44:53.76Z"
@@ -10072,10 +10076,6 @@
       {
         "version": "2025.8.0",
         "lastUpdated": "2025-06-16T16:18:10.197Z"
-      },
-      {
-        "version": "2025.7.2025060501",
-        "lastUpdated": "2025-06-05T10:49:48.85Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10098,7 +10098,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.11.2025072901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -12901,9 +12901,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.8.0",
-    "last_updated": "2025-07-22T11:34:17.76Z",
+    "latest_version": "1.9.0",
+    "last_updated": "2025-07-29T09:10:17.927Z",
     "version_history": [
+      {
+        "version": "1.9.0",
+        "lastUpdated": "2025-07-29T09:10:17.927Z"
+      },
       {
         "version": "1.8.0",
         "lastUpdated": "2025-07-22T11:34:17.76Z"
@@ -12979,15 +12983,11 @@
       {
         "version": "0.16.6",
         "lastUpdated": "2025-04-14T04:06:08.913Z"
-      },
-      {
-        "version": "0.16.5",
-        "lastUpdated": "2025-04-07T09:45:34.87Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.9.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -13309,9 +13309,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.12.0",
-    "last_updated": "2025-07-15T16:09:59.063Z",
+    "latest_version": "6.13.0",
+    "last_updated": "2025-07-29T11:58:22.58Z",
     "version_history": [
+      {
+        "version": "6.13.0",
+        "lastUpdated": "2025-07-29T11:58:22.58Z"
+      },
       {
         "version": "6.12.0",
         "lastUpdated": "2025-07-15T16:09:59.063Z"
@@ -13387,15 +13391,11 @@
       {
         "version": "6.2.1",
         "lastUpdated": "2025-01-08T18:04:25.84Z"
-      },
-      {
-        "version": "6.2.0",
-        "lastUpdated": "2025-01-08T12:49:33.02Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.13.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
