@@ -4163,9 +4163,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.7.2905",
-    "last_updated": "2025-07-29T09:17:45.957Z",
+    "latest_version": "2025.7.3005",
+    "last_updated": "2025-07-30T09:17:55.847Z",
     "version_history": [
+      {
+        "version": "2025.7.3005",
+        "lastUpdated": "2025-07-30T09:17:55.847Z"
+      },
       {
         "version": "2025.7.2905",
         "lastUpdated": "2025-07-29T09:17:45.957Z"
@@ -4241,15 +4245,11 @@
       {
         "version": "2025.6.2905",
         "lastUpdated": "2025-06-29T09:14:01.827Z"
-      },
-      {
-        "version": "2025.6.2705",
-        "lastUpdated": "2025-06-27T09:13:54.11Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.2905/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.7.3005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5858,9 +5858,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025073004",
-    "last_updated": "2025-07-30T04:26:41.983Z",
+    "latest_version": "0.117.2025073012",
+    "last_updated": "2025-07-30T12:33:38.657Z",
     "version_history": [
+      {
+        "version": "0.117.2025073012",
+        "lastUpdated": "2025-07-30T12:33:38.657Z"
+      },
       {
         "version": "0.117.2025073004",
         "lastUpdated": "2025-07-30T04:26:41.983Z"
@@ -5936,15 +5940,11 @@
       {
         "version": "0.114.1",
         "lastUpdated": "2025-07-15T08:12:32.03Z"
-      },
-      {
-        "version": "0.114.0",
-        "lastUpdated": "2025-07-10T17:39:47.8Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025073004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025073012/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -13774,9 +13774,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.44.2025072508",
-    "last_updated": "2025-07-25T08:30:49.123Z",
+    "latest_version": "1.44.2025073008",
+    "last_updated": "2025-07-30T08:29:06.787Z",
     "version_history": [
+      {
+        "version": "1.44.2025073008",
+        "lastUpdated": "2025-07-30T08:29:06.787Z"
+      },
       {
         "version": "1.44.2025072508",
         "lastUpdated": "2025-07-25T08:30:49.123Z"
@@ -13852,15 +13856,11 @@
       {
         "version": "1.43.2025053008",
         "lastUpdated": "2025-05-30T08:28:26.95Z"
-      },
-      {
-        "version": "1.43.2025052808",
-        "lastUpdated": "2025-05-28T08:28:24.733Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025072508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.44.2025073008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -18535,9 +18535,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.2.1",
-    "last_updated": "2025-07-30T06:15:52.843Z",
+    "latest_version": "25.2.2",
+    "last_updated": "2025-07-30T12:35:13.183Z",
     "version_history": [
+      {
+        "version": "25.2.2",
+        "lastUpdated": "2025-07-30T12:35:13.183Z"
+      },
       {
         "version": "25.2.1",
         "lastUpdated": "2025-07-30T06:15:52.843Z"
@@ -18613,10 +18617,6 @@
       {
         "version": "24.7.1",
         "lastUpdated": "2024-11-07T14:20:53.7Z"
-      },
-      {
-        "version": "24.7.0",
-        "lastUpdated": "2024-11-07T13:32:55.62Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -18641,7 +18641,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.2.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.2.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
