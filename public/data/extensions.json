@@ -5339,9 +5339,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.349.1705",
-    "last_updated": "2025-07-29T16:37:43.723Z",
+    "latest_version": "1.350.0",
+    "last_updated": "2025-07-29T18:58:28.617Z",
     "version_history": [
+      {
+        "version": "1.350.0",
+        "lastUpdated": "2025-07-29T18:58:28.617Z"
+      },
       {
         "version": "1.349.1705",
         "lastUpdated": "2025-07-29T16:37:43.723Z"
@@ -5417,10 +5421,6 @@
       {
         "version": "1.344.1681",
         "lastUpdated": "2025-07-17T01:48:27.09Z"
-      },
-      {
-        "version": "1.344.1680",
-        "lastUpdated": "2025-07-16T16:21:39.203Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5449,7 +5449,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.349.1705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.350.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5858,9 +5858,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025072904",
-    "last_updated": "2025-07-29T04:24:49.95Z",
+    "latest_version": "0.117.2025072920",
+    "last_updated": "2025-07-29T20:31:23.127Z",
     "version_history": [
+      {
+        "version": "0.117.2025072920",
+        "lastUpdated": "2025-07-29T20:31:23.127Z"
+      },
       {
         "version": "0.117.2025072904",
         "lastUpdated": "2025-07-29T04:24:49.95Z"
@@ -5936,15 +5940,11 @@
       {
         "version": "0.113.2025070816",
         "lastUpdated": "2025-07-08T16:39:19.327Z"
-      },
-      {
-        "version": "0.113.2025070716",
-        "lastUpdated": "2025-07-07T16:24:33.35Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025072904/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025072920/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8070,11 +8070,11 @@
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
     "latest_version": "1.2.35",
-    "last_updated": "2025-07-29T14:44:02.787Z",
+    "last_updated": "2025-07-29T14:35:08.41Z",
     "version_history": [
       {
         "version": "1.2.35",
-        "lastUpdated": "2025-07-29T14:44:02.787Z"
+        "lastUpdated": "2025-07-29T14:35:08.41Z"
       },
       {
         "version": "1.2.34",
@@ -11278,9 +11278,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.7.2217",
-    "last_updated": "2025-07-23T00:17:05.033Z",
+    "latest_version": "2025.7.2917",
+    "last_updated": "2025-07-30T00:17:42.4Z",
     "version_history": [
+      {
+        "version": "2025.7.2917",
+        "lastUpdated": "2025-07-30T00:17:42.4Z"
+      },
       {
         "version": "2025.7.2217",
         "lastUpdated": "2025-07-23T00:17:05.033Z"
@@ -11356,15 +11360,11 @@
       {
         "version": "2025.1.2717",
         "lastUpdated": "2025-01-28T01:17:07.493Z"
-      },
-      {
-        "version": "2025.1.817",
-        "lastUpdated": "2025-01-09T01:14:14.9Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssemblyTextFormat"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.2217/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.2917/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11929,9 +11929,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250728",
-    "last_updated": "2025-07-29T00:21:46.86Z",
+    "latest_version": "5.9.20250729",
+    "last_updated": "2025-07-30T00:19:13.023Z",
     "version_history": [
+      {
+        "version": "5.9.20250729",
+        "lastUpdated": "2025-07-30T00:19:13.023Z"
+      },
       {
         "version": "5.9.20250728",
         "lastUpdated": "2025-07-29T00:21:46.86Z"
@@ -12007,15 +12011,11 @@
       {
         "version": "5.9.20250710",
         "lastUpdated": "2025-07-11T00:23:29.89Z"
-      },
-      {
-        "version": "5.9.20250709",
-        "lastUpdated": "2025-07-10T00:23:41.64Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250728/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250729/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14087,9 +14087,17 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code (prev. Roo Cline)",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.25.0",
-    "last_updated": "2025-07-29T16:03:41.373Z",
+    "latest_version": "3.25.2",
+    "last_updated": "2025-07-29T22:17:51.34Z",
     "version_history": [
+      {
+        "version": "3.25.2",
+        "lastUpdated": "2025-07-29T22:17:51.34Z"
+      },
+      {
+        "version": "3.25.1",
+        "lastUpdated": "2025-07-29T21:18:40.087Z"
+      },
       {
         "version": "3.25.0",
         "lastUpdated": "2025-07-29T16:03:41.373Z"
@@ -14161,28 +14169,24 @@
       {
         "version": "3.23.4",
         "lastUpdated": "2025-07-09T22:10:17.647Z"
-      },
-      {
-        "version": "3.23.3",
-        "lastUpdated": "2025-07-09T14:27:02.667Z"
-      },
-      {
-        "version": "3.23.2",
-        "lastUpdated": "2025-07-09T14:04:15.193Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2556",
-    "last_updated": "2025-07-29T01:01:59.6Z",
+    "latest_version": "0.4.2557",
+    "last_updated": "2025-07-30T01:08:52.597Z",
     "version_history": [
+      {
+        "version": "0.4.2557",
+        "lastUpdated": "2025-07-30T01:08:52.597Z"
+      },
       {
         "version": "0.4.2556",
         "lastUpdated": "2025-07-29T01:01:59.6Z"
@@ -14258,15 +14262,11 @@
       {
         "version": "0.4.2535",
         "lastUpdated": "2025-07-11T01:01:37.217Z"
-      },
-      {
-        "version": "0.4.2534",
-        "lastUpdated": "2025-07-10T00:57:52.9Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2556/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2557/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
