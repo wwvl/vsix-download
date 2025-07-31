@@ -1419,9 +1419,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.519.0",
-    "last_updated": "2025-07-30T18:24:36.637Z",
+    "latest_version": "0.520.0",
+    "last_updated": "2025-07-31T17:10:48.687Z",
     "version_history": [
+      {
+        "version": "0.520.0",
+        "lastUpdated": "2025-07-31T17:10:48.687Z"
+      },
       {
         "version": "0.519.0",
         "lastUpdated": "2025-07-30T18:24:36.637Z"
@@ -1433,6 +1437,10 @@
       {
         "version": "0.517.0",
         "lastUpdated": "2025-07-28T17:11:20.123Z"
+      },
+      {
+        "version": "0.516.3",
+        "lastUpdated": "2025-07-31T17:18:00.433Z"
       },
       {
         "version": "0.516.2",
@@ -1493,19 +1501,11 @@
       {
         "version": "0.505.0",
         "lastUpdated": "2025-07-15T17:08:32.73Z"
-      },
-      {
-        "version": "0.504.0",
-        "lastUpdated": "2025-07-14T18:26:41.937Z"
-      },
-      {
-        "version": "0.503.0",
-        "lastUpdated": "2025-07-14T17:09:13.14Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.519.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.520.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2872,9 +2872,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.115.20250728",
-    "last_updated": "2025-07-28T14:32:08.623Z",
+    "latest_version": "3.117.20250731",
+    "last_updated": "2025-07-31T14:20:13.32Z",
     "version_history": [
+      {
+        "version": "3.117.20250731",
+        "lastUpdated": "2025-07-31T14:20:13.32Z"
+      },
+      {
+        "version": "3.116.0",
+        "lastUpdated": "2025-07-31T14:22:22.45Z"
+      },
       {
         "version": "3.115.20250728",
         "lastUpdated": "2025-07-28T14:32:08.623Z"
@@ -2946,28 +2954,28 @@
       {
         "version": "3.109.20250404",
         "lastUpdated": "2025-04-03T11:25:45.84Z"
-      },
-      {
-        "version": "3.109.20250403",
-        "lastUpdated": "2025-04-03T09:38:43.453Z"
-      },
-      {
-        "version": "3.109.20250401",
-        "lastUpdated": "2025-04-01T14:10:45.01Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.115.20250728/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250731/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.115.20250701",
-    "last_updated": "2025-07-01T11:17:36.583Z",
+    "latest_version": "3.117.20250731",
+    "last_updated": "2025-07-31T14:18:20.567Z",
     "version_history": [
+      {
+        "version": "3.117.20250731",
+        "lastUpdated": "2025-07-31T14:18:20.567Z"
+      },
+      {
+        "version": "3.116.0",
+        "lastUpdated": "2025-07-31T14:16:54.23Z"
+      },
       {
         "version": "3.115.20250701",
         "lastUpdated": "2025-07-01T11:17:36.583Z"
@@ -3039,19 +3047,11 @@
       {
         "version": "3.99.20240930",
         "lastUpdated": "2024-09-30T15:09:42.65Z"
-      },
-      {
-        "version": "3.98.0",
-        "lastUpdated": "2024-09-30T15:06:37.84Z"
-      },
-      {
-        "version": "3.97.20240902",
-        "lastUpdated": "2024-09-02T13:46:13.96Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.115.20250701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.117.20250731/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -3430,9 +3430,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.59.17706",
-    "last_updated": "2025-07-29T13:25:52.74Z",
+    "latest_version": "1.59.17714",
+    "last_updated": "2025-07-31T15:55:16.51Z",
     "version_history": [
+      {
+        "version": "1.59.17714",
+        "lastUpdated": "2025-07-31T15:55:16.51Z"
+      },
       {
         "version": "1.59.17706",
         "lastUpdated": "2025-07-29T13:25:52.74Z"
@@ -3508,15 +3512,11 @@
       {
         "version": "1.58.17385",
         "lastUpdated": "2025-05-20T17:50:18.25Z"
-      },
-      {
-        "version": "1.58.17340",
-        "lastUpdated": "2025-05-15T14:25:27.753Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17706/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.59.17714/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -10776,9 +10776,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.121.2025072915",
-    "last_updated": "2025-07-29T15:19:16.24Z",
+    "latest_version": "0.121.2025073115",
+    "last_updated": "2025-07-31T15:21:12.727Z",
     "version_history": [
+      {
+        "version": "0.121.2025073115",
+        "lastUpdated": "2025-07-31T15:21:12.727Z"
+      },
       {
         "version": "0.121.2025072915",
         "lastUpdated": "2025-07-29T15:19:16.24Z"
@@ -10854,15 +10858,11 @@
       {
         "version": "0.119.0",
         "lastUpdated": "2025-04-04T16:53:50.17Z"
-      },
-      {
-        "version": "0.118.2025022515",
-        "lastUpdated": "2025-02-25T15:22:21.21Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025072915/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025073115/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -13846,6 +13846,10 @@
         "lastUpdated": "2025-06-28T00:25:39.803Z"
       },
       {
+        "version": "1.44.0",
+        "lastUpdated": "2025-07-31T14:12:22.92Z"
+      },
+      {
         "version": "1.43.2025062508",
         "lastUpdated": "2025-06-25T08:27:37.44Z"
       },
@@ -13876,10 +13880,6 @@
       {
         "version": "1.43.2025060308",
         "lastUpdated": "2025-06-03T08:30:31.18Z"
-      },
-      {
-        "version": "1.43.2025053008",
-        "lastUpdated": "2025-05-30T08:28:26.95Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
@@ -14950,9 +14950,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.116.0",
-    "last_updated": "2025-07-30T17:45:18.383Z",
+    "latest_version": "1.117.1753982031",
+    "last_updated": "2025-07-31T17:19:28.34Z",
     "version_history": [
+      {
+        "version": "1.117.1753982031",
+        "lastUpdated": "2025-07-31T17:19:28.34Z"
+      },
       {
         "version": "1.116.0",
         "lastUpdated": "2025-07-30T17:45:18.383Z"
@@ -15028,10 +15032,6 @@
       {
         "version": "1.105.1750790489",
         "lastUpdated": "2025-06-24T18:48:38.773Z"
-      },
-      {
-        "version": "1.105.1750788384",
-        "lastUpdated": "2025-06-24T18:12:54.91Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15077,7 +15077,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.116.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.117.1753982031/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
@@ -16635,9 +16635,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.26.3",
-    "last_updated": "2025-07-10T18:51:13.257Z",
+    "latest_version": "1.26.4",
+    "last_updated": "2025-07-31T12:48:14.133Z",
     "version_history": [
+      {
+        "version": "1.26.4",
+        "lastUpdated": "2025-07-31T12:48:14.133Z"
+      },
       {
         "version": "1.26.3",
         "lastUpdated": "2025-07-10T18:51:13.257Z"
@@ -16713,15 +16717,11 @@
       {
         "version": "1.18.0",
         "lastUpdated": "2025-04-29T18:33:29.893Z"
-      },
-      {
-        "version": "1.17.1",
-        "lastUpdated": "2025-04-28T16:03:34.547Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.26.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.26.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
