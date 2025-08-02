@@ -1861,9 +1861,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.25",
-    "last_updated": "2025-07-10T15:43:54.22Z",
+    "latest_version": "0.14.26",
+    "last_updated": "2025-08-01T18:49:08.09Z",
     "version_history": [
+      {
+        "version": "0.14.26",
+        "lastUpdated": "2025-08-01T18:49:08.09Z"
+      },
       {
         "version": "0.14.25",
         "lastUpdated": "2025-07-10T15:43:54.22Z"
@@ -1939,15 +1943,11 @@
       {
         "version": "0.14.7",
         "lastUpdated": "2025-02-25T16:45:03.717Z"
-      },
-      {
-        "version": "0.14.6",
-        "lastUpdated": "2025-02-18T12:56:51.063Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.25/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.26/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -11953,9 +11953,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "5.9.20250731",
-    "last_updated": "2025-08-01T00:21:56.26Z",
+    "latest_version": "6.0.20250801",
+    "last_updated": "2025-08-02T00:23:49.347Z",
     "version_history": [
+      {
+        "version": "6.0.20250801",
+        "lastUpdated": "2025-08-02T00:23:49.347Z"
+      },
       {
         "version": "5.9.20250731",
         "lastUpdated": "2025-08-01T00:21:56.26Z"
@@ -12031,15 +12035,11 @@
       {
         "version": "5.9.20250713",
         "lastUpdated": "2025-07-14T00:16:18.493Z"
-      },
-      {
-        "version": "5.9.20250712",
-        "lastUpdated": "2025-07-13T00:16:55.993Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/5.9.20250731/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14111,9 +14111,17 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.25.4",
-    "last_updated": "2025-07-31T04:21:55.33Z",
+    "latest_version": "3.25.6",
+    "last_updated": "2025-08-02T01:40:28.23Z",
     "version_history": [
+      {
+        "version": "3.25.6",
+        "lastUpdated": "2025-08-02T01:40:28.23Z"
+      },
+      {
+        "version": "3.25.5",
+        "lastUpdated": "2025-08-01T19:46:45.097Z"
+      },
       {
         "version": "3.25.4",
         "lastUpdated": "2025-07-31T04:21:55.33Z"
@@ -14185,28 +14193,24 @@
       {
         "version": "3.23.8",
         "lastUpdated": "2025-07-13T18:57:25.103Z"
-      },
-      {
-        "version": "3.23.7",
-        "lastUpdated": "2025-07-12T03:50:27.383Z"
-      },
-      {
-        "version": "3.23.6",
-        "lastUpdated": "2025-07-10T11:16:40.087Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2559",
-    "last_updated": "2025-08-01T01:17:45.453Z",
+    "latest_version": "0.4.2560",
+    "last_updated": "2025-08-02T01:01:53.173Z",
     "version_history": [
+      {
+        "version": "0.4.2560",
+        "lastUpdated": "2025-08-02T01:01:53.173Z"
+      },
       {
         "version": "0.4.2559",
         "lastUpdated": "2025-08-01T01:17:45.453Z"
@@ -14282,15 +14286,11 @@
       {
         "version": "0.4.2538",
         "lastUpdated": "2025-07-14T00:59:02.38Z"
-      },
-      {
-        "version": "0.4.2537",
-        "lastUpdated": "2025-07-13T01:05:01.85Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2559/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2560/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14505,9 +14505,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.20.3",
-    "last_updated": "2025-07-31T05:08:40.073Z",
+    "latest_version": "3.20.5",
+    "last_updated": "2025-08-02T00:09:52.797Z",
     "version_history": [
+      {
+        "version": "3.20.5",
+        "lastUpdated": "2025-08-02T00:09:52.797Z"
+      },
+      {
+        "version": "3.20.4",
+        "lastUpdated": "2025-08-01T20:39:26.817Z"
+      },
       {
         "version": "3.20.3",
         "lastUpdated": "2025-07-31T05:08:40.073Z"
@@ -14579,19 +14587,11 @@
       {
         "version": "3.18.9",
         "lastUpdated": "2025-07-09T22:00:00.4Z"
-      },
-      {
-        "version": "3.18.7",
-        "lastUpdated": "2025-07-09T02:00:41.133Z"
-      },
-      {
-        "version": "3.18.6",
-        "lastUpdated": "2025-07-08T23:37:38.423Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -18657,9 +18657,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.461",
-    "last_updated": "2025-08-01T01:22:18.26Z",
+    "latest_version": "1.0.462",
+    "last_updated": "2025-08-01T22:13:47.4Z",
     "version_history": [
+      {
+        "version": "1.0.462",
+        "lastUpdated": "2025-08-01T22:13:47.4Z"
+      },
       {
         "version": "1.0.461",
         "lastUpdated": "2025-08-01T01:22:18.26Z"
@@ -18735,15 +18739,11 @@
       {
         "version": "1.0.443",
         "lastUpdated": "2025-05-19T03:06:45.86Z"
-      },
-      {
-        "version": "1.0.442",
-        "lastUpdated": "2025-05-17T06:34:27.077Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.461/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.462/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
