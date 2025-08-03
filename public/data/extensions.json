@@ -11860,9 +11860,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250802001",
-    "last_updated": "2025-08-02T03:04:15.74Z",
+    "latest_version": "0.13.250803001",
+    "last_updated": "2025-08-03T02:58:13.357Z",
     "version_history": [
+      {
+        "version": "0.13.250803001",
+        "lastUpdated": "2025-08-03T02:58:13.357Z"
+      },
       {
         "version": "0.13.250802001",
         "lastUpdated": "2025-08-02T03:04:15.74Z"
@@ -11938,15 +11942,11 @@
       {
         "version": "0.13.250705001",
         "lastUpdated": "2025-07-05T02:52:58.463Z"
-      },
-      {
-        "version": "0.13.250704001",
-        "lastUpdated": "2025-07-04T02:52:06.053Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250802001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250803001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -18544,9 +18544,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.2.2",
-    "last_updated": "2025-07-30T12:35:13.183Z",
+    "latest_version": "25.3.0",
+    "last_updated": "2025-08-03T03:24:37.097Z",
     "version_history": [
+      {
+        "version": "25.3.0",
+        "lastUpdated": "2025-08-03T03:24:37.097Z"
+      },
       {
         "version": "25.2.2",
         "lastUpdated": "2025-07-30T12:35:13.183Z"
@@ -18622,10 +18626,6 @@
       {
         "version": "24.7.2",
         "lastUpdated": "2024-11-07T14:26:53.023Z"
-      },
-      {
-        "version": "24.7.1",
-        "lastUpdated": "2024-11-07T14:20:53.7Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -18650,7 +18650,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.2.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
