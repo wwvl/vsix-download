@@ -11953,9 +11953,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250801",
-    "last_updated": "2025-08-02T00:23:49.347Z",
+    "latest_version": "6.0.20250802",
+    "last_updated": "2025-08-03T00:13:50.76Z",
     "version_history": [
+      {
+        "version": "6.0.20250802",
+        "lastUpdated": "2025-08-03T00:13:50.76Z"
+      },
       {
         "version": "6.0.20250801",
         "lastUpdated": "2025-08-02T00:23:49.347Z"
@@ -12031,15 +12035,11 @@
       {
         "version": "5.9.20250714",
         "lastUpdated": "2025-07-15T00:21:13.693Z"
-      },
-      {
-        "version": "5.9.20250713",
-        "lastUpdated": "2025-07-14T00:16:18.493Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250802/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14204,9 +14204,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2560",
-    "last_updated": "2025-08-02T01:01:53.173Z",
+    "latest_version": "0.4.2561",
+    "last_updated": "2025-08-03T01:10:17.597Z",
     "version_history": [
+      {
+        "version": "0.4.2561",
+        "lastUpdated": "2025-08-03T01:10:17.597Z"
+      },
       {
         "version": "0.4.2560",
         "lastUpdated": "2025-08-02T01:01:53.173Z"
@@ -14282,15 +14286,11 @@
       {
         "version": "0.4.2540",
         "lastUpdated": "2025-07-15T00:59:06.14Z"
-      },
-      {
-        "version": "0.4.2538",
-        "lastUpdated": "2025-07-14T00:59:02.38Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2560/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2561/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
