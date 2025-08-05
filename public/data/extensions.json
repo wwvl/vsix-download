@@ -11116,9 +11116,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.3",
-    "last_updated": "2025-08-01T04:29:23.957Z",
+    "latest_version": "1.22.4",
+    "last_updated": "2025-08-05T04:23:00.627Z",
     "version_history": [
+      {
+        "version": "1.22.4",
+        "lastUpdated": "2025-08-05T04:23:00.627Z"
+      },
       {
         "version": "1.22.3",
         "lastUpdated": "2025-08-01T04:29:23.957Z"
@@ -11194,15 +11198,11 @@
       {
         "version": "1.21.22",
         "lastUpdated": "2025-05-06T04:29:14.833Z"
-      },
-      {
-        "version": "1.21.21",
-        "lastUpdated": "2025-05-01T04:32:08.797Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -11488,9 +11488,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.13.10",
-    "last_updated": "2025-08-01T04:22:18.233Z",
+    "latest_version": "0.13.11",
+    "last_updated": "2025-08-05T04:21:44.127Z",
     "version_history": [
+      {
+        "version": "0.13.11",
+        "lastUpdated": "2025-08-05T04:21:44.127Z"
+      },
       {
         "version": "0.13.10",
         "lastUpdated": "2025-08-01T04:22:18.233Z"
@@ -11566,15 +11570,11 @@
       {
         "version": "0.12.10",
         "lastUpdated": "2024-11-07T04:24:05.463Z"
-      },
-      {
-        "version": "0.12.9",
-        "lastUpdated": "2024-10-29T04:21:05.87Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
