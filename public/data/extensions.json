@@ -1419,9 +1419,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.522.0",
-    "last_updated": "2025-08-04T17:12:01.177Z",
+    "latest_version": "0.523.0",
+    "last_updated": "2025-08-05T17:09:14.207Z",
     "version_history": [
+      {
+        "version": "0.523.0",
+        "lastUpdated": "2025-08-05T17:09:14.207Z"
+      },
       {
         "version": "0.522.0",
         "lastUpdated": "2025-08-04T17:12:01.177Z"
@@ -1497,15 +1501,11 @@
       {
         "version": "0.509.0",
         "lastUpdated": "2025-07-18T17:55:53.87Z"
-      },
-      {
-        "version": "0.508.0",
-        "lastUpdated": "2025-07-17T18:03:22.773Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.522.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.523.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2047,9 +2047,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console.log or custom log functions.",
-    "latest_version": "3.3.2",
-    "last_updated": "2025-07-30T20:41:49.183Z",
+    "latest_version": "3.4.0",
+    "last_updated": "2025-08-05T18:31:49.957Z",
     "version_history": [
+      {
+        "version": "3.4.0",
+        "lastUpdated": "2025-08-05T18:31:49.957Z"
+      },
       {
         "version": "3.3.2",
         "lastUpdated": "2025-07-30T20:41:49.183Z"
@@ -2125,39 +2129,28 @@
       {
         "version": "2.12.0",
         "lastUpdated": "2025-02-18T17:44:16.04Z"
-      },
-      {
-        "version": "2.11.5",
-        "lastUpdated": "2025-02-10T03:35:22.617Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
     "tags": [
-      "comment log",
       "console log",
-      "correct log",
       "debug",
-      "debug javascript",
-      "debug typescript",
-      "delete log",
+      "debugging",
       "developer tools",
       "insert log",
       "javascript",
-      "javascript logs",
       "javascriptreact",
       "keybindings",
-      "log cleanup",
+      "log management",
+      "log manager",
       "log panel",
       "log snippet",
       "productivity",
-      "remove log",
-      "remove logs",
+      "tool",
       "typescript",
-      "typescript logs",
-      "typescriptreact",
-      "uncomment log"
+      "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.3.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5363,9 +5356,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.352.1716",
-    "last_updated": "2025-08-05T01:48:56.123Z",
+    "latest_version": "1.353.1718",
+    "last_updated": "2025-08-05T16:21:11.667Z",
     "version_history": [
+      {
+        "version": "1.353.1718",
+        "lastUpdated": "2025-08-05T16:21:11.667Z"
+      },
       {
         "version": "1.352.1716",
         "lastUpdated": "2025-08-05T01:48:56.123Z"
@@ -5441,10 +5438,6 @@
       {
         "version": "1.346.0",
         "lastUpdated": "2025-07-21T21:40:16.837Z"
-      },
-      {
-        "version": "1.345.1689",
-        "lastUpdated": "2025-07-21T19:22:50.88Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5473,16 +5466,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.352.1716/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1718/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.30.2025080501",
-    "last_updated": "2025-08-04T23:59:39.9Z",
+    "latest_version": "0.30.2025080503",
+    "last_updated": "2025-08-05T16:16:22.493Z",
     "version_history": [
+      {
+        "version": "0.30.2025080503",
+        "lastUpdated": "2025-08-05T16:16:22.493Z"
+      },
       {
         "version": "0.30.2025080501",
         "lastUpdated": "2025-08-04T23:59:39.9Z"
@@ -5558,10 +5555,6 @@
       {
         "version": "0.30.2025071401",
         "lastUpdated": "2025-07-14T04:29:23.467Z"
-      },
-      {
-        "version": "0.30.2025071101",
-        "lastUpdated": "2025-07-11T04:26:40.85Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5596,7 +5589,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025080501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025080503/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5882,9 +5875,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025080412",
-    "last_updated": "2025-08-04T13:00:46.25Z",
+    "latest_version": "0.117.2025080516",
+    "last_updated": "2025-08-05T16:23:41.643Z",
     "version_history": [
+      {
+        "version": "0.117.2025080516",
+        "lastUpdated": "2025-08-05T16:23:41.643Z"
+      },
       {
         "version": "0.117.2025080412",
         "lastUpdated": "2025-08-04T13:00:46.25Z"
@@ -5960,15 +5957,11 @@
       {
         "version": "0.115.2025071404",
         "lastUpdated": "2025-07-14T04:26:08.803Z"
-      },
-      {
-        "version": "0.115.2025071016",
-        "lastUpdated": "2025-07-10T16:24:30.227Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080412/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080516/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8093,9 +8086,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.40",
-    "last_updated": "2025-08-04T16:18:48.86Z",
+    "latest_version": "1.2.41",
+    "last_updated": "2025-08-05T13:51:29.013Z",
     "version_history": [
+      {
+        "version": "1.2.41",
+        "lastUpdated": "2025-08-05T13:51:29.013Z"
+      },
       {
         "version": "1.2.40",
         "lastUpdated": "2025-08-04T16:18:48.86Z"
@@ -8171,10 +8168,6 @@
       {
         "version": "1.2.19",
         "lastUpdated": "2025-06-11T07:26:40.133Z"
-      },
-      {
-        "version": "1.2.17",
-        "lastUpdated": "2025-06-04T07:43:54.52Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8208,7 +8201,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.40/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.41/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -12139,9 +12132,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.18.0",
-    "last_updated": "2025-07-31T09:18:51.093Z",
+    "latest_version": "0.18.1",
+    "last_updated": "2025-08-05T17:21:30.2Z",
     "version_history": [
+      {
+        "version": "0.18.1",
+        "lastUpdated": "2025-08-05T17:21:30.2Z"
+      },
       {
         "version": "0.18.0",
         "lastUpdated": "2025-07-31T09:18:51.093Z"
@@ -12217,15 +12214,11 @@
       {
         "version": "0.11.2025041806",
         "lastUpdated": "2025-04-18T07:16:59.46Z"
-      },
-      {
-        "version": "0.11.2025041008",
-        "lastUpdated": "2025-04-10T10:07:46.51Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "LLM", "Machine Learning", "models", "studio", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.18.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -14505,9 +14498,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.20.8",
-    "last_updated": "2025-08-04T00:38:46.747Z",
+    "latest_version": "3.20.9",
+    "last_updated": "2025-08-05T17:32:52.64Z",
     "version_history": [
+      {
+        "version": "3.20.9",
+        "lastUpdated": "2025-08-05T17:32:52.64Z"
+      },
       {
         "version": "3.20.8",
         "lastUpdated": "2025-08-04T00:38:46.747Z"
@@ -14583,15 +14580,11 @@
       {
         "version": "3.18.11",
         "lastUpdated": "2025-07-10T21:10:35.387Z"
-      },
-      {
-        "version": "3.18.10",
-        "lastUpdated": "2025-07-10T07:20:55.81Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
