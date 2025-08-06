@@ -2679,9 +2679,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
-    "latest_version": "1.1.71",
-    "last_updated": "2025-07-29T07:20:44.607Z",
+    "latest_version": "1.1.73",
+    "last_updated": "2025-08-06T01:30:55.41Z",
     "version_history": [
+      {
+        "version": "1.1.73",
+        "lastUpdated": "2025-08-06T01:30:55.41Z"
+      },
       {
         "version": "1.1.71",
         "lastUpdated": "2025-07-29T07:20:44.607Z"
@@ -2757,15 +2761,11 @@
       {
         "version": "1.1.47",
         "lastUpdated": "2025-06-11T04:26:35.283Z"
-      },
-      {
-        "version": "1.1.45",
-        "lastUpdated": "2025-06-06T06:13:04.18Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.71/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.1.73/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -10122,9 +10122,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.7.100",
-    "last_updated": "2025-07-30T23:10:58.657Z",
+    "latest_version": "2025.7.101",
+    "last_updated": "2025-08-05T18:53:41.31Z",
     "version_history": [
+      {
+        "version": "2025.7.101",
+        "lastUpdated": "2025-08-05T18:53:41.31Z"
+      },
       {
         "version": "2025.7.100",
         "lastUpdated": "2025-07-30T23:10:58.657Z"
@@ -10200,15 +10204,11 @@
       {
         "version": "2025.4.100",
         "lastUpdated": "2025-04-09T21:43:19.407Z"
-      },
-      {
-        "version": "2025.4.1",
-        "lastUpdated": "2025-04-02T21:09:17.443Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.7.100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.7.101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -10395,6 +10395,10 @@
         "lastUpdated": "2025-07-11T09:42:48.74Z"
       },
       {
+        "version": "2025.7.0",
+        "lastUpdated": "2025-08-05T23:36:06.757Z"
+      },
+      {
         "version": "2025.6.2025070201",
         "lastUpdated": "2025-07-02T09:52:54.44Z"
       },
@@ -10441,10 +10445,6 @@
       {
         "version": "2025.5.2025053001",
         "lastUpdated": "2025-05-30T09:48:56.12Z"
-      },
-      {
-        "version": "2025.5.2025052901",
-        "lastUpdated": "2025-05-29T10:00:18.553Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
@@ -11946,9 +11946,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250804",
-    "last_updated": "2025-08-05T00:16:37.223Z",
+    "latest_version": "6.0.20250805",
+    "last_updated": "2025-08-06T00:15:31.027Z",
     "version_history": [
+      {
+        "version": "6.0.20250805",
+        "lastUpdated": "2025-08-06T00:15:31.027Z"
+      },
       {
         "version": "6.0.20250804",
         "lastUpdated": "2025-08-05T00:16:37.223Z"
@@ -12024,15 +12028,11 @@
       {
         "version": "5.9.20250717",
         "lastUpdated": "2025-07-18T00:19:08.917Z"
-      },
-      {
-        "version": "5.9.20250716",
-        "lastUpdated": "2025-07-17T00:21:25.733Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14104,9 +14104,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.25.6",
-    "last_updated": "2025-08-02T01:40:28.23Z",
+    "latest_version": "3.25.7",
+    "last_updated": "2025-08-05T19:16:24.257Z",
     "version_history": [
+      {
+        "version": "3.25.7",
+        "lastUpdated": "2025-08-05T19:16:24.257Z"
+      },
       {
         "version": "3.25.6",
         "lastUpdated": "2025-08-02T01:40:28.23Z"
@@ -14182,24 +14186,24 @@
       {
         "version": "3.23.9",
         "lastUpdated": "2025-07-14T19:00:35.59Z"
-      },
-      {
-        "version": "3.23.8",
-        "lastUpdated": "2025-07-13T18:57:25.103Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2564",
-    "last_updated": "2025-08-05T01:05:08.907Z",
+    "latest_version": "0.4.2565",
+    "last_updated": "2025-08-06T01:02:56.227Z",
     "version_history": [
+      {
+        "version": "0.4.2565",
+        "lastUpdated": "2025-08-06T01:02:56.227Z"
+      },
       {
         "version": "0.4.2564",
         "lastUpdated": "2025-08-05T01:05:08.907Z"
@@ -14275,15 +14279,11 @@
       {
         "version": "0.4.2543",
         "lastUpdated": "2025-07-18T00:59:53.207Z"
-      },
-      {
-        "version": "0.4.2542",
-        "lastUpdated": "2025-07-17T01:05:47.5Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2564/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2565/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
