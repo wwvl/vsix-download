@@ -1419,9 +1419,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.523.0",
-    "last_updated": "2025-08-05T17:09:14.207Z",
+    "latest_version": "0.524.0",
+    "last_updated": "2025-08-06T17:10:56.717Z",
     "version_history": [
+      {
+        "version": "0.524.0",
+        "lastUpdated": "2025-08-06T17:10:56.717Z"
+      },
       {
         "version": "0.523.0",
         "lastUpdated": "2025-08-05T17:09:14.207Z"
@@ -1497,15 +1501,11 @@
       {
         "version": "0.509.1",
         "lastUpdated": "2025-07-21T20:12:08.017Z"
-      },
-      {
-        "version": "0.509.0",
-        "lastUpdated": "2025-07-18T17:55:53.87Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.523.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.524.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2047,9 +2047,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console.log or custom log functions.",
-    "latest_version": "3.4.0",
-    "last_updated": "2025-08-05T18:31:49.957Z",
+    "latest_version": "3.4.1",
+    "last_updated": "2025-08-06T15:07:34.077Z",
     "version_history": [
+      {
+        "version": "3.4.1",
+        "lastUpdated": "2025-08-06T15:07:34.077Z"
+      },
       {
         "version": "3.4.0",
         "lastUpdated": "2025-08-05T18:31:49.957Z"
@@ -2125,10 +2129,6 @@
       {
         "version": "2.12.1",
         "lastUpdated": "2025-02-20T01:06:01.62Z"
-      },
-      {
-        "version": "2.12.0",
-        "lastUpdated": "2025-02-18T17:44:16.04Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2150,7 +2150,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.4.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5356,9 +5356,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.353.1719",
-    "last_updated": "2025-08-06T01:49:04.19Z",
+    "latest_version": "1.353.1720",
+    "last_updated": "2025-08-06T16:21:28.04Z",
     "version_history": [
+      {
+        "version": "1.353.1720",
+        "lastUpdated": "2025-08-06T16:21:28.04Z"
+      },
       {
         "version": "1.353.1719",
         "lastUpdated": "2025-08-06T01:49:04.19Z"
@@ -5434,10 +5438,6 @@
       {
         "version": "1.346.1691",
         "lastUpdated": "2025-07-22T16:21:34.4Z"
-      },
-      {
-        "version": "1.346.1690",
-        "lastUpdated": "2025-07-22T01:49:19.263Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5466,7 +5466,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1719/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1720/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10363,9 +10363,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.7.2025073101",
-    "last_updated": "2025-07-31T09:51:07.357Z",
+    "latest_version": "2025.8.2025080601",
+    "last_updated": "2025-08-06T13:47:18.05Z",
     "version_history": [
+      {
+        "version": "2025.8.2025080601",
+        "lastUpdated": "2025-08-06T13:47:18.05Z"
+      },
       {
         "version": "2025.7.2025073101",
         "lastUpdated": "2025-07-31T09:51:07.357Z"
@@ -10441,15 +10445,11 @@
       {
         "version": "2025.5.2025060301",
         "lastUpdated": "2025-06-03T09:55:06.873Z"
-      },
-      {
-        "version": "2025.5.2025053001",
-        "lastUpdated": "2025-05-30T09:48:56.12Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.7.2025073101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025080601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
