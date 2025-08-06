@@ -2865,9 +2865,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.117.20250731",
-    "last_updated": "2025-07-31T14:20:13.32Z",
+    "latest_version": "3.117.20250806",
+    "last_updated": "2025-08-06T10:06:12.087Z",
     "version_history": [
+      {
+        "version": "3.117.20250806",
+        "lastUpdated": "2025-08-06T10:06:12.087Z"
+      },
       {
         "version": "3.117.20250731",
         "lastUpdated": "2025-07-31T14:20:13.32Z"
@@ -2943,15 +2947,11 @@
       {
         "version": "3.109.20250429",
         "lastUpdated": "2025-04-29T09:39:53.923Z"
-      },
-      {
-        "version": "3.109.20250404",
-        "lastUpdated": "2025-04-03T11:25:45.84Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250731/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250806/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -3144,9 +3144,13 @@
     "extension_name": "dbaeumer.vscode-eslint",
     "display_name": "ESLint",
     "short_description": "Integrates ESLint JavaScript into VS Code.",
-    "latest_version": "3.0.15",
-    "last_updated": "2025-06-12T15:16:11.853Z",
+    "latest_version": "3.0.16",
+    "last_updated": "2025-08-06T12:28:23.88Z",
     "version_history": [
+      {
+        "version": "3.0.16",
+        "lastUpdated": "2025-08-06T12:28:23.88Z"
+      },
       {
         "version": "3.0.15",
         "lastUpdated": "2025-06-12T15:16:11.853Z"
@@ -3222,15 +3226,11 @@
       {
         "version": "2.2.2",
         "lastUpdated": "2021-10-21T11:00:56.16Z"
-      },
-      {
-        "version": "2.2.1",
-        "lastUpdated": "2021-10-06T12:30:21.96Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ignore", "javascript", "json", "jsonc", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
   },
   {
@@ -4180,9 +4180,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.505",
-    "last_updated": "2025-08-05T09:17:33.99Z",
+    "latest_version": "2025.8.605",
+    "last_updated": "2025-08-06T09:17:51.2Z",
     "version_history": [
+      {
+        "version": "2025.8.605",
+        "lastUpdated": "2025-08-06T09:17:51.2Z"
+      },
       {
         "version": "2025.8.505",
         "lastUpdated": "2025-08-05T09:17:33.99Z"
@@ -4258,15 +4262,11 @@
       {
         "version": "2025.7.805",
         "lastUpdated": "2025-07-08T09:14:56.12Z"
-      },
-      {
-        "version": "2025.7.315",
-        "lastUpdated": "2025-07-03T19:12:41.85Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.505/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5875,9 +5875,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025080516",
-    "last_updated": "2025-08-05T16:23:41.643Z",
+    "latest_version": "0.117.2025080607",
+    "last_updated": "2025-08-06T07:48:05.813Z",
     "version_history": [
+      {
+        "version": "0.117.2025080607",
+        "lastUpdated": "2025-08-06T07:48:05.813Z"
+      },
       {
         "version": "0.117.2025080516",
         "lastUpdated": "2025-08-05T16:23:41.643Z"
@@ -5953,15 +5957,11 @@
       {
         "version": "0.115.2025071504",
         "lastUpdated": "2025-07-15T04:21:02.753Z"
-      },
-      {
-        "version": "0.115.2025071404",
-        "lastUpdated": "2025-07-14T04:26:08.803Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080516/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080607/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8836,9 +8836,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.103.2025072309",
-    "last_updated": "2025-07-23T09:18:46.65Z",
+    "latest_version": "1.103.2025080609",
+    "last_updated": "2025-08-06T09:24:19.6Z",
     "version_history": [
+      {
+        "version": "1.103.2025080609",
+        "lastUpdated": "2025-08-06T09:24:19.6Z"
+      },
       {
         "version": "1.103.2025072309",
         "lastUpdated": "2025-07-23T09:18:46.65Z"
@@ -8914,15 +8918,11 @@
       {
         "version": "1.99.2025032609",
         "lastUpdated": "2025-03-26T09:18:48.527Z"
-      },
-      {
-        "version": "1.99.2025031909",
-        "lastUpdated": "2025-03-19T09:18:38.26Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.103.2025072309/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.103.2025080609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -12918,9 +12918,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.9.0",
-    "last_updated": "2025-07-29T09:10:17.927Z",
+    "latest_version": "1.10.0",
+    "last_updated": "2025-08-06T10:24:23.96Z",
     "version_history": [
+      {
+        "version": "1.10.0",
+        "lastUpdated": "2025-08-06T10:24:23.96Z"
+      },
       {
         "version": "1.9.0",
         "lastUpdated": "2025-07-29T09:10:17.927Z"
@@ -12996,15 +13000,11 @@
       {
         "version": "0.16.7",
         "lastUpdated": "2025-04-21T15:24:07.043Z"
-      },
-      {
-        "version": "0.16.6",
-        "lastUpdated": "2025-04-14T04:06:08.913Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.9.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -13791,9 +13791,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.45.2025080108",
-    "last_updated": "2025-08-01T08:28:18.383Z",
+    "latest_version": "1.45.2025080608",
+    "last_updated": "2025-08-06T08:28:40.383Z",
     "version_history": [
+      {
+        "version": "1.45.2025080608",
+        "lastUpdated": "2025-08-06T08:28:40.383Z"
+      },
       {
         "version": "1.45.2025080108",
         "lastUpdated": "2025-08-01T08:28:18.383Z"
@@ -13869,15 +13873,11 @@
       {
         "version": "1.43.2025060608",
         "lastUpdated": "2025-06-06T08:26:27.827Z"
-      },
-      {
-        "version": "1.43.2025060408",
-        "lastUpdated": "2025-06-04T08:25:49.873Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025080108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025080608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14498,9 +14498,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.20.12",
-    "last_updated": "2025-08-06T05:43:17.03Z",
+    "latest_version": "3.20.13",
+    "last_updated": "2025-08-06T07:31:12.547Z",
     "version_history": [
+      {
+        "version": "3.20.13",
+        "lastUpdated": "2025-08-06T07:31:12.547Z"
+      },
       {
         "version": "3.20.12",
         "lastUpdated": "2025-08-06T05:43:17.03Z"
@@ -14576,15 +14580,11 @@
       {
         "version": "3.18.14",
         "lastUpdated": "2025-07-12T10:00:41.83Z"
-      },
-      {
-        "version": "3.18.13",
-        "lastUpdated": "2025-07-12T09:25:41.82Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.20.13/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
