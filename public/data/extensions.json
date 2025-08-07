@@ -4180,9 +4180,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.605",
-    "last_updated": "2025-08-06T09:17:51.2Z",
+    "latest_version": "2025.8.705",
+    "last_updated": "2025-08-07T09:17:19.96Z",
     "version_history": [
+      {
+        "version": "2025.8.705",
+        "lastUpdated": "2025-08-07T09:17:19.96Z"
+      },
       {
         "version": "2025.8.605",
         "lastUpdated": "2025-08-06T09:17:51.2Z"
@@ -4258,15 +4262,11 @@
       {
         "version": "2025.7.814",
         "lastUpdated": "2025-07-08T18:31:24.08Z"
-      },
-      {
-        "version": "2025.7.805",
-        "lastUpdated": "2025-07-08T09:14:56.12Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5473,9 +5473,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.30.2025080503",
-    "last_updated": "2025-08-05T16:16:22.493Z",
+    "latest_version": "0.30.2025080702",
+    "last_updated": "2025-08-07T11:23:03.437Z",
     "version_history": [
+      {
+        "version": "0.30.2025080702",
+        "lastUpdated": "2025-08-07T11:23:03.437Z"
+      },
       {
         "version": "0.30.2025080503",
         "lastUpdated": "2025-08-05T16:16:22.493Z"
@@ -5551,10 +5555,6 @@
       {
         "version": "0.30.2025071501",
         "lastUpdated": "2025-07-15T04:26:25.753Z"
-      },
-      {
-        "version": "0.30.2025071401",
-        "lastUpdated": "2025-07-14T04:29:23.467Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5589,7 +5589,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025080503/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.30.2025080702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -12132,9 +12132,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.18.2",
-    "last_updated": "2025-08-06T05:17:42.81Z",
+    "latest_version": "0.19.2025080707",
+    "last_updated": "2025-08-07T09:04:34.403Z",
     "version_history": [
+      {
+        "version": "0.19.2025080707",
+        "lastUpdated": "2025-08-07T09:04:34.403Z"
+      },
       {
         "version": "0.18.2",
         "lastUpdated": "2025-08-06T05:17:42.81Z"
@@ -12210,15 +12214,11 @@
       {
         "version": "0.12.0",
         "lastUpdated": "2025-04-28T09:11:21.17Z"
-      },
-      {
-        "version": "0.11.2025042202",
-        "lastUpdated": "2025-04-22T06:09:51.7Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
-    "tags": ["ai", "Azure", "Chat", "Data Science", "LLM", "Machine Learning", "models", "studio", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.18.2/vspackage",
+    "tags": ["ai", "Azure", "Chat", "Data Science", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.19.2025080707/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
