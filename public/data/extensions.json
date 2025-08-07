@@ -1419,9 +1419,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.524.0",
-    "last_updated": "2025-08-06T17:10:56.717Z",
+    "latest_version": "0.524.1",
+    "last_updated": "2025-08-06T20:08:55.747Z",
     "version_history": [
+      {
+        "version": "0.524.1",
+        "lastUpdated": "2025-08-06T20:08:55.747Z"
+      },
       {
         "version": "0.524.0",
         "lastUpdated": "2025-08-06T17:10:56.717Z"
@@ -1497,15 +1501,11 @@
       {
         "version": "0.510.0",
         "lastUpdated": "2025-07-21T20:12:26.14Z"
-      },
-      {
-        "version": "0.509.1",
-        "lastUpdated": "2025-07-21T20:12:08.017Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.524.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.524.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2047,9 +2047,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console.log or custom log functions.",
-    "latest_version": "3.4.1",
-    "last_updated": "2025-08-06T15:07:34.077Z",
+    "latest_version": "3.4.2",
+    "last_updated": "2025-08-06T22:19:34.273Z",
     "version_history": [
+      {
+        "version": "3.4.2",
+        "lastUpdated": "2025-08-06T22:19:34.273Z"
+      },
       {
         "version": "3.4.1",
         "lastUpdated": "2025-08-06T15:07:34.077Z"
@@ -2125,10 +2129,6 @@
       {
         "version": "2.12.2",
         "lastUpdated": "2025-02-20T01:14:13.757Z"
-      },
-      {
-        "version": "2.12.1",
-        "lastUpdated": "2025-02-20T01:06:01.62Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2150,7 +2150,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.4.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.4.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -3237,9 +3237,13 @@
     "extension_name": "denoland.vscode-deno",
     "display_name": "Deno",
     "short_description": "A language server client for Deno.",
-    "latest_version": "3.45.1",
-    "last_updated": "2025-08-04T07:07:59.243Z",
+    "latest_version": "3.45.2",
+    "last_updated": "2025-08-06T14:37:16.457Z",
     "version_history": [
+      {
+        "version": "3.45.2",
+        "lastUpdated": "2025-08-06T14:37:16.457Z"
+      },
       {
         "version": "3.45.1",
         "lastUpdated": "2025-08-04T07:07:59.243Z"
@@ -3315,15 +3319,11 @@
       {
         "version": "3.38.1",
         "lastUpdated": "2024-08-13T14:30:56.773Z"
-      },
-      {
-        "version": "3.38.0",
-        "lastUpdated": "2024-07-03T22:22:24.16Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
     "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.45.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.45.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
   },
   {
@@ -9022,9 +9022,13 @@
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.87.26",
-    "last_updated": "2025-07-24T18:56:39.16Z",
+    "latest_version": "2.87.31",
+    "last_updated": "2025-08-06T22:43:51.87Z",
     "version_history": [
+      {
+        "version": "2.87.31",
+        "lastUpdated": "2025-08-06T22:43:51.87Z"
+      },
       {
         "version": "2.87.26",
         "lastUpdated": "2025-07-24T18:56:39.16Z"
@@ -9100,10 +9104,6 @@
       {
         "version": "2.72.22",
         "lastUpdated": "2025-04-01T18:11:53.057Z"
-      },
-      {
-        "version": "2.70.15",
-        "lastUpdated": "2025-03-19T21:25:53.44Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9126,7 +9126,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.87.26/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.87.31/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -11946,9 +11946,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250805",
-    "last_updated": "2025-08-06T00:15:31.027Z",
+    "latest_version": "6.0.20250806",
+    "last_updated": "2025-08-07T00:21:43.243Z",
     "version_history": [
+      {
+        "version": "6.0.20250806",
+        "lastUpdated": "2025-08-07T00:21:43.243Z"
+      },
       {
         "version": "6.0.20250805",
         "lastUpdated": "2025-08-06T00:15:31.027Z"
@@ -12024,15 +12028,11 @@
       {
         "version": "5.9.20250718",
         "lastUpdated": "2025-07-19T00:16:19.2Z"
-      },
-      {
-        "version": "5.9.20250717",
-        "lastUpdated": "2025-07-18T00:19:08.917Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250806/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14405,9 +14405,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "64.7.1",
-    "last_updated": "2025-07-30T22:51:34.43Z",
+    "latest_version": "64.8.0",
+    "last_updated": "2025-08-06T20:55:02.267Z",
     "version_history": [
+      {
+        "version": "64.8.0",
+        "lastUpdated": "2025-08-06T20:55:02.267Z"
+      },
       {
         "version": "64.7.1",
         "lastUpdated": "2025-07-30T22:51:34.43Z"
@@ -14483,15 +14487,11 @@
       {
         "version": "63.1.1",
         "lastUpdated": "2025-02-18T17:32:54.91Z"
-      },
-      {
-        "version": "63.0.0",
-        "lastUpdated": "2025-02-14T21:16:39.8Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.7.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.8.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -16860,9 +16860,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025080500",
-    "last_updated": "2025-08-05T01:17:58.707Z",
+    "latest_version": "2.0.2025080700",
+    "last_updated": "2025-08-07T00:41:29.807Z",
     "version_history": [
+      {
+        "version": "2.0.2025080700",
+        "lastUpdated": "2025-08-07T00:41:29.807Z"
+      },
       {
         "version": "2.0.2025080500",
         "lastUpdated": "2025-08-05T01:17:58.707Z"
@@ -16938,10 +16942,6 @@
       {
         "version": "1.64.2025061200",
         "lastUpdated": "2025-06-12T01:13:02.27Z"
-      },
-      {
-        "version": "1.63.2025061000",
-        "lastUpdated": "2025-06-10T00:55:18.86Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16960,7 +16960,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025080500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025080700/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
