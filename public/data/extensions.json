@@ -1140,9 +1140,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.4.1",
-    "last_updated": "2025-08-04T03:35:14.437Z",
+    "latest_version": "66.4.2",
+    "last_updated": "2025-08-08T06:25:05.77Z",
     "version_history": [
+      {
+        "version": "66.4.2",
+        "lastUpdated": "2025-08-08T06:25:05.77Z"
+      },
       {
         "version": "66.4.1",
         "lastUpdated": "2025-08-04T03:35:14.437Z"
@@ -1218,15 +1222,11 @@
       {
         "version": "0.65.3",
         "lastUpdated": "2024-12-25T09:38:09.71Z"
-      },
-      {
-        "version": "0.65.2",
-        "lastUpdated": "2024-12-19T07:38:20.727Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.4.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.4.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -5356,9 +5356,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.353.1722",
-    "last_updated": "2025-08-07T16:21:25.55Z",
+    "latest_version": "1.353.1723",
+    "last_updated": "2025-08-08T01:47:37.12Z",
     "version_history": [
+      {
+        "version": "1.353.1723",
+        "lastUpdated": "2025-08-08T01:47:37.12Z"
+      },
       {
         "version": "1.353.1722",
         "lastUpdated": "2025-08-07T16:21:25.55Z"
@@ -5434,10 +5438,6 @@
       {
         "version": "1.348.1697",
         "lastUpdated": "2025-07-24T16:21:39.763Z"
-      },
-      {
-        "version": "1.347.1694",
-        "lastUpdated": "2025-07-23T16:25:44.38Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5466,16 +5466,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1722/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1723/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025080704",
-    "last_updated": "2025-08-07T21:17:19.913Z",
+    "latest_version": "0.31.2025080801",
+    "last_updated": "2025-08-08T04:25:22.683Z",
     "version_history": [
+      {
+        "version": "0.31.2025080801",
+        "lastUpdated": "2025-08-08T04:25:22.683Z"
+      },
       {
         "version": "0.31.2025080704",
         "lastUpdated": "2025-08-07T21:17:19.913Z"
@@ -5551,10 +5555,6 @@
       {
         "version": "0.30.2025071701",
         "lastUpdated": "2025-07-17T11:16:35.937Z"
-      },
-      {
-        "version": "0.30.2025071601",
-        "lastUpdated": "2025-07-16T04:29:05.253Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5589,7 +5589,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025080704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025080801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -15948,9 +15948,13 @@
     "extension_name": "timonwong.shellcheck",
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
-    "latest_version": "0.38.2",
-    "last_updated": "2025-08-04T13:18:49.753Z",
+    "latest_version": "0.38.3",
+    "last_updated": "2025-08-08T05:07:58.483Z",
     "version_history": [
+      {
+        "version": "0.38.3",
+        "lastUpdated": "2025-08-08T05:07:58.483Z"
+      },
       {
         "version": "0.38.2",
         "lastUpdated": "2025-08-04T13:18:49.753Z"
@@ -16026,15 +16030,11 @@
       {
         "version": "0.32.4",
         "lastUpdated": "2023-04-18T02:21:03.653Z"
-      },
-      {
-        "version": "0.32.3",
-        "lastUpdated": "2023-04-18T01:51:59.197Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["bash", "bats", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
   {
