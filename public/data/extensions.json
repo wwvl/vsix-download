@@ -1419,9 +1419,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.525.0",
-    "last_updated": "2025-08-07T17:12:01.307Z",
+    "latest_version": "0.526.0",
+    "last_updated": "2025-08-08T17:10:42.78Z",
     "version_history": [
+      {
+        "version": "0.526.0",
+        "lastUpdated": "2025-08-08T17:10:42.78Z"
+      },
       {
         "version": "0.525.0",
         "lastUpdated": "2025-08-07T17:12:01.307Z"
@@ -1497,15 +1501,11 @@
       {
         "version": "0.512.0",
         "lastUpdated": "2025-07-23T18:40:16.38Z"
-      },
-      {
-        "version": "0.511.0",
-        "lastUpdated": "2025-07-22T17:52:33.8Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.525.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.526.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2680,11 +2680,11 @@
     "display_name": "Continue - open-source AI code assistant",
     "short_description": "The leading open-source AI code assistant",
     "latest_version": "1.1.75",
-    "last_updated": "2025-08-07T21:18:51.17Z",
+    "last_updated": "2025-08-07T21:26:20.943Z",
     "version_history": [
       {
         "version": "1.1.75",
-        "lastUpdated": "2025-08-07T21:18:51.17Z"
+        "lastUpdated": "2025-08-07T21:26:20.943Z"
       },
       {
         "version": "1.1.74",
@@ -5356,9 +5356,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.353.1723",
-    "last_updated": "2025-08-08T01:47:37.12Z",
+    "latest_version": "1.353.1724",
+    "last_updated": "2025-08-08T16:21:03.71Z",
     "version_history": [
+      {
+        "version": "1.353.1724",
+        "lastUpdated": "2025-08-08T16:21:03.71Z"
+      },
       {
         "version": "1.353.1723",
         "lastUpdated": "2025-08-08T01:47:37.12Z"
@@ -5434,10 +5438,6 @@
       {
         "version": "1.348.1698",
         "lastUpdated": "2025-07-25T01:49:53.723Z"
-      },
-      {
-        "version": "1.348.1697",
-        "lastUpdated": "2025-07-24T16:21:39.763Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5466,7 +5466,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1723/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1724/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5875,9 +5875,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025080808",
-    "last_updated": "2025-08-08T10:02:44.837Z",
+    "latest_version": "0.117.2025080812",
+    "last_updated": "2025-08-08T12:47:02.14Z",
     "version_history": [
+      {
+        "version": "0.117.2025080812",
+        "lastUpdated": "2025-08-08T12:47:02.14Z"
+      },
       {
         "version": "0.117.2025080808",
         "lastUpdated": "2025-08-08T10:02:44.837Z"
@@ -5923,6 +5927,10 @@
         "lastUpdated": "2025-07-28T04:18:50.807Z"
       },
       {
+        "version": "0.116.0",
+        "lastUpdated": "2025-08-08T12:45:56.96Z"
+      },
+      {
         "version": "0.115.2025072518",
         "lastUpdated": "2025-07-25T18:49:09.257Z"
       },
@@ -5949,19 +5957,11 @@
       {
         "version": "0.115.2025071715",
         "lastUpdated": "2025-07-17T15:53:01.263Z"
-      },
-      {
-        "version": "0.115.2025071704",
-        "lastUpdated": "2025-07-17T04:20:42.97Z"
-      },
-      {
-        "version": "0.115.2025071604",
-        "lastUpdated": "2025-07-16T04:20:52.22Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080812/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8929,9 +8929,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.41.11",
-    "last_updated": "2025-08-07T03:28:02.093Z",
+    "latest_version": "1.50.11",
+    "last_updated": "2025-08-08T14:08:15.513Z",
     "version_history": [
+      {
+        "version": "1.50.11",
+        "lastUpdated": "2025-08-08T14:08:15.513Z"
+      },
       {
         "version": "1.41.11",
         "lastUpdated": "2025-08-07T03:28:02.093Z"
@@ -9007,24 +9011,24 @@
       {
         "version": "1.19.35",
         "lastUpdated": "2025-04-22T18:47:49.36Z"
-      },
-      {
-        "version": "1.19.20",
-        "lastUpdated": "2025-04-15T20:45:13.52Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.41.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.50.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.87.31",
-    "last_updated": "2025-08-06T22:43:51.87Z",
+    "latest_version": "2.88.42",
+    "last_updated": "2025-08-08T14:59:51.75Z",
     "version_history": [
+      {
+        "version": "2.88.42",
+        "lastUpdated": "2025-08-08T14:59:51.75Z"
+      },
       {
         "version": "2.87.31",
         "lastUpdated": "2025-08-06T22:43:51.87Z"
@@ -9100,10 +9104,6 @@
       {
         "version": "2.72.27",
         "lastUpdated": "2025-04-07T21:45:19.313Z"
-      },
-      {
-        "version": "2.72.22",
-        "lastUpdated": "2025-04-01T18:11:53.057Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9126,7 +9126,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.87.31/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.88.42/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
