@@ -7993,9 +7993,13 @@
     "extension_name": "marp-team.marp-vscode",
     "display_name": "Marp for VS Code",
     "short_description": "Create slide deck written in Marp Markdown on VS Code",
-    "latest_version": "3.2.1",
-    "last_updated": "2025-07-19T16:41:54.847Z",
+    "latest_version": "3.3.0",
+    "last_updated": "2025-08-09T07:05:49.12Z",
     "version_history": [
+      {
+        "version": "3.3.0",
+        "lastUpdated": "2025-08-09T07:05:49.12Z"
+      },
       {
         "version": "3.2.1",
         "lastUpdated": "2025-07-19T16:41:54.847Z"
@@ -8071,15 +8075,11 @@
       {
         "version": "1.5.1",
         "lastUpdated": "2022-04-17T06:24:17.8Z"
-      },
-      {
-        "version": "1.5.0",
-        "lastUpdated": "2022-03-06T13:04:19.63Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["deck", "language-model-tools", "markdown", "marp", "presentation", "slide", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/marp-team/vsextensions/marp-vscode/3.2.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/marp-team/vsextensions/marp-vscode/3.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode"
   },
   {
@@ -12918,9 +12918,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.11.0",
-    "last_updated": "2025-08-07T15:18:31.51Z",
+    "latest_version": "1.11.1",
+    "last_updated": "2025-08-09T10:06:08.71Z",
     "version_history": [
+      {
+        "version": "1.11.1",
+        "lastUpdated": "2025-08-09T10:06:08.71Z"
+      },
       {
         "version": "1.11.0",
         "lastUpdated": "2025-08-07T15:18:31.51Z"
@@ -12996,15 +13000,11 @@
       {
         "version": "0.16.9",
         "lastUpdated": "2025-05-03T13:30:42.547Z"
-      },
-      {
-        "version": "0.16.8",
-        "lastUpdated": "2025-04-27T11:28:33.74Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.11.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.11.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -14498,9 +14498,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.21.0",
-    "last_updated": "2025-08-07T17:21:44.39Z",
+    "latest_version": "3.23.0",
+    "last_updated": "2025-08-09T09:41:47.953Z",
     "version_history": [
+      {
+        "version": "3.23.0",
+        "lastUpdated": "2025-08-09T09:41:47.953Z"
+      },
       {
         "version": "3.21.0",
         "lastUpdated": "2025-08-07T17:21:44.39Z"
@@ -14576,15 +14580,11 @@
       {
         "version": "3.19.2",
         "lastUpdated": "2025-07-15T05:50:00.783Z"
-      },
-      {
-        "version": "3.19.0",
-        "lastUpdated": "2025-07-15T04:20:04.573Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.21.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.23.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
