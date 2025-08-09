@@ -16212,9 +16212,13 @@
     "extension_name": "unifiedjs.vscode-mdx",
     "display_name": "MDX",
     "short_description": "Language support for MDX",
-    "latest_version": "1.8.15",
-    "last_updated": "2025-05-31T19:00:27.723Z",
+    "latest_version": "1.8.16",
+    "last_updated": "2025-08-09T14:08:17.827Z",
     "version_history": [
+      {
+        "version": "1.8.16",
+        "lastUpdated": "2025-08-09T14:08:17.827Z"
+      },
       {
         "version": "1.8.15",
         "lastUpdated": "2025-05-31T19:00:27.723Z"
@@ -16290,15 +16294,11 @@
       {
         "version": "1.7.1",
         "lastUpdated": "2024-02-02T14:29:57.693Z"
-      },
-      {
-        "version": "1.7.0",
-        "lastUpdated": "2024-01-20T12:08:48.96Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["javascript", "javascriptreact", "json", "keybindings", "Markdown", "mdx", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx"
   },
   {
