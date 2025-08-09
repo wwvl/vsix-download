@@ -11295,9 +11295,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.7.2917",
-    "last_updated": "2025-07-30T00:17:42.4Z",
+    "latest_version": "2025.8.817",
+    "last_updated": "2025-08-09T00:21:18.847Z",
     "version_history": [
+      {
+        "version": "2025.8.817",
+        "lastUpdated": "2025-08-09T00:21:18.847Z"
+      },
       {
         "version": "2025.7.2917",
         "lastUpdated": "2025-07-30T00:17:42.4Z"
@@ -11373,15 +11377,11 @@
       {
         "version": "2025.2.1117",
         "lastUpdated": "2025-02-12T01:14:39.95Z"
-      },
-      {
-        "version": "2025.1.2717",
-        "lastUpdated": "2025-01-28T01:17:07.493Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssemblyTextFormat"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.7.2917/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.8.817/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -11946,9 +11946,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250807",
-    "last_updated": "2025-08-08T00:19:13.66Z",
+    "latest_version": "6.0.20250808",
+    "last_updated": "2025-08-09T00:27:33.163Z",
     "version_history": [
+      {
+        "version": "6.0.20250808",
+        "lastUpdated": "2025-08-09T00:27:33.163Z"
+      },
       {
         "version": "6.0.20250807",
         "lastUpdated": "2025-08-08T00:19:13.66Z"
@@ -12024,15 +12028,11 @@
       {
         "version": "5.9.20250720",
         "lastUpdated": "2025-07-21T00:16:43.7Z"
-      },
-      {
-        "version": "5.9.20250719",
-        "lastUpdated": "2025-07-20T00:16:46.04Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250807/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14197,9 +14197,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2565",
-    "last_updated": "2025-08-06T01:02:56.227Z",
+    "latest_version": "0.4.2568",
+    "last_updated": "2025-08-09T00:57:46.833Z",
     "version_history": [
+      {
+        "version": "0.4.2568",
+        "lastUpdated": "2025-08-09T00:57:46.833Z"
+      },
       {
         "version": "0.4.2565",
         "lastUpdated": "2025-08-06T01:02:56.227Z"
@@ -14275,15 +14279,11 @@
       {
         "version": "0.4.2544",
         "lastUpdated": "2025-07-19T01:09:23.93Z"
-      },
-      {
-        "version": "0.4.2543",
-        "lastUpdated": "2025-07-18T00:59:53.207Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2565/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2568/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16860,9 +16860,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025080700",
-    "last_updated": "2025-08-07T00:41:29.807Z",
+    "latest_version": "2.0.2025080900",
+    "last_updated": "2025-08-09T00:48:11.91Z",
     "version_history": [
+      {
+        "version": "2.0.2025080900",
+        "lastUpdated": "2025-08-09T00:48:11.91Z"
+      },
       {
         "version": "2.0.2025080700",
         "lastUpdated": "2025-08-07T00:41:29.807Z"
@@ -16938,10 +16942,6 @@
       {
         "version": "1.64.2025061400",
         "lastUpdated": "2025-06-14T01:36:56.097Z"
-      },
-      {
-        "version": "1.64.2025061200",
-        "lastUpdated": "2025-06-12T01:13:02.27Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16960,7 +16960,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025080700/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025080900/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
