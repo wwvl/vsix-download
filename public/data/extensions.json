@@ -10363,9 +10363,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025080601",
-    "last_updated": "2025-08-06T13:47:18.05Z",
+    "latest_version": "2025.8.2025081101",
+    "last_updated": "2025-08-11T01:12:27.957Z",
     "version_history": [
+      {
+        "version": "2025.8.2025081101",
+        "lastUpdated": "2025-08-11T01:12:27.957Z"
+      },
       {
         "version": "2025.8.2025080601",
         "lastUpdated": "2025-08-06T13:47:18.05Z"
@@ -10441,15 +10445,11 @@
       {
         "version": "2025.5.2025060401",
         "lastUpdated": "2025-06-04T10:04:18.983Z"
-      },
-      {
-        "version": "2025.5.2025060301",
-        "lastUpdated": "2025-06-03T09:55:06.873Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025080601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -11946,9 +11946,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250809",
-    "last_updated": "2025-08-10T00:13:21.66Z",
+    "latest_version": "6.0.20250810",
+    "last_updated": "2025-08-11T00:19:41.553Z",
     "version_history": [
+      {
+        "version": "6.0.20250810",
+        "lastUpdated": "2025-08-11T00:19:41.553Z"
+      },
       {
         "version": "6.0.20250809",
         "lastUpdated": "2025-08-10T00:13:21.66Z"
@@ -12024,15 +12028,11 @@
       {
         "version": "5.9.20250722",
         "lastUpdated": "2025-07-23T00:18:40.1Z"
-      },
-      {
-        "version": "5.9.20250721",
-        "lastUpdated": "2025-07-22T00:19:07.49Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250809/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250810/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14197,9 +14197,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2569",
-    "last_updated": "2025-08-10T01:14:33.66Z",
+    "latest_version": "0.4.2570",
+    "last_updated": "2025-08-11T01:10:57.043Z",
     "version_history": [
+      {
+        "version": "0.4.2570",
+        "lastUpdated": "2025-08-11T01:10:57.043Z"
+      },
       {
         "version": "0.4.2569",
         "lastUpdated": "2025-08-10T01:14:33.66Z"
@@ -14275,15 +14279,11 @@
       {
         "version": "0.4.2546",
         "lastUpdated": "2025-07-21T01:02:42.537Z"
-      },
-      {
-        "version": "0.4.2545",
-        "lastUpdated": "2025-07-20T01:04:30.507Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2569/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2570/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
