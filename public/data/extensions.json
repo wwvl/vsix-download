@@ -5356,9 +5356,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.353.1724",
-    "last_updated": "2025-08-08T16:21:03.71Z",
+    "latest_version": "1.353.1725",
+    "last_updated": "2025-08-11T01:49:07.407Z",
     "version_history": [
+      {
+        "version": "1.353.1725",
+        "lastUpdated": "2025-08-11T01:49:07.407Z"
+      },
       {
         "version": "1.353.1724",
         "lastUpdated": "2025-08-08T16:21:03.71Z"
@@ -5434,10 +5438,6 @@
       {
         "version": "1.348.1700",
         "lastUpdated": "2025-07-28T01:48:15.33Z"
-      },
-      {
-        "version": "1.348.1698",
-        "lastUpdated": "2025-07-25T01:49:53.723Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5466,16 +5466,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1724/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.353.1725/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025080801",
-    "last_updated": "2025-08-08T04:25:22.683Z",
+    "latest_version": "0.31.2025081101",
+    "last_updated": "2025-08-11T04:26:25.01Z",
     "version_history": [
+      {
+        "version": "0.31.2025081101",
+        "lastUpdated": "2025-08-11T04:26:25.01Z"
+      },
       {
         "version": "0.31.2025080801",
         "lastUpdated": "2025-08-08T04:25:22.683Z"
@@ -5551,10 +5555,6 @@
       {
         "version": "0.30.2025071801",
         "lastUpdated": "2025-07-18T04:24:56.93Z"
-      },
-      {
-        "version": "0.30.2025071701",
-        "lastUpdated": "2025-07-17T11:16:35.937Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5589,7 +5589,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025080801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025081101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5875,9 +5875,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025080812",
-    "last_updated": "2025-08-08T12:47:02.14Z",
+    "latest_version": "0.117.2025081104",
+    "last_updated": "2025-08-11T04:22:05.387Z",
     "version_history": [
+      {
+        "version": "0.117.2025081104",
+        "lastUpdated": "2025-08-11T04:22:05.387Z"
+      },
       {
         "version": "0.117.2025080812",
         "lastUpdated": "2025-08-08T12:47:02.14Z"
@@ -5953,15 +5957,11 @@
       {
         "version": "0.115.2025072104",
         "lastUpdated": "2025-07-21T04:19:38.43Z"
-      },
-      {
-        "version": "0.115.2025071715",
-        "lastUpdated": "2025-07-17T15:53:01.263Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025080812/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025081104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11853,9 +11853,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250810001",
-    "last_updated": "2025-08-10T02:57:50.82Z",
+    "latest_version": "0.13.250811001",
+    "last_updated": "2025-08-11T03:00:56.57Z",
     "version_history": [
+      {
+        "version": "0.13.250811001",
+        "lastUpdated": "2025-08-11T03:00:56.57Z"
+      },
       {
         "version": "0.13.250810001",
         "lastUpdated": "2025-08-10T02:57:50.82Z"
@@ -11931,15 +11935,11 @@
       {
         "version": "0.13.250715001",
         "lastUpdated": "2025-07-15T03:01:33.63Z"
-      },
-      {
-        "version": "0.13.250714001",
-        "lastUpdated": "2025-07-14T02:59:56.807Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250810001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250811001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
