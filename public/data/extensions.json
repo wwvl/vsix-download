@@ -4180,9 +4180,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.805",
-    "last_updated": "2025-08-08T09:19:10.853Z",
+    "latest_version": "2025.8.1205",
+    "last_updated": "2025-08-12T09:14:42.2Z",
     "version_history": [
+      {
+        "version": "2025.8.1205",
+        "lastUpdated": "2025-08-12T09:14:42.2Z"
+      },
       {
         "version": "2025.8.805",
         "lastUpdated": "2025-08-08T09:19:10.853Z"
@@ -4258,15 +4262,11 @@
       {
         "version": "2025.7.1205",
         "lastUpdated": "2025-07-12T09:12:57.51Z"
-      },
-      {
-        "version": "2025.7.1005",
-        "lastUpdated": "2025-07-10T09:15:16.93Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10363,9 +10363,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025081102",
-    "last_updated": "2025-08-11T09:51:09.353Z",
+    "latest_version": "2025.8.2025081201",
+    "last_updated": "2025-08-12T09:51:16.52Z",
     "version_history": [
+      {
+        "version": "2025.8.2025081201",
+        "lastUpdated": "2025-08-12T09:51:16.52Z"
+      },
       {
         "version": "2025.8.2025081102",
         "lastUpdated": "2025-08-11T09:51:09.353Z"
@@ -10441,15 +10445,11 @@
       {
         "version": "2025.5.2025060601",
         "lastUpdated": "2025-06-06T03:30:38.207Z"
-      },
-      {
-        "version": "2025.5.2025060501",
-        "lastUpdated": "2025-06-05T09:51:05.363Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -11296,11 +11296,11 @@
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
     "latest_version": "2025.8.1117",
-    "last_updated": "2025-08-12T00:14:25.727Z",
+    "last_updated": "2025-08-12T00:19:19.853Z",
     "version_history": [
       {
         "version": "2025.8.1117",
-        "lastUpdated": "2025-08-12T00:14:25.727Z"
+        "lastUpdated": "2025-08-12T00:19:19.853Z"
       },
       {
         "version": "2025.8.817",
