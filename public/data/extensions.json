@@ -1419,9 +1419,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.529.0",
-    "last_updated": "2025-08-12T17:10:35.177Z",
+    "latest_version": "0.530.0",
+    "last_updated": "2025-08-13T17:05:07.413Z",
     "version_history": [
+      {
+        "version": "0.530.0",
+        "lastUpdated": "2025-08-13T17:05:07.413Z"
+      },
       {
         "version": "0.529.0",
         "lastUpdated": "2025-08-12T17:10:35.177Z"
@@ -1497,15 +1501,11 @@
       {
         "version": "0.516.1",
         "lastUpdated": "2025-07-28T17:45:25.213Z"
-      },
-      {
-        "version": "0.516.0",
-        "lastUpdated": "2025-07-25T23:18:15.923Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
     "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.529.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.530.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2865,9 +2865,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.117.20250806",
-    "last_updated": "2025-08-06T10:06:12.087Z",
+    "latest_version": "3.117.20250813",
+    "last_updated": "2025-08-13T18:09:40.46Z",
     "version_history": [
+      {
+        "version": "3.117.20250813",
+        "lastUpdated": "2025-08-13T18:09:40.46Z"
+      },
       {
         "version": "3.117.20250806",
         "lastUpdated": "2025-08-06T10:06:12.087Z"
@@ -2943,15 +2947,11 @@
       {
         "version": "3.110.0",
         "lastUpdated": "2025-05-01T11:03:48.867Z"
-      },
-      {
-        "version": "3.109.20250429",
-        "lastUpdated": "2025-04-29T09:39:53.923Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250806/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250813/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5356,9 +5356,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.355.1731",
-    "last_updated": "2025-08-13T01:48:53.567Z",
+    "latest_version": "1.356.1733",
+    "last_updated": "2025-08-13T16:19:11.48Z",
     "version_history": [
+      {
+        "version": "1.356.1733",
+        "lastUpdated": "2025-08-13T16:19:11.48Z"
+      },
       {
         "version": "1.355.1731",
         "lastUpdated": "2025-08-13T01:48:53.567Z"
@@ -5434,10 +5438,6 @@
       {
         "version": "1.350.1706",
         "lastUpdated": "2025-07-30T01:47:58.42Z"
-      },
-      {
-        "version": "1.350.0",
-        "lastUpdated": "2025-07-29T18:58:28.617Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5466,7 +5466,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.355.1731/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.356.1733/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -10769,9 +10769,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.121.2025073115",
-    "last_updated": "2025-07-31T15:21:12.727Z",
+    "latest_version": "0.121.2025081315",
+    "last_updated": "2025-08-13T15:20:51.953Z",
     "version_history": [
+      {
+        "version": "0.121.2025081315",
+        "lastUpdated": "2025-08-13T15:20:51.953Z"
+      },
       {
         "version": "0.121.2025073115",
         "lastUpdated": "2025-07-31T15:21:12.727Z"
@@ -10847,15 +10851,11 @@
       {
         "version": "0.119.2025030416",
         "lastUpdated": "2025-03-04T16:30:00.517Z"
-      },
-      {
-        "version": "0.119.0",
-        "lastUpdated": "2025-04-04T16:53:50.17Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025073115/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.121.2025081315/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -12039,9 +12039,13 @@
     "extension_name": "MS-vsliveshare.vsliveshare",
     "display_name": "Live Share",
     "short_description": "Real-time collaborative development from the comfort of your favorite tools.",
-    "latest_version": "1.0.5948",
-    "last_updated": "2025-01-06T23:10:34.203Z",
+    "latest_version": "1.0.5959",
+    "last_updated": "2025-08-13T17:10:41.807Z",
     "version_history": [
+      {
+        "version": "1.0.5959",
+        "lastUpdated": "2025-08-13T17:10:41.807Z"
+      },
       {
         "version": "1.0.5948",
         "lastUpdated": "2025-01-06T23:10:34.203Z"
@@ -12117,15 +12121,11 @@
       {
         "version": "1.0.5834",
         "lastUpdated": "2023-03-06T17:50:49Z"
-      },
-      {
-        "version": "1.0.5832",
-        "lastUpdated": "2023-02-23T18:02:53.02Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["Co-Debug", "Co-Edit", "Collaboration", "debuggers", "keybindings", "liveshare", "Remote", "remote-menu", "Sharing"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5948/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-vsliveshare/vsextensions/vsliveshare/1.0.5959/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare"
   },
   {
