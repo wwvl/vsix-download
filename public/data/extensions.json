@@ -3565,9 +3565,13 @@
     "extension_name": "docsmsft.docs-markdown",
     "display_name": "learn-markdown",
     "short_description": "Learn Markdown Extension",
-    "latest_version": "1.0.13",
-    "last_updated": "2025-03-13T02:21:16.087Z",
+    "latest_version": "1.0.15",
+    "last_updated": "2025-08-13T06:32:19.887Z",
     "version_history": [
+      {
+        "version": "1.0.15",
+        "lastUpdated": "2025-08-13T06:32:19.887Z"
+      },
       {
         "version": "1.0.13",
         "lastUpdated": "2025-03-13T02:21:16.087Z"
@@ -3643,15 +3647,11 @@
       {
         "version": "0.2.99",
         "lastUpdated": "2021-09-24T22:50:57.133Z"
-      },
-      {
-        "version": "0.2.98",
-        "lastUpdated": "2021-09-20T23:04:11.17Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["json", "keybindings", "markdown", "snippet", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.13/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown"
   },
   {
@@ -4180,9 +4180,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.1205",
-    "last_updated": "2025-08-12T09:14:42.2Z",
+    "latest_version": "2025.8.1305",
+    "last_updated": "2025-08-13T09:15:13.58Z",
     "version_history": [
+      {
+        "version": "2025.8.1305",
+        "lastUpdated": "2025-08-13T09:15:13.58Z"
+      },
       {
         "version": "2025.8.1205",
         "lastUpdated": "2025-08-12T09:14:42.2Z"
@@ -4258,15 +4262,11 @@
       {
         "version": "2025.7.1305",
         "lastUpdated": "2025-07-13T09:14:11.433Z"
-      },
-      {
-        "version": "2025.7.1205",
-        "lastUpdated": "2025-07-12T09:12:57.51Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8836,9 +8836,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.103.2025080609",
-    "last_updated": "2025-08-06T09:24:19.6Z",
+    "latest_version": "1.103.2025081309",
+    "last_updated": "2025-08-13T09:30:32.493Z",
     "version_history": [
+      {
+        "version": "1.103.2025081309",
+        "lastUpdated": "2025-08-13T09:30:32.493Z"
+      },
       {
         "version": "1.103.2025080609",
         "lastUpdated": "2025-08-06T09:24:19.6Z"
@@ -8914,15 +8918,11 @@
       {
         "version": "1.99.2025033120",
         "lastUpdated": "2025-03-31T21:10:16.15Z"
-      },
-      {
-        "version": "1.99.2025032609",
-        "lastUpdated": "2025-03-26T09:18:48.527Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.103.2025080609/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.103.2025081309/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9732,9 +9732,13 @@
     "extension_name": "ms-python.flake8",
     "display_name": "Flake8",
     "short_description": "Linting support for Python files using Flake8.",
-    "latest_version": "2025.3.11921009",
-    "last_updated": "2025-07-11T10:21:26.487Z",
+    "latest_version": "2025.3.12251016",
+    "last_updated": "2025-08-13T11:12:03.49Z",
     "version_history": [
+      {
+        "version": "2025.3.12251016",
+        "lastUpdated": "2025-08-13T11:12:03.49Z"
+      },
       {
         "version": "2025.3.11921009",
         "lastUpdated": "2025-07-11T10:21:26.487Z"
@@ -9810,24 +9814,24 @@
       {
         "version": "2023.11.13551006",
         "lastUpdated": "2023-12-21T10:13:10.24Z"
-      },
-      {
-        "version": "2023.11.13471008",
-        "lastUpdated": "2023-12-13T10:17:19.443Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["flake8", "ini", "linters", "linting", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.11921009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.12251016/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.flake8"
   },
   {
     "extension_name": "ms-python.mypy-type-checker",
     "display_name": "Mypy Type Checker",
     "short_description": "Type checking support for Python files using Mypy.",
-    "latest_version": "2025.3.11821011",
-    "last_updated": "2025-07-01T10:25:25.097Z",
+    "latest_version": "2025.3.12251022",
+    "last_updated": "2025-08-13T11:06:01.447Z",
     "version_history": [
+      {
+        "version": "2025.3.12251022",
+        "lastUpdated": "2025-08-13T11:06:01.447Z"
+      },
       {
         "version": "2025.3.11821011",
         "lastUpdated": "2025-07-01T10:25:25.097Z"
@@ -9903,24 +9907,24 @@
       {
         "version": "2023.9.11861016",
         "lastUpdated": "2024-07-04T10:26:17.26Z"
-      },
-      {
-        "version": "2023.9.11501016",
-        "lastUpdated": "2024-05-29T10:25:11.947Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["mypy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.11821011/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.12251022/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker"
   },
   {
     "extension_name": "ms-python.pylint",
     "display_name": "Pylint",
     "short_description": "Linting support for Python files using Pylint.",
-    "latest_version": "2025.3.11821009",
-    "last_updated": "2025-07-01T10:22:22.017Z",
+    "latest_version": "2025.3.12251019",
+    "last_updated": "2025-08-13T11:04:37.07Z",
     "version_history": [
+      {
+        "version": "2025.3.12251019",
+        "lastUpdated": "2025-08-13T11:04:37.07Z"
+      },
       {
         "version": "2025.3.11821009",
         "lastUpdated": "2025-07-01T10:22:22.017Z"
@@ -9996,15 +10000,11 @@
       {
         "version": "2023.11.13121006",
         "lastUpdated": "2023-11-08T10:12:02.5Z"
-      },
-      {
-        "version": "2023.11.13101007",
-        "lastUpdated": "2023-11-06T10:15:07.14Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ini", "linters", "linting", "pylint", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/pylint/2025.3.11821009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/pylint/2025.3.12251019/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.pylint"
   },
   {
@@ -10862,9 +10862,13 @@
     "extension_name": "ms-vscode-remote.remote-wsl",
     "display_name": "WSL",
     "short_description": "Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.99.0",
-    "last_updated": "2025-04-09T15:58:25.37Z",
+    "latest_version": "0.104.0",
+    "last_updated": "2025-08-13T11:06:38.01Z",
     "version_history": [
+      {
+        "version": "0.104.0",
+        "lastUpdated": "2025-08-13T11:06:38.01Z"
+      },
       {
         "version": "0.99.0",
         "lastUpdated": "2025-04-09T15:58:25.37Z"
@@ -10940,15 +10944,11 @@
       {
         "version": "0.80.1",
         "lastUpdated": "2023-06-27T01:09:32.193Z"
-      },
-      {
-        "version": "0.80.0",
-        "lastUpdated": "2023-06-26T17:17:45.183Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["keybindings", "remote", "remote development", "remote-menu", "wsl"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-wsl/0.99.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-wsl/0.104.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl"
   },
   {
@@ -14405,9 +14405,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "64.8.0",
-    "last_updated": "2025-08-06T20:55:02.267Z",
+    "latest_version": "64.9.1",
+    "last_updated": "2025-08-13T12:13:20.887Z",
     "version_history": [
+      {
+        "version": "64.9.1",
+        "lastUpdated": "2025-08-13T12:13:20.887Z"
+      },
       {
         "version": "64.8.0",
         "lastUpdated": "2025-08-06T20:55:02.267Z"
@@ -14483,15 +14487,11 @@
       {
         "version": "63.2.3",
         "lastUpdated": "2025-02-28T21:53:11.647Z"
-      },
-      {
-        "version": "63.1.1",
-        "lastUpdated": "2025-02-18T17:32:54.91Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.9.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
