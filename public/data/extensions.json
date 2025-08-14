@@ -3144,9 +3144,13 @@
     "extension_name": "dbaeumer.vscode-eslint",
     "display_name": "ESLint",
     "short_description": "Integrates ESLint JavaScript into VS Code.",
-    "latest_version": "3.0.16",
-    "last_updated": "2025-08-06T12:28:23.88Z",
+    "latest_version": "3.0.17",
+    "last_updated": "2025-08-14T12:12:16.563Z",
     "version_history": [
+      {
+        "version": "3.0.17",
+        "lastUpdated": "2025-08-14T12:12:16.563Z"
+      },
       {
         "version": "3.0.16",
         "lastUpdated": "2025-08-06T12:28:23.88Z"
@@ -3222,15 +3226,11 @@
       {
         "version": "2.2.3",
         "lastUpdated": "2022-01-13T09:49:56.547Z"
-      },
-      {
-        "version": "2.2.2",
-        "lastUpdated": "2021-10-21T11:00:56.16Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ignore", "javascript", "json", "jsonc", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.16/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
   },
   {
@@ -3423,9 +3423,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.60.17787",
-    "last_updated": "2025-08-12T19:40:33.46Z",
+    "latest_version": "1.60.17798",
+    "last_updated": "2025-08-14T11:14:54.973Z",
     "version_history": [
+      {
+        "version": "1.60.17798",
+        "lastUpdated": "2025-08-14T11:14:54.973Z"
+      },
       {
         "version": "1.60.17787",
         "lastUpdated": "2025-08-12T19:40:33.46Z"
@@ -3501,15 +3505,11 @@
       {
         "version": "1.59.17466",
         "lastUpdated": "2025-06-12T23:23:32.2Z"
-      },
-      {
-        "version": "1.58.17461",
-        "lastUpdated": "2025-06-10T13:55:35.443Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17787/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17798/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4180,9 +4180,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.1305",
-    "last_updated": "2025-08-13T09:15:13.58Z",
+    "latest_version": "2025.8.1405",
+    "last_updated": "2025-08-14T09:15:18.433Z",
     "version_history": [
+      {
+        "version": "2025.8.1405",
+        "lastUpdated": "2025-08-14T09:15:18.433Z"
+      },
       {
         "version": "2025.8.1305",
         "lastUpdated": "2025-08-13T09:15:13.58Z"
@@ -4258,15 +4262,11 @@
       {
         "version": "2025.7.1505",
         "lastUpdated": "2025-07-15T09:18:02.067Z"
-      },
-      {
-        "version": "2025.7.1305",
-        "lastUpdated": "2025-07-13T09:14:11.433Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1305/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1405/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5689,9 +5689,13 @@
     "extension_name": "GitHub.remotehub",
     "display_name": "GitHub Repositories",
     "short_description": "Remotely browse and edit any GitHub repository",
-    "latest_version": "0.65.2025072801",
-    "last_updated": "2025-07-28T09:25:27.133Z",
+    "latest_version": "0.65.2025081401",
+    "last_updated": "2025-08-14T09:23:12.237Z",
     "version_history": [
+      {
+        "version": "0.65.2025081401",
+        "lastUpdated": "2025-08-14T09:23:12.237Z"
+      },
       {
         "version": "0.65.2025072801",
         "lastUpdated": "2025-07-28T09:25:27.133Z"
@@ -5767,15 +5771,11 @@
       {
         "version": "0.62.0",
         "lastUpdated": "2023-10-04T18:37:19.593Z"
-      },
-      {
-        "version": "0.61.2023100201",
-        "lastUpdated": "2023-10-02T09:21:20.133Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2025072801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/remotehub/0.65.2025081401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub"
   },
   {
@@ -10011,9 +10011,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.13.2025080801",
-    "last_updated": "2025-08-08T10:47:19.49Z",
+    "latest_version": "2025.13.2025081401",
+    "last_updated": "2025-08-14T10:55:24.163Z",
     "version_history": [
+      {
+        "version": "2025.13.2025081401",
+        "lastUpdated": "2025-08-14T10:55:24.163Z"
+      },
       {
         "version": "2025.13.2025080801",
         "lastUpdated": "2025-08-08T10:47:19.49Z"
@@ -10089,10 +10093,6 @@
       {
         "version": "2025.9.2025062001",
         "lastUpdated": "2025-06-20T10:47:24.82Z"
-      },
-      {
-        "version": "2025.9.2025061801",
-        "lastUpdated": "2025-06-18T10:57:10.82Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10115,7 +10115,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025080801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025081401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -10363,9 +10363,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025081401",
-    "last_updated": "2025-08-14T00:36:29.823Z",
+    "latest_version": "2025.8.2025081402",
+    "last_updated": "2025-08-14T09:55:35.167Z",
     "version_history": [
+      {
+        "version": "2025.8.2025081402",
+        "lastUpdated": "2025-08-14T09:55:35.167Z"
+      },
       {
         "version": "2025.8.2025081401",
         "lastUpdated": "2025-08-14T00:36:29.823Z"
@@ -10441,15 +10445,11 @@
       {
         "version": "2025.6.2025061301",
         "lastUpdated": "2025-06-13T09:49:36.133Z"
-      },
-      {
-        "version": "2025.6.0",
-        "lastUpdated": "2025-07-08T16:38:47.827Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081402/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -10862,9 +10862,13 @@
     "extension_name": "ms-vscode-remote.remote-wsl",
     "display_name": "WSL",
     "short_description": "Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.104.0",
-    "last_updated": "2025-08-13T11:06:38.01Z",
+    "latest_version": "0.104.1",
+    "last_updated": "2025-08-14T08:55:05.127Z",
     "version_history": [
+      {
+        "version": "0.104.1",
+        "lastUpdated": "2025-08-14T08:55:05.127Z"
+      },
       {
         "version": "0.104.0",
         "lastUpdated": "2025-08-13T11:06:38.01Z"
@@ -10940,15 +10944,11 @@
       {
         "version": "0.80.2",
         "lastUpdated": "2023-06-27T22:26:56.943Z"
-      },
-      {
-        "version": "0.80.1",
-        "lastUpdated": "2023-06-27T01:09:32.193Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["keybindings", "remote", "remote development", "remote-menu", "wsl"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-wsl/0.104.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-wsl/0.104.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl"
   },
   {
@@ -11388,9 +11388,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025063001",
-    "last_updated": "2025-06-30T09:29:42.063Z",
+    "latest_version": "0.5.2025081401",
+    "last_updated": "2025-08-14T09:24:21.847Z",
     "version_history": [
+      {
+        "version": "0.5.2025081401",
+        "lastUpdated": "2025-08-14T09:24:21.847Z"
+      },
       {
         "version": "0.5.2025063001",
         "lastUpdated": "2025-06-30T09:29:42.063Z"
@@ -11466,15 +11470,11 @@
       {
         "version": "0.5.2023120401",
         "lastUpdated": "2023-12-04T09:20:25.01Z"
-      },
-      {
-        "version": "0.5.2023113001",
-        "lastUpdated": "2023-11-30T18:05:37.69Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025063001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025081401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -11667,9 +11667,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025072309",
-    "last_updated": "2025-07-23T09:24:56.62Z",
+    "latest_version": "1.6.2025081409",
+    "last_updated": "2025-08-14T09:21:24.257Z",
     "version_history": [
+      {
+        "version": "1.6.2025081409",
+        "lastUpdated": "2025-08-14T09:21:24.257Z"
+      },
       {
         "version": "1.6.2025072309",
         "lastUpdated": "2025-07-23T09:24:56.62Z"
@@ -11745,15 +11749,11 @@
       {
         "version": "1.6.2024052909",
         "lastUpdated": "2024-05-29T09:37:24.28Z"
-      },
-      {
-        "version": "1.6.2024052709",
-        "lastUpdated": "2024-05-27T09:31:44.577Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025072309/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025081409/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
@@ -13791,9 +13791,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.45.2025080808",
-    "last_updated": "2025-08-08T08:37:06.34Z",
+    "latest_version": "1.45.2025081408",
+    "last_updated": "2025-08-14T08:29:29.117Z",
     "version_history": [
+      {
+        "version": "1.45.2025081408",
+        "lastUpdated": "2025-08-14T08:29:29.117Z"
+      },
       {
         "version": "1.45.2025080808",
         "lastUpdated": "2025-08-08T08:37:06.34Z"
@@ -13869,15 +13873,11 @@
       {
         "version": "1.43.2025061208",
         "lastUpdated": "2025-06-12T08:30:14.77Z"
-      },
-      {
-        "version": "1.43.2025061108",
-        "lastUpdated": "2025-06-11T08:30:02.21Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025080808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025081408/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14943,9 +14943,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.118.0",
-    "last_updated": "2025-08-07T22:48:17.313Z",
+    "latest_version": "1.119.1755163375",
+    "last_updated": "2025-08-14T09:34:36.447Z",
     "version_history": [
+      {
+        "version": "1.119.1755163375",
+        "lastUpdated": "2025-08-14T09:34:36.447Z"
+      },
       {
         "version": "1.118.0",
         "lastUpdated": "2025-08-07T22:48:17.313Z"
@@ -15021,10 +15025,6 @@
       {
         "version": "1.106.0",
         "lastUpdated": "2025-06-25T18:55:02.78Z"
-      },
-      {
-        "version": "1.105.1750832706",
-        "lastUpdated": "2025-06-25T06:30:20.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15070,7 +15070,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.118.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.119.1755163375/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
@@ -16967,9 +16967,13 @@
     "extension_name": "vscjava.vscode-gradle",
     "display_name": "Gradle for Java",
     "short_description": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
-    "latest_version": "3.17.2025080712",
-    "last_updated": "2025-08-08T06:41:26.303Z",
+    "latest_version": "3.17.2025081402",
+    "last_updated": "2025-08-14T07:10:19.767Z",
     "version_history": [
+      {
+        "version": "3.17.2025081402",
+        "lastUpdated": "2025-08-14T07:10:19.767Z"
+      },
       {
         "version": "3.17.2025080712",
         "lastUpdated": "2025-08-08T06:41:26.303Z"
@@ -17045,15 +17049,11 @@
       {
         "version": "3.16.2024080708",
         "lastUpdated": "2024-08-07T11:01:52.24Z"
-      },
-      {
-        "version": "3.16.2024080611",
-        "lastUpdated": "2024-08-06T12:48:06.85Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025080712/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025081402/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
   },
   {
