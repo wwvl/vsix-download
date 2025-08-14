@@ -1418,10 +1418,14 @@
   {
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
-    "short_description": "Augment yourself with the best AI pair programmer",
-    "latest_version": "0.530.0",
-    "last_updated": "2025-08-13T17:05:07.413Z",
+    "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
+    "latest_version": "0.531.0",
+    "last_updated": "2025-08-14T17:08:04.437Z",
     "version_history": [
+      {
+        "version": "0.531.0",
+        "lastUpdated": "2025-08-14T17:08:04.437Z"
+      },
       {
         "version": "0.530.0",
         "lastUpdated": "2025-08-13T17:05:07.413Z"
@@ -1497,15 +1501,28 @@
       {
         "version": "0.516.2",
         "lastUpdated": "2025-07-31T06:01:41.12Z"
-      },
-      {
-        "version": "0.516.1",
-        "lastUpdated": "2025-07-28T17:45:25.213Z"
       }
     ],
-    "categories": ["Programming Languages", "Snippets", "AI", "Chat"],
-    "tags": ["keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.530.0/vspackage",
+    "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
+    "tags": [
+      "agents",
+      "ai",
+      "ai agents",
+      "artificial intelligence",
+      "assistant",
+      "autocomplete",
+      "chat",
+      "code completion",
+      "coding assistant",
+      "copilot",
+      "intellisense",
+      "keybindings",
+      "mcp",
+      "pair programming",
+      "productivity",
+      "remote agents"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.531.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5356,9 +5373,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.356.1734",
-    "last_updated": "2025-08-14T01:48:30.38Z",
+    "latest_version": "1.356.1735",
+    "last_updated": "2025-08-14T16:24:57.22Z",
     "version_history": [
+      {
+        "version": "1.356.1735",
+        "lastUpdated": "2025-08-14T16:24:57.22Z"
+      },
       {
         "version": "1.356.1734",
         "lastUpdated": "2025-08-14T01:48:30.38Z"
@@ -5434,10 +5455,6 @@
       {
         "version": "1.350.1708",
         "lastUpdated": "2025-07-31T01:47:37.25Z"
-      },
-      {
-        "version": "1.350.1707",
-        "lastUpdated": "2025-07-30T16:23:56.3Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5466,7 +5483,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.356.1734/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.356.1735/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8086,9 +8103,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.44",
-    "last_updated": "2025-08-12T04:45:31.62Z",
+    "latest_version": "1.2.45",
+    "last_updated": "2025-08-14T13:31:45.63Z",
     "version_history": [
+      {
+        "version": "1.2.45",
+        "lastUpdated": "2025-08-14T13:31:45.63Z"
+      },
       {
         "version": "1.2.44",
         "lastUpdated": "2025-08-12T04:45:31.62Z"
@@ -8164,10 +8185,6 @@
       {
         "version": "1.2.22",
         "lastUpdated": "2025-06-17T09:30:58.923Z"
-      },
-      {
-        "version": "1.2.21",
-        "lastUpdated": "2025-06-16T14:50:21.7Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8201,7 +8218,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.44/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.45/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -14104,9 +14121,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.25.14",
-    "last_updated": "2025-08-13T20:18:10.917Z",
+    "latest_version": "3.25.15",
+    "last_updated": "2025-08-14T16:59:17.96Z",
     "version_history": [
+      {
+        "version": "3.25.15",
+        "lastUpdated": "2025-08-14T16:59:17.96Z"
+      },
       {
         "version": "3.25.14",
         "lastUpdated": "2025-08-13T20:18:10.917Z"
@@ -14182,15 +14203,11 @@
       {
         "version": "3.23.17",
         "lastUpdated": "2025-07-23T01:53:24.06Z"
-      },
-      {
-        "version": "3.23.16",
-        "lastUpdated": "2025-07-19T16:04:37.26Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -14943,9 +14960,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.119.1755163375",
-    "last_updated": "2025-08-14T09:34:36.447Z",
+    "latest_version": "1.120.0",
+    "last_updated": "2025-08-14T12:51:22.4Z",
     "version_history": [
+      {
+        "version": "1.120.0",
+        "lastUpdated": "2025-08-14T12:51:22.4Z"
+      },
       {
         "version": "1.119.1755163375",
         "lastUpdated": "2025-08-14T09:34:36.447Z"
@@ -15021,10 +15042,6 @@
       {
         "version": "1.106.1",
         "lastUpdated": "2025-06-26T17:43:13.01Z"
-      },
-      {
-        "version": "1.106.0",
-        "lastUpdated": "2025-06-25T18:55:02.78Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15070,7 +15087,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.119.1755163375/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.120.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
