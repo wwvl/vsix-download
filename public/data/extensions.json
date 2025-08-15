@@ -5490,9 +5490,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025081401",
-    "last_updated": "2025-08-14T04:23:00.547Z",
+    "latest_version": "0.31.2025081501",
+    "last_updated": "2025-08-15T04:23:16.353Z",
     "version_history": [
+      {
+        "version": "0.31.2025081501",
+        "lastUpdated": "2025-08-15T04:23:16.353Z"
+      },
       {
         "version": "0.31.2025081401",
         "lastUpdated": "2025-08-14T04:23:00.547Z"
@@ -5568,10 +5572,6 @@
       {
         "version": "0.30.2025072401",
         "lastUpdated": "2025-07-24T04:28:57.12Z"
-      },
-      {
-        "version": "0.30.2025072301",
-        "lastUpdated": "2025-07-23T04:24:11.873Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5606,7 +5606,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025081401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025081501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11126,9 +11126,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.5",
-    "last_updated": "2025-08-12T04:29:59.37Z",
+    "latest_version": "1.22.6",
+    "last_updated": "2025-08-15T04:34:55.69Z",
     "version_history": [
+      {
+        "version": "1.22.6",
+        "lastUpdated": "2025-08-15T04:34:55.69Z"
+      },
       {
         "version": "1.22.5",
         "lastUpdated": "2025-08-12T04:29:59.37Z"
@@ -11204,15 +11208,11 @@
       {
         "version": "1.21.24",
         "lastUpdated": "2025-05-13T04:25:07.41Z"
-      },
-      {
-        "version": "1.21.23",
-        "lastUpdated": "2025-05-12T04:23:19.45Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -11870,9 +11870,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250811001",
-    "last_updated": "2025-08-11T03:00:56.57Z",
+    "latest_version": "0.13.250815001",
+    "last_updated": "2025-08-15T03:04:09.843Z",
     "version_history": [
+      {
+        "version": "0.13.250815001",
+        "lastUpdated": "2025-08-15T03:04:09.843Z"
+      },
       {
         "version": "0.13.250811001",
         "lastUpdated": "2025-08-11T03:00:56.57Z"
@@ -11948,15 +11952,11 @@
       {
         "version": "0.13.250718001",
         "lastUpdated": "2025-07-18T03:06:10.51Z"
-      },
-      {
-        "version": "0.13.250715001",
-        "lastUpdated": "2025-07-15T03:01:33.63Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250811001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250815001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -14515,9 +14515,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.24.0",
-    "last_updated": "2025-08-13T20:28:48.337Z",
+    "latest_version": "3.25.0",
+    "last_updated": "2025-08-15T02:38:38.7Z",
     "version_history": [
+      {
+        "version": "3.25.0",
+        "lastUpdated": "2025-08-15T02:38:38.7Z"
+      },
       {
         "version": "3.24.0",
         "lastUpdated": "2025-08-13T20:28:48.337Z"
@@ -14593,15 +14597,11 @@
       {
         "version": "3.19.4",
         "lastUpdated": "2025-07-15T11:11:36.247Z"
-      },
-      {
-        "version": "3.19.3",
-        "lastUpdated": "2025-07-15T08:53:05.99Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.24.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.25.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -18667,9 +18667,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.464",
-    "last_updated": "2025-08-07T03:31:36.577Z",
+    "latest_version": "1.0.465",
+    "last_updated": "2025-08-15T03:32:22.147Z",
     "version_history": [
+      {
+        "version": "1.0.465",
+        "lastUpdated": "2025-08-15T03:32:22.147Z"
+      },
       {
         "version": "1.0.464",
         "lastUpdated": "2025-08-07T03:31:36.577Z"
@@ -18745,15 +18749,11 @@
       {
         "version": "1.0.446",
         "lastUpdated": "2025-05-23T02:06:57.39Z"
-      },
-      {
-        "version": "1.0.445",
-        "lastUpdated": "2025-05-19T10:09:44.543Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.464/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.465/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
