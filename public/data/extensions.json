@@ -4197,9 +4197,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.1514",
-    "last_updated": "2025-08-15T18:10:57.193Z",
+    "latest_version": "2025.8.1605",
+    "last_updated": "2025-08-16T09:12:52.22Z",
     "version_history": [
+      {
+        "version": "2025.8.1605",
+        "lastUpdated": "2025-08-16T09:12:52.22Z"
+      },
       {
         "version": "2025.8.1514",
         "lastUpdated": "2025-08-15T18:10:57.193Z"
@@ -4275,15 +4279,11 @@
       {
         "version": "2025.7.1805",
         "lastUpdated": "2025-07-18T09:16:54.91Z"
-      },
-      {
-        "version": "2025.7.1705",
-        "lastUpdated": "2025-07-17T09:16:42.583Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1514/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -15799,9 +15799,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.2.3693658",
-    "last_updated": "2025-08-07T06:16:36.257Z",
+    "latest_version": "3.2.4466681",
+    "last_updated": "2025-08-16T12:07:17.437Z",
     "version_history": [
+      {
+        "version": "3.2.4466681",
+        "lastUpdated": "2025-08-16T12:07:17.437Z"
+      },
       {
         "version": "3.2.3693658",
         "lastUpdated": "2025-08-07T06:16:36.257Z"
@@ -15877,10 +15881,6 @@
       {
         "version": "3.1.4",
         "lastUpdated": "2025-04-16T03:43:26.953Z"
-      },
-      {
-        "version": "3.1.3",
-        "lastUpdated": "2025-04-14T16:33:35.523Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15909,7 +15909,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.2.3693658/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.2.4466681/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
