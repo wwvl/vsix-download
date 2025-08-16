@@ -16055,6 +16055,23 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
   {
+    "extension_name": "tomoki1207.pdf",
+    "display_name": "vscode-pdf",
+    "short_description": "Display pdf file in VSCode.",
+    "latest_version": "1.2.2",
+    "last_updated": "2025-01-11T01:48:49.41Z",
+    "version_history": [
+      {
+        "version": "1.2.2",
+        "lastUpdated": "2025-01-11T01:48:49.41Z"
+      }
+    ],
+    "categories": ["Programming Languages"],
+    "tags": ["pdf", "viewer"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tomoki1207/vsextensions/pdf/1.2.2/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf"
+  },
+  {
     "extension_name": "twxs.cmake",
     "display_name": "CMake",
     "short_description": "CMake langage support for Visual Studio Code",
