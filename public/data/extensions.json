@@ -3437,99 +3437,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=developer2006.svg-gallery"
   },
   {
-    "extension_name": "DEVSENSE.composer-php-vscode",
-    "display_name": "Composer",
-    "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.60.17803",
-    "last_updated": "2025-08-14T19:58:33.507Z",
-    "version_history": [
-      {
-        "version": "1.60.17803",
-        "lastUpdated": "2025-08-14T19:58:33.507Z"
-      },
-      {
-        "version": "1.60.17798",
-        "lastUpdated": "2025-08-14T11:14:54.973Z"
-      },
-      {
-        "version": "1.60.17787",
-        "lastUpdated": "2025-08-12T19:40:33.46Z"
-      },
-      {
-        "version": "1.59.17776",
-        "lastUpdated": "2025-08-11T11:11:27.7Z"
-      },
-      {
-        "version": "1.59.17770",
-        "lastUpdated": "2025-08-09T21:46:54.407Z"
-      },
-      {
-        "version": "1.59.17714",
-        "lastUpdated": "2025-07-31T15:55:16.51Z"
-      },
-      {
-        "version": "1.59.17706",
-        "lastUpdated": "2025-07-29T13:25:52.74Z"
-      },
-      {
-        "version": "1.59.17702",
-        "lastUpdated": "2025-07-28T16:55:03.687Z"
-      },
-      {
-        "version": "1.59.17685",
-        "lastUpdated": "2025-07-23T17:12:44.9Z"
-      },
-      {
-        "version": "1.59.17674",
-        "lastUpdated": "2025-07-18T16:59:31.307Z"
-      },
-      {
-        "version": "1.59.17668",
-        "lastUpdated": "2025-07-17T14:10:47.077Z"
-      },
-      {
-        "version": "1.59.17638",
-        "lastUpdated": "2025-07-08T20:25:33.183Z"
-      },
-      {
-        "version": "1.59.17595",
-        "lastUpdated": "2025-07-03T14:35:48.52Z"
-      },
-      {
-        "version": "1.59.17545",
-        "lastUpdated": "2025-06-28T16:09:32.823Z"
-      },
-      {
-        "version": "1.59.17515",
-        "lastUpdated": "2025-06-23T15:16:41.553Z"
-      },
-      {
-        "version": "1.59.17502",
-        "lastUpdated": "2025-06-23T11:45:29.83Z"
-      },
-      {
-        "version": "1.59.17484",
-        "lastUpdated": "2025-06-17T23:11:27.02Z"
-      },
-      {
-        "version": "1.59.17478",
-        "lastUpdated": "2025-06-15T18:31:18.93Z"
-      },
-      {
-        "version": "1.59.17477",
-        "lastUpdated": "2025-06-15T17:32:16.43Z"
-      },
-      {
-        "version": "1.59.17474",
-        "lastUpdated": "2025-06-14T16:24:39.843Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
-    "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17803/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
-  },
-  {
     "extension_name": "dexxiez.shadcn-color-preview",
     "display_name": "shadcn Color Preview",
     "short_description": "Yet another color addon but better?",
@@ -11963,9 +11870,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250816",
-    "last_updated": "2025-08-17T00:16:30.41Z",
+    "latest_version": "6.0.20250817",
+    "last_updated": "2025-08-18T00:15:43.25Z",
     "version_history": [
+      {
+        "version": "6.0.20250817",
+        "lastUpdated": "2025-08-18T00:15:43.25Z"
+      },
       {
         "version": "6.0.20250816",
         "lastUpdated": "2025-08-17T00:16:30.41Z"
@@ -12041,15 +11952,11 @@
       {
         "version": "5.9.20250729",
         "lastUpdated": "2025-07-30T00:19:13.023Z"
-      },
-      {
-        "version": "5.9.20250728",
-        "lastUpdated": "2025-07-29T00:21:46.86Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250816/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250817/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
