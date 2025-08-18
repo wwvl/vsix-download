@@ -3437,6 +3437,99 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=developer2006.svg-gallery"
   },
   {
+    "extension_name": "DEVSENSE.composer-php-vscode",
+    "display_name": "Composer",
+    "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
+    "latest_version": "1.60.17803",
+    "last_updated": "2025-08-14T19:58:33.507Z",
+    "version_history": [
+      {
+        "version": "1.60.17803",
+        "lastUpdated": "2025-08-14T19:58:33.507Z"
+      },
+      {
+        "version": "1.60.17798",
+        "lastUpdated": "2025-08-14T11:14:54.973Z"
+      },
+      {
+        "version": "1.60.17787",
+        "lastUpdated": "2025-08-12T19:40:33.46Z"
+      },
+      {
+        "version": "1.59.17776",
+        "lastUpdated": "2025-08-11T11:11:27.7Z"
+      },
+      {
+        "version": "1.59.17770",
+        "lastUpdated": "2025-08-09T21:46:54.407Z"
+      },
+      {
+        "version": "1.59.17714",
+        "lastUpdated": "2025-07-31T15:55:16.51Z"
+      },
+      {
+        "version": "1.59.17706",
+        "lastUpdated": "2025-07-29T13:25:52.74Z"
+      },
+      {
+        "version": "1.59.17702",
+        "lastUpdated": "2025-07-28T16:55:03.687Z"
+      },
+      {
+        "version": "1.59.17685",
+        "lastUpdated": "2025-07-23T17:12:44.9Z"
+      },
+      {
+        "version": "1.59.17674",
+        "lastUpdated": "2025-07-18T16:59:31.307Z"
+      },
+      {
+        "version": "1.59.17668",
+        "lastUpdated": "2025-07-17T14:10:47.077Z"
+      },
+      {
+        "version": "1.59.17638",
+        "lastUpdated": "2025-07-08T20:25:33.183Z"
+      },
+      {
+        "version": "1.59.17595",
+        "lastUpdated": "2025-07-03T14:35:48.52Z"
+      },
+      {
+        "version": "1.59.17545",
+        "lastUpdated": "2025-06-28T16:09:32.823Z"
+      },
+      {
+        "version": "1.59.17515",
+        "lastUpdated": "2025-06-23T15:16:41.553Z"
+      },
+      {
+        "version": "1.59.17502",
+        "lastUpdated": "2025-06-23T11:45:29.83Z"
+      },
+      {
+        "version": "1.59.17484",
+        "lastUpdated": "2025-06-17T23:11:27.02Z"
+      },
+      {
+        "version": "1.59.17478",
+        "lastUpdated": "2025-06-15T18:31:18.93Z"
+      },
+      {
+        "version": "1.59.17477",
+        "lastUpdated": "2025-06-15T17:32:16.43Z"
+      },
+      {
+        "version": "1.59.17474",
+        "lastUpdated": "2025-06-14T16:24:39.843Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
+    "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17803/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
+  },
+  {
     "extension_name": "dexxiez.shadcn-color-preview",
     "display_name": "shadcn Color Preview",
     "short_description": "Yet another color addon but better?",
@@ -5280,9 +5373,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.356.1735",
-    "last_updated": "2025-08-14T16:24:57.22Z",
+    "latest_version": "1.357.1739",
+    "last_updated": "2025-08-18T01:49:13.677Z",
     "version_history": [
+      {
+        "version": "1.357.1739",
+        "lastUpdated": "2025-08-18T01:49:13.677Z"
+      },
       {
         "version": "1.356.1735",
         "lastUpdated": "2025-08-14T16:24:57.22Z"
@@ -5358,10 +5455,6 @@
       {
         "version": "1.351.1711",
         "lastUpdated": "2025-08-01T01:51:50.983Z"
-      },
-      {
-        "version": "1.350.1708",
-        "lastUpdated": "2025-07-31T01:47:37.25Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5390,16 +5483,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.356.1735/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.357.1739/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025081501",
-    "last_updated": "2025-08-15T04:23:16.353Z",
+    "latest_version": "0.31.2025081801",
+    "last_updated": "2025-08-18T04:27:57.093Z",
     "version_history": [
+      {
+        "version": "0.31.2025081801",
+        "lastUpdated": "2025-08-18T04:27:57.093Z"
+      },
       {
         "version": "0.31.2025081501",
         "lastUpdated": "2025-08-15T04:23:16.353Z"
@@ -5475,10 +5572,6 @@
       {
         "version": "0.30.2025072501",
         "lastUpdated": "2025-07-25T04:25:37.783Z"
-      },
-      {
-        "version": "0.30.2025072401",
-        "lastUpdated": "2025-07-24T04:28:57.12Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5513,7 +5606,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025081501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025081801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5799,9 +5892,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025081404",
-    "last_updated": "2025-08-14T04:21:19.943Z",
+    "latest_version": "0.117.2025081804",
+    "last_updated": "2025-08-18T04:25:02.703Z",
     "version_history": [
+      {
+        "version": "0.117.2025081804",
+        "lastUpdated": "2025-08-18T04:25:02.703Z"
+      },
       {
         "version": "0.117.2025081404",
         "lastUpdated": "2025-08-14T04:21:19.943Z"
@@ -5877,15 +5974,11 @@
       {
         "version": "0.115.2025072518",
         "lastUpdated": "2025-07-25T18:49:09.257Z"
-      },
-      {
-        "version": "0.115.2025072404",
-        "lastUpdated": "2025-07-24T04:21:40.113Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025081404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025081804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11777,9 +11870,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250817001",
-    "last_updated": "2025-08-17T03:00:26.807Z",
+    "latest_version": "0.13.250818001",
+    "last_updated": "2025-08-18T03:04:21.203Z",
     "version_history": [
+      {
+        "version": "0.13.250818001",
+        "lastUpdated": "2025-08-18T03:04:21.203Z"
+      },
       {
         "version": "0.13.250817001",
         "lastUpdated": "2025-08-17T03:00:26.807Z"
@@ -11855,15 +11952,11 @@
       {
         "version": "0.13.250720001",
         "lastUpdated": "2025-07-20T03:02:25.743Z"
-      },
-      {
-        "version": "0.13.250719001",
-        "lastUpdated": "2025-07-19T02:59:21.56Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250817001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250818001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -14028,9 +14121,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.25.16",
-    "last_updated": "2025-08-17T03:02:05.24Z",
+    "latest_version": "3.25.17",
+    "last_updated": "2025-08-18T05:32:51.493Z",
     "version_history": [
+      {
+        "version": "3.25.17",
+        "lastUpdated": "2025-08-18T05:32:51.493Z"
+      },
       {
         "version": "3.25.16",
         "lastUpdated": "2025-08-17T03:02:05.24Z"
@@ -14106,15 +14203,11 @@
       {
         "version": "3.23.19",
         "lastUpdated": "2025-07-23T18:04:42.197Z"
-      },
-      {
-        "version": "3.23.18",
-        "lastUpdated": "2025-07-23T13:15:37.66Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.16/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -16984,9 +17077,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025063005",
-    "last_updated": "2025-06-30T07:19:12.07Z",
+    "latest_version": "0.58.2025081407",
+    "last_updated": "2025-08-18T02:55:26.357Z",
     "version_history": [
+      {
+        "version": "0.58.2025081407",
+        "lastUpdated": "2025-08-18T02:55:26.357Z"
+      },
       {
         "version": "0.58.2025063005",
         "lastUpdated": "2025-06-30T07:19:12.07Z"
@@ -17062,15 +17159,11 @@
       {
         "version": "0.56.1",
         "lastUpdated": "2024-02-19T08:30:36.5Z"
-      },
-      {
-        "version": "0.56.0",
-        "lastUpdated": "2024-01-31T02:20:41.413Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025063005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025081407/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
@@ -17170,9 +17263,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.29.2025062500",
-    "last_updated": "2025-06-30T08:11:17.79Z",
+    "latest_version": "0.29.2025081500",
+    "last_updated": "2025-08-18T02:24:52.433Z",
     "version_history": [
+      {
+        "version": "0.29.2025081500",
+        "lastUpdated": "2025-08-18T02:24:52.433Z"
+      },
       {
         "version": "0.29.2025062500",
         "lastUpdated": "2025-06-30T08:11:17.79Z"
@@ -17248,15 +17345,11 @@
       {
         "version": "0.27.2024061302",
         "lastUpdated": "2024-06-13T05:17:09.993Z"
-      },
-      {
-        "version": "0.27.2024060717",
-        "lastUpdated": "2024-06-07T17:33:49.247Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025062500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025081500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
