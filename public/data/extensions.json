@@ -1419,9 +1419,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.532.0",
-    "last_updated": "2025-08-15T17:05:45.293Z",
+    "latest_version": "0.533.0",
+    "last_updated": "2025-08-18T17:08:20.743Z",
     "version_history": [
+      {
+        "version": "0.533.0",
+        "lastUpdated": "2025-08-18T17:08:20.743Z"
+      },
+      {
+        "version": "0.532.1",
+        "lastUpdated": "2025-08-18T17:44:28.9Z"
+      },
       {
         "version": "0.532.0",
         "lastUpdated": "2025-08-15T17:05:45.293Z"
@@ -1493,14 +1501,6 @@
       {
         "version": "0.518.0",
         "lastUpdated": "2025-07-29T17:10:08.933Z"
-      },
-      {
-        "version": "0.517.0",
-        "lastUpdated": "2025-07-28T17:11:20.123Z"
-      },
-      {
-        "version": "0.516.3",
-        "lastUpdated": "2025-07-31T17:18:00.433Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1522,7 +1522,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.532.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.533.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -10693,9 +10693,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.424.0",
-    "last_updated": "2025-07-14T09:45:04.583Z",
+    "latest_version": "0.425.0",
+    "last_updated": "2025-08-18T16:35:54.31Z",
     "version_history": [
+      {
+        "version": "0.425.0",
+        "lastUpdated": "2025-08-18T16:35:54.31Z"
+      },
       {
         "version": "0.424.0",
         "lastUpdated": "2025-07-14T09:45:04.583Z"
@@ -10771,15 +10775,11 @@
       {
         "version": "0.407.0",
         "lastUpdated": "2025-03-21T10:04:32.19Z"
-      },
-      {
-        "version": "0.406.0",
-        "lastUpdated": "2025-03-17T10:42:58.073Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.424.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.425.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
