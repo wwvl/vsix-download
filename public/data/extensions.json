@@ -4197,9 +4197,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.1605",
-    "last_updated": "2025-08-16T09:12:52.22Z",
+    "latest_version": "2025.8.1905",
+    "last_updated": "2025-08-19T09:14:36.66Z",
     "version_history": [
+      {
+        "version": "2025.8.1905",
+        "lastUpdated": "2025-08-19T09:14:36.66Z"
+      },
       {
         "version": "2025.8.1605",
         "lastUpdated": "2025-08-16T09:12:52.22Z"
@@ -4275,15 +4279,11 @@
       {
         "version": "2025.7.2211",
         "lastUpdated": "2025-07-22T15:25:38.183Z"
-      },
-      {
-        "version": "2025.7.1805",
-        "lastUpdated": "2025-07-18T09:16:54.91Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.1905/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10380,9 +10380,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025081501",
-    "last_updated": "2025-08-15T09:47:11.893Z",
+    "latest_version": "2025.8.2025081901",
+    "last_updated": "2025-08-19T07:56:20.947Z",
     "version_history": [
+      {
+        "version": "2025.8.2025081901",
+        "lastUpdated": "2025-08-19T07:56:20.947Z"
+      },
       {
         "version": "2025.8.2025081501",
         "lastUpdated": "2025-08-15T09:47:11.893Z"
@@ -10458,15 +10462,11 @@
       {
         "version": "2025.6.2025062701",
         "lastUpdated": "2025-06-27T09:45:52.65Z"
-      },
-      {
-        "version": "2025.6.2025061701",
-        "lastUpdated": "2025-06-17T09:50:48.487Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025081901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -11964,11 +11964,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "6.0.20250818",
-    "last_updated": "2025-08-19T00:13:53.767Z",
+    "last_updated": "2025-08-19T00:19:01.313Z",
     "version_history": [
       {
         "version": "6.0.20250818",
-        "lastUpdated": "2025-08-19T00:13:53.767Z"
+        "lastUpdated": "2025-08-19T00:19:01.313Z"
       },
       {
         "version": "6.0.20250817",
