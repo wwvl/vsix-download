@@ -1419,9 +1419,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.533.0",
-    "last_updated": "2025-08-18T17:08:20.743Z",
+    "latest_version": "0.535.0",
+    "last_updated": "2025-08-18T22:37:00.823Z",
     "version_history": [
+      {
+        "version": "0.535.0",
+        "lastUpdated": "2025-08-18T22:37:00.823Z"
+      },
+      {
+        "version": "0.534.0",
+        "lastUpdated": "2025-08-18T21:45:23.673Z"
+      },
       {
         "version": "0.533.0",
         "lastUpdated": "2025-08-18T17:08:20.743Z"
@@ -1493,14 +1501,6 @@
       {
         "version": "0.520.0",
         "lastUpdated": "2025-07-31T17:10:48.687Z"
-      },
-      {
-        "version": "0.519.0",
-        "lastUpdated": "2025-07-30T18:24:36.637Z"
-      },
-      {
-        "version": "0.518.0",
-        "lastUpdated": "2025-07-29T17:10:08.933Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1522,7 +1522,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.533.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.535.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2063,10 +2063,14 @@
   {
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
-    "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console.log or custom log functions.",
-    "latest_version": "3.4.2",
-    "last_updated": "2025-08-06T22:19:34.273Z",
+    "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
+    "latest_version": "3.5.0",
+    "last_updated": "2025-08-19T00:51:04.603Z",
     "version_history": [
+      {
+        "version": "3.5.0",
+        "lastUpdated": "2025-08-19T00:51:04.603Z"
+      },
       {
         "version": "3.4.2",
         "lastUpdated": "2025-08-06T22:19:34.273Z"
@@ -2142,10 +2146,6 @@
       {
         "version": "2.13.0",
         "lastUpdated": "2025-03-13T04:10:20.623Z"
-      },
-      {
-        "version": "2.12.2",
-        "lastUpdated": "2025-02-20T01:14:13.757Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2167,7 +2167,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.4.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -6188,9 +6188,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.45.0",
-    "last_updated": "2025-08-14T23:47:12.83Z",
+    "latest_version": "2.45.1",
+    "last_updated": "2025-08-19T00:57:03.963Z",
     "version_history": [
+      {
+        "version": "2.45.1",
+        "lastUpdated": "2025-08-19T00:57:03.963Z"
+      },
       {
         "version": "2.45.0",
         "lastUpdated": "2025-08-14T23:47:12.83Z"
@@ -6266,15 +6270,11 @@
       {
         "version": "2.29.0",
         "lastUpdated": "2025-03-18T17:43:21.89Z"
-      },
-      {
-        "version": "2.28.1",
-        "lastUpdated": "2025-03-11T23:02:15.73Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.45.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.45.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -11963,9 +11963,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250817",
-    "last_updated": "2025-08-18T00:15:43.25Z",
+    "latest_version": "6.0.20250818",
+    "last_updated": "2025-08-19T00:19:01.313Z",
     "version_history": [
+      {
+        "version": "6.0.20250818",
+        "lastUpdated": "2025-08-19T00:19:01.313Z"
+      },
       {
         "version": "6.0.20250817",
         "lastUpdated": "2025-08-18T00:15:43.25Z"
@@ -12041,15 +12045,11 @@
       {
         "version": "5.9.20250730",
         "lastUpdated": "2025-07-31T00:18:53.633Z"
-      },
-      {
-        "version": "5.9.20250729",
-        "lastUpdated": "2025-07-30T00:19:13.023Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250817/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250818/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13028,9 +13028,13 @@
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.25.0",
-    "last_updated": "2025-08-04T19:54:02.12Z",
+    "latest_version": "5.26.0",
+    "last_updated": "2025-08-18T19:37:31.79Z",
     "version_history": [
+      {
+        "version": "5.26.0",
+        "lastUpdated": "2025-08-18T19:37:31.79Z"
+      },
       {
         "version": "5.25.0",
         "lastUpdated": "2025-08-04T19:54:02.12Z"
@@ -13106,15 +13110,11 @@
       {
         "version": "5.11.0",
         "lastUpdated": "2024-09-20T19:00:44.377Z"
-      },
-      {
-        "version": "5.10.0",
-        "lastUpdated": "2024-08-29T06:50:41.687Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.25.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.26.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
@@ -14214,9 +14214,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2579",
-    "last_updated": "2025-08-13T01:08:21.383Z",
+    "latest_version": "0.4.2586",
+    "last_updated": "2025-08-19T01:03:38.56Z",
     "version_history": [
+      {
+        "version": "0.4.2586",
+        "lastUpdated": "2025-08-19T01:03:38.56Z"
+      },
       {
         "version": "0.4.2579",
         "lastUpdated": "2025-08-13T01:08:21.383Z"
@@ -14292,15 +14296,11 @@
       {
         "version": "0.4.2552",
         "lastUpdated": "2025-07-26T01:01:56.79Z"
-      },
-      {
-        "version": "0.4.2551",
-        "lastUpdated": "2025-07-25T01:13:58.92Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2579/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2586/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16877,9 +16877,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025081200",
-    "last_updated": "2025-08-12T01:07:40.187Z",
+    "latest_version": "2.0.2025081900",
+    "last_updated": "2025-08-19T01:18:29.943Z",
     "version_history": [
+      {
+        "version": "2.0.2025081900",
+        "lastUpdated": "2025-08-19T01:18:29.943Z"
+      },
       {
         "version": "2.0.2025081200",
         "lastUpdated": "2025-08-12T01:07:40.187Z"
@@ -16955,10 +16959,6 @@
       {
         "version": "1.64.2025061900",
         "lastUpdated": "2025-06-19T01:10:20.33Z"
-      },
-      {
-        "version": "1.64.2025061700",
-        "lastUpdated": "2025-06-17T01:26:02.737Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16977,7 +16977,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025081200/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025081900/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
