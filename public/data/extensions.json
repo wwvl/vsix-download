@@ -5892,9 +5892,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025081812",
-    "last_updated": "2025-08-18T12:14:02.08Z",
+    "latest_version": "0.117.2025081904",
+    "last_updated": "2025-08-19T04:17:34.107Z",
     "version_history": [
+      {
+        "version": "0.117.2025081904",
+        "lastUpdated": "2025-08-19T04:17:34.107Z"
+      },
       {
         "version": "0.117.2025081812",
         "lastUpdated": "2025-08-18T12:14:02.08Z"
@@ -5970,15 +5974,11 @@
       {
         "version": "0.116.1",
         "lastUpdated": "2025-08-11T16:19:53.717Z"
-      },
-      {
-        "version": "0.116.0",
-        "lastUpdated": "2025-08-08T12:45:56.96Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025081812/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025081904/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11870,9 +11870,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250818001",
-    "last_updated": "2025-08-18T03:04:21.203Z",
+    "latest_version": "0.13.250819001",
+    "last_updated": "2025-08-19T03:00:08.357Z",
     "version_history": [
+      {
+        "version": "0.13.250819001",
+        "lastUpdated": "2025-08-19T03:00:08.357Z"
+      },
       {
         "version": "0.13.250818001",
         "lastUpdated": "2025-08-18T03:04:21.203Z"
@@ -11948,15 +11952,11 @@
       {
         "version": "0.13.250721001",
         "lastUpdated": "2025-07-21T02:56:24.503Z"
-      },
-      {
-        "version": "0.13.250720001",
-        "lastUpdated": "2025-07-20T03:02:25.743Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250818001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250819001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -11964,11 +11964,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "6.0.20250818",
-    "last_updated": "2025-08-19T00:19:01.313Z",
+    "last_updated": "2025-08-19T00:13:53.767Z",
     "version_history": [
       {
         "version": "6.0.20250818",
-        "lastUpdated": "2025-08-19T00:19:01.313Z"
+        "lastUpdated": "2025-08-19T00:13:53.767Z"
       },
       {
         "version": "6.0.20250817",
