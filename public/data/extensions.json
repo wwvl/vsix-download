@@ -14121,9 +14121,17 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.25.18",
-    "last_updated": "2025-08-20T00:52:41.933Z",
+    "latest_version": "3.25.20",
+    "last_updated": "2025-08-20T06:15:07.727Z",
     "version_history": [
+      {
+        "version": "3.25.20",
+        "lastUpdated": "2025-08-20T06:15:07.727Z"
+      },
+      {
+        "version": "3.25.19",
+        "lastUpdated": "2025-08-20T02:45:12.147Z"
+      },
       {
         "version": "3.25.18",
         "lastUpdated": "2025-08-20T00:52:41.933Z"
@@ -14195,19 +14203,11 @@
       {
         "version": "3.25.1",
         "lastUpdated": "2025-07-29T21:18:40.087Z"
-      },
-      {
-        "version": "3.25.0",
-        "lastUpdated": "2025-07-29T16:03:41.373Z"
-      },
-      {
-        "version": "3.24.0",
-        "lastUpdated": "2025-07-26T04:50:38.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.18/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.25.20/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -14515,9 +14515,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.25.3",
-    "last_updated": "2025-08-16T23:56:32.013Z",
+    "latest_version": "3.26.0",
+    "last_updated": "2025-08-20T03:28:20.613Z",
     "version_history": [
+      {
+        "version": "3.26.0",
+        "lastUpdated": "2025-08-20T03:28:20.613Z"
+      },
       {
         "version": "3.25.3",
         "lastUpdated": "2025-08-16T23:56:32.013Z"
@@ -14593,15 +14597,11 @@
       {
         "version": "3.19.7",
         "lastUpdated": "2025-07-18T01:37:32.757Z"
-      },
-      {
-        "version": "3.19.6",
-        "lastUpdated": "2025-07-17T01:24:28.307Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.25.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.26.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16984,9 +16984,13 @@
     "extension_name": "vscjava.vscode-gradle",
     "display_name": "Gradle for Java",
     "short_description": "Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code",
-    "latest_version": "3.17.2025081402",
-    "last_updated": "2025-08-14T07:10:19.767Z",
+    "latest_version": "3.17.2025082002",
+    "last_updated": "2025-08-20T02:31:17.837Z",
     "version_history": [
+      {
+        "version": "3.17.2025082002",
+        "lastUpdated": "2025-08-20T02:31:17.837Z"
+      },
       {
         "version": "3.17.2025081402",
         "lastUpdated": "2025-08-14T07:10:19.767Z"
@@ -17062,15 +17066,11 @@
       {
         "version": "3.16.2024080809",
         "lastUpdated": "2024-08-08T11:45:05.143Z"
-      },
-      {
-        "version": "3.16.2024080708",
-        "lastUpdated": "2024-08-07T11:01:52.24Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["build", "compile", "gradle", "gradle-build", "java", "json", "tasks"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025081402/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-gradle/3.17.2025082002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle"
   },
   {
