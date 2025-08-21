@@ -4197,9 +4197,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.2017",
-    "last_updated": "2025-08-20T21:27:13.833Z",
+    "latest_version": "2025.8.2105",
+    "last_updated": "2025-08-21T09:14:59.6Z",
     "version_history": [
+      {
+        "version": "2025.8.2105",
+        "lastUpdated": "2025-08-21T09:14:59.6Z"
+      },
       {
         "version": "2025.8.2017",
         "lastUpdated": "2025-08-20T21:27:13.833Z"
@@ -4275,15 +4279,11 @@
       {
         "version": "2025.7.3005",
         "lastUpdated": "2025-07-30T09:17:55.847Z"
-      },
-      {
-        "version": "2025.7.2905",
-        "lastUpdated": "2025-07-29T09:17:45.957Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2017/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -10028,9 +10028,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.13.2025081501",
-    "last_updated": "2025-08-15T10:52:57.99Z",
+    "latest_version": "2025.13.2025082101",
+    "last_updated": "2025-08-21T10:50:06.407Z",
     "version_history": [
+      {
+        "version": "2025.13.2025082101",
+        "lastUpdated": "2025-08-21T10:50:06.407Z"
+      },
       {
         "version": "2025.13.2025081501",
         "lastUpdated": "2025-08-15T10:52:57.99Z"
@@ -10106,10 +10110,6 @@
       {
         "version": "2025.9.2025062501",
         "lastUpdated": "2025-06-25T10:51:42.82Z"
-      },
-      {
-        "version": "2025.9.2025062401",
-        "lastUpdated": "2025-06-24T10:48:43.95Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10132,7 +10132,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025081501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025082101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -10380,9 +10380,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025082002",
-    "last_updated": "2025-08-20T17:38:54.607Z",
+    "latest_version": "2025.8.2025082101",
+    "last_updated": "2025-08-21T09:47:58.52Z",
     "version_history": [
+      {
+        "version": "2025.8.2025082101",
+        "lastUpdated": "2025-08-21T09:47:58.52Z"
+      },
       {
         "version": "2025.8.2025082002",
         "lastUpdated": "2025-08-20T17:38:54.607Z"
@@ -10458,15 +10462,11 @@
       {
         "version": "2025.6.2025070101",
         "lastUpdated": "2025-07-01T09:51:43.66Z"
-      },
-      {
-        "version": "2025.6.2025063001",
-        "lastUpdated": "2025-06-30T10:06:20.35Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025082002/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025082101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -15799,9 +15799,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.2.4466681",
-    "last_updated": "2025-08-16T12:07:17.437Z",
+    "latest_version": "3.2.4897852",
+    "last_updated": "2025-08-21T09:46:33.07Z",
     "version_history": [
+      {
+        "version": "3.2.4897852",
+        "lastUpdated": "2025-08-21T09:46:33.07Z"
+      },
       {
         "version": "3.2.4466681",
         "lastUpdated": "2025-08-16T12:07:17.437Z"
@@ -15877,10 +15881,6 @@
       {
         "version": "3.1.5",
         "lastUpdated": "2025-04-16T15:38:09.567Z"
-      },
-      {
-        "version": "3.1.4",
-        "lastUpdated": "2025-04-16T03:43:26.953Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15909,7 +15909,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.2.4466681/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.2.4897852/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
