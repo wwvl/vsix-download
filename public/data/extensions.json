@@ -5490,9 +5490,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025082004",
-    "last_updated": "2025-08-20T17:20:05.853Z",
+    "latest_version": "0.31.2025082101",
+    "last_updated": "2025-08-21T04:26:01.697Z",
     "version_history": [
+      {
+        "version": "0.31.2025082101",
+        "lastUpdated": "2025-08-21T04:26:01.697Z"
+      },
       {
         "version": "0.31.2025082004",
         "lastUpdated": "2025-08-20T17:20:05.853Z"
@@ -5568,10 +5572,6 @@
       {
         "version": "0.30.2025072901",
         "lastUpdated": "2025-07-29T04:31:20.937Z"
-      },
-      {
-        "version": "0.30.2025072801",
-        "lastUpdated": "2025-07-28T04:29:06.27Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5606,7 +5606,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5892,9 +5892,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025081904",
-    "last_updated": "2025-08-19T04:17:34.107Z",
+    "latest_version": "0.117.2025082104",
+    "last_updated": "2025-08-21T04:19:42.26Z",
     "version_history": [
+      {
+        "version": "0.117.2025082104",
+        "lastUpdated": "2025-08-21T04:19:42.26Z"
+      },
       {
         "version": "0.117.2025081904",
         "lastUpdated": "2025-08-19T04:17:34.107Z"
@@ -5970,15 +5974,11 @@
       {
         "version": "0.117.2025072804",
         "lastUpdated": "2025-07-28T04:18:50.807Z"
-      },
-      {
-        "version": "0.116.1",
-        "lastUpdated": "2025-08-11T16:19:53.717Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025081904/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -17077,9 +17077,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025081407",
-    "last_updated": "2025-08-18T02:55:26.357Z",
+    "latest_version": "0.58.2025081807",
+    "last_updated": "2025-08-21T05:36:26.823Z",
     "version_history": [
+      {
+        "version": "0.58.2025081807",
+        "lastUpdated": "2025-08-21T05:36:26.823Z"
+      },
       {
         "version": "0.58.2025081407",
         "lastUpdated": "2025-08-18T02:55:26.357Z"
@@ -17155,15 +17159,11 @@
       {
         "version": "0.56.2",
         "lastUpdated": "2024-02-28T08:07:13.097Z"
-      },
-      {
-        "version": "0.56.1",
-        "lastUpdated": "2024-02-19T08:30:36.5Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025081407/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025081807/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
