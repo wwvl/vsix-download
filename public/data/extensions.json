@@ -11874,9 +11874,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250822001",
-    "last_updated": "2025-08-22T03:09:11.4Z",
+    "latest_version": "0.13.250823001",
+    "last_updated": "2025-08-23T02:56:39.34Z",
     "version_history": [
+      {
+        "version": "0.13.250823001",
+        "lastUpdated": "2025-08-23T02:56:39.34Z"
+      },
       {
         "version": "0.13.250822001",
         "lastUpdated": "2025-08-22T03:09:11.4Z"
@@ -11952,15 +11956,11 @@
       {
         "version": "0.13.250723001",
         "lastUpdated": "2025-07-23T03:08:46.04Z"
-      },
-      {
-        "version": "0.13.250722001",
-        "lastUpdated": "2025-07-22T02:56:23.34Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250822001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250823001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -16881,9 +16881,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025082100",
-    "last_updated": "2025-08-21T01:21:18.837Z",
+    "latest_version": "2.0.2025082300",
+    "last_updated": "2025-08-23T00:45:20.167Z",
     "version_history": [
+      {
+        "version": "2.0.2025082300",
+        "lastUpdated": "2025-08-23T00:45:20.167Z"
+      },
       {
         "version": "2.0.2025082100",
         "lastUpdated": "2025-08-21T01:21:18.837Z"
@@ -16959,10 +16963,6 @@
       {
         "version": "1.64.2025062400",
         "lastUpdated": "2025-06-24T01:07:35.25Z"
-      },
-      {
-        "version": "1.64.2025062100",
-        "lastUpdated": "2025-06-21T01:03:04.623Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16981,7 +16981,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025082100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025082300/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
