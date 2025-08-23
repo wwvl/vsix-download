@@ -13812,9 +13812,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.45.2025081408",
-    "last_updated": "2025-08-14T08:29:29.117Z",
+    "latest_version": "1.45.2025082308",
+    "last_updated": "2025-08-23T08:30:45.54Z",
     "version_history": [
+      {
+        "version": "1.45.2025082308",
+        "lastUpdated": "2025-08-23T08:30:45.54Z"
+      },
       {
         "version": "1.45.2025081408",
         "lastUpdated": "2025-08-14T08:29:29.117Z"
@@ -13890,15 +13894,11 @@
       {
         "version": "1.43.2025061808",
         "lastUpdated": "2025-06-18T08:28:29.553Z"
-      },
-      {
-        "version": "1.43.2025061208",
-        "lastUpdated": "2025-06-12T08:30:14.77Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025081408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025082308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
