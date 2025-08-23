@@ -982,9 +982,13 @@
     "extension_name": "antfu.goto-alias",
     "display_name": "Goto definition alias",
     "short_description": "Go to definition following alias redirections",
-    "latest_version": "0.3.1",
-    "last_updated": "2025-07-27T03:35:51.393Z",
+    "latest_version": "0.3.2",
+    "last_updated": "2025-08-23T14:14:34.69Z",
     "version_history": [
+      {
+        "version": "0.3.2",
+        "lastUpdated": "2025-08-23T14:14:34.69Z"
+      },
       {
         "version": "0.3.1",
         "lastUpdated": "2025-07-27T03:35:51.393Z"
@@ -1040,16 +1044,24 @@
     ],
     "categories": ["Other"],
     "tags": ["javascript", "javascriptreact", "markdown", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/goto-alias/0.3.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/goto-alias/0.3.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias"
   },
   {
     "extension_name": "antfu.iconify",
     "display_name": "Iconify IntelliSense",
     "short_description": "Intelligent Iconify previewing and searching for VS Code",
-    "latest_version": "0.11.1",
-    "last_updated": "2025-06-19T05:38:15.57Z",
+    "latest_version": "0.12.1",
+    "last_updated": "2025-08-23T14:12:39.4Z",
     "version_history": [
+      {
+        "version": "0.12.1",
+        "lastUpdated": "2025-08-23T14:12:39.4Z"
+      },
+      {
+        "version": "0.12.0",
+        "lastUpdated": "2025-08-23T14:11:16.107Z"
+      },
       {
         "version": "0.11.1",
         "lastUpdated": "2025-06-19T05:38:15.57Z"
@@ -1121,19 +1133,11 @@
       {
         "version": "0.7.3",
         "lastUpdated": "2023-12-28T11:18:39.427Z"
-      },
-      {
-        "version": "0.7.1",
-        "lastUpdated": "2023-10-26T08:01:11.6Z"
-      },
-      {
-        "version": "0.7.0",
-        "lastUpdated": "2023-08-29T08:38:04.08Z"
       }
     ],
     "categories": ["Snippets", "Visualization"],
     "tags": ["css", "django-html", "handlebars", "html", "iconify", "icons", "javascript", "javascriptreact", "markdown", "mdx", "snippet", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.11.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.12.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.iconify"
   },
   {
@@ -3440,9 +3444,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.60.17803",
-    "last_updated": "2025-08-14T19:58:33.507Z",
+    "latest_version": "1.60.17845",
+    "last_updated": "2025-08-23T14:43:10.81Z",
     "version_history": [
+      {
+        "version": "1.60.17845",
+        "lastUpdated": "2025-08-23T14:43:10.81Z"
+      },
       {
         "version": "1.60.17803",
         "lastUpdated": "2025-08-14T19:58:33.507Z"
@@ -3518,15 +3526,11 @@
       {
         "version": "1.59.17477",
         "lastUpdated": "2025-06-15T17:32:16.43Z"
-      },
-      {
-        "version": "1.59.17474",
-        "lastUpdated": "2025-06-14T16:24:39.843Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17803/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17845/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -18558,9 +18562,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.3.0",
-    "last_updated": "2025-08-03T03:24:37.097Z",
+    "latest_version": "25.3.1",
+    "last_updated": "2025-08-23T13:31:12.11Z",
     "version_history": [
+      {
+        "version": "25.3.1",
+        "lastUpdated": "2025-08-23T13:31:12.11Z"
+      },
       {
         "version": "25.3.0",
         "lastUpdated": "2025-08-03T03:24:37.097Z"
@@ -18636,10 +18644,6 @@
       {
         "version": "24.8.0",
         "lastUpdated": "2024-11-15T12:38:11.737Z"
-      },
-      {
-        "version": "24.7.2",
-        "lastUpdated": "2024-11-07T14:26:53.023Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -18664,7 +18668,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.3.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.3.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
