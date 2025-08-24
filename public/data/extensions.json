@@ -11971,9 +11971,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250822",
-    "last_updated": "2025-08-23T00:16:19.463Z",
+    "latest_version": "6.0.20250823",
+    "last_updated": "2025-08-24T00:14:21.553Z",
     "version_history": [
+      {
+        "version": "6.0.20250823",
+        "lastUpdated": "2025-08-24T00:14:21.553Z"
+      },
       {
         "version": "6.0.20250822",
         "lastUpdated": "2025-08-23T00:16:19.463Z"
@@ -12049,15 +12053,11 @@
       {
         "version": "6.0.20250803",
         "lastUpdated": "2025-08-04T00:18:30.887Z"
-      },
-      {
-        "version": "6.0.20250802",
-        "lastUpdated": "2025-08-03T00:13:50.76Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250822/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250823/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14523,9 +14523,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.26.2",
-    "last_updated": "2025-08-21T23:54:24.587Z",
+    "latest_version": "3.26.5",
+    "last_updated": "2025-08-24T00:22:30.777Z",
     "version_history": [
+      {
+        "version": "3.26.5",
+        "lastUpdated": "2025-08-24T00:22:30.777Z"
+      },
+      {
+        "version": "3.26.4",
+        "lastUpdated": "2025-08-24T00:05:37.72Z"
+      },
       {
         "version": "3.26.2",
         "lastUpdated": "2025-08-21T23:54:24.587Z"
@@ -14597,19 +14605,11 @@
       {
         "version": "3.20.2",
         "lastUpdated": "2025-07-26T07:17:43.333Z"
-      },
-      {
-        "version": "3.20.1",
-        "lastUpdated": "2025-07-23T19:04:59.65Z"
-      },
-      {
-        "version": "3.20.0",
-        "lastUpdated": "2025-07-23T03:15:19.34Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.26.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.26.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
