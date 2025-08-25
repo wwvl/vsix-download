@@ -1423,9 +1423,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.540.0",
-    "last_updated": "2025-08-22T18:51:47.61Z",
+    "latest_version": "0.541.0",
+    "last_updated": "2025-08-25T17:05:47.96Z",
     "version_history": [
+      {
+        "version": "0.541.0",
+        "lastUpdated": "2025-08-25T17:05:47.96Z"
+      },
+      {
+        "version": "0.540.1",
+        "lastUpdated": "2025-08-25T17:40:42.32Z"
+      },
       {
         "version": "0.540.0",
         "lastUpdated": "2025-08-22T18:51:47.61Z"
@@ -1497,14 +1505,6 @@
       {
         "version": "0.525.0",
         "lastUpdated": "2025-08-07T17:12:01.307Z"
-      },
-      {
-        "version": "0.524.1",
-        "lastUpdated": "2025-08-06T20:08:55.747Z"
-      },
-      {
-        "version": "0.524.0",
-        "lastUpdated": "2025-08-06T17:10:56.717Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,16 +1526,20 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.540.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.541.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.13.1",
-    "last_updated": "2025-08-16T13:19:42.46Z",
+    "latest_version": "3.14.0",
+    "last_updated": "2025-08-25T07:40:00.203Z",
     "version_history": [
+      {
+        "version": "3.14.0",
+        "lastUpdated": "2025-08-25T07:40:00.203Z"
+      },
       {
         "version": "3.13.1",
         "lastUpdated": "2025-08-16T13:19:42.46Z"
@@ -1611,10 +1615,6 @@
       {
         "version": "3.6.2",
         "lastUpdated": "2025-04-21T03:32:43.86Z"
-      },
-      {
-        "version": "3.6.1",
-        "lastUpdated": "2025-04-17T03:44:40.437Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1668,7 +1668,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.13.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.14.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.361.0",
-    "last_updated": "2025-08-21T21:15:06.71Z",
+    "latest_version": "1.362.1757",
+    "last_updated": "2025-08-25T16:20:22.993Z",
     "version_history": [
+      {
+        "version": "1.362.1757",
+        "lastUpdated": "2025-08-25T16:20:22.993Z"
+      },
       {
         "version": "1.361.0",
         "lastUpdated": "2025-08-21T21:15:06.71Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.353.1720",
         "lastUpdated": "2025-08-06T16:21:28.04Z"
-      },
-      {
-        "version": "1.353.1719",
-        "lastUpdated": "2025-08-06T01:49:04.19Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,16 +5487,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.361.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.362.1757/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025082501",
-    "last_updated": "2025-08-25T04:24:59.763Z",
+    "latest_version": "0.31.2025082502",
+    "last_updated": "2025-08-25T15:46:54.707Z",
     "version_history": [
+      {
+        "version": "0.31.2025082502",
+        "lastUpdated": "2025-08-25T15:46:54.707Z"
+      },
       {
         "version": "0.31.2025082501",
         "lastUpdated": "2025-08-25T04:24:59.763Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.30.2025080702",
         "lastUpdated": "2025-08-07T11:23:03.437Z"
-      },
-      {
-        "version": "0.30.2025080503",
-        "lastUpdated": "2025-08-05T16:16:22.493Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5610,7 +5610,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9158,9 +9158,13 @@
     "extension_name": "ms-dotnettools.vscode-dotnet-runtime",
     "display_name": ".NET Install Tool",
     "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
-    "latest_version": "2.3.7",
-    "last_updated": "2025-07-23T16:40:09.28Z",
+    "latest_version": "2.3.9",
+    "last_updated": "2025-08-25T16:40:40.2Z",
     "version_history": [
+      {
+        "version": "2.3.9",
+        "lastUpdated": "2025-08-25T16:40:40.2Z"
+      },
       {
         "version": "2.3.7",
         "lastUpdated": "2025-07-23T16:40:09.28Z"
@@ -9236,15 +9240,11 @@
       {
         "version": "2.1.6",
         "lastUpdated": "2024-09-23T23:36:46.13Z"
-      },
-      {
-        "version": "2.1.5",
-        "lastUpdated": "2024-08-20T22:51:52.077Z"
       }
     ],
     "categories": ["Other"],
     "tags": [".NET", ".NET Core", "dotnet", "Extension Authoring", "runtime"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
   },
   {
@@ -10388,9 +10388,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025082201",
-    "last_updated": "2025-08-22T09:48:00.73Z",
+    "latest_version": "2025.8.2025082501",
+    "last_updated": "2025-08-25T09:50:21.467Z",
     "version_history": [
+      {
+        "version": "2025.8.2025082501",
+        "lastUpdated": "2025-08-25T09:50:21.467Z"
+      },
       {
         "version": "2025.8.2025082201",
         "lastUpdated": "2025-08-22T09:48:00.73Z"
@@ -10466,15 +10470,11 @@
       {
         "version": "2025.7.0",
         "lastUpdated": "2025-08-05T23:36:06.757Z"
-      },
-      {
-        "version": "2025.6.2025070201",
-        "lastUpdated": "2025-07-02T09:52:54.44Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025082201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025082501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -11879,11 +11879,11 @@
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
     "latest_version": "0.13.250825001",
-    "last_updated": "2025-08-25T02:57:58.137Z",
+    "last_updated": "2025-08-25T03:01:25.273Z",
     "version_history": [
       {
         "version": "0.13.250825001",
-        "lastUpdated": "2025-08-25T02:57:58.137Z"
+        "lastUpdated": "2025-08-25T03:01:25.273Z"
       },
       {
         "version": "0.13.250823001",
