@@ -1533,9 +1533,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.14.0",
-    "last_updated": "2025-08-25T07:40:00.203Z",
+    "latest_version": "3.14.2",
+    "last_updated": "2025-08-26T07:55:05.517Z",
     "version_history": [
+      {
+        "version": "3.14.2",
+        "lastUpdated": "2025-08-26T07:55:05.517Z"
+      },
       {
         "version": "3.14.0",
         "lastUpdated": "2025-08-25T07:40:00.203Z"
@@ -1611,10 +1615,6 @@
       {
         "version": "3.7.0",
         "lastUpdated": "2025-04-24T17:20:54.75Z"
-      },
-      {
-        "version": "3.6.2",
-        "lastUpdated": "2025-04-21T03:32:43.86Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1668,7 +1668,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.14.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.14.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -4201,9 +4201,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.2205",
-    "last_updated": "2025-08-22T09:15:20.09Z",
+    "latest_version": "2025.8.2605",
+    "last_updated": "2025-08-26T09:13:28.817Z",
     "version_history": [
+      {
+        "version": "2025.8.2605",
+        "lastUpdated": "2025-08-26T09:13:28.817Z"
+      },
       {
         "version": "2025.8.2205",
         "lastUpdated": "2025-08-22T09:15:20.09Z"
@@ -4279,15 +4283,11 @@
       {
         "version": "2025.8.505",
         "lastUpdated": "2025-08-05T09:17:33.99Z"
-      },
-      {
-        "version": "2025.8.105",
-        "lastUpdated": "2025-08-01T09:17:03.593Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5494,9 +5494,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025082601",
-    "last_updated": "2025-08-26T04:26:39.143Z",
+    "latest_version": "0.31.2025082602",
+    "last_updated": "2025-08-26T11:19:34.74Z",
     "version_history": [
+      {
+        "version": "0.31.2025082602",
+        "lastUpdated": "2025-08-26T11:19:34.74Z"
+      },
       {
         "version": "0.31.2025082601",
         "lastUpdated": "2025-08-26T04:26:39.143Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.31.2025080704",
         "lastUpdated": "2025-08-07T21:17:19.913Z"
-      },
-      {
-        "version": "0.30.2025080703",
-        "lastUpdated": "2025-08-07T18:23:11.967Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5612,7 +5612,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082602/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10038,9 +10038,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.13.2025082101",
-    "last_updated": "2025-08-21T10:50:06.407Z",
+    "latest_version": "2025.13.2025082601",
+    "last_updated": "2025-08-26T10:48:21.367Z",
     "version_history": [
+      {
+        "version": "2025.13.2025082601",
+        "lastUpdated": "2025-08-26T10:48:21.367Z"
+      },
       {
         "version": "2025.13.2025082101",
         "lastUpdated": "2025-08-21T10:50:06.407Z"
@@ -10116,10 +10120,6 @@
       {
         "version": "2025.9.2025062701",
         "lastUpdated": "2025-06-27T10:49:52.877Z"
-      },
-      {
-        "version": "2025.9.2025062501",
-        "lastUpdated": "2025-06-25T10:51:42.82Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10142,7 +10142,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025082101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025082601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -11415,9 +11415,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025081801",
-    "last_updated": "2025-08-18T09:24:52.06Z",
+    "latest_version": "0.5.2025082601",
+    "last_updated": "2025-08-26T09:17:11.04Z",
     "version_history": [
+      {
+        "version": "0.5.2025082601",
+        "lastUpdated": "2025-08-26T09:17:11.04Z"
+      },
       {
         "version": "0.5.2025081801",
         "lastUpdated": "2025-08-18T09:24:52.06Z"
@@ -11493,15 +11497,11 @@
       {
         "version": "0.5.2023121101",
         "lastUpdated": "2023-12-11T17:13:00.423Z"
-      },
-      {
-        "version": "0.5.2023120501",
-        "lastUpdated": "2023-12-05T09:15:13.47Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025081801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025082601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
