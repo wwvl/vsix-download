@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.541.0",
-    "last_updated": "2025-08-25T17:05:47.96Z",
+    "latest_version": "0.542.0",
+    "last_updated": "2025-08-26T17:12:17.35Z",
     "version_history": [
+      {
+        "version": "0.542.0",
+        "lastUpdated": "2025-08-26T17:12:17.35Z"
+      },
       {
         "version": "0.541.0",
         "lastUpdated": "2025-08-25T17:05:47.96Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.526.0",
         "lastUpdated": "2025-08-08T17:10:42.78Z"
-      },
-      {
-        "version": "0.525.0",
-        "lastUpdated": "2025-08-07T17:12:01.307Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,7 +1526,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.541.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.542.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -4201,9 +4201,17 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.2605",
-    "last_updated": "2025-08-26T09:13:28.817Z",
+    "latest_version": "2025.8.2613",
+    "last_updated": "2025-08-26T17:50:43.27Z",
     "version_history": [
+      {
+        "version": "2025.8.2613",
+        "lastUpdated": "2025-08-26T17:50:43.27Z"
+      },
+      {
+        "version": "2025.8.2612",
+        "lastUpdated": "2025-08-26T16:25:22.39Z"
+      },
       {
         "version": "2025.8.2605",
         "lastUpdated": "2025-08-26T09:13:28.817Z"
@@ -4275,19 +4283,11 @@
       {
         "version": "2025.8.705",
         "lastUpdated": "2025-08-07T09:17:19.96Z"
-      },
-      {
-        "version": "2025.8.605",
-        "lastUpdated": "2025-08-06T09:17:51.2Z"
-      },
-      {
-        "version": "2025.8.505",
-        "lastUpdated": "2025-08-05T09:17:33.99Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2605/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2613/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.362.1758",
-    "last_updated": "2025-08-26T01:48:46.16Z",
+    "latest_version": "1.362.1759",
+    "last_updated": "2025-08-26T16:21:03.877Z",
     "version_history": [
+      {
+        "version": "1.362.1759",
+        "lastUpdated": "2025-08-26T16:21:03.877Z"
+      },
       {
         "version": "1.362.1758",
         "lastUpdated": "2025-08-26T01:48:46.16Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.353.1722",
         "lastUpdated": "2025-08-07T16:21:25.55Z"
-      },
-      {
-        "version": "1.353.1721",
-        "lastUpdated": "2025-08-07T01:50:08.19Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,7 +5487,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.362.1758/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.362.1759/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5898,9 +5898,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025082604",
-    "last_updated": "2025-08-26T04:17:26.02Z",
+    "latest_version": "0.117.2025082616",
+    "last_updated": "2025-08-26T16:36:00.733Z",
     "version_history": [
+      {
+        "version": "0.117.2025082616",
+        "lastUpdated": "2025-08-26T16:36:00.733Z"
+      },
       {
         "version": "0.117.2025082604",
         "lastUpdated": "2025-08-26T04:17:26.02Z"
@@ -5976,15 +5980,11 @@
       {
         "version": "0.117.2025073004",
         "lastUpdated": "2025-07-30T04:26:41.983Z"
-      },
-      {
-        "version": "0.117.2025072920",
-        "lastUpdated": "2025-07-29T20:31:23.127Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082616/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
