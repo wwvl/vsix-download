@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.362.1759",
-    "last_updated": "2025-08-26T16:21:03.877Z",
+    "latest_version": "1.362.1760",
+    "last_updated": "2025-08-27T01:47:27.29Z",
     "version_history": [
+      {
+        "version": "1.362.1760",
+        "lastUpdated": "2025-08-27T01:47:27.29Z"
+      },
       {
         "version": "1.362.1759",
         "lastUpdated": "2025-08-26T16:21:03.877Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.353.1723",
         "lastUpdated": "2025-08-08T01:47:37.12Z"
-      },
-      {
-        "version": "1.353.1722",
-        "lastUpdated": "2025-08-07T16:21:25.55Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,7 +5487,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.362.1759/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.362.1760/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5898,9 +5898,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025082620",
-    "last_updated": "2025-08-26T20:11:00.28Z",
+    "latest_version": "0.117.2025082704",
+    "last_updated": "2025-08-27T04:19:34.07Z",
     "version_history": [
+      {
+        "version": "0.117.2025082704",
+        "lastUpdated": "2025-08-27T04:19:34.07Z"
+      },
       {
         "version": "0.117.2025082620",
         "lastUpdated": "2025-08-26T20:11:00.28Z"
@@ -5976,15 +5980,11 @@
       {
         "version": "0.117.2025073104",
         "lastUpdated": "2025-07-31T04:23:14.96Z"
-      },
-      {
-        "version": "0.117.2025073012",
-        "lastUpdated": "2025-07-30T12:33:38.657Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082620/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -14432,9 +14432,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "64.10.1",
-    "last_updated": "2025-08-19T21:59:41.127Z",
+    "latest_version": "64.11.1",
+    "last_updated": "2025-08-27T01:28:54.86Z",
     "version_history": [
+      {
+        "version": "64.11.1",
+        "lastUpdated": "2025-08-27T01:28:54.86Z"
+      },
       {
         "version": "64.10.1",
         "lastUpdated": "2025-08-19T21:59:41.127Z"
@@ -14510,15 +14514,11 @@
       {
         "version": "63.5.0",
         "lastUpdated": "2025-03-20T01:42:41.297Z"
-      },
-      {
-        "version": "63.4.1",
-        "lastUpdated": "2025-03-13T19:23:08.243Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.10.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.11.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
