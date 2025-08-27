@@ -4201,9 +4201,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.2613",
-    "last_updated": "2025-08-26T17:50:43.27Z",
+    "latest_version": "2025.8.2705",
+    "last_updated": "2025-08-27T09:12:17.743Z",
     "version_history": [
+      {
+        "version": "2025.8.2705",
+        "lastUpdated": "2025-08-27T09:12:17.743Z"
+      },
       {
         "version": "2025.8.2613",
         "lastUpdated": "2025-08-26T17:50:43.27Z"
@@ -4279,15 +4283,11 @@
       {
         "version": "2025.8.714",
         "lastUpdated": "2025-08-07T18:29:24.65Z"
-      },
-      {
-        "version": "2025.8.705",
-        "lastUpdated": "2025-08-07T09:17:19.96Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2613/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5898,9 +5898,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025082704",
-    "last_updated": "2025-08-27T04:19:34.07Z",
+    "latest_version": "0.117.2025082708",
+    "last_updated": "2025-08-27T08:42:34.723Z",
     "version_history": [
+      {
+        "version": "0.117.2025082708",
+        "lastUpdated": "2025-08-27T08:42:34.723Z"
+      },
       {
         "version": "0.117.2025082704",
         "lastUpdated": "2025-08-27T04:19:34.07Z"
@@ -5976,15 +5980,11 @@
       {
         "version": "0.117.2025080201",
         "lastUpdated": "2025-08-02T02:04:45.053Z"
-      },
-      {
-        "version": "0.117.2025073104",
-        "lastUpdated": "2025-07-31T04:23:14.96Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8863,9 +8863,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.104.2025082016",
-    "last_updated": "2025-08-20T16:57:00.747Z",
+    "latest_version": "1.104.2025082709",
+    "last_updated": "2025-08-27T09:19:44.607Z",
     "version_history": [
+      {
+        "version": "1.104.2025082709",
+        "lastUpdated": "2025-08-27T09:19:44.607Z"
+      },
       {
         "version": "1.104.2025082016",
         "lastUpdated": "2025-08-20T16:57:00.747Z"
@@ -8941,15 +8945,11 @@
       {
         "version": "1.99.2025040909",
         "lastUpdated": "2025-04-09T09:24:05.29Z"
-      },
-      {
-        "version": "1.99.2025040209",
-        "lastUpdated": "2025-04-02T09:14:44.537Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.104.2025082016/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.104.2025082709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -10390,9 +10390,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.8.2025082501",
-    "last_updated": "2025-08-25T09:50:21.467Z",
+    "latest_version": "2025.8.2025082701",
+    "last_updated": "2025-08-27T09:51:15.847Z",
     "version_history": [
+      {
+        "version": "2025.8.2025082701",
+        "lastUpdated": "2025-08-27T09:51:15.847Z"
+      },
       {
         "version": "2025.8.2025082501",
         "lastUpdated": "2025-08-25T09:50:21.467Z"
@@ -10468,15 +10472,11 @@
       {
         "version": "2025.7.2025071101",
         "lastUpdated": "2025-07-11T09:42:48.74Z"
-      },
-      {
-        "version": "2025.7.0",
-        "lastUpdated": "2025-08-05T23:36:06.757Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025082501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.8.2025082701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -13818,9 +13818,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.45.2025082308",
-    "last_updated": "2025-08-23T08:30:45.54Z",
+    "latest_version": "1.45.2025082708",
+    "last_updated": "2025-08-27T08:26:55.937Z",
     "version_history": [
+      {
+        "version": "1.45.2025082708",
+        "lastUpdated": "2025-08-27T08:26:55.937Z"
+      },
       {
         "version": "1.45.2025082308",
         "lastUpdated": "2025-08-23T08:30:45.54Z"
@@ -13896,15 +13900,11 @@
       {
         "version": "1.43.2025061908",
         "lastUpdated": "2025-06-19T08:34:20.157Z"
-      },
-      {
-        "version": "1.43.2025061808",
-        "lastUpdated": "2025-06-18T08:28:29.553Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025082308/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025082708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
