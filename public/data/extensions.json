@@ -2700,9 +2700,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code agent",
     "short_description": "The leading open-source AI code agent",
-    "latest_version": "1.3.1",
-    "last_updated": "2025-08-23T00:12:02.267Z",
+    "latest_version": "1.3.2",
+    "last_updated": "2025-08-28T06:21:39.477Z",
     "version_history": [
+      {
+        "version": "1.3.2",
+        "lastUpdated": "2025-08-28T06:21:39.477Z"
+      },
       {
         "version": "1.3.1",
         "lastUpdated": "2025-08-23T00:12:02.267Z"
@@ -2778,15 +2782,11 @@
       {
         "version": "1.1.61",
         "lastUpdated": "2025-07-11T17:34:28.387Z"
-      },
-      {
-        "version": "1.1.60",
-        "lastUpdated": "2025-07-11T00:10:11.21Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.363.1763",
-    "last_updated": "2025-08-27T20:24:26.213Z",
+    "latest_version": "1.363.1764",
+    "last_updated": "2025-08-28T01:47:47.303Z",
     "version_history": [
+      {
+        "version": "1.363.1764",
+        "lastUpdated": "2025-08-28T01:47:47.303Z"
+      },
       {
         "version": "1.363.1763",
         "lastUpdated": "2025-08-27T20:24:26.213Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.354.1727",
         "lastUpdated": "2025-08-11T16:20:51.64Z"
-      },
-      {
-        "version": "1.353.1725",
-        "lastUpdated": "2025-08-11T01:49:07.407Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,16 +5487,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.363.1763/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.363.1764/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025082702",
-    "last_updated": "2025-08-27T13:00:33.433Z",
+    "latest_version": "0.31.2025082801",
+    "last_updated": "2025-08-28T04:33:11.46Z",
     "version_history": [
+      {
+        "version": "0.31.2025082801",
+        "lastUpdated": "2025-08-28T04:33:11.46Z"
+      },
       {
         "version": "0.31.2025082702",
         "lastUpdated": "2025-08-27T13:00:33.433Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.31.2025081203",
         "lastUpdated": "2025-08-12T04:27:51.25Z"
-      },
-      {
-        "version": "0.31.2025081101",
-        "lastUpdated": "2025-08-11T04:26:25.01Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5599,7 +5599,6 @@
       "json",
       "keybindings",
       "kotlin",
-      "language-models",
       "language-model-tools",
       "markdown",
       "openai",
@@ -5612,7 +5611,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082702/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5898,9 +5897,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025082708",
-    "last_updated": "2025-08-27T08:42:34.723Z",
+    "latest_version": "0.117.2025082804",
+    "last_updated": "2025-08-28T04:21:09.14Z",
     "version_history": [
+      {
+        "version": "0.117.2025082804",
+        "lastUpdated": "2025-08-28T04:21:09.14Z"
+      },
       {
         "version": "0.117.2025082708",
         "lastUpdated": "2025-08-27T08:42:34.723Z"
@@ -5976,15 +5979,11 @@
       {
         "version": "0.117.2025080412",
         "lastUpdated": "2025-08-04T13:00:46.25Z"
-      },
-      {
-        "version": "0.117.2025080201",
-        "lastUpdated": "2025-08-02T02:04:45.053Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8109,9 +8108,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.48",
-    "last_updated": "2025-08-22T05:47:09.427Z",
+    "latest_version": "1.2.49",
+    "last_updated": "2025-08-28T02:49:40.353Z",
     "version_history": [
+      {
+        "version": "1.2.49",
+        "lastUpdated": "2025-08-28T02:49:40.353Z"
+      },
       {
         "version": "1.2.48",
         "lastUpdated": "2025-08-22T05:47:09.427Z"
@@ -8187,10 +8190,6 @@
       {
         "version": "1.2.25",
         "lastUpdated": "2025-06-30T14:43:51.16Z"
-      },
-      {
-        "version": "1.2.24",
-        "lastUpdated": "2025-06-27T05:34:58.967Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8224,7 +8223,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.48/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.49/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11136,9 +11135,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.6",
-    "last_updated": "2025-08-15T04:34:55.69Z",
+    "latest_version": "1.22.7",
+    "last_updated": "2025-08-28T04:11:21.993Z",
     "version_history": [
+      {
+        "version": "1.22.7",
+        "lastUpdated": "2025-08-28T04:11:21.993Z"
+      },
       {
         "version": "1.22.6",
         "lastUpdated": "2025-08-15T04:34:55.69Z"
@@ -11214,15 +11217,11 @@
       {
         "version": "1.21.25",
         "lastUpdated": "2025-05-14T04:27:10.86Z"
-      },
-      {
-        "version": "1.21.24",
-        "lastUpdated": "2025-05-13T04:25:07.41Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -14525,9 +14524,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.26.5",
-    "last_updated": "2025-08-24T00:22:30.777Z",
+    "latest_version": "3.26.6",
+    "last_updated": "2025-08-28T02:13:31.957Z",
     "version_history": [
+      {
+        "version": "3.26.6",
+        "lastUpdated": "2025-08-28T02:13:31.957Z"
+      },
       {
         "version": "3.26.5",
         "lastUpdated": "2025-08-24T00:22:30.777Z"
@@ -14603,15 +14606,11 @@
       {
         "version": "3.20.3",
         "lastUpdated": "2025-07-31T05:08:40.073Z"
-      },
-      {
-        "version": "3.20.2",
-        "lastUpdated": "2025-07-26T07:17:43.333Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.26.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.26.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -14970,9 +14969,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.121.1755212357",
-    "last_updated": "2025-08-14T23:04:45.753Z",
+    "latest_version": "1.122.0",
+    "last_updated": "2025-08-28T01:33:23.483Z",
     "version_history": [
+      {
+        "version": "1.122.0",
+        "lastUpdated": "2025-08-28T01:33:23.483Z"
+      },
       {
         "version": "1.121.1755212357",
         "lastUpdated": "2025-08-14T23:04:45.753Z"
@@ -15048,10 +15051,6 @@
       {
         "version": "1.107.1750950709",
         "lastUpdated": "2025-06-26T15:17:18.577Z"
-      },
-      {
-        "version": "1.106.2",
-        "lastUpdated": "2025-06-27T17:58:29.833Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15097,7 +15096,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.121.1755212357/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.122.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
@@ -18677,9 +18676,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.467",
-    "last_updated": "2025-08-19T22:35:22.123Z",
+    "latest_version": "1.0.468",
+    "last_updated": "2025-08-28T03:58:23.053Z",
     "version_history": [
+      {
+        "version": "1.0.468",
+        "lastUpdated": "2025-08-28T03:58:23.053Z"
+      },
       {
         "version": "1.0.467",
         "lastUpdated": "2025-08-19T22:35:22.123Z"
@@ -18755,15 +18758,11 @@
       {
         "version": "1.0.449",
         "lastUpdated": "2025-05-29T06:09:23.58Z"
-      },
-      {
-        "version": "1.0.448",
-        "lastUpdated": "2025-05-23T06:47:35.193Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.467/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.468/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
