@@ -474,99 +474,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks"
   },
   {
-    "extension_name": "alefragnani.project-manager",
-    "display_name": "Project Manager",
-    "short_description": "Easily switch between projects",
-    "latest_version": "12.8.0",
-    "last_updated": "2024-03-29T18:21:00.053Z",
-    "version_history": [
-      {
-        "version": "12.8.0",
-        "lastUpdated": "2024-03-29T18:21:00.053Z"
-      },
-      {
-        "version": "12.7.0",
-        "lastUpdated": "2022-09-03T00:28:58.19Z"
-      },
-      {
-        "version": "12.6.1",
-        "lastUpdated": "2022-07-17T13:37:34.29Z"
-      },
-      {
-        "version": "12.6.0",
-        "lastUpdated": "2022-05-22T20:31:46.143Z"
-      },
-      {
-        "version": "12.5.0",
-        "lastUpdated": "2022-02-09T00:34:05.107Z"
-      },
-      {
-        "version": "12.4.0",
-        "lastUpdated": "2021-09-09T01:00:28.15Z"
-      },
-      {
-        "version": "12.3.0",
-        "lastUpdated": "2021-07-12T00:15:59.387Z"
-      },
-      {
-        "version": "12.2.0",
-        "lastUpdated": "2021-06-10T20:38:27.593Z"
-      },
-      {
-        "version": "12.1.0",
-        "lastUpdated": "2021-04-02T17:31:28.62Z"
-      },
-      {
-        "version": "12.0.1",
-        "lastUpdated": "2020-11-23T23:48:01.907Z"
-      },
-      {
-        "version": "12.0.0",
-        "lastUpdated": "2020-11-20T01:55:52.733Z"
-      },
-      {
-        "version": "11.3.1",
-        "lastUpdated": "2020-10-17T00:07:12.873Z"
-      },
-      {
-        "version": "11.3.0",
-        "lastUpdated": "2020-09-06T17:23:33.207Z"
-      },
-      {
-        "version": "11.2.0",
-        "lastUpdated": "2020-08-20T01:11:40.26Z"
-      },
-      {
-        "version": "11.1.0",
-        "lastUpdated": "2020-06-20T01:15:44.7Z"
-      },
-      {
-        "version": "11.0.1",
-        "lastUpdated": "2020-05-20T00:58:04.39Z"
-      },
-      {
-        "version": "11.0.0",
-        "lastUpdated": "2020-05-14T21:16:10.96Z"
-      },
-      {
-        "version": "10.12.0",
-        "lastUpdated": "2020-04-25T17:57:33.303Z"
-      },
-      {
-        "version": "10.11.0",
-        "lastUpdated": "2020-03-06T22:56:20.437Z"
-      },
-      {
-        "version": "10.10.0",
-        "lastUpdated": "2020-01-26T01:06:44.627Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["folder", "git", "keybindings", "manage", "mercurial", "multi-root ready", "project", "svn", "switch", "workspace"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/alefragnani/vsextensions/project-manager/12.8.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager"
-  },
-  {
     "extension_name": "alfredbirk.tailwind-documentation",
     "display_name": "Tailwind Documentation",
     "short_description": "Instant documentation search for Tailwind CSS",
@@ -1423,9 +1330,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.543.0",
-    "last_updated": "2025-08-27T17:08:10.693Z",
+    "latest_version": "0.544.0",
+    "last_updated": "2025-08-28T17:09:04.223Z",
     "version_history": [
+      {
+        "version": "0.544.0",
+        "lastUpdated": "2025-08-28T17:09:04.223Z"
+      },
       {
         "version": "0.543.0",
         "lastUpdated": "2025-08-27T17:08:10.693Z"
@@ -1501,10 +1412,6 @@
       {
         "version": "0.528.0",
         "lastUpdated": "2025-08-11T19:28:41.797Z"
-      },
-      {
-        "version": "0.527.1",
-        "lastUpdated": "2025-08-11T20:18:17.167Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,7 +1433,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.543.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.544.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2886,9 +2793,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.117.20250813",
-    "last_updated": "2025-08-13T18:09:40.46Z",
+    "latest_version": "3.117.20250828",
+    "last_updated": "2025-08-28T13:59:58.447Z",
     "version_history": [
+      {
+        "version": "3.117.20250828",
+        "lastUpdated": "2025-08-28T13:59:58.447Z"
+      },
       {
         "version": "3.117.20250813",
         "lastUpdated": "2025-08-13T18:09:40.46Z"
@@ -2964,15 +2875,11 @@
       {
         "version": "3.111.20250501",
         "lastUpdated": "2025-05-01T11:19:44.94Z"
-      },
-      {
-        "version": "3.110.0",
-        "lastUpdated": "2025-05-01T11:03:48.867Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250813/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250828/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5377,9 +5284,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.363.1764",
-    "last_updated": "2025-08-28T01:47:47.303Z",
+    "latest_version": "1.364.0",
+    "last_updated": "2025-08-28T15:42:41.303Z",
     "version_history": [
+      {
+        "version": "1.364.0",
+        "lastUpdated": "2025-08-28T15:42:41.303Z"
+      },
+      {
+        "version": "1.363.1765",
+        "lastUpdated": "2025-08-28T13:18:40.86Z"
+      },
       {
         "version": "1.363.1764",
         "lastUpdated": "2025-08-28T01:47:47.303Z"
@@ -5451,14 +5366,6 @@
       {
         "version": "1.355.1730",
         "lastUpdated": "2025-08-12T16:21:01.147Z"
-      },
-      {
-        "version": "1.354.1728",
-        "lastUpdated": "2025-08-12T01:48:11.55Z"
-      },
-      {
-        "version": "1.354.1727",
-        "lastUpdated": "2025-08-11T16:20:51.64Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,16 +5394,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.363.1764/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.364.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025082801",
-    "last_updated": "2025-08-28T04:33:11.46Z",
+    "latest_version": "0.31.2025082802",
+    "last_updated": "2025-08-28T13:17:05.7Z",
     "version_history": [
+      {
+        "version": "0.31.2025082802",
+        "lastUpdated": "2025-08-28T13:17:05.7Z"
+      },
       {
         "version": "0.31.2025082801",
         "lastUpdated": "2025-08-28T04:33:11.46Z"
@@ -5572,10 +5483,6 @@
       {
         "version": "0.31.2025081204",
         "lastUpdated": "2025-08-12T16:16:32.78Z"
-      },
-      {
-        "version": "0.31.2025081203",
-        "lastUpdated": "2025-08-12T04:27:51.25Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5611,7 +5518,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082802/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8110,9 +8017,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.49",
-    "last_updated": "2025-08-28T02:49:40.353Z",
+    "latest_version": "1.2.51",
+    "last_updated": "2025-08-28T14:49:04.47Z",
     "version_history": [
+      {
+        "version": "1.2.51",
+        "lastUpdated": "2025-08-28T14:49:04.47Z"
+      },
       {
         "version": "1.2.49",
         "lastUpdated": "2025-08-28T02:49:40.353Z"
@@ -8188,10 +8099,6 @@
       {
         "version": "1.2.28",
         "lastUpdated": "2025-07-03T07:52:25.383Z"
-      },
-      {
-        "version": "1.2.25",
-        "lastUpdated": "2025-06-30T14:43:51.16Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8225,7 +8132,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.49/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.51/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -12820,9 +12727,13 @@
     "extension_name": "Oracle.oracle-java",
     "display_name": "Java",
     "short_description": "Java Platform Extension for Visual Studio Code",
-    "latest_version": "24.0.0",
-    "last_updated": "2025-04-17T08:19:20.413Z",
+    "latest_version": "24.1.0",
+    "last_updated": "2025-08-28T16:13:06.813Z",
     "version_history": [
+      {
+        "version": "24.1.0",
+        "lastUpdated": "2025-08-28T16:13:06.813Z"
+      },
       {
         "version": "24.0.0",
         "lastUpdated": "2025-04-17T08:19:20.413Z"
@@ -12866,7 +12777,7 @@
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["debuggers", "Gradle", "jackpot-hint", "java", "Java Hints", "java properties", "javascript", "JDK", "json", "junit", "keybindings", "Maven", "multiroot", "multi-root ready", "OpenJDK"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/24.0.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/24.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java"
   },
   {
@@ -14132,9 +14043,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.26.1",
-    "last_updated": "2025-08-27T17:49:39.973Z",
+    "latest_version": "3.26.2",
+    "last_updated": "2025-08-28T15:27:40.38Z",
     "version_history": [
+      {
+        "version": "3.26.2",
+        "lastUpdated": "2025-08-28T15:27:40.38Z"
+      },
       {
         "version": "3.26.1",
         "lastUpdated": "2025-08-27T17:49:39.973Z"
@@ -14210,15 +14125,11 @@
       {
         "version": "3.25.7",
         "lastUpdated": "2025-08-05T19:16:24.257Z"
-      },
-      {
-        "version": "3.25.6",
-        "lastUpdated": "2025-08-02T01:40:28.23Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.26.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.26.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -16888,9 +16799,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025082800",
-    "last_updated": "2025-08-28T01:03:30.27Z",
+    "latest_version": "2.0.2025082812",
+    "last_updated": "2025-08-28T13:05:56.907Z",
     "version_history": [
+      {
+        "version": "2.0.2025082812",
+        "lastUpdated": "2025-08-28T13:05:56.907Z"
+      },
       {
         "version": "2.0.2025082800",
         "lastUpdated": "2025-08-28T01:03:30.27Z"
@@ -16966,10 +16881,6 @@
       {
         "version": "1.64.2025070100",
         "lastUpdated": "2025-07-01T01:06:40.33Z"
-      },
-      {
-        "version": "1.64.2025062800",
-        "lastUpdated": "2025-06-28T01:14:53.667Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16988,7 +16899,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025082800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025082812/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
