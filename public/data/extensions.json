@@ -3586,9 +3586,13 @@
     "extension_name": "docsmsft.docs-markdown",
     "display_name": "learn-markdown",
     "short_description": "Learn Markdown Extension",
-    "latest_version": "1.0.15",
-    "last_updated": "2025-08-13T06:32:19.887Z",
+    "latest_version": "1.0.16",
+    "last_updated": "2025-08-29T09:41:22.12Z",
     "version_history": [
+      {
+        "version": "1.0.16",
+        "lastUpdated": "2025-08-29T09:41:22.12Z"
+      },
       {
         "version": "1.0.15",
         "lastUpdated": "2025-08-13T06:32:19.887Z"
@@ -3664,15 +3668,11 @@
       {
         "version": "0.2.100",
         "lastUpdated": "2021-10-01T22:43:24.603Z"
-      },
-      {
-        "version": "0.2.99",
-        "lastUpdated": "2021-09-24T22:50:57.133Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["json", "keybindings", "markdown", "snippet", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-markdown/1.0.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown"
   },
   {
@@ -5897,9 +5897,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.117.2025082804",
-    "last_updated": "2025-08-28T04:21:09.14Z",
+    "latest_version": "0.117.2025082909",
+    "last_updated": "2025-08-29T09:49:50.913Z",
     "version_history": [
+      {
+        "version": "0.117.2025082909",
+        "lastUpdated": "2025-08-29T09:49:50.913Z"
+      },
       {
         "version": "0.117.2025082804",
         "lastUpdated": "2025-08-28T04:21:09.14Z"
@@ -5975,15 +5979,11 @@
       {
         "version": "0.117.2025080516",
         "lastUpdated": "2025-08-05T16:23:41.643Z"
-      },
-      {
-        "version": "0.117.2025080412",
-        "lastUpdated": "2025-08-04T13:00:46.25Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.117.2025082909/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8110,9 +8110,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.51",
-    "last_updated": "2025-08-28T14:49:04.47Z",
+    "latest_version": "1.2.52",
+    "last_updated": "2025-08-29T09:14:41.61Z",
     "version_history": [
+      {
+        "version": "1.2.52",
+        "lastUpdated": "2025-08-29T09:14:41.61Z"
+      },
       {
         "version": "1.2.51",
         "lastUpdated": "2025-08-28T14:49:04.47Z"
@@ -8188,10 +8192,6 @@
       {
         "version": "1.2.29",
         "lastUpdated": "2025-07-06T11:39:32.93Z"
-      },
-      {
-        "version": "1.2.28",
-        "lastUpdated": "2025-07-03T07:52:25.383Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8225,7 +8225,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.51/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.52/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -14975,9 +14975,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.122.0",
-    "last_updated": "2025-08-28T01:33:23.483Z",
+    "latest_version": "1.123.1756452963",
+    "last_updated": "2025-08-29T07:42:04.983Z",
     "version_history": [
+      {
+        "version": "1.123.1756452963",
+        "lastUpdated": "2025-08-29T07:42:04.983Z"
+      },
       {
         "version": "1.122.0",
         "lastUpdated": "2025-08-28T01:33:23.483Z"
@@ -15053,10 +15057,6 @@
       {
         "version": "1.107.1750959772",
         "lastUpdated": "2025-06-26T17:49:34.953Z"
-      },
-      {
-        "version": "1.107.1750950709",
-        "lastUpdated": "2025-06-26T15:17:18.577Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15102,7 +15102,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.122.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.123.1756452963/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
