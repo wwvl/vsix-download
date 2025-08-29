@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.544.0",
-    "last_updated": "2025-08-28T17:09:04.223Z",
+    "latest_version": "0.545.0",
+    "last_updated": "2025-08-29T17:14:17.347Z",
     "version_history": [
+      {
+        "version": "0.545.0",
+        "lastUpdated": "2025-08-29T17:14:17.347Z"
+      },
       {
         "version": "0.544.0",
         "lastUpdated": "2025-08-28T17:09:04.223Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.529.0",
         "lastUpdated": "2025-08-12T17:10:35.177Z"
-      },
-      {
-        "version": "0.528.0",
-        "lastUpdated": "2025-08-11T19:28:41.797Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,7 +1526,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.544.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.545.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.364.1767",
-    "last_updated": "2025-08-29T01:50:23.977Z",
+    "latest_version": "1.364.1768",
+    "last_updated": "2025-08-29T16:20:46.107Z",
     "version_history": [
+      {
+        "version": "1.364.1768",
+        "lastUpdated": "2025-08-29T16:20:46.107Z"
+      },
       {
         "version": "1.364.1767",
         "lastUpdated": "2025-08-29T01:50:23.977Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.356.1733",
         "lastUpdated": "2025-08-13T16:19:11.48Z"
-      },
-      {
-        "version": "1.355.1731",
-        "lastUpdated": "2025-08-13T01:48:53.567Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,16 +5487,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.364.1767/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.364.1768/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025082903",
-    "last_updated": "2025-08-29T05:38:26.033Z",
+    "latest_version": "0.31.2025082904",
+    "last_updated": "2025-08-29T17:24:48.003Z",
     "version_history": [
+      {
+        "version": "0.31.2025082904",
+        "lastUpdated": "2025-08-29T17:24:48.003Z"
+      },
       {
         "version": "0.31.2025082903",
         "lastUpdated": "2025-08-29T05:38:26.033Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.31.2025081401",
         "lastUpdated": "2025-08-14T04:23:00.547Z"
-      },
-      {
-        "version": "0.31.2025081301",
-        "lastUpdated": "2025-08-13T04:29:47.78Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5611,7 +5611,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082903/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025082904/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -16892,9 +16892,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025082812",
-    "last_updated": "2025-08-28T13:05:56.907Z",
+    "latest_version": "2.0.2025082912",
+    "last_updated": "2025-08-29T12:31:56.107Z",
     "version_history": [
+      {
+        "version": "2.0.2025082912",
+        "lastUpdated": "2025-08-29T12:31:56.107Z"
+      },
       {
         "version": "2.0.2025082812",
         "lastUpdated": "2025-08-28T13:05:56.907Z"
@@ -16970,10 +16974,6 @@
       {
         "version": "1.64.2025070300",
         "lastUpdated": "2025-07-03T01:30:21.427Z"
-      },
-      {
-        "version": "1.64.2025070100",
-        "lastUpdated": "2025-07-01T01:06:40.33Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16992,7 +16992,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025082812/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025082912/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
