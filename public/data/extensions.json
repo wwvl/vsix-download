@@ -8325,9 +8325,13 @@
     "extension_name": "mechatroner.rainbow-csv",
     "display_name": "Rainbow CSV",
     "short_description": "Highlight CSV and TSV files, Run SQL-like queries",
-    "latest_version": "3.20.0",
-    "last_updated": "2025-06-28T02:07:00.687Z",
+    "latest_version": "3.21.0",
+    "last_updated": "2025-08-30T03:24:31.58Z",
     "version_history": [
+      {
+        "version": "3.21.0",
+        "lastUpdated": "2025-08-30T03:24:31.58Z"
+      },
       {
         "version": "3.20.0",
         "lastUpdated": "2025-06-28T02:07:00.687Z"
@@ -8403,15 +8407,11 @@
       {
         "version": "3.5.0",
         "lastUpdated": "2022-12-10T01:51:33.943Z"
-      },
-      {
-        "version": "3.4.0",
-        "lastUpdated": "2022-12-03T01:23:30.49Z"
       }
     ],
     "categories": ["Programming Languages", "Data Science"],
     "tags": ["csv", "CSV (pipe)", "csv (semicolon)", "csv (whitespace)", "dynamic csv", "highlight", "plaintext", "sql", "tsv"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mechatroner/vsextensions/rainbow-csv/3.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mechatroner/vsextensions/rainbow-csv/3.21.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
   },
   {
