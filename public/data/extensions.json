@@ -15202,9 +15202,17 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.2.3",
-    "last_updated": "2025-07-20T16:34:28.217Z",
+    "latest_version": "4.2.5",
+    "last_updated": "2025-08-30T11:45:52.363Z",
     "version_history": [
+      {
+        "version": "4.2.5",
+        "lastUpdated": "2025-08-30T11:45:52.363Z"
+      },
+      {
+        "version": "4.2.4",
+        "lastUpdated": "2025-08-30T11:33:56.75Z"
+      },
       {
         "version": "4.2.3",
         "lastUpdated": "2025-07-20T16:34:28.217Z"
@@ -15276,19 +15284,11 @@
       {
         "version": "4.0.37",
         "lastUpdated": "2025-01-31T11:48:44.87Z"
-      },
-      {
-        "version": "4.0.36",
-        "lastUpdated": "2025-01-29T17:42:50.85Z"
-      },
-      {
-        "version": "4.0.35",
-        "lastUpdated": "2025-01-13T17:48:20.977Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.2.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.2.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
