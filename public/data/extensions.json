@@ -772,9 +772,13 @@
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
-    "latest_version": "2.27.5",
-    "last_updated": "2025-07-28T12:58:11.253Z",
+    "latest_version": "2.27.6",
+    "last_updated": "2025-09-01T09:00:46.193Z",
     "version_history": [
+      {
+        "version": "2.27.6",
+        "lastUpdated": "2025-09-01T09:00:46.193Z"
+      },
       {
         "version": "2.27.5",
         "lastUpdated": "2025-07-28T12:58:11.253Z"
@@ -850,10 +854,6 @@
       {
         "version": "2.22.7",
         "lastUpdated": "2025-04-30T04:47:32.36Z"
-      },
-      {
-        "version": "2.22.6",
-        "lastUpdated": "2025-04-28T04:58:58.67Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning"],
@@ -882,7 +882,7 @@
       "智谱",
       "智谱AI"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.27.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/aminer/vsextensions/codegeex/2.27.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=aminer.codegeex"
   },
   {
@@ -1533,9 +1533,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.14.2",
-    "last_updated": "2025-08-26T07:55:05.517Z",
+    "latest_version": "3.15.0",
+    "last_updated": "2025-09-01T11:16:46.95Z",
     "version_history": [
+      {
+        "version": "3.15.0",
+        "lastUpdated": "2025-09-01T11:16:46.95Z"
+      },
       {
         "version": "3.14.2",
         "lastUpdated": "2025-08-26T07:55:05.517Z"
@@ -1611,10 +1615,6 @@
       {
         "version": "3.7.1",
         "lastUpdated": "2025-04-25T05:28:50.79Z"
-      },
-      {
-        "version": "3.7.0",
-        "lastUpdated": "2025-04-24T17:20:54.75Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1668,7 +1668,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.14.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.15.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -2886,9 +2886,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.117.20250828",
-    "last_updated": "2025-08-28T13:59:58.447Z",
+    "latest_version": "3.119.20250901",
+    "last_updated": "2025-09-01T10:08:14.957Z",
     "version_history": [
+      {
+        "version": "3.119.20250901",
+        "lastUpdated": "2025-09-01T10:08:14.957Z"
+      },
+      {
+        "version": "3.118.0",
+        "lastUpdated": "2025-09-01T10:06:33.48Z"
+      },
       {
         "version": "3.117.20250828",
         "lastUpdated": "2025-08-28T13:59:58.447Z"
@@ -2960,28 +2968,28 @@
       {
         "version": "3.112.0",
         "lastUpdated": "2025-06-02T10:46:34.41Z"
-      },
-      {
-        "version": "3.111.20250519",
-        "lastUpdated": "2025-05-19T15:01:55.153Z"
-      },
-      {
-        "version": "3.111.20250501",
-        "lastUpdated": "2025-05-01T11:19:44.94Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.117.20250828/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.117.20250731",
-    "last_updated": "2025-07-31T14:18:20.567Z",
+    "latest_version": "3.119.20250901",
+    "last_updated": "2025-09-01T10:05:38.61Z",
     "version_history": [
+      {
+        "version": "3.119.20250901",
+        "lastUpdated": "2025-09-01T10:05:38.61Z"
+      },
+      {
+        "version": "3.118.0",
+        "lastUpdated": "2025-09-01T10:05:26.42Z"
+      },
       {
         "version": "3.117.20250731",
         "lastUpdated": "2025-07-31T14:18:20.567Z"
@@ -3053,19 +3061,11 @@
       {
         "version": "3.101.20241031",
         "lastUpdated": "2024-10-31T13:15:02.253Z"
-      },
-      {
-        "version": "3.100.0",
-        "lastUpdated": "2024-10-31T13:13:25.847Z"
-      },
-      {
-        "version": "3.99.20240930",
-        "lastUpdated": "2024-09-30T15:09:42.65Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.117.20250731/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.119.20250901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -3165,9 +3165,13 @@
     "extension_name": "dbaeumer.vscode-eslint",
     "display_name": "ESLint",
     "short_description": "Integrates ESLint JavaScript into VS Code.",
-    "latest_version": "3.0.17",
-    "last_updated": "2025-08-14T12:12:16.563Z",
+    "latest_version": "3.0.19",
+    "last_updated": "2025-09-01T11:11:10.57Z",
     "version_history": [
+      {
+        "version": "3.0.19",
+        "lastUpdated": "2025-09-01T11:11:10.57Z"
+      },
       {
         "version": "3.0.17",
         "lastUpdated": "2025-08-14T12:12:16.563Z"
@@ -3243,15 +3247,11 @@
       {
         "version": "2.2.5",
         "lastUpdated": "2022-07-01T12:48:27.263Z"
-      },
-      {
-        "version": "2.2.3",
-        "lastUpdated": "2022-01-13T09:49:56.547Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ignore", "javascript", "json", "jsonc", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.17/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/dbaeumer/vsextensions/vscode-eslint/3.0.19/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
   },
   {
@@ -5494,9 +5494,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025090101",
-    "last_updated": "2025-09-01T04:23:56.883Z",
+    "latest_version": "0.31.2025090102",
+    "last_updated": "2025-09-01T10:50:47.973Z",
     "version_history": [
+      {
+        "version": "0.31.2025090102",
+        "lastUpdated": "2025-09-01T10:50:47.973Z"
+      },
       {
         "version": "0.31.2025090101",
         "lastUpdated": "2025-09-01T04:23:56.883Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.31.2025081801",
         "lastUpdated": "2025-08-18T04:27:57.093Z"
-      },
-      {
-        "version": "0.31.2025081501",
-        "lastUpdated": "2025-08-15T04:23:16.353Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5611,7 +5611,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025090101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025090102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10039,9 +10039,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.13.2025082601",
-    "last_updated": "2025-08-26T10:48:21.367Z",
+    "latest_version": "2025.13.2025090101",
+    "last_updated": "2025-09-01T10:45:27.027Z",
     "version_history": [
+      {
+        "version": "2025.13.2025090101",
+        "lastUpdated": "2025-09-01T10:45:27.027Z"
+      },
       {
         "version": "2025.13.2025082601",
         "lastUpdated": "2025-08-26T10:48:21.367Z"
@@ -10117,10 +10121,6 @@
       {
         "version": "2025.9.2025063001",
         "lastUpdated": "2025-06-30T10:54:28.043Z"
-      },
-      {
-        "version": "2025.9.2025062701",
-        "lastUpdated": "2025-06-27T10:49:52.877Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10143,7 +10143,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025082601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025090101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -11974,13 +11974,9 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250831",
-    "last_updated": "2025-09-01T00:15:34.257Z",
+    "latest_version": "6.0.20250830",
+    "last_updated": "2025-08-31T00:15:43.767Z",
     "version_history": [
-      {
-        "version": "6.0.20250831",
-        "lastUpdated": "2025-09-01T00:15:34.257Z"
-      },
       {
         "version": "6.0.20250830",
         "lastUpdated": "2025-08-31T00:15:43.767Z"
@@ -12056,11 +12052,15 @@
       {
         "version": "6.0.20250809",
         "lastUpdated": "2025-08-10T00:13:21.66Z"
+      },
+      {
+        "version": "6.0.20250808",
+        "lastUpdated": "2025-08-09T00:27:33.163Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250831/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250830/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -15814,9 +15814,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.2.4981923",
-    "last_updated": "2025-08-25T02:50:11.7Z",
+    "latest_version": "3.3.5775983",
+    "last_updated": "2025-09-01T10:14:34.97Z",
     "version_history": [
+      {
+        "version": "3.3.5775983",
+        "lastUpdated": "2025-09-01T10:14:34.97Z"
+      },
       {
         "version": "3.2.4981923",
         "lastUpdated": "2025-08-25T02:50:11.7Z"
@@ -15892,10 +15896,6 @@
       {
         "version": "3.1.7",
         "lastUpdated": "2025-04-21T13:37:30.34Z"
-      },
-      {
-        "version": "3.1.6",
-        "lastUpdated": "2025-04-17T14:19:57.01Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15924,7 +15924,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.2.4981923/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.3.5775983/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
