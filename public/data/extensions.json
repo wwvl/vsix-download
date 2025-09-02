@@ -10039,9 +10039,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.13.2025090101",
-    "last_updated": "2025-09-01T10:45:27.027Z",
+    "latest_version": "2025.13.2025090201",
+    "last_updated": "2025-09-02T10:50:42.243Z",
     "version_history": [
+      {
+        "version": "2025.13.2025090201",
+        "lastUpdated": "2025-09-02T10:50:42.243Z"
+      },
       {
         "version": "2025.13.2025090101",
         "lastUpdated": "2025-09-01T10:45:27.027Z"
@@ -10117,10 +10121,6 @@
       {
         "version": "2025.9.2025063002",
         "lastUpdated": "2025-06-30T16:50:01.243Z"
-      },
-      {
-        "version": "2025.9.2025063001",
-        "lastUpdated": "2025-06-30T10:54:28.043Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10143,7 +10143,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025090101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.13.2025090201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
