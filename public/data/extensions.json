@@ -2886,12 +2886,20 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.119.20250901",
-    "last_updated": "2025-09-01T10:08:14.957Z",
+    "latest_version": "3.119.20250903",
+    "last_updated": "2025-09-03T12:36:07.073Z",
     "version_history": [
+      {
+        "version": "3.119.20250903",
+        "lastUpdated": "2025-09-03T12:36:07.073Z"
+      },
       {
         "version": "3.119.20250901",
         "lastUpdated": "2025-09-01T10:08:14.957Z"
+      },
+      {
+        "version": "3.118.1",
+        "lastUpdated": "2025-09-03T12:22:46.203Z"
       },
       {
         "version": "3.118.0",
@@ -2960,19 +2968,11 @@
       {
         "version": "3.113.20250605",
         "lastUpdated": "2025-06-05T10:53:14.993Z"
-      },
-      {
-        "version": "3.113.20250602",
-        "lastUpdated": "2025-06-02T11:26:46.997Z"
-      },
-      {
-        "version": "3.112.0",
-        "lastUpdated": "2025-06-02T10:46:34.41Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250901/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250903/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5494,9 +5494,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025090301",
-    "last_updated": "2025-09-03T04:23:01.1Z",
+    "latest_version": "0.31.2025090302",
+    "last_updated": "2025-09-03T09:37:45.367Z",
     "version_history": [
+      {
+        "version": "0.31.2025090302",
+        "lastUpdated": "2025-09-03T09:37:45.367Z"
+      },
       {
         "version": "0.31.2025090301",
         "lastUpdated": "2025-09-03T04:23:01.1Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.31.2025082102",
         "lastUpdated": "2025-08-21T22:31:58.64Z"
-      },
-      {
-        "version": "0.31.2025082101",
-        "lastUpdated": "2025-08-21T04:26:01.697Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5611,7 +5611,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025090301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025090302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8864,9 +8864,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.104.2025082709",
-    "last_updated": "2025-08-27T09:19:44.607Z",
+    "latest_version": "1.104.2025090309",
+    "last_updated": "2025-09-03T09:15:37.61Z",
     "version_history": [
+      {
+        "version": "1.104.2025090309",
+        "lastUpdated": "2025-09-03T09:15:37.61Z"
+      },
       {
         "version": "1.104.2025082709",
         "lastUpdated": "2025-08-27T09:19:44.607Z"
@@ -8942,15 +8946,11 @@
       {
         "version": "1.99.2025041609",
         "lastUpdated": "2025-04-16T09:23:57.85Z"
-      },
-      {
-        "version": "1.99.2025040909",
-        "lastUpdated": "2025-04-09T09:24:05.29Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.104.2025082709/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.104.2025090309/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -13827,9 +13827,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.45.2025082708",
-    "last_updated": "2025-08-27T08:26:55.937Z",
+    "latest_version": "1.45.2025090308",
+    "last_updated": "2025-09-03T08:26:22.877Z",
     "version_history": [
+      {
+        "version": "1.45.2025090308",
+        "lastUpdated": "2025-09-03T08:26:22.877Z"
+      },
       {
         "version": "1.45.2025082708",
         "lastUpdated": "2025-08-27T08:26:55.937Z"
@@ -13905,15 +13909,11 @@
       {
         "version": "1.43.2025062508",
         "lastUpdated": "2025-06-25T08:27:37.44Z"
-      },
-      {
-        "version": "1.43.2025061908",
-        "lastUpdated": "2025-06-19T08:34:20.157Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025082708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.45.2025090308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -16896,9 +16896,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025090215",
-    "last_updated": "2025-09-02T16:10:37.62Z",
+    "latest_version": "2.0.2025090306",
+    "last_updated": "2025-09-03T07:14:53.983Z",
     "version_history": [
+      {
+        "version": "2.0.2025090306",
+        "lastUpdated": "2025-09-03T07:14:53.983Z"
+      },
       {
         "version": "2.0.2025090215",
         "lastUpdated": "2025-09-02T16:10:37.62Z"
@@ -16974,10 +16978,6 @@
       {
         "version": "2.0.2025071000",
         "lastUpdated": "2025-07-10T01:09:44.41Z"
-      },
-      {
-        "version": "1.64.2025070800",
-        "lastUpdated": "2025-07-08T01:11:51.02Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16996,7 +16996,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025090215/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025090306/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
