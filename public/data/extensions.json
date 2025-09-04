@@ -4201,9 +4201,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.8.2705",
-    "last_updated": "2025-08-27T09:12:17.743Z",
+    "latest_version": "2025.9.405",
+    "last_updated": "2025-09-04T09:15:18.347Z",
     "version_history": [
+      {
+        "version": "2025.9.405",
+        "lastUpdated": "2025-09-04T09:15:18.347Z"
+      },
       {
         "version": "2025.8.2705",
         "lastUpdated": "2025-08-27T09:12:17.743Z"
@@ -4279,15 +4283,11 @@
       {
         "version": "2025.8.805",
         "lastUpdated": "2025-08-08T09:19:10.853Z"
-      },
-      {
-        "version": "2025.8.714",
-        "lastUpdated": "2025-08-07T18:29:24.65Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.8.2705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.405/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -12160,9 +12160,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.19.2025082809",
-    "last_updated": "2025-08-28T10:50:12.8Z",
+    "latest_version": "0.19.2025090407",
+    "last_updated": "2025-09-04T08:45:46.477Z",
     "version_history": [
+      {
+        "version": "0.19.2025090407",
+        "lastUpdated": "2025-09-04T08:45:46.477Z"
+      },
       {
         "version": "0.19.2025082809",
         "lastUpdated": "2025-08-28T10:50:12.8Z"
@@ -12238,15 +12242,11 @@
       {
         "version": "0.13.2025050905",
         "lastUpdated": "2025-05-09T06:13:00.8Z"
-      },
-      {
-        "version": "0.13.2025042908",
-        "lastUpdated": "2025-04-29T09:27:41.023Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.19.2025082809/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.19.2025090407/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -16896,9 +16896,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025090400",
-    "last_updated": "2025-09-04T01:13:46.14Z",
+    "latest_version": "2.0.2025090408",
+    "last_updated": "2025-09-04T09:18:45.103Z",
     "version_history": [
+      {
+        "version": "2.0.2025090408",
+        "lastUpdated": "2025-09-04T09:18:45.103Z"
+      },
       {
         "version": "2.0.2025090400",
         "lastUpdated": "2025-09-04T01:13:46.14Z"
@@ -16974,10 +16978,6 @@
       {
         "version": "2.0.2025072200",
         "lastUpdated": "2025-07-22T01:02:19.4Z"
-      },
-      {
-        "version": "2.0.2025071500",
-        "lastUpdated": "2025-07-15T01:13:37.897Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16996,7 +16996,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025090400/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025090408/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
