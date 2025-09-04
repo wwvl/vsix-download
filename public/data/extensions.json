@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.547.0",
-    "last_updated": "2025-09-03T17:05:55.04Z",
+    "latest_version": "0.548.0",
+    "last_updated": "2025-09-04T17:08:07.083Z",
     "version_history": [
+      {
+        "version": "0.548.0",
+        "lastUpdated": "2025-09-04T17:08:07.083Z"
+      },
       {
         "version": "0.547.0",
         "lastUpdated": "2025-09-03T17:05:55.04Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.532.1",
         "lastUpdated": "2025-08-18T17:44:28.9Z"
-      },
-      {
-        "version": "0.532.0",
-        "lastUpdated": "2025-08-15T17:05:45.293Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,7 +1526,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.547.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.548.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.366.1775",
-    "last_updated": "2025-09-03T01:47:30.11Z",
+    "latest_version": "1.367.1777",
+    "last_updated": "2025-09-04T15:58:55.9Z",
     "version_history": [
+      {
+        "version": "1.367.1777",
+        "lastUpdated": "2025-09-04T15:58:55.9Z"
+      },
       {
         "version": "1.366.1775",
         "lastUpdated": "2025-09-03T01:47:30.11Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.357.1742",
         "lastUpdated": "2025-08-19T16:21:31.987Z"
-      },
-      {
-        "version": "1.357.1739",
-        "lastUpdated": "2025-08-18T01:49:13.677Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,7 +5487,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.366.1775/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.367.1777/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5990,9 +5990,13 @@
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.49.1",
-    "last_updated": "2025-08-21T17:35:01.94Z",
+    "latest_version": "0.50.0",
+    "last_updated": "2025-09-04T17:55:52.34Z",
     "version_history": [
+      {
+        "version": "0.50.0",
+        "lastUpdated": "2025-09-04T17:55:52.34Z"
+      },
       {
         "version": "0.49.1",
         "lastUpdated": "2025-08-21T17:35:01.94Z"
@@ -6068,10 +6072,6 @@
       {
         "version": "0.43.0",
         "lastUpdated": "2024-08-26T15:02:27.537Z"
-      },
-      {
-        "version": "0.42.1",
-        "lastUpdated": "2024-09-10T14:13:44.72Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
@@ -6093,7 +6093,7 @@
       "multi-root ready",
       "snippet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.49.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.50.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -13859,6 +13859,10 @@
         "lastUpdated": "2025-08-01T08:28:18.383Z"
       },
       {
+        "version": "1.45.0",
+        "lastUpdated": "2025-09-04T13:43:20.997Z"
+      },
+      {
         "version": "1.44.2025073008",
         "lastUpdated": "2025-07-30T08:29:06.787Z"
       },
@@ -13905,10 +13909,6 @@
       {
         "version": "1.44.0",
         "lastUpdated": "2025-07-31T14:12:22.92Z"
-      },
-      {
-        "version": "1.43.2025062508",
-        "lastUpdated": "2025-06-25T08:27:37.44Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
@@ -16896,9 +16896,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025090408",
-    "last_updated": "2025-09-04T09:18:45.103Z",
+    "latest_version": "2.0.2025090414",
+    "last_updated": "2025-09-04T15:13:33.417Z",
     "version_history": [
+      {
+        "version": "2.0.2025090414",
+        "lastUpdated": "2025-09-04T15:13:33.417Z"
+      },
       {
         "version": "2.0.2025090408",
         "lastUpdated": "2025-09-04T09:18:45.103Z"
@@ -16974,10 +16978,6 @@
       {
         "version": "2.0.2025072600",
         "lastUpdated": "2025-07-26T01:05:26.727Z"
-      },
-      {
-        "version": "2.0.2025072200",
-        "lastUpdated": "2025-07-22T01:02:19.4Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16996,7 +16996,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025090408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025090414/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
