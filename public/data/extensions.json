@@ -2068,9 +2068,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.5.0",
-    "last_updated": "2025-08-19T00:51:04.603Z",
+    "latest_version": "3.6.0",
+    "last_updated": "2025-09-04T23:33:29.837Z",
     "version_history": [
+      {
+        "version": "3.6.0",
+        "lastUpdated": "2025-09-04T23:33:29.837Z"
+      },
       {
         "version": "3.5.0",
         "lastUpdated": "2025-08-19T00:51:04.603Z"
@@ -2146,10 +2150,6 @@
       {
         "version": "2.14.0",
         "lastUpdated": "2025-03-26T01:05:39.89Z"
-      },
-      {
-        "version": "2.13.0",
-        "lastUpdated": "2025-03-13T04:10:20.623Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2171,7 +2171,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.5.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.6.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -2716,6 +2716,10 @@
         "lastUpdated": "2025-08-23T00:12:02.267Z"
       },
       {
+        "version": "1.2.2",
+        "lastUpdated": "2025-09-04T21:56:01.81Z"
+      },
+      {
         "version": "1.2.1",
         "lastUpdated": "2025-08-29T05:38:12.563Z"
       },
@@ -2778,10 +2782,6 @@
       {
         "version": "1.1.64",
         "lastUpdated": "2025-07-17T02:33:15.733Z"
-      },
-      {
-        "version": "1.1.63",
-        "lastUpdated": "2025-07-15T15:58:43.65Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -5990,9 +5990,13 @@
     "extension_name": "golang.Go",
     "display_name": "Go",
     "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.50.0",
-    "last_updated": "2025-09-04T17:55:52.34Z",
+    "latest_version": "0.51.0",
+    "last_updated": "2025-09-04T19:25:38.347Z",
     "version_history": [
+      {
+        "version": "0.51.0",
+        "lastUpdated": "2025-09-04T19:25:38.347Z"
+      },
       {
         "version": "0.50.0",
         "lastUpdated": "2025-09-04T17:55:52.34Z"
@@ -6068,10 +6072,6 @@
       {
         "version": "0.43.1",
         "lastUpdated": "2024-09-09T19:23:08.883Z"
-      },
-      {
-        "version": "0.43.0",
-        "lastUpdated": "2024-08-26T15:02:27.537Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
@@ -6093,7 +6093,7 @@
       "multi-root ready",
       "snippet"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.50.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.51.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
@@ -11323,9 +11323,13 @@
     "extension_name": "ms-vscode.js-debug-nightly",
     "display_name": "JavaScript Debugger (Nightly)",
     "short_description": "An extension for debugging Node.js programs and Chrome.",
-    "latest_version": "2025.9.117",
-    "last_updated": "2025-09-02T00:18:45.203Z",
+    "latest_version": "2025.9.417",
+    "last_updated": "2025-09-05T00:27:04.56Z",
     "version_history": [
+      {
+        "version": "2025.9.417",
+        "lastUpdated": "2025-09-05T00:27:04.56Z"
+      },
       {
         "version": "2025.9.117",
         "lastUpdated": "2025-09-02T00:18:45.203Z"
@@ -11401,15 +11405,11 @@
       {
         "version": "2025.4.1117",
         "lastUpdated": "2025-04-12T00:13:09.47Z"
-      },
-      {
-        "version": "2025.4.817",
-        "lastUpdated": "2025-04-09T00:18:16.337Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["chrome", "debugger", "debuggers", "javascript", "keybindings", "node", "pwa", "wat", "WebAssemblyTextFormat"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.9.117/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/js-debug-nightly/2025.9.417/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly"
   },
   {
@@ -14233,9 +14233,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2603",
-    "last_updated": "2025-09-04T00:53:29.043Z",
+    "latest_version": "0.4.2604",
+    "last_updated": "2025-09-05T00:54:20.67Z",
     "version_history": [
+      {
+        "version": "0.4.2604",
+        "lastUpdated": "2025-09-05T00:54:20.67Z"
+      },
       {
         "version": "0.4.2603",
         "lastUpdated": "2025-09-04T00:53:29.043Z"
@@ -14311,15 +14315,11 @@
       {
         "version": "0.4.2569",
         "lastUpdated": "2025-08-10T01:14:33.66Z"
-      },
-      {
-        "version": "0.4.2568",
-        "lastUpdated": "2025-08-09T00:57:46.833Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2603/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
