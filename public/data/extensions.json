@@ -11974,13 +11974,9 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250905",
-    "last_updated": "2025-09-06T00:22:13.207Z",
+    "latest_version": "6.0.20250903",
+    "last_updated": "2025-09-04T00:20:05.963Z",
     "version_history": [
-      {
-        "version": "6.0.20250905",
-        "lastUpdated": "2025-09-06T00:22:13.207Z"
-      },
       {
         "version": "6.0.20250903",
         "lastUpdated": "2025-09-04T00:20:05.963Z"
@@ -12056,11 +12052,15 @@
       {
         "version": "6.0.20250813",
         "lastUpdated": "2025-08-14T00:12:44.34Z"
+      },
+      {
+        "version": "6.0.20250812",
+        "lastUpdated": "2025-08-13T00:15:16.76Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250905/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250903/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13827,9 +13827,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025090508",
-    "last_updated": "2025-09-05T08:31:56.483Z",
+    "latest_version": "1.46.2025090608",
+    "last_updated": "2025-09-06T08:22:27.343Z",
     "version_history": [
+      {
+        "version": "1.46.2025090608",
+        "lastUpdated": "2025-09-06T08:22:27.343Z"
+      },
       {
         "version": "1.46.2025090508",
         "lastUpdated": "2025-09-05T08:31:56.483Z"
@@ -13905,15 +13909,11 @@
       {
         "version": "1.44.2025070208",
         "lastUpdated": "2025-07-02T08:42:14.23Z"
-      },
-      {
-        "version": "1.44.2025062800",
-        "lastUpdated": "2025-06-28T00:25:39.803Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025090508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025090608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
