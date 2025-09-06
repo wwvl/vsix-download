@@ -7320,9 +7320,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.53.2",
-    "last_updated": "2025-08-30T14:01:29.23Z",
+    "latest_version": "1.53.3",
+    "last_updated": "2025-09-06T13:10:31.503Z",
     "version_history": [
+      {
+        "version": "1.53.3",
+        "lastUpdated": "2025-09-06T13:10:31.503Z"
+      },
       {
         "version": "1.53.2",
         "lastUpdated": "2025-08-30T14:01:29.23Z"
@@ -7398,15 +7402,11 @@
       {
         "version": "1.41.0",
         "lastUpdated": "2025-03-16T16:48:37.133Z"
-      },
-      {
-        "version": "1.40.0",
-        "lastUpdated": "2025-03-01T14:20:20.213Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.53.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.53.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
@@ -11974,9 +11974,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250903",
-    "last_updated": "2025-09-04T00:20:05.963Z",
+    "latest_version": "6.0.20250905",
+    "last_updated": "2025-09-06T00:22:13.207Z",
     "version_history": [
+      {
+        "version": "6.0.20250905",
+        "lastUpdated": "2025-09-06T00:22:13.207Z"
+      },
       {
         "version": "6.0.20250903",
         "lastUpdated": "2025-09-04T00:20:05.963Z"
@@ -12052,15 +12056,11 @@
       {
         "version": "6.0.20250813",
         "lastUpdated": "2025-08-14T00:12:44.34Z"
-      },
-      {
-        "version": "6.0.20250812",
-        "lastUpdated": "2025-08-13T00:15:16.76Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250903/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250905/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
