@@ -3444,9 +3444,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.60.17873",
-    "last_updated": "2025-09-02T15:12:02.18Z",
+    "latest_version": "1.60.17886",
+    "last_updated": "2025-09-07T19:35:42.963Z",
     "version_history": [
+      {
+        "version": "1.60.17886",
+        "lastUpdated": "2025-09-07T19:35:42.963Z"
+      },
       {
         "version": "1.60.17873",
         "lastUpdated": "2025-09-02T15:12:02.18Z"
@@ -3522,15 +3526,11 @@
       {
         "version": "1.59.17484",
         "lastUpdated": "2025-06-17T23:11:27.02Z"
-      },
-      {
-        "version": "1.59.17478",
-        "lastUpdated": "2025-06-15T18:31:18.93Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17873/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17886/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -11974,9 +11974,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250906",
-    "last_updated": "2025-09-07T00:15:56.74Z",
+    "latest_version": "6.0.20250907",
+    "last_updated": "2025-09-08T00:14:26.337Z",
     "version_history": [
+      {
+        "version": "6.0.20250907",
+        "lastUpdated": "2025-09-08T00:14:26.337Z"
+      },
       {
         "version": "6.0.20250906",
         "lastUpdated": "2025-09-07T00:15:56.74Z"
@@ -12052,15 +12056,11 @@
       {
         "version": "6.0.20250815",
         "lastUpdated": "2025-08-16T00:15:17.593Z"
-      },
-      {
-        "version": "6.0.20250814",
-        "lastUpdated": "2025-08-15T00:15:58.953Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250906/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250907/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14233,9 +14233,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2606",
-    "last_updated": "2025-09-07T00:55:59.413Z",
+    "latest_version": "0.4.2607",
+    "last_updated": "2025-09-08T01:03:38.38Z",
     "version_history": [
+      {
+        "version": "0.4.2607",
+        "lastUpdated": "2025-09-08T01:03:38.38Z"
+      },
       {
         "version": "0.4.2606",
         "lastUpdated": "2025-09-07T00:55:59.413Z"
@@ -14311,15 +14315,11 @@
       {
         "version": "0.4.2576",
         "lastUpdated": "2025-08-11T16:38:57.083Z"
-      },
-      {
-        "version": "0.4.2572",
-        "lastUpdated": "2025-08-11T10:15:50.07Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2606/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2607/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
