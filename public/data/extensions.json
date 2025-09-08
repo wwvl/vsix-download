@@ -5495,11 +5495,11 @@
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
     "latest_version": "0.31.2025090802",
-    "last_updated": "2025-09-08T05:45:45.993Z",
+    "last_updated": "2025-09-08T05:52:10.383Z",
     "version_history": [
       {
         "version": "0.31.2025090802",
-        "lastUpdated": "2025-09-08T05:45:45.993Z"
+        "lastUpdated": "2025-09-08T05:52:10.383Z"
       },
       {
         "version": "0.31.2025090504",
@@ -11974,13 +11974,9 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250907",
-    "last_updated": "2025-09-08T00:14:26.337Z",
+    "latest_version": "6.0.20250906",
+    "last_updated": "2025-09-07T00:15:56.74Z",
     "version_history": [
-      {
-        "version": "6.0.20250907",
-        "lastUpdated": "2025-09-08T00:14:26.337Z"
-      },
       {
         "version": "6.0.20250906",
         "lastUpdated": "2025-09-07T00:15:56.74Z"
@@ -12056,11 +12052,15 @@
       {
         "version": "6.0.20250815",
         "lastUpdated": "2025-08-16T00:15:17.593Z"
+      },
+      {
+        "version": "6.0.20250814",
+        "lastUpdated": "2025-08-15T00:15:58.953Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250907/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250906/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13047,9 +13047,13 @@
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.26.0",
-    "last_updated": "2025-08-18T19:37:31.79Z",
+    "latest_version": "5.27.0",
+    "last_updated": "2025-09-08T06:30:22.767Z",
     "version_history": [
+      {
+        "version": "5.27.0",
+        "lastUpdated": "2025-09-08T06:30:22.767Z"
+      },
       {
         "version": "5.26.0",
         "lastUpdated": "2025-08-18T19:37:31.79Z"
@@ -13125,15 +13129,11 @@
       {
         "version": "5.11.1",
         "lastUpdated": "2024-09-21T08:31:28.917Z"
-      },
-      {
-        "version": "5.11.0",
-        "lastUpdated": "2024-09-20T19:00:44.377Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.26.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.27.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
