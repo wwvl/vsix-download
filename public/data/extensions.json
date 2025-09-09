@@ -2700,9 +2700,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code agent",
     "short_description": "The leading open-source AI code agent",
-    "latest_version": "1.3.4",
-    "last_updated": "2025-09-05T23:06:34.24Z",
+    "latest_version": "1.3.5",
+    "last_updated": "2025-09-09T05:46:10.35Z",
     "version_history": [
+      {
+        "version": "1.3.5",
+        "lastUpdated": "2025-09-09T05:46:10.35Z"
+      },
       {
         "version": "1.3.4",
         "lastUpdated": "2025-09-05T23:06:34.24Z"
@@ -2778,15 +2782,11 @@
       {
         "version": "1.1.66",
         "lastUpdated": "2025-07-18T20:24:41.513Z"
-      },
-      {
-        "version": "1.1.65",
-        "lastUpdated": "2025-07-17T05:38:36.113Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -6723,9 +6723,13 @@
     "extension_name": "HashiCorp.terraform",
     "display_name": "HashiCorp Terraform",
     "short_description": "Syntax highlighting and autocompletion for Terraform",
-    "latest_version": "2.36.0",
-    "last_updated": "2025-09-05T07:03:44.667Z",
+    "latest_version": "2.36.1",
+    "last_updated": "2025-09-09T06:20:09.207Z",
     "version_history": [
+      {
+        "version": "2.36.1",
+        "lastUpdated": "2025-09-09T06:20:09.207Z"
+      },
       {
         "version": "2.36.0",
         "lastUpdated": "2025-09-05T07:03:44.667Z"
@@ -6801,10 +6805,6 @@
       {
         "version": "2.32.3",
         "lastUpdated": "2024-09-05T14:48:14.57Z"
-      },
-      {
-        "version": "2.32.2",
-        "lastUpdated": "2024-07-30T16:05:41.67Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -6827,7 +6827,7 @@
       "terraform-vars",
       "terraform-version"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HashiCorp/vsextensions/terraform/2.36.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HashiCorp/vsextensions/terraform/2.36.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform"
   },
   {
