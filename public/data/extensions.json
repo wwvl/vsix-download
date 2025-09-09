@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment",
     "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.550.0",
-    "last_updated": "2025-09-08T17:11:32.26Z",
+    "latest_version": "0.551.0",
+    "last_updated": "2025-09-09T17:05:34.903Z",
     "version_history": [
+      {
+        "version": "0.551.0",
+        "lastUpdated": "2025-09-09T17:05:34.903Z"
+      },
       {
         "version": "0.550.0",
         "lastUpdated": "2025-09-08T17:11:32.26Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.536.0",
         "lastUpdated": "2025-08-19T17:04:58.113Z"
-      },
-      {
-        "version": "0.535.0",
-        "lastUpdated": "2025-08-18T22:37:00.823Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,7 +1526,7 @@
       "productivity",
       "remote agents"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.550.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.551.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5377,9 +5377,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.367.1777",
-    "last_updated": "2025-09-04T15:58:55.9Z",
+    "latest_version": "1.367.1778",
+    "last_updated": "2025-09-09T16:28:04.52Z",
     "version_history": [
+      {
+        "version": "1.367.1778",
+        "lastUpdated": "2025-09-09T16:28:04.52Z"
+      },
       {
         "version": "1.367.1777",
         "lastUpdated": "2025-09-04T15:58:55.9Z"
@@ -5455,10 +5459,6 @@
       {
         "version": "1.360.1748",
         "lastUpdated": "2025-08-20T16:19:40.863Z"
-      },
-      {
-        "version": "1.357.1742",
-        "lastUpdated": "2025-08-19T16:21:31.987Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5487,16 +5487,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.367.1777/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.367.1778/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025090803",
-    "last_updated": "2025-09-08T21:30:54.473Z",
+    "latest_version": "0.31.2025090902",
+    "last_updated": "2025-09-09T16:59:24.083Z",
     "version_history": [
+      {
+        "version": "0.31.2025090902",
+        "lastUpdated": "2025-09-09T16:59:24.083Z"
+      },
       {
         "version": "0.31.2025090803",
         "lastUpdated": "2025-09-08T21:30:54.473Z"
@@ -5572,10 +5576,6 @@
       {
         "version": "0.31.2025082501",
         "lastUpdated": "2025-08-25T04:24:59.763Z"
-      },
-      {
-        "version": "0.31.2025082213",
-        "lastUpdated": "2025-08-22T20:20:39.5Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5611,7 +5611,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025090803/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025090902/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8110,9 +8110,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.54",
-    "last_updated": "2025-09-02T13:59:49.44Z",
+    "latest_version": "1.2.55",
+    "last_updated": "2025-09-09T13:51:25.327Z",
     "version_history": [
+      {
+        "version": "1.2.55",
+        "lastUpdated": "2025-09-09T13:51:25.327Z"
+      },
       {
         "version": "1.2.54",
         "lastUpdated": "2025-09-02T13:59:49.44Z"
@@ -8188,10 +8192,6 @@
       {
         "version": "1.2.32",
         "lastUpdated": "2025-07-12T11:01:25.487Z"
-      },
-      {
-        "version": "1.2.31",
-        "lastUpdated": "2025-07-10T06:17:03.643Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8225,7 +8225,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.54/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.55/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11250,6 +11250,10 @@
         "lastUpdated": "2025-08-07T22:19:07.073Z"
       },
       {
+        "version": "1.26.4",
+        "lastUpdated": "2025-09-09T16:29:38.933Z"
+      },
+      {
         "version": "1.26.3",
         "lastUpdated": "2025-06-25T18:55:30.607Z"
       },
@@ -11308,10 +11312,6 @@
       {
         "version": "1.23.6",
         "lastUpdated": "2025-02-07T01:20:59.067Z"
-      },
-      {
-        "version": "1.23.5",
-        "lastUpdated": "2025-01-29T01:39:05.53Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
