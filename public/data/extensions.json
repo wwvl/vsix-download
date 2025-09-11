@@ -1421,11 +1421,15 @@
   },
   {
     "extension_name": "augment.vscode-augment",
-    "display_name": "Augment",
-    "short_description": "Augment yourself with the best AI pair programmer and intelligent agents",
-    "latest_version": "0.552.0",
-    "last_updated": "2025-09-10T17:06:33.107Z",
+    "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
+    "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
+    "latest_version": "0.553.0",
+    "last_updated": "2025-09-11T17:08:44.363Z",
     "version_history": [
+      {
+        "version": "0.553.0",
+        "lastUpdated": "2025-09-11T17:08:44.363Z"
+      },
       {
         "version": "0.552.0",
         "lastUpdated": "2025-09-10T17:06:33.107Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.538.0",
         "lastUpdated": "2025-08-21T17:05:41.57Z"
-      },
-      {
-        "version": "0.537.0",
-        "lastUpdated": "2025-08-20T17:05:21.613Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1515,18 +1515,33 @@
       "artificial intelligence",
       "assistant",
       "autocomplete",
+      "c",
+      "c#",
+      "c++",
       "chat",
       "code completion",
       "coding assistant",
       "copilot",
+      "css",
+      "go",
+      "html",
       "intellisense",
+      "java",
+      "javascript",
       "keybindings",
       "mcp",
+      "node.js",
       "pair programming",
-      "productivity",
-      "remote agents"
+      "php",
+      "python",
+      "react",
+      "remote agents",
+      "ruby",
+      "rust",
+      "swift",
+      "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.552.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.553.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5494,9 +5509,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.31.2025091003",
-    "last_updated": "2025-09-10T13:26:30.68Z",
+    "latest_version": "0.32.2025091102",
+    "last_updated": "2025-09-11T13:06:51.793Z",
     "version_history": [
+      {
+        "version": "0.32.2025091102",
+        "lastUpdated": "2025-09-11T13:06:51.793Z"
+      },
       {
         "version": "0.31.2025091003",
         "lastUpdated": "2025-09-10T13:26:30.68Z"
@@ -5572,10 +5591,6 @@
       {
         "version": "0.31.2025082701",
         "lastUpdated": "2025-08-27T04:27:07.16Z"
-      },
-      {
-        "version": "0.31.2025082602",
-        "lastUpdated": "2025-08-26T11:19:34.74Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5611,7 +5626,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.31.2025091003/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5897,16 +5912,20 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025091112",
-    "last_updated": "2025-09-11T12:32:46.383Z",
+    "latest_version": "0.119.2025091115",
+    "last_updated": "2025-09-11T16:01:09.15Z",
     "version_history": [
+      {
+        "version": "0.119.2025091115",
+        "lastUpdated": "2025-09-11T16:01:09.15Z"
+      },
       {
         "version": "0.119.2025091112",
         "lastUpdated": "2025-09-11T12:32:46.383Z"
       },
       {
         "version": "0.118.0",
-        "lastUpdated": "2025-09-11T12:32:23.21Z"
+        "lastUpdated": "2025-09-11T12:37:00.183Z"
       },
       {
         "version": "0.117.2025091009",
@@ -5975,15 +5994,11 @@
       {
         "version": "0.117.2025081904",
         "lastUpdated": "2025-08-19T04:17:34.107Z"
-      },
-      {
-        "version": "0.117.2025081812",
-        "lastUpdated": "2025-08-18T12:14:02.08Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091112/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091115/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -10704,9 +10719,17 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.426.0",
-    "last_updated": "2025-09-01T14:36:44.19Z",
+    "latest_version": "0.428.0",
+    "last_updated": "2025-09-11T12:56:28.693Z",
     "version_history": [
+      {
+        "version": "0.428.0",
+        "lastUpdated": "2025-09-11T12:56:28.693Z"
+      },
+      {
+        "version": "0.427.0",
+        "lastUpdated": "2025-09-11T13:38:58.893Z"
+      },
       {
         "version": "0.426.0",
         "lastUpdated": "2025-09-01T14:36:44.19Z"
@@ -10778,19 +10801,11 @@
       {
         "version": "0.410.0",
         "lastUpdated": "2025-04-04T05:30:35.73Z"
-      },
-      {
-        "version": "0.409.0",
-        "lastUpdated": "2025-04-04T07:03:47.637Z"
-      },
-      {
-        "version": "0.408.0",
-        "lastUpdated": "2025-03-26T21:47:58.707Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.426.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.428.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -11416,9 +11431,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025082601",
-    "last_updated": "2025-08-26T09:17:11.04Z",
+    "latest_version": "0.5.2025091101",
+    "last_updated": "2025-09-11T17:10:07.287Z",
     "version_history": [
+      {
+        "version": "0.5.2025091101",
+        "lastUpdated": "2025-09-11T17:10:07.287Z"
+      },
       {
         "version": "0.5.2025082601",
         "lastUpdated": "2025-08-26T09:17:11.04Z"
@@ -11494,15 +11513,11 @@
       {
         "version": "0.5.2023121201",
         "lastUpdated": "2023-12-12T09:18:27.28Z"
-      },
-      {
-        "version": "0.5.2023121101",
-        "lastUpdated": "2023-12-11T17:13:00.423Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025082601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025091101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -13362,9 +13377,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.16.0",
-    "last_updated": "2025-09-10T10:44:24.767Z",
+    "latest_version": "6.16.1",
+    "last_updated": "2025-09-11T13:08:18.567Z",
     "version_history": [
+      {
+        "version": "6.16.1",
+        "lastUpdated": "2025-09-11T13:08:18.567Z"
+      },
       {
         "version": "6.16.0",
         "lastUpdated": "2025-09-10T10:44:24.767Z"
@@ -13440,15 +13459,11 @@
       {
         "version": "6.4.1",
         "lastUpdated": "2025-02-20T19:22:14.853Z"
-      },
-      {
-        "version": "6.4.0",
-        "lastUpdated": "2025-02-18T18:48:14.92Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.16.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
