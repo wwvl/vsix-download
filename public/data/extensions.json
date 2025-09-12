@@ -5509,9 +5509,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025091102",
-    "last_updated": "2025-09-11T13:06:51.793Z",
+    "latest_version": "0.32.2025091201",
+    "last_updated": "2025-09-12T04:28:27.667Z",
     "version_history": [
+      {
+        "version": "0.32.2025091201",
+        "lastUpdated": "2025-09-12T04:28:27.667Z"
+      },
       {
         "version": "0.32.2025091102",
         "lastUpdated": "2025-09-11T13:06:51.793Z"
@@ -5587,10 +5591,6 @@
       {
         "version": "0.31.2025082702",
         "lastUpdated": "2025-08-27T13:00:33.433Z"
-      },
-      {
-        "version": "0.31.2025082701",
-        "lastUpdated": "2025-08-27T04:27:07.16Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5626,7 +5626,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8972,9 +8972,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.50.33",
-    "last_updated": "2025-08-27T20:55:47.79Z",
+    "latest_version": "1.50.51",
+    "last_updated": "2025-09-12T01:21:01.373Z",
     "version_history": [
+      {
+        "version": "1.50.51",
+        "lastUpdated": "2025-09-12T01:21:01.373Z"
+      },
       {
         "version": "1.50.33",
         "lastUpdated": "2025-08-27T20:55:47.79Z"
@@ -9050,15 +9054,11 @@
       {
         "version": "1.19.63",
         "lastUpdated": "2025-05-13T17:07:12.61Z"
-      },
-      {
-        "version": "1.19.60",
-        "lastUpdated": "2025-05-08T19:48:56.517Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.50.33/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.50.51/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -15002,6 +15002,10 @@
         "lastUpdated": "2025-09-04T04:08:41.313Z"
       },
       {
+        "version": "1.123.1757656388",
+        "lastUpdated": "2025-09-12T05:58:33.44Z"
+      },
+      {
         "version": "1.123.1756452963",
         "lastUpdated": "2025-08-29T07:42:04.983Z"
       },
@@ -15072,10 +15076,6 @@
       {
         "version": "1.108.0",
         "lastUpdated": "2025-07-03T16:46:24.86Z"
-      },
-      {
-        "version": "1.107.1751045923",
-        "lastUpdated": "2025-06-27T17:43:29.977Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
