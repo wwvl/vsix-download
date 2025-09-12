@@ -4216,9 +4216,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.9.1105",
-    "last_updated": "2025-09-11T09:12:36.863Z",
+    "latest_version": "2025.9.1205",
+    "last_updated": "2025-09-12T09:12:23.32Z",
     "version_history": [
+      {
+        "version": "2025.9.1205",
+        "lastUpdated": "2025-09-12T09:12:23.32Z"
+      },
       {
         "version": "2025.9.1105",
         "lastUpdated": "2025-09-11T09:12:36.863Z"
@@ -4294,15 +4298,11 @@
       {
         "version": "2025.8.1420",
         "lastUpdated": "2025-08-15T00:20:03.267Z"
-      },
-      {
-        "version": "2025.8.1405",
-        "lastUpdated": "2025-08-14T09:15:18.433Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.1105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.1205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9682,9 +9682,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.13.2025090502",
-    "last_updated": "2025-09-05T20:49:39.66Z",
+    "latest_version": "2025.13.2025091201",
+    "last_updated": "2025-09-12T10:39:21.113Z",
     "version_history": [
+      {
+        "version": "2025.13.2025091201",
+        "lastUpdated": "2025-09-12T10:39:21.113Z"
+      },
       {
         "version": "2025.13.2025090502",
         "lastUpdated": "2025-09-05T20:49:39.66Z"
@@ -9760,15 +9764,11 @@
       {
         "version": "2025.3.2025030403",
         "lastUpdated": "2025-03-04T18:30:39.087Z"
-      },
-      {
-        "version": "2025.3.2025030402",
-        "lastUpdated": "2025-03-04T17:12:39.067Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.13.2025090502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.13.2025091201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10054,9 +10054,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.14.0",
-    "last_updated": "2025-09-11T18:38:20.033Z",
+    "latest_version": "2025.15.2025091201",
+    "last_updated": "2025-09-12T10:44:43.477Z",
     "version_history": [
+      {
+        "version": "2025.15.2025091201",
+        "lastUpdated": "2025-09-12T10:44:43.477Z"
+      },
       {
         "version": "2025.14.0",
         "lastUpdated": "2025-09-11T18:38:20.033Z"
@@ -10132,10 +10136,6 @@
       {
         "version": "2025.9.2025070301",
         "lastUpdated": "2025-07-03T10:48:56.47Z"
-      },
-      {
-        "version": "2025.9.2025070101",
-        "lastUpdated": "2025-07-01T10:48:51.777Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10158,7 +10158,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.14.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.15.2025091201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
