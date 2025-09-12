@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.553.0",
-    "last_updated": "2025-09-11T17:08:44.363Z",
+    "latest_version": "0.554.0",
+    "last_updated": "2025-09-12T17:07:09.14Z",
     "version_history": [
+      {
+        "version": "0.554.0",
+        "lastUpdated": "2025-09-12T17:07:09.14Z"
+      },
       {
         "version": "0.553.0",
         "lastUpdated": "2025-09-11T17:08:44.363Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.539.0",
         "lastUpdated": "2025-08-22T17:04:42.8Z"
-      },
-      {
-        "version": "0.538.0",
-        "lastUpdated": "2025-08-21T17:05:41.57Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1541,7 +1541,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.553.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.554.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -3459,9 +3459,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.60.17886",
-    "last_updated": "2025-09-07T19:35:42.963Z",
+    "latest_version": "1.60.17904",
+    "last_updated": "2025-09-12T13:20:51.927Z",
     "version_history": [
+      {
+        "version": "1.60.17904",
+        "lastUpdated": "2025-09-12T13:20:51.927Z"
+      },
       {
         "version": "1.60.17886",
         "lastUpdated": "2025-09-07T19:35:42.963Z"
@@ -3537,15 +3541,11 @@
       {
         "version": "1.59.17502",
         "lastUpdated": "2025-06-23T11:45:29.83Z"
-      },
-      {
-        "version": "1.59.17484",
-        "lastUpdated": "2025-06-17T23:11:27.02Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17886/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17904/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -8972,9 +8972,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.50.51",
-    "last_updated": "2025-09-12T01:21:01.373Z",
+    "latest_version": "1.61.6",
+    "last_updated": "2025-09-12T14:31:32.78Z",
     "version_history": [
+      {
+        "version": "1.61.6",
+        "lastUpdated": "2025-09-12T14:31:32.78Z"
+      },
       {
         "version": "1.50.51",
         "lastUpdated": "2025-09-12T01:21:01.373Z"
@@ -9050,15 +9054,11 @@
       {
         "version": "1.20.4",
         "lastUpdated": "2025-05-14T23:27:38.697Z"
-      },
-      {
-        "version": "1.19.63",
-        "lastUpdated": "2025-05-13T17:07:12.61Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.50.51/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.61.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -9496,9 +9496,13 @@
     "extension_name": "ms-mssql.mssql",
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
-    "latest_version": "1.35.0",
-    "last_updated": "2025-08-20T20:11:24.11Z",
+    "latest_version": "1.36.0",
+    "last_updated": "2025-09-12T13:07:15.397Z",
     "version_history": [
+      {
+        "version": "1.36.0",
+        "lastUpdated": "2025-09-12T13:07:15.397Z"
+      },
       {
         "version": "1.35.0",
         "lastUpdated": "2025-08-20T20:11:24.11Z"
@@ -9574,15 +9578,11 @@
       {
         "version": "1.22.0",
         "lastUpdated": "2023-11-08T18:35:50.017Z"
-      },
-      {
-        "version": "1.21.0",
-        "lastUpdated": "2023-09-20T17:15:58.567Z"
       }
     ],
     "categories": ["Programming Languages", "Azure"],
     "tags": ["Azure SQL Database", "chat-participant", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL database in Fabric", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.35.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.36.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
@@ -18199,9 +18199,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.0.6",
-    "last_updated": "2025-08-20T15:27:51.71Z",
+    "latest_version": "3.0.7",
+    "last_updated": "2025-09-12T08:06:18.42Z",
     "version_history": [
+      {
+        "version": "3.0.7",
+        "lastUpdated": "2025-09-12T08:06:18.42Z"
+      },
       {
         "version": "3.0.6",
         "lastUpdated": "2025-08-20T15:27:51.71Z"
@@ -18277,15 +18281,11 @@
       {
         "version": "2.1.0",
         "lastUpdated": "2024-08-29T00:35:26.433Z"
-      },
-      {
-        "version": "2.0.28",
-        "lastUpdated": "2024-07-22T06:39:47.707Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
