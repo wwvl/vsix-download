@@ -14549,9 +14549,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.28.2",
-    "last_updated": "2025-09-12T21:12:38.173Z",
+    "latest_version": "3.28.3",
+    "last_updated": "2025-09-13T02:01:31.59Z",
     "version_history": [
+      {
+        "version": "3.28.3",
+        "lastUpdated": "2025-09-13T02:01:31.59Z"
+      },
       {
         "version": "3.28.2",
         "lastUpdated": "2025-09-12T21:12:38.173Z"
@@ -14627,15 +14631,11 @@
       {
         "version": "3.21.0",
         "lastUpdated": "2025-08-07T17:21:44.39Z"
-      },
-      {
-        "version": "3.20.13",
-        "lastUpdated": "2025-08-06T07:31:12.547Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16911,9 +16911,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025091100",
-    "last_updated": "2025-09-11T01:16:25.577Z",
+    "latest_version": "2.0.2025091300",
+    "last_updated": "2025-09-13T00:44:37.37Z",
     "version_history": [
+      {
+        "version": "2.0.2025091300",
+        "lastUpdated": "2025-09-13T00:44:37.37Z"
+      },
       {
         "version": "2.0.2025091100",
         "lastUpdated": "2025-09-11T01:16:25.577Z"
@@ -16989,10 +16993,6 @@
       {
         "version": "2.0.2025080900",
         "lastUpdated": "2025-08-09T00:48:11.91Z"
-      },
-      {
-        "version": "2.0.2025080700",
-        "lastUpdated": "2025-08-07T00:41:29.807Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17011,7 +17011,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025091100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025091300/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
