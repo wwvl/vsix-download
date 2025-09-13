@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.554.0",
-    "last_updated": "2025-09-12T17:07:09.14Z",
+    "latest_version": "0.555.0",
+    "last_updated": "2025-09-12T21:23:27.643Z",
     "version_history": [
+      {
+        "version": "0.555.0",
+        "lastUpdated": "2025-09-12T21:23:27.643Z"
+      },
       {
         "version": "0.554.0",
         "lastUpdated": "2025-09-12T17:07:09.14Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.540.0",
         "lastUpdated": "2025-08-22T18:51:47.61Z"
-      },
-      {
-        "version": "0.539.0",
-        "lastUpdated": "2025-08-22T17:04:42.8Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1541,7 +1541,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.554.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.555.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5509,9 +5509,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025091201",
-    "last_updated": "2025-09-12T04:28:27.667Z",
+    "latest_version": "0.32.2025091202",
+    "last_updated": "2025-09-12T21:02:51.807Z",
     "version_history": [
+      {
+        "version": "0.32.2025091202",
+        "lastUpdated": "2025-09-12T21:02:51.807Z"
+      },
       {
         "version": "0.32.2025091201",
         "lastUpdated": "2025-09-12T04:28:27.667Z"
@@ -5587,10 +5591,6 @@
       {
         "version": "0.31.2025082801",
         "lastUpdated": "2025-08-28T04:33:11.46Z"
-      },
-      {
-        "version": "0.31.2025082702",
-        "lastUpdated": "2025-08-27T13:00:33.433Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5626,7 +5626,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250911",
-    "last_updated": "2025-09-12T00:16:19.21Z",
+    "latest_version": "6.0.20250912",
+    "last_updated": "2025-09-13T00:18:07.17Z",
     "version_history": [
+      {
+        "version": "6.0.20250912",
+        "lastUpdated": "2025-09-13T00:18:07.17Z"
+      },
       {
         "version": "6.0.20250911",
         "lastUpdated": "2025-09-12T00:16:19.21Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250821",
         "lastUpdated": "2025-08-22T00:21:56.46Z"
-      },
-      {
-        "version": "6.0.20250820",
-        "lastUpdated": "2025-08-21T00:16:20.417Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250911/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250912/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14549,9 +14549,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.28.0",
-    "last_updated": "2025-09-11T23:24:30.3Z",
+    "latest_version": "3.28.2",
+    "last_updated": "2025-09-12T21:12:38.173Z",
     "version_history": [
+      {
+        "version": "3.28.2",
+        "lastUpdated": "2025-09-12T21:12:38.173Z"
+      },
+      {
+        "version": "3.28.1",
+        "lastUpdated": "2025-09-12T19:09:18.51Z"
+      },
       {
         "version": "3.28.0",
         "lastUpdated": "2025-09-11T23:24:30.3Z"
@@ -14623,19 +14631,11 @@
       {
         "version": "3.20.13",
         "lastUpdated": "2025-08-06T07:31:12.547Z"
-      },
-      {
-        "version": "3.20.12",
-        "lastUpdated": "2025-08-06T05:43:17.03Z"
-      },
-      {
-        "version": "3.20.11",
-        "lastUpdated": "2025-08-06T04:34:06.173Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
