@@ -11896,9 +11896,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250903001",
-    "last_updated": "2025-09-03T02:59:39.973Z",
+    "latest_version": "0.13.250914001",
+    "last_updated": "2025-09-14T03:02:18.227Z",
     "version_history": [
+      {
+        "version": "0.13.250914001",
+        "lastUpdated": "2025-09-14T03:02:18.227Z"
+      },
       {
         "version": "0.13.250903001",
         "lastUpdated": "2025-09-03T02:59:39.973Z"
@@ -11974,15 +11978,11 @@
       {
         "version": "0.13.250802001",
         "lastUpdated": "2025-08-02T03:04:15.74Z"
-      },
-      {
-        "version": "0.13.250731001",
-        "lastUpdated": "2025-07-31T03:02:39.63Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250903001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250914001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
