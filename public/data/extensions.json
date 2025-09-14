@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250912",
-    "last_updated": "2025-09-13T00:18:07.17Z",
+    "latest_version": "6.0.20250913",
+    "last_updated": "2025-09-14T00:15:47.227Z",
     "version_history": [
+      {
+        "version": "6.0.20250913",
+        "lastUpdated": "2025-09-14T00:15:47.227Z"
+      },
       {
         "version": "6.0.20250912",
         "lastUpdated": "2025-09-13T00:18:07.17Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250822",
         "lastUpdated": "2025-08-23T00:16:19.463Z"
-      },
-      {
-        "version": "6.0.20250821",
-        "lastUpdated": "2025-08-22T00:21:56.46Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250912/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250913/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -18495,9 +18495,13 @@
     "extension_name": "waderyan.gitblame",
     "display_name": "Git Blame",
     "short_description": "See git blame information in the status bar.",
-    "latest_version": "11.1.4",
-    "last_updated": "2025-06-26T18:00:12.443Z",
+    "latest_version": "11.2.0",
+    "last_updated": "2025-09-13T21:10:30.977Z",
     "version_history": [
+      {
+        "version": "11.2.0",
+        "lastUpdated": "2025-09-13T21:10:30.977Z"
+      },
       {
         "version": "11.1.4",
         "lastUpdated": "2025-06-26T18:00:12.443Z"
@@ -18573,15 +18577,11 @@
       {
         "version": "10.3.0",
         "lastUpdated": "2023-06-23T18:10:13.377Z"
-      },
-      {
-        "version": "10.2.1",
-        "lastUpdated": "2023-06-21T21:23:01.2Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["bitbucket", "blame", "git", "gitblame", "github", "gitlab"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/waderyan/vsextensions/gitblame/11.1.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/waderyan/vsextensions/gitblame/11.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame"
   },
   {
