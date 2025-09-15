@@ -1548,9 +1548,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.16.0",
-    "last_updated": "2025-09-08T14:40:21.967Z",
+    "latest_version": "3.17.0",
+    "last_updated": "2025-09-15T03:52:06.113Z",
     "version_history": [
+      {
+        "version": "3.17.0",
+        "lastUpdated": "2025-09-15T03:52:06.113Z"
+      },
       {
         "version": "3.16.0",
         "lastUpdated": "2025-09-08T14:40:21.967Z"
@@ -1626,10 +1630,6 @@
       {
         "version": "3.8.3",
         "lastUpdated": "2025-05-29T10:07:33.82Z"
-      },
-      {
-        "version": "3.8.0",
-        "lastUpdated": "2025-05-19T14:21:58.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1683,7 +1683,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.17.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5509,9 +5509,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025091202",
-    "last_updated": "2025-09-12T21:02:51.807Z",
+    "latest_version": "0.32.2025091501",
+    "last_updated": "2025-09-15T04:28:17.44Z",
     "version_history": [
+      {
+        "version": "0.32.2025091501",
+        "lastUpdated": "2025-09-15T04:28:17.44Z"
+      },
       {
         "version": "0.32.2025091202",
         "lastUpdated": "2025-09-12T21:02:51.807Z"
@@ -5587,10 +5591,6 @@
       {
         "version": "0.31.2025082802",
         "lastUpdated": "2025-08-28T13:17:05.7Z"
-      },
-      {
-        "version": "0.31.2025082801",
-        "lastUpdated": "2025-08-28T04:33:11.46Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5626,7 +5626,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5912,9 +5912,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025091115",
-    "last_updated": "2025-09-11T16:01:09.15Z",
+    "latest_version": "0.119.2025091504",
+    "last_updated": "2025-09-15T04:21:19.033Z",
     "version_history": [
+      {
+        "version": "0.119.2025091504",
+        "lastUpdated": "2025-09-15T04:21:19.033Z"
+      },
       {
         "version": "0.119.2025091115",
         "lastUpdated": "2025-09-11T16:01:09.15Z"
@@ -5990,15 +5994,11 @@
       {
         "version": "0.117.2025082104",
         "lastUpdated": "2025-08-21T04:19:42.26Z"
-      },
-      {
-        "version": "0.117.2025081904",
-        "lastUpdated": "2025-08-19T04:17:34.107Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091115/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8125,9 +8125,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.55",
-    "last_updated": "2025-09-09T13:51:25.327Z",
+    "latest_version": "1.2.56",
+    "last_updated": "2025-09-15T03:09:27.643Z",
     "version_history": [
+      {
+        "version": "1.2.56",
+        "lastUpdated": "2025-09-15T03:09:27.643Z"
+      },
       {
         "version": "1.2.55",
         "lastUpdated": "2025-09-09T13:51:25.327Z"
@@ -8203,10 +8207,6 @@
       {
         "version": "1.2.33",
         "lastUpdated": "2025-07-21T16:58:01.86Z"
-      },
-      {
-        "version": "1.2.32",
-        "lastUpdated": "2025-07-12T11:01:25.487Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8240,7 +8240,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.55/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.56/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11896,9 +11896,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250914001",
-    "last_updated": "2025-09-14T03:02:18.227Z",
+    "latest_version": "0.13.250915001",
+    "last_updated": "2025-09-15T03:09:29.81Z",
     "version_history": [
+      {
+        "version": "0.13.250915001",
+        "lastUpdated": "2025-09-15T03:09:29.81Z"
+      },
       {
         "version": "0.13.250914001",
         "lastUpdated": "2025-09-14T03:02:18.227Z"
@@ -11974,15 +11978,11 @@
       {
         "version": "0.13.250803001",
         "lastUpdated": "2025-08-03T02:58:13.357Z"
-      },
-      {
-        "version": "0.13.250802001",
-        "lastUpdated": "2025-08-02T03:04:15.74Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250914001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250915001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -14549,9 +14549,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.28.3",
-    "last_updated": "2025-09-13T02:01:31.59Z",
+    "latest_version": "3.28.4",
+    "last_updated": "2025-09-15T04:18:09.613Z",
     "version_history": [
+      {
+        "version": "3.28.4",
+        "lastUpdated": "2025-09-15T04:18:09.613Z"
+      },
       {
         "version": "3.28.3",
         "lastUpdated": "2025-09-13T02:01:31.59Z"
@@ -14627,15 +14631,11 @@
       {
         "version": "3.23.0",
         "lastUpdated": "2025-08-09T09:41:47.953Z"
-      },
-      {
-        "version": "3.21.0",
-        "lastUpdated": "2025-08-07T17:21:44.39Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
