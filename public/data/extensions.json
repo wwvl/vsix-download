@@ -9868,9 +9868,13 @@
     "extension_name": "ms-python.mypy-type-checker",
     "display_name": "Mypy Type Checker",
     "short_description": "Type checking support for Python files using Mypy.",
-    "latest_version": "2025.3.12271015",
-    "last_updated": "2025-08-15T10:28:36.01Z",
+    "latest_version": "2025.3.12581007",
+    "last_updated": "2025-09-15T10:17:38.143Z",
     "version_history": [
+      {
+        "version": "2025.3.12581007",
+        "lastUpdated": "2025-09-15T10:17:38.143Z"
+      },
       {
         "version": "2025.3.12271015",
         "lastUpdated": "2025-08-15T10:28:36.01Z"
@@ -9946,15 +9950,11 @@
       {
         "version": "2023.9.12421015",
         "lastUpdated": "2024-08-29T10:23:14.85Z"
-      },
-      {
-        "version": "2023.9.12151008",
-        "lastUpdated": "2024-08-02T10:17:39.417Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["mypy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.12271015/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.12581007/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker"
   },
   {
@@ -11431,9 +11431,13 @@
     "extension_name": "ms-vscode.live-server",
     "display_name": "Live Preview",
     "short_description": "Hosts a local server in your workspace for you to preview your webpages on.",
-    "latest_version": "0.5.2025091101",
-    "last_updated": "2025-09-11T17:10:07.287Z",
+    "latest_version": "0.5.2025091501",
+    "last_updated": "2025-09-15T09:20:51.77Z",
     "version_history": [
+      {
+        "version": "0.5.2025091501",
+        "lastUpdated": "2025-09-15T09:20:51.77Z"
+      },
       {
         "version": "0.5.2025091101",
         "lastUpdated": "2025-09-11T17:10:07.287Z"
@@ -11509,15 +11513,11 @@
       {
         "version": "0.5.2024010901",
         "lastUpdated": "2024-01-09T09:20:16.313Z"
-      },
-      {
-        "version": "0.5.2023121201",
-        "lastUpdated": "2023-12-12T09:18:27.28Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["browser", "html", "live", "livepreview", "preview", "refresh", "reload"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025091101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/live-server/0.5.2025091501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
   },
   {
@@ -11710,9 +11710,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025081809",
-    "last_updated": "2025-08-18T09:24:11.313Z",
+    "latest_version": "1.6.2025091509",
+    "last_updated": "2025-09-15T09:21:44.573Z",
     "version_history": [
+      {
+        "version": "1.6.2025091509",
+        "lastUpdated": "2025-09-15T09:21:44.573Z"
+      },
       {
         "version": "1.6.2025081809",
         "lastUpdated": "2025-08-18T09:24:11.313Z"
@@ -11788,15 +11792,11 @@
       {
         "version": "1.6.2024061709",
         "lastUpdated": "2024-06-17T09:22:14.633Z"
-      },
-      {
-        "version": "1.6.2024053009",
-        "lastUpdated": "2024-05-30T09:24:47.003Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025081809/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025091509/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
