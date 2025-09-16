@@ -2715,9 +2715,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code agent",
     "short_description": "The leading open-source AI code agent",
-    "latest_version": "1.3.8",
-    "last_updated": "2025-09-13T17:59:11.797Z",
+    "latest_version": "1.3.9",
+    "last_updated": "2025-09-16T01:14:26.343Z",
     "version_history": [
+      {
+        "version": "1.3.9",
+        "lastUpdated": "2025-09-16T01:14:26.343Z"
+      },
       {
         "version": "1.3.8",
         "lastUpdated": "2025-09-13T17:59:11.797Z"
@@ -2793,15 +2797,11 @@
       {
         "version": "1.1.73",
         "lastUpdated": "2025-08-06T01:30:55.41Z"
-      },
-      {
-        "version": "1.1.71",
-        "lastUpdated": "2025-07-29T07:20:44.607Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -5392,9 +5392,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.371.1785",
-    "last_updated": "2025-09-15T17:13:00.6Z",
+    "latest_version": "1.372.0",
+    "last_updated": "2025-09-15T19:19:26.82Z",
     "version_history": [
+      {
+        "version": "1.372.0",
+        "lastUpdated": "2025-09-15T19:19:26.82Z"
+      },
       {
         "version": "1.371.1785",
         "lastUpdated": "2025-09-15T17:13:00.6Z"
@@ -5470,10 +5474,6 @@
       {
         "version": "1.362.1758",
         "lastUpdated": "2025-08-26T01:48:46.16Z"
-      },
-      {
-        "version": "1.362.1757",
-        "lastUpdated": "2025-08-25T16:20:22.993Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5502,7 +5502,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.371.1785/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.372.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5928,6 +5928,10 @@
         "lastUpdated": "2025-09-11T12:32:46.383Z"
       },
       {
+        "version": "0.118.1",
+        "lastUpdated": "2025-09-15T20:47:03.95Z"
+      },
+      {
         "version": "0.118.0",
         "lastUpdated": "2025-09-11T12:37:00.183Z"
       },
@@ -5990,10 +5994,6 @@
       {
         "version": "0.117.2025082504",
         "lastUpdated": "2025-08-25T04:20:30.797Z"
-      },
-      {
-        "version": "0.117.2025082104",
-        "lastUpdated": "2025-08-21T04:19:42.26Z"
       }
     ],
     "categories": ["AI", "Chat"],
@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250914",
-    "last_updated": "2025-09-15T00:13:32.233Z",
+    "latest_version": "6.0.20250915",
+    "last_updated": "2025-09-16T00:15:13.763Z",
     "version_history": [
+      {
+        "version": "6.0.20250915",
+        "lastUpdated": "2025-09-16T00:15:13.763Z"
+      },
       {
         "version": "6.0.20250914",
         "lastUpdated": "2025-09-15T00:13:32.233Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250824",
         "lastUpdated": "2025-08-25T00:16:29.19Z"
-      },
-      {
-        "version": "6.0.20250823",
-        "lastUpdated": "2025-08-24T00:14:21.553Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250914/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250915/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -18701,9 +18701,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.470",
-    "last_updated": "2025-09-10T06:37:58.877Z",
+    "latest_version": "1.0.471",
+    "last_updated": "2025-09-15T22:10:35.19Z",
     "version_history": [
+      {
+        "version": "1.0.471",
+        "lastUpdated": "2025-09-15T22:10:35.19Z"
+      },
       {
         "version": "1.0.470",
         "lastUpdated": "2025-09-10T06:37:58.877Z"
@@ -18779,15 +18783,11 @@
       {
         "version": "1.0.452",
         "lastUpdated": "2025-06-15T21:45:28.947Z"
-      },
-      {
-        "version": "1.0.451",
-        "lastUpdated": "2025-06-01T22:13:36.17Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.470/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.471/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
