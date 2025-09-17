@@ -8879,9 +8879,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.104.2025091009",
-    "last_updated": "2025-09-10T09:19:48.997Z",
+    "latest_version": "1.105.2025091709",
+    "last_updated": "2025-09-17T09:21:04.517Z",
     "version_history": [
+      {
+        "version": "1.105.2025091709",
+        "lastUpdated": "2025-09-17T09:21:04.517Z"
+      },
       {
         "version": "1.104.2025091009",
         "lastUpdated": "2025-09-10T09:19:48.997Z"
@@ -8957,15 +8961,11 @@
       {
         "version": "1.100.2025043009",
         "lastUpdated": "2025-04-30T09:21:36.38Z"
-      },
-      {
-        "version": "1.100.2025042309",
-        "lastUpdated": "2025-04-23T09:19:21.28Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.104.2025091009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.105.2025091709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -11710,9 +11710,13 @@
     "extension_name": "ms-vscode.remote-server",
     "display_name": "Remote - Tunnels",
     "short_description": "Connect to a remote machine through a Tunnel",
-    "latest_version": "1.6.2025091509",
-    "last_updated": "2025-09-15T09:21:44.573Z",
+    "latest_version": "1.6.2025091709",
+    "last_updated": "2025-09-17T09:26:45.527Z",
     "version_history": [
+      {
+        "version": "1.6.2025091709",
+        "lastUpdated": "2025-09-17T09:26:45.527Z"
+      },
       {
         "version": "1.6.2025091509",
         "lastUpdated": "2025-09-15T09:21:44.573Z"
@@ -11788,15 +11792,11 @@
       {
         "version": "1.6.2024070409",
         "lastUpdated": "2024-07-04T09:24:45.027Z"
-      },
-      {
-        "version": "1.6.2024061709",
-        "lastUpdated": "2024-06-17T09:22:14.633Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025091509/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/remote-server/1.6.2025091709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server"
   },
   {
@@ -13842,9 +13842,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025091308",
-    "last_updated": "2025-09-13T08:28:14.65Z",
+    "latest_version": "1.46.2025091708",
+    "last_updated": "2025-09-17T08:36:54.897Z",
     "version_history": [
+      {
+        "version": "1.46.2025091708",
+        "lastUpdated": "2025-09-17T08:36:54.897Z"
+      },
       {
         "version": "1.46.2025091308",
         "lastUpdated": "2025-09-13T08:28:14.65Z"
@@ -13920,15 +13924,11 @@
       {
         "version": "1.44.2025071108",
         "lastUpdated": "2025-07-11T08:25:26.52Z"
-      },
-      {
-        "version": "1.44.2025070813",
-        "lastUpdated": "2025-07-08T14:09:26.01Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025091308/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025091708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
