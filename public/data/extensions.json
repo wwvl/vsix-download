@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.557.0",
-    "last_updated": "2025-09-16T17:06:43.97Z",
+    "latest_version": "0.558.0",
+    "last_updated": "2025-09-17T17:05:50.037Z",
     "version_history": [
+      {
+        "version": "0.558.0",
+        "lastUpdated": "2025-09-17T17:05:50.037Z"
+      },
       {
         "version": "0.557.0",
         "lastUpdated": "2025-09-16T17:06:43.97Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.542.0",
         "lastUpdated": "2025-08-26T17:12:17.35Z"
-      },
-      {
-        "version": "0.541.0",
-        "lastUpdated": "2025-08-25T17:05:47.96Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1541,7 +1541,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.557.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.558.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2901,9 +2901,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.119.20250909",
-    "last_updated": "2025-09-09T10:11:29.533Z",
+    "latest_version": "3.119.20250917",
+    "last_updated": "2025-09-17T12:59:03.33Z",
     "version_history": [
+      {
+        "version": "3.119.20250917",
+        "lastUpdated": "2025-09-17T12:59:03.33Z"
+      },
       {
         "version": "3.119.20250909",
         "lastUpdated": "2025-09-09T10:11:29.533Z"
@@ -2979,15 +2983,11 @@
       {
         "version": "3.113.20250623",
         "lastUpdated": "2025-06-23T14:58:32.323Z"
-      },
-      {
-        "version": "3.113.20250611",
-        "lastUpdated": "2025-06-11T11:23:32.69Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250909/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250917/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -6208,9 +6208,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.49.0",
-    "last_updated": "2025-09-10T22:48:21.79Z",
+    "latest_version": "2.50.0",
+    "last_updated": "2025-09-17T18:18:07.2Z",
     "version_history": [
+      {
+        "version": "2.50.0",
+        "lastUpdated": "2025-09-17T18:18:07.2Z"
+      },
       {
         "version": "2.49.0",
         "lastUpdated": "2025-09-10T22:48:21.79Z"
@@ -6286,15 +6290,11 @@
       {
         "version": "2.32.0",
         "lastUpdated": "2025-04-29T21:57:49.877Z"
-      },
-      {
-        "version": "2.31.0",
-        "lastUpdated": "2025-04-16T21:46:44.56Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.49.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.50.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
