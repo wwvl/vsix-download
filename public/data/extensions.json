@@ -8125,9 +8125,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.56",
-    "last_updated": "2025-09-15T03:09:27.643Z",
+    "latest_version": "1.2.57",
+    "last_updated": "2025-09-17T00:05:06.38Z",
     "version_history": [
+      {
+        "version": "1.2.57",
+        "lastUpdated": "2025-09-17T00:05:06.38Z"
+      },
       {
         "version": "1.2.56",
         "lastUpdated": "2025-09-15T03:09:27.643Z"
@@ -8203,10 +8207,6 @@
       {
         "version": "1.2.34",
         "lastUpdated": "2025-07-23T02:47:15.477Z"
-      },
-      {
-        "version": "1.2.33",
-        "lastUpdated": "2025-07-21T16:58:01.86Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8240,7 +8240,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.56/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.57/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -11245,9 +11245,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.27.5",
-    "last_updated": "2025-09-10T21:15:17.503Z",
+    "latest_version": "1.27.6",
+    "last_updated": "2025-09-16T21:33:13.743Z",
     "version_history": [
+      {
+        "version": "1.27.6",
+        "lastUpdated": "2025-09-16T21:33:13.743Z"
+      },
       {
         "version": "1.27.5",
         "lastUpdated": "2025-09-10T21:15:17.503Z"
@@ -11323,15 +11327,11 @@
       {
         "version": "1.24.3",
         "lastUpdated": "2025-03-19T02:11:34.83Z"
-      },
-      {
-        "version": "1.24.2",
-        "lastUpdated": "2025-03-07T05:05:46.667Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.27.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.27.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250915",
-    "last_updated": "2025-09-16T00:15:13.763Z",
+    "latest_version": "6.0.20250916",
+    "last_updated": "2025-09-17T00:21:52.16Z",
     "version_history": [
+      {
+        "version": "6.0.20250916",
+        "lastUpdated": "2025-09-17T00:21:52.16Z"
+      },
       {
         "version": "6.0.20250915",
         "lastUpdated": "2025-09-16T00:15:13.763Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250825",
         "lastUpdated": "2025-08-26T00:14:25.527Z"
-      },
-      {
-        "version": "6.0.20250824",
-        "lastUpdated": "2025-08-25T00:16:29.19Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250915/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250916/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12969,9 +12969,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.15.0",
-    "last_updated": "2025-09-11T09:53:33.59Z",
+    "latest_version": "1.16.0",
+    "last_updated": "2025-09-16T20:13:26.887Z",
     "version_history": [
+      {
+        "version": "1.16.0",
+        "lastUpdated": "2025-09-16T20:13:26.887Z"
+      },
       {
         "version": "1.15.0",
         "lastUpdated": "2025-09-11T09:53:33.59Z"
@@ -13047,15 +13051,11 @@
       {
         "version": "0.18.1",
         "lastUpdated": "2025-06-09T13:57:28.987Z"
-      },
-      {
-        "version": "0.18.0",
-        "lastUpdated": "2025-06-06T15:29:31.467Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.15.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -14549,12 +14549,16 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.28.5",
-    "last_updated": "2025-09-15T23:28:59.02Z",
+    "latest_version": "3.28.6",
+    "last_updated": "2025-09-16T18:54:22.35Z",
     "version_history": [
       {
+        "version": "3.28.6",
+        "lastUpdated": "2025-09-16T18:54:22.35Z"
+      },
+      {
         "version": "3.28.5",
-        "lastUpdated": "2025-09-15T23:28:59.02Z"
+        "lastUpdated": "2025-09-15T23:33:37.86Z"
       },
       {
         "version": "3.28.4",
@@ -14627,15 +14631,11 @@
       {
         "version": "3.25.0",
         "lastUpdated": "2025-08-15T02:38:38.7Z"
-      },
-      {
-        "version": "3.24.0",
-        "lastUpdated": "2025-08-13T20:28:48.337Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
