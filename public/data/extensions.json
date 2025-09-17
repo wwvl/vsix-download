@@ -5509,9 +5509,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025091602",
-    "last_updated": "2025-09-16T16:58:10.58Z",
+    "latest_version": "0.32.2025091701",
+    "last_updated": "2025-09-17T04:27:01.84Z",
     "version_history": [
+      {
+        "version": "0.32.2025091701",
+        "lastUpdated": "2025-09-17T04:27:01.84Z"
+      },
       {
         "version": "0.32.2025091602",
         "lastUpdated": "2025-09-16T16:58:10.58Z"
@@ -5587,10 +5591,6 @@
       {
         "version": "0.31.2025090101",
         "lastUpdated": "2025-09-01T04:23:56.883Z"
-      },
-      {
-        "version": "0.31.2025082904",
-        "lastUpdated": "2025-08-29T17:24:48.003Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5626,7 +5626,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091602/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5912,9 +5912,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025091604",
-    "last_updated": "2025-09-16T04:27:01.833Z",
+    "latest_version": "0.119.2025091704",
+    "last_updated": "2025-09-17T04:19:21.723Z",
     "version_history": [
+      {
+        "version": "0.119.2025091704",
+        "lastUpdated": "2025-09-17T04:19:21.723Z"
+      },
       {
         "version": "0.119.2025091604",
         "lastUpdated": "2025-09-16T04:27:01.833Z"
@@ -5990,15 +5994,11 @@
       {
         "version": "0.117.2025082616",
         "lastUpdated": "2025-08-26T16:36:00.733Z"
-      },
-      {
-        "version": "0.117.2025082604",
-        "lastUpdated": "2025-08-26T04:17:26.02Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6746,6 +6746,10 @@
         "lastUpdated": "2025-09-11T07:36:19.297Z"
       },
       {
+        "version": "2.36.3",
+        "lastUpdated": "2025-09-17T06:02:53.39Z"
+      },
+      {
         "version": "2.36.2",
         "lastUpdated": "2025-09-11T06:04:20.78Z"
       },
@@ -6816,10 +6820,6 @@
       {
         "version": "2.33.2024073012",
         "lastUpdated": "2024-07-30T17:28:47.697Z"
-      },
-      {
-        "version": "2.33.0",
-        "lastUpdated": "2024-10-15T13:28:47.93Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -10165,9 +10165,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.7.104",
-    "last_updated": "2025-09-11T06:16:52.7Z",
+    "latest_version": "2025.8.1",
+    "last_updated": "2025-09-17T02:03:53.38Z",
     "version_history": [
+      {
+        "version": "2025.8.1",
+        "lastUpdated": "2025-09-17T02:03:53.38Z"
+      },
       {
         "version": "2025.7.104",
         "lastUpdated": "2025-09-11T06:16:52.7Z"
@@ -10243,15 +10247,11 @@
       {
         "version": "2025.4.104",
         "lastUpdated": "2025-05-09T18:22:45.55Z"
-      },
-      {
-        "version": "2025.4.103",
-        "lastUpdated": "2025-05-06T23:19:21.803Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.7.104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -11896,9 +11896,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250915001",
-    "last_updated": "2025-09-15T03:09:29.81Z",
+    "latest_version": "0.13.250917001",
+    "last_updated": "2025-09-17T03:07:32.747Z",
     "version_history": [
+      {
+        "version": "0.13.250917001",
+        "lastUpdated": "2025-09-17T03:07:32.747Z"
+      },
       {
         "version": "0.13.250915001",
         "lastUpdated": "2025-09-15T03:09:29.81Z"
@@ -11974,15 +11978,11 @@
       {
         "version": "0.13.250804001",
         "lastUpdated": "2025-08-04T02:59:47.563Z"
-      },
-      {
-        "version": "0.13.250803001",
-        "lastUpdated": "2025-08-03T02:58:13.357Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250915001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250917001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -18701,9 +18701,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.471",
-    "last_updated": "2025-09-15T22:10:35.19Z",
+    "latest_version": "1.0.472",
+    "last_updated": "2025-09-17T01:42:37.653Z",
     "version_history": [
+      {
+        "version": "1.0.472",
+        "lastUpdated": "2025-09-17T01:42:37.653Z"
+      },
       {
         "version": "1.0.471",
         "lastUpdated": "2025-09-15T22:10:35.19Z"
@@ -18779,15 +18783,11 @@
       {
         "version": "1.0.453",
         "lastUpdated": "2025-06-15T22:10:18.65Z"
-      },
-      {
-        "version": "1.0.452",
-        "lastUpdated": "2025-06-15T21:45:28.947Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.471/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.472/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
