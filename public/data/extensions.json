@@ -2901,9 +2901,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.119.20250917",
-    "last_updated": "2025-09-17T12:59:03.33Z",
+    "latest_version": "3.119.20250918",
+    "last_updated": "2025-09-18T11:18:33.273Z",
     "version_history": [
+      {
+        "version": "3.119.20250918",
+        "lastUpdated": "2025-09-18T11:18:33.273Z"
+      },
       {
         "version": "3.119.20250917",
         "lastUpdated": "2025-09-17T12:59:03.33Z"
@@ -2979,15 +2983,11 @@
       {
         "version": "3.114.0",
         "lastUpdated": "2025-07-01T11:22:23.63Z"
-      },
-      {
-        "version": "3.113.20250623",
-        "lastUpdated": "2025-06-23T14:58:32.323Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250917/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250918/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -6746,6 +6746,10 @@
         "lastUpdated": "2025-09-11T07:36:19.297Z"
       },
       {
+        "version": "2.36.4",
+        "lastUpdated": "2025-09-18T07:15:07.163Z"
+      },
+      {
         "version": "2.36.3",
         "lastUpdated": "2025-09-17T06:02:53.39Z"
       },
@@ -6816,10 +6820,6 @@
       {
         "version": "2.33.2024080812",
         "lastUpdated": "2024-08-08T12:26:57.587Z"
-      },
-      {
-        "version": "2.33.2024073012",
-        "lastUpdated": "2024-07-30T17:28:47.697Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -13284,9 +13284,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.16.1",
-    "last_updated": "2025-08-26T04:51:30.933Z",
+    "latest_version": "1.16.2",
+    "last_updated": "2025-09-18T07:55:22.583Z",
     "version_history": [
+      {
+        "version": "1.16.2",
+        "lastUpdated": "2025-09-18T07:55:22.583Z"
+      },
       {
         "version": "1.16.1",
         "lastUpdated": "2025-08-26T04:51:30.933Z"
@@ -13362,15 +13366,11 @@
       {
         "version": "1.2.0",
         "lastUpdated": "2024-07-30T06:37:49.037Z"
-      },
-      {
-        "version": "1.1.0",
-        "lastUpdated": "2024-06-25T09:02:48.453Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.16.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.16.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -13842,9 +13842,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025091708",
-    "last_updated": "2025-09-17T08:36:54.897Z",
+    "latest_version": "1.46.2025091808",
+    "last_updated": "2025-09-18T08:30:45.327Z",
     "version_history": [
+      {
+        "version": "1.46.2025091808",
+        "lastUpdated": "2025-09-18T08:30:45.327Z"
+      },
       {
         "version": "1.46.2025091708",
         "lastUpdated": "2025-09-17T08:36:54.897Z"
@@ -13920,15 +13924,11 @@
       {
         "version": "1.44.2025071808",
         "lastUpdated": "2025-07-18T08:31:54.79Z"
-      },
-      {
-        "version": "1.44.2025071108",
-        "lastUpdated": "2025-07-11T08:25:26.52Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025091708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025091808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
