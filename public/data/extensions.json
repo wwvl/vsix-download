@@ -2083,9 +2083,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.6.0",
-    "last_updated": "2025-09-04T23:33:29.837Z",
+    "latest_version": "3.7.0",
+    "last_updated": "2025-09-17T22:25:58.05Z",
     "version_history": [
+      {
+        "version": "3.7.0",
+        "lastUpdated": "2025-09-17T22:25:58.05Z"
+      },
       {
         "version": "3.6.0",
         "lastUpdated": "2025-09-04T23:33:29.837Z"
@@ -2161,10 +2165,6 @@
       {
         "version": "2.15.0",
         "lastUpdated": "2025-04-13T20:30:26.78Z"
-      },
-      {
-        "version": "2.14.0",
-        "lastUpdated": "2025-03-26T01:05:39.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2186,7 +2186,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.6.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -4216,9 +4216,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.9.1611",
-    "last_updated": "2025-09-16T15:38:26.203Z",
+    "latest_version": "2025.9.1718",
+    "last_updated": "2025-09-17T22:15:38.23Z",
     "version_history": [
+      {
+        "version": "2025.9.1718",
+        "lastUpdated": "2025-09-17T22:15:38.23Z"
+      },
       {
         "version": "2025.9.1611",
         "lastUpdated": "2025-09-16T15:38:26.203Z"
@@ -4294,15 +4298,11 @@
       {
         "version": "2025.8.1916",
         "lastUpdated": "2025-08-19T20:22:16.073Z"
-      },
-      {
-        "version": "2025.8.1905",
-        "lastUpdated": "2025-08-19T09:14:36.66Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.1611/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.1718/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5392,9 +5392,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.372.0",
-    "last_updated": "2025-09-15T19:19:26.82Z",
+    "latest_version": "1.373.1788",
+    "last_updated": "2025-09-17T21:07:16.093Z",
     "version_history": [
+      {
+        "version": "1.373.1788",
+        "lastUpdated": "2025-09-17T21:07:16.093Z"
+      },
       {
         "version": "1.372.0",
         "lastUpdated": "2025-09-15T19:19:26.82Z"
@@ -5470,10 +5474,6 @@
       {
         "version": "1.362.1759",
         "lastUpdated": "2025-08-26T16:21:03.877Z"
-      },
-      {
-        "version": "1.362.1758",
-        "lastUpdated": "2025-08-26T01:48:46.16Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5502,7 +5502,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.372.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.373.1788/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8972,9 +8972,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.61.6",
-    "last_updated": "2025-09-12T14:31:32.78Z",
+    "latest_version": "1.61.12",
+    "last_updated": "2025-09-17T21:54:32.43Z",
     "version_history": [
+      {
+        "version": "1.61.12",
+        "lastUpdated": "2025-09-17T21:54:32.43Z"
+      },
       {
         "version": "1.61.6",
         "lastUpdated": "2025-09-12T14:31:32.78Z"
@@ -9050,24 +9054,24 @@
       {
         "version": "1.20.14",
         "lastUpdated": "2025-05-20T16:46:55.763Z"
-      },
-      {
-        "version": "1.20.4",
-        "lastUpdated": "2025-05-14T23:27:38.697Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.61.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.61.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.91.30",
-    "last_updated": "2025-09-12T00:59:44.713Z",
+    "latest_version": "2.92.18",
+    "last_updated": "2025-09-17T19:44:15.54Z",
     "version_history": [
+      {
+        "version": "2.92.18",
+        "lastUpdated": "2025-09-17T19:44:15.54Z"
+      },
       {
         "version": "2.91.30",
         "lastUpdated": "2025-09-12T00:59:44.713Z"
@@ -9143,10 +9147,6 @@
       {
         "version": "2.76.27",
         "lastUpdated": "2025-05-14T22:30:13.557Z"
-      },
-      {
-        "version": "2.76.23",
-        "lastUpdated": "2025-05-08T19:04:02.13Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9169,7 +9169,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.91.30/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.92.18/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250916",
-    "last_updated": "2025-09-17T00:21:52.16Z",
+    "latest_version": "6.0.20250917",
+    "last_updated": "2025-09-18T00:23:02.713Z",
     "version_history": [
+      {
+        "version": "6.0.20250917",
+        "lastUpdated": "2025-09-18T00:23:02.713Z"
+      },
       {
         "version": "6.0.20250916",
         "lastUpdated": "2025-09-17T00:21:52.16Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250828",
         "lastUpdated": "2025-08-29T00:17:23.7Z"
-      },
-      {
-        "version": "6.0.20250825",
-        "lastUpdated": "2025-08-26T00:14:25.527Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250916/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250917/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14549,9 +14549,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.28.6",
-    "last_updated": "2025-09-16T18:54:22.35Z",
+    "latest_version": "3.29.0",
+    "last_updated": "2025-09-17T19:27:11.543Z",
     "version_history": [
+      {
+        "version": "3.29.0",
+        "lastUpdated": "2025-09-17T19:27:11.543Z"
+      },
       {
         "version": "3.28.6",
         "lastUpdated": "2025-09-16T18:54:22.35Z"
@@ -14627,15 +14631,11 @@
       {
         "version": "3.25.2",
         "lastUpdated": "2025-08-15T08:04:42.71Z"
-      },
-      {
-        "version": "3.25.0",
-        "lastUpdated": "2025-08-15T02:38:38.7Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.28.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.29.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
