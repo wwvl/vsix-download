@@ -1423,9 +1423,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.559.0",
-    "last_updated": "2025-09-18T17:06:30.473Z",
+    "latest_version": "0.560.0",
+    "last_updated": "2025-09-19T17:05:44.823Z",
     "version_history": [
+      {
+        "version": "0.560.0",
+        "lastUpdated": "2025-09-19T17:05:44.823Z"
+      },
       {
         "version": "0.559.0",
         "lastUpdated": "2025-09-18T17:06:30.473Z"
@@ -1501,10 +1505,6 @@
       {
         "version": "0.544.0",
         "lastUpdated": "2025-08-28T17:09:04.223Z"
-      },
-      {
-        "version": "0.543.0",
-        "lastUpdated": "2025-08-27T17:08:10.693Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1541,7 +1541,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.559.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.560.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -4211,6 +4211,99 @@
     "tags": ["analytics", "cursor", "cursor.com", "cursor-ide", "monitoring", "statistics", "usage"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dwtexe/vsextensions/cursor-stats/1.1.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dwtexe.cursor-stats"
+  },
+  {
+    "extension_name": "eamodio.gitlens",
+    "display_name": "GitLens — Git supercharged",
+    "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
+    "latest_version": "2025.9.1905",
+    "last_updated": "2025-09-19T09:13:16.1Z",
+    "version_history": [
+      {
+        "version": "2025.9.1905",
+        "lastUpdated": "2025-09-19T09:13:16.1Z"
+      },
+      {
+        "version": "2025.9.1813",
+        "lastUpdated": "2025-09-18T17:09:48.833Z"
+      },
+      {
+        "version": "2025.9.1718",
+        "lastUpdated": "2025-09-17T22:15:38.23Z"
+      },
+      {
+        "version": "2025.9.1611",
+        "lastUpdated": "2025-09-16T15:38:26.203Z"
+      },
+      {
+        "version": "2025.9.1605",
+        "lastUpdated": "2025-09-16T09:13:23.353Z"
+      },
+      {
+        "version": "2025.9.1305",
+        "lastUpdated": "2025-09-13T09:11:04.313Z"
+      },
+      {
+        "version": "2025.9.1205",
+        "lastUpdated": "2025-09-12T09:12:23.32Z"
+      },
+      {
+        "version": "2025.9.1105",
+        "lastUpdated": "2025-09-11T09:12:36.863Z"
+      },
+      {
+        "version": "2025.9.1016",
+        "lastUpdated": "2025-09-10T20:38:29.483Z"
+      },
+      {
+        "version": "2025.9.1005",
+        "lastUpdated": "2025-09-10T09:12:09.96Z"
+      },
+      {
+        "version": "2025.9.405",
+        "lastUpdated": "2025-09-04T09:15:18.347Z"
+      },
+      {
+        "version": "2025.8.2705",
+        "lastUpdated": "2025-08-27T09:12:17.743Z"
+      },
+      {
+        "version": "2025.8.2613",
+        "lastUpdated": "2025-08-26T17:50:43.27Z"
+      },
+      {
+        "version": "2025.8.2612",
+        "lastUpdated": "2025-08-26T16:25:22.39Z"
+      },
+      {
+        "version": "2025.8.2605",
+        "lastUpdated": "2025-08-26T09:13:28.817Z"
+      },
+      {
+        "version": "2025.8.2205",
+        "lastUpdated": "2025-08-22T09:15:20.09Z"
+      },
+      {
+        "version": "2025.8.2111",
+        "lastUpdated": "2025-08-21T15:52:35.92Z"
+      },
+      {
+        "version": "2025.8.2105",
+        "lastUpdated": "2025-08-21T09:14:59.6Z"
+      },
+      {
+        "version": "2025.8.2017",
+        "lastUpdated": "2025-08-20T21:27:13.833Z"
+      },
+      {
+        "version": "2025.8.2015",
+        "lastUpdated": "2025-08-20T19:41:51.15Z"
+      }
+    ],
+    "categories": ["SCM Providers"],
+    "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.1905/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
     "extension_name": "EditorConfig.EditorConfig",
@@ -16818,9 +16911,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025091800",
-    "last_updated": "2025-09-18T00:47:07.177Z",
+    "latest_version": "2.0.2025091914",
+    "last_updated": "2025-09-19T15:46:50.657Z",
     "version_history": [
+      {
+        "version": "2.0.2025091914",
+        "lastUpdated": "2025-09-19T15:46:50.657Z"
+      },
       {
         "version": "2.0.2025091800",
         "lastUpdated": "2025-09-18T00:47:07.177Z"
@@ -16896,10 +16993,6 @@
       {
         "version": "2.0.2025082100",
         "lastUpdated": "2025-08-21T01:21:18.837Z"
-      },
-      {
-        "version": "2.0.2025081900",
-        "lastUpdated": "2025-08-19T01:18:29.943Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16918,7 +17011,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025091800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025091914/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
