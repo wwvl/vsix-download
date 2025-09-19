@@ -10165,9 +10165,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.8.1",
-    "last_updated": "2025-09-17T02:03:53.38Z",
+    "latest_version": "2025.8.2",
+    "last_updated": "2025-09-19T00:07:42.68Z",
     "version_history": [
+      {
+        "version": "2025.8.2",
+        "lastUpdated": "2025-09-19T00:07:42.68Z"
+      },
       {
         "version": "2025.8.1",
         "lastUpdated": "2025-09-17T02:03:53.38Z"
@@ -10243,15 +10247,11 @@
       {
         "version": "2025.5.1",
         "lastUpdated": "2025-05-15T00:59:28.517Z"
-      },
-      {
-        "version": "2025.4.104",
-        "lastUpdated": "2025-05-09T18:22:45.55Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.8.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.8.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -11245,9 +11245,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.27.6",
-    "last_updated": "2025-09-16T21:33:13.743Z",
+    "latest_version": "1.27.7",
+    "last_updated": "2025-09-19T00:57:01.943Z",
     "version_history": [
+      {
+        "version": "1.27.7",
+        "lastUpdated": "2025-09-19T00:57:01.943Z"
+      },
       {
         "version": "1.27.6",
         "lastUpdated": "2025-09-16T21:33:13.743Z"
@@ -11323,15 +11327,11 @@
       {
         "version": "1.24.4",
         "lastUpdated": "2025-03-27T23:07:10.71Z"
-      },
-      {
-        "version": "1.24.3",
-        "lastUpdated": "2025-03-19T02:11:34.83Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.27.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.27.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250917",
-    "last_updated": "2025-09-18T00:23:02.713Z",
+    "latest_version": "6.0.20250918",
+    "last_updated": "2025-09-19T00:18:47.177Z",
     "version_history": [
+      {
+        "version": "6.0.20250918",
+        "lastUpdated": "2025-09-19T00:18:47.177Z"
+      },
       {
         "version": "6.0.20250917",
         "lastUpdated": "2025-09-18T00:23:02.713Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250829",
         "lastUpdated": "2025-08-30T00:13:59.053Z"
-      },
-      {
-        "version": "6.0.20250828",
-        "lastUpdated": "2025-08-29T00:17:23.7Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250917/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250918/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14248,9 +14248,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2608",
-    "last_updated": "2025-09-09T01:03:11.003Z",
+    "latest_version": "0.4.2618",
+    "last_updated": "2025-09-19T00:58:36.97Z",
     "version_history": [
+      {
+        "version": "0.4.2618",
+        "lastUpdated": "2025-09-19T00:58:36.97Z"
+      },
       {
         "version": "0.4.2608",
         "lastUpdated": "2025-09-09T01:03:11.003Z"
@@ -14326,15 +14330,11 @@
       {
         "version": "0.4.2579",
         "lastUpdated": "2025-08-13T01:08:21.383Z"
-      },
-      {
-        "version": "0.4.2578",
-        "lastUpdated": "2025-08-12T00:56:36Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2618/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14456,9 +14456,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "64.13.1",
-    "last_updated": "2025-09-11T01:03:49.337Z",
+    "latest_version": "64.14.0",
+    "last_updated": "2025-09-18T18:58:17.653Z",
     "version_history": [
+      {
+        "version": "64.14.0",
+        "lastUpdated": "2025-09-18T18:58:17.653Z"
+      },
       {
         "version": "64.13.1",
         "lastUpdated": "2025-09-11T01:03:49.337Z"
@@ -14534,24 +14538,24 @@
       {
         "version": "63.9.2",
         "lastUpdated": "2025-04-17T18:53:46.42Z"
-      },
-      {
-        "version": "63.7.0",
-        "lastUpdated": "2025-04-04T14:31:35.01Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.13.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.14.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.29.1",
-    "last_updated": "2025-09-18T03:36:59.903Z",
+    "latest_version": "3.29.2",
+    "last_updated": "2025-09-18T23:14:20.03Z",
     "version_history": [
+      {
+        "version": "3.29.2",
+        "lastUpdated": "2025-09-18T23:14:20.03Z"
+      },
       {
         "version": "3.29.1",
         "lastUpdated": "2025-09-18T03:36:59.903Z"
@@ -14627,15 +14631,11 @@
       {
         "version": "3.26.0",
         "lastUpdated": "2025-08-20T03:28:20.613Z"
-      },
-      {
-        "version": "3.25.3",
-        "lastUpdated": "2025-08-16T23:56:32.013Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.29.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.29.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
