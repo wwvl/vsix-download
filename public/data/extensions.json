@@ -3459,9 +3459,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.60.17904",
-    "last_updated": "2025-09-12T13:20:51.927Z",
+    "latest_version": "1.60.17917",
+    "last_updated": "2025-09-19T20:02:05.333Z",
     "version_history": [
+      {
+        "version": "1.60.17917",
+        "lastUpdated": "2025-09-19T20:02:05.333Z"
+      },
       {
         "version": "1.60.17904",
         "lastUpdated": "2025-09-12T13:20:51.927Z"
@@ -3537,15 +3541,11 @@
       {
         "version": "1.59.17515",
         "lastUpdated": "2025-06-23T15:16:41.553Z"
-      },
-      {
-        "version": "1.59.17502",
-        "lastUpdated": "2025-06-23T11:45:29.83Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17904/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.60.17917/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -5509,9 +5509,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025091901",
-    "last_updated": "2025-09-19T04:26:43.373Z",
+    "latest_version": "0.32.2025091902",
+    "last_updated": "2025-09-19T19:56:32.423Z",
     "version_history": [
+      {
+        "version": "0.32.2025091902",
+        "lastUpdated": "2025-09-19T19:56:32.423Z"
+      },
       {
         "version": "0.32.2025091901",
         "lastUpdated": "2025-09-19T04:26:43.373Z"
@@ -5587,10 +5591,6 @@
       {
         "version": "0.31.2025090301",
         "lastUpdated": "2025-09-03T04:23:01.1Z"
-      },
-      {
-        "version": "0.31.2025090201",
-        "lastUpdated": "2025-09-02T04:23:05.95Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5626,7 +5626,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091901/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091902/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5912,9 +5912,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025091804",
-    "last_updated": "2025-09-18T04:20:07.323Z",
+    "latest_version": "0.119.2025091921",
+    "last_updated": "2025-09-19T21:36:05.477Z",
     "version_history": [
+      {
+        "version": "0.119.2025091921",
+        "lastUpdated": "2025-09-19T21:36:05.477Z"
+      },
       {
         "version": "0.119.2025091804",
         "lastUpdated": "2025-09-18T04:20:07.323Z"
@@ -5990,15 +5994,11 @@
       {
         "version": "0.117.2025082704",
         "lastUpdated": "2025-08-27T04:19:34.07Z"
-      },
-      {
-        "version": "0.117.2025082620",
-        "lastUpdated": "2025-08-26T20:11:00.28Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091921/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11989,9 +11989,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250918",
-    "last_updated": "2025-09-19T00:18:47.177Z",
+    "latest_version": "6.0.20250919",
+    "last_updated": "2025-09-20T00:13:32.84Z",
     "version_history": [
+      {
+        "version": "6.0.20250919",
+        "lastUpdated": "2025-09-20T00:13:32.84Z"
+      },
       {
         "version": "6.0.20250918",
         "lastUpdated": "2025-09-19T00:18:47.177Z"
@@ -12067,15 +12071,11 @@
       {
         "version": "6.0.20250830",
         "lastUpdated": "2025-08-31T00:15:43.767Z"
-      },
-      {
-        "version": "6.0.20250829",
-        "lastUpdated": "2025-08-30T00:13:59.053Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250918/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250919/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14155,9 +14155,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.28.3",
-    "last_updated": "2025-09-16T16:27:01.53Z",
+    "latest_version": "3.28.4",
+    "last_updated": "2025-09-19T21:01:03Z",
     "version_history": [
+      {
+        "version": "3.28.4",
+        "lastUpdated": "2025-09-19T21:01:03Z"
+      },
       {
         "version": "3.28.3",
         "lastUpdated": "2025-09-16T16:27:01.53Z"
@@ -14233,24 +14237,24 @@
       {
         "version": "3.25.18",
         "lastUpdated": "2025-08-20T00:52:41.933Z"
-      },
-      {
-        "version": "3.25.17",
-        "lastUpdated": "2025-08-18T05:32:51.493Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.28.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.28.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2618",
-    "last_updated": "2025-09-19T00:58:36.97Z",
+    "latest_version": "0.4.2619",
+    "last_updated": "2025-09-20T01:03:41.803Z",
     "version_history": [
+      {
+        "version": "0.4.2619",
+        "lastUpdated": "2025-09-20T01:03:41.803Z"
+      },
       {
         "version": "0.4.2618",
         "lastUpdated": "2025-09-19T00:58:36.97Z"
@@ -14326,15 +14330,11 @@
       {
         "version": "0.4.2586",
         "lastUpdated": "2025-08-19T01:03:38.56Z"
-      },
-      {
-        "version": "0.4.2579",
-        "lastUpdated": "2025-08-13T01:08:21.383Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2618/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2619/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14549,9 +14549,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.29.2",
-    "last_updated": "2025-09-18T23:14:20.03Z",
+    "latest_version": "3.30.2",
+    "last_updated": "2025-09-19T22:07:12.27Z",
     "version_history": [
+      {
+        "version": "3.30.2",
+        "lastUpdated": "2025-09-19T22:07:12.27Z"
+      },
+      {
+        "version": "3.30.0",
+        "lastUpdated": "2025-09-19T19:31:38.63Z"
+      },
       {
         "version": "3.29.2",
         "lastUpdated": "2025-09-18T23:14:20.03Z"
@@ -14623,19 +14631,11 @@
       {
         "version": "3.26.2",
         "lastUpdated": "2025-08-21T23:54:24.587Z"
-      },
-      {
-        "version": "3.26.1",
-        "lastUpdated": "2025-08-21T00:18:52.43Z"
-      },
-      {
-        "version": "3.26.0",
-        "lastUpdated": "2025-08-20T03:28:20.613Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.29.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.30.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
