@@ -18203,9 +18203,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.0.7",
-    "last_updated": "2025-09-12T08:06:18.42Z",
+    "latest_version": "3.0.8",
+    "last_updated": "2025-09-22T16:45:43.29Z",
     "version_history": [
+      {
+        "version": "3.0.8",
+        "lastUpdated": "2025-09-22T16:45:43.29Z"
+      },
       {
         "version": "3.0.7",
         "lastUpdated": "2025-09-12T08:06:18.42Z"
@@ -18281,15 +18285,11 @@
       {
         "version": "2.1.2",
         "lastUpdated": "2024-08-29T08:28:48.287Z"
-      },
-      {
-        "version": "2.1.0",
-        "lastUpdated": "2024-08-29T00:35:26.433Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
