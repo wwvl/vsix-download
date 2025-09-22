@@ -5513,9 +5513,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025091902",
-    "last_updated": "2025-09-19T19:56:32.423Z",
+    "latest_version": "0.32.2025092201",
+    "last_updated": "2025-09-22T04:28:01.007Z",
     "version_history": [
+      {
+        "version": "0.32.2025092201",
+        "lastUpdated": "2025-09-22T04:28:01.007Z"
+      },
       {
         "version": "0.32.2025091902",
         "lastUpdated": "2025-09-19T19:56:32.423Z"
@@ -5591,10 +5595,6 @@
       {
         "version": "0.31.2025090302",
         "lastUpdated": "2025-09-03T09:37:45.367Z"
-      },
-      {
-        "version": "0.31.2025090301",
-        "lastUpdated": "2025-09-03T04:23:01.1Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5630,7 +5630,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025091902/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025092201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5916,9 +5916,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025091921",
-    "last_updated": "2025-09-19T21:36:05.477Z",
+    "latest_version": "0.119.2025092204",
+    "last_updated": "2025-09-22T04:19:47.327Z",
     "version_history": [
+      {
+        "version": "0.119.2025092204",
+        "lastUpdated": "2025-09-22T04:19:47.327Z"
+      },
       {
         "version": "0.119.2025091921",
         "lastUpdated": "2025-09-19T21:36:05.477Z"
@@ -5994,15 +5998,11 @@
       {
         "version": "0.117.2025082708",
         "lastUpdated": "2025-08-27T08:42:34.723Z"
-      },
-      {
-        "version": "0.117.2025082704",
-        "lastUpdated": "2025-08-27T04:19:34.07Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025091921/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11900,9 +11900,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250917001",
-    "last_updated": "2025-09-17T03:07:32.747Z",
+    "latest_version": "0.13.250922001",
+    "last_updated": "2025-09-22T02:58:33.923Z",
     "version_history": [
+      {
+        "version": "0.13.250922001",
+        "lastUpdated": "2025-09-22T02:58:33.923Z"
+      },
       {
         "version": "0.13.250917001",
         "lastUpdated": "2025-09-17T03:07:32.747Z"
@@ -11978,15 +11982,11 @@
       {
         "version": "0.13.250806001",
         "lastUpdated": "2025-08-06T03:07:00.48Z"
-      },
-      {
-        "version": "0.13.250804001",
-        "lastUpdated": "2025-08-04T02:59:47.563Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250917001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250922001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
