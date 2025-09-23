@@ -3698,9 +3698,13 @@
     "extension_name": "docsmsft.docs-preview",
     "display_name": "learn-preview",
     "short_description": "Learn Markdown Preview Extension",
-    "latest_version": "2.0.5",
-    "last_updated": "2025-06-20T07:23:45.933Z",
+    "latest_version": "2.0.9",
+    "last_updated": "2025-09-23T08:14:06.11Z",
     "version_history": [
+      {
+        "version": "2.0.9",
+        "lastUpdated": "2025-09-23T08:14:06.11Z"
+      },
       {
         "version": "2.0.5",
         "lastUpdated": "2025-06-20T07:23:45.933Z"
@@ -3776,15 +3780,11 @@
       {
         "version": "0.3.53",
         "lastUpdated": "2020-07-20T22:12:37.277Z"
-      },
-      {
-        "version": "0.3.52",
-        "lastUpdated": "2020-06-29T18:13:54.21Z"
       }
     ],
     "categories": ["Snippets"],
     "tags": ["commonmark", "dfm", "docfx", "markdown", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-preview/2.0.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/docsmsft/vsextensions/docs-preview/2.0.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
   },
   {
@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.9.2005",
-    "last_updated": "2025-09-20T09:10:56.68Z",
+    "latest_version": "2025.9.2305",
+    "last_updated": "2025-09-23T09:07:48.2Z",
     "version_history": [
+      {
+        "version": "2025.9.2305",
+        "lastUpdated": "2025-09-23T09:07:48.2Z"
+      },
       {
         "version": "2025.9.2005",
         "lastUpdated": "2025-09-20T09:10:56.68Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.8.2105",
         "lastUpdated": "2025-08-21T09:14:59.6Z"
-      },
-      {
-        "version": "2025.8.2017",
-        "lastUpdated": "2025-08-20T21:27:13.833Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.2005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.2305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13846,9 +13846,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025091808",
-    "last_updated": "2025-09-18T08:30:45.327Z",
+    "latest_version": "1.46.2025092308",
+    "last_updated": "2025-09-23T08:34:31.05Z",
     "version_history": [
+      {
+        "version": "1.46.2025092308",
+        "lastUpdated": "2025-09-23T08:34:31.05Z"
+      },
       {
         "version": "1.46.2025091808",
         "lastUpdated": "2025-09-18T08:30:45.327Z"
@@ -13924,15 +13928,11 @@
       {
         "version": "1.44.2025072308",
         "lastUpdated": "2025-07-23T08:32:40.673Z"
-      },
-      {
-        "version": "1.44.2025071808",
-        "lastUpdated": "2025-07-18T08:31:54.79Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025091808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025092308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -17301,9 +17301,17 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.29.2025081500",
-    "last_updated": "2025-08-18T02:24:52.433Z",
+    "latest_version": "0.30.1",
+    "last_updated": "2025-09-23T07:59:58.543Z",
     "version_history": [
+      {
+        "version": "0.30.1",
+        "lastUpdated": "2025-09-23T07:59:58.543Z"
+      },
+      {
+        "version": "0.30.0",
+        "lastUpdated": "2025-09-23T07:02:30.623Z"
+      },
       {
         "version": "0.29.2025081500",
         "lastUpdated": "2025-08-18T02:24:52.433Z"
@@ -17375,19 +17383,11 @@
       {
         "version": "0.27.2024062103",
         "lastUpdated": "2024-06-21T05:20:12.763Z"
-      },
-      {
-        "version": "0.27.2024061402",
-        "lastUpdated": "2024-06-14T03:08:53.87Z"
-      },
-      {
-        "version": "0.27.2024061302",
-        "lastUpdated": "2024-06-13T05:17:09.993Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.29.2025081500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
