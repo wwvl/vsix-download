@@ -5513,9 +5513,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025092301",
-    "last_updated": "2025-09-23T00:46:05.353Z",
+    "latest_version": "0.32.2025092302",
+    "last_updated": "2025-09-23T04:22:54.94Z",
     "version_history": [
+      {
+        "version": "0.32.2025092302",
+        "lastUpdated": "2025-09-23T04:22:54.94Z"
+      },
       {
         "version": "0.32.2025092301",
         "lastUpdated": "2025-09-23T00:46:05.353Z"
@@ -5591,10 +5595,6 @@
       {
         "version": "0.31.2025090504",
         "lastUpdated": "2025-09-05T06:44:48.297Z"
-      },
-      {
-        "version": "0.31.2025090401",
-        "lastUpdated": "2025-09-04T04:28:20.23Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5630,7 +5630,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025092301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025092302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5916,9 +5916,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025092204",
-    "last_updated": "2025-09-22T04:19:47.327Z",
+    "latest_version": "0.119.2025092304",
+    "last_updated": "2025-09-23T04:19:04.17Z",
     "version_history": [
+      {
+        "version": "0.119.2025092304",
+        "lastUpdated": "2025-09-23T04:19:04.17Z"
+      },
       {
         "version": "0.119.2025092204",
         "lastUpdated": "2025-09-22T04:19:47.327Z"
@@ -5994,15 +5998,11 @@
       {
         "version": "0.117.2025082804",
         "lastUpdated": "2025-08-28T04:21:09.14Z"
-      },
-      {
-        "version": "0.117.2025082708",
-        "lastUpdated": "2025-08-27T08:42:34.723Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -17208,9 +17208,21 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.24.2025081501",
-    "last_updated": "2025-08-15T09:08:54.687Z",
+    "latest_version": "0.25.2025092303",
+    "last_updated": "2025-09-23T04:43:07.927Z",
     "version_history": [
+      {
+        "version": "0.25.2025092303",
+        "lastUpdated": "2025-09-23T04:43:07.927Z"
+      },
+      {
+        "version": "0.25.2025091901",
+        "lastUpdated": "2025-09-23T02:22:56.3Z"
+      },
+      {
+        "version": "0.25.0",
+        "lastUpdated": "2025-09-23T06:01:43.59Z"
+      },
       {
         "version": "0.24.2025081501",
         "lastUpdated": "2025-08-15T09:08:54.687Z"
@@ -17278,23 +17290,11 @@
       {
         "version": "0.23.2023060200",
         "lastUpdated": "2023-06-02T00:14:15.92Z"
-      },
-      {
-        "version": "0.23.2023053000",
-        "lastUpdated": "2023-05-30T00:10:45.22Z"
-      },
-      {
-        "version": "0.23.7",
-        "lastUpdated": "2024-07-01T03:29:16.807Z"
-      },
-      {
-        "version": "0.23.6",
-        "lastUpdated": "2024-03-27T06:08:25.953Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.24.2025081501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.25.2025092303/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
