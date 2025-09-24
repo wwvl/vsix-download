@@ -5916,9 +5916,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025092304",
-    "last_updated": "2025-09-23T04:19:04.17Z",
+    "latest_version": "0.119.2025092404",
+    "last_updated": "2025-09-24T04:19:45.897Z",
     "version_history": [
+      {
+        "version": "0.119.2025092404",
+        "lastUpdated": "2025-09-24T04:19:45.897Z"
+      },
       {
         "version": "0.119.2025092304",
         "lastUpdated": "2025-09-23T04:19:04.17Z"
@@ -5994,15 +5998,11 @@
       {
         "version": "0.117.2025082909",
         "lastUpdated": "2025-08-29T09:49:50.913Z"
-      },
-      {
-        "version": "0.117.2025082804",
-        "lastUpdated": "2025-08-28T04:21:09.14Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
