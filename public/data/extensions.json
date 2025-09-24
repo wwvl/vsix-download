@@ -11621,9 +11621,13 @@
     "extension_name": "ms-vscode.PowerShell",
     "display_name": "PowerShell",
     "short_description": "Develop PowerShell modules, commands and scripts in Visual Studio Code!",
-    "latest_version": "2025.3.1",
-    "last_updated": "2025-06-25T23:11:05.82Z",
+    "latest_version": "2025.5.0",
+    "last_updated": "2025-09-24T18:10:55.533Z",
     "version_history": [
+      {
+        "version": "2025.5.0",
+        "lastUpdated": "2025-09-24T18:10:55.533Z"
+      },
       {
         "version": "2025.3.1",
         "lastUpdated": "2025-06-25T23:11:05.82Z"
@@ -11699,15 +11703,11 @@
       {
         "version": "2023.11.0",
         "lastUpdated": "2023-11-08T03:27:44.377Z"
-      },
-      {
-        "version": "2023.9.5",
-        "lastUpdated": "2023-10-10T23:35:06.857Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Themes", "Linters", "Debuggers", "Formatters"],
     "tags": ["color-theme", "debuggers", "keybindings", "powershell", "pwsh", "snippet", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.3.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/PowerShell/2025.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell"
   },
   {
@@ -12973,9 +12973,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.17.0",
-    "last_updated": "2025-09-23T20:56:06.37Z",
+    "latest_version": "1.18.0",
+    "last_updated": "2025-09-24T15:12:13.85Z",
     "version_history": [
+      {
+        "version": "1.18.0",
+        "lastUpdated": "2025-09-24T15:12:13.85Z"
+      },
       {
         "version": "1.17.0",
         "lastUpdated": "2025-09-23T20:56:06.37Z"
@@ -13051,15 +13055,11 @@
       {
         "version": "1.1.0",
         "lastUpdated": "2025-06-12T06:42:33.437Z"
-      },
-      {
-        "version": "1.0.0",
-        "lastUpdated": "2025-06-10T08:56:13.897Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.17.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -15132,9 +15132,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.19.2",
-    "last_updated": "2025-09-10T22:51:12.893Z",
+    "latest_version": "0.20.0",
+    "last_updated": "2025-09-24T16:21:11.343Z",
     "version_history": [
+      {
+        "version": "0.20.0",
+        "lastUpdated": "2025-09-24T16:21:11.343Z"
+      },
       {
         "version": "0.19.2",
         "lastUpdated": "2025-09-10T22:51:12.893Z"
@@ -15210,15 +15214,11 @@
       {
         "version": "0.10.0",
         "lastUpdated": "2025-04-10T22:19:47.07Z"
-      },
-      {
-        "version": "0.9.1",
-        "lastUpdated": "2025-03-14T13:33:40.613Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.19.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.20.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
