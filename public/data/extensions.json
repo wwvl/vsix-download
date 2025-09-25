@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.9.2405",
-    "last_updated": "2025-09-24T09:13:40.68Z",
+    "latest_version": "2025.9.2417",
+    "last_updated": "2025-09-24T21:29:48.953Z",
     "version_history": [
+      {
+        "version": "2025.9.2417",
+        "lastUpdated": "2025-09-24T21:29:48.953Z"
+      },
       {
         "version": "2025.9.2405",
         "lastUpdated": "2025-09-24T09:13:40.68Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.8.2205",
         "lastUpdated": "2025-08-22T09:15:20.09Z"
-      },
-      {
-        "version": "2025.8.2111",
-        "lastUpdated": "2025-08-21T15:52:35.92Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.2405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.2417/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6212,9 +6212,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.50.0",
-    "last_updated": "2025-09-17T18:18:07.2Z",
+    "latest_version": "2.51.0",
+    "last_updated": "2025-09-24T22:31:54.523Z",
     "version_history": [
+      {
+        "version": "2.51.0",
+        "lastUpdated": "2025-09-24T22:31:54.523Z"
+      },
       {
         "version": "2.50.0",
         "lastUpdated": "2025-09-17T18:18:07.2Z"
@@ -6290,15 +6294,11 @@
       {
         "version": "2.33.0",
         "lastUpdated": "2025-05-15T00:44:44.467Z"
-      },
-      {
-        "version": "2.32.0",
-        "lastUpdated": "2025-04-29T21:57:49.877Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.50.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.51.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -8976,9 +8976,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.61.12",
-    "last_updated": "2025-09-17T21:54:32.43Z",
+    "latest_version": "1.61.22",
+    "last_updated": "2025-09-24T22:40:53.41Z",
     "version_history": [
+      {
+        "version": "1.61.22",
+        "lastUpdated": "2025-09-24T22:40:53.41Z"
+      },
       {
         "version": "1.61.12",
         "lastUpdated": "2025-09-17T21:54:32.43Z"
@@ -9054,24 +9058,24 @@
       {
         "version": "1.20.32",
         "lastUpdated": "2025-05-28T19:31:02.863Z"
-      },
-      {
-        "version": "1.20.14",
-        "lastUpdated": "2025-05-20T16:46:55.763Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.61.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.61.22/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.92.18",
-    "last_updated": "2025-09-17T19:44:15.54Z",
+    "latest_version": "2.93.21",
+    "last_updated": "2025-09-24T22:44:05.44Z",
     "version_history": [
+      {
+        "version": "2.93.21",
+        "lastUpdated": "2025-09-24T22:44:05.44Z"
+      },
       {
         "version": "2.92.18",
         "lastUpdated": "2025-09-17T19:44:15.54Z"
@@ -9147,10 +9151,6 @@
       {
         "version": "2.78.15",
         "lastUpdated": "2025-05-14T21:48:37.163Z"
-      },
-      {
-        "version": "2.76.27",
-        "lastUpdated": "2025-05-14T22:30:13.557Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9173,7 +9173,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.92.18/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.93.21/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -11993,9 +11993,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250923",
-    "last_updated": "2025-09-24T00:25:24.753Z",
+    "latest_version": "6.0.20250924",
+    "last_updated": "2025-09-25T00:27:24.6Z",
     "version_history": [
+      {
+        "version": "6.0.20250924",
+        "lastUpdated": "2025-09-25T00:27:24.6Z"
+      },
       {
         "version": "6.0.20250923",
         "lastUpdated": "2025-09-24T00:25:24.753Z"
@@ -12071,15 +12075,11 @@
       {
         "version": "6.0.20250905",
         "lastUpdated": "2025-09-06T00:22:13.207Z"
-      },
-      {
-        "version": "6.0.20250903",
-        "lastUpdated": "2025-09-04T00:20:05.963Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250923/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250924/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12974,11 +12974,11 @@
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
     "latest_version": "1.18.0",
-    "last_updated": "2025-09-24T15:12:13.85Z",
+    "last_updated": "2025-09-24T19:18:27.68Z",
     "version_history": [
       {
         "version": "1.18.0",
-        "lastUpdated": "2025-09-24T15:12:13.85Z"
+        "lastUpdated": "2025-09-24T19:18:27.68Z"
       },
       {
         "version": "1.17.0",
@@ -16915,9 +16915,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025092300",
-    "last_updated": "2025-09-23T01:15:12.63Z",
+    "latest_version": "2.0.2025092500",
+    "last_updated": "2025-09-25T01:13:05.123Z",
     "version_history": [
+      {
+        "version": "2.0.2025092500",
+        "lastUpdated": "2025-09-25T01:13:05.123Z"
+      },
       {
         "version": "2.0.2025092300",
         "lastUpdated": "2025-09-23T01:15:12.63Z"
@@ -16993,10 +16997,6 @@
       {
         "version": "2.0.2025082800",
         "lastUpdated": "2025-08-28T01:03:30.27Z"
-      },
-      {
-        "version": "2.0.2025082600",
-        "lastUpdated": "2025-08-26T01:11:35.96Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17015,7 +17015,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025092300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025092500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
