@@ -5513,9 +5513,17 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025092509",
-    "last_updated": "2025-09-25T04:28:07.623Z",
+    "latest_version": "0.32.2025092602",
+    "last_updated": "2025-09-26T05:30:08.48Z",
     "version_history": [
+      {
+        "version": "0.32.2025092602",
+        "lastUpdated": "2025-09-26T05:30:08.48Z"
+      },
+      {
+        "version": "0.32.2025092601",
+        "lastUpdated": "2025-09-26T04:32:27.78Z"
+      },
       {
         "version": "0.32.2025092509",
         "lastUpdated": "2025-09-25T04:28:07.623Z"
@@ -5587,14 +5595,6 @@
       {
         "version": "0.31.2025090902",
         "lastUpdated": "2025-09-09T16:59:24.083Z"
-      },
-      {
-        "version": "0.31.2025090803",
-        "lastUpdated": "2025-09-08T21:30:54.473Z"
-      },
-      {
-        "version": "0.31.2025090802",
-        "lastUpdated": "2025-09-08T05:52:10.383Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5630,7 +5630,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025092509/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025092602/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11160,9 +11160,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.9",
-    "last_updated": "2025-09-11T04:10:46.58Z",
+    "latest_version": "1.22.10",
+    "last_updated": "2025-09-26T04:32:28.077Z",
     "version_history": [
+      {
+        "version": "1.22.10",
+        "lastUpdated": "2025-09-26T04:32:28.077Z"
+      },
       {
         "version": "1.22.9",
         "lastUpdated": "2025-09-11T04:10:46.58Z"
@@ -11238,15 +11242,11 @@
       {
         "version": "1.21.28",
         "lastUpdated": "2025-05-23T04:29:19.083Z"
-      },
-      {
-        "version": "1.21.27",
-        "lastUpdated": "2025-05-20T04:24:59.497Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -16923,9 +16923,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025092500",
-    "last_updated": "2025-09-25T01:13:05.123Z",
+    "latest_version": "2.0.2025092605",
+    "last_updated": "2025-09-26T05:32:32.443Z",
     "version_history": [
+      {
+        "version": "2.0.2025092605",
+        "lastUpdated": "2025-09-26T05:32:32.443Z"
+      },
       {
         "version": "2.0.2025092500",
         "lastUpdated": "2025-09-25T01:13:05.123Z"
@@ -17001,10 +17005,6 @@
       {
         "version": "2.0.2025082812",
         "lastUpdated": "2025-08-28T13:05:56.907Z"
-      },
-      {
-        "version": "2.0.2025082800",
-        "lastUpdated": "2025-08-28T01:03:30.27Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17023,7 +17023,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025092500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025092605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
