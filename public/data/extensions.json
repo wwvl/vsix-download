@@ -5396,9 +5396,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.375.1792",
-    "last_updated": "2025-09-23T20:38:16.667Z",
+    "latest_version": "1.376.1794",
+    "last_updated": "2025-09-26T15:30:55.25Z",
     "version_history": [
+      {
+        "version": "1.376.1794",
+        "lastUpdated": "2025-09-26T15:30:55.25Z"
+      },
       {
         "version": "1.375.1792",
         "lastUpdated": "2025-09-23T20:38:16.667Z"
@@ -5474,10 +5478,6 @@
       {
         "version": "1.363.1762",
         "lastUpdated": "2025-08-27T16:21:56.04Z"
-      },
-      {
-        "version": "1.362.1760",
-        "lastUpdated": "2025-08-27T01:47:27.29Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5506,7 +5506,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.375.1792/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.376.1794/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -5916,9 +5916,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025092504",
-    "last_updated": "2025-09-25T04:19:53.567Z",
+    "latest_version": "0.119.2025092616",
+    "last_updated": "2025-09-26T16:39:21.467Z",
     "version_history": [
+      {
+        "version": "0.119.2025092616",
+        "lastUpdated": "2025-09-26T16:39:21.467Z"
+      },
       {
         "version": "0.119.2025092504",
         "lastUpdated": "2025-09-25T04:19:53.567Z"
@@ -5994,15 +5998,11 @@
       {
         "version": "0.117.2025090404",
         "lastUpdated": "2025-09-04T04:18:48.113Z"
-      },
-      {
-        "version": "0.117.2025090304",
-        "lastUpdated": "2025-09-03T04:20:46.46Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025092616/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -14561,9 +14561,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.31.1",
-    "last_updated": "2025-09-25T06:42:13.65Z",
+    "latest_version": "3.32.0",
+    "last_updated": "2025-09-26T18:15:03.577Z",
     "version_history": [
+      {
+        "version": "3.32.0",
+        "lastUpdated": "2025-09-26T18:15:03.577Z"
+      },
       {
         "version": "3.31.1",
         "lastUpdated": "2025-09-25T06:42:13.65Z"
@@ -14639,15 +14643,11 @@
       {
         "version": "3.26.7",
         "lastUpdated": "2025-08-29T22:48:09.153Z"
-      },
-      {
-        "version": "3.26.6",
-        "lastUpdated": "2025-08-28T02:17:53.38Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.31.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.32.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
