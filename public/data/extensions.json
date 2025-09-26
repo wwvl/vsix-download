@@ -5968,6 +5968,10 @@
         "lastUpdated": "2025-09-11T12:32:46.383Z"
       },
       {
+        "version": "0.118.2",
+        "lastUpdated": "2025-09-26T09:25:47.71Z"
+      },
+      {
         "version": "0.118.1",
         "lastUpdated": "2025-09-15T20:47:03.95Z"
       },
@@ -5994,10 +5998,6 @@
       {
         "version": "0.117.2025090304",
         "lastUpdated": "2025-09-03T04:20:46.46Z"
-      },
-      {
-        "version": "0.117.2025090204",
-        "lastUpdated": "2025-09-02T04:19:27.17Z"
       }
     ],
     "categories": ["AI", "Chat"],
@@ -13854,9 +13854,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025092508",
-    "last_updated": "2025-09-25T08:30:20.53Z",
+    "latest_version": "1.46.2025092608",
+    "last_updated": "2025-09-26T08:29:16.903Z",
     "version_history": [
+      {
+        "version": "1.46.2025092608",
+        "lastUpdated": "2025-09-26T08:29:16.903Z"
+      },
       {
         "version": "1.46.2025092508",
         "lastUpdated": "2025-09-25T08:30:20.53Z"
@@ -13932,15 +13936,11 @@
       {
         "version": "1.44.2025073008",
         "lastUpdated": "2025-07-30T08:29:06.787Z"
-      },
-      {
-        "version": "1.44.2025072508",
-        "lastUpdated": "2025-07-25T08:30:49.123Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025092508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025092608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -16676,9 +16676,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.28.2",
-    "last_updated": "2025-08-18T10:19:14.95Z",
+    "latest_version": "1.30.0",
+    "last_updated": "2025-09-26T12:08:08.77Z",
     "version_history": [
+      {
+        "version": "1.30.0",
+        "lastUpdated": "2025-09-26T12:08:08.77Z"
+      },
       {
         "version": "1.28.2",
         "lastUpdated": "2025-08-18T10:19:14.95Z"
@@ -16754,15 +16758,11 @@
       {
         "version": "1.20.2",
         "lastUpdated": "2025-06-03T18:51:11.307Z"
-      },
-      {
-        "version": "1.20.1",
-        "lastUpdated": "2025-06-03T18:16:01.907Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.28.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.30.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
@@ -17228,6 +17228,10 @@
         "lastUpdated": "2025-09-23T02:22:56.3Z"
       },
       {
+        "version": "0.25.2",
+        "lastUpdated": "2025-09-26T09:20:01.307Z"
+      },
+      {
         "version": "0.25.0",
         "lastUpdated": "2025-09-23T06:01:43.59Z"
       },
@@ -17294,10 +17298,6 @@
       {
         "version": "0.23.2023072200",
         "lastUpdated": "2023-07-22T00:11:05.27Z"
-      },
-      {
-        "version": "0.23.2023060200",
-        "lastUpdated": "2023-06-02T00:14:15.92Z"
       }
     ],
     "categories": ["Other"],
@@ -17309,9 +17309,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.30.1",
-    "last_updated": "2025-09-23T07:59:58.543Z",
+    "latest_version": "0.30.2",
+    "last_updated": "2025-09-26T09:21:40.663Z",
     "version_history": [
+      {
+        "version": "0.30.2",
+        "lastUpdated": "2025-09-26T09:21:40.663Z"
+      },
       {
         "version": "0.30.1",
         "lastUpdated": "2025-09-23T07:59:58.543Z"
@@ -17387,15 +17391,11 @@
       {
         "version": "0.27.2024062708",
         "lastUpdated": "2024-06-27T08:22:31.603Z"
-      },
-      {
-        "version": "0.27.2024062103",
-        "lastUpdated": "2024-06-21T05:20:12.763Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
