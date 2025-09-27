@@ -3463,9 +3463,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.61.17926",
-    "last_updated": "2025-09-23T13:20:41.01Z",
+    "latest_version": "1.61.17940",
+    "last_updated": "2025-09-27T15:15:34.43Z",
     "version_history": [
+      {
+        "version": "1.61.17940",
+        "lastUpdated": "2025-09-27T15:15:34.43Z"
+      },
       {
         "version": "1.61.17926",
         "lastUpdated": "2025-09-23T13:20:41.01Z"
@@ -3541,15 +3545,11 @@
       {
         "version": "1.59.17638",
         "lastUpdated": "2025-07-08T20:25:33.183Z"
-      },
-      {
-        "version": "1.59.17595",
-        "lastUpdated": "2025-07-03T14:35:48.52Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.61.17926/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.61.17940/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4221,11 +4221,11 @@
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
     "latest_version": "2025.9.2705",
-    "last_updated": "2025-09-27T09:07:15.053Z",
+    "last_updated": "2025-09-27T09:11:33.633Z",
     "version_history": [
       {
         "version": "2025.9.2705",
-        "lastUpdated": "2025-09-27T09:07:15.053Z"
+        "lastUpdated": "2025-09-27T09:11:33.633Z"
       },
       {
         "version": "2025.9.2505",
@@ -7339,9 +7339,13 @@
     "extension_name": "JohnnyMorganz.luau-lsp",
     "display_name": "Luau Language Server",
     "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.53.5",
-    "last_updated": "2025-09-20T16:19:10.817Z",
+    "latest_version": "1.54.0",
+    "last_updated": "2025-09-27T16:25:56.863Z",
     "version_history": [
+      {
+        "version": "1.54.0",
+        "lastUpdated": "2025-09-27T16:25:56.863Z"
+      },
       {
         "version": "1.53.5",
         "lastUpdated": "2025-09-20T16:19:10.817Z"
@@ -7417,15 +7421,11 @@
       {
         "version": "1.43.0",
         "lastUpdated": "2025-04-19T17:18:49.77Z"
-      },
-      {
-        "version": "1.42.1",
-        "lastUpdated": "2025-04-06T13:42:12.67Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.53.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.54.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
