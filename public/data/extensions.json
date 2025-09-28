@@ -8127,11 +8127,15 @@
   },
   {
     "extension_name": "MarsCode.marscode-extension",
-    "display_name": "Trae AI (formerly MarsCode): Coding Assistant",
+    "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.2.58",
-    "last_updated": "2025-09-18T02:56:38.97Z",
+    "latest_version": "1.3.1",
+    "last_updated": "2025-09-28T14:31:42.49Z",
     "version_history": [
+      {
+        "version": "1.3.1",
+        "lastUpdated": "2025-09-28T14:31:42.49Z"
+      },
       {
         "version": "1.2.58",
         "lastUpdated": "2025-09-18T02:56:38.97Z"
@@ -8207,10 +8211,6 @@
       {
         "version": "1.2.37",
         "lastUpdated": "2025-07-30T16:12:03.8Z"
-      },
-      {
-        "version": "1.2.35",
-        "lastUpdated": "2025-07-29T14:44:02.787Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8244,7 +8244,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.2.58/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -18211,9 +18211,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.0.8",
-    "last_updated": "2025-09-22T16:45:43.29Z",
+    "latest_version": "3.1.0",
+    "last_updated": "2025-09-28T14:09:14.157Z",
     "version_history": [
+      {
+        "version": "3.1.0",
+        "lastUpdated": "2025-09-28T14:09:14.157Z"
+      },
       {
         "version": "3.0.8",
         "lastUpdated": "2025-09-22T16:45:43.29Z"
@@ -18289,15 +18293,11 @@
       {
         "version": "2.1.4",
         "lastUpdated": "2024-08-31T19:03:44.863Z"
-      },
-      {
-        "version": "2.1.2",
-        "lastUpdated": "2024-08-29T08:28:48.287Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.0.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
