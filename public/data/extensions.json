@@ -2087,9 +2087,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.7.0",
-    "last_updated": "2025-09-17T22:25:58.05Z",
+    "latest_version": "3.7.1",
+    "last_updated": "2025-09-28T00:46:51.29Z",
     "version_history": [
+      {
+        "version": "3.7.1",
+        "lastUpdated": "2025-09-28T00:46:51.29Z"
+      },
       {
         "version": "3.7.0",
         "lastUpdated": "2025-09-17T22:25:58.05Z"
@@ -2165,10 +2169,6 @@
       {
         "version": "2.15.1",
         "lastUpdated": "2025-04-13T20:36:43.657Z"
-      },
-      {
-        "version": "2.15.0",
-        "lastUpdated": "2025-04-13T20:30:26.78Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2190,7 +2190,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.7.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.7.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -11997,9 +11997,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250926",
-    "last_updated": "2025-09-27T00:17:30.543Z",
+    "latest_version": "6.0.20250927",
+    "last_updated": "2025-09-28T00:14:56.007Z",
     "version_history": [
+      {
+        "version": "6.0.20250927",
+        "lastUpdated": "2025-09-28T00:14:56.007Z"
+      },
       {
         "version": "6.0.20250926",
         "lastUpdated": "2025-09-27T00:17:30.543Z"
@@ -12075,15 +12079,11 @@
       {
         "version": "6.0.20250908",
         "lastUpdated": "2025-09-09T00:13:50.263Z"
-      },
-      {
-        "version": "6.0.20250907",
-        "lastUpdated": "2025-09-08T00:14:26.337Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250926/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250927/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14260,9 +14260,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2626",
-    "last_updated": "2025-09-27T00:54:32.903Z",
+    "latest_version": "0.4.2627",
+    "last_updated": "2025-09-28T01:09:26.177Z",
     "version_history": [
+      {
+        "version": "0.4.2627",
+        "lastUpdated": "2025-09-28T01:09:26.177Z"
+      },
       {
         "version": "0.4.2626",
         "lastUpdated": "2025-09-27T00:54:32.903Z"
@@ -14338,15 +14342,11 @@
       {
         "version": "0.4.2597",
         "lastUpdated": "2025-08-29T01:09:50.81Z"
-      },
-      {
-        "version": "0.4.2596",
-        "lastUpdated": "2025-08-28T01:00:07.657Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2626/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2627/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
