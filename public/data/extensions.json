@@ -14561,9 +14561,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.32.0",
-    "last_updated": "2025-09-26T18:15:03.577Z",
+    "latest_version": "3.32.1",
+    "last_updated": "2025-09-28T07:28:29.77Z",
     "version_history": [
+      {
+        "version": "3.32.1",
+        "lastUpdated": "2025-09-28T07:28:29.77Z"
+      },
       {
         "version": "3.32.0",
         "lastUpdated": "2025-09-26T18:15:03.577Z"
@@ -14639,15 +14643,11 @@
       {
         "version": "3.27.0",
         "lastUpdated": "2025-09-01T12:52:17.52Z"
-      },
-      {
-        "version": "3.26.7",
-        "lastUpdated": "2025-08-29T22:48:09.153Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.32.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.32.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -15845,9 +15845,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.4.6868618",
-    "last_updated": "2025-09-16T03:45:49.433Z",
+    "latest_version": "3.5.8164661",
+    "last_updated": "2025-09-28T08:49:34.663Z",
     "version_history": [
+      {
+        "version": "3.5.8164661",
+        "lastUpdated": "2025-09-28T08:49:34.663Z"
+      },
       {
         "version": "3.4.6868618",
         "lastUpdated": "2025-09-16T03:45:49.433Z"
@@ -15923,10 +15927,6 @@
       {
         "version": "3.1.10",
         "lastUpdated": "2025-04-24T16:51:11.72Z"
-      },
-      {
-        "version": "3.1.9",
-        "lastUpdated": "2025-04-23T07:12:55.723Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15955,7 +15955,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.4.6868618/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.5.8164661/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
