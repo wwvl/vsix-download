@@ -17216,9 +17216,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.25.2025092303",
-    "last_updated": "2025-09-23T04:43:07.927Z",
+    "latest_version": "0.26.2025092801",
+    "last_updated": "2025-09-28T02:34:47.827Z",
     "version_history": [
+      {
+        "version": "0.26.2025092801",
+        "lastUpdated": "2025-09-28T02:34:47.827Z"
+      },
       {
         "version": "0.25.2025092303",
         "lastUpdated": "2025-09-23T04:43:07.927Z"
@@ -17294,24 +17298,24 @@
       {
         "version": "0.23.2023080300",
         "lastUpdated": "2023-08-03T00:12:15.093Z"
-      },
-      {
-        "version": "0.23.2023072200",
-        "lastUpdated": "2023-07-22T00:11:05.27Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.25.2025092303/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025092801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.30.2",
-    "last_updated": "2025-09-26T09:21:40.663Z",
+    "latest_version": "0.30.2025092800",
+    "last_updated": "2025-09-28T02:32:43.853Z",
     "version_history": [
+      {
+        "version": "0.30.2025092800",
+        "lastUpdated": "2025-09-28T02:32:43.853Z"
+      },
       {
         "version": "0.30.2",
         "lastUpdated": "2025-09-26T09:21:40.663Z"
@@ -17387,15 +17391,11 @@
       {
         "version": "0.27.2024071908",
         "lastUpdated": "2024-07-19T08:34:52.927Z"
-      },
-      {
-        "version": "0.27.2024062708",
-        "lastUpdated": "2024-06-27T08:22:31.603Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025092800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
