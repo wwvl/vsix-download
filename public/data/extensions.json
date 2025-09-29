@@ -2905,9 +2905,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.119.20250925",
-    "last_updated": "2025-09-25T17:35:04.877Z",
+    "latest_version": "3.119.20250929",
+    "last_updated": "2025-09-29T11:17:02.783Z",
     "version_history": [
+      {
+        "version": "3.119.20250929",
+        "lastUpdated": "2025-09-29T11:17:02.783Z"
+      },
       {
         "version": "3.119.20250925",
         "lastUpdated": "2025-09-25T17:35:04.877Z"
@@ -2983,15 +2987,11 @@
       {
         "version": "3.115.20250702",
         "lastUpdated": "2025-07-02T18:19:14.133Z"
-      },
-      {
-        "version": "3.115.20250701",
-        "lastUpdated": "2025-07-01T11:23:00.37Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250925/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250929/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5918,11 +5918,11 @@
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
     "latest_version": "0.119.2025092904",
-    "last_updated": "2025-09-29T04:18:42.707Z",
+    "last_updated": "2025-09-29T04:13:48.593Z",
     "version_history": [
       {
         "version": "0.119.2025092904",
-        "lastUpdated": "2025-09-29T04:18:42.707Z"
+        "lastUpdated": "2025-09-29T04:13:48.593Z"
       },
       {
         "version": "0.119.2025092700",
@@ -12982,9 +12982,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.18.0",
-    "last_updated": "2025-09-24T19:18:27.68Z",
+    "latest_version": "1.19.0",
+    "last_updated": "2025-09-29T09:57:20.693Z",
     "version_history": [
+      {
+        "version": "1.19.0",
+        "lastUpdated": "2025-09-29T09:57:20.693Z"
+      },
       {
         "version": "1.18.0",
         "lastUpdated": "2025-09-24T19:18:27.68Z"
@@ -13060,15 +13064,11 @@
       {
         "version": "1.2.0",
         "lastUpdated": "2025-06-19T04:32:43.183Z"
-      },
-      {
-        "version": "1.1.0",
-        "lastUpdated": "2025-06-12T06:42:33.437Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.19.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
