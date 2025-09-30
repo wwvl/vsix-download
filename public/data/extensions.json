@@ -2905,9 +2905,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.119.20250929",
-    "last_updated": "2025-09-29T11:17:02.783Z",
+    "latest_version": "3.121.20250930",
+    "last_updated": "2025-09-30T09:49:21.527Z",
     "version_history": [
+      {
+        "version": "3.121.20250930",
+        "lastUpdated": "2025-09-30T09:49:21.527Z"
+      },
+      {
+        "version": "3.120.0",
+        "lastUpdated": "2025-09-30T09:49:02.013Z"
+      },
       {
         "version": "3.119.20250929",
         "lastUpdated": "2025-09-29T11:17:02.783Z"
@@ -2979,28 +2987,28 @@
       {
         "version": "3.115.20250724",
         "lastUpdated": "2025-07-24T15:42:55.527Z"
-      },
-      {
-        "version": "3.115.20250715",
-        "lastUpdated": "2025-07-15T14:31:27.137Z"
-      },
-      {
-        "version": "3.115.20250702",
-        "lastUpdated": "2025-07-02T18:19:14.133Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.119.20250929/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20250930/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.119.20250901",
-    "last_updated": "2025-09-01T10:05:38.61Z",
+    "latest_version": "3.121.20250930",
+    "last_updated": "2025-09-30T09:46:02.923Z",
     "version_history": [
+      {
+        "version": "3.121.20250930",
+        "lastUpdated": "2025-09-30T09:46:02.923Z"
+      },
+      {
+        "version": "3.120.0",
+        "lastUpdated": "2025-09-30T09:45:34.72Z"
+      },
       {
         "version": "3.119.20250901",
         "lastUpdated": "2025-09-01T10:05:38.61Z"
@@ -3072,19 +3080,11 @@
       {
         "version": "3.103.20241202",
         "lastUpdated": "2024-12-02T12:00:14.437Z"
-      },
-      {
-        "version": "3.102.0",
-        "lastUpdated": "2024-12-02T11:56:43.01Z"
-      },
-      {
-        "version": "3.101.20241031",
-        "lastUpdated": "2024-10-31T13:15:02.253Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.119.20250901/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.121.20250930/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.9.2705",
-    "last_updated": "2025-09-27T09:11:33.633Z",
+    "latest_version": "2025.9.3005",
+    "last_updated": "2025-09-30T09:13:01.963Z",
     "version_history": [
+      {
+        "version": "2025.9.3005",
+        "lastUpdated": "2025-09-30T09:13:01.963Z"
+      },
       {
         "version": "2025.9.2705",
         "lastUpdated": "2025-09-27T09:11:33.633Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.8.2613",
         "lastUpdated": "2025-08-26T17:50:43.27Z"
-      },
-      {
-        "version": "2025.8.2612",
-        "lastUpdated": "2025-08-26T16:25:22.39Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.2705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.3005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8130,9 +8130,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.3.3",
-    "last_updated": "2025-09-29T13:09:12.093Z",
+    "latest_version": "1.3.4",
+    "last_updated": "2025-09-30T08:46:38.943Z",
     "version_history": [
+      {
+        "version": "1.3.4",
+        "lastUpdated": "2025-09-30T08:46:38.943Z"
+      },
       {
         "version": "1.3.3",
         "lastUpdated": "2025-09-29T13:09:12.093Z"
@@ -8208,10 +8212,6 @@
       {
         "version": "1.2.39",
         "lastUpdated": "2025-08-03T14:55:07.88Z"
-      },
-      {
-        "version": "1.2.38",
-        "lastUpdated": "2025-07-31T08:20:56.44Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8245,7 +8245,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -13855,9 +13855,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025092608",
-    "last_updated": "2025-09-26T08:29:16.903Z",
+    "latest_version": "1.46.2025093008",
+    "last_updated": "2025-09-30T08:26:55.167Z",
     "version_history": [
+      {
+        "version": "1.46.2025093008",
+        "lastUpdated": "2025-09-30T08:26:55.167Z"
+      },
       {
         "version": "1.46.2025092608",
         "lastUpdated": "2025-09-26T08:29:16.903Z"
@@ -13933,15 +13937,11 @@
       {
         "version": "1.45.0",
         "lastUpdated": "2025-09-04T13:43:20.997Z"
-      },
-      {
-        "version": "1.44.2025073008",
-        "lastUpdated": "2025-07-30T08:29:06.787Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025092608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025093008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
