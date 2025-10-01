@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.9.3005",
-    "last_updated": "2025-09-30T09:13:01.963Z",
+    "latest_version": "2025.10.105",
+    "last_updated": "2025-10-01T09:13:16.59Z",
     "version_history": [
+      {
+        "version": "2025.10.105",
+        "lastUpdated": "2025-10-01T09:13:16.59Z"
+      },
       {
         "version": "2025.9.3005",
         "lastUpdated": "2025-09-30T09:13:01.963Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.8.2705",
         "lastUpdated": "2025-08-27T09:12:17.743Z"
-      },
-      {
-        "version": "2025.8.2613",
-        "lastUpdated": "2025-08-26T17:50:43.27Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.9.3005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5391,123 +5391,6 @@
     "tags": ["continueOn", "json", "jsonc", "remote-menu"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
-  },
-  {
-    "extension_name": "GitHub.copilot",
-    "display_name": "GitHub Copilot",
-    "short_description": "Your AI pair programmer",
-    "latest_version": "1.376.1794",
-    "last_updated": "2025-09-26T15:30:55.25Z",
-    "version_history": [
-      {
-        "version": "1.376.1794",
-        "lastUpdated": "2025-09-26T15:30:55.25Z"
-      },
-      {
-        "version": "1.375.1792",
-        "lastUpdated": "2025-09-23T20:38:16.667Z"
-      },
-      {
-        "version": "1.373.1788",
-        "lastUpdated": "2025-09-17T21:07:16.093Z"
-      },
-      {
-        "version": "1.372.0",
-        "lastUpdated": "2025-09-15T19:19:26.82Z"
-      },
-      {
-        "version": "1.371.1785",
-        "lastUpdated": "2025-09-15T17:13:00.6Z"
-      },
-      {
-        "version": "1.370.1783",
-        "lastUpdated": "2025-09-11T18:40:53.017Z"
-      },
-      {
-        "version": "1.368.1780",
-        "lastUpdated": "2025-09-10T13:49:41.39Z"
-      },
-      {
-        "version": "1.368.0",
-        "lastUpdated": "2025-09-09T21:10:10.77Z"
-      },
-      {
-        "version": "1.367.1778",
-        "lastUpdated": "2025-09-09T16:28:04.52Z"
-      },
-      {
-        "version": "1.367.1777",
-        "lastUpdated": "2025-09-04T15:58:55.9Z"
-      },
-      {
-        "version": "1.366.1775",
-        "lastUpdated": "2025-09-03T01:47:30.11Z"
-      },
-      {
-        "version": "1.364.1772",
-        "lastUpdated": "2025-09-02T16:19:53.997Z"
-      },
-      {
-        "version": "1.364.1769",
-        "lastUpdated": "2025-09-01T01:48:45.04Z"
-      },
-      {
-        "version": "1.364.1768",
-        "lastUpdated": "2025-08-29T16:20:46.107Z"
-      },
-      {
-        "version": "1.364.1767",
-        "lastUpdated": "2025-08-29T01:50:23.977Z"
-      },
-      {
-        "version": "1.364.0",
-        "lastUpdated": "2025-08-28T15:42:41.303Z"
-      },
-      {
-        "version": "1.363.1765",
-        "lastUpdated": "2025-08-28T13:18:40.86Z"
-      },
-      {
-        "version": "1.363.1764",
-        "lastUpdated": "2025-08-28T01:47:47.303Z"
-      },
-      {
-        "version": "1.363.1763",
-        "lastUpdated": "2025-08-27T20:24:26.213Z"
-      },
-      {
-        "version": "1.363.1762",
-        "lastUpdated": "2025-08-27T16:21:56.04Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
-    "tags": [
-      "ai",
-      "autocomplete",
-      "c#",
-      "c++",
-      "code-referencing",
-      "codex",
-      "co-pilot",
-      "documentation",
-      "go",
-      "golang",
-      "intellisense",
-      "java",
-      "javascript",
-      "keybindings",
-      "kotlin",
-      "openai",
-      "php",
-      "pilot",
-      "python",
-      "refactor",
-      "ruby",
-      "snippets",
-      "typescript"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.376.1794/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
@@ -8888,9 +8771,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.105.2025092409",
-    "last_updated": "2025-09-24T09:15:25.82Z",
+    "latest_version": "1.105.2025100109",
+    "last_updated": "2025-10-01T09:21:42.033Z",
     "version_history": [
+      {
+        "version": "1.105.2025100109",
+        "lastUpdated": "2025-10-01T09:21:42.033Z"
+      },
       {
         "version": "1.105.2025092409",
         "lastUpdated": "2025-09-24T09:15:25.82Z"
@@ -8966,15 +8853,11 @@
       {
         "version": "1.100.2025051409",
         "lastUpdated": "2025-05-14T09:18:35.36Z"
-      },
-      {
-        "version": "1.100.2025050709",
-        "lastUpdated": "2025-05-07T09:19:14.607Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.105.2025092409/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.105.2025100109/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -13859,9 +13742,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025093008",
-    "last_updated": "2025-09-30T08:26:55.167Z",
+    "latest_version": "1.46.2025100108",
+    "last_updated": "2025-10-01T08:26:02.11Z",
     "version_history": [
+      {
+        "version": "1.46.2025100108",
+        "lastUpdated": "2025-10-01T08:26:02.11Z"
+      },
       {
         "version": "1.46.2025093008",
         "lastUpdated": "2025-09-30T08:26:55.167Z"
@@ -13937,15 +13824,11 @@
       {
         "version": "1.45.2025080108",
         "lastUpdated": "2025-08-01T08:28:18.383Z"
-      },
-      {
-        "version": "1.45.0",
-        "lastUpdated": "2025-09-04T13:43:20.997Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025093008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025100108/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14265,9 +14148,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2630",
-    "last_updated": "2025-10-01T01:18:49.117Z",
+    "latest_version": "0.4.2631",
+    "last_updated": "2025-10-01T11:06:41.187Z",
     "version_history": [
+      {
+        "version": "0.4.2631",
+        "lastUpdated": "2025-10-01T11:06:41.187Z"
+      },
       {
         "version": "0.4.2630",
         "lastUpdated": "2025-10-01T01:18:49.117Z"
@@ -14343,15 +14230,11 @@
       {
         "version": "0.4.2602",
         "lastUpdated": "2025-09-03T01:02:07.493Z"
-      },
-      {
-        "version": "0.4.2601",
-        "lastUpdated": "2025-09-02T00:54:43.243Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2630/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2631/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
