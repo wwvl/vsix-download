@@ -5513,9 +5513,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025093001",
-    "last_updated": "2025-09-30T04:24:07.49Z",
+    "latest_version": "0.32.2025100101",
+    "last_updated": "2025-10-01T04:26:06.903Z",
     "version_history": [
+      {
+        "version": "0.32.2025100101",
+        "lastUpdated": "2025-10-01T04:26:06.903Z"
+      },
       {
         "version": "0.32.2025093001",
         "lastUpdated": "2025-09-30T04:24:07.49Z"
@@ -5591,10 +5595,6 @@
       {
         "version": "0.31.2025091003",
         "lastUpdated": "2025-09-10T13:26:30.68Z"
-      },
-      {
-        "version": "0.31.2025091002",
-        "lastUpdated": "2025-09-10T09:08:08.323Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5631,7 +5631,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025093001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5917,9 +5917,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.119.2025093004",
-    "last_updated": "2025-09-30T04:18:44.223Z",
+    "latest_version": "0.119.2025100104",
+    "last_updated": "2025-10-01T04:18:40.66Z",
     "version_history": [
+      {
+        "version": "0.119.2025100104",
+        "lastUpdated": "2025-10-01T04:18:40.66Z"
+      },
       {
         "version": "0.119.2025093004",
         "lastUpdated": "2025-09-30T04:18:44.223Z"
@@ -5995,15 +5999,11 @@
       {
         "version": "0.118.0",
         "lastUpdated": "2025-09-11T12:37:00.183Z"
-      },
-      {
-        "version": "0.117.2025091009",
-        "lastUpdated": "2025-09-10T09:32:43.057Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025093004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.119.2025100104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11905,9 +11905,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.250929001",
-    "last_updated": "2025-09-29T03:01:19.94Z",
+    "latest_version": "0.13.251001001",
+    "last_updated": "2025-10-01T03:04:11.27Z",
     "version_history": [
+      {
+        "version": "0.13.251001001",
+        "lastUpdated": "2025-10-01T03:04:11.27Z"
+      },
       {
         "version": "0.13.250929001",
         "lastUpdated": "2025-09-29T03:01:19.94Z"
@@ -11983,15 +11987,11 @@
       {
         "version": "0.13.250809001",
         "lastUpdated": "2025-08-09T03:03:36.48Z"
-      },
-      {
-        "version": "0.13.250807001",
-        "lastUpdated": "2025-08-07T03:05:02.933Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.250929001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251001001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -18718,9 +18718,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.479",
-    "last_updated": "2025-09-30T22:49:24.83Z",
+    "latest_version": "1.0.481",
+    "last_updated": "2025-10-01T03:33:46.91Z",
     "version_history": [
+      {
+        "version": "1.0.481",
+        "lastUpdated": "2025-10-01T03:33:46.91Z"
+      },
+      {
+        "version": "1.0.480",
+        "lastUpdated": "2025-10-01T03:01:44.587Z"
+      },
       {
         "version": "1.0.479",
         "lastUpdated": "2025-09-30T22:49:24.83Z"
@@ -18792,19 +18800,11 @@
       {
         "version": "1.0.459",
         "lastUpdated": "2025-07-15T22:09:48.463Z"
-      },
-      {
-        "version": "1.0.458",
-        "lastUpdated": "2025-07-10T22:38:53.313Z"
-      },
-      {
-        "version": "1.0.457",
-        "lastUpdated": "2025-07-09T06:29:34.16Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.479/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.481/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
