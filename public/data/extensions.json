@@ -5393,6 +5393,123 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
   },
   {
+    "extension_name": "GitHub.copilot",
+    "display_name": "GitHub Copilot",
+    "short_description": "Your AI pair programmer",
+    "latest_version": "1.376.1794",
+    "last_updated": "2025-09-26T15:30:55.25Z",
+    "version_history": [
+      {
+        "version": "1.376.1794",
+        "lastUpdated": "2025-09-26T15:30:55.25Z"
+      },
+      {
+        "version": "1.375.1792",
+        "lastUpdated": "2025-09-23T20:38:16.667Z"
+      },
+      {
+        "version": "1.373.1788",
+        "lastUpdated": "2025-09-17T21:07:16.093Z"
+      },
+      {
+        "version": "1.372.0",
+        "lastUpdated": "2025-09-15T19:19:26.82Z"
+      },
+      {
+        "version": "1.371.1785",
+        "lastUpdated": "2025-09-15T17:13:00.6Z"
+      },
+      {
+        "version": "1.370.1783",
+        "lastUpdated": "2025-09-11T18:40:53.017Z"
+      },
+      {
+        "version": "1.368.1780",
+        "lastUpdated": "2025-09-10T13:49:41.39Z"
+      },
+      {
+        "version": "1.368.0",
+        "lastUpdated": "2025-09-09T21:10:10.77Z"
+      },
+      {
+        "version": "1.367.1778",
+        "lastUpdated": "2025-09-09T16:28:04.52Z"
+      },
+      {
+        "version": "1.367.1777",
+        "lastUpdated": "2025-09-04T15:58:55.9Z"
+      },
+      {
+        "version": "1.366.1775",
+        "lastUpdated": "2025-09-03T01:47:30.11Z"
+      },
+      {
+        "version": "1.364.1772",
+        "lastUpdated": "2025-09-02T16:19:53.997Z"
+      },
+      {
+        "version": "1.364.1769",
+        "lastUpdated": "2025-09-01T01:48:45.04Z"
+      },
+      {
+        "version": "1.364.1768",
+        "lastUpdated": "2025-08-29T16:20:46.107Z"
+      },
+      {
+        "version": "1.364.1767",
+        "lastUpdated": "2025-08-29T01:50:23.977Z"
+      },
+      {
+        "version": "1.364.0",
+        "lastUpdated": "2025-08-28T15:42:41.303Z"
+      },
+      {
+        "version": "1.363.1765",
+        "lastUpdated": "2025-08-28T13:18:40.86Z"
+      },
+      {
+        "version": "1.363.1764",
+        "lastUpdated": "2025-08-28T01:47:47.303Z"
+      },
+      {
+        "version": "1.363.1763",
+        "lastUpdated": "2025-08-27T20:24:26.213Z"
+      },
+      {
+        "version": "1.363.1762",
+        "lastUpdated": "2025-08-27T16:21:56.04Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
+    "tags": [
+      "ai",
+      "autocomplete",
+      "c#",
+      "c++",
+      "code-referencing",
+      "codex",
+      "co-pilot",
+      "documentation",
+      "go",
+      "golang",
+      "intellisense",
+      "java",
+      "javascript",
+      "keybindings",
+      "kotlin",
+      "openai",
+      "php",
+      "pilot",
+      "python",
+      "refactor",
+      "ruby",
+      "snippets",
+      "typescript"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.376.1794/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
+  },
+  {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
@@ -13835,9 +13952,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.19.0",
-    "last_updated": "2025-09-25T15:28:34.487Z",
+    "latest_version": "1.20.2025100113",
+    "last_updated": "2025-10-01T14:02:36.08Z",
     "version_history": [
+      {
+        "version": "1.20.2025100113",
+        "lastUpdated": "2025-10-01T14:02:36.08Z"
+      },
       {
         "version": "1.19.0",
         "lastUpdated": "2025-09-25T15:28:34.487Z"
@@ -13913,15 +14034,11 @@
       {
         "version": "1.5.0",
         "lastUpdated": "2022-03-07T09:54:42.417Z"
-      },
-      {
-        "version": "1.4.0",
-        "lastUpdated": "2022-02-04T07:16:49.24Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.19.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025100113/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -15028,9 +15145,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.20.0",
-    "last_updated": "2025-09-24T16:21:11.343Z",
+    "latest_version": "0.21.0",
+    "last_updated": "2025-10-01T12:53:40.617Z",
     "version_history": [
+      {
+        "version": "0.21.0",
+        "lastUpdated": "2025-10-01T12:53:40.617Z"
+      },
       {
         "version": "0.20.0",
         "lastUpdated": "2025-09-24T16:21:11.343Z"
@@ -15106,15 +15227,11 @@
       {
         "version": "0.10.1",
         "lastUpdated": "2025-04-18T22:25:22.667Z"
-      },
-      {
-        "version": "0.10.0",
-        "lastUpdated": "2025-04-10T22:19:47.07Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.21.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
