@@ -1427,9 +1427,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.576.0",
-    "last_updated": "2025-09-29T22:32:34.487Z",
+    "latest_version": "0.578.0",
+    "last_updated": "2025-09-30T23:52:11.717Z",
     "version_history": [
+      {
+        "version": "0.578.0",
+        "lastUpdated": "2025-09-30T23:52:11.717Z"
+      },
       {
         "version": "0.576.0",
         "lastUpdated": "2025-09-29T22:32:34.487Z"
@@ -1437,6 +1441,10 @@
       {
         "version": "0.575.0",
         "lastUpdated": "2025-09-29T19:18:31.113Z"
+      },
+      {
+        "version": "0.571.3",
+        "lastUpdated": "2025-10-01T00:00:26.607Z"
       },
       {
         "version": "0.571.2",
@@ -1501,14 +1509,6 @@
       {
         "version": "0.552.0",
         "lastUpdated": "2025-09-10T17:06:33.107Z"
-      },
-      {
-        "version": "0.551.0",
-        "lastUpdated": "2025-09-09T17:05:34.903Z"
-      },
-      {
-        "version": "0.550.0",
-        "lastUpdated": "2025-09-08T17:11:32.26Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1545,7 +1545,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.576.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.578.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -11998,9 +11998,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20250929",
-    "last_updated": "2025-09-30T00:16:03.863Z",
+    "latest_version": "6.0.20250930",
+    "last_updated": "2025-10-01T00:14:40.507Z",
     "version_history": [
+      {
+        "version": "6.0.20250930",
+        "lastUpdated": "2025-10-01T00:14:40.507Z"
+      },
       {
         "version": "6.0.20250929",
         "lastUpdated": "2025-09-30T00:16:03.863Z"
@@ -12076,15 +12080,11 @@
       {
         "version": "6.0.20250911",
         "lastUpdated": "2025-09-12T00:16:19.21Z"
-      },
-      {
-        "version": "6.0.20250910",
-        "lastUpdated": "2025-09-11T00:17:35.297Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250929/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20250930/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12848,9 +12848,13 @@
     "extension_name": "Oracle.oracle-java",
     "display_name": "Java",
     "short_description": "Java Platform Extension for Visual Studio Code",
-    "latest_version": "24.1.1",
-    "last_updated": "2025-09-25T15:48:02.383Z",
+    "latest_version": "24.1.2",
+    "last_updated": "2025-09-30T18:33:10.92Z",
     "version_history": [
+      {
+        "version": "24.1.2",
+        "lastUpdated": "2025-09-30T18:33:10.92Z"
+      },
       {
         "version": "24.1.1",
         "lastUpdated": "2025-09-25T15:48:02.383Z"
@@ -12902,7 +12906,7 @@
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["debuggers", "Gradle", "jackpot-hint", "java", "Java Hints", "java properties", "javascript", "JDK", "json", "junit", "keybindings", "Maven", "multiroot", "multi-root ready", "OpenJDK"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/24.1.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/24.1.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java"
   },
   {
@@ -14261,9 +14265,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2629",
-    "last_updated": "2025-09-30T01:02:45.53Z",
+    "latest_version": "0.4.2630",
+    "last_updated": "2025-10-01T01:18:49.117Z",
     "version_history": [
+      {
+        "version": "0.4.2630",
+        "lastUpdated": "2025-10-01T01:18:49.117Z"
+      },
       {
         "version": "0.4.2629",
         "lastUpdated": "2025-09-30T01:02:45.53Z"
@@ -14339,15 +14347,11 @@
       {
         "version": "0.4.2601",
         "lastUpdated": "2025-09-02T00:54:43.243Z"
-      },
-      {
-        "version": "0.4.2599",
-        "lastUpdated": "2025-08-31T00:56:32.42Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2629/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2630/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -18714,9 +18718,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.478",
-    "last_updated": "2025-09-30T03:58:48.797Z",
+    "latest_version": "1.0.479",
+    "last_updated": "2025-09-30T22:49:24.83Z",
     "version_history": [
+      {
+        "version": "1.0.479",
+        "lastUpdated": "2025-09-30T22:49:24.83Z"
+      },
       {
         "version": "1.0.478",
         "lastUpdated": "2025-09-30T03:58:48.797Z"
@@ -18792,15 +18800,11 @@
       {
         "version": "1.0.457",
         "lastUpdated": "2025-07-09T06:29:34.16Z"
-      },
-      {
-        "version": "1.0.456",
-        "lastUpdated": "2025-07-01T22:14:31.597Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.478/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.479/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
