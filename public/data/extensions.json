@@ -3788,91 +3788,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
   },
   {
-    "extension_name": "DominicVonk.parameter-hints",
-    "display_name": "Parameter Hints",
-    "short_description": "Automatic parameter hints",
-    "latest_version": "0.2.7",
-    "last_updated": "2020-11-25T15:22:23.663Z",
-    "version_history": [
-      {
-        "version": "0.2.7",
-        "lastUpdated": "2020-11-25T15:22:23.663Z"
-      },
-      {
-        "version": "0.2.6",
-        "lastUpdated": "2020-11-25T15:14:41.823Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2020-09-09T11:07:35.933Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2020-08-21T07:03:12.04Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2020-08-17T08:50:02.753Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2020-08-16T06:24:01.89Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2020-08-15T18:19:24.95Z"
-      },
-      {
-        "version": "0.1.4",
-        "lastUpdated": "2020-08-11T13:53:40.587Z"
-      },
-      {
-        "version": "0.1.3",
-        "lastUpdated": "2020-08-11T07:32:42.627Z"
-      },
-      {
-        "version": "0.1.1",
-        "lastUpdated": "2020-08-10T22:31:04.853Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2020-08-10T19:42:49.19Z"
-      },
-      {
-        "version": "0.0.8",
-        "lastUpdated": "2020-08-07T18:53:35.02Z"
-      },
-      {
-        "version": "0.0.7",
-        "lastUpdated": "2020-08-06T21:46:26.29Z"
-      },
-      {
-        "version": "0.0.6",
-        "lastUpdated": "2020-08-06T21:44:24.63Z"
-      },
-      {
-        "version": "0.0.4",
-        "lastUpdated": "2020-08-06T21:41:00.377Z"
-      },
-      {
-        "version": "0.0.3",
-        "lastUpdated": "2020-08-06T09:22:40.713Z"
-      },
-      {
-        "version": "0.0.2",
-        "lastUpdated": "2020-08-06T08:35:38.653Z"
-      },
-      {
-        "version": "0.0.1",
-        "lastUpdated": "2020-08-06T06:26:27.677Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DominicVonk/vsextensions/parameter-hints/0.2.7/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints"
-  },
-  {
     "extension_name": "DotJoshJohnson.xml",
     "display_name": "XML Tools",
     "short_description": "XML Formatting, XQuery, and XPath Tools for Visual Studio Code",
@@ -4220,9 +4135,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.105",
-    "last_updated": "2025-10-01T09:13:16.59Z",
+    "latest_version": "2025.10.205",
+    "last_updated": "2025-10-02T09:12:32.347Z",
     "version_history": [
+      {
+        "version": "2025.10.205",
+        "lastUpdated": "2025-10-02T09:12:32.347Z"
+      },
       {
         "version": "2025.10.105",
         "lastUpdated": "2025-10-01T09:13:16.59Z"
@@ -4298,109 +4217,12 @@
       {
         "version": "2025.9.405",
         "lastUpdated": "2025-09-04T09:15:18.347Z"
-      },
-      {
-        "version": "2025.8.2705",
-        "lastUpdated": "2025-08-27T09:12:17.743Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
-  },
-  {
-    "extension_name": "EditorConfig.EditorConfig",
-    "display_name": "EditorConfig for VS Code",
-    "short_description": "EditorConfig Support for Visual Studio Code",
-    "latest_version": "0.17.4",
-    "last_updated": "2025-06-02T16:33:47.03Z",
-    "version_history": [
-      {
-        "version": "0.17.4",
-        "lastUpdated": "2025-06-02T16:33:47.03Z"
-      },
-      {
-        "version": "0.17.3",
-        "lastUpdated": "2025-05-31T20:37:21.18Z"
-      },
-      {
-        "version": "0.17.2",
-        "lastUpdated": "2025-03-10T19:08:46.573Z"
-      },
-      {
-        "version": "0.17.1",
-        "lastUpdated": "2025-02-20T13:57:35.147Z"
-      },
-      {
-        "version": "0.17.0",
-        "lastUpdated": "2025-02-11T14:59:20.11Z"
-      },
-      {
-        "version": "0.16.7",
-        "lastUpdated": "2025-02-06T17:13:03.743Z"
-      },
-      {
-        "version": "0.16.4",
-        "lastUpdated": "2020-12-07T04:39:32.08Z"
-      },
-      {
-        "version": "0.16.3",
-        "lastUpdated": "2020-11-25T18:09:55.977Z"
-      },
-      {
-        "version": "0.16.2",
-        "lastUpdated": "2020-11-25T17:50:39.93Z"
-      },
-      {
-        "version": "0.16.1",
-        "lastUpdated": "2020-11-25T01:13:50.86Z"
-      },
-      {
-        "version": "0.16.0",
-        "lastUpdated": "2020-11-25T00:46:32.38Z"
-      },
-      {
-        "version": "0.15.5",
-        "lastUpdated": "2020-11-24T20:37:50.72Z"
-      },
-      {
-        "version": "0.15.4",
-        "lastUpdated": "2020-11-24T19:40:55.28Z"
-      },
-      {
-        "version": "0.15.3",
-        "lastUpdated": "2020-11-24T19:02:49.367Z"
-      },
-      {
-        "version": "0.15.2",
-        "lastUpdated": "2020-11-24T17:45:38.77Z"
-      },
-      {
-        "version": "0.15.1",
-        "lastUpdated": "2020-05-25T01:49:28.83Z"
-      },
-      {
-        "version": "0.15.0",
-        "lastUpdated": "2020-05-22T13:00:48.107Z"
-      },
-      {
-        "version": "0.14.5",
-        "lastUpdated": "2020-04-08T01:09:22.32Z"
-      },
-      {
-        "version": "0.14.4",
-        "lastUpdated": "2019-12-18T21:31:40.79Z"
-      },
-      {
-        "version": "0.14.3",
-        "lastUpdated": "2019-12-13T07:46:32.09Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["config", "editor", "editorconfig", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.4/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
   {
     "extension_name": "Equinusocio.vsc-material-theme-icons",
@@ -5513,9 +5335,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025100101",
-    "last_updated": "2025-10-01T04:26:06.903Z",
+    "latest_version": "0.32.2025100203",
+    "last_updated": "2025-10-02T10:31:14.333Z",
     "version_history": [
+      {
+        "version": "0.32.2025100203",
+        "lastUpdated": "2025-10-02T10:31:14.333Z"
+      },
       {
         "version": "0.32.2025100101",
         "lastUpdated": "2025-10-01T04:26:06.903Z"
@@ -5591,10 +5417,6 @@
       {
         "version": "0.32.2025091102",
         "lastUpdated": "2025-09-11T13:06:51.793Z"
-      },
-      {
-        "version": "0.31.2025091003",
-        "lastUpdated": "2025-09-10T13:26:30.68Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5631,7 +5453,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9691,9 +9513,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.13.2025091201",
-    "last_updated": "2025-09-12T10:39:21.113Z",
+    "latest_version": "2025.15.2025100201",
+    "last_updated": "2025-10-02T10:41:53.61Z",
     "version_history": [
+      {
+        "version": "2025.15.2025100201",
+        "lastUpdated": "2025-10-02T10:41:53.61Z"
+      },
       {
         "version": "2025.13.2025091201",
         "lastUpdated": "2025-09-12T10:39:21.113Z"
@@ -9769,15 +9595,11 @@
       {
         "version": "2025.4.0",
         "lastUpdated": "2025-03-05T19:17:31.11Z"
-      },
-      {
-        "version": "2025.3.2025030403",
-        "lastUpdated": "2025-03-04T18:30:39.087Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.13.2025091201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025100201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10063,9 +9885,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.15.2025092201",
-    "last_updated": "2025-09-22T10:47:37.37Z",
+    "latest_version": "2025.17.2025100201",
+    "last_updated": "2025-10-02T10:52:26.39Z",
     "version_history": [
+      {
+        "version": "2025.17.2025100201",
+        "lastUpdated": "2025-10-02T10:52:26.39Z"
+      },
       {
         "version": "2025.15.2025092201",
         "lastUpdated": "2025-09-22T10:47:37.37Z"
@@ -10141,10 +9967,6 @@
       {
         "version": "2025.11.2025071501",
         "lastUpdated": "2025-07-15T10:45:37.733Z"
-      },
-      {
-        "version": "2025.11.2025071403",
-        "lastUpdated": "2025-07-14T22:02:41.1Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10167,7 +9989,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.15.2025092201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.17.2025100201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -13859,9 +13681,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.46.2025100108",
-    "last_updated": "2025-10-01T08:26:02.11Z",
+    "latest_version": "1.46.2025100208",
+    "last_updated": "2025-10-02T08:25:08.843Z",
     "version_history": [
+      {
+        "version": "1.46.2025100208",
+        "lastUpdated": "2025-10-02T08:25:08.843Z"
+      },
       {
         "version": "1.46.2025100108",
         "lastUpdated": "2025-10-01T08:26:02.11Z"
@@ -13937,15 +13763,11 @@
       {
         "version": "1.45.2025080608",
         "lastUpdated": "2025-08-06T08:28:40.383Z"
-      },
-      {
-        "version": "1.45.2025080108",
-        "lastUpdated": "2025-08-01T08:28:18.383Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025100108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.46.2025100208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -16928,9 +16750,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025100200",
-    "last_updated": "2025-10-02T01:03:33.67Z",
+    "latest_version": "2.0.2025100206",
+    "last_updated": "2025-10-02T07:37:59.67Z",
     "version_history": [
+      {
+        "version": "2.0.2025100206",
+        "lastUpdated": "2025-10-02T07:37:59.67Z"
+      },
       {
         "version": "2.0.2025100200",
         "lastUpdated": "2025-10-02T01:03:33.67Z"
@@ -17006,10 +16832,6 @@
       {
         "version": "2.0.2025090306",
         "lastUpdated": "2025-09-03T07:14:53.983Z"
-      },
-      {
-        "version": "2.0.2025090215",
-        "lastUpdated": "2025-09-02T16:10:37.62Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17028,7 +16850,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025100200/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025100206/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
