@@ -1901,9 +1901,13 @@
     "extension_name": "bradlc.vscode-tailwindcss",
     "display_name": "Tailwind CSS IntelliSense",
     "short_description": "Intelligent Tailwind CSS tooling for VS Code",
-    "latest_version": "0.14.26",
-    "last_updated": "2025-08-01T18:49:08.09Z",
+    "latest_version": "0.14.27",
+    "last_updated": "2025-10-02T17:54:27.357Z",
     "version_history": [
+      {
+        "version": "0.14.27",
+        "lastUpdated": "2025-10-02T17:54:27.357Z"
+      },
       {
         "version": "0.14.26",
         "lastUpdated": "2025-08-01T18:49:08.09Z"
@@ -1979,15 +1983,11 @@
       {
         "version": "0.14.8",
         "lastUpdated": "2025-02-26T18:19:30.907Z"
-      },
-      {
-        "version": "0.14.7",
-        "lastUpdated": "2025-02-25T16:45:03.717Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["autocomplete", "css", "intellisense", "tailwind", "Tailwind CSS", "tailwindcss", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.26/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bradlc/vsextensions/vscode-tailwindcss/0.14.27/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
   },
   {
@@ -3788,6 +3788,91 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
   },
   {
+    "extension_name": "DominicVonk.parameter-hints",
+    "display_name": "Parameter Hints",
+    "short_description": "Automatic parameter hints",
+    "latest_version": "0.2.7",
+    "last_updated": "2020-11-25T15:22:23.663Z",
+    "version_history": [
+      {
+        "version": "0.2.7",
+        "lastUpdated": "2020-11-25T15:22:23.663Z"
+      },
+      {
+        "version": "0.2.6",
+        "lastUpdated": "2020-11-25T15:14:41.823Z"
+      },
+      {
+        "version": "0.2.5",
+        "lastUpdated": "2020-09-09T11:07:35.933Z"
+      },
+      {
+        "version": "0.2.3",
+        "lastUpdated": "2020-08-21T07:03:12.04Z"
+      },
+      {
+        "version": "0.2.2",
+        "lastUpdated": "2020-08-17T08:50:02.753Z"
+      },
+      {
+        "version": "0.2.1",
+        "lastUpdated": "2020-08-16T06:24:01.89Z"
+      },
+      {
+        "version": "0.2.0",
+        "lastUpdated": "2020-08-15T18:19:24.95Z"
+      },
+      {
+        "version": "0.1.4",
+        "lastUpdated": "2020-08-11T13:53:40.587Z"
+      },
+      {
+        "version": "0.1.3",
+        "lastUpdated": "2020-08-11T07:32:42.627Z"
+      },
+      {
+        "version": "0.1.1",
+        "lastUpdated": "2020-08-10T22:31:04.853Z"
+      },
+      {
+        "version": "0.1.0",
+        "lastUpdated": "2020-08-10T19:42:49.19Z"
+      },
+      {
+        "version": "0.0.8",
+        "lastUpdated": "2020-08-07T18:53:35.02Z"
+      },
+      {
+        "version": "0.0.7",
+        "lastUpdated": "2020-08-06T21:46:26.29Z"
+      },
+      {
+        "version": "0.0.6",
+        "lastUpdated": "2020-08-06T21:44:24.63Z"
+      },
+      {
+        "version": "0.0.4",
+        "lastUpdated": "2020-08-06T21:41:00.377Z"
+      },
+      {
+        "version": "0.0.3",
+        "lastUpdated": "2020-08-06T09:22:40.713Z"
+      },
+      {
+        "version": "0.0.2",
+        "lastUpdated": "2020-08-06T08:35:38.653Z"
+      },
+      {
+        "version": "0.0.1",
+        "lastUpdated": "2020-08-06T06:26:27.677Z"
+      }
+    ],
+    "categories": ["Other"],
+    "tags": [],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DominicVonk/vsextensions/parameter-hints/0.2.7/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints"
+  },
+  {
     "extension_name": "DotJoshJohnson.xml",
     "display_name": "XML Tools",
     "short_description": "XML Formatting, XQuery, and XPath Tools for Visual Studio Code",
@@ -4223,6 +4308,99 @@
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
+  },
+  {
+    "extension_name": "EditorConfig.EditorConfig",
+    "display_name": "EditorConfig for VS Code",
+    "short_description": "EditorConfig Support for Visual Studio Code",
+    "latest_version": "0.17.4",
+    "last_updated": "2025-06-02T16:33:47.03Z",
+    "version_history": [
+      {
+        "version": "0.17.4",
+        "lastUpdated": "2025-06-02T16:33:47.03Z"
+      },
+      {
+        "version": "0.17.3",
+        "lastUpdated": "2025-05-31T20:37:21.18Z"
+      },
+      {
+        "version": "0.17.2",
+        "lastUpdated": "2025-03-10T19:08:46.573Z"
+      },
+      {
+        "version": "0.17.1",
+        "lastUpdated": "2025-02-20T13:57:35.147Z"
+      },
+      {
+        "version": "0.17.0",
+        "lastUpdated": "2025-02-11T14:59:20.11Z"
+      },
+      {
+        "version": "0.16.7",
+        "lastUpdated": "2025-02-06T17:13:03.743Z"
+      },
+      {
+        "version": "0.16.4",
+        "lastUpdated": "2020-12-07T04:39:32.08Z"
+      },
+      {
+        "version": "0.16.3",
+        "lastUpdated": "2020-11-25T18:09:55.977Z"
+      },
+      {
+        "version": "0.16.2",
+        "lastUpdated": "2020-11-25T17:50:39.93Z"
+      },
+      {
+        "version": "0.16.1",
+        "lastUpdated": "2020-11-25T01:13:50.86Z"
+      },
+      {
+        "version": "0.16.0",
+        "lastUpdated": "2020-11-25T00:46:32.38Z"
+      },
+      {
+        "version": "0.15.5",
+        "lastUpdated": "2020-11-24T20:37:50.72Z"
+      },
+      {
+        "version": "0.15.4",
+        "lastUpdated": "2020-11-24T19:40:55.28Z"
+      },
+      {
+        "version": "0.15.3",
+        "lastUpdated": "2020-11-24T19:02:49.367Z"
+      },
+      {
+        "version": "0.15.2",
+        "lastUpdated": "2020-11-24T17:45:38.77Z"
+      },
+      {
+        "version": "0.15.1",
+        "lastUpdated": "2020-05-25T01:49:28.83Z"
+      },
+      {
+        "version": "0.15.0",
+        "lastUpdated": "2020-05-22T13:00:48.107Z"
+      },
+      {
+        "version": "0.14.5",
+        "lastUpdated": "2020-04-08T01:09:22.32Z"
+      },
+      {
+        "version": "0.14.4",
+        "lastUpdated": "2019-12-18T21:31:40.79Z"
+      },
+      {
+        "version": "0.14.3",
+        "lastUpdated": "2019-12-13T07:46:32.09Z"
+      }
+    ],
+    "categories": ["Other"],
+    "tags": ["config", "editor", "editorconfig", "multi-root ready"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/EditorConfig/vsextensions/EditorConfig/0.17.4/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig"
   },
   {
     "extension_name": "Equinusocio.vsc-material-theme-icons",
