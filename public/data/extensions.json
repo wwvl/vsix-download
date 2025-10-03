@@ -6213,9 +6213,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.51.0",
-    "last_updated": "2025-09-24T22:31:54.523Z",
+    "latest_version": "2.52.0",
+    "last_updated": "2025-10-03T03:04:41.547Z",
     "version_history": [
+      {
+        "version": "2.52.0",
+        "lastUpdated": "2025-10-03T03:04:41.547Z"
+      },
       {
         "version": "2.51.0",
         "lastUpdated": "2025-09-24T22:31:54.523Z"
@@ -6291,15 +6295,11 @@
       {
         "version": "2.34.0",
         "lastUpdated": "2025-05-28T01:33:27.537Z"
-      },
-      {
-        "version": "2.33.0",
-        "lastUpdated": "2025-05-15T00:44:44.467Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.51.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.52.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
