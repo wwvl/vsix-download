@@ -5824,9 +5824,13 @@
     "extension_name": "GitHub.vscode-github-actions",
     "display_name": "GitHub Actions",
     "short_description": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code",
-    "latest_version": "0.27.2",
-    "last_updated": "2025-06-05T16:11:32.277Z",
+    "latest_version": "0.28.0",
+    "last_updated": "2025-10-02T20:06:31.6Z",
     "version_history": [
+      {
+        "version": "0.28.0",
+        "lastUpdated": "2025-10-02T20:06:31.6Z"
+      },
       {
         "version": "0.27.2",
         "lastUpdated": "2025-06-05T16:11:32.277Z"
@@ -5902,15 +5906,11 @@
       {
         "version": "0.24.2",
         "lastUpdated": "2022-08-01T16:45:05.963Z"
-      },
-      {
-        "version": "0.24.1",
-        "lastUpdated": "2022-04-22T23:35:50.497Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["GitHub Actions Workflow", "github-actions-workflow"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.27.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.28.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions"
   },
   {
@@ -11998,9 +11998,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251001",
-    "last_updated": "2025-10-02T00:25:50.61Z",
+    "latest_version": "6.0.20251002",
+    "last_updated": "2025-10-03T00:16:32.957Z",
     "version_history": [
+      {
+        "version": "6.0.20251002",
+        "lastUpdated": "2025-10-03T00:16:32.957Z"
+      },
       {
         "version": "6.0.20251001",
         "lastUpdated": "2025-10-02T00:25:50.61Z"
@@ -12076,15 +12080,11 @@
       {
         "version": "6.0.20250913",
         "lastUpdated": "2025-09-14T00:15:47.227Z"
-      },
-      {
-        "version": "6.0.20250912",
-        "lastUpdated": "2025-09-13T00:18:07.17Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12596,99 +12596,6 @@
     "tags": ["html", "livereload", "preview"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/negokaz/vsextensions/live-server-preview/0.1.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=negokaz.live-server-preview"
-  },
-  {
-    "extension_name": "nikhilweee.vsleet",
-    "display_name": "vsleet",
-    "short_description": "Submit LeetCode problems directly from VSCode",
-    "latest_version": "0.2.9",
-    "last_updated": "2025-03-27T05:16:01.58Z",
-    "version_history": [
-      {
-        "version": "0.2.9",
-        "lastUpdated": "2025-03-27T05:16:01.58Z"
-      },
-      {
-        "version": "0.2.8",
-        "lastUpdated": "2025-02-17T07:38:07.213Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2024-11-30T01:47:31.13Z"
-      },
-      {
-        "version": "0.2.4",
-        "lastUpdated": "2024-11-20T03:16:39.5Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2024-11-18T08:26:51.1Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2024-11-18T07:43:44.943Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2024-11-18T06:17:57.28Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2024-11-18T05:52:04.667Z"
-      },
-      {
-        "version": "0.1.13",
-        "lastUpdated": "2024-01-08T05:06:25.85Z"
-      },
-      {
-        "version": "0.1.12",
-        "lastUpdated": "2024-01-07T21:48:50.797Z"
-      },
-      {
-        "version": "0.1.11",
-        "lastUpdated": "2024-01-07T21:26:44.477Z"
-      },
-      {
-        "version": "0.1.10",
-        "lastUpdated": "2024-01-07T00:25:27.62Z"
-      },
-      {
-        "version": "0.1.9",
-        "lastUpdated": "2023-11-12T18:46:16.193Z"
-      },
-      {
-        "version": "0.1.8",
-        "lastUpdated": "2023-11-11T18:46:13.897Z"
-      },
-      {
-        "version": "0.1.7",
-        "lastUpdated": "2023-11-11T17:31:26.033Z"
-      },
-      {
-        "version": "0.1.6",
-        "lastUpdated": "2023-11-11T16:54:58.397Z"
-      },
-      {
-        "version": "0.1.5",
-        "lastUpdated": "2023-11-10T05:38:33.73Z"
-      },
-      {
-        "version": "0.1.4",
-        "lastUpdated": "2023-11-05T19:58:05.56Z"
-      },
-      {
-        "version": "0.1.3",
-        "lastUpdated": "2023-11-05T19:53:15.93Z"
-      },
-      {
-        "version": "0.1.2",
-        "lastUpdated": "2023-11-03T05:59:31.513Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["keybindings", "leetcode", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nikhilweee/vsextensions/vsleet/0.2.9/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=nikhilweee.vsleet"
   },
   {
     "extension_name": "Nuxt.mdc",
@@ -13919,6 +13826,10 @@
         "lastUpdated": "2025-09-05T08:31:56.483Z"
       },
       {
+        "version": "1.46.0",
+        "lastUpdated": "2025-10-02T20:03:42.767Z"
+      },
+      {
         "version": "1.45.2025090308",
         "lastUpdated": "2025-09-03T08:26:22.877Z"
       },
@@ -13937,10 +13848,6 @@
       {
         "version": "1.45.2025080808",
         "lastUpdated": "2025-08-08T08:37:06.34Z"
-      },
-      {
-        "version": "1.45.2025080608",
-        "lastUpdated": "2025-08-06T08:28:40.383Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
@@ -14473,9 +14380,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "64.14.0",
-    "last_updated": "2025-09-18T18:58:17.653Z",
+    "latest_version": "64.16.1",
+    "last_updated": "2025-10-02T23:09:18.28Z",
     "version_history": [
+      {
+        "version": "64.16.1",
+        "lastUpdated": "2025-10-02T23:09:18.28Z"
+      },
       {
         "version": "64.14.0",
         "lastUpdated": "2025-09-18T18:58:17.653Z"
@@ -14551,15 +14462,11 @@
       {
         "version": "63.10.0",
         "lastUpdated": "2025-04-23T11:19:35.77Z"
-      },
-      {
-        "version": "63.9.2",
-        "lastUpdated": "2025-04-17T18:53:46.42Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.14.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/64.16.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
