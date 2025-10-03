@@ -1573,27 +1573,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
-    "extension_name": "BeilunYang.cursor-rules",
-    "display_name": "Cursor Rules",
-    "short_description": "An extension for Cursor and VSCode that lets you pull .cursorrules files from the https://github.com/PatrickJS/awesome-cursorrules repository",
-    "latest_version": "0.2.0",
-    "last_updated": "2024-11-25T17:00:51.35Z",
-    "version_history": [
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2024-11-25T17:00:51.35Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2024-11-11T18:19:44.89Z"
-      }
-    ],
-    "categories": ["AI"],
-    "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BeilunYang/vsextensions/cursor-rules/0.2.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BeilunYang.cursor-rules"
-  },
-  {
     "extension_name": "bierner.emojisense",
     "display_name": ":emojisense:",
     "short_description": "Adds suggestions and autocomplete for emoji",
@@ -3528,91 +3507,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-preview"
   },
   {
-    "extension_name": "DominicVonk.parameter-hints",
-    "display_name": "Parameter Hints",
-    "short_description": "Automatic parameter hints",
-    "latest_version": "0.2.7",
-    "last_updated": "2020-11-25T15:22:23.663Z",
-    "version_history": [
-      {
-        "version": "0.2.7",
-        "lastUpdated": "2020-11-25T15:22:23.663Z"
-      },
-      {
-        "version": "0.2.6",
-        "lastUpdated": "2020-11-25T15:14:41.823Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2020-09-09T11:07:35.933Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2020-08-21T07:03:12.04Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2020-08-17T08:50:02.753Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2020-08-16T06:24:01.89Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2020-08-15T18:19:24.95Z"
-      },
-      {
-        "version": "0.1.4",
-        "lastUpdated": "2020-08-11T13:53:40.587Z"
-      },
-      {
-        "version": "0.1.3",
-        "lastUpdated": "2020-08-11T07:32:42.627Z"
-      },
-      {
-        "version": "0.1.1",
-        "lastUpdated": "2020-08-10T22:31:04.853Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2020-08-10T19:42:49.19Z"
-      },
-      {
-        "version": "0.0.8",
-        "lastUpdated": "2020-08-07T18:53:35.02Z"
-      },
-      {
-        "version": "0.0.7",
-        "lastUpdated": "2020-08-06T21:46:26.29Z"
-      },
-      {
-        "version": "0.0.6",
-        "lastUpdated": "2020-08-06T21:44:24.63Z"
-      },
-      {
-        "version": "0.0.4",
-        "lastUpdated": "2020-08-06T21:41:00.377Z"
-      },
-      {
-        "version": "0.0.3",
-        "lastUpdated": "2020-08-06T09:22:40.713Z"
-      },
-      {
-        "version": "0.0.2",
-        "lastUpdated": "2020-08-06T08:35:38.653Z"
-      },
-      {
-        "version": "0.0.1",
-        "lastUpdated": "2020-08-06T06:26:27.677Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DominicVonk/vsextensions/parameter-hints/0.2.7/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints"
-  },
-  {
     "extension_name": "DotJoshJohnson.xml",
     "display_name": "XML Tools",
     "short_description": "XML Formatting, XQuery, and XPath Tools for Visual Studio Code",
@@ -4744,67 +4638,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format"
   },
   {
-    "extension_name": "gep13.chocolatey-vscode",
-    "display_name": "Chocolatey",
-    "short_description": "Set of snippets and commands for helping with creating packages for Chocolatey.",
-    "latest_version": "0.7.2",
-    "last_updated": "2020-08-12T20:35:35.727Z",
-    "version_history": [
-      {
-        "version": "0.7.2",
-        "lastUpdated": "2020-08-12T20:35:35.727Z"
-      },
-      {
-        "version": "0.7.1",
-        "lastUpdated": "2019-05-28T07:16:38.763Z"
-      },
-      {
-        "version": "0.7.0",
-        "lastUpdated": "2019-01-26T20:16:11.84Z"
-      },
-      {
-        "version": "0.6.0",
-        "lastUpdated": "2018-12-01T22:35:50.753Z"
-      },
-      {
-        "version": "0.5.0",
-        "lastUpdated": "2018-11-27T21:20:14.877Z"
-      },
-      {
-        "version": "0.4.1",
-        "lastUpdated": "2018-11-27T08:32:34.93Z"
-      },
-      {
-        "version": "0.4.0",
-        "lastUpdated": "2018-11-24T22:28:49.997Z"
-      },
-      {
-        "version": "0.3.0",
-        "lastUpdated": "2018-09-10T09:54:20.933Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2016-01-26T13:01:31.47Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2016-01-10T14:20:11.307Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2016-01-10T14:15:33.31Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2016-01-09T22:45:27.823Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["snippet", "zip"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gep13/vsextensions/chocolatey-vscode/0.7.2/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gep13.chocolatey-vscode"
-  },
-  {
     "extension_name": "gera2ld.markmap-vscode",
     "display_name": "Markmap",
     "short_description": "Visualize your markdown in VSCode",
@@ -4896,83 +4729,6 @@
     "tags": ["markdown", "markmap", "mindmap"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/gera2ld/vsextensions/markmap-vscode/0.2.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode"
-  },
-  {
-    "extension_name": "GeriYoco.vscode-image-gallery",
-    "display_name": "Image Gallery",
-    "short_description": "Improve image browsing experience, especially for remote development.",
-    "latest_version": "1.2.1",
-    "last_updated": "2022-09-28T16:26:23.283Z",
-    "version_history": [
-      {
-        "version": "1.2.1",
-        "lastUpdated": "2022-09-28T16:26:23.283Z"
-      },
-      {
-        "version": "1.2.0",
-        "lastUpdated": "2022-09-21T16:07:23.84Z"
-      },
-      {
-        "version": "1.0.0",
-        "lastUpdated": "2022-09-12T16:51:32.813Z"
-      },
-      {
-        "version": "0.4.1",
-        "lastUpdated": "2022-08-01T22:38:27.27Z"
-      },
-      {
-        "version": "0.4.0",
-        "lastUpdated": "2022-07-30T20:42:58.677Z"
-      },
-      {
-        "version": "0.2.7",
-        "lastUpdated": "2022-06-26T16:12:44.387Z"
-      },
-      {
-        "version": "0.2.6",
-        "lastUpdated": "2022-06-23T14:45:54.547Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2022-05-14T18:45:18.783Z"
-      },
-      {
-        "version": "0.2.4",
-        "lastUpdated": "2022-05-12T13:51:53.29Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2022-05-01T14:10:42.377Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2022-04-27T20:39:34.06Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2022-04-20T12:29:34.653Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2022-04-18T12:12:46.17Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2022-04-17T22:51:25.343Z"
-      },
-      {
-        "version": "0.0.2",
-        "lastUpdated": "2022-04-11T11:32:36.72Z"
-      },
-      {
-        "version": "0.0.1",
-        "lastUpdated": "2022-04-10T14:30:11.853Z"
-      }
-    ],
-    "categories": ["Data Science", "Machine Learning", "Visualization"],
-    "tags": ["image", "remote", "remote development", "view", "visualization"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GeriYoco/vsextensions/vscode-image-gallery/1.2.1/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GeriYoco.vscode-image-gallery"
   },
   {
     "extension_name": "GitHub.codespaces",
@@ -5188,9 +4944,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025100203",
-    "last_updated": "2025-10-02T10:31:14.333Z",
+    "latest_version": "0.32.2025100302",
+    "last_updated": "2025-10-03T16:22:13.193Z",
     "version_history": [
+      {
+        "version": "0.32.2025100302",
+        "lastUpdated": "2025-10-03T16:22:13.193Z"
+      },
       {
         "version": "0.32.2025100203",
         "lastUpdated": "2025-10-02T10:31:14.333Z"
@@ -5266,10 +5026,6 @@
       {
         "version": "0.32.2025091201",
         "lastUpdated": "2025-09-12T04:28:27.667Z"
-      },
-      {
-        "version": "0.32.2025091102",
-        "lastUpdated": "2025-09-11T13:06:51.793Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5306,7 +5062,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100203/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6297,99 +6053,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree"
   },
   {
-    "extension_name": "GuodongSun.vscode-git-cruise",
-    "display_name": "Git History",
-    "short_description": "Git history panel in your VS Code",
-    "latest_version": "0.2.6",
-    "last_updated": "2025-08-13T01:30:26.333Z",
-    "version_history": [
-      {
-        "version": "0.2.6",
-        "lastUpdated": "2025-08-13T01:30:26.333Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2025-02-19T12:50:53.58Z"
-      },
-      {
-        "version": "0.2.4",
-        "lastUpdated": "2023-06-20T16:30:12.943Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2022-11-27T14:43:04.18Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2022-11-14T14:23:59.483Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2022-10-23T11:16:27.387Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2022-10-23T11:02:00.527Z"
-      },
-      {
-        "version": "0.1.14",
-        "lastUpdated": "2022-10-17T15:46:08.017Z"
-      },
-      {
-        "version": "0.1.13",
-        "lastUpdated": "2022-10-09T15:07:35.83Z"
-      },
-      {
-        "version": "0.1.12",
-        "lastUpdated": "2022-10-08T14:35:40.103Z"
-      },
-      {
-        "version": "0.1.11",
-        "lastUpdated": "2022-10-05T14:56:33.793Z"
-      },
-      {
-        "version": "0.1.10",
-        "lastUpdated": "2022-10-04T03:29:21.617Z"
-      },
-      {
-        "version": "0.1.9",
-        "lastUpdated": "2022-10-02T01:33:17.403Z"
-      },
-      {
-        "version": "0.1.8",
-        "lastUpdated": "2022-10-01T14:51:44.597Z"
-      },
-      {
-        "version": "0.1.7",
-        "lastUpdated": "2022-07-19T13:27:17.237Z"
-      },
-      {
-        "version": "0.1.6",
-        "lastUpdated": "2022-07-18T04:18:20.72Z"
-      },
-      {
-        "version": "0.1.5",
-        "lastUpdated": "2022-07-17T09:49:33.407Z"
-      },
-      {
-        "version": "0.1.4",
-        "lastUpdated": "2022-07-16T14:01:43.017Z"
-      },
-      {
-        "version": "0.1.3",
-        "lastUpdated": "2022-07-04T13:37:31.843Z"
-      },
-      {
-        "version": "0.1.2",
-        "lastUpdated": "2022-06-25T04:20:50.65Z"
-      }
-    ],
-    "categories": ["SCM Providers"],
-    "tags": ["branch", "commit", "diff", "flow", "git", "graph", "history", "log", "scm", "tag"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GuodongSun/vsextensions/vscode-git-cruise/0.2.6/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise"
-  },
-  {
     "extension_name": "HashiCorp.terraform",
     "display_name": "HashiCorp Terraform",
     "short_description": "Syntax highlighting and autocompletion for Terraform",
@@ -6932,99 +6595,6 @@
     "tags": ["comment", "GitHub Copilot Chat Participant", "google translate", "hover", "keybindings", "translate", "注释", "翻訳", "翻译"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/intellsmi/vsextensions/comment-translate/3.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate"
-  },
-  {
-    "extension_name": "JohnnyMorganz.luau-lsp",
-    "display_name": "Luau Language Server",
-    "short_description": "A Language Server Client for Luau",
-    "latest_version": "1.54.0",
-    "last_updated": "2025-09-27T16:25:56.863Z",
-    "version_history": [
-      {
-        "version": "1.54.0",
-        "lastUpdated": "2025-09-27T16:25:56.863Z"
-      },
-      {
-        "version": "1.53.5",
-        "lastUpdated": "2025-09-20T16:19:10.817Z"
-      },
-      {
-        "version": "1.53.4",
-        "lastUpdated": "2025-09-20T15:51:20.78Z"
-      },
-      {
-        "version": "1.53.3",
-        "lastUpdated": "2025-09-06T13:10:31.503Z"
-      },
-      {
-        "version": "1.53.2",
-        "lastUpdated": "2025-08-30T14:01:29.23Z"
-      },
-      {
-        "version": "1.53.1",
-        "lastUpdated": "2025-07-31T19:29:50.25Z"
-      },
-      {
-        "version": "1.53.0",
-        "lastUpdated": "2025-07-26T15:09:03.507Z"
-      },
-      {
-        "version": "1.52.1",
-        "lastUpdated": "2025-07-12T16:04:17.737Z"
-      },
-      {
-        "version": "1.52.0",
-        "lastUpdated": "2025-07-05T10:53:40.657Z"
-      },
-      {
-        "version": "1.51.0",
-        "lastUpdated": "2025-06-24T19:10:52.46Z"
-      },
-      {
-        "version": "1.50.0",
-        "lastUpdated": "2025-06-16T20:09:13.223Z"
-      },
-      {
-        "version": "1.49.1",
-        "lastUpdated": "2025-06-09T14:18:47.533Z"
-      },
-      {
-        "version": "1.49.0",
-        "lastUpdated": "2025-06-01T13:28:13.84Z"
-      },
-      {
-        "version": "1.48.0",
-        "lastUpdated": "2025-05-28T19:52:11.133Z"
-      },
-      {
-        "version": "1.47.0",
-        "lastUpdated": "2025-05-17T12:54:33.307Z"
-      },
-      {
-        "version": "1.46.0",
-        "lastUpdated": "2025-05-13T20:02:31.657Z"
-      },
-      {
-        "version": "1.45.0",
-        "lastUpdated": "2025-05-04T17:05:09.507Z"
-      },
-      {
-        "version": "1.44.1",
-        "lastUpdated": "2025-04-24T18:56:35.297Z"
-      },
-      {
-        "version": "1.44.0",
-        "lastUpdated": "2025-04-24T16:24:16.693Z"
-      },
-      {
-        "version": "1.43.0",
-        "lastUpdated": "2025-04-19T17:18:49.77Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Linters"],
-    "tags": ["json", "lua", "luau", "roblox"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/JohnnyMorganz/vsextensions/luau-lsp/1.54.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.luau-lsp"
   },
   {
     "extension_name": "josee9988.minifyall",
@@ -13583,9 +13153,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.28.14",
-    "last_updated": "2025-09-30T13:46:29.053Z",
+    "latest_version": "3.28.15",
+    "last_updated": "2025-10-03T14:41:14.1Z",
     "version_history": [
+      {
+        "version": "3.28.15",
+        "lastUpdated": "2025-10-03T14:41:14.1Z"
+      },
       {
         "version": "3.28.14",
         "lastUpdated": "2025-09-30T13:46:29.053Z"
@@ -13661,15 +13235,11 @@
       {
         "version": "3.26.5",
         "lastUpdated": "2025-09-03T13:57:44.467Z"
-      },
-      {
-        "version": "3.26.4",
-        "lastUpdated": "2025-09-01T15:50:18.707Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.28.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.28.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -14158,91 +13728,6 @@
     "tags": ["Composition API", "snippet", "Vue", "Vue 2", "Vue 3", "Vue Snippets"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sdras/vsextensions/vue-vscode-snippets/3.2.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets"
-  },
-  {
-    "extension_name": "seunlanlege.action-buttons",
-    "display_name": "VsCode Action Buttons",
-    "short_description": "Add customizable buttons to the status bar to execute actions or tasks",
-    "latest_version": "1.2.3",
-    "last_updated": "2025-04-17T13:01:27.24Z",
-    "version_history": [
-      {
-        "version": "1.2.3",
-        "lastUpdated": "2025-04-17T13:01:27.24Z"
-      },
-      {
-        "version": "1.2.2",
-        "lastUpdated": "2024-02-08T17:58:48.54Z"
-      },
-      {
-        "version": "1.2.1",
-        "lastUpdated": "2021-11-03T09:21:44.837Z"
-      },
-      {
-        "version": "1.2.0",
-        "lastUpdated": "2021-10-03T20:46:47.773Z"
-      },
-      {
-        "version": "1.1.5",
-        "lastUpdated": "2019-06-16T12:05:01.99Z"
-      },
-      {
-        "version": "1.1.3",
-        "lastUpdated": "2019-05-31T09:13:17.6Z"
-      },
-      {
-        "version": "1.1.2",
-        "lastUpdated": "2018-12-20T22:01:03.02Z"
-      },
-      {
-        "version": "1.1.1",
-        "lastUpdated": "2018-11-08T08:03:53.657Z"
-      },
-      {
-        "version": "1.1.0",
-        "lastUpdated": "2018-11-06T20:31:30.483Z"
-      },
-      {
-        "version": "1.0.1",
-        "lastUpdated": "2018-11-06T20:10:12.877Z"
-      },
-      {
-        "version": "0.0.9",
-        "lastUpdated": "2018-05-14T01:01:02.453Z"
-      },
-      {
-        "version": "0.0.8",
-        "lastUpdated": "2017-09-07T23:08:37.933Z"
-      },
-      {
-        "version": "0.0.6",
-        "lastUpdated": "2017-06-27T23:12:18.97Z"
-      },
-      {
-        "version": "0.0.5",
-        "lastUpdated": "2017-06-20T17:04:01.03Z"
-      },
-      {
-        "version": "0.0.4",
-        "lastUpdated": "2017-06-18T20:36:59.623Z"
-      },
-      {
-        "version": "0.0.3",
-        "lastUpdated": "2017-06-18T20:34:20.083Z"
-      },
-      {
-        "version": "0.0.2",
-        "lastUpdated": "2017-06-18T20:19:51.843Z"
-      },
-      {
-        "version": "0.0.1",
-        "lastUpdated": "2017-06-18T20:16:40.677Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["action", "buttons", "runner", "status bar", "task"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/seunlanlege/vsextensions/action-buttons/1.2.3/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=seunlanlege.action-buttons"
   },
   {
     "extension_name": "shd101wyy.markdown-preview-enhanced",
@@ -14786,43 +14271,6 @@
     "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.15.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
-  },
-  {
-    "extension_name": "Supabase.vscode-supabase-extension",
-    "display_name": "Supabase",
-    "short_description": "Supabase Extension for VS Code and GitHub Copilot.",
-    "latest_version": "0.0.11",
-    "last_updated": "2025-07-22T08:00:52.29Z",
-    "version_history": [
-      {
-        "version": "0.0.11",
-        "lastUpdated": "2025-07-22T08:00:52.29Z"
-      },
-      {
-        "version": "0.0.10",
-        "lastUpdated": "2025-07-03T09:07:33.673Z"
-      },
-      {
-        "version": "0.0.9",
-        "lastUpdated": "2024-09-10T19:24:08.99Z"
-      },
-      {
-        "version": "0.0.8",
-        "lastUpdated": "2024-08-12T03:34:29.883Z"
-      },
-      {
-        "version": "0.0.7",
-        "lastUpdated": "2024-08-08T08:21:12.24Z"
-      },
-      {
-        "version": "0.0.6",
-        "lastUpdated": "2024-08-07T09:09:05.353Z"
-      }
-    ],
-    "categories": ["AI", "Chat"],
-    "tags": ["Databases", "Postgres", "supabase"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Supabase/vsextensions/vscode-supabase-extension/0.0.11/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Supabase.vscode-supabase-extension"
   },
   {
     "extension_name": "svelte.svelte-vscode",
@@ -15465,87 +14913,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=twxs.cmake"
   },
   {
-    "extension_name": "ultram4rine.vscode-choosealicense",
-    "display_name": "Choose a License",
-    "short_description": "Choose a license for your project in VS Code",
-    "latest_version": "0.9.4",
-    "last_updated": "2023-12-26T21:28:47.29Z",
-    "version_history": [
-      {
-        "version": "0.9.4",
-        "lastUpdated": "2023-12-26T21:28:47.29Z"
-      },
-      {
-        "version": "0.9.3",
-        "lastUpdated": "2023-09-08T19:24:57.187Z"
-      },
-      {
-        "version": "0.9.2",
-        "lastUpdated": "2023-01-16T22:04:38.663Z"
-      },
-      {
-        "version": "0.9.1",
-        "lastUpdated": "2022-12-26T19:43:49.953Z"
-      },
-      {
-        "version": "0.9.0",
-        "lastUpdated": "2022-09-11T18:17:30.43Z"
-      },
-      {
-        "version": "0.8.0",
-        "lastUpdated": "2022-07-20T19:28:11Z"
-      },
-      {
-        "version": "0.7.0",
-        "lastUpdated": "2022-06-25T15:36:10.187Z"
-      },
-      {
-        "version": "0.6.2",
-        "lastUpdated": "2022-04-24T17:48:19.017Z"
-      },
-      {
-        "version": "0.6.1",
-        "lastUpdated": "2022-04-24T16:30:44.643Z"
-      },
-      {
-        "version": "0.6.0",
-        "lastUpdated": "2021-08-18T14:49:26.037Z"
-      },
-      {
-        "version": "0.5.0",
-        "lastUpdated": "2021-08-16T17:19:34.46Z"
-      },
-      {
-        "version": "0.4.0",
-        "lastUpdated": "2020-12-02T18:33:23.627Z"
-      },
-      {
-        "version": "0.3.2",
-        "lastUpdated": "2020-10-31T16:15:31.95Z"
-      },
-      {
-        "version": "0.3.0",
-        "lastUpdated": "2020-04-01T16:18:46.073Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2020-03-30T13:34:51.413Z"
-      },
-      {
-        "version": "0.1.1",
-        "lastUpdated": "2020-03-29T17:47:39.67Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2020-03-28T20:12:45.923Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["license"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ultram4rine/vsextensions/vscode-choosealicense/0.9.4/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ultram4rine.vscode-choosealicense"
-  },
-  {
     "extension_name": "unifiedjs.vscode-mdx",
     "display_name": "MDX",
     "short_description": "Language support for MDX",
@@ -15637,35 +15004,6 @@
     "tags": ["javascript", "javascriptreact", "json", "keybindings", "Markdown", "mdx", "typescript", "typescriptreact"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-mdx/1.8.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx"
-  },
-  {
-    "extension_name": "unifiedjs.vscode-remark",
-    "display_name": "remark",
-    "short_description": "Lint and format markdown code with remark",
-    "latest_version": "3.0.0",
-    "last_updated": "2024-04-17T14:51:35.27Z",
-    "version_history": [
-      {
-        "version": "3.0.0",
-        "lastUpdated": "2024-04-17T14:51:35.27Z"
-      },
-      {
-        "version": "2.1.0",
-        "lastUpdated": "2022-07-30T10:03:35.65Z"
-      },
-      {
-        "version": "2.0.0",
-        "lastUpdated": "2022-07-23T15:35:04.86Z"
-      },
-      {
-        "version": "1.3.0",
-        "lastUpdated": "2021-03-21T15:24:09.687Z"
-      }
-    ],
-    "categories": ["Linters", "Formatters"],
-    "tags": ["format", "ignore", "json", "lint", "linters", "markdown", "remark", "validate"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/unifiedjs/vsextensions/vscode-remark/3.0.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-remark"
   },
   {
     "extension_name": "usernamehw.errorlens",
@@ -17668,116 +17006,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin"
   },
   {
-    "extension_name": "Vxplain.vxplain",
-    "display_name": "Vxplain | Understand Any Codebase",
-    "short_description": "Autogenerate architecture diagrams, function call graphs, flowcharts, summaries, visualize code and more.",
-    "latest_version": "1.1.7",
-    "last_updated": "2025-09-21T10:28:23.263Z",
-    "version_history": [
-      {
-        "version": "1.1.7",
-        "lastUpdated": "2025-09-21T10:28:23.263Z"
-      },
-      {
-        "version": "1.1.6",
-        "lastUpdated": "2025-09-21T08:23:56.393Z"
-      },
-      {
-        "version": "1.1.5",
-        "lastUpdated": "2025-09-21T07:13:46.213Z"
-      },
-      {
-        "version": "1.1.4",
-        "lastUpdated": "2025-06-21T01:13:11.417Z"
-      },
-      {
-        "version": "1.1.2",
-        "lastUpdated": "2025-06-16T18:59:06.523Z"
-      },
-      {
-        "version": "1.1.1",
-        "lastUpdated": "2025-06-03T21:42:06.79Z"
-      },
-      {
-        "version": "1.1.0",
-        "lastUpdated": "2025-05-30T18:57:01.647Z"
-      },
-      {
-        "version": "1.0.6",
-        "lastUpdated": "2025-05-27T21:54:17.983Z"
-      },
-      {
-        "version": "1.0.5",
-        "lastUpdated": "2025-05-27T21:42:21.307Z"
-      },
-      {
-        "version": "1.0.4",
-        "lastUpdated": "2025-05-27T20:25:03.033Z"
-      },
-      {
-        "version": "1.0.3",
-        "lastUpdated": "2025-05-25T00:16:45.587Z"
-      },
-      {
-        "version": "1.0.2",
-        "lastUpdated": "2025-05-20T22:45:07.627Z"
-      },
-      {
-        "version": "1.0.1",
-        "lastUpdated": "2025-05-20T22:36:46.487Z"
-      },
-      {
-        "version": "1.0.0",
-        "lastUpdated": "2025-05-20T22:05:26.57Z"
-      },
-      {
-        "version": "0.9.7",
-        "lastUpdated": "2025-05-19T19:10:14.257Z"
-      },
-      {
-        "version": "0.9.5",
-        "lastUpdated": "2025-05-19T19:09:43.363Z"
-      },
-      {
-        "version": "0.9.4",
-        "lastUpdated": "2025-05-19T10:06:56.36Z"
-      },
-      {
-        "version": "0.9.2",
-        "lastUpdated": "2025-05-16T11:56:33.153Z"
-      },
-      {
-        "version": "0.9.1",
-        "lastUpdated": "2025-05-16T10:56:58.5Z"
-      },
-      {
-        "version": "0.9.0",
-        "lastUpdated": "2025-05-16T03:45:11.277Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Machine Learning", "Visualization", "Education", "AI", "Chat"],
-    "tags": [
-      "ai",
-      "architecture",
-      "callgraph",
-      "claude",
-      "code",
-      "copilot",
-      "diagram",
-      "flowchart",
-      "keybindings",
-      "mermaid",
-      "navigation",
-      "openai",
-      "refactoring",
-      "sonnet",
-      "visual",
-      "visualization"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vxplain/vsextensions/vxplain/1.1.7/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vxplain.vxplain"
-  },
-  {
     "extension_name": "waderyan.gitblame",
     "display_name": "Git Blame",
     "short_description": "See git blame information in the status bar.",
@@ -18075,52 +17303,6 @@
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.483/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
-  },
-  {
-    "extension_name": "willasm.comment-highlighter",
-    "display_name": "Comment Highlighter",
-    "short_description": "Colorful Comment Highlighter for Visual Studio Code",
-    "latest_version": "2.1.1",
-    "last_updated": "2025-09-01T13:08:34.897Z",
-    "version_history": [
-      {
-        "version": "2.1.1",
-        "lastUpdated": "2025-09-01T13:08:34.897Z"
-      },
-      {
-        "version": "2.1.0",
-        "lastUpdated": "2025-08-29T02:38:23.043Z"
-      },
-      {
-        "version": "2.0.0",
-        "lastUpdated": "2024-07-05T02:21:52.56Z"
-      }
-    ],
-    "categories": ["Snippets", "Formatters", "Visualization"],
-    "tags": [
-      "BUG",
-      "CHANGED",
-      "color",
-      "colorful",
-      "comments",
-      "DEBUG",
-      "FIXME",
-      "HACK",
-      "highlighter",
-      "IDEA",
-      "json",
-      "keywords",
-      "NOTE",
-      "OPTIMIZE",
-      "RESEARCH",
-      "REVIEW",
-      "snippet",
-      "tags",
-      "TEMP",
-      "TODO"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/willasm/vsextensions/comment-highlighter/2.1.1/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=willasm.comment-highlighter"
   },
   {
     "extension_name": "wmaurer.change-case",
@@ -18457,66 +17639,5 @@
     "tags": ["atom", "color-theme", "one dark", "one dark pro", "OneDark", "onedark pro", "theme"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/zhuangtongfa/vsextensions/Material-theme/3.19.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme"
-  },
-  {
-    "extension_name": "zhucy.project-tree",
-    "display_name": "project-tree",
-    "short_description": "A vscode plugin that generates a tree directory in README.md.",
-    "latest_version": "0.4.0",
-    "last_updated": "2025-02-09T15:07:40.8Z",
-    "version_history": [
-      {
-        "version": "0.4.0",
-        "lastUpdated": "2025-02-09T15:07:40.8Z"
-      },
-      {
-        "version": "0.3.0",
-        "lastUpdated": "2020-05-12T10:33:19.253Z"
-      },
-      {
-        "version": "0.2.6",
-        "lastUpdated": "2019-05-27T03:05:39.697Z"
-      },
-      {
-        "version": "0.2.5",
-        "lastUpdated": "2019-05-24T11:49:40.493Z"
-      },
-      {
-        "version": "0.2.4",
-        "lastUpdated": "2019-05-24T11:35:03.84Z"
-      },
-      {
-        "version": "0.2.3",
-        "lastUpdated": "2019-05-20T07:11:24.757Z"
-      },
-      {
-        "version": "0.2.2",
-        "lastUpdated": "2019-05-14T11:44:39.613Z"
-      },
-      {
-        "version": "0.2.1",
-        "lastUpdated": "2019-05-14T11:32:28.63Z"
-      },
-      {
-        "version": "0.2.0",
-        "lastUpdated": "2019-05-13T11:55:02.487Z"
-      },
-      {
-        "version": "0.1.1",
-        "lastUpdated": "2019-05-13T11:54:51.26Z"
-      },
-      {
-        "version": "0.1.0",
-        "lastUpdated": "2019-05-10T11:42:35.58Z"
-      },
-      {
-        "version": "0.0.1",
-        "lastUpdated": "2019-05-10T06:28:36.767Z"
-      }
-    ],
-    "categories": ["Visualization"],
-    "tags": ["directory", "README", "structure", "tree"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/zhucy/vsextensions/project-tree/0.4.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=zhucy.project-tree"
   }
 ]
