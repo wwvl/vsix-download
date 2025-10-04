@@ -11165,9 +11165,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251002",
-    "last_updated": "2025-10-03T00:16:32.957Z",
+    "latest_version": "6.0.20251003",
+    "last_updated": "2025-10-04T00:13:27.367Z",
     "version_history": [
+      {
+        "version": "6.0.20251003",
+        "lastUpdated": "2025-10-04T00:13:27.367Z"
+      },
       {
         "version": "6.0.20251002",
         "lastUpdated": "2025-10-03T00:16:32.957Z"
@@ -11243,15 +11247,11 @@
       {
         "version": "6.0.20250914",
         "lastUpdated": "2025-09-15T00:13:32.233Z"
-      },
-      {
-        "version": "6.0.20250913",
-        "lastUpdated": "2025-09-14T00:15:47.227Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251002/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251003/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -15535,9 +15535,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025100206",
-    "last_updated": "2025-10-02T07:37:59.67Z",
+    "latest_version": "2.0.2025100400",
+    "last_updated": "2025-10-04T00:52:30.73Z",
     "version_history": [
+      {
+        "version": "2.0.2025100400",
+        "lastUpdated": "2025-10-04T00:52:30.73Z"
+      },
       {
         "version": "2.0.2025100206",
         "lastUpdated": "2025-10-02T07:37:59.67Z"
@@ -15613,10 +15617,6 @@
       {
         "version": "2.0.2025090400",
         "lastUpdated": "2025-09-04T01:13:46.14Z"
-      },
-      {
-        "version": "2.0.2025090306",
-        "lastUpdated": "2025-09-03T07:14:53.983Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -15635,7 +15635,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025100206/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025100400/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
