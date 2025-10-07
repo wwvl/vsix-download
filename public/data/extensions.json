@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.705",
-    "last_updated": "2025-10-07T09:12:23.37Z",
+    "latest_version": "2025.10.711",
+    "last_updated": "2025-10-07T16:04:12.583Z",
     "version_history": [
+      {
+        "version": "2025.10.711",
+        "lastUpdated": "2025-10-07T16:04:12.583Z"
+      },
       {
         "version": "2025.10.705",
         "lastUpdated": "2025-10-07T09:12:23.37Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.1605",
         "lastUpdated": "2025-09-16T09:13:23.353Z"
-      },
-      {
-        "version": "2025.9.1305",
-        "lastUpdated": "2025-09-13T09:11:04.313Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.711/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5404,9 +5404,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.376.1794",
-    "last_updated": "2025-09-26T15:30:55.25Z",
+    "latest_version": "1.378.1797",
+    "last_updated": "2025-10-06T18:21:43.563Z",
     "version_history": [
+      {
+        "version": "1.378.1797",
+        "lastUpdated": "2025-10-06T18:21:43.563Z"
+      },
       {
         "version": "1.376.1794",
         "lastUpdated": "2025-09-26T15:30:55.25Z"
@@ -5482,10 +5486,6 @@
       {
         "version": "1.363.1763",
         "lastUpdated": "2025-08-27T20:24:26.213Z"
-      },
-      {
-        "version": "1.363.1762",
-        "lastUpdated": "2025-08-27T16:21:56.04Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5514,7 +5514,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.376.1794/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.378.1797/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -13402,9 +13402,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.16.3",
-    "last_updated": "2025-09-30T14:44:41.147Z",
+    "latest_version": "6.17.0",
+    "last_updated": "2025-10-07T16:26:22.27Z",
     "version_history": [
+      {
+        "version": "6.17.0",
+        "lastUpdated": "2025-10-07T16:26:22.27Z"
+      },
       {
         "version": "6.16.3",
         "lastUpdated": "2025-09-30T14:44:41.147Z"
@@ -13480,15 +13484,11 @@
       {
         "version": "6.7.0",
         "lastUpdated": "2025-04-29T15:06:34.49Z"
-      },
-      {
-        "version": "6.6.0",
-        "lastUpdated": "2025-04-08T17:20:41.933Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.16.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.17.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
