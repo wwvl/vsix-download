@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.615",
-    "last_updated": "2025-10-06T19:10:57.94Z",
+    "latest_version": "2025.10.705",
+    "last_updated": "2025-10-07T09:12:23.37Z",
     "version_history": [
+      {
+        "version": "2025.10.705",
+        "lastUpdated": "2025-10-07T09:12:23.37Z"
+      },
       {
         "version": "2025.10.615",
         "lastUpdated": "2025-10-06T19:10:57.94Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.1305",
         "lastUpdated": "2025-09-13T09:11:04.313Z"
-      },
-      {
-        "version": "2025.9.1205",
-        "lastUpdated": "2025-09-12T09:12:23.32Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.615/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5404,13 +5404,9 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.378.1797",
-    "last_updated": "2025-10-06T18:21:43.563Z",
+    "latest_version": "1.376.1794",
+    "last_updated": "2025-09-26T15:30:55.25Z",
     "version_history": [
-      {
-        "version": "1.378.1797",
-        "lastUpdated": "2025-10-06T18:21:43.563Z"
-      },
       {
         "version": "1.376.1794",
         "lastUpdated": "2025-09-26T15:30:55.25Z"
@@ -5486,6 +5482,10 @@
       {
         "version": "1.363.1763",
         "lastUpdated": "2025-08-27T20:24:26.213Z"
+      },
+      {
+        "version": "1.363.1762",
+        "lastUpdated": "2025-08-27T16:21:56.04Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5514,16 +5514,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.378.1797/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.376.1794/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.32.2025100302",
-    "last_updated": "2025-10-03T16:22:13.193Z",
+    "latest_version": "0.32.2025100703",
+    "last_updated": "2025-10-07T07:01:50.56Z",
     "version_history": [
+      {
+        "version": "0.32.2025100703",
+        "lastUpdated": "2025-10-07T07:01:50.56Z"
+      },
       {
         "version": "0.32.2025100302",
         "lastUpdated": "2025-10-03T16:22:13.193Z"
@@ -5599,10 +5603,6 @@
       {
         "version": "0.32.2025091202",
         "lastUpdated": "2025-09-12T21:02:51.807Z"
-      },
-      {
-        "version": "0.32.2025091201",
-        "lastUpdated": "2025-09-12T04:28:27.667Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5639,7 +5639,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100302/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.32.2025100703/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -6723,6 +6723,31 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GuodongSun.vscode-git-cruise"
   },
   {
+    "extension_name": "HarshVandanaSharma.gkeep",
+    "display_name": "gkeep",
+    "short_description": "An extension which adds .gitkeep file to include blank folders for git add",
+    "latest_version": "1.2.0",
+    "last_updated": "2024-05-16T08:18:44.783Z",
+    "version_history": [
+      {
+        "version": "1.2.0",
+        "lastUpdated": "2024-05-16T08:18:44.783Z"
+      },
+      {
+        "version": "1.1.0",
+        "lastUpdated": "2024-05-16T08:02:53.373Z"
+      },
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2024-05-16T07:41:48.28Z"
+      }
+    ],
+    "categories": ["Other"],
+    "tags": ["git"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/HarshVandanaSharma/vsextensions/gkeep/1.2.0/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=HarshVandanaSharma.gkeep"
+  },
+  {
     "extension_name": "HashiCorp.terraform",
     "display_name": "HashiCorp Terraform",
     "short_description": "Syntax highlighting and autocompletion for Terraform",
@@ -6732,6 +6757,10 @@
       {
         "version": "2.37.2025092217",
         "lastUpdated": "2025-09-22T12:20:15.13Z"
+      },
+      {
+        "version": "2.37.3",
+        "lastUpdated": "2025-10-07T10:36:01.753Z"
       },
       {
         "version": "2.37.2",
@@ -6804,10 +6833,6 @@
       {
         "version": "2.34.2",
         "lastUpdated": "2024-12-20T01:09:58.107Z"
-      },
-      {
-        "version": "2.34.1",
-        "lastUpdated": "2024-12-12T16:45:27.54Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -8535,9 +8560,13 @@
     "extension_name": "mongodb.mongodb-vscode",
     "display_name": "MongoDB for VS Code",
     "short_description": "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.",
-    "latest_version": "1.14.1",
-    "last_updated": "2025-10-06T11:54:30.49Z",
+    "latest_version": "1.14.2",
+    "last_updated": "2025-10-07T12:09:26.517Z",
     "version_history": [
+      {
+        "version": "1.14.2",
+        "lastUpdated": "2025-10-07T12:09:26.517Z"
+      },
       {
         "version": "1.14.1",
         "lastUpdated": "2025-10-06T11:54:30.49Z"
@@ -8613,15 +8642,11 @@
       {
         "version": "1.5.0",
         "lastUpdated": "2024-01-24T16:11:10.507Z"
-      },
-      {
-        "version": "1.4.0",
-        "lastUpdated": "2024-01-09T20:02:06.543Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Data Science", "AI", "Chat"],
     "tags": ["chat-participant", "copilot", "Database", "Databases", "javascript", "json", "keybindings", "MongoDB", "MongoDB Atlas", "MQL", "plaintext", "snippet", "terraform"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.14.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/mongodb/vsextensions/mongodb-vscode/1.14.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
   },
   {
