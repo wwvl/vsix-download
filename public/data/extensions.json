@@ -11169,9 +11169,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.13",
-    "last_updated": "2025-10-06T04:30:27.837Z",
+    "latest_version": "1.22.14",
+    "last_updated": "2025-10-08T04:36:13.06Z",
     "version_history": [
+      {
+        "version": "1.22.14",
+        "lastUpdated": "2025-10-08T04:36:13.06Z"
+      },
       {
         "version": "1.22.13",
         "lastUpdated": "2025-10-06T04:30:27.837Z"
@@ -11247,15 +11251,11 @@
       {
         "version": "1.21.32",
         "lastUpdated": "2025-06-24T04:32:06.12Z"
-      },
-      {
-        "version": "1.21.31",
-        "lastUpdated": "2025-06-16T04:31:15.92Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.13/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -11541,9 +11541,13 @@
     "extension_name": "ms-vscode.makefile-tools",
     "display_name": "Makefile Tools",
     "short_description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.",
-    "latest_version": "0.13.12",
-    "last_updated": "2025-09-01T04:37:22.593Z",
+    "latest_version": "0.13.13",
+    "last_updated": "2025-10-08T04:28:12.26Z",
     "version_history": [
+      {
+        "version": "0.13.13",
+        "lastUpdated": "2025-10-08T04:28:12.26Z"
+      },
       {
         "version": "0.13.12",
         "lastUpdated": "2025-09-01T04:37:22.593Z"
@@ -11619,15 +11623,11 @@
       {
         "version": "0.12.12",
         "lastUpdated": "2024-12-12T04:23:01.793Z"
-      },
-      {
-        "version": "0.12.11",
-        "lastUpdated": "2024-12-05T04:24:03.85Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["C", "C++", "IntelliSense", "Makefile", "Microsoft"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.12/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/makefile-tools/0.13.13/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools"
   },
   {
@@ -11913,9 +11913,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.251007001",
-    "last_updated": "2025-10-07T03:04:16.77Z",
+    "latest_version": "0.13.251008001",
+    "last_updated": "2025-10-08T03:03:47.697Z",
     "version_history": [
+      {
+        "version": "0.13.251008001",
+        "lastUpdated": "2025-10-08T03:03:47.697Z"
+      },
       {
         "version": "0.13.251007001",
         "lastUpdated": "2025-10-07T03:04:16.77Z"
@@ -11991,15 +11995,11 @@
       {
         "version": "0.13.250818001",
         "lastUpdated": "2025-08-18T03:04:21.203Z"
-      },
-      {
-        "version": "0.13.250817001",
-        "lastUpdated": "2025-08-17T03:00:26.807Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251007001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251008001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -18726,9 +18726,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.483",
-    "last_updated": "2025-10-02T04:55:49.447Z",
+    "latest_version": "1.0.484",
+    "last_updated": "2025-10-08T02:55:40.92Z",
     "version_history": [
+      {
+        "version": "1.0.484",
+        "lastUpdated": "2025-10-08T02:55:40.92Z"
+      },
       {
         "version": "1.0.483",
         "lastUpdated": "2025-10-02T04:55:49.447Z"
@@ -18804,15 +18808,11 @@
       {
         "version": "1.0.461",
         "lastUpdated": "2025-08-01T01:22:18.26Z"
-      },
-      {
-        "version": "1.0.460",
-        "lastUpdated": "2025-07-18T08:04:30.623Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.483/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.484/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
