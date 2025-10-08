@@ -3463,9 +3463,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.61.17940",
-    "last_updated": "2025-09-27T15:15:34.43Z",
+    "latest_version": "1.61.17964",
+    "last_updated": "2025-10-08T13:34:51.11Z",
     "version_history": [
+      {
+        "version": "1.61.17964",
+        "lastUpdated": "2025-10-08T13:34:51.11Z"
+      },
       {
         "version": "1.61.17940",
         "lastUpdated": "2025-09-27T15:15:34.43Z"
@@ -3541,15 +3545,11 @@
       {
         "version": "1.59.17668",
         "lastUpdated": "2025-07-17T14:10:47.077Z"
-      },
-      {
-        "version": "1.59.17638",
-        "lastUpdated": "2025-07-08T20:25:33.183Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.61.17940/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.61.17964/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -12994,9 +12994,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.20.0",
-    "last_updated": "2025-10-06T17:38:14.697Z",
+    "latest_version": "1.21.0",
+    "last_updated": "2025-10-08T15:40:41.927Z",
     "version_history": [
+      {
+        "version": "1.21.0",
+        "lastUpdated": "2025-10-08T15:40:41.927Z"
+      },
       {
         "version": "1.20.0",
         "lastUpdated": "2025-10-06T17:38:14.697Z"
@@ -13072,15 +13076,11 @@
       {
         "version": "1.4.0",
         "lastUpdated": "2025-06-30T06:03:24.91Z"
-      },
-      {
-        "version": "1.3.0",
-        "lastUpdated": "2025-06-23T07:05:41.82Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.21.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -15518,9 +15518,13 @@
     "extension_name": "svelte.svelte-vscode",
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
-    "latest_version": "109.11.1",
-    "last_updated": "2025-09-22T12:25:29.977Z",
+    "latest_version": "109.11.2",
+    "last_updated": "2025-10-08T15:13:40.087Z",
     "version_history": [
+      {
+        "version": "109.11.2",
+        "lastUpdated": "2025-10-08T15:13:40.087Z"
+      },
       {
         "version": "109.11.1",
         "lastUpdated": "2025-09-22T12:25:29.977Z"
@@ -15596,15 +15600,11 @@
       {
         "version": "109.2.4",
         "lastUpdated": "2024-11-16T20:03:59.01Z"
-      },
-      {
-        "version": "109.2.3",
-        "lastUpdated": "2024-11-15T13:20:17.133Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.11.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.11.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
   {
