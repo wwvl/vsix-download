@@ -2719,9 +2719,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code agent",
     "short_description": "The leading open-source AI code agent",
-    "latest_version": "1.3.15",
-    "last_updated": "2025-10-02T06:13:21.167Z",
+    "latest_version": "1.3.16",
+    "last_updated": "2025-10-08T22:58:38.387Z",
     "version_history": [
+      {
+        "version": "1.3.16",
+        "lastUpdated": "2025-10-08T22:58:38.387Z"
+      },
       {
         "version": "1.3.15",
         "lastUpdated": "2025-10-02T06:13:21.167Z"
@@ -2783,6 +2787,10 @@
         "lastUpdated": "2025-08-23T00:12:02.267Z"
       },
       {
+        "version": "1.2.8",
+        "lastUpdated": "2025-10-08T21:04:41.437Z"
+      },
+      {
         "version": "1.2.7",
         "lastUpdated": "2025-10-01T18:44:32.217Z"
       },
@@ -2793,19 +2801,11 @@
       {
         "version": "1.2.5",
         "lastUpdated": "2025-09-25T05:51:32.31Z"
-      },
-      {
-        "version": "1.2.4",
-        "lastUpdated": "2025-09-18T03:20:19.797Z"
-      },
-      {
-        "version": "1.2.2",
-        "lastUpdated": "2025-09-04T21:56:01.81Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.805",
-    "last_updated": "2025-10-08T09:12:15.86Z",
+    "latest_version": "2025.10.817",
+    "last_updated": "2025-10-08T21:18:22.853Z",
     "version_history": [
+      {
+        "version": "2025.10.817",
+        "lastUpdated": "2025-10-08T21:18:22.853Z"
+      },
       {
         "version": "2025.10.805",
         "lastUpdated": "2025-10-08T09:12:15.86Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.1718",
         "lastUpdated": "2025-09-17T22:15:38.23Z"
-      },
-      {
-        "version": "2025.9.1611",
-        "lastUpdated": "2025-09-16T15:38:26.203Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.817/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6221,9 +6221,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.52.1",
-    "last_updated": "2025-10-07T03:03:16.683Z",
+    "latest_version": "2.53.0",
+    "last_updated": "2025-10-09T00:35:19.65Z",
     "version_history": [
+      {
+        "version": "2.53.0",
+        "lastUpdated": "2025-10-09T00:35:19.65Z"
+      },
       {
         "version": "2.52.1",
         "lastUpdated": "2025-10-07T03:03:16.683Z"
@@ -6299,15 +6303,11 @@
       {
         "version": "2.36.0",
         "lastUpdated": "2025-06-12T19:46:49.793Z"
-      },
-      {
-        "version": "2.35.0",
-        "lastUpdated": "2025-06-05T23:42:40.557Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.52.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.53.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -8746,9 +8746,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.19.1",
-    "last_updated": "2025-09-25T21:16:31.393Z",
+    "latest_version": "1.19.2",
+    "last_updated": "2025-10-08T18:54:13.257Z",
     "version_history": [
+      {
+        "version": "1.19.2",
+        "lastUpdated": "2025-10-08T18:54:13.257Z"
+      },
       {
         "version": "1.19.1",
         "lastUpdated": "2025-09-25T21:16:31.393Z"
@@ -8796,7 +8800,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.19.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.19.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -9005,6 +9009,10 @@
         "lastUpdated": "2025-09-12T14:31:32.78Z"
       },
       {
+        "version": "1.60.2",
+        "lastUpdated": "2025-10-08T21:22:55.37Z"
+      },
+      {
         "version": "1.50.51",
         "lastUpdated": "2025-09-12T01:21:01.373Z"
       },
@@ -9067,10 +9075,6 @@
       {
         "version": "1.20.33",
         "lastUpdated": "2025-05-30T20:59:49.503Z"
-      },
-      {
-        "version": "1.20.32",
-        "lastUpdated": "2025-05-28T19:31:02.863Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
@@ -9082,9 +9086,17 @@
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.93.21",
-    "last_updated": "2025-09-24T22:44:05.44Z",
+    "latest_version": "2.94.41",
+    "last_updated": "2025-10-08T21:54:51.847Z",
     "version_history": [
+      {
+        "version": "2.94.41",
+        "lastUpdated": "2025-10-08T21:54:51.847Z"
+      },
+      {
+        "version": "2.93.22",
+        "lastUpdated": "2025-10-08T21:39:43.993Z"
+      },
       {
         "version": "2.93.21",
         "lastUpdated": "2025-09-24T22:44:05.44Z"
@@ -9156,14 +9168,6 @@
       {
         "version": "2.80.12",
         "lastUpdated": "2025-05-28T19:53:03.2Z"
-      },
-      {
-        "version": "2.79.8",
-        "lastUpdated": "2025-05-21T18:15:31.03Z"
-      },
-      {
-        "version": "2.78.15",
-        "lastUpdated": "2025-05-14T21:48:37.163Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9186,7 +9190,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.93.21/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.94.41/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -11642,6 +11646,10 @@
         "lastUpdated": "2025-09-24T18:10:55.533Z"
       },
       {
+        "version": "2025.4.0",
+        "lastUpdated": "2025-10-08T20:21:00.907Z"
+      },
+      {
         "version": "2025.3.1",
         "lastUpdated": "2025-06-25T23:11:05.82Z"
       },
@@ -11712,10 +11720,6 @@
       {
         "version": "2023.11.1",
         "lastUpdated": "2023-12-08T01:12:08.85Z"
-      },
-      {
-        "version": "2023.11.0",
-        "lastUpdated": "2023-11-08T03:27:44.377Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Themes", "Linters", "Debuggers", "Formatters"],
@@ -12006,9 +12010,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251007",
-    "last_updated": "2025-10-08T00:15:59.16Z",
+    "latest_version": "6.0.20251008",
+    "last_updated": "2025-10-09T00:15:23.57Z",
     "version_history": [
+      {
+        "version": "6.0.20251008",
+        "lastUpdated": "2025-10-09T00:15:23.57Z"
+      },
       {
         "version": "6.0.20251007",
         "lastUpdated": "2025-10-08T00:15:59.16Z"
@@ -12084,15 +12092,11 @@
       {
         "version": "6.0.20250919",
         "lastUpdated": "2025-09-20T00:13:32.84Z"
-      },
-      {
-        "version": "6.0.20250918",
-        "lastUpdated": "2025-09-19T00:18:47.177Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251007/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -12994,9 +12998,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.21.0",
-    "last_updated": "2025-10-08T15:40:41.927Z",
+    "latest_version": "1.22.0",
+    "last_updated": "2025-10-08T21:51:54.367Z",
     "version_history": [
+      {
+        "version": "1.22.0",
+        "lastUpdated": "2025-10-08T21:51:54.367Z"
+      },
       {
         "version": "1.21.0",
         "lastUpdated": "2025-10-08T15:40:41.927Z"
@@ -13072,15 +13080,11 @@
       {
         "version": "1.5.0",
         "lastUpdated": "2025-07-02T01:11:31.623Z"
-      },
-      {
-        "version": "1.4.0",
-        "lastUpdated": "2025-06-30T06:03:24.91Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.21.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.22.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -14273,9 +14277,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2638",
-    "last_updated": "2025-10-08T00:55:40.193Z",
+    "latest_version": "0.4.2639",
+    "last_updated": "2025-10-09T00:55:37.857Z",
     "version_history": [
+      {
+        "version": "0.4.2639",
+        "lastUpdated": "2025-10-09T00:55:37.857Z"
+      },
       {
         "version": "0.4.2638",
         "lastUpdated": "2025-10-08T00:55:40.193Z"
@@ -14351,15 +14359,11 @@
       {
         "version": "0.4.2607",
         "lastUpdated": "2025-09-08T01:03:38.38Z"
-      },
-      {
-        "version": "0.4.2606",
-        "lastUpdated": "2025-09-07T00:55:59.413Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2638/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2639/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14574,9 +14578,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.32.6",
-    "last_updated": "2025-10-01T23:46:29.03Z",
+    "latest_version": "3.32.7",
+    "last_updated": "2025-10-08T23:34:29.81Z",
     "version_history": [
+      {
+        "version": "3.32.7",
+        "lastUpdated": "2025-10-08T23:34:29.81Z"
+      },
       {
         "version": "3.32.6",
         "lastUpdated": "2025-10-01T23:46:29.03Z"
@@ -14652,15 +14660,11 @@
       {
         "version": "3.28.3",
         "lastUpdated": "2025-09-13T02:01:31.59Z"
-      },
-      {
-        "version": "3.28.2",
-        "lastUpdated": "2025-09-12T21:12:38.173Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.32.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.32.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -15019,9 +15023,21 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.127.1759358921",
-    "last_updated": "2025-10-01T22:54:50.077Z",
+    "latest_version": "1.129.1759964303",
+    "last_updated": "2025-10-08T23:06:20.857Z",
     "version_history": [
+      {
+        "version": "1.129.1759964303",
+        "lastUpdated": "2025-10-08T23:06:20.857Z"
+      },
+      {
+        "version": "1.128.2",
+        "lastUpdated": "2025-10-09T00:29:14.393Z"
+      },
+      {
+        "version": "1.128.0",
+        "lastUpdated": "2025-10-08T20:14:02.88Z"
+      },
       {
         "version": "1.127.1759358921",
         "lastUpdated": "2025-10-01T22:54:50.077Z"
@@ -15089,18 +15105,6 @@
       {
         "version": "1.113.1753376082",
         "lastUpdated": "2025-07-24T17:00:42.77Z"
-      },
-      {
-        "version": "1.113.1753374523",
-        "lastUpdated": "2025-07-24T16:34:30.023Z"
-      },
-      {
-        "version": "1.113.1752759214",
-        "lastUpdated": "2025-07-17T13:38:43.567Z"
-      },
-      {
-        "version": "1.112.0",
-        "lastUpdated": "2025-07-17T07:50:40.503Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15146,7 +15150,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.127.1759358921/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.129.1759964303/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
