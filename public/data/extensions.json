@@ -1427,9 +1427,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.585.0",
-    "last_updated": "2025-10-06T23:14:19.96Z",
+    "latest_version": "0.589.0",
+    "last_updated": "2025-10-09T21:38:07.533Z",
     "version_history": [
+      {
+        "version": "0.589.0",
+        "lastUpdated": "2025-10-09T21:38:07.533Z"
+      },
       {
         "version": "0.585.0",
         "lastUpdated": "2025-10-06T23:14:19.96Z"
@@ -1505,10 +1509,6 @@
       {
         "version": "0.554.0",
         "lastUpdated": "2025-09-12T17:07:09.14Z"
-      },
-      {
-        "version": "0.553.0",
-        "lastUpdated": "2025-09-11T17:08:44.363Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1545,7 +1545,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.585.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.589.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -9002,7 +9002,7 @@
       },
       {
         "version": "1.70.3",
-        "lastUpdated": "2025-10-09T18:15:20.233Z"
+        "lastUpdated": "2025-10-09T18:10:32.28Z"
       },
       {
         "version": "1.61.22",
@@ -10186,9 +10186,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.8.3",
-    "last_updated": "2025-09-29T19:53:21.303Z",
+    "latest_version": "2025.8.100",
+    "last_updated": "2025-10-09T23:41:08.987Z",
     "version_history": [
+      {
+        "version": "2025.8.100",
+        "lastUpdated": "2025-10-09T23:41:08.987Z"
+      },
       {
         "version": "2025.8.3",
         "lastUpdated": "2025-09-29T19:53:21.303Z"
@@ -10264,15 +10268,11 @@
       {
         "version": "2025.5.101",
         "lastUpdated": "2025-06-03T22:09:42.38Z"
-      },
-      {
-        "version": "2025.5.100",
-        "lastUpdated": "2025-05-15T23:24:03.667Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.8.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.8.100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -12010,9 +12010,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251008",
-    "last_updated": "2025-10-09T00:15:23.57Z",
+    "latest_version": "6.0.20251009",
+    "last_updated": "2025-10-10T00:15:03.82Z",
     "version_history": [
+      {
+        "version": "6.0.20251009",
+        "lastUpdated": "2025-10-10T00:15:03.82Z"
+      },
       {
         "version": "6.0.20251008",
         "lastUpdated": "2025-10-09T00:15:23.57Z"
@@ -12088,15 +12092,11 @@
       {
         "version": "6.0.20250920",
         "lastUpdated": "2025-09-21T00:13:31.537Z"
-      },
-      {
-        "version": "6.0.20250919",
-        "lastUpdated": "2025-09-20T00:13:32.84Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251009/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14277,9 +14277,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2639",
-    "last_updated": "2025-10-09T00:55:37.857Z",
+    "latest_version": "0.4.2640",
+    "last_updated": "2025-10-10T00:55:49.323Z",
     "version_history": [
+      {
+        "version": "0.4.2640",
+        "lastUpdated": "2025-10-10T00:55:49.323Z"
+      },
       {
         "version": "0.4.2639",
         "lastUpdated": "2025-10-09T00:55:37.857Z"
@@ -14355,15 +14359,11 @@
       {
         "version": "0.4.2608",
         "lastUpdated": "2025-09-09T01:03:11.003Z"
-      },
-      {
-        "version": "0.4.2607",
-        "lastUpdated": "2025-09-08T01:03:38.38Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2639/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2640/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
