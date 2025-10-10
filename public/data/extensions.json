@@ -1148,9 +1148,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.5.2",
-    "last_updated": "2025-09-23T00:58:42.72Z",
+    "latest_version": "66.5.3",
+    "last_updated": "2025-10-10T09:06:39.3Z",
     "version_history": [
+      {
+        "version": "66.5.3",
+        "lastUpdated": "2025-10-10T09:06:39.3Z"
+      },
       {
         "version": "66.5.2",
         "lastUpdated": "2025-09-23T00:58:42.72Z"
@@ -1226,15 +1230,11 @@
       {
         "version": "65.4.3",
         "lastUpdated": "2025-01-22T06:03:21.727Z"
-      },
-      {
-        "version": "65.4.2",
-        "lastUpdated": "2025-01-16T09:31:14.337Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -2626,9 +2626,13 @@
     "extension_name": "colourafredi.vscode-deepseek",
     "display_name": "DeepSeek R1",
     "short_description": "Write, review, explain, refactor, and test code. Supports multiple languages and provides customizable prompts for efficient coding assistance.",
-    "latest_version": "1.6.1",
-    "last_updated": "2025-03-05T04:13:50Z",
+    "latest_version": "1.6.2",
+    "last_updated": "2025-10-10T10:30:16.99Z",
     "version_history": [
+      {
+        "version": "1.6.2",
+        "lastUpdated": "2025-10-10T10:30:16.99Z"
+      },
       {
         "version": "1.6.1",
         "lastUpdated": "2025-03-05T04:13:50Z"
@@ -2704,15 +2708,11 @@
       {
         "version": "1.3.7",
         "lastUpdated": "2025-02-09T12:56:06.13Z"
-      },
-      {
-        "version": "1.3.6",
-        "lastUpdated": "2025-02-09T12:21:37.737Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["ai", "assistant", "chat", "code", "code-completion", "code-explanation", "code-refactoring", "code-review", "copilot", "deepseek", "documentation", "gpt", "testing"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.6.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/colourafredi/vsextensions/vscode-deepseek/1.6.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=colourafredi.vscode-deepseek"
   },
   {
@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.905",
-    "last_updated": "2025-10-09T09:12:17.567Z",
+    "latest_version": "2025.10.1005",
+    "last_updated": "2025-10-10T09:12:56.42Z",
     "version_history": [
+      {
+        "version": "2025.10.1005",
+        "lastUpdated": "2025-10-10T09:12:56.42Z"
+      },
       {
         "version": "2025.10.905",
         "lastUpdated": "2025-10-09T09:12:17.567Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.1905",
         "lastUpdated": "2025-09-19T09:13:16.1Z"
-      },
-      {
-        "version": "2025.9.1813",
-        "lastUpdated": "2025-09-18T17:09:48.833Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.905/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5925,9 +5925,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025100916",
-    "last_updated": "2025-10-09T16:18:33.897Z",
+    "latest_version": "0.121.2025101010",
+    "last_updated": "2025-10-10T10:31:42.46Z",
     "version_history": [
+      {
+        "version": "0.121.2025101010",
+        "lastUpdated": "2025-10-10T10:31:42.46Z"
+      },
       {
         "version": "0.121.2025100916",
         "lastUpdated": "2025-10-09T16:18:33.897Z"
@@ -6003,15 +6007,11 @@
       {
         "version": "0.119.2025091604",
         "lastUpdated": "2025-09-16T04:27:01.833Z"
-      },
-      {
-        "version": "0.119.2025091504",
-        "lastUpdated": "2025-09-15T04:21:19.033Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025100916/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101010/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6759,6 +6759,10 @@
         "lastUpdated": "2025-09-22T12:20:15.13Z"
       },
       {
+        "version": "2.37.5",
+        "lastUpdated": "2025-10-10T07:12:46.053Z"
+      },
+      {
         "version": "2.37.4",
         "lastUpdated": "2025-10-09T10:06:19.047Z"
       },
@@ -6829,10 +6833,6 @@
       {
         "version": "2.34.4",
         "lastUpdated": "2025-05-20T09:59:13.997Z"
-      },
-      {
-        "version": "2.34.3",
-        "lastUpdated": "2025-01-23T16:11:41.017Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -8138,9 +8138,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.3.4",
-    "last_updated": "2025-09-30T08:46:38.943Z",
+    "latest_version": "1.3.5",
+    "last_updated": "2025-10-10T07:40:54.383Z",
     "version_history": [
+      {
+        "version": "1.3.5",
+        "lastUpdated": "2025-10-10T07:40:54.383Z"
+      },
       {
         "version": "1.3.4",
         "lastUpdated": "2025-09-30T08:46:38.943Z"
@@ -8216,10 +8220,6 @@
       {
         "version": "1.2.40",
         "lastUpdated": "2025-08-04T16:18:48.86Z"
-      },
-      {
-        "version": "1.2.39",
-        "lastUpdated": "2025-08-03T14:55:07.88Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8253,7 +8253,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -9703,9 +9703,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.15.2025100201",
-    "last_updated": "2025-10-02T10:41:53.61Z",
+    "latest_version": "2025.15.2025101001",
+    "last_updated": "2025-10-10T10:42:26.95Z",
     "version_history": [
+      {
+        "version": "2025.15.2025101001",
+        "lastUpdated": "2025-10-10T10:42:26.95Z"
+      },
       {
         "version": "2025.15.2025100201",
         "lastUpdated": "2025-10-02T10:41:53.61Z"
@@ -9781,15 +9785,11 @@
       {
         "version": "2025.5.2025031001",
         "lastUpdated": "2025-03-10T10:39:29.277Z"
-      },
-      {
-        "version": "2025.4.1",
-        "lastUpdated": "2025-03-10T17:29:56.647Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025100201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025101001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10427,9 +10427,17 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.9.2025092201",
-    "last_updated": "2025-09-22T09:50:42.873Z",
+    "latest_version": "2025.10.2025101002",
+    "last_updated": "2025-10-10T09:55:01.51Z",
     "version_history": [
+      {
+        "version": "2025.10.2025101002",
+        "lastUpdated": "2025-10-10T09:55:01.51Z"
+      },
+      {
+        "version": "2025.10.2025101001",
+        "lastUpdated": "2025-10-10T07:06:56.803Z"
+      },
       {
         "version": "2025.9.2025092201",
         "lastUpdated": "2025-09-22T09:50:42.873Z"
@@ -10501,19 +10509,11 @@
       {
         "version": "2025.7.2025072101",
         "lastUpdated": "2025-07-21T09:47:34.877Z"
-      },
-      {
-        "version": "2025.7.2025071602",
-        "lastUpdated": "2025-07-16T09:56:09.47Z"
-      },
-      {
-        "version": "2025.7.2025071601",
-        "lastUpdated": "2025-07-16T07:52:38.873Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.9.2025092201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.10.2025101002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -12196,9 +12196,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.22.1",
-    "last_updated": "2025-09-25T09:06:58.31Z",
+    "latest_version": "0.23.2025101007",
+    "last_updated": "2025-10-10T09:24:41.513Z",
     "version_history": [
+      {
+        "version": "0.23.2025101007",
+        "lastUpdated": "2025-10-10T09:24:41.513Z"
+      },
       {
         "version": "0.22.1",
         "lastUpdated": "2025-09-25T09:06:58.31Z"
@@ -12274,15 +12278,11 @@
       {
         "version": "0.14.4",
         "lastUpdated": "2025-06-17T02:47:29.493Z"
-      },
-      {
-        "version": "0.14.3",
-        "lastUpdated": "2025-05-27T06:36:26.467Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.22.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.23.2025101007/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -13871,9 +13871,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025100908",
-    "last_updated": "2025-10-09T08:38:55.873Z",
+    "latest_version": "1.47.2025101008",
+    "last_updated": "2025-10-10T08:27:18.85Z",
     "version_history": [
+      {
+        "version": "1.47.2025101008",
+        "lastUpdated": "2025-10-10T08:27:18.85Z"
+      },
       {
         "version": "1.47.2025100908",
         "lastUpdated": "2025-10-09T08:38:55.873Z"
@@ -13949,15 +13953,11 @@
       {
         "version": "1.46.0",
         "lastUpdated": "2025-10-02T20:03:42.767Z"
-      },
-      {
-        "version": "1.45.2025090308",
-        "lastUpdated": "2025-09-03T08:26:22.877Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025100908/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -17241,6 +17241,10 @@
         "lastUpdated": "2025-09-28T02:34:47.827Z"
       },
       {
+        "version": "0.26.1",
+        "lastUpdated": "2025-10-10T07:27:17.843Z"
+      },
+      {
         "version": "0.25.2025092303",
         "lastUpdated": "2025-09-23T04:43:07.927Z"
       },
@@ -17311,10 +17315,6 @@
       {
         "version": "0.23.2023080400",
         "lastUpdated": "2023-08-04T00:10:09.793Z"
-      },
-      {
-        "version": "0.23.2023080300",
-        "lastUpdated": "2023-08-03T00:12:15.093Z"
       }
     ],
     "categories": ["Other"],
