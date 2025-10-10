@@ -2719,9 +2719,13 @@
     "extension_name": "Continue.continue",
     "display_name": "Continue - open-source AI code agent",
     "short_description": "The leading open-source AI code agent",
-    "latest_version": "1.3.16",
-    "last_updated": "2025-10-08T22:58:38.387Z",
+    "latest_version": "1.3.17",
+    "last_updated": "2025-10-10T15:57:57.527Z",
     "version_history": [
+      {
+        "version": "1.3.17",
+        "lastUpdated": "2025-10-10T15:57:57.527Z"
+      },
       {
         "version": "1.3.16",
         "lastUpdated": "2025-10-08T22:58:38.387Z"
@@ -2797,15 +2801,11 @@
       {
         "version": "1.2.6",
         "lastUpdated": "2025-09-26T19:58:15.383Z"
-      },
-      {
-        "version": "1.2.5",
-        "lastUpdated": "2025-09-25T05:51:32.31Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
     "tags": ["ai", "chatgpt", "claude", "cline", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "mistral", "Prompt Language", "promptLanguage", "roo"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.16/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Continue/vsextensions/continue/1.3.17/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue"
   },
   {
@@ -13406,9 +13406,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.17.0",
-    "last_updated": "2025-10-07T16:26:22.27Z",
+    "latest_version": "6.17.1",
+    "last_updated": "2025-10-10T14:59:21.55Z",
     "version_history": [
+      {
+        "version": "6.17.1",
+        "lastUpdated": "2025-10-10T14:59:21.55Z"
+      },
       {
         "version": "6.17.0",
         "lastUpdated": "2025-10-07T16:26:22.27Z"
@@ -13484,15 +13488,11 @@
       {
         "version": "6.7.1",
         "lastUpdated": "2025-05-09T10:41:53.78Z"
-      },
-      {
-        "version": "6.7.0",
-        "lastUpdated": "2025-04-29T15:06:34.49Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.17.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.17.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -17334,6 +17334,10 @@
         "lastUpdated": "2025-09-28T02:32:43.853Z"
       },
       {
+        "version": "0.30.3",
+        "lastUpdated": "2025-10-10T15:05:17.177Z"
+      },
+      {
         "version": "0.30.2",
         "lastUpdated": "2025-09-26T09:21:40.663Z"
       },
@@ -17404,10 +17408,6 @@
       {
         "version": "0.27.2024072009",
         "lastUpdated": "2024-07-20T10:05:59.423Z"
-      },
-      {
-        "version": "0.27.2024071908",
-        "lastUpdated": "2024-07-19T08:34:52.927Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
