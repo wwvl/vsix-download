@@ -5404,9 +5404,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.378.1798",
-    "last_updated": "2025-10-07T19:38:48.41Z",
+    "latest_version": "1.380.1802",
+    "last_updated": "2025-10-10T20:50:41.967Z",
     "version_history": [
+      {
+        "version": "1.380.1802",
+        "lastUpdated": "2025-10-10T20:50:41.967Z"
+      },
       {
         "version": "1.378.1798",
         "lastUpdated": "2025-10-07T19:38:48.41Z"
@@ -5482,10 +5486,6 @@
       {
         "version": "1.363.1765",
         "lastUpdated": "2025-08-28T13:18:40.86Z"
-      },
-      {
-        "version": "1.363.1764",
-        "lastUpdated": "2025-08-28T01:47:47.303Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5514,7 +5514,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.378.1798/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.380.1802/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -9703,9 +9703,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.15.2025101001",
-    "last_updated": "2025-10-10T10:42:26.95Z",
+    "latest_version": "2025.15.2025101002",
+    "last_updated": "2025-10-10T18:34:14.51Z",
     "version_history": [
+      {
+        "version": "2025.15.2025101002",
+        "lastUpdated": "2025-10-10T18:34:14.51Z"
+      },
       {
         "version": "2025.15.2025101001",
         "lastUpdated": "2025-10-10T10:42:26.95Z"
@@ -9781,15 +9785,11 @@
       {
         "version": "2025.5.2025031101",
         "lastUpdated": "2025-03-11T10:42:58.43Z"
-      },
-      {
-        "version": "2025.5.2025031001",
-        "lastUpdated": "2025-03-10T10:39:29.277Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025101001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025101002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -12010,9 +12010,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251009",
-    "last_updated": "2025-10-10T00:15:03.82Z",
+    "latest_version": "6.0.20251010",
+    "last_updated": "2025-10-11T00:19:02.363Z",
     "version_history": [
+      {
+        "version": "6.0.20251010",
+        "lastUpdated": "2025-10-11T00:19:02.363Z"
+      },
       {
         "version": "6.0.20251009",
         "lastUpdated": "2025-10-10T00:15:03.82Z"
@@ -12088,15 +12092,11 @@
       {
         "version": "6.0.20250921",
         "lastUpdated": "2025-09-22T00:15:06.33Z"
-      },
-      {
-        "version": "6.0.20250920",
-        "lastUpdated": "2025-09-21T00:13:31.537Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251010/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14277,9 +14277,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2640",
-    "last_updated": "2025-10-10T00:55:49.323Z",
+    "latest_version": "0.4.2641",
+    "last_updated": "2025-10-11T00:55:12.48Z",
     "version_history": [
+      {
+        "version": "0.4.2641",
+        "lastUpdated": "2025-10-11T00:55:12.48Z"
+      },
       {
         "version": "0.4.2640",
         "lastUpdated": "2025-10-10T00:55:49.323Z"
@@ -14355,15 +14359,11 @@
       {
         "version": "0.4.2618",
         "lastUpdated": "2025-09-19T00:58:36.97Z"
-      },
-      {
-        "version": "0.4.2608",
-        "lastUpdated": "2025-09-09T01:03:11.003Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2640/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2641/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16940,9 +16940,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025100900",
-    "last_updated": "2025-10-09T00:48:24.06Z",
+    "latest_version": "2.0.2025101100",
+    "last_updated": "2025-10-11T01:11:42.04Z",
     "version_history": [
+      {
+        "version": "2.0.2025101100",
+        "lastUpdated": "2025-10-11T01:11:42.04Z"
+      },
       {
         "version": "2.0.2025100900",
         "lastUpdated": "2025-10-09T00:48:24.06Z"
@@ -17018,10 +17022,6 @@
       {
         "version": "2.0.2025090515",
         "lastUpdated": "2025-09-05T16:22:46.16Z"
-      },
-      {
-        "version": "2.0.2025090414",
-        "lastUpdated": "2025-09-04T15:13:33.417Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17040,7 +17040,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025100900/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
