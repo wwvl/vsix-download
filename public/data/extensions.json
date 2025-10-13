@@ -5925,9 +5925,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025101010",
-    "last_updated": "2025-10-10T10:31:42.46Z",
+    "latest_version": "0.121.2025101304",
+    "last_updated": "2025-10-13T04:26:55.48Z",
     "version_history": [
+      {
+        "version": "0.121.2025101304",
+        "lastUpdated": "2025-10-13T04:26:55.48Z"
+      },
       {
         "version": "0.121.2025101010",
         "lastUpdated": "2025-10-10T10:31:42.46Z"
@@ -6003,15 +6007,11 @@
       {
         "version": "0.119.2025091704",
         "lastUpdated": "2025-09-17T04:19:21.723Z"
-      },
-      {
-        "version": "0.119.2025091604",
-        "lastUpdated": "2025-09-16T04:27:01.833Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101010/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -17140,9 +17140,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025082105",
-    "last_updated": "2025-08-26T05:33:17.65Z",
+    "latest_version": "0.58.2025090407",
+    "last_updated": "2025-10-13T05:39:30.337Z",
     "version_history": [
+      {
+        "version": "0.58.2025090407",
+        "lastUpdated": "2025-10-13T05:39:30.337Z"
+      },
       {
         "version": "0.58.2025082105",
         "lastUpdated": "2025-08-26T05:33:17.65Z"
@@ -17218,15 +17222,11 @@
       {
         "version": "0.56.2024020601",
         "lastUpdated": "2024-02-06T02:11:21.367Z"
-      },
-      {
-        "version": "0.56.2024013105",
-        "lastUpdated": "2024-01-31T05:57:51.55Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025082105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025090407/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
