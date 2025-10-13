@@ -1552,9 +1552,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.17.2",
-    "last_updated": "2025-09-19T12:03:25.947Z",
+    "latest_version": "3.18.0",
+    "last_updated": "2025-10-13T15:00:57.823Z",
     "version_history": [
+      {
+        "version": "3.18.0",
+        "lastUpdated": "2025-10-13T15:00:57.823Z"
+      },
       {
         "version": "3.17.2",
         "lastUpdated": "2025-09-19T12:03:25.947Z"
@@ -1630,10 +1634,6 @@
       {
         "version": "3.9.1",
         "lastUpdated": "2025-06-11T12:07:29.387Z"
-      },
-      {
-        "version": "3.9.0",
-        "lastUpdated": "2025-06-03T13:55:25.92Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1687,7 +1687,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.17.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -8138,9 +8138,17 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.3.5",
-    "last_updated": "2025-10-10T07:40:54.383Z",
+    "latest_version": "1.3.7",
+    "last_updated": "2025-10-13T14:27:35.47Z",
     "version_history": [
+      {
+        "version": "1.3.7",
+        "lastUpdated": "2025-10-13T14:27:35.47Z"
+      },
+      {
+        "version": "1.3.6",
+        "lastUpdated": "2025-10-13T14:28:35.137Z"
+      },
       {
         "version": "1.3.5",
         "lastUpdated": "2025-10-10T07:40:54.383Z"
@@ -8212,14 +8220,6 @@
       {
         "version": "1.2.42",
         "lastUpdated": "2025-08-07T14:51:53.12Z"
-      },
-      {
-        "version": "1.2.41",
-        "lastUpdated": "2025-08-05T13:51:29.013Z"
-      },
-      {
-        "version": "1.2.40",
-        "lastUpdated": "2025-08-04T16:18:48.86Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8253,7 +8253,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -12998,9 +12998,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.22.0",
-    "last_updated": "2025-10-08T21:51:54.367Z",
+    "latest_version": "1.23.0",
+    "last_updated": "2025-10-13T16:46:15.577Z",
     "version_history": [
+      {
+        "version": "1.23.0",
+        "lastUpdated": "2025-10-13T16:46:15.577Z"
+      },
       {
         "version": "1.22.0",
         "lastUpdated": "2025-10-08T21:51:54.367Z"
@@ -13076,15 +13080,11 @@
       {
         "version": "1.6.0",
         "lastUpdated": "2025-07-07T05:02:29.16Z"
-      },
-      {
-        "version": "1.5.0",
-        "lastUpdated": "2025-07-02T01:11:31.623Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.22.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.23.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
