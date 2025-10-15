@@ -1148,9 +1148,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.5.3",
-    "last_updated": "2025-10-10T09:06:39.3Z",
+    "latest_version": "66.5.4",
+    "last_updated": "2025-10-15T03:35:21.39Z",
     "version_history": [
+      {
+        "version": "66.5.4",
+        "lastUpdated": "2025-10-15T03:35:21.39Z"
+      },
       {
         "version": "66.5.3",
         "lastUpdated": "2025-10-10T09:06:39.3Z"
@@ -1226,15 +1230,11 @@
       {
         "version": "65.5.0",
         "lastUpdated": "2025-02-15T08:24:33.65Z"
-      },
-      {
-        "version": "65.4.3",
-        "lastUpdated": "2025-01-22T06:03:21.727Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -1427,9 +1427,17 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.594.0",
-    "last_updated": "2025-10-13T20:55:21.447Z",
+    "latest_version": "0.596.2",
+    "last_updated": "2025-10-15T03:31:04.19Z",
     "version_history": [
+      {
+        "version": "0.596.2",
+        "lastUpdated": "2025-10-15T03:31:04.19Z"
+      },
+      {
+        "version": "0.596.1",
+        "lastUpdated": "2025-10-15T01:47:37.813Z"
+      },
       {
         "version": "0.594.0",
         "lastUpdated": "2025-10-13T20:55:21.447Z"
@@ -1501,14 +1509,6 @@
       {
         "version": "0.557.0",
         "lastUpdated": "2025-09-16T17:06:43.97Z"
-      },
-      {
-        "version": "0.556.0",
-        "lastUpdated": "2025-09-15T17:06:22.76Z"
-      },
-      {
-        "version": "0.555.1",
-        "lastUpdated": "2025-09-15T17:42:35.67Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1545,7 +1545,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.594.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.596.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5521,9 +5521,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025101402",
-    "last_updated": "2025-10-14T22:25:41.08Z",
+    "latest_version": "0.33.2025101502",
+    "last_updated": "2025-10-15T04:29:23.067Z",
     "version_history": [
+      {
+        "version": "0.33.2025101502",
+        "lastUpdated": "2025-10-15T04:29:23.067Z"
+      },
       {
         "version": "0.33.2025101402",
         "lastUpdated": "2025-10-14T22:25:41.08Z"
@@ -5599,10 +5603,6 @@
       {
         "version": "0.32.2025091701",
         "lastUpdated": "2025-09-17T04:27:01.84Z"
-      },
-      {
-        "version": "0.32.2025091602",
-        "lastUpdated": "2025-09-16T16:58:10.58Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5639,7 +5639,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101402/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11917,9 +11917,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.251012001",
-    "last_updated": "2025-10-12T03:02:27.95Z",
+    "latest_version": "0.13.251015001",
+    "last_updated": "2025-10-15T03:02:41.75Z",
     "version_history": [
+      {
+        "version": "0.13.251015001",
+        "lastUpdated": "2025-10-15T03:02:41.75Z"
+      },
       {
         "version": "0.13.251012001",
         "lastUpdated": "2025-10-12T03:02:27.95Z"
@@ -11995,15 +11999,11 @@
       {
         "version": "0.13.250822001",
         "lastUpdated": "2025-08-22T03:09:11.4Z"
-      },
-      {
-        "version": "0.13.250819001",
-        "lastUpdated": "2025-08-19T03:00:08.357Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251012001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251015001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -18730,9 +18730,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.484",
-    "last_updated": "2025-10-08T02:55:40.92Z",
+    "latest_version": "1.0.485",
+    "last_updated": "2025-10-15T06:04:47.68Z",
     "version_history": [
+      {
+        "version": "1.0.485",
+        "lastUpdated": "2025-10-15T06:04:47.68Z"
+      },
       {
         "version": "1.0.484",
         "lastUpdated": "2025-10-08T02:55:40.92Z"
@@ -18808,15 +18812,11 @@
       {
         "version": "1.0.462",
         "lastUpdated": "2025-08-01T22:13:47.4Z"
-      },
-      {
-        "version": "1.0.461",
-        "lastUpdated": "2025-08-01T01:22:18.26Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.484/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.485/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
