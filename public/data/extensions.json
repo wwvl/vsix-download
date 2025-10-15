@@ -5521,9 +5521,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025101502",
-    "last_updated": "2025-10-15T04:29:23.067Z",
+    "latest_version": "0.33.2025101503",
+    "last_updated": "2025-10-15T07:56:26.013Z",
     "version_history": [
+      {
+        "version": "0.33.2025101503",
+        "lastUpdated": "2025-10-15T07:56:26.013Z"
+      },
       {
         "version": "0.33.2025101502",
         "lastUpdated": "2025-10-15T04:29:23.067Z"
@@ -5599,10 +5603,6 @@
       {
         "version": "0.32.2025091801",
         "lastUpdated": "2025-09-18T04:31:22.4Z"
-      },
-      {
-        "version": "0.32.2025091701",
-        "lastUpdated": "2025-09-17T04:27:01.84Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5639,7 +5639,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101502/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101503/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8900,9 +8900,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.105.2025100809",
-    "last_updated": "2025-10-08T09:32:22.437Z",
+    "latest_version": "1.105.2025101509",
+    "last_updated": "2025-10-15T09:28:21.5Z",
     "version_history": [
+      {
+        "version": "1.105.2025101509",
+        "lastUpdated": "2025-10-15T09:28:21.5Z"
+      },
       {
         "version": "1.105.2025100809",
         "lastUpdated": "2025-10-08T09:32:22.437Z"
@@ -8978,15 +8982,11 @@
       {
         "version": "1.101.2025052809",
         "lastUpdated": "2025-05-28T09:23:06.833Z"
-      },
-      {
-        "version": "1.101.2025052109",
-        "lastUpdated": "2025-05-21T09:17:27.7Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.105.2025100809/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.105.2025101509/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -13871,9 +13871,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025101408",
-    "last_updated": "2025-10-14T08:28:13.903Z",
+    "latest_version": "1.47.2025101508",
+    "last_updated": "2025-10-15T08:30:46.013Z",
     "version_history": [
+      {
+        "version": "1.47.2025101508",
+        "lastUpdated": "2025-10-15T08:30:46.013Z"
+      },
       {
         "version": "1.47.2025101408",
         "lastUpdated": "2025-10-14T08:28:13.903Z"
@@ -13949,24 +13953,24 @@
       {
         "version": "1.46.2025091008",
         "lastUpdated": "2025-09-10T08:31:24.64Z"
-      },
-      {
-        "version": "1.46.2025090608",
-        "lastUpdated": "2025-09-06T08:22:27.343Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025100808",
-    "last_updated": "2025-10-08T08:16:17.503Z",
+    "latest_version": "1.20.2025101508",
+    "last_updated": "2025-10-15T08:15:12.94Z",
     "version_history": [
+      {
+        "version": "1.20.2025101508",
+        "lastUpdated": "2025-10-15T08:15:12.94Z"
+      },
       {
         "version": "1.20.2025100808",
         "lastUpdated": "2025-10-08T08:16:17.503Z"
@@ -14042,15 +14046,11 @@
       {
         "version": "1.8.0",
         "lastUpdated": "2022-06-09T11:02:05.263Z"
-      },
-      {
-        "version": "1.7.0",
-        "lastUpdated": "2022-04-26T07:21:55.877Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025100808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025101508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -16935,113 +16935,6 @@
     "tags": ["java", "spring-boot", "yaml"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-boot-dev-pack/0.2.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack"
-  },
-  {
-    "extension_name": "vmware.vscode-spring-boot",
-    "display_name": "Spring Boot Tools",
-    "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025101400",
-    "last_updated": "2025-10-14T01:26:32.013Z",
-    "version_history": [
-      {
-        "version": "2.0.2025101400",
-        "lastUpdated": "2025-10-14T01:26:32.013Z"
-      },
-      {
-        "version": "2.0.2025101100",
-        "lastUpdated": "2025-10-11T01:11:42.04Z"
-      },
-      {
-        "version": "2.0.2025100900",
-        "lastUpdated": "2025-10-09T00:48:24.06Z"
-      },
-      {
-        "version": "2.0.2025100700",
-        "lastUpdated": "2025-10-07T01:22:59.973Z"
-      },
-      {
-        "version": "2.0.2025100400",
-        "lastUpdated": "2025-10-04T00:52:30.73Z"
-      },
-      {
-        "version": "2.0.2025100206",
-        "lastUpdated": "2025-10-02T07:37:59.67Z"
-      },
-      {
-        "version": "2.0.2025100200",
-        "lastUpdated": "2025-10-02T01:03:33.67Z"
-      },
-      {
-        "version": "2.0.2025093000",
-        "lastUpdated": "2025-09-30T01:20:49.82Z"
-      },
-      {
-        "version": "2.0.2025092700",
-        "lastUpdated": "2025-09-27T01:06:24.07Z"
-      },
-      {
-        "version": "2.0.2025092605",
-        "lastUpdated": "2025-09-26T05:32:32.443Z"
-      },
-      {
-        "version": "2.0.2025092500",
-        "lastUpdated": "2025-09-25T01:13:05.123Z"
-      },
-      {
-        "version": "2.0.2025092300",
-        "lastUpdated": "2025-09-23T01:15:12.63Z"
-      },
-      {
-        "version": "2.0.2025092000",
-        "lastUpdated": "2025-09-20T01:18:38.69Z"
-      },
-      {
-        "version": "2.0.2025091914",
-        "lastUpdated": "2025-09-19T15:46:50.657Z"
-      },
-      {
-        "version": "2.0.2025091800",
-        "lastUpdated": "2025-09-18T00:47:07.177Z"
-      },
-      {
-        "version": "2.0.2025091600",
-        "lastUpdated": "2025-09-16T01:39:22.167Z"
-      },
-      {
-        "version": "2.0.2025091300",
-        "lastUpdated": "2025-09-13T00:44:37.37Z"
-      },
-      {
-        "version": "2.0.2025091100",
-        "lastUpdated": "2025-09-11T01:16:25.577Z"
-      },
-      {
-        "version": "2.0.2025090900",
-        "lastUpdated": "2025-09-09T01:05:39.48Z"
-      },
-      {
-        "version": "2.0.2025090600",
-        "lastUpdated": "2025-09-06T01:10:30.08Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Linters", "AI", "Chat"],
-    "tags": [
-      "application-properties",
-      "application-yaml",
-      "java",
-      "java-properties",
-      "JPA Query Properties",
-      "jpa-query-properties",
-      "Spring Boot Properties",
-      "Spring Boot Properties Yaml",
-      "Spring Factories",
-      "spring-boot",
-      "spring-boot-properties",
-      "spring-boot-properties-yaml",
-      "spring-factories"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101400/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
     "extension_name": "vscjava.vscode-gradle",
