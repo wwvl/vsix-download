@@ -5925,9 +5925,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025101404",
-    "last_updated": "2025-10-14T04:24:25.39Z",
+    "latest_version": "0.121.2025101514",
+    "last_updated": "2025-10-15T14:26:37.22Z",
     "version_history": [
+      {
+        "version": "0.121.2025101514",
+        "lastUpdated": "2025-10-15T14:26:37.22Z"
+      },
       {
         "version": "0.121.2025101404",
         "lastUpdated": "2025-10-14T04:24:25.39Z"
@@ -6003,15 +6007,11 @@
       {
         "version": "0.119.2025091921",
         "lastUpdated": "2025-09-19T21:36:05.477Z"
-      },
-      {
-        "version": "0.119.2025091804",
-        "lastUpdated": "2025-09-18T04:20:07.323Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101514/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -16935,6 +16935,113 @@
     "tags": ["java", "spring-boot", "yaml"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-boot-dev-pack/0.2.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack"
+  },
+  {
+    "extension_name": "vmware.vscode-spring-boot",
+    "display_name": "Spring Boot Tools",
+    "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
+    "latest_version": "2.0.2025101400",
+    "last_updated": "2025-10-14T01:26:32.013Z",
+    "version_history": [
+      {
+        "version": "2.0.2025101400",
+        "lastUpdated": "2025-10-14T01:26:32.013Z"
+      },
+      {
+        "version": "2.0.2025101100",
+        "lastUpdated": "2025-10-11T01:11:42.04Z"
+      },
+      {
+        "version": "2.0.2025100900",
+        "lastUpdated": "2025-10-09T00:48:24.06Z"
+      },
+      {
+        "version": "2.0.2025100700",
+        "lastUpdated": "2025-10-07T01:22:59.973Z"
+      },
+      {
+        "version": "2.0.2025100400",
+        "lastUpdated": "2025-10-04T00:52:30.73Z"
+      },
+      {
+        "version": "2.0.2025100206",
+        "lastUpdated": "2025-10-02T07:37:59.67Z"
+      },
+      {
+        "version": "2.0.2025100200",
+        "lastUpdated": "2025-10-02T01:03:33.67Z"
+      },
+      {
+        "version": "2.0.2025093000",
+        "lastUpdated": "2025-09-30T01:20:49.82Z"
+      },
+      {
+        "version": "2.0.2025092700",
+        "lastUpdated": "2025-09-27T01:06:24.07Z"
+      },
+      {
+        "version": "2.0.2025092605",
+        "lastUpdated": "2025-09-26T05:32:32.443Z"
+      },
+      {
+        "version": "2.0.2025092500",
+        "lastUpdated": "2025-09-25T01:13:05.123Z"
+      },
+      {
+        "version": "2.0.2025092300",
+        "lastUpdated": "2025-09-23T01:15:12.63Z"
+      },
+      {
+        "version": "2.0.2025092000",
+        "lastUpdated": "2025-09-20T01:18:38.69Z"
+      },
+      {
+        "version": "2.0.2025091914",
+        "lastUpdated": "2025-09-19T15:46:50.657Z"
+      },
+      {
+        "version": "2.0.2025091800",
+        "lastUpdated": "2025-09-18T00:47:07.177Z"
+      },
+      {
+        "version": "2.0.2025091600",
+        "lastUpdated": "2025-09-16T01:39:22.167Z"
+      },
+      {
+        "version": "2.0.2025091300",
+        "lastUpdated": "2025-09-13T00:44:37.37Z"
+      },
+      {
+        "version": "2.0.2025091100",
+        "lastUpdated": "2025-09-11T01:16:25.577Z"
+      },
+      {
+        "version": "2.0.2025090900",
+        "lastUpdated": "2025-09-09T01:05:39.48Z"
+      },
+      {
+        "version": "2.0.2025090600",
+        "lastUpdated": "2025-09-06T01:10:30.08Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Linters", "AI", "Chat"],
+    "tags": [
+      "application-properties",
+      "application-yaml",
+      "java",
+      "java-properties",
+      "JPA Query Properties",
+      "jpa-query-properties",
+      "Spring Boot Properties",
+      "Spring Boot Properties Yaml",
+      "Spring Factories",
+      "spring-boot",
+      "spring-boot-properties",
+      "spring-boot-properties-yaml",
+      "spring-factories"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101400/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
     "extension_name": "vscjava.vscode-gradle",
