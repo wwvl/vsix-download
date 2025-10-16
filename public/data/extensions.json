@@ -5521,9 +5521,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025101503",
-    "last_updated": "2025-10-15T07:56:26.013Z",
+    "latest_version": "0.33.2025101601",
+    "last_updated": "2025-10-16T04:31:53.437Z",
     "version_history": [
+      {
+        "version": "0.33.2025101601",
+        "lastUpdated": "2025-10-16T04:31:53.437Z"
+      },
       {
         "version": "0.33.2025101503",
         "lastUpdated": "2025-10-15T07:56:26.013Z"
@@ -5599,10 +5603,6 @@
       {
         "version": "0.32.2025091901",
         "lastUpdated": "2025-09-19T04:26:43.373Z"
-      },
-      {
-        "version": "0.32.2025091801",
-        "lastUpdated": "2025-09-18T04:31:22.4Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5639,7 +5639,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101503/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5925,9 +5925,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025101514",
-    "last_updated": "2025-10-15T14:26:37.22Z",
+    "latest_version": "0.121.2025101604",
+    "last_updated": "2025-10-16T04:29:27.713Z",
     "version_history": [
+      {
+        "version": "0.121.2025101604",
+        "lastUpdated": "2025-10-16T04:29:27.713Z"
+      },
       {
         "version": "0.121.2025101514",
         "lastUpdated": "2025-10-15T14:26:37.22Z"
@@ -6003,15 +6007,11 @@
       {
         "version": "0.119.2025092204",
         "lastUpdated": "2025-09-22T04:19:47.327Z"
-      },
-      {
-        "version": "0.119.2025091921",
-        "lastUpdated": "2025-09-19T21:36:05.477Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101514/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025101604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11173,9 +11173,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.14",
-    "last_updated": "2025-10-08T04:36:13.06Z",
+    "latest_version": "1.22.15",
+    "last_updated": "2025-10-16T04:38:29.877Z",
     "version_history": [
+      {
+        "version": "1.22.15",
+        "lastUpdated": "2025-10-16T04:38:29.877Z"
+      },
       {
         "version": "1.22.14",
         "lastUpdated": "2025-10-08T04:36:13.06Z"
@@ -11251,15 +11255,11 @@
       {
         "version": "1.21.33",
         "lastUpdated": "2025-06-26T04:25:30.263Z"
-      },
-      {
-        "version": "1.21.32",
-        "lastUpdated": "2025-06-24T04:32:06.12Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
