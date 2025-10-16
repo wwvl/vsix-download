@@ -2087,9 +2087,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.8.0",
-    "last_updated": "2025-10-14T17:08:40.553Z",
+    "latest_version": "3.8.1",
+    "last_updated": "2025-10-16T13:06:03.66Z",
     "version_history": [
+      {
+        "version": "3.8.1",
+        "lastUpdated": "2025-10-16T13:06:03.66Z"
+      },
       {
         "version": "3.8.0",
         "lastUpdated": "2025-10-14T17:08:40.553Z"
@@ -2165,10 +2169,6 @@
       {
         "version": "2.16.0",
         "lastUpdated": "2025-05-11T22:41:14.723Z"
-      },
-      {
-        "version": "2.15.3",
-        "lastUpdated": "2025-04-14T04:45:06Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2190,7 +2190,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.8.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -14578,9 +14578,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.32.8",
-    "last_updated": "2025-10-15T19:07:33.813Z",
+    "latest_version": "3.33.1",
+    "last_updated": "2025-10-16T17:35:50.323Z",
     "version_history": [
+      {
+        "version": "3.33.1",
+        "lastUpdated": "2025-10-16T17:35:50.323Z"
+      },
+      {
+        "version": "3.33.0",
+        "lastUpdated": "2025-10-16T16:51:34Z"
+      },
       {
         "version": "3.32.8",
         "lastUpdated": "2025-10-15T19:07:33.813Z"
@@ -14652,19 +14660,11 @@
       {
         "version": "3.28.6",
         "lastUpdated": "2025-09-16T18:54:22.35Z"
-      },
-      {
-        "version": "3.28.5",
-        "lastUpdated": "2025-09-15T23:33:37.86Z"
-      },
-      {
-        "version": "3.28.4",
-        "lastUpdated": "2025-09-15T04:18:09.613Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.32.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.33.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
