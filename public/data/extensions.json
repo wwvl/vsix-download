@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.1005",
-    "last_updated": "2025-10-10T09:12:56.42Z",
+    "latest_version": "2025.10.1605",
+    "last_updated": "2025-10-16T09:14:25.41Z",
     "version_history": [
+      {
+        "version": "2025.10.1605",
+        "lastUpdated": "2025-10-16T09:14:25.41Z"
+      },
       {
         "version": "2025.10.1005",
         "lastUpdated": "2025-10-10T09:12:56.42Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.2005",
         "lastUpdated": "2025-09-20T09:10:56.68Z"
-      },
-      {
-        "version": "2025.9.1905",
-        "lastUpdated": "2025-09-19T09:13:16.1Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1005/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1605/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13313,9 +13313,13 @@
     "extension_name": "Postman.postman-for-vscode",
     "display_name": "Postman",
     "short_description": "Streamline API development and testing with the power of Postman, directly in your favorite IDE.",
-    "latest_version": "1.16.2",
-    "last_updated": "2025-09-18T07:55:22.583Z",
+    "latest_version": "1.17.0",
+    "last_updated": "2025-10-16T07:08:55.807Z",
     "version_history": [
+      {
+        "version": "1.17.0",
+        "lastUpdated": "2025-10-16T07:08:55.807Z"
+      },
       {
         "version": "1.16.2",
         "lastUpdated": "2025-09-18T07:55:22.583Z"
@@ -13391,15 +13395,11 @@
       {
         "version": "1.2.1",
         "lastUpdated": "2024-07-31T14:03:23.65Z"
-      },
-      {
-        "version": "1.2.0",
-        "lastUpdated": "2024-07-30T06:37:49.037Z"
       }
     ],
     "categories": ["Programming Languages", "Education", "Testing"],
     "tags": ["api client", "grpc client", "http client", "keybindings", "Postman", "rest client", "testing", "websocket client"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.16.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Postman/vsextensions/postman-for-vscode/1.17.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode"
   },
   {
@@ -13871,9 +13871,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025101508",
-    "last_updated": "2025-10-15T08:30:46.013Z",
+    "latest_version": "1.47.2025101608",
+    "last_updated": "2025-10-16T08:30:03.163Z",
     "version_history": [
+      {
+        "version": "1.47.2025101608",
+        "lastUpdated": "2025-10-16T08:30:03.163Z"
+      },
       {
         "version": "1.47.2025101508",
         "lastUpdated": "2025-10-15T08:30:46.013Z"
@@ -13949,15 +13953,11 @@
       {
         "version": "1.46.2025091108",
         "lastUpdated": "2025-09-11T08:45:38.593Z"
-      },
-      {
-        "version": "1.46.2025091008",
-        "lastUpdated": "2025-09-10T08:31:24.64Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
