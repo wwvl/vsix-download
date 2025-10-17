@@ -5521,9 +5521,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025101606",
-    "last_updated": "2025-10-16T23:23:12.5Z",
+    "latest_version": "0.33.2025101701",
+    "last_updated": "2025-10-17T04:37:40.34Z",
     "version_history": [
+      {
+        "version": "0.33.2025101701",
+        "lastUpdated": "2025-10-17T04:37:40.34Z"
+      },
       {
         "version": "0.33.2025101606",
         "lastUpdated": "2025-10-16T23:23:12.5Z"
@@ -5599,10 +5603,6 @@
       {
         "version": "0.32.2025092201",
         "lastUpdated": "2025-09-22T04:28:01.007Z"
-      },
-      {
-        "version": "0.32.2025091902",
-        "lastUpdated": "2025-09-19T19:56:32.423Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5639,7 +5639,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101606/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025101701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -11173,9 +11173,13 @@
     "extension_name": "ms-vscode.cmake-tools",
     "display_name": "CMake Tools",
     "short_description": "Extended CMake support in Visual Studio Code",
-    "latest_version": "1.22.15",
-    "last_updated": "2025-10-16T04:38:29.877Z",
+    "latest_version": "1.22.16",
+    "last_updated": "2025-10-17T04:32:16.803Z",
     "version_history": [
+      {
+        "version": "1.22.16",
+        "lastUpdated": "2025-10-17T04:32:16.803Z"
+      },
       {
         "version": "1.22.15",
         "lastUpdated": "2025-10-16T04:38:29.877Z"
@@ -11251,15 +11255,11 @@
       {
         "version": "1.21.34",
         "lastUpdated": "2025-06-30T04:23:11.713Z"
-      },
-      {
-        "version": "1.21.33",
-        "lastUpdated": "2025-06-26T04:25:30.263Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["build", "c++", "cmake", "CMakeCache", "cmake-cache", "debuggers", "json", "keybindings", "native", "syntaxes", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.15/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cmake-tools/1.22.16/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
   },
   {
@@ -17233,9 +17233,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.26.2025092801",
-    "last_updated": "2025-09-28T02:34:47.827Z",
+    "latest_version": "0.26.2025101705",
+    "last_updated": "2025-10-17T06:07:50.667Z",
     "version_history": [
+      {
+        "version": "0.26.2025101705",
+        "lastUpdated": "2025-10-17T06:07:50.667Z"
+      },
       {
         "version": "0.26.2025092801",
         "lastUpdated": "2025-09-28T02:34:47.827Z"
@@ -17311,15 +17315,11 @@
       {
         "version": "0.23.2023100802",
         "lastUpdated": "2023-10-08T02:46:35.663Z"
-      },
-      {
-        "version": "0.23.2023080400",
-        "lastUpdated": "2023-08-04T00:10:09.793Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025092801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025101705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
