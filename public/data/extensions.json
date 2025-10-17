@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.1618",
-    "last_updated": "2025-10-16T22:24:31.247Z",
+    "latest_version": "2025.10.1705",
+    "last_updated": "2025-10-17T09:18:19.533Z",
     "version_history": [
+      {
+        "version": "2025.10.1705",
+        "lastUpdated": "2025-10-17T09:18:19.533Z"
+      },
       {
         "version": "2025.10.1618",
         "lastUpdated": "2025-10-16T22:24:31.247Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.2405",
         "lastUpdated": "2025-09-24T09:13:40.68Z"
-      },
-      {
-        "version": "2025.9.2305",
-        "lastUpdated": "2025-09-23T09:07:48.2Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1618/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8653,9 +8653,13 @@
     "extension_name": "monokai.theme-monokai-pro-vscode",
     "display_name": "Monokai Pro",
     "short_description": "✨ Professional dark & light theme + icon pack, from the author of the original Monokai color scheme.",
-    "latest_version": "2.0.8",
-    "last_updated": "2025-10-04T16:42:59.61Z",
+    "latest_version": "2.0.9",
+    "last_updated": "2025-10-17T12:01:27.76Z",
     "version_history": [
+      {
+        "version": "2.0.9",
+        "lastUpdated": "2025-10-17T12:01:27.76Z"
+      },
       {
         "version": "2.0.8",
         "lastUpdated": "2025-10-04T16:42:59.61Z"
@@ -8731,15 +8735,11 @@
       {
         "version": "1.1.18",
         "lastUpdated": "2020-11-18T18:16:36.39Z"
-      },
-      {
-        "version": "1.1.17",
-        "lastUpdated": "2020-06-09T07:04:55.787Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["beautiful functionality", "color-theme", "dark", "focus", "icons", "icon-theme", "light", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
   },
   {
@@ -10075,9 +10075,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.17.2025100201",
-    "last_updated": "2025-10-02T10:52:26.39Z",
+    "latest_version": "2025.17.2025101701",
+    "last_updated": "2025-10-17T10:44:18.673Z",
     "version_history": [
+      {
+        "version": "2025.17.2025101701",
+        "lastUpdated": "2025-10-17T10:44:18.673Z"
+      },
       {
         "version": "2025.17.2025100201",
         "lastUpdated": "2025-10-02T10:52:26.39Z"
@@ -10153,10 +10157,6 @@
       {
         "version": "2025.11.2025072201",
         "lastUpdated": "2025-07-22T10:46:52.197Z"
-      },
-      {
-        "version": "2025.11.2025071801",
-        "lastUpdated": "2025-07-18T10:41:35Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10179,7 +10179,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.17.2025100201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.17.2025101701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -13871,9 +13871,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025101608",
-    "last_updated": "2025-10-16T08:30:03.163Z",
+    "latest_version": "1.47.2025101708",
+    "last_updated": "2025-10-17T08:28:19.613Z",
     "version_history": [
+      {
+        "version": "1.47.2025101708",
+        "lastUpdated": "2025-10-17T08:28:19.613Z"
+      },
       {
         "version": "1.47.2025101608",
         "lastUpdated": "2025-10-16T08:30:03.163Z"
@@ -13949,15 +13953,11 @@
       {
         "version": "1.46.2025091308",
         "lastUpdated": "2025-09-13T08:28:14.65Z"
-      },
-      {
-        "version": "1.46.2025091108",
-        "lastUpdated": "2025-09-11T08:45:38.593Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -15862,9 +15862,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.5.8441757",
-    "last_updated": "2025-09-29T15:10:04.493Z",
+    "latest_version": "3.6.9917994",
+    "last_updated": "2025-10-17T08:19:42.613Z",
     "version_history": [
+      {
+        "version": "3.6.9917994",
+        "lastUpdated": "2025-10-17T08:19:42.613Z"
+      },
       {
         "version": "3.5.8441757",
         "lastUpdated": "2025-09-29T15:10:04.493Z"
@@ -15940,10 +15944,6 @@
       {
         "version": "3.1.12",
         "lastUpdated": "2025-05-09T08:54:10.977Z"
-      },
-      {
-        "version": "3.1.11",
-        "lastUpdated": "2025-04-29T03:04:44.86Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15972,7 +15972,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.5.8441757/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.6.9917994/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
@@ -16940,9 +16940,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025101600",
-    "last_updated": "2025-10-16T01:16:38.97Z",
+    "latest_version": "2.0.2025101708",
+    "last_updated": "2025-10-17T09:22:44.147Z",
     "version_history": [
+      {
+        "version": "2.0.2025101708",
+        "lastUpdated": "2025-10-17T09:22:44.147Z"
+      },
       {
         "version": "2.0.2025101600",
         "lastUpdated": "2025-10-16T01:16:38.97Z"
@@ -17018,10 +17022,6 @@
       {
         "version": "2.0.2025091100",
         "lastUpdated": "2025-09-11T01:16:25.577Z"
-      },
-      {
-        "version": "2.0.2025090900",
-        "lastUpdated": "2025-09-09T01:05:39.48Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17040,7 +17040,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101600/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17326,9 +17326,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.30.2025092800",
-    "last_updated": "2025-09-28T02:32:43.853Z",
+    "latest_version": "0.30.2025101706",
+    "last_updated": "2025-10-17T07:09:49.137Z",
     "version_history": [
+      {
+        "version": "0.30.2025101706",
+        "lastUpdated": "2025-10-17T07:09:49.137Z"
+      },
       {
         "version": "0.30.2025092800",
         "lastUpdated": "2025-09-28T02:32:43.853Z"
@@ -17404,15 +17408,11 @@
       {
         "version": "0.28.0",
         "lastUpdated": "2024-08-01T03:30:30.553Z"
-      },
-      {
-        "version": "0.27.2024072009",
-        "lastUpdated": "2024-07-20T10:05:59.423Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025092800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025101706/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
