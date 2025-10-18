@@ -12010,13 +12010,9 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251017",
-    "last_updated": "2025-10-18T00:22:48.883Z",
+    "latest_version": "6.0.20251016",
+    "last_updated": "2025-10-17T00:31:53.34Z",
     "version_history": [
-      {
-        "version": "6.0.20251017",
-        "lastUpdated": "2025-10-18T00:22:48.883Z"
-      },
       {
         "version": "6.0.20251016",
         "lastUpdated": "2025-10-17T00:31:53.34Z"
@@ -12092,11 +12088,15 @@
       {
         "version": "6.0.20250928",
         "lastUpdated": "2025-09-29T00:15:57.943Z"
+      },
+      {
+        "version": "6.0.20250927",
+        "lastUpdated": "2025-09-28T00:14:56.007Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251017/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251016/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14278,11 +14278,11 @@
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
     "latest_version": "0.4.2648",
-    "last_updated": "2025-10-18T00:50:51.283Z",
+    "last_updated": "2025-10-18T01:54:36.12Z",
     "version_history": [
       {
         "version": "0.4.2648",
-        "lastUpdated": "2025-10-18T00:50:51.283Z"
+        "lastUpdated": "2025-10-18T01:54:36.12Z"
       },
       {
         "version": "0.4.2647",
@@ -16940,9 +16940,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025101708",
-    "last_updated": "2025-10-17T09:22:44.147Z",
+    "latest_version": "2.0.2025101800",
+    "last_updated": "2025-10-18T01:42:09.27Z",
     "version_history": [
+      {
+        "version": "2.0.2025101800",
+        "lastUpdated": "2025-10-18T01:42:09.27Z"
+      },
       {
         "version": "2.0.2025101708",
         "lastUpdated": "2025-10-17T09:22:44.147Z"
@@ -17018,10 +17022,6 @@
       {
         "version": "2.0.2025091300",
         "lastUpdated": "2025-09-13T00:44:37.37Z"
-      },
-      {
-        "version": "2.0.2025091100",
-        "lastUpdated": "2025-09-11T01:16:25.577Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17040,7 +17040,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
