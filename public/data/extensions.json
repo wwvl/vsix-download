@@ -4220,9 +4220,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.1711",
-    "last_updated": "2025-10-17T15:24:02.013Z",
+    "latest_version": "2025.10.1805",
+    "last_updated": "2025-10-18T09:12:53.44Z",
     "version_history": [
+      {
+        "version": "2025.10.1805",
+        "lastUpdated": "2025-10-18T09:12:53.44Z"
+      },
       {
         "version": "2025.10.1711",
         "lastUpdated": "2025-10-17T15:24:02.013Z"
@@ -4298,15 +4302,11 @@
       {
         "version": "2025.9.2505",
         "lastUpdated": "2025-09-25T09:12:34.35Z"
-      },
-      {
-        "version": "2025.9.2417",
-        "lastUpdated": "2025-09-24T21:29:48.953Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1711/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -12010,9 +12010,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251016",
-    "last_updated": "2025-10-17T00:31:53.34Z",
+    "latest_version": "6.0.20251017",
+    "last_updated": "2025-10-18T00:22:48.883Z",
     "version_history": [
+      {
+        "version": "6.0.20251017",
+        "lastUpdated": "2025-10-18T00:22:48.883Z"
+      },
       {
         "version": "6.0.20251016",
         "lastUpdated": "2025-10-17T00:31:53.34Z"
@@ -12088,15 +12092,11 @@
       {
         "version": "6.0.20250928",
         "lastUpdated": "2025-09-29T00:15:57.943Z"
-      },
-      {
-        "version": "6.0.20250927",
-        "lastUpdated": "2025-09-28T00:14:56.007Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251016/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251017/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13871,9 +13871,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025101715",
-    "last_updated": "2025-10-17T15:46:02.567Z",
+    "latest_version": "1.47.2025101808",
+    "last_updated": "2025-10-18T08:27:14.203Z",
     "version_history": [
+      {
+        "version": "1.47.2025101808",
+        "lastUpdated": "2025-10-18T08:27:14.203Z"
+      },
       {
         "version": "1.47.2025101715",
         "lastUpdated": "2025-10-17T15:46:02.567Z"
@@ -13949,15 +13953,11 @@
       {
         "version": "1.46.2025091808",
         "lastUpdated": "2025-09-18T08:30:45.327Z"
-      },
-      {
-        "version": "1.46.2025091708",
-        "lastUpdated": "2025-09-17T08:36:54.897Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101715/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
