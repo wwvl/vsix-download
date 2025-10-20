@@ -8156,9 +8156,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.3.8",
-    "last_updated": "2025-10-14T10:38:38.52Z",
+    "latest_version": "1.3.9",
+    "last_updated": "2025-10-20T15:16:44.973Z",
     "version_history": [
+      {
+        "version": "1.3.9",
+        "lastUpdated": "2025-10-20T15:16:44.973Z"
+      },
       {
         "version": "1.3.8",
         "lastUpdated": "2025-10-14T10:38:38.52Z"
@@ -8234,10 +8238,6 @@
       {
         "version": "1.2.45",
         "lastUpdated": "2025-08-14T13:31:45.63Z"
-      },
-      {
-        "version": "1.2.44",
-        "lastUpdated": "2025-08-12T04:45:31.62Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8271,7 +8271,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -17251,9 +17251,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.26.2025101705",
-    "last_updated": "2025-10-17T06:07:50.667Z",
+    "latest_version": "0.26.2025102014",
+    "last_updated": "2025-10-20T14:56:30.19Z",
     "version_history": [
+      {
+        "version": "0.26.2025102014",
+        "lastUpdated": "2025-10-20T14:56:30.19Z"
+      },
       {
         "version": "0.26.2025101705",
         "lastUpdated": "2025-10-17T06:07:50.667Z"
@@ -17329,15 +17333,11 @@
       {
         "version": "0.23.2023120100",
         "lastUpdated": "2023-12-04T05:25:31.51Z"
-      },
-      {
-        "version": "0.23.2023100802",
-        "lastUpdated": "2023-10-08T02:46:35.663Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025101705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102014/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
