@@ -1055,9 +1055,21 @@
     "extension_name": "antfu.iconify",
     "display_name": "Iconify IntelliSense",
     "short_description": "Intelligent Iconify previewing and searching for VS Code",
-    "latest_version": "0.12.1",
-    "last_updated": "2025-08-23T14:12:39.4Z",
+    "latest_version": "1.0.0",
+    "last_updated": "2025-10-19T22:17:15.363Z",
     "version_history": [
+      {
+        "version": "1.0.0",
+        "lastUpdated": "2025-10-19T22:17:15.363Z"
+      },
+      {
+        "version": "0.12.3",
+        "lastUpdated": "2025-10-19T22:16:02.403Z"
+      },
+      {
+        "version": "0.12.2",
+        "lastUpdated": "2025-10-19T22:16:05.347Z"
+      },
       {
         "version": "0.12.1",
         "lastUpdated": "2025-08-23T14:12:39.4Z"
@@ -1125,23 +1137,29 @@
       {
         "version": "0.7.6",
         "lastUpdated": "2024-04-08T13:49:31.477Z"
-      },
-      {
-        "version": "0.7.5",
-        "lastUpdated": "2024-02-16T09:16:54.44Z"
-      },
-      {
-        "version": "0.7.4",
-        "lastUpdated": "2023-12-29T07:23:27.627Z"
-      },
-      {
-        "version": "0.7.3",
-        "lastUpdated": "2023-12-28T11:18:39.427Z"
       }
     ],
     "categories": ["Snippets", "Visualization"],
-    "tags": ["css", "django-html", "handlebars", "html", "iconify", "icons", "javascript", "javascriptreact", "markdown", "mdx", "snippet", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/0.12.1/vspackage",
+    "tags": [
+      "css",
+      "django-html",
+      "glimmer-js",
+      "glimmer-ts",
+      "handlebars",
+      "html",
+      "iconify",
+      "icons",
+      "javascript",
+      "javascriptreact",
+      "markdown",
+      "mdx",
+      "snippet",
+      "svelte",
+      "typescript",
+      "typescriptreact",
+      "vue"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/iconify/1.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.iconify"
   },
   {
@@ -12010,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251018",
-    "last_updated": "2025-10-19T00:25:54.4Z",
+    "latest_version": "6.0.20251019",
+    "last_updated": "2025-10-20T00:19:19.72Z",
     "version_history": [
+      {
+        "version": "6.0.20251019",
+        "lastUpdated": "2025-10-20T00:19:19.72Z"
+      },
       {
         "version": "6.0.20251018",
         "lastUpdated": "2025-10-19T00:25:54.4Z"
@@ -12088,15 +12110,11 @@
       {
         "version": "6.0.20250930",
         "lastUpdated": "2025-10-01T00:14:40.507Z"
-      },
-      {
-        "version": "6.0.20250929",
-        "lastUpdated": "2025-09-30T00:16:03.863Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251018/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251019/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14277,9 +14295,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2649",
-    "last_updated": "2025-10-19T00:58:47.837Z",
+    "latest_version": "0.4.2650",
+    "last_updated": "2025-10-20T00:58:47.06Z",
     "version_history": [
+      {
+        "version": "0.4.2650",
+        "lastUpdated": "2025-10-20T00:58:47.06Z"
+      },
       {
         "version": "0.4.2649",
         "lastUpdated": "2025-10-19T00:58:47.837Z"
@@ -14355,15 +14377,11 @@
       {
         "version": "0.4.2628",
         "lastUpdated": "2025-09-29T01:09:11.283Z"
-      },
-      {
-        "version": "0.4.2627",
-        "lastUpdated": "2025-09-28T01:09:26.177Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2649/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2650/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
