@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.1805",
-    "last_updated": "2025-10-18T09:12:53.44Z",
+    "latest_version": "2025.10.2005",
+    "last_updated": "2025-10-20T09:14:03.72Z",
     "version_history": [
+      {
+        "version": "2025.10.2005",
+        "lastUpdated": "2025-10-20T09:14:03.72Z"
+      },
       {
         "version": "2025.10.1805",
         "lastUpdated": "2025-10-18T09:12:53.44Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.9.2705",
         "lastUpdated": "2025-09-27T09:11:33.633Z"
-      },
-      {
-        "version": "2025.9.2505",
-        "lastUpdated": "2025-09-25T09:12:34.35Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.1805/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9721,9 +9721,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.15.2025101301",
-    "last_updated": "2025-10-13T10:40:26.973Z",
+    "latest_version": "2025.15.2025102001",
+    "last_updated": "2025-10-20T10:49:24.97Z",
     "version_history": [
+      {
+        "version": "2025.15.2025102001",
+        "lastUpdated": "2025-10-20T10:49:24.97Z"
+      },
       {
         "version": "2025.15.2025101301",
         "lastUpdated": "2025-10-13T10:40:26.973Z"
@@ -9799,15 +9803,11 @@
       {
         "version": "2025.9.2025051201",
         "lastUpdated": "2025-05-12T10:35:15.2Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-05-08T19:01:57.91Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025101301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025102001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -12214,9 +12214,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.23.2025101308",
-    "last_updated": "2025-10-13T10:09:09.553Z",
+    "latest_version": "0.24.0",
+    "last_updated": "2025-10-20T07:44:26.277Z",
     "version_history": [
+      {
+        "version": "0.24.0",
+        "lastUpdated": "2025-10-20T07:44:26.277Z"
+      },
       {
         "version": "0.23.2025101308",
         "lastUpdated": "2025-10-13T10:09:09.553Z"
@@ -12292,15 +12296,11 @@
       {
         "version": "0.15.2025060503",
         "lastUpdated": "2025-06-05T05:26:40.8Z"
-      },
-      {
-        "version": "0.15.2025052608",
-        "lastUpdated": "2025-05-26T09:29:58.707Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.23.2025101308/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
