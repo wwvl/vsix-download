@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025102004",
-    "last_updated": "2025-10-20T04:20:43.01Z",
+    "latest_version": "0.121.2025102104",
+    "last_updated": "2025-10-21T04:22:00.52Z",
     "version_history": [
+      {
+        "version": "0.121.2025102104",
+        "lastUpdated": "2025-10-21T04:22:00.52Z"
+      },
       {
         "version": "0.121.2025102004",
         "lastUpdated": "2025-10-20T04:20:43.01Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.119.2025092408",
         "lastUpdated": "2025-09-24T08:33:56.95Z"
-      },
-      {
-        "version": "0.119.2025092404",
-        "lastUpdated": "2025-09-24T04:19:45.897Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -16958,9 +16958,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025101800",
-    "last_updated": "2025-10-18T01:42:09.27Z",
+    "latest_version": "2.0.2025102100",
+    "last_updated": "2025-10-21T01:48:59.35Z",
     "version_history": [
+      {
+        "version": "2.0.2025102100",
+        "lastUpdated": "2025-10-21T01:48:59.35Z"
+      },
       {
         "version": "2.0.2025101800",
         "lastUpdated": "2025-10-18T01:42:09.27Z"
@@ -17036,10 +17040,6 @@
       {
         "version": "2.0.2025091600",
         "lastUpdated": "2025-09-16T01:39:22.167Z"
-      },
-      {
-        "version": "2.0.2025091300",
-        "lastUpdated": "2025-09-13T00:44:37.37Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17058,7 +17058,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025101800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025102100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
