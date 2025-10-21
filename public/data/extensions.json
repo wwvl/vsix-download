@@ -2923,12 +2923,20 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.121.20250930",
-    "last_updated": "2025-09-30T09:49:21.527Z",
+    "latest_version": "3.121.20251021",
+    "last_updated": "2025-10-21T17:00:38.203Z",
     "version_history": [
+      {
+        "version": "3.121.20251021",
+        "lastUpdated": "2025-10-21T17:00:38.203Z"
+      },
       {
         "version": "3.121.20250930",
         "lastUpdated": "2025-09-30T09:49:21.527Z"
+      },
+      {
+        "version": "3.120.1",
+        "lastUpdated": "2025-10-21T17:36:12.24Z"
       },
       {
         "version": "3.120.0",
@@ -2997,19 +3005,11 @@
       {
         "version": "3.116.0",
         "lastUpdated": "2025-07-31T14:22:22.45Z"
-      },
-      {
-        "version": "3.115.20250728",
-        "lastUpdated": "2025-07-28T14:32:08.623Z"
-      },
-      {
-        "version": "3.115.20250724",
-        "lastUpdated": "2025-07-24T15:42:55.527Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20250930/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20251021/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -3295,9 +3295,13 @@
     "extension_name": "denoland.vscode-deno",
     "display_name": "Deno",
     "short_description": "A language server client for Deno.",
-    "latest_version": "3.46.0",
-    "last_updated": "2025-10-17T16:14:21.87Z",
+    "latest_version": "3.46.1",
+    "last_updated": "2025-10-21T18:09:58.167Z",
     "version_history": [
+      {
+        "version": "3.46.1",
+        "lastUpdated": "2025-10-21T18:09:58.167Z"
+      },
       {
         "version": "3.46.0",
         "lastUpdated": "2025-10-17T16:14:21.87Z"
@@ -3373,15 +3377,11 @@
       {
         "version": "3.39.0",
         "lastUpdated": "2024-09-02T16:15:35.81Z"
-      },
-      {
-        "version": "3.38.2",
-        "lastUpdated": "2024-08-13T17:40:31.03Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
     "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.46.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.46.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
   },
   {
@@ -5422,9 +5422,13 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.383.1811",
-    "last_updated": "2025-10-16T21:58:27.227Z",
+    "latest_version": "1.386.1815",
+    "last_updated": "2025-10-21T16:18:58.44Z",
     "version_history": [
+      {
+        "version": "1.386.1815",
+        "lastUpdated": "2025-10-21T16:18:58.44Z"
+      },
       {
         "version": "1.383.1811",
         "lastUpdated": "2025-10-16T21:58:27.227Z"
@@ -5500,10 +5504,6 @@
       {
         "version": "1.364.1767",
         "lastUpdated": "2025-08-29T01:50:23.977Z"
-      },
-      {
-        "version": "1.364.0",
-        "lastUpdated": "2025-08-28T15:42:41.303Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5532,7 +5532,7 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.383.1811/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.386.1815/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
@@ -8156,9 +8156,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.3.9",
-    "last_updated": "2025-10-20T15:16:44.973Z",
+    "latest_version": "1.4.0",
+    "last_updated": "2025-10-21T13:39:29.993Z",
     "version_history": [
+      {
+        "version": "1.4.0",
+        "lastUpdated": "2025-10-21T13:39:29.993Z"
+      },
       {
         "version": "1.3.9",
         "lastUpdated": "2025-10-20T15:16:44.973Z"
@@ -8234,10 +8238,6 @@
       {
         "version": "1.2.46",
         "lastUpdated": "2025-08-15T09:12:00.647Z"
-      },
-      {
-        "version": "1.2.45",
-        "lastUpdated": "2025-08-14T13:31:45.63Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8271,7 +8271,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.3.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -14296,11 +14296,11 @@
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
     "latest_version": "0.4.2651",
-    "last_updated": "2025-10-21T00:56:42.81Z",
+    "last_updated": "2025-10-21T00:51:22.38Z",
     "version_history": [
       {
         "version": "0.4.2651",
-        "lastUpdated": "2025-10-21T00:56:42.81Z"
+        "lastUpdated": "2025-10-21T00:51:22.38Z"
       },
       {
         "version": "0.4.2650",
