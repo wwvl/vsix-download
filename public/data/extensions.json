@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025102103",
-    "last_updated": "2025-10-21T09:10:21.517Z",
+    "latest_version": "0.33.2025102201",
+    "last_updated": "2025-10-22T04:34:48.223Z",
     "version_history": [
+      {
+        "version": "0.33.2025102201",
+        "lastUpdated": "2025-10-22T04:34:48.223Z"
+      },
       {
         "version": "0.33.2025102103",
         "lastUpdated": "2025-10-21T09:10:21.517Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.32.2025092509",
         "lastUpdated": "2025-09-25T04:28:07.623Z"
-      },
-      {
-        "version": "0.32.2025092302",
-        "lastUpdated": "2025-09-23T04:22:54.94Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025102104",
-    "last_updated": "2025-10-21T04:22:00.52Z",
+    "latest_version": "0.121.2025102204",
+    "last_updated": "2025-10-22T04:26:37.067Z",
     "version_history": [
+      {
+        "version": "0.121.2025102204",
+        "lastUpdated": "2025-10-22T04:26:37.067Z"
+      },
       {
         "version": "0.121.2025102104",
         "lastUpdated": "2025-10-21T04:22:00.52Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.119.2025092504",
         "lastUpdated": "2025-09-25T04:19:53.567Z"
-      },
-      {
-        "version": "0.119.2025092408",
-        "lastUpdated": "2025-09-24T08:33:56.95Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
