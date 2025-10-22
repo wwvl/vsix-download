@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.18.1",
-    "last_updated": "2025-10-14T12:40:29.507Z",
+    "latest_version": "3.18.3",
+    "last_updated": "2025-10-22T13:13:48.613Z",
     "version_history": [
+      {
+        "version": "3.18.3",
+        "lastUpdated": "2025-10-22T13:13:48.613Z"
+      },
       {
         "version": "3.18.1",
         "lastUpdated": "2025-10-14T12:40:29.507Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.10.1",
         "lastUpdated": "2025-06-24T15:36:05.84Z"
-      },
-      {
-        "version": "3.10.0",
-        "lastUpdated": "2025-06-24T14:22:19.34Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.18.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.18.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -2923,9 +2923,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.121.20251021",
-    "last_updated": "2025-10-21T17:00:38.203Z",
+    "latest_version": "3.121.20251022",
+    "last_updated": "2025-10-22T17:34:44.71Z",
     "version_history": [
+      {
+        "version": "3.121.20251022",
+        "lastUpdated": "2025-10-22T17:34:44.71Z"
+      },
       {
         "version": "3.121.20251021",
         "lastUpdated": "2025-10-21T17:00:38.203Z"
@@ -3001,15 +3005,11 @@
       {
         "version": "3.117.20250731",
         "lastUpdated": "2025-07-31T14:20:13.32Z"
-      },
-      {
-        "version": "3.116.0",
-        "lastUpdated": "2025-07-31T14:22:22.45Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20251021/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20251022/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -13016,9 +13016,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.23.0",
-    "last_updated": "2025-10-13T16:50:32.403Z",
+    "latest_version": "1.24.0",
+    "last_updated": "2025-10-22T12:41:37.823Z",
     "version_history": [
+      {
+        "version": "1.24.0",
+        "lastUpdated": "2025-10-22T12:41:37.823Z"
+      },
       {
         "version": "1.23.0",
         "lastUpdated": "2025-10-13T16:50:32.403Z"
@@ -13094,15 +13098,11 @@
       {
         "version": "1.7.0",
         "lastUpdated": "2025-07-16T23:14:57.507Z"
-      },
-      {
-        "version": "1.6.0",
-        "lastUpdated": "2025-07-07T05:02:29.16Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.23.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.24.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
