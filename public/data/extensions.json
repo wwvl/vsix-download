@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.2105",
-    "last_updated": "2025-10-21T09:13:50.383Z",
+    "latest_version": "2025.10.2205",
+    "last_updated": "2025-10-22T09:14:42.61Z",
     "version_history": [
+      {
+        "version": "2025.10.2205",
+        "lastUpdated": "2025-10-22T09:14:42.61Z"
+      },
       {
         "version": "2025.10.2105",
         "lastUpdated": "2025-10-21T09:13:50.383Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.105",
         "lastUpdated": "2025-10-01T09:13:16.59Z"
-      },
-      {
-        "version": "2025.9.3005",
-        "lastUpdated": "2025-09-30T09:13:01.963Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025102201",
-    "last_updated": "2025-10-22T04:34:48.223Z",
+    "latest_version": "0.33.2025102203",
+    "last_updated": "2025-10-22T11:23:02.667Z",
     "version_history": [
+      {
+        "version": "0.33.2025102203",
+        "lastUpdated": "2025-10-22T11:23:02.667Z"
+      },
       {
         "version": "0.33.2025102201",
         "lastUpdated": "2025-10-22T04:34:48.223Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.32.2025092601",
         "lastUpdated": "2025-09-26T04:32:27.78Z"
-      },
-      {
-        "version": "0.32.2025092509",
-        "lastUpdated": "2025-09-25T04:28:07.623Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8918,9 +8918,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.105.2025101509",
-    "last_updated": "2025-10-15T09:28:21.5Z",
+    "latest_version": "1.106.2025102209",
+    "last_updated": "2025-10-22T09:26:00.833Z",
     "version_history": [
+      {
+        "version": "1.106.2025102209",
+        "lastUpdated": "2025-10-22T09:26:00.833Z"
+      },
       {
         "version": "1.105.2025101509",
         "lastUpdated": "2025-10-15T09:28:21.5Z"
@@ -8996,15 +9000,11 @@
       {
         "version": "1.101.2025060409",
         "lastUpdated": "2025-06-04T09:24:28.82Z"
-      },
-      {
-        "version": "1.101.2025052809",
-        "lastUpdated": "2025-05-28T09:23:06.833Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.105.2025101509/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025102209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -13424,9 +13424,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.17.1",
-    "last_updated": "2025-10-10T14:59:21.55Z",
+    "latest_version": "6.18.0",
+    "last_updated": "2025-10-22T10:26:42.987Z",
     "version_history": [
+      {
+        "version": "6.18.0",
+        "lastUpdated": "2025-10-22T10:26:42.987Z"
+      },
       {
         "version": "6.17.1",
         "lastUpdated": "2025-10-10T14:59:21.55Z"
@@ -13502,15 +13506,11 @@
       {
         "version": "6.8.0",
         "lastUpdated": "2025-05-15T12:37:10.59Z"
-      },
-      {
-        "version": "6.7.1",
-        "lastUpdated": "2025-05-09T10:41:53.78Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.17.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -17251,9 +17251,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.26.2025102107",
-    "last_updated": "2025-10-21T09:20:02.83Z",
+    "latest_version": "0.26.2025102208",
+    "last_updated": "2025-10-22T08:55:27.397Z",
     "version_history": [
+      {
+        "version": "0.26.2025102208",
+        "lastUpdated": "2025-10-22T08:55:27.397Z"
+      },
       {
         "version": "0.26.2025102107",
         "lastUpdated": "2025-10-21T09:20:02.83Z"
@@ -17329,15 +17333,11 @@
       {
         "version": "0.23.2024022305",
         "lastUpdated": "2024-02-23T05:58:06.837Z"
-      },
-      {
-        "version": "0.23.2024010506",
-        "lastUpdated": "2024-01-05T07:08:13.573Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102107/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
