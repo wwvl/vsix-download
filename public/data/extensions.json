@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.2205",
-    "last_updated": "2025-10-22T09:14:42.61Z",
+    "latest_version": "2025.10.2305",
+    "last_updated": "2025-10-23T09:14:13.353Z",
     "version_history": [
+      {
+        "version": "2025.10.2305",
+        "lastUpdated": "2025-10-23T09:14:13.353Z"
+      },
       {
         "version": "2025.10.2205",
         "lastUpdated": "2025-10-22T09:14:42.61Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.205",
         "lastUpdated": "2025-10-02T09:12:32.347Z"
-      },
-      {
-        "version": "2025.10.105",
-        "lastUpdated": "2025-10-01T09:13:16.59Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2305/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5329,9 +5329,13 @@
     "extension_name": "GitHub.codespaces",
     "display_name": "GitHub Codespaces",
     "short_description": "Your instant dev environment",
-    "latest_version": "1.17.4",
-    "last_updated": "2025-09-02T16:03:57.32Z",
+    "latest_version": "1.17.5",
+    "last_updated": "2025-10-23T08:40:56.52Z",
     "version_history": [
+      {
+        "version": "1.17.5",
+        "lastUpdated": "2025-10-23T08:40:56.52Z"
+      },
       {
         "version": "1.17.4",
         "lastUpdated": "2025-09-02T16:03:57.32Z"
@@ -5407,15 +5411,11 @@
       {
         "version": "1.16.9",
         "lastUpdated": "2024-01-26T19:10:39.48Z"
-      },
-      {
-        "version": "1.16.8",
-        "lastUpdated": "2024-01-24T17:48:16.39Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["continueOn", "json", "jsonc", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
   },
   {
@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025102301",
-    "last_updated": "2025-10-23T04:29:04.21Z",
+    "latest_version": "0.33.2025102302",
+    "last_updated": "2025-10-23T06:32:46.2Z",
     "version_history": [
+      {
+        "version": "0.33.2025102302",
+        "lastUpdated": "2025-10-23T06:32:46.2Z"
+      },
       {
         "version": "0.33.2025102301",
         "lastUpdated": "2025-10-23T04:29:04.21Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.32.2025100101",
         "lastUpdated": "2025-10-01T04:26:06.903Z"
-      },
-      {
-        "version": "0.32.2025093001",
-        "lastUpdated": "2025-09-30T04:24:07.49Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5944,11 +5944,11 @@
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
     "latest_version": "0.121.2025102304",
-    "last_updated": "2025-10-23T04:28:56.78Z",
+    "last_updated": "2025-10-23T04:18:53.76Z",
     "version_history": [
       {
         "version": "0.121.2025102304",
-        "lastUpdated": "2025-10-23T04:28:56.78Z"
+        "lastUpdated": "2025-10-23T04:18:53.76Z"
       },
       {
         "version": "0.121.2025102204",
@@ -13889,9 +13889,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025101808",
-    "last_updated": "2025-10-18T08:27:14.203Z",
+    "latest_version": "1.47.2025102308",
+    "last_updated": "2025-10-23T08:32:40.08Z",
     "version_history": [
+      {
+        "version": "1.47.2025102308",
+        "lastUpdated": "2025-10-23T08:32:40.08Z"
+      },
       {
         "version": "1.47.2025101808",
         "lastUpdated": "2025-10-18T08:27:14.203Z"
@@ -13967,15 +13971,11 @@
       {
         "version": "1.46.2025092308",
         "lastUpdated": "2025-09-23T08:34:31.05Z"
-      },
-      {
-        "version": "1.46.2025091808",
-        "lastUpdated": "2025-09-18T08:30:45.327Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025101808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025102308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -15041,9 +15041,13 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.130.0",
-    "last_updated": "2025-10-22T21:13:07.69Z",
+    "latest_version": "1.131.1761222012",
+    "last_updated": "2025-10-23T12:26:22.727Z",
     "version_history": [
+      {
+        "version": "1.131.1761222012",
+        "lastUpdated": "2025-10-23T12:26:22.727Z"
+      },
       {
         "version": "1.130.0",
         "lastUpdated": "2025-10-22T21:13:07.69Z"
@@ -15119,10 +15123,6 @@
       {
         "version": "1.115.1753378183",
         "lastUpdated": "2025-07-24T17:35:40.177Z"
-      },
-      {
-        "version": "1.114.0",
-        "lastUpdated": "2025-07-24T08:43:01.997Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15168,7 +15168,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.130.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.131.1761222012/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
@@ -18748,9 +18748,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.486",
-    "last_updated": "2025-10-15T22:14:18.957Z",
+    "latest_version": "1.0.488",
+    "last_updated": "2025-10-23T08:26:19.31Z",
     "version_history": [
+      {
+        "version": "1.0.488",
+        "lastUpdated": "2025-10-23T08:26:19.31Z"
+      },
+      {
+        "version": "1.0.487",
+        "lastUpdated": "2025-10-23T07:02:32.45Z"
+      },
       {
         "version": "1.0.486",
         "lastUpdated": "2025-10-15T22:14:18.957Z"
@@ -18822,19 +18830,11 @@
       {
         "version": "1.0.465",
         "lastUpdated": "2025-08-15T03:32:22.147Z"
-      },
-      {
-        "version": "1.0.464",
-        "lastUpdated": "2025-08-07T03:31:36.577Z"
-      },
-      {
-        "version": "1.0.463",
-        "lastUpdated": "2025-08-05T00:01:42.71Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.486/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.488/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
