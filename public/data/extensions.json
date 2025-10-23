@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.18.3",
-    "last_updated": "2025-10-22T13:13:48.613Z",
+    "latest_version": "3.18.4",
+    "last_updated": "2025-10-23T12:42:27.86Z",
     "version_history": [
+      {
+        "version": "3.18.4",
+        "lastUpdated": "2025-10-23T12:42:27.86Z"
+      },
       {
         "version": "3.18.3",
         "lastUpdated": "2025-10-22T13:13:48.613Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.10.3",
         "lastUpdated": "2025-06-30T13:09:56.12Z"
-      },
-      {
-        "version": "3.10.1",
-        "lastUpdated": "2025-06-24T15:36:05.84Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.18.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.18.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5944,11 +5944,11 @@
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
     "latest_version": "0.121.2025102304",
-    "last_updated": "2025-10-23T04:18:53.76Z",
+    "last_updated": "2025-10-23T04:28:56.78Z",
     "version_history": [
       {
         "version": "0.121.2025102304",
-        "lastUpdated": "2025-10-23T04:18:53.76Z"
+        "lastUpdated": "2025-10-23T04:28:56.78Z"
       },
       {
         "version": "0.121.2025102204",
@@ -8156,9 +8156,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.4.0",
-    "last_updated": "2025-10-21T13:39:29.993Z",
+    "latest_version": "1.4.1",
+    "last_updated": "2025-10-23T15:28:20.697Z",
     "version_history": [
+      {
+        "version": "1.4.1",
+        "lastUpdated": "2025-10-23T15:28:20.697Z"
+      },
       {
         "version": "1.4.0",
         "lastUpdated": "2025-10-21T13:39:29.993Z"
@@ -8234,10 +8238,6 @@
       {
         "version": "1.2.48",
         "lastUpdated": "2025-08-22T05:47:09.427Z"
-      },
-      {
-        "version": "1.2.46",
-        "lastUpdated": "2025-08-15T09:12:00.647Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8271,7 +8271,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -10204,9 +10204,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.8.100",
-    "last_updated": "2025-10-09T23:41:08.987Z",
+    "latest_version": "2025.9.1",
+    "last_updated": "2025-10-23T17:33:25.52Z",
     "version_history": [
+      {
+        "version": "2025.9.1",
+        "lastUpdated": "2025-10-23T17:33:25.52Z"
+      },
       {
         "version": "2025.8.100",
         "lastUpdated": "2025-10-09T23:41:08.987Z"
@@ -10282,15 +10286,11 @@
       {
         "version": "2025.5.102",
         "lastUpdated": "2025-06-09T20:16:22.103Z"
-      },
-      {
-        "version": "2025.5.101",
-        "lastUpdated": "2025-06-03T22:09:42.38Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.8.100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.9.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -13109,9 +13109,13 @@
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.27.0",
-    "last_updated": "2025-09-08T06:30:22.767Z",
+    "latest_version": "5.28.0",
+    "last_updated": "2025-10-23T16:09:13.543Z",
     "version_history": [
+      {
+        "version": "5.28.0",
+        "lastUpdated": "2025-10-23T16:09:13.543Z"
+      },
       {
         "version": "5.27.0",
         "lastUpdated": "2025-09-08T06:30:22.767Z"
@@ -13187,15 +13191,11 @@
       {
         "version": "5.12.0",
         "lastUpdated": "2024-10-23T10:10:29.143Z"
-      },
-      {
-        "version": "5.11.1",
-        "lastUpdated": "2024-09-21T08:31:28.917Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.27.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.28.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
@@ -18635,9 +18635,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.3.2",
-    "last_updated": "2025-09-02T23:20:27.583Z",
+    "latest_version": "25.3.3",
+    "last_updated": "2025-10-23T13:15:06.173Z",
     "version_history": [
+      {
+        "version": "25.3.3",
+        "lastUpdated": "2025-10-23T13:15:06.173Z"
+      },
       {
         "version": "25.3.2",
         "lastUpdated": "2025-09-02T23:20:27.583Z"
@@ -18713,10 +18717,6 @@
       {
         "version": "24.9.1",
         "lastUpdated": "2024-11-22T13:19:29.307Z"
-      },
-      {
-        "version": "24.9.0",
-        "lastUpdated": "2024-11-22T10:16:48.537Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -18741,7 +18741,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.3.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.3.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
