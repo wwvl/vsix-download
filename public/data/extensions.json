@@ -1,5 +1,42 @@
 [
   {
+    "extension_name": "360-Geelib-Copilot-Code.geelibcopilotcode",
+    "display_name": "360geelib.copilot.code",
+    "short_description": "IDE plugin for your favorite languages powered by 360 code LLM. Higher efficiency, more innovation!",
+    "latest_version": "4.0.3",
+    "last_updated": "2025-05-28T07:04:11.293Z",
+    "version_history": [
+      {
+        "version": "4.0.3",
+        "lastUpdated": "2025-05-28T07:04:11.293Z"
+      },
+      {
+        "version": "4.0.2",
+        "lastUpdated": "2025-05-26T03:29:32.19Z"
+      },
+      {
+        "version": "4.0.1",
+        "lastUpdated": "2025-05-19T02:37:27.393Z"
+      },
+      {
+        "version": "3.0.10",
+        "lastUpdated": "2025-02-11T07:58:34.24Z"
+      },
+      {
+        "version": "3.0.9",
+        "lastUpdated": "2025-01-03T03:30:36.48Z"
+      },
+      {
+        "version": "3.0.8",
+        "lastUpdated": "2025-01-02T06:54:46.687Z"
+      }
+    ],
+    "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
+    "tags": ["ai", "chatgpt", "claude", "codegpt", "codestral", "copilot", "github", "json", "jsonc", "keybindings", "llama", "mistral", "Prompt Language", "promptLanguage", "sonnet"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/360-Geelib-Copilot-Code/vsextensions/geelibcopilotcode/4.0.3/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=360-Geelib-Copilot-Code.geelibcopilotcode"
+  },
+  {
     "extension_name": "aaron-bond.better-comments",
     "display_name": "Better Comments",
     "short_description": "Improve your code commenting by annotating with alert, informational, TODOs, and more!",
@@ -1408,12 +1445,20 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.603.0",
-    "last_updated": "2025-10-20T18:43:27.707Z",
+    "latest_version": "0.608.0",
+    "last_updated": "2025-10-24T17:33:02.87Z",
     "version_history": [
+      {
+        "version": "0.608.0",
+        "lastUpdated": "2025-10-24T17:33:02.87Z"
+      },
       {
         "version": "0.603.0",
         "lastUpdated": "2025-10-20T18:43:27.707Z"
+      },
+      {
+        "version": "0.596.3",
+        "lastUpdated": "2025-10-24T16:57:40.967Z"
       },
       {
         "version": "0.596.2",
@@ -1482,14 +1527,6 @@
       {
         "version": "0.560.0",
         "lastUpdated": "2025-09-19T17:05:44.823Z"
-      },
-      {
-        "version": "0.559.0",
-        "lastUpdated": "2025-09-18T17:06:30.473Z"
-      },
-      {
-        "version": "0.558.0",
-        "lastUpdated": "2025-09-17T17:05:50.037Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1526,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.603.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.608.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -1789,9 +1826,21 @@
     "extension_name": "biomejs.biome",
     "display_name": "Biome",
     "short_description": "Toolchain of the web",
-    "latest_version": "2025.7.41733",
-    "last_updated": "2025-07-04T17:37:53.713Z",
+    "latest_version": "2025.10.241456",
+    "last_updated": "2025-10-24T15:00:40.65Z",
     "version_history": [
+      {
+        "version": "2025.10.241456",
+        "lastUpdated": "2025-10-24T15:00:40.65Z"
+      },
+      {
+        "version": "2025.10.241417",
+        "lastUpdated": "2025-10-24T14:21:38.36Z"
+      },
+      {
+        "version": "2025.10.241318",
+        "lastUpdated": "2025-10-24T13:22:25.85Z"
+      },
       {
         "version": "2025.7.41733",
         "lastUpdated": "2025-07-04T17:37:53.713Z"
@@ -1859,23 +1908,11 @@
       {
         "version": "2024.10.131712",
         "lastUpdated": "2024-10-13T17:16:15.14Z"
-      },
-      {
-        "version": "2024.10.131556",
-        "lastUpdated": "2024-10-13T15:59:36.347Z"
-      },
-      {
-        "version": "2024.10.40751",
-        "lastUpdated": "2024-10-04T07:55:20.323Z"
-      },
-      {
-        "version": "2024.10.20458",
-        "lastUpdated": "2024-10-02T05:01:50.087Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
-    "tags": ["biome_syntax_tree"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.7.41733/vspackage",
+    "tags": ["biome_syntax_tree", "gritql"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/biomejs/vsextensions/biome/2025.10.241456/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=biomejs.biome"
   },
   {
@@ -5385,9 +5422,17 @@
     "extension_name": "GitHub.copilot",
     "display_name": "GitHub Copilot",
     "short_description": "Your AI pair programmer",
-    "latest_version": "1.387.0",
-    "last_updated": "2025-10-21T18:36:00.41Z",
+    "latest_version": "1.388.0",
+    "last_updated": "2025-10-24T17:25:13.55Z",
     "version_history": [
+      {
+        "version": "1.388.0",
+        "lastUpdated": "2025-10-24T17:25:13.55Z"
+      },
+      {
+        "version": "1.387.1816",
+        "lastUpdated": "2025-10-24T13:48:58.097Z"
+      },
       {
         "version": "1.387.0",
         "lastUpdated": "2025-10-21T18:36:00.41Z"
@@ -5459,14 +5504,6 @@
       {
         "version": "1.364.1772",
         "lastUpdated": "2025-09-02T16:19:53.997Z"
-      },
-      {
-        "version": "1.364.1769",
-        "lastUpdated": "2025-09-01T01:48:45.04Z"
-      },
-      {
-        "version": "1.364.1768",
-        "lastUpdated": "2025-08-29T16:20:46.107Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5495,16 +5532,20 @@
       "snippets",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.387.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot/1.388.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot"
   },
   {
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025102404",
-    "last_updated": "2025-10-24T04:28:56.32Z",
+    "latest_version": "0.33.2025102406",
+    "last_updated": "2025-10-24T16:02:23.337Z",
     "version_history": [
+      {
+        "version": "0.33.2025102406",
+        "lastUpdated": "2025-10-24T16:02:23.337Z"
+      },
       {
         "version": "0.33.2025102404",
         "lastUpdated": "2025-10-24T04:28:56.32Z"
@@ -5580,10 +5621,6 @@
       {
         "version": "0.32.2025100302",
         "lastUpdated": "2025-10-03T16:22:13.193Z"
-      },
-      {
-        "version": "0.32.2025100203",
-        "lastUpdated": "2025-10-02T10:31:14.333Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5620,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102406/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -18598,9 +18635,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.3.3",
-    "last_updated": "2025-10-23T13:15:06.173Z",
+    "latest_version": "25.4.0",
+    "last_updated": "2025-10-24T13:53:41.397Z",
     "version_history": [
+      {
+        "version": "25.4.0",
+        "lastUpdated": "2025-10-24T13:53:41.397Z"
+      },
       {
         "version": "25.3.3",
         "lastUpdated": "2025-10-23T13:15:06.173Z"
@@ -18676,10 +18717,6 @@
       {
         "version": "24.9.2",
         "lastUpdated": "2024-12-05T13:07:18.187Z"
-      },
-      {
-        "version": "24.9.1",
-        "lastUpdated": "2024-11-22T13:19:29.307Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -18704,7 +18741,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.3.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.4.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
