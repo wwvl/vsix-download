@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025102406",
-    "last_updated": "2025-10-24T16:02:23.337Z",
+    "latest_version": "0.33.2025102407",
+    "last_updated": "2025-10-24T20:21:40.53Z",
     "version_history": [
+      {
+        "version": "0.33.2025102407",
+        "lastUpdated": "2025-10-24T20:21:40.53Z"
+      },
       {
         "version": "0.33.2025102406",
         "lastUpdated": "2025-10-24T16:02:23.337Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.32.2025100703",
         "lastUpdated": "2025-10-07T07:01:50.56Z"
-      },
-      {
-        "version": "0.32.2025100302",
-        "lastUpdated": "2025-10-03T16:22:13.193Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102406/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102407/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025102406",
-    "last_updated": "2025-10-24T06:38:38.123Z",
+    "latest_version": "0.121.2025102418",
+    "last_updated": "2025-10-24T19:09:11.2Z",
     "version_history": [
+      {
+        "version": "0.121.2025102418",
+        "lastUpdated": "2025-10-24T19:09:11.2Z"
+      },
       {
         "version": "0.121.2025102406",
         "lastUpdated": "2025-10-24T06:38:38.123Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.119.2025092904",
         "lastUpdated": "2025-09-29T04:18:42.707Z"
-      },
-      {
-        "version": "0.119.2025092700",
-        "lastUpdated": "2025-09-27T00:41:10.643Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102406/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102418/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -12028,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251023",
-    "last_updated": "2025-10-24T00:15:24.36Z",
+    "latest_version": "6.0.20251024",
+    "last_updated": "2025-10-25T00:17:28.9Z",
     "version_history": [
+      {
+        "version": "6.0.20251024",
+        "lastUpdated": "2025-10-25T00:17:28.9Z"
+      },
       {
         "version": "6.0.20251023",
         "lastUpdated": "2025-10-24T00:15:24.36Z"
@@ -12106,15 +12110,11 @@
       {
         "version": "6.0.20251005",
         "lastUpdated": "2025-10-06T00:15:59.63Z"
-      },
-      {
-        "version": "6.0.20251004",
-        "lastUpdated": "2025-10-05T00:15:04.97Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251023/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251024/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14202,9 +14202,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.28.18",
-    "last_updated": "2025-10-17T21:18:13.853Z",
+    "latest_version": "3.29.0",
+    "last_updated": "2025-10-24T21:58:34.6Z",
     "version_history": [
+      {
+        "version": "3.29.0",
+        "lastUpdated": "2025-10-24T21:58:34.6Z"
+      },
       {
         "version": "3.28.18",
         "lastUpdated": "2025-10-17T21:18:13.853Z"
@@ -14280,24 +14284,24 @@
       {
         "version": "3.28.0",
         "lastUpdated": "2025-09-10T20:47:18.223Z"
-      },
-      {
-        "version": "3.27.0",
-        "lastUpdated": "2025-09-05T22:29:06.07Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.28.18/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.29.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2654",
-    "last_updated": "2025-10-24T00:54:22.183Z",
+    "latest_version": "0.4.2655",
+    "last_updated": "2025-10-25T00:54:59.86Z",
     "version_history": [
+      {
+        "version": "0.4.2655",
+        "lastUpdated": "2025-10-25T00:54:59.86Z"
+      },
       {
         "version": "0.4.2654",
         "lastUpdated": "2025-10-24T00:54:22.183Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2636",
         "lastUpdated": "2025-10-06T00:57:01.257Z"
-      },
-      {
-        "version": "0.4.2635",
-        "lastUpdated": "2025-10-05T00:59:24.343Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2654/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2655/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16711,9 +16711,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.32.0",
-    "last_updated": "2025-10-12T14:14:35.333Z",
+    "latest_version": "1.32.1",
+    "last_updated": "2025-10-24T19:29:59.06Z",
     "version_history": [
+      {
+        "version": "1.32.1",
+        "lastUpdated": "2025-10-24T19:29:59.06Z"
+      },
       {
         "version": "1.32.0",
         "lastUpdated": "2025-10-12T14:14:35.333Z"
@@ -16789,15 +16793,11 @@
       {
         "version": "1.22.0",
         "lastUpdated": "2025-06-14T09:26:17.153Z"
-      },
-      {
-        "version": "1.20.3",
-        "lastUpdated": "2025-06-04T19:42:31.31Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.32.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.32.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
@@ -16958,9 +16958,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025102300",
-    "last_updated": "2025-10-23T01:59:18.35Z",
+    "latest_version": "2.0.2025102500",
+    "last_updated": "2025-10-25T01:16:12.29Z",
     "version_history": [
+      {
+        "version": "2.0.2025102500",
+        "lastUpdated": "2025-10-25T01:16:12.29Z"
+      },
       {
         "version": "2.0.2025102300",
         "lastUpdated": "2025-10-23T01:59:18.35Z"
@@ -17036,10 +17040,6 @@
       {
         "version": "2.0.2025091914",
         "lastUpdated": "2025-09-19T15:46:50.657Z"
-      },
-      {
-        "version": "2.0.2025091800",
-        "lastUpdated": "2025-09-18T00:47:07.177Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17058,7 +17058,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025102300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025102500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
