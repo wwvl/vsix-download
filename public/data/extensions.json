@@ -3481,9 +3481,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.62.18011",
-    "last_updated": "2025-10-25T17:34:11.223Z",
+    "latest_version": "1.62.18013",
+    "last_updated": "2025-10-25T22:12:48.25Z",
     "version_history": [
+      {
+        "version": "1.62.18013",
+        "lastUpdated": "2025-10-25T22:12:48.25Z"
+      },
       {
         "version": "1.62.18011",
         "lastUpdated": "2025-10-25T17:34:11.223Z"
@@ -3559,15 +3563,11 @@
       {
         "version": "1.59.17770",
         "lastUpdated": "2025-08-09T21:46:54.407Z"
-      },
-      {
-        "version": "1.59.17714",
-        "lastUpdated": "2025-07-31T15:55:16.51Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18011/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18013/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -12028,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251024",
-    "last_updated": "2025-10-25T00:17:28.9Z",
+    "latest_version": "6.0.20251025",
+    "last_updated": "2025-10-26T00:18:15.35Z",
     "version_history": [
+      {
+        "version": "6.0.20251025",
+        "lastUpdated": "2025-10-26T00:18:15.35Z"
+      },
       {
         "version": "6.0.20251024",
         "lastUpdated": "2025-10-25T00:17:28.9Z"
@@ -12106,15 +12110,11 @@
       {
         "version": "6.0.20251006",
         "lastUpdated": "2025-10-07T00:17:02.263Z"
-      },
-      {
-        "version": "6.0.20251005",
-        "lastUpdated": "2025-10-06T00:15:59.63Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251024/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251025/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14295,9 +14295,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2655",
-    "last_updated": "2025-10-25T00:54:59.86Z",
+    "latest_version": "0.4.2656",
+    "last_updated": "2025-10-26T00:58:21.39Z",
     "version_history": [
+      {
+        "version": "0.4.2656",
+        "lastUpdated": "2025-10-26T00:58:21.39Z"
+      },
       {
         "version": "0.4.2655",
         "lastUpdated": "2025-10-25T00:54:59.86Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2637",
         "lastUpdated": "2025-10-07T00:56:29.627Z"
-      },
-      {
-        "version": "0.4.2636",
-        "lastUpdated": "2025-10-06T00:57:01.257Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2655/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2656/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -19037,9 +19037,13 @@
     "extension_name": "yy0931.vscode-sqlite3-editor",
     "display_name": "SQLite3 Editor",
     "short_description": "Edit SQLite3 files like you would in spreadsheet applications.",
-    "latest_version": "1.0.208",
-    "last_updated": "2025-10-04T07:58:25.36Z",
+    "latest_version": "1.0.209",
+    "last_updated": "2025-10-25T21:50:38.5Z",
     "version_history": [
+      {
+        "version": "1.0.209",
+        "lastUpdated": "2025-10-25T21:50:38.5Z"
+      },
       {
         "version": "1.0.208",
         "lastUpdated": "2025-10-04T07:58:25.36Z"
@@ -19115,15 +19119,11 @@
       {
         "version": "1.0.190",
         "lastUpdated": "2024-08-31T14:35:18.127Z"
-      },
-      {
-        "version": "1.0.189",
-        "lastUpdated": "2024-06-28T12:02:08.367Z"
       }
     ],
     "categories": ["Programming Languages", "Data Science", "Visualization", "Education"],
     "tags": ["database", "keybindings", "query-editor", "sqlite", "SQLite3 Editor Query", "sqlite3-editor-database", "table", "viewer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yy0931/vsextensions/vscode-sqlite3-editor/1.0.208/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yy0931/vsextensions/vscode-sqlite3-editor/1.0.209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor"
   },
   {
