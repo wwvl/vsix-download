@@ -19037,9 +19037,13 @@
     "extension_name": "yy0931.vscode-sqlite3-editor",
     "display_name": "SQLite3 Editor",
     "short_description": "Edit SQLite3 files like you would in spreadsheet applications.",
-    "latest_version": "1.0.209",
-    "last_updated": "2025-10-25T21:50:38.5Z",
+    "latest_version": "1.0.210",
+    "last_updated": "2025-10-26T08:09:24.2Z",
     "version_history": [
+      {
+        "version": "1.0.210",
+        "lastUpdated": "2025-10-26T08:09:24.2Z"
+      },
       {
         "version": "1.0.209",
         "lastUpdated": "2025-10-25T21:50:38.5Z"
@@ -19115,15 +19119,11 @@
       {
         "version": "1.0.191",
         "lastUpdated": "2024-09-01T09:30:10.293Z"
-      },
-      {
-        "version": "1.0.190",
-        "lastUpdated": "2024-08-31T14:35:18.127Z"
       }
     ],
     "categories": ["Programming Languages", "Data Science", "Visualization", "Education"],
     "tags": ["database", "keybindings", "query-editor", "sqlite", "SQLite3 Editor Query", "sqlite3-editor-database", "table", "viewer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yy0931/vsextensions/vscode-sqlite3-editor/1.0.209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/yy0931/vsextensions/vscode-sqlite3-editor/1.0.210/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor"
   },
   {
