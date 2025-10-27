@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.2305",
-    "last_updated": "2025-10-23T09:14:13.353Z",
+    "latest_version": "2025.10.2702",
+    "last_updated": "2025-10-27T07:04:47.15Z",
     "version_history": [
+      {
+        "version": "2025.10.2702",
+        "lastUpdated": "2025-10-27T07:04:47.15Z"
+      },
       {
         "version": "2025.10.2305",
         "lastUpdated": "2025-10-23T09:14:13.353Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.305",
         "lastUpdated": "2025-10-03T09:12:31.177Z"
-      },
-      {
-        "version": "2025.10.205",
-        "lastUpdated": "2025-10-02T09:12:32.347Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2305/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -17251,9 +17251,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.26.2025102208",
-    "last_updated": "2025-10-22T08:55:27.397Z",
+    "latest_version": "0.26.2025102709",
+    "last_updated": "2025-10-27T09:24:39.6Z",
     "version_history": [
+      {
+        "version": "0.26.2025102709",
+        "lastUpdated": "2025-10-27T09:24:39.6Z"
+      },
       {
         "version": "0.26.2025102208",
         "lastUpdated": "2025-10-22T08:55:27.397Z"
@@ -17329,15 +17333,11 @@
       {
         "version": "0.23.2024041907",
         "lastUpdated": "2024-04-19T07:35:54.953Z"
-      },
-      {
-        "version": "0.23.2024032505",
-        "lastUpdated": "2024-03-25T06:12:07.87Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102208/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
