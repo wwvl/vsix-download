@@ -1445,9 +1445,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.612.0",
-    "last_updated": "2025-10-28T00:50:24.96Z",
+    "latest_version": "0.613.0",
+    "last_updated": "2025-10-28T01:27:39.427Z",
     "version_history": [
+      {
+        "version": "0.613.0",
+        "lastUpdated": "2025-10-28T01:27:39.427Z"
+      },
       {
         "version": "0.612.0",
         "lastUpdated": "2025-10-28T00:50:24.96Z"
@@ -1523,10 +1527,6 @@
       {
         "version": "0.571.0",
         "lastUpdated": "2025-09-27T02:59:20.067Z"
-      },
-      {
-        "version": "0.570.0",
-        "lastUpdated": "2025-09-27T01:08:51.96Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.612.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.613.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -17251,9 +17251,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.26.2025102709",
-    "last_updated": "2025-10-27T09:24:39.6Z",
+    "latest_version": "0.26.2025102805",
+    "last_updated": "2025-10-28T06:03:52.333Z",
     "version_history": [
+      {
+        "version": "0.26.2025102805",
+        "lastUpdated": "2025-10-28T06:03:52.333Z"
+      },
       {
         "version": "0.26.2025102709",
         "lastUpdated": "2025-10-27T09:24:39.6Z"
@@ -17329,15 +17333,11 @@
       {
         "version": "0.23.2024042600",
         "lastUpdated": "2024-05-11T04:47:56.3Z"
-      },
-      {
-        "version": "0.23.2024041907",
-        "lastUpdated": "2024-04-19T07:35:54.953Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102709/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102805/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
