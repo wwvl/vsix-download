@@ -1445,9 +1445,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.618.0",
-    "last_updated": "2025-10-29T02:05:33.573Z",
+    "latest_version": "0.619.0",
+    "last_updated": "2025-10-29T16:43:10.413Z",
     "version_history": [
+      {
+        "version": "0.619.0",
+        "lastUpdated": "2025-10-29T16:43:10.413Z"
+      },
       {
         "version": "0.618.0",
         "lastUpdated": "2025-10-29T02:05:33.573Z"
@@ -1523,10 +1527,6 @@
       {
         "version": "0.576.0",
         "lastUpdated": "2025-09-29T22:32:34.487Z"
-      },
-      {
-        "version": "0.575.0",
-        "lastUpdated": "2025-09-29T19:18:31.113Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.618.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.619.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2923,9 +2923,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.121.20251022",
-    "last_updated": "2025-10-22T17:34:44.71Z",
+    "latest_version": "3.121.20251029",
+    "last_updated": "2025-10-29T14:34:08.547Z",
     "version_history": [
+      {
+        "version": "3.121.20251029",
+        "lastUpdated": "2025-10-29T14:34:08.547Z"
+      },
       {
         "version": "3.121.20251022",
         "lastUpdated": "2025-10-22T17:34:44.71Z"
@@ -3001,15 +3005,11 @@
       {
         "version": "3.117.20250806",
         "lastUpdated": "2025-08-06T10:06:12.087Z"
-      },
-      {
-        "version": "3.117.20250731",
-        "lastUpdated": "2025-07-31T14:20:13.32Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20251022/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.121.20251029/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -16958,9 +16958,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025102800",
-    "last_updated": "2025-10-28T01:15:32.733Z",
+    "latest_version": "2.0.2025102916",
+    "last_updated": "2025-10-29T16:50:25.977Z",
     "version_history": [
+      {
+        "version": "2.0.2025102916",
+        "lastUpdated": "2025-10-29T16:50:25.977Z"
+      },
       {
         "version": "2.0.2025102800",
         "lastUpdated": "2025-10-28T01:15:32.733Z"
@@ -17036,10 +17040,6 @@
       {
         "version": "2.0.2025092300",
         "lastUpdated": "2025-09-23T01:15:12.63Z"
-      },
-      {
-        "version": "2.0.2025092000",
-        "lastUpdated": "2025-09-20T01:18:38.69Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17058,7 +17058,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025102800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025102916/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
