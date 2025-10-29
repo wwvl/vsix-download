@@ -8918,9 +8918,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.106.2025102209",
-    "last_updated": "2025-10-22T09:26:00.833Z",
+    "latest_version": "1.106.2025102909",
+    "last_updated": "2025-10-29T09:23:58.063Z",
     "version_history": [
+      {
+        "version": "1.106.2025102909",
+        "lastUpdated": "2025-10-29T09:23:58.063Z"
+      },
       {
         "version": "1.106.2025102209",
         "lastUpdated": "2025-10-22T09:26:00.833Z"
@@ -8996,15 +9000,11 @@
       {
         "version": "1.101.2025061109",
         "lastUpdated": "2025-06-11T09:22:20.967Z"
-      },
-      {
-        "version": "1.101.2025060409",
-        "lastUpdated": "2025-06-04T09:24:28.82Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025102209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025102909/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -13889,9 +13889,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025102508",
-    "last_updated": "2025-10-25T08:34:00.847Z",
+    "latest_version": "1.47.2025102908",
+    "last_updated": "2025-10-29T08:26:39.2Z",
     "version_history": [
+      {
+        "version": "1.47.2025102908",
+        "lastUpdated": "2025-10-29T08:26:39.2Z"
+      },
       {
         "version": "1.47.2025102508",
         "lastUpdated": "2025-10-25T08:34:00.847Z"
@@ -13967,15 +13971,11 @@
       {
         "version": "1.46.2025092508",
         "lastUpdated": "2025-09-25T08:30:20.53Z"
-      },
-      {
-        "version": "1.46.2025092408",
-        "lastUpdated": "2025-09-24T08:29:33.997Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025102508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025102908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
