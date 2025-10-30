@@ -6239,9 +6239,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.55.0",
-    "last_updated": "2025-10-23T01:54:29.977Z",
+    "latest_version": "2.56.0",
+    "last_updated": "2025-10-30T02:49:18.66Z",
     "version_history": [
+      {
+        "version": "2.56.0",
+        "lastUpdated": "2025-10-30T02:49:18.66Z"
+      },
       {
         "version": "2.55.0",
         "lastUpdated": "2025-10-23T01:54:29.977Z"
@@ -6317,15 +6321,11 @@
       {
         "version": "2.39.0",
         "lastUpdated": "2025-07-02T20:20:15.51Z"
-      },
-      {
-        "version": "2.38.0",
-        "lastUpdated": "2025-06-26T22:59:10.19Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.55.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.56.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -9011,9 +9011,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.73.8",
-    "last_updated": "2025-10-23T20:46:22.94Z",
+    "latest_version": "1.73.14",
+    "last_updated": "2025-10-30T01:51:00.227Z",
     "version_history": [
+      {
+        "version": "1.73.14",
+        "lastUpdated": "2025-10-30T01:51:00.227Z"
+      },
       {
         "version": "1.73.8",
         "lastUpdated": "2025-10-23T20:46:22.94Z"
@@ -9089,15 +9093,11 @@
       {
         "version": "1.30.23",
         "lastUpdated": "2025-06-17T16:10:07.237Z"
-      },
-      {
-        "version": "1.30.13",
-        "lastUpdated": "2025-06-11T19:01:28.11Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.73.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.73.14/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
@@ -14296,11 +14296,11 @@
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
     "latest_version": "0.4.2662",
-    "last_updated": "2025-10-30T00:55:43.313Z",
+    "last_updated": "2025-10-30T00:51:05.747Z",
     "version_history": [
       {
         "version": "0.4.2662",
-        "lastUpdated": "2025-10-30T00:55:43.313Z"
+        "lastUpdated": "2025-10-30T00:51:05.747Z"
       },
       {
         "version": "0.4.2661",
