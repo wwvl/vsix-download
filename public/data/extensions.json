@@ -3481,9 +3481,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.62.18013",
-    "last_updated": "2025-10-25T22:12:48.25Z",
+    "latest_version": "1.62.18037",
+    "last_updated": "2025-10-30T12:30:52.85Z",
     "version_history": [
+      {
+        "version": "1.62.18037",
+        "lastUpdated": "2025-10-30T12:30:52.85Z"
+      },
       {
         "version": "1.62.18013",
         "lastUpdated": "2025-10-25T22:12:48.25Z"
@@ -3559,15 +3563,11 @@
       {
         "version": "1.59.17776",
         "lastUpdated": "2025-08-11T11:11:27.7Z"
-      },
-      {
-        "version": "1.59.17770",
-        "lastUpdated": "2025-08-09T21:46:54.407Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18013/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18037/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.2702",
-    "last_updated": "2025-10-27T07:04:47.15Z",
+    "latest_version": "2025.10.3005",
+    "last_updated": "2025-10-30T09:15:42.723Z",
     "version_history": [
+      {
+        "version": "2025.10.3005",
+        "lastUpdated": "2025-10-30T09:15:42.723Z"
+      },
       {
         "version": "2025.10.2702",
         "lastUpdated": "2025-10-27T07:04:47.15Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.405",
         "lastUpdated": "2025-10-04T09:12:47.573Z"
-      },
-      {
-        "version": "2025.10.305",
-        "lastUpdated": "2025-10-03T09:12:31.177Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.2702/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.3005/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025102704",
-    "last_updated": "2025-10-27T20:50:20.623Z",
+    "latest_version": "0.33.2025103002",
+    "last_updated": "2025-10-30T10:02:04.193Z",
     "version_history": [
+      {
+        "version": "0.33.2025103002",
+        "lastUpdated": "2025-10-30T10:02:04.193Z"
+      },
       {
         "version": "0.33.2025102704",
         "lastUpdated": "2025-10-27T20:50:20.623Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025101402",
         "lastUpdated": "2025-10-14T22:25:41.08Z"
-      },
-      {
-        "version": "0.33.2025101401",
-        "lastUpdated": "2025-10-14T04:28:44.3Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025102704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025103002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025102418",
-    "last_updated": "2025-10-24T19:09:11.2Z",
+    "latest_version": "0.121.2025103010",
+    "last_updated": "2025-10-30T10:20:27.873Z",
     "version_history": [
+      {
+        "version": "0.121.2025103010",
+        "lastUpdated": "2025-10-30T10:20:27.873Z"
+      },
       {
         "version": "0.121.2025102418",
         "lastUpdated": "2025-10-24T19:09:11.2Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.119.2025093004",
         "lastUpdated": "2025-09-30T04:18:44.223Z"
-      },
-      {
-        "version": "0.119.2025092904",
-        "lastUpdated": "2025-09-29T04:18:42.707Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025102418/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025103010/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -13889,9 +13889,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.47.2025102908",
-    "last_updated": "2025-10-29T08:26:39.2Z",
+    "latest_version": "1.47.2025103008",
+    "last_updated": "2025-10-30T08:26:26.68Z",
     "version_history": [
+      {
+        "version": "1.47.2025103008",
+        "lastUpdated": "2025-10-30T08:26:26.68Z"
+      },
       {
         "version": "1.47.2025102908",
         "lastUpdated": "2025-10-29T08:26:39.2Z"
@@ -13967,15 +13971,11 @@
       {
         "version": "1.46.2025092608",
         "lastUpdated": "2025-09-26T08:29:16.903Z"
-      },
-      {
-        "version": "1.46.2025092508",
-        "lastUpdated": "2025-09-25T08:30:20.53Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025102908/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.47.2025103008/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14296,11 +14296,11 @@
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
     "latest_version": "0.4.2662",
-    "last_updated": "2025-10-30T00:51:05.747Z",
+    "last_updated": "2025-10-30T00:55:43.313Z",
     "version_history": [
       {
         "version": "0.4.2662",
-        "lastUpdated": "2025-10-30T00:51:05.747Z"
+        "lastUpdated": "2025-10-30T00:55:43.313Z"
       },
       {
         "version": "0.4.2661",
