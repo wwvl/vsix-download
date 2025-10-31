@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.8.2",
-    "last_updated": "2025-10-22T19:36:30.93Z",
+    "latest_version": "3.9.0",
+    "last_updated": "2025-10-31T00:01:59.13Z",
     "version_history": [
+      {
+        "version": "3.9.0",
+        "lastUpdated": "2025-10-31T00:01:59.13Z"
+      },
       {
         "version": "3.8.2",
         "lastUpdated": "2025-10-22T19:36:30.93Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "2.18.0",
         "lastUpdated": "2025-05-30T02:47:33.46Z"
-      },
-      {
-        "version": "2.17.0",
-        "lastUpdated": "2025-05-27T01:19:24.4Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2208,7 +2208,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.8.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -3481,9 +3481,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.62.18037",
-    "last_updated": "2025-10-30T12:30:52.85Z",
+    "latest_version": "1.62.18042",
+    "last_updated": "2025-10-30T21:47:45.153Z",
     "version_history": [
+      {
+        "version": "1.62.18042",
+        "lastUpdated": "2025-10-30T21:47:45.153Z"
+      },
       {
         "version": "1.62.18037",
         "lastUpdated": "2025-10-30T12:30:52.85Z"
@@ -3559,15 +3563,11 @@
       {
         "version": "1.60.17787",
         "lastUpdated": "2025-08-12T19:40:33.46Z"
-      },
-      {
-        "version": "1.59.17776",
-        "lastUpdated": "2025-08-11T11:11:27.7Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18037/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18042/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -12028,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251029",
-    "last_updated": "2025-10-30T00:15:54.33Z",
+    "latest_version": "6.0.20251030",
+    "last_updated": "2025-10-31T00:21:36.23Z",
     "version_history": [
+      {
+        "version": "6.0.20251030",
+        "lastUpdated": "2025-10-31T00:21:36.23Z"
+      },
       {
         "version": "6.0.20251029",
         "lastUpdated": "2025-10-30T00:15:54.33Z"
@@ -12106,15 +12110,11 @@
       {
         "version": "6.0.20251011",
         "lastUpdated": "2025-10-12T00:20:32.79Z"
-      },
-      {
-        "version": "6.0.20251010",
-        "lastUpdated": "2025-10-11T00:19:02.363Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251029/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251030/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14295,9 +14295,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2662",
-    "last_updated": "2025-10-30T00:55:43.313Z",
+    "latest_version": "0.4.2663",
+    "last_updated": "2025-10-31T00:56:58.073Z",
     "version_history": [
+      {
+        "version": "0.4.2663",
+        "lastUpdated": "2025-10-31T00:56:58.073Z"
+      },
       {
         "version": "0.4.2662",
         "lastUpdated": "2025-10-30T00:55:43.313Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2642",
         "lastUpdated": "2025-10-12T00:55:46.06Z"
-      },
-      {
-        "version": "0.4.2641",
-        "lastUpdated": "2025-10-11T00:55:12.48Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2662/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2663/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
