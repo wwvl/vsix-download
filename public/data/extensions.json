@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.10.3105",
-    "last_updated": "2025-10-31T09:15:17.2Z",
+    "latest_version": "2025.11.105",
+    "last_updated": "2025-11-01T09:15:09.017Z",
     "version_history": [
+      {
+        "version": "2025.11.105",
+        "lastUpdated": "2025-11-01T09:15:09.017Z"
+      },
       {
         "version": "2025.10.3105",
         "lastUpdated": "2025-10-31T09:15:17.2Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.615",
         "lastUpdated": "2025-10-06T19:10:57.94Z"
-      },
-      {
-        "version": "2025.10.614",
-        "lastUpdated": "2025-10-06T18:20:10.913Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.10.3105/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.105/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13889,9 +13889,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.48.2025103108",
-    "last_updated": "2025-10-31T08:28:52.99Z",
+    "latest_version": "1.48.2025110108",
+    "last_updated": "2025-11-01T08:25:45.857Z",
     "version_history": [
+      {
+        "version": "1.48.2025110108",
+        "lastUpdated": "2025-11-01T08:25:45.857Z"
+      },
       {
         "version": "1.48.2025103108",
         "lastUpdated": "2025-10-31T08:28:52.99Z"
@@ -13967,15 +13971,11 @@
       {
         "version": "1.46.2025100208",
         "lastUpdated": "2025-10-02T08:25:08.843Z"
-      },
-      {
-        "version": "1.46.2025100108",
-        "lastUpdated": "2025-10-01T08:26:02.11Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025103108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025110108/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14867,9 +14867,13 @@
     "extension_name": "shd101wyy.markdown-preview-enhanced",
     "display_name": "Markdown Preview Enhanced",
     "short_description": "Markdown Preview Enhanced ported to vscode",
-    "latest_version": "0.8.19",
-    "last_updated": "2025-08-15T09:13:15.187Z",
+    "latest_version": "0.8.20",
+    "last_updated": "2025-11-01T12:22:12.14Z",
     "version_history": [
+      {
+        "version": "0.8.20",
+        "lastUpdated": "2025-11-01T12:22:12.14Z"
+      },
       {
         "version": "0.8.19",
         "lastUpdated": "2025-08-15T09:13:15.187Z"
@@ -14945,15 +14949,11 @@
       {
         "version": "0.8.1",
         "lastUpdated": "2023-10-06T14:59:15.843Z"
-      },
-      {
-        "version": "0.8.0",
-        "lastUpdated": "2023-10-05T08:03:17.573Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["keybindings", "markdown", "quarto"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.19/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/shd101wyy/vsextensions/markdown-preview-enhanced/0.8.20/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
   },
   {
