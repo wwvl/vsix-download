@@ -12028,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251030",
-    "last_updated": "2025-10-31T00:21:36.23Z",
+    "latest_version": "6.0.20251031",
+    "last_updated": "2025-11-01T00:24:00.067Z",
     "version_history": [
+      {
+        "version": "6.0.20251031",
+        "lastUpdated": "2025-11-01T00:24:00.067Z"
+      },
       {
         "version": "6.0.20251030",
         "lastUpdated": "2025-10-31T00:21:36.23Z"
@@ -12106,15 +12110,11 @@
       {
         "version": "6.0.20251012",
         "lastUpdated": "2025-10-13T00:18:30.637Z"
-      },
-      {
-        "version": "6.0.20251011",
-        "lastUpdated": "2025-10-12T00:20:32.79Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251030/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251031/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14295,9 +14295,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2663",
-    "last_updated": "2025-10-31T00:56:58.073Z",
+    "latest_version": "0.4.2664",
+    "last_updated": "2025-11-01T00:59:38.973Z",
     "version_history": [
+      {
+        "version": "0.4.2664",
+        "lastUpdated": "2025-11-01T00:59:38.973Z"
+      },
       {
         "version": "0.4.2663",
         "lastUpdated": "2025-10-31T00:56:58.073Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2643",
         "lastUpdated": "2025-10-13T00:58:57.97Z"
-      },
-      {
-        "version": "0.4.2642",
-        "lastUpdated": "2025-10-12T00:55:46.06Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2663/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2664/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16958,9 +16958,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025103110",
-    "last_updated": "2025-10-31T10:55:17.733Z",
+    "latest_version": "2.0.2025110100",
+    "last_updated": "2025-11-01T01:04:17.137Z",
     "version_history": [
+      {
+        "version": "2.0.2025110100",
+        "lastUpdated": "2025-11-01T01:04:17.137Z"
+      },
       {
         "version": "2.0.2025103110",
         "lastUpdated": "2025-10-31T10:55:17.733Z"
@@ -17036,10 +17040,6 @@
       {
         "version": "2.0.2025093000",
         "lastUpdated": "2025-09-30T01:20:49.82Z"
-      },
-      {
-        "version": "2.0.2025092700",
-        "lastUpdated": "2025-09-27T01:06:24.07Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17058,7 +17058,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025103110/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025110100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
