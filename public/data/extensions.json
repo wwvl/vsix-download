@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.19.1",
-    "last_updated": "2025-10-29T01:35:15.093Z",
+    "latest_version": "3.19.2",
+    "last_updated": "2025-11-03T13:43:24.983Z",
     "version_history": [
+      {
+        "version": "3.19.2",
+        "lastUpdated": "2025-11-03T13:43:24.983Z"
+      },
       {
         "version": "3.19.1",
         "lastUpdated": "2025-10-29T01:35:15.093Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.12.0",
         "lastUpdated": "2025-07-22T13:18:27.837Z"
-      },
-      {
-        "version": "3.11.0",
-        "lastUpdated": "2025-07-07T14:08:20.053Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.19.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.19.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.9.1",
-    "last_updated": "2025-11-02T06:52:35.03Z",
+    "latest_version": "3.9.2",
+    "last_updated": "2025-11-03T15:58:19.51Z",
     "version_history": [
+      {
+        "version": "3.9.2",
+        "lastUpdated": "2025-11-03T15:58:19.51Z"
+      },
       {
         "version": "3.9.1",
         "lastUpdated": "2025-11-02T06:52:35.03Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "3.1.0",
         "lastUpdated": "2025-06-25T01:44:52.94Z"
-      },
-      {
-        "version": "3.0.0",
-        "lastUpdated": "2025-06-10T18:16:52.337Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2208,7 +2208,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -8671,9 +8671,13 @@
     "extension_name": "monokai.theme-monokai-pro-vscode",
     "display_name": "Monokai Pro",
     "short_description": "✨ Professional dark & light theme + icon pack, from the author of the original Monokai color scheme.",
-    "latest_version": "2.0.9",
-    "last_updated": "2025-10-17T12:01:27.76Z",
+    "latest_version": "2.0.10",
+    "last_updated": "2025-11-03T14:12:49.493Z",
     "version_history": [
+      {
+        "version": "2.0.10",
+        "lastUpdated": "2025-11-03T14:12:49.493Z"
+      },
       {
         "version": "2.0.9",
         "lastUpdated": "2025-10-17T12:01:27.76Z"
@@ -8749,15 +8753,11 @@
       {
         "version": "1.1.19",
         "lastUpdated": "2021-04-06T06:15:58.007Z"
-      },
-      {
-        "version": "1.1.18",
-        "lastUpdated": "2020-11-18T18:16:36.39Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["beautiful functionality", "color-theme", "dark", "focus", "icons", "icon-theme", "light", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
   },
   {
@@ -15175,9 +15175,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.24.0",
-    "last_updated": "2025-10-31T16:19:14.52Z",
+    "latest_version": "0.24.1",
+    "last_updated": "2025-11-03T18:24:53.763Z",
     "version_history": [
+      {
+        "version": "0.24.1",
+        "lastUpdated": "2025-11-03T18:24:53.763Z"
+      },
       {
         "version": "0.24.0",
         "lastUpdated": "2025-10-31T16:19:14.52Z"
@@ -15253,15 +15257,11 @@
       {
         "version": "0.11.3",
         "lastUpdated": "2025-05-01T11:10:05.74Z"
-      },
-      {
-        "version": "0.11.2",
-        "lastUpdated": "2025-04-29T19:46:51.39Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.24.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.24.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
