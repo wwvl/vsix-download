@@ -1445,12 +1445,20 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.622.0",
-    "last_updated": "2025-10-29T21:16:48.55Z",
+    "latest_version": "0.627.0",
+    "last_updated": "2025-11-03T22:05:01.63Z",
     "version_history": [
+      {
+        "version": "0.627.0",
+        "lastUpdated": "2025-11-03T22:05:01.63Z"
+      },
       {
         "version": "0.622.0",
         "lastUpdated": "2025-10-29T21:16:48.55Z"
+      },
+      {
+        "version": "0.621.1",
+        "lastUpdated": "2025-11-03T21:49:16.317Z"
       },
       {
         "version": "0.621.0",
@@ -1519,14 +1527,6 @@
       {
         "version": "0.594.0",
         "lastUpdated": "2025-10-13T20:55:21.447Z"
-      },
-      {
-        "version": "0.589.1",
-        "lastUpdated": "2025-10-13T21:26:08.12Z"
-      },
-      {
-        "version": "0.589.0",
-        "lastUpdated": "2025-10-09T21:38:07.533Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.622.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.627.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -9721,9 +9721,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.15.2025102001",
-    "last_updated": "2025-10-20T10:49:24.97Z",
+    "latest_version": "2025.15.2025110302",
+    "last_updated": "2025-11-04T00:38:23.92Z",
     "version_history": [
+      {
+        "version": "2025.15.2025110302",
+        "lastUpdated": "2025-11-04T00:38:23.92Z"
+      },
       {
         "version": "2025.15.2025102001",
         "lastUpdated": "2025-10-20T10:49:24.97Z"
@@ -9799,15 +9803,11 @@
       {
         "version": "2025.9.2025052001",
         "lastUpdated": "2025-05-20T10:42:21.85Z"
-      },
-      {
-        "version": "2025.9.2025051201",
-        "lastUpdated": "2025-05-12T10:35:15.2Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025102001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025110302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10204,9 +10204,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.9.1",
-    "last_updated": "2025-10-23T17:33:25.52Z",
+    "latest_version": "2025.9.100",
+    "last_updated": "2025-11-03T22:38:13.23Z",
     "version_history": [
+      {
+        "version": "2025.9.100",
+        "lastUpdated": "2025-11-03T22:38:13.23Z"
+      },
       {
         "version": "2025.9.1",
         "lastUpdated": "2025-10-23T17:33:25.52Z"
@@ -10282,15 +10286,11 @@
       {
         "version": "2025.5.103",
         "lastUpdated": "2025-06-10T00:54:12.763Z"
-      },
-      {
-        "version": "2025.5.102",
-        "lastUpdated": "2025-06-09T20:16:22.103Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.9.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.9.100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -10758,9 +10758,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.429.0",
-    "last_updated": "2025-09-29T20:37:56.557Z",
+    "latest_version": "0.430.0",
+    "last_updated": "2025-11-03T20:24:37.333Z",
     "version_history": [
+      {
+        "version": "0.430.0",
+        "lastUpdated": "2025-11-03T20:24:37.333Z"
+      },
       {
         "version": "0.429.0",
         "lastUpdated": "2025-09-29T20:37:56.557Z"
@@ -10836,15 +10840,11 @@
       {
         "version": "0.412.0",
         "lastUpdated": "2025-04-24T07:43:24.567Z"
-      },
-      {
-        "version": "0.411.0",
-        "lastUpdated": "2025-04-07T20:34:38.283Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.429.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.430.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -12028,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251102",
-    "last_updated": "2025-11-03T00:25:30.013Z",
+    "latest_version": "6.0.20251103",
+    "last_updated": "2025-11-04T00:18:10.04Z",
     "version_history": [
+      {
+        "version": "6.0.20251103",
+        "lastUpdated": "2025-11-04T00:18:10.04Z"
+      },
       {
         "version": "6.0.20251102",
         "lastUpdated": "2025-11-03T00:25:30.013Z"
@@ -12106,15 +12110,11 @@
       {
         "version": "6.0.20251015",
         "lastUpdated": "2025-10-16T00:15:47.09Z"
-      },
-      {
-        "version": "6.0.20251014",
-        "lastUpdated": "2025-10-15T00:29:09.653Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251103/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14202,9 +14202,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.29.5",
-    "last_updated": "2025-11-01T19:45:00.87Z",
+    "latest_version": "3.30.0",
+    "last_updated": "2025-11-04T00:34:10.393Z",
     "version_history": [
+      {
+        "version": "3.30.0",
+        "lastUpdated": "2025-11-04T00:34:10.393Z"
+      },
       {
         "version": "3.29.5",
         "lastUpdated": "2025-11-01T19:45:00.87Z"
@@ -14280,24 +14284,24 @@
       {
         "version": "3.28.6",
         "lastUpdated": "2025-09-23T18:09:11.263Z"
-      },
-      {
-        "version": "3.28.5",
-        "lastUpdated": "2025-09-20T21:36:03.877Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.29.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.30.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2666",
-    "last_updated": "2025-11-03T00:58:43.637Z",
+    "latest_version": "0.4.2668",
+    "last_updated": "2025-11-04T00:57:01.227Z",
     "version_history": [
+      {
+        "version": "0.4.2668",
+        "lastUpdated": "2025-11-04T00:57:01.227Z"
+      },
       {
         "version": "0.4.2666",
         "lastUpdated": "2025-11-03T00:58:43.637Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2646",
         "lastUpdated": "2025-10-16T00:58:12.22Z"
-      },
-      {
-        "version": "0.4.2645",
-        "lastUpdated": "2025-10-15T00:57:07.61Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2666/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2668/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
