@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025110305",
-    "last_updated": "2025-11-03T04:31:53.56Z",
+    "latest_version": "0.33.2025110401",
+    "last_updated": "2025-11-04T04:31:52.49Z",
     "version_history": [
+      {
+        "version": "0.33.2025110401",
+        "lastUpdated": "2025-11-04T04:31:52.49Z"
+      },
       {
         "version": "0.33.2025110305",
         "lastUpdated": "2025-11-03T04:31:53.56Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025101606",
         "lastUpdated": "2025-10-16T23:23:12.5Z"
-      },
-      {
-        "version": "0.33.2025101601",
-        "lastUpdated": "2025-10-16T04:31:53.437Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025110305/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025110401/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025110304",
-    "last_updated": "2025-11-03T04:29:09.24Z",
+    "latest_version": "0.121.2025110404",
+    "last_updated": "2025-11-04T04:19:56.16Z",
     "version_history": [
+      {
+        "version": "0.121.2025110404",
+        "lastUpdated": "2025-11-04T04:19:56.16Z"
+      },
       {
         "version": "0.121.2025110304",
         "lastUpdated": "2025-11-03T04:29:09.24Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.119.2025100808",
         "lastUpdated": "2025-10-08T09:09:43.88Z"
-      },
-      {
-        "version": "0.119.2025100609",
-        "lastUpdated": "2025-10-06T09:28:49.58Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -14596,9 +14596,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.35.0",
-    "last_updated": "2025-10-31T02:02:36.563Z",
+    "latest_version": "3.35.1",
+    "last_updated": "2025-11-04T04:25:56.57Z",
     "version_history": [
+      {
+        "version": "3.35.1",
+        "lastUpdated": "2025-11-04T04:25:56.57Z"
+      },
       {
         "version": "3.35.0",
         "lastUpdated": "2025-10-31T02:02:36.563Z"
@@ -14674,15 +14678,11 @@
       {
         "version": "3.30.0",
         "lastUpdated": "2025-09-19T19:31:38.63Z"
-      },
-      {
-        "version": "3.29.2",
-        "lastUpdated": "2025-09-18T23:14:20.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.35.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.35.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -17105,6 +17105,10 @@
         "lastUpdated": "2025-03-24T03:00:18.437Z"
       },
       {
+        "version": "3.17.1",
+        "lastUpdated": "2025-11-04T04:02:08.05Z"
+      },
+      {
         "version": "3.17.0",
         "lastUpdated": "2025-09-08T06:04:56.08Z"
       },
@@ -17143,10 +17147,6 @@
       {
         "version": "3.16.2024081311",
         "lastUpdated": "2024-08-13T13:56:25.303Z"
-      },
-      {
-        "version": "3.16.2024081209",
-        "lastUpdated": "2024-08-13T03:26:25.933Z"
       }
     ],
     "categories": ["Programming Languages"],
@@ -17158,9 +17158,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025090407",
-    "last_updated": "2025-10-13T05:39:30.337Z",
+    "latest_version": "0.58.2025110307",
+    "last_updated": "2025-11-04T05:37:27.613Z",
     "version_history": [
+      {
+        "version": "0.58.2025110307",
+        "lastUpdated": "2025-11-04T05:37:27.613Z"
+      },
       {
         "version": "0.58.2025090407",
         "lastUpdated": "2025-10-13T05:39:30.337Z"
@@ -17236,15 +17240,11 @@
       {
         "version": "0.56.2024022605",
         "lastUpdated": "2024-02-26T13:14:05.243Z"
-      },
-      {
-        "version": "0.56.2024021907",
-        "lastUpdated": "2024-02-23T06:48:44.483Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025090407/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025110307/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
@@ -17285,6 +17285,10 @@
       {
         "version": "0.26.2025092801",
         "lastUpdated": "2025-09-28T02:34:47.827Z"
+      },
+      {
+        "version": "0.26.3",
+        "lastUpdated": "2025-11-04T03:58:01.837Z"
       },
       {
         "version": "0.26.2",
@@ -17329,10 +17333,6 @@
       {
         "version": "0.23.2024062807",
         "lastUpdated": "2024-06-28T10:27:47.073Z"
-      },
-      {
-        "version": "0.23.2024062100",
-        "lastUpdated": "2024-06-21T05:11:38.767Z"
       }
     ],
     "categories": ["Other"],
