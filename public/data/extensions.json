@@ -3481,9 +3481,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.62.18062",
-    "last_updated": "2025-11-04T14:22:37.293Z",
+    "latest_version": "1.62.18067",
+    "last_updated": "2025-11-05T15:35:02.483Z",
     "version_history": [
+      {
+        "version": "1.62.18067",
+        "lastUpdated": "2025-11-05T15:35:02.483Z"
+      },
       {
         "version": "1.62.18062",
         "lastUpdated": "2025-11-04T14:22:37.293Z"
@@ -3559,15 +3563,11 @@
       {
         "version": "1.60.17873",
         "lastUpdated": "2025-09-02T15:12:02.18Z"
-      },
-      {
-        "version": "1.60.17845",
-        "lastUpdated": "2025-08-23T14:43:10.81Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18062/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18067/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025110504",
-    "last_updated": "2025-11-05T04:28:51.837Z",
+    "latest_version": "0.121.2025110514",
+    "last_updated": "2025-11-05T15:00:50.263Z",
     "version_history": [
+      {
+        "version": "0.121.2025110514",
+        "lastUpdated": "2025-11-05T15:00:50.263Z"
+      },
       {
         "version": "0.121.2025110504",
         "lastUpdated": "2025-11-05T04:28:51.837Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.120.1",
         "lastUpdated": "2025-10-16T18:34:16.667Z"
-      },
-      {
-        "version": "0.120.0",
-        "lastUpdated": "2025-10-09T18:14:18.94Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110504/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110514/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -13424,9 +13424,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.18.0",
-    "last_updated": "2025-10-22T10:26:42.987Z",
+    "latest_version": "6.19.0",
+    "last_updated": "2025-11-05T13:32:27.49Z",
     "version_history": [
+      {
+        "version": "6.19.0",
+        "lastUpdated": "2025-11-05T13:32:27.49Z"
+      },
       {
         "version": "6.18.0",
         "lastUpdated": "2025-10-22T10:26:42.987Z"
@@ -13502,15 +13506,11 @@
       {
         "version": "6.8.1",
         "lastUpdated": "2025-05-15T20:01:37.477Z"
-      },
-      {
-        "version": "6.8.0",
-        "lastUpdated": "2025-05-15T12:37:10.59Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.19.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -15175,9 +15175,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.24.1",
-    "last_updated": "2025-11-03T18:24:53.763Z",
+    "latest_version": "0.24.2",
+    "last_updated": "2025-11-05T13:38:42.96Z",
     "version_history": [
+      {
+        "version": "0.24.2",
+        "lastUpdated": "2025-11-05T13:38:42.96Z"
+      },
       {
         "version": "0.24.1",
         "lastUpdated": "2025-11-03T18:24:53.763Z"
@@ -15253,15 +15257,11 @@
       {
         "version": "0.11.4",
         "lastUpdated": "2025-05-05T22:41:26.353Z"
-      },
-      {
-        "version": "0.11.3",
-        "lastUpdated": "2025-05-01T11:10:05.74Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.24.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.24.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
