@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.404",
-    "last_updated": "2025-11-04T09:17:48.913Z",
+    "latest_version": "2025.11.504",
+    "last_updated": "2025-11-05T09:15:30.97Z",
     "version_history": [
+      {
+        "version": "2025.11.504",
+        "lastUpdated": "2025-11-05T09:15:30.97Z"
+      },
       {
         "version": "2025.11.404",
         "lastUpdated": "2025-11-04T09:17:48.913Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.817",
         "lastUpdated": "2025-10-08T21:18:22.853Z"
-      },
-      {
-        "version": "2025.10.805",
-        "lastUpdated": "2025-10-08T09:12:15.86Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8918,9 +8918,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.106.2025102909",
-    "last_updated": "2025-10-29T09:23:58.063Z",
+    "latest_version": "1.106.2025110509",
+    "last_updated": "2025-11-05T09:23:39.907Z",
     "version_history": [
+      {
+        "version": "1.106.2025110509",
+        "lastUpdated": "2025-11-05T09:23:39.907Z"
+      },
       {
         "version": "1.106.2025102909",
         "lastUpdated": "2025-10-29T09:23:58.063Z"
@@ -8996,15 +9000,11 @@
       {
         "version": "1.102.2025061809",
         "lastUpdated": "2025-06-18T09:22:49.62Z"
-      },
-      {
-        "version": "1.101.2025061109",
-        "lastUpdated": "2025-06-11T09:22:20.967Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025102909/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025110509/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9721,9 +9721,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.15.2025110302",
-    "last_updated": "2025-11-04T00:38:23.92Z",
+    "latest_version": "2025.15.2025110501",
+    "last_updated": "2025-11-05T10:38:06.037Z",
     "version_history": [
+      {
+        "version": "2025.15.2025110501",
+        "lastUpdated": "2025-11-05T10:38:06.037Z"
+      },
       {
         "version": "2025.15.2025110302",
         "lastUpdated": "2025-11-04T00:38:23.92Z"
@@ -9799,15 +9803,11 @@
       {
         "version": "2025.9.2025053001",
         "lastUpdated": "2025-05-30T10:41:17.723Z"
-      },
-      {
-        "version": "2025.9.2025052001",
-        "lastUpdated": "2025-05-20T10:42:21.85Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025110302/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.15.2025110501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10093,9 +10093,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.17.2025101701",
-    "last_updated": "2025-10-17T10:44:18.673Z",
+    "latest_version": "2025.17.2025110501",
+    "last_updated": "2025-11-05T10:54:02.8Z",
     "version_history": [
+      {
+        "version": "2025.17.2025110501",
+        "lastUpdated": "2025-11-05T10:54:02.8Z"
+      },
       {
         "version": "2025.17.2025101701",
         "lastUpdated": "2025-10-17T10:44:18.673Z"
@@ -10171,10 +10175,6 @@
       {
         "version": "2025.11.2025072501",
         "lastUpdated": "2025-07-25T10:43:49.243Z"
-      },
-      {
-        "version": "2025.11.2025072201",
-        "lastUpdated": "2025-07-22T10:46:52.197Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10197,7 +10197,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.17.2025101701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.17.2025110501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -15880,9 +15880,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.6.9917994",
-    "last_updated": "2025-10-17T08:19:42.613Z",
+    "latest_version": "3.10.11186059",
+    "last_updated": "2025-11-05T07:47:35.397Z",
     "version_history": [
+      {
+        "version": "3.10.11186059",
+        "lastUpdated": "2025-11-05T07:47:35.397Z"
+      },
       {
         "version": "3.6.9917994",
         "lastUpdated": "2025-10-17T08:19:42.613Z"
@@ -15958,10 +15962,6 @@
       {
         "version": "3.1.13",
         "lastUpdated": "2025-05-09T10:08:19.583Z"
-      },
-      {
-        "version": "3.1.12",
-        "lastUpdated": "2025-05-09T08:54:10.977Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15990,7 +15990,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.6.9917994/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.10.11186059/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
