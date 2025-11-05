@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025110403",
-    "last_updated": "2025-11-04T23:20:11.25Z",
+    "latest_version": "0.33.2025110501",
+    "last_updated": "2025-11-05T04:31:28.633Z",
     "version_history": [
+      {
+        "version": "0.33.2025110501",
+        "lastUpdated": "2025-11-05T04:31:28.633Z"
+      },
       {
         "version": "0.33.2025110403",
         "lastUpdated": "2025-11-04T23:20:11.25Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025102001",
         "lastUpdated": "2025-10-20T04:23:59.3Z"
-      },
-      {
-        "version": "0.33.2025101701",
-        "lastUpdated": "2025-10-17T04:37:40.34Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025110403/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025110501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025110404",
-    "last_updated": "2025-11-04T04:19:56.16Z",
+    "latest_version": "0.121.2025110504",
+    "last_updated": "2025-11-05T04:28:51.837Z",
     "version_history": [
+      {
+        "version": "0.121.2025110504",
+        "lastUpdated": "2025-11-05T04:28:51.837Z"
+      },
       {
         "version": "0.121.2025110404",
         "lastUpdated": "2025-11-04T04:19:56.16Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.120.0",
         "lastUpdated": "2025-10-09T18:14:18.94Z"
-      },
-      {
-        "version": "0.119.2025100808",
-        "lastUpdated": "2025-10-08T09:09:43.88Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -14203,11 +14203,11 @@
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
     "latest_version": "3.30.1",
-    "last_updated": "2025-11-04T20:40:59.34Z",
+    "last_updated": "2025-11-04T20:48:52.073Z",
     "version_history": [
       {
         "version": "3.30.1",
-        "lastUpdated": "2025-11-04T20:40:59.34Z"
+        "lastUpdated": "2025-11-04T20:48:52.073Z"
       },
       {
         "version": "3.30.0",
@@ -14295,9 +14295,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2668",
-    "last_updated": "2025-11-04T00:57:01.227Z",
+    "latest_version": "0.4.2669",
+    "last_updated": "2025-11-05T00:58:20.79Z",
     "version_history": [
+      {
+        "version": "0.4.2669",
+        "lastUpdated": "2025-11-05T00:58:20.79Z"
+      },
       {
         "version": "0.4.2668",
         "lastUpdated": "2025-11-04T00:57:01.227Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2647",
         "lastUpdated": "2025-10-17T01:00:13.66Z"
-      },
-      {
-        "version": "0.4.2646",
-        "lastUpdated": "2025-10-16T00:58:12.22Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2668/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2669/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -17530,9 +17530,13 @@
     "extension_name": "vscjava.vscode-maven",
     "display_name": "Maven for Java",
     "short_description": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
-    "latest_version": "0.44.2024072906",
-    "last_updated": "2024-07-29T07:24:48.557Z",
+    "latest_version": "0.44.2025090403",
+    "last_updated": "2025-11-05T03:13:57.047Z",
     "version_history": [
+      {
+        "version": "0.44.2025090403",
+        "lastUpdated": "2025-11-05T03:13:57.047Z"
+      },
       {
         "version": "0.44.2024072906",
         "lastUpdated": "2024-07-29T07:24:48.557Z"
@@ -17608,15 +17612,11 @@
       {
         "version": "0.41.2023032803",
         "lastUpdated": "2023-03-28T03:11:38.117Z"
-      },
-      {
-        "version": "0.41.2023032403",
-        "lastUpdated": "2023-03-24T03:10:33.343Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["Java", "Maven"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2024072906/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2025090403/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven"
   },
   {
