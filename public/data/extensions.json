@@ -2923,9 +2923,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.123.20251030",
-    "last_updated": "2025-10-30T12:51:26.88Z",
+    "latest_version": "3.123.20251107",
+    "last_updated": "2025-11-06T16:24:37.297Z",
     "version_history": [
+      {
+        "version": "3.123.20251107",
+        "lastUpdated": "2025-11-06T16:24:37.297Z"
+      },
+      {
+        "version": "3.123.20251106",
+        "lastUpdated": "2025-11-06T14:17:08.01Z"
+      },
       {
         "version": "3.123.20251030",
         "lastUpdated": "2025-10-30T12:51:26.88Z"
@@ -2997,19 +3005,11 @@
       {
         "version": "3.118.1",
         "lastUpdated": "2025-09-03T12:22:46.203Z"
-      },
-      {
-        "version": "3.118.0",
-        "lastUpdated": "2025-09-01T10:06:33.48Z"
-      },
-      {
-        "version": "3.117.20250828",
-        "lastUpdated": "2025-08-28T13:59:58.447Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251030/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251107/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.604",
-    "last_updated": "2025-11-06T09:16:59.853Z",
+    "latest_version": "2025.11.610",
+    "last_updated": "2025-11-06T16:07:44.97Z",
     "version_history": [
+      {
+        "version": "2025.11.610",
+        "lastUpdated": "2025-11-06T16:07:44.97Z"
+      },
       {
         "version": "2025.11.604",
         "lastUpdated": "2025-11-06T09:16:59.853Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.1005",
         "lastUpdated": "2025-10-10T09:12:56.42Z"
-      },
-      {
-        "version": "2025.10.905",
-        "lastUpdated": "2025-10-09T09:12:17.567Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.610/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.121.2025110604",
-    "last_updated": "2025-11-06T04:20:46.227Z",
+    "latest_version": "0.121.2025110613",
+    "last_updated": "2025-11-06T13:17:42.317Z",
     "version_history": [
+      {
+        "version": "0.121.2025110613",
+        "lastUpdated": "2025-11-06T13:17:42.317Z"
+      },
       {
         "version": "0.121.2025110604",
         "lastUpdated": "2025-11-06T04:20:46.227Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.121.2025100916",
         "lastUpdated": "2025-10-09T16:18:33.897Z"
-      },
-      {
-        "version": "0.120.2",
-        "lastUpdated": "2025-10-30T15:29:23.143Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110613/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6239,9 +6239,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.56.0",
-    "last_updated": "2025-10-30T02:49:18.66Z",
+    "latest_version": "2.57.0",
+    "last_updated": "2025-11-06T15:17:28.767Z",
     "version_history": [
+      {
+        "version": "2.57.0",
+        "lastUpdated": "2025-11-06T15:17:28.767Z"
+      },
       {
         "version": "2.56.0",
         "lastUpdated": "2025-10-30T02:49:18.66Z"
@@ -6317,15 +6321,11 @@
       {
         "version": "2.40.0",
         "lastUpdated": "2025-07-11T00:07:19.863Z"
-      },
-      {
-        "version": "2.39.0",
-        "lastUpdated": "2025-07-02T20:20:15.51Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.56.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.57.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -14503,9 +14503,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "65.0.0",
-    "last_updated": "2025-10-17T20:03:23.043Z",
+    "latest_version": "65.3.1",
+    "last_updated": "2025-11-06T13:02:06.857Z",
     "version_history": [
+      {
+        "version": "65.3.1",
+        "lastUpdated": "2025-11-06T13:02:06.857Z"
+      },
       {
         "version": "65.0.0",
         "lastUpdated": "2025-10-17T20:03:23.043Z"
@@ -14581,15 +14585,11 @@
       {
         "version": "63.14.1",
         "lastUpdated": "2025-05-21T16:25:11.19Z"
-      },
-      {
-        "version": "63.12.0",
-        "lastUpdated": "2025-05-08T16:15:59.82Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.0.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.3.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
