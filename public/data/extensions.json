@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.9.3",
-    "last_updated": "2025-11-07T23:05:43.457Z",
+    "latest_version": "3.9.4",
+    "last_updated": "2025-11-08T09:28:50.037Z",
     "version_history": [
+      {
+        "version": "3.9.4",
+        "lastUpdated": "2025-11-08T09:28:50.037Z"
+      },
       {
         "version": "3.9.3",
         "lastUpdated": "2025-11-07T23:05:43.457Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "3.2.0",
         "lastUpdated": "2025-07-10T20:35:09.35Z"
-      },
-      {
-        "version": "3.1.1",
-        "lastUpdated": "2025-07-02T10:11:02.887Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2208,7 +2208,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.704",
-    "last_updated": "2025-11-07T09:15:28.05Z",
+    "latest_version": "2025.11.804",
+    "last_updated": "2025-11-08T09:15:05.917Z",
     "version_history": [
+      {
+        "version": "2025.11.804",
+        "lastUpdated": "2025-11-08T09:15:05.917Z"
+      },
       {
         "version": "2025.11.704",
         "lastUpdated": "2025-11-07T09:15:28.05Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.1618",
         "lastUpdated": "2025-10-16T22:24:31.247Z"
-      },
-      {
-        "version": "2025.10.1605",
-        "lastUpdated": "2025-10-16T09:14:25.41Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
