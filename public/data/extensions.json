@@ -11935,9 +11935,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.251103001",
-    "last_updated": "2025-11-03T03:03:36.17Z",
+    "latest_version": "0.13.251110001",
+    "last_updated": "2025-11-10T03:16:14.783Z",
     "version_history": [
+      {
+        "version": "0.13.251110001",
+        "lastUpdated": "2025-11-10T03:16:14.783Z"
+      },
       {
         "version": "0.13.251103001",
         "lastUpdated": "2025-11-03T03:03:36.17Z"
@@ -12013,15 +12017,11 @@
       {
         "version": "0.13.250914001",
         "lastUpdated": "2025-09-14T03:02:18.227Z"
-      },
-      {
-        "version": "0.13.250903001",
-        "lastUpdated": "2025-09-03T02:59:39.973Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251103001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251110001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -17158,9 +17158,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025110307",
-    "last_updated": "2025-11-04T05:37:27.613Z",
+    "latest_version": "0.58.2025110405",
+    "last_updated": "2025-11-10T05:37:11.6Z",
     "version_history": [
+      {
+        "version": "0.58.2025110405",
+        "lastUpdated": "2025-11-10T05:37:11.6Z"
+      },
       {
         "version": "0.58.2025110307",
         "lastUpdated": "2025-11-04T05:37:27.613Z"
@@ -17236,15 +17240,11 @@
       {
         "version": "0.56.2024032202",
         "lastUpdated": "2024-03-22T02:35:57.37Z"
-      },
-      {
-        "version": "0.56.2024022605",
-        "lastUpdated": "2024-02-26T13:14:05.243Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025110307/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025110405/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
