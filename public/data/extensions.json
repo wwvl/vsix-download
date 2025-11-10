@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.19.2",
-    "last_updated": "2025-11-03T13:43:24.983Z",
+    "latest_version": "3.20.0",
+    "last_updated": "2025-11-10T15:23:31.907Z",
     "version_history": [
+      {
+        "version": "3.20.0",
+        "lastUpdated": "2025-11-10T15:23:31.907Z"
+      },
       {
         "version": "3.19.2",
         "lastUpdated": "2025-11-03T13:43:24.983Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.12.2",
         "lastUpdated": "2025-07-25T08:39:18.89Z"
-      },
-      {
-        "version": "3.12.0",
-        "lastUpdated": "2025-07-22T13:18:27.837Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.19.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.20.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025110703",
-    "last_updated": "2025-11-07T22:54:57.86Z",
+    "latest_version": "0.33.2025111002",
+    "last_updated": "2025-11-10T15:57:22.93Z",
     "version_history": [
+      {
+        "version": "0.33.2025111002",
+        "lastUpdated": "2025-11-10T15:57:22.93Z"
+      },
       {
         "version": "0.33.2025110703",
         "lastUpdated": "2025-11-07T22:54:57.86Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025102302",
         "lastUpdated": "2025-10-23T06:32:46.2Z"
-      },
-      {
-        "version": "0.33.2025102301",
-        "lastUpdated": "2025-10-23T04:29:04.21Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025110703/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025111002/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -13016,9 +13016,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.27.0",
-    "last_updated": "2025-11-10T09:58:50.61Z",
+    "latest_version": "1.28.0",
+    "last_updated": "2025-11-10T16:43:16.053Z",
     "version_history": [
+      {
+        "version": "1.28.0",
+        "lastUpdated": "2025-11-10T16:43:16.053Z"
+      },
       {
         "version": "1.27.0",
         "lastUpdated": "2025-11-10T09:58:50.61Z"
@@ -13094,15 +13098,11 @@
       {
         "version": "1.10.0",
         "lastUpdated": "2025-08-06T10:24:23.96Z"
-      },
-      {
-        "version": "1.9.0",
-        "lastUpdated": "2025-07-29T09:10:17.927Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.27.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.28.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -15269,11 +15269,11 @@
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
     "latest_version": "4.3.0",
-    "last_updated": "2025-11-10T10:06:14.893Z",
+    "last_updated": "2025-11-10T10:00:39.827Z",
     "version_history": [
       {
         "version": "4.3.0",
-        "lastUpdated": "2025-11-10T10:06:14.893Z"
+        "lastUpdated": "2025-11-10T10:00:39.827Z"
       },
       {
         "version": "4.2.6",
