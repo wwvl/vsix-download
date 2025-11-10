@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.804",
-    "last_updated": "2025-11-08T09:15:05.917Z",
+    "latest_version": "2025.11.1004",
+    "last_updated": "2025-11-10T09:16:46.193Z",
     "version_history": [
+      {
+        "version": "2025.11.1004",
+        "lastUpdated": "2025-11-10T09:16:46.193Z"
+      },
       {
         "version": "2025.11.804",
         "lastUpdated": "2025-11-08T09:15:05.917Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.1705",
         "lastUpdated": "2025-10-17T09:18:19.533Z"
-      },
-      {
-        "version": "2025.10.1618",
-        "lastUpdated": "2025-10-16T22:24:31.247Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1004/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13016,9 +13016,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.26.0",
-    "last_updated": "2025-11-05T18:58:33.597Z",
+    "latest_version": "1.27.0",
+    "last_updated": "2025-11-10T09:58:50.61Z",
     "version_history": [
+      {
+        "version": "1.27.0",
+        "lastUpdated": "2025-11-10T09:58:50.61Z"
+      },
       {
         "version": "1.26.0",
         "lastUpdated": "2025-11-05T18:58:33.597Z"
@@ -13094,15 +13098,11 @@
       {
         "version": "1.9.0",
         "lastUpdated": "2025-07-29T09:10:17.927Z"
-      },
-      {
-        "version": "1.8.0",
-        "lastUpdated": "2025-07-22T11:34:17.76Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.26.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.27.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -15268,9 +15268,13 @@
     "extension_name": "streetsidesoftware.code-spell-checker",
     "display_name": "Code Spell Checker",
     "short_description": "Spelling checker for source code",
-    "latest_version": "4.2.6",
-    "last_updated": "2025-08-31T18:17:47.877Z",
+    "latest_version": "4.3.0",
+    "last_updated": "2025-11-10T10:06:14.893Z",
     "version_history": [
+      {
+        "version": "4.3.0",
+        "lastUpdated": "2025-11-10T10:06:14.893Z"
+      },
       {
         "version": "4.2.6",
         "lastUpdated": "2025-08-31T18:17:47.877Z"
@@ -15346,15 +15350,11 @@
       {
         "version": "4.0.39",
         "lastUpdated": "2025-02-25T10:02:02.823Z"
-      },
-      {
-        "version": "4.0.38",
-        "lastUpdated": "2025-02-09T12:43:28.633Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["checker", "json", "jsonc", "spell", "spellchecker", "spelling"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.2.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/streetsidesoftware/vsextensions/code-spell-checker/4.3.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
   },
   {
