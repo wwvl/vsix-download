@@ -1166,9 +1166,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.5.5",
-    "last_updated": "2025-11-07T10:13:41.723Z",
+    "latest_version": "66.5.6",
+    "last_updated": "2025-11-11T09:30:10.763Z",
     "version_history": [
+      {
+        "version": "66.5.6",
+        "lastUpdated": "2025-11-11T09:30:10.763Z"
+      },
       {
         "version": "66.5.5",
         "lastUpdated": "2025-11-07T10:13:41.723Z"
@@ -1244,15 +1248,11 @@
       {
         "version": "66.1.0",
         "lastUpdated": "2025-05-04T13:57:29.583Z"
-      },
-      {
-        "version": "66.0.0",
-        "lastUpdated": "2025-02-18T09:23:31.97Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.1016",
-    "last_updated": "2025-11-10T21:57:56.117Z",
+    "latest_version": "2025.11.1104",
+    "last_updated": "2025-11-11T09:15:41.16Z",
     "version_history": [
+      {
+        "version": "2025.11.1104",
+        "lastUpdated": "2025-11-11T09:15:41.16Z"
+      },
       {
         "version": "2025.11.1016",
         "lastUpdated": "2025-11-10T21:57:56.117Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.2005",
         "lastUpdated": "2025-10-20T09:14:03.72Z"
-      },
-      {
-        "version": "2025.10.1805",
-        "lastUpdated": "2025-10-18T09:12:53.44Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1016/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -6031,116 +6031,6 @@
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.121.2025110704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
-  },
-  {
-    "extension_name": "golang.Go",
-    "display_name": "Go",
-    "short_description": "Rich Go language support for Visual Studio Code",
-    "latest_version": "0.51.1",
-    "last_updated": "2025-10-27T16:18:41.503Z",
-    "version_history": [
-      {
-        "version": "0.51.1",
-        "lastUpdated": "2025-10-27T16:18:41.503Z"
-      },
-      {
-        "version": "0.51.0",
-        "lastUpdated": "2025-09-04T19:25:38.347Z"
-      },
-      {
-        "version": "0.50.0",
-        "lastUpdated": "2025-09-04T17:55:52.34Z"
-      },
-      {
-        "version": "0.49.1",
-        "lastUpdated": "2025-08-21T17:35:01.94Z"
-      },
-      {
-        "version": "0.49.0",
-        "lastUpdated": "2025-07-07T15:48:58.947Z"
-      },
-      {
-        "version": "0.48.0",
-        "lastUpdated": "2025-06-30T15:36:32.24Z"
-      },
-      {
-        "version": "0.47.4",
-        "lastUpdated": "2025-06-23T18:19:29.07Z"
-      },
-      {
-        "version": "0.47.3",
-        "lastUpdated": "2025-06-05T19:11:50.663Z"
-      },
-      {
-        "version": "0.47.2",
-        "lastUpdated": "2025-04-15T15:01:25.897Z"
-      },
-      {
-        "version": "0.47.1",
-        "lastUpdated": "2025-03-04T19:12:04.953Z"
-      },
-      {
-        "version": "0.47.0",
-        "lastUpdated": "2025-02-28T18:54:33.04Z"
-      },
-      {
-        "version": "0.46.1",
-        "lastUpdated": "2025-03-04T23:23:59.13Z"
-      },
-      {
-        "version": "0.46.0",
-        "lastUpdated": "2025-02-27T20:41:20.047Z"
-      },
-      {
-        "version": "0.45.2",
-        "lastUpdated": "2025-02-19T21:06:44.32Z"
-      },
-      {
-        "version": "0.45.1",
-        "lastUpdated": "2025-02-11T20:43:30.693Z"
-      },
-      {
-        "version": "0.45.0",
-        "lastUpdated": "2024-12-17T14:29:35.827Z"
-      },
-      {
-        "version": "0.44.0",
-        "lastUpdated": "2024-12-16T17:31:24.993Z"
-      },
-      {
-        "version": "0.43.4",
-        "lastUpdated": "2024-12-05T16:42:38.713Z"
-      },
-      {
-        "version": "0.43.3",
-        "lastUpdated": "2024-11-18T19:26:39.53Z"
-      },
-      {
-        "version": "0.43.2",
-        "lastUpdated": "2024-09-25T17:56:32.89Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
-    "tags": [
-      "debuggers",
-      "go",
-      "Go Assembly",
-      "Go Checksum File",
-      "Go Module File",
-      "Go Template File",
-      "Go Work File",
-      "go.asm",
-      "go.mod",
-      "go.sum",
-      "go.work",
-      "golang",
-      "gopls",
-      "gotmpl",
-      "multi-root ready",
-      "snippet"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsextensions/Go/0.51.1/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=golang.Go"
   },
   {
     "extension_name": "golang.go-nightly",
@@ -13889,9 +13779,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.48.2025110708",
-    "last_updated": "2025-11-07T08:26:38.923Z",
+    "latest_version": "1.48.2025111108",
+    "last_updated": "2025-11-11T08:25:56.463Z",
     "version_history": [
+      {
+        "version": "1.48.2025111108",
+        "lastUpdated": "2025-11-11T08:25:56.463Z"
+      },
       {
         "version": "1.48.2025110708",
         "lastUpdated": "2025-11-07T08:26:38.923Z"
@@ -13967,15 +13861,11 @@
       {
         "version": "1.47.2025100408",
         "lastUpdated": "2025-10-04T08:27:24.623Z"
-      },
-      {
-        "version": "1.47.2025100308",
-        "lastUpdated": "2025-10-03T08:32:55.397Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025110708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111108/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -15540,9 +15430,13 @@
     "extension_name": "svelte.svelte-vscode",
     "display_name": "Svelte for VS Code",
     "short_description": "Svelte language support for VS Code",
-    "latest_version": "109.11.2",
-    "last_updated": "2025-10-08T15:13:40.087Z",
+    "latest_version": "109.12.0",
+    "last_updated": "2025-11-11T11:31:35.953Z",
     "version_history": [
+      {
+        "version": "109.12.0",
+        "lastUpdated": "2025-11-11T11:31:35.953Z"
+      },
       {
         "version": "109.11.2",
         "lastUpdated": "2025-10-08T15:13:40.087Z"
@@ -15618,15 +15512,11 @@
       {
         "version": "109.3.0",
         "lastUpdated": "2024-11-22T12:27:41.98Z"
-      },
-      {
-        "version": "109.2.4",
-        "lastUpdated": "2024-11-16T20:03:59.01Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["javascript", "json", "snippet", "svelte", "typescript", "vscode"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.11.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/svelte/vsextensions/svelte-vscode/109.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode"
   },
   {
