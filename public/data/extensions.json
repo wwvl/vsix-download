@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025111103",
-    "last_updated": "2025-11-11T19:44:56.873Z",
+    "latest_version": "0.34.2025111202",
+    "last_updated": "2025-11-12T18:21:08.297Z",
     "version_history": [
+      {
+        "version": "0.34.2025111202",
+        "lastUpdated": "2025-11-12T18:21:08.297Z"
+      },
       {
         "version": "0.33.2025111103",
         "lastUpdated": "2025-11-11T19:44:56.873Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025102701",
         "lastUpdated": "2025-10-27T01:29:19.243Z"
-      },
-      {
-        "version": "0.33.2025102407",
-        "lastUpdated": "2025-10-24T20:21:40.53Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025111103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10758,9 +10758,17 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.430.0",
-    "last_updated": "2025-11-03T20:24:37.333Z",
+    "latest_version": "0.432.0",
+    "last_updated": "2025-11-12T12:49:11.8Z",
     "version_history": [
+      {
+        "version": "0.432.0",
+        "lastUpdated": "2025-11-12T12:49:11.8Z"
+      },
+      {
+        "version": "0.431.0",
+        "lastUpdated": "2025-11-12T16:31:15.497Z"
+      },
       {
         "version": "0.430.0",
         "lastUpdated": "2025-11-03T20:24:37.333Z"
@@ -10832,19 +10840,11 @@
       {
         "version": "0.414.0",
         "lastUpdated": "2025-05-08T13:43:52.973Z"
-      },
-      {
-        "version": "0.413.0",
-        "lastUpdated": "2025-05-08T19:43:09.36Z"
-      },
-      {
-        "version": "0.412.0",
-        "lastUpdated": "2025-04-24T07:43:24.567Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.430.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.432.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -15175,9 +15175,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.24.2",
-    "last_updated": "2025-11-05T13:38:42.96Z",
+    "latest_version": "0.24.3",
+    "last_updated": "2025-11-12T13:43:42.777Z",
     "version_history": [
+      {
+        "version": "0.24.3",
+        "lastUpdated": "2025-11-12T13:43:42.777Z"
+      },
       {
         "version": "0.24.2",
         "lastUpdated": "2025-11-05T13:38:42.96Z"
@@ -15253,15 +15257,11 @@
       {
         "version": "0.12.0",
         "lastUpdated": "2025-05-08T23:06:13.57Z"
-      },
-      {
-        "version": "0.11.4",
-        "lastUpdated": "2025-05-05T22:41:26.353Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.24.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.24.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
