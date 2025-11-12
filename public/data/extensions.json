@@ -1445,9 +1445,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.633.0",
-    "last_updated": "2025-11-07T22:52:39.14Z",
+    "latest_version": "0.638.0",
+    "last_updated": "2025-11-12T07:43:31.337Z",
     "version_history": [
+      {
+        "version": "0.638.0",
+        "lastUpdated": "2025-11-12T07:43:31.337Z"
+      },
       {
         "version": "0.633.0",
         "lastUpdated": "2025-11-07T22:52:39.14Z"
@@ -1523,10 +1527,6 @@
       {
         "version": "0.603.1",
         "lastUpdated": "2025-10-27T22:50:23.02Z"
-      },
-      {
-        "version": "0.603.0",
-        "lastUpdated": "2025-10-20T18:43:27.707Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.633.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.638.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.9.6",
-    "last_updated": "2025-11-12T05:37:38.483Z",
+    "latest_version": "3.9.7",
+    "last_updated": "2025-11-12T06:44:44.92Z",
     "version_history": [
+      {
+        "version": "3.9.7",
+        "lastUpdated": "2025-11-12T06:44:44.92Z"
+      },
       {
         "version": "3.9.6",
         "lastUpdated": "2025-11-12T05:37:38.483Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "3.3.2",
         "lastUpdated": "2025-07-30T20:41:49.183Z"
-      },
-      {
-        "version": "3.3.1",
-        "lastUpdated": "2025-07-26T14:42:29.567Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2208,7 +2208,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.1104",
-    "last_updated": "2025-11-11T09:15:41.16Z",
+    "latest_version": "2025.11.1204",
+    "last_updated": "2025-11-12T09:16:17.093Z",
     "version_history": [
+      {
+        "version": "2025.11.1204",
+        "lastUpdated": "2025-11-12T09:16:17.093Z"
+      },
       {
         "version": "2025.11.1104",
         "lastUpdated": "2025-11-11T09:15:41.16Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.2105",
         "lastUpdated": "2025-10-21T09:13:50.383Z"
-      },
-      {
-        "version": "2025.10.2005",
-        "lastUpdated": "2025-10-20T09:14:03.72Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8156,9 +8156,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.4.8",
-    "last_updated": "2025-11-09T14:47:47.697Z",
+    "latest_version": "1.4.10",
+    "last_updated": "2025-11-12T09:26:45.32Z",
     "version_history": [
+      {
+        "version": "1.4.10",
+        "lastUpdated": "2025-11-12T09:26:45.32Z"
+      },
       {
         "version": "1.4.8",
         "lastUpdated": "2025-11-09T14:47:47.697Z"
@@ -8234,10 +8238,6 @@
       {
         "version": "1.2.55",
         "lastUpdated": "2025-09-09T13:51:25.327Z"
-      },
-      {
-        "version": "1.2.54",
-        "lastUpdated": "2025-09-02T13:59:49.44Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8271,7 +8271,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.8/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.10/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -8918,9 +8918,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.106.2025110509",
-    "last_updated": "2025-11-05T09:23:39.907Z",
+    "latest_version": "1.106.2025111209",
+    "last_updated": "2025-11-12T09:29:29.44Z",
     "version_history": [
+      {
+        "version": "1.106.2025111209",
+        "lastUpdated": "2025-11-12T09:29:29.44Z"
+      },
       {
         "version": "1.106.2025110509",
         "lastUpdated": "2025-11-05T09:23:39.907Z"
@@ -8996,15 +9000,11 @@
       {
         "version": "1.102.2025062509",
         "lastUpdated": "2025-06-25T09:17:43.23Z"
-      },
-      {
-        "version": "1.102.2025061809",
-        "lastUpdated": "2025-06-18T09:22:49.62Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025110509/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025111209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -13889,9 +13889,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.48.2025111108",
-    "last_updated": "2025-11-11T08:25:56.463Z",
+    "latest_version": "1.48.2025111208",
+    "last_updated": "2025-11-12T08:30:37.5Z",
     "version_history": [
+      {
+        "version": "1.48.2025111208",
+        "lastUpdated": "2025-11-12T08:30:37.5Z"
+      },
       {
         "version": "1.48.2025111108",
         "lastUpdated": "2025-11-11T08:25:56.463Z"
@@ -13967,15 +13971,11 @@
       {
         "version": "1.47.2025100808",
         "lastUpdated": "2025-10-08T08:33:41.55Z"
-      },
-      {
-        "version": "1.47.2025100408",
-        "lastUpdated": "2025-10-04T08:27:24.623Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
