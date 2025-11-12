@@ -1453,6 +1453,14 @@
         "lastUpdated": "2025-11-07T22:52:39.14Z"
       },
       {
+        "version": "0.631.2",
+        "lastUpdated": "2025-11-12T05:48:26.467Z"
+      },
+      {
+        "version": "0.631.1",
+        "lastUpdated": "2025-11-12T05:31:23.33Z"
+      },
+      {
         "version": "0.631.0",
         "lastUpdated": "2025-11-06T19:14:47.443Z"
       },
@@ -1519,14 +1527,6 @@
       {
         "version": "0.603.0",
         "lastUpdated": "2025-10-20T18:43:27.707Z"
-      },
-      {
-        "version": "0.596.3",
-        "lastUpdated": "2025-10-24T16:57:40.967Z"
-      },
-      {
-        "version": "0.596.2",
-        "lastUpdated": "2025-10-15T03:31:04.19Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.20.0",
-    "last_updated": "2025-11-10T15:23:31.907Z",
+    "latest_version": "3.20.1",
+    "last_updated": "2025-11-12T02:03:43.18Z",
     "version_history": [
+      {
+        "version": "3.20.1",
+        "lastUpdated": "2025-11-12T02:03:43.18Z"
+      },
       {
         "version": "3.20.0",
         "lastUpdated": "2025-11-10T15:23:31.907Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.12.3",
         "lastUpdated": "2025-07-28T06:30:46.187Z"
-      },
-      {
-        "version": "3.12.2",
-        "lastUpdated": "2025-07-25T08:39:18.89Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.20.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.9.5",
-    "last_updated": "2025-11-11T23:38:23.857Z",
+    "latest_version": "3.9.6",
+    "last_updated": "2025-11-12T05:37:38.483Z",
     "version_history": [
+      {
+        "version": "3.9.6",
+        "lastUpdated": "2025-11-12T05:37:38.483Z"
+      },
       {
         "version": "3.9.5",
         "lastUpdated": "2025-11-11T23:38:23.857Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "3.3.1",
         "lastUpdated": "2025-07-26T14:42:29.567Z"
-      },
-      {
-        "version": "3.3.0",
-        "lastUpdated": "2025-07-23T14:57:37.057Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2208,7 +2208,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.6/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -14202,9 +14202,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.31.0",
-    "last_updated": "2025-11-08T04:39:06.083Z",
+    "latest_version": "3.31.1",
+    "last_updated": "2025-11-12T01:40:20.377Z",
     "version_history": [
+      {
+        "version": "3.31.1",
+        "lastUpdated": "2025-11-12T01:40:20.377Z"
+      },
       {
         "version": "3.31.0",
         "lastUpdated": "2025-11-08T04:39:06.083Z"
@@ -14280,15 +14284,11 @@
       {
         "version": "3.28.11",
         "lastUpdated": "2025-09-29T19:02:26.453Z"
-      },
-      {
-        "version": "3.28.10",
-        "lastUpdated": "2025-09-29T18:18:34.693Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.31.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.31.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -17158,9 +17158,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025110405",
-    "last_updated": "2025-11-10T05:37:11.6Z",
+    "latest_version": "0.58.2025111107",
+    "last_updated": "2025-11-12T05:31:28.47Z",
     "version_history": [
+      {
+        "version": "0.58.2025111107",
+        "lastUpdated": "2025-11-12T05:31:28.47Z"
+      },
       {
         "version": "0.58.2025110405",
         "lastUpdated": "2025-11-10T05:37:11.6Z"
@@ -17236,15 +17240,11 @@
       {
         "version": "0.57.0",
         "lastUpdated": "2024-03-26T05:04:57.26Z"
-      },
-      {
-        "version": "0.56.2024032202",
-        "lastUpdated": "2024-03-22T02:35:57.37Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025110405/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025111107/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
@@ -17285,6 +17285,10 @@
       {
         "version": "0.26.2025092801",
         "lastUpdated": "2025-09-28T02:34:47.827Z"
+      },
+      {
+        "version": "0.26.4",
+        "lastUpdated": "2025-11-12T02:39:06.523Z"
       },
       {
         "version": "0.26.3",
@@ -17329,10 +17333,6 @@
       {
         "version": "0.23.2024070900",
         "lastUpdated": "2024-07-10T07:36:49.973Z"
-      },
-      {
-        "version": "0.23.2024062807",
-        "lastUpdated": "2024-06-28T10:27:47.073Z"
       }
     ],
     "categories": ["Other"],
@@ -17344,9 +17344,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.30.2025102108",
-    "last_updated": "2025-10-21T09:18:34.98Z",
+    "latest_version": "0.30.2025111100",
+    "last_updated": "2025-11-12T02:17:22.83Z",
     "version_history": [
+      {
+        "version": "0.30.2025111100",
+        "lastUpdated": "2025-11-12T02:17:22.83Z"
+      },
       {
         "version": "0.30.2025102108",
         "lastUpdated": "2025-10-21T09:18:34.98Z"
@@ -17422,15 +17426,11 @@
       {
         "version": "0.29.0",
         "lastUpdated": "2024-08-13T02:32:59.077Z"
-      },
-      {
-        "version": "0.28.2024080506",
-        "lastUpdated": "2024-08-05T07:29:05.91Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025102108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025111100/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
