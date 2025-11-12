@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.9.4",
-    "last_updated": "2025-11-08T09:28:50.037Z",
+    "latest_version": "3.9.5",
+    "last_updated": "2025-11-11T23:38:23.857Z",
     "version_history": [
+      {
+        "version": "3.9.5",
+        "lastUpdated": "2025-11-11T23:38:23.857Z"
+      },
       {
         "version": "3.9.4",
         "lastUpdated": "2025-11-08T09:28:50.037Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "3.3.0",
         "lastUpdated": "2025-07-23T14:57:37.057Z"
-      },
-      {
-        "version": "3.2.0",
-        "lastUpdated": "2025-07-10T20:35:09.35Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2208,7 +2208,7 @@
       "typescript",
       "typescriptreact"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.33.2025111102",
-    "last_updated": "2025-11-11T15:29:33.357Z",
+    "latest_version": "0.33.2025111103",
+    "last_updated": "2025-11-11T19:44:56.873Z",
     "version_history": [
+      {
+        "version": "0.33.2025111103",
+        "lastUpdated": "2025-11-11T19:44:56.873Z"
+      },
       {
         "version": "0.33.2025111102",
         "lastUpdated": "2025-11-11T15:29:33.357Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025102407",
         "lastUpdated": "2025-10-24T20:21:40.53Z"
-      },
-      {
-        "version": "0.33.2025102406",
-        "lastUpdated": "2025-10-24T16:02:23.337Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025111102/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.33.2025111103/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -12028,9 +12028,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251110",
-    "last_updated": "2025-11-11T00:22:14.75Z",
+    "latest_version": "6.0.20251111",
+    "last_updated": "2025-11-12T00:20:35.57Z",
     "version_history": [
+      {
+        "version": "6.0.20251111",
+        "lastUpdated": "2025-11-12T00:20:35.57Z"
+      },
       {
         "version": "6.0.20251110",
         "lastUpdated": "2025-11-11T00:22:14.75Z"
@@ -12106,15 +12110,11 @@
       {
         "version": "6.0.20251023",
         "lastUpdated": "2025-10-24T00:15:24.36Z"
-      },
-      {
-        "version": "6.0.20251022",
-        "lastUpdated": "2025-10-23T00:32:04.833Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251110/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251111/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14295,9 +14295,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2676",
-    "last_updated": "2025-11-11T00:58:07.05Z",
+    "latest_version": "0.4.2677",
+    "last_updated": "2025-11-12T00:56:33.387Z",
     "version_history": [
+      {
+        "version": "0.4.2677",
+        "lastUpdated": "2025-11-12T00:56:33.387Z"
+      },
       {
         "version": "0.4.2676",
         "lastUpdated": "2025-11-11T00:58:07.05Z"
@@ -14373,15 +14377,11 @@
       {
         "version": "0.4.2654",
         "lastUpdated": "2025-10-24T00:54:22.183Z"
-      },
-      {
-        "version": "0.4.2653",
-        "lastUpdated": "2025-10-23T00:58:01.107Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2676/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2677/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
