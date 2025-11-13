@@ -4238,9 +4238,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.1215",
-    "last_updated": "2025-11-12T20:12:41.77Z",
+    "latest_version": "2025.11.1304",
+    "last_updated": "2025-11-13T09:16:06.613Z",
     "version_history": [
+      {
+        "version": "2025.11.1304",
+        "lastUpdated": "2025-11-13T09:16:06.613Z"
+      },
       {
         "version": "2025.11.1215",
         "lastUpdated": "2025-11-12T20:12:41.77Z"
@@ -4316,15 +4320,11 @@
       {
         "version": "2025.10.2305",
         "lastUpdated": "2025-10-23T09:14:13.353Z"
-      },
-      {
-        "version": "2025.10.2205",
-        "lastUpdated": "2025-10-22T09:14:42.61Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1215/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5539,9 +5539,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025111301",
-    "last_updated": "2025-11-13T04:36:28.563Z",
+    "latest_version": "0.34.2025111302",
+    "last_updated": "2025-11-13T10:30:11.28Z",
     "version_history": [
+      {
+        "version": "0.34.2025111302",
+        "lastUpdated": "2025-11-13T10:30:11.28Z"
+      },
       {
         "version": "0.34.2025111301",
         "lastUpdated": "2025-11-13T04:36:28.563Z"
@@ -5617,10 +5621,6 @@
       {
         "version": "0.33.2025103002",
         "lastUpdated": "2025-10-30T10:02:04.193Z"
-      },
-      {
-        "version": "0.33.2025102704",
-        "lastUpdated": "2025-10-27T20:50:20.623Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5657,7 +5657,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -8156,9 +8156,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.4.10",
-    "last_updated": "2025-11-12T09:26:45.32Z",
+    "latest_version": "1.4.11",
+    "last_updated": "2025-11-13T08:03:48.81Z",
     "version_history": [
+      {
+        "version": "1.4.11",
+        "lastUpdated": "2025-11-13T08:03:48.81Z"
+      },
       {
         "version": "1.4.10",
         "lastUpdated": "2025-11-12T09:26:45.32Z"
@@ -8234,10 +8238,6 @@
       {
         "version": "1.2.56",
         "lastUpdated": "2025-09-15T03:09:27.643Z"
-      },
-      {
-        "version": "1.2.55",
-        "lastUpdated": "2025-09-09T13:51:25.327Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8271,7 +8271,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.10/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.11/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -10093,9 +10093,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.18.0",
-    "last_updated": "2025-11-12T21:25:38.923Z",
+    "latest_version": "2025.19.2025111301",
+    "last_updated": "2025-11-13T10:52:41.203Z",
     "version_history": [
+      {
+        "version": "2025.19.2025111301",
+        "lastUpdated": "2025-11-13T10:52:41.203Z"
+      },
       {
         "version": "2025.18.0",
         "lastUpdated": "2025-11-12T21:25:38.923Z"
@@ -10171,10 +10175,6 @@
       {
         "version": "2025.11.2025072901",
         "lastUpdated": "2025-07-29T10:46:46.533Z"
-      },
-      {
-        "version": "2025.11.2025072801",
-        "lastUpdated": "2025-07-28T10:44:53.76Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10197,7 +10197,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025111301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -12214,9 +12214,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.25.2025110705",
-    "last_updated": "2025-11-07T07:00:21.397Z",
+    "latest_version": "0.26.0",
+    "last_updated": "2025-11-13T06:41:20.16Z",
     "version_history": [
+      {
+        "version": "0.26.0",
+        "lastUpdated": "2025-11-13T06:41:20.16Z"
+      },
       {
         "version": "0.25.2025110705",
         "lastUpdated": "2025-11-07T07:00:21.397Z"
@@ -12292,15 +12296,11 @@
       {
         "version": "0.16.1",
         "lastUpdated": "2025-07-09T06:19:25.917Z"
-      },
-      {
-        "version": "0.16.0",
-        "lastUpdated": "2025-07-02T06:22:38.967Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-models", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.25.2025110705/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -13889,9 +13889,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.48.2025111208",
-    "last_updated": "2025-11-12T08:30:37.5Z",
+    "latest_version": "1.48.2025111308",
+    "last_updated": "2025-11-13T08:27:21.67Z",
     "version_history": [
+      {
+        "version": "1.48.2025111308",
+        "lastUpdated": "2025-11-13T08:27:21.67Z"
+      },
       {
         "version": "1.48.2025111208",
         "lastUpdated": "2025-11-12T08:30:37.5Z"
@@ -13967,15 +13971,11 @@
       {
         "version": "1.47.2025100908",
         "lastUpdated": "2025-10-09T08:38:55.873Z"
-      },
-      {
-        "version": "1.47.2025100808",
-        "lastUpdated": "2025-10-08T08:33:41.55Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111208/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
