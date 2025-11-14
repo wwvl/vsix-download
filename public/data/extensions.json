@@ -5943,9 +5943,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025111304",
-    "last_updated": "2025-11-13T04:29:36.51Z",
+    "latest_version": "0.123.2025111404",
+    "last_updated": "2025-11-14T04:18:25.313Z",
     "version_history": [
+      {
+        "version": "0.123.2025111404",
+        "lastUpdated": "2025-11-14T04:18:25.313Z"
+      },
       {
         "version": "0.123.2025111304",
         "lastUpdated": "2025-11-13T04:29:36.51Z"
@@ -6021,15 +6025,11 @@
       {
         "version": "0.121.2025101604",
         "lastUpdated": "2025-10-16T04:29:27.713Z"
-      },
-      {
-        "version": "0.121.2025101514",
-        "lastUpdated": "2025-10-15T14:26:37.22Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6240,11 +6240,11 @@
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
     "latest_version": "2.58.1",
-    "last_updated": "2025-11-14T00:50:26.89Z",
+    "last_updated": "2025-11-14T01:07:34.53Z",
     "version_history": [
       {
         "version": "2.58.1",
-        "lastUpdated": "2025-11-14T00:50:26.89Z"
+        "lastUpdated": "2025-11-14T01:07:34.53Z"
       },
       {
         "version": "2.58.0",
@@ -8164,6 +8164,10 @@
         "lastUpdated": "2025-11-13T15:39:45.37Z"
       },
       {
+        "version": "1.4.12",
+        "lastUpdated": "2025-11-14T06:26:13.217Z"
+      },
+      {
         "version": "1.4.11",
         "lastUpdated": "2025-11-13T08:03:48.81Z"
       },
@@ -8234,10 +8238,6 @@
       {
         "version": "1.2.58",
         "lastUpdated": "2025-09-18T02:56:38.97Z"
-      },
-      {
-        "version": "1.2.57",
-        "lastUpdated": "2025-09-17T00:05:06.38Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -14596,9 +14596,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.37.0",
-    "last_updated": "2025-11-13T20:52:34.89Z",
+    "latest_version": "3.37.1",
+    "last_updated": "2025-11-14T02:03:27.843Z",
     "version_history": [
+      {
+        "version": "3.37.1",
+        "lastUpdated": "2025-11-14T02:03:27.843Z"
+      },
       {
         "version": "3.37.0",
         "lastUpdated": "2025-11-13T20:52:34.89Z"
@@ -14674,15 +14678,11 @@
       {
         "version": "3.31.1",
         "lastUpdated": "2025-09-25T06:42:13.65Z"
-      },
-      {
-        "version": "3.31.0",
-        "lastUpdated": "2025-09-25T01:54:15.94Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.37.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.37.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -17716,9 +17716,13 @@
     "extension_name": "vscjava.vscode-spring-initializr",
     "display_name": "Spring Initializr Java Support",
     "short_description": "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.",
-    "latest_version": "0.11.2025062607",
-    "last_updated": "2025-06-26T07:47:23.89Z",
+    "latest_version": "0.12.0",
+    "last_updated": "2025-11-14T02:19:21.45Z",
     "version_history": [
+      {
+        "version": "0.12.0",
+        "lastUpdated": "2025-11-14T02:19:21.45Z"
+      },
       {
         "version": "0.11.2025062607",
         "lastUpdated": "2025-06-26T07:47:23.89Z"
@@ -17794,15 +17798,11 @@
       {
         "version": "0.10.2022080203",
         "lastUpdated": "2022-08-02T03:05:42.863Z"
-      },
-      {
-        "version": "0.10.2022072203",
-        "lastUpdated": "2022-07-22T03:05:06.583Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.11.2025062607/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr"
   },
   {
@@ -18748,9 +18748,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.490",
-    "last_updated": "2025-11-01T22:15:58.787Z",
+    "latest_version": "1.0.491",
+    "last_updated": "2025-11-14T03:57:09.807Z",
     "version_history": [
+      {
+        "version": "1.0.491",
+        "lastUpdated": "2025-11-14T03:57:09.807Z"
+      },
       {
         "version": "1.0.490",
         "lastUpdated": "2025-11-01T22:15:58.787Z"
@@ -18826,15 +18830,11 @@
       {
         "version": "1.0.468",
         "lastUpdated": "2025-08-28T03:58:23.053Z"
-      },
-      {
-        "version": "1.0.467",
-        "lastUpdated": "2025-08-19T22:35:22.123Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.490/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.491/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
