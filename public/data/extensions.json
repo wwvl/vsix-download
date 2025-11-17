@@ -13025,9 +13025,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vscode extension",
-    "latest_version": "1.28.0",
-    "last_updated": "2025-11-10T16:43:16.053Z",
+    "latest_version": "1.29.0",
+    "last_updated": "2025-11-17T12:55:48.423Z",
     "version_history": [
+      {
+        "version": "1.29.0",
+        "lastUpdated": "2025-11-17T12:55:48.423Z"
+      },
       {
         "version": "1.28.0",
         "lastUpdated": "2025-11-10T16:43:16.053Z"
@@ -13103,15 +13107,11 @@
       {
         "version": "1.11.0",
         "lastUpdated": "2025-08-07T15:18:31.51Z"
-      },
-      {
-        "version": "1.10.0",
-        "lastUpdated": "2025-08-06T10:24:23.96Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.28.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.29.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -16055,9 +16055,13 @@
     "extension_name": "timonwong.shellcheck",
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
-    "latest_version": "0.38.3",
-    "last_updated": "2025-08-08T05:07:58.483Z",
+    "latest_version": "0.38.4",
+    "last_updated": "2025-11-17T13:43:54.283Z",
     "version_history": [
+      {
+        "version": "0.38.4",
+        "lastUpdated": "2025-11-17T13:43:54.283Z"
+      },
       {
         "version": "0.38.3",
         "lastUpdated": "2025-08-08T05:07:58.483Z"
@@ -16133,15 +16137,11 @@
       {
         "version": "0.32.5",
         "lastUpdated": "2023-04-25T02:42:36.747Z"
-      },
-      {
-        "version": "0.32.4",
-        "lastUpdated": "2023-04-18T02:21:03.653Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["bash", "bats", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
   {
