@@ -5339,9 +5339,13 @@
     "extension_name": "GitHub.codespaces",
     "display_name": "GitHub Codespaces",
     "short_description": "Your instant dev environment",
-    "latest_version": "1.17.5",
-    "last_updated": "2025-10-23T08:40:56.52Z",
+    "latest_version": "1.18.0",
+    "last_updated": "2025-11-17T11:33:56.087Z",
     "version_history": [
+      {
+        "version": "1.18.0",
+        "lastUpdated": "2025-11-17T11:33:56.087Z"
+      },
       {
         "version": "1.17.5",
         "lastUpdated": "2025-10-23T08:40:56.52Z"
@@ -5417,15 +5421,11 @@
       {
         "version": "1.16.10",
         "lastUpdated": "2024-02-06T21:17:05.23Z"
-      },
-      {
-        "version": "1.16.9",
-        "lastUpdated": "2024-01-26T19:10:39.48Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["continueOn", "json", "jsonc", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.17.5/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/codespaces/1.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces"
   },
   {
@@ -10102,9 +10102,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.19.2025111301",
-    "last_updated": "2025-11-13T10:52:41.203Z",
+    "latest_version": "2025.19.2025111701",
+    "last_updated": "2025-11-17T10:51:35.853Z",
     "version_history": [
+      {
+        "version": "2025.19.2025111701",
+        "lastUpdated": "2025-11-17T10:51:35.853Z"
+      },
       {
         "version": "2025.19.2025111301",
         "lastUpdated": "2025-11-13T10:52:41.203Z"
@@ -10180,10 +10184,6 @@
       {
         "version": "2025.12.0",
         "lastUpdated": "2025-08-07T20:40:12.747Z"
-      },
-      {
-        "version": "2025.11.2025072901",
-        "lastUpdated": "2025-07-29T10:46:46.533Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10206,7 +10206,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025111301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025111701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
