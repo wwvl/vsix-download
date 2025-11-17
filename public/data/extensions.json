@@ -2104,10 +2104,14 @@
   {
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
-    "short_description": "Insert, manage, and clean log messages automatically in JavaScript and TypeScript — with AST-powered precision and full support for console log or custom log functions.",
-    "latest_version": "3.9.7",
-    "last_updated": "2025-11-12T06:44:44.92Z",
+    "short_description": "Automated logging for JavaScript, TypeScript, and PHP. Insert, manage, and clean log messages with AST-powered precision.",
+    "latest_version": "3.10.0",
+    "last_updated": "2025-11-17T04:21:13.273Z",
     "version_history": [
+      {
+        "version": "3.10.0",
+        "lastUpdated": "2025-11-17T04:21:13.273Z"
+      },
       {
         "version": "3.9.7",
         "lastUpdated": "2025-11-12T06:44:44.92Z"
@@ -2183,32 +2187,34 @@
       {
         "version": "3.4.0",
         "lastUpdated": "2025-08-05T18:31:49.957Z"
-      },
-      {
-        "version": "3.3.2",
-        "lastUpdated": "2025-07-30T20:41:49.183Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
     "tags": [
+      "ast parser",
       "console log",
       "debug",
       "debugging",
       "developer tools",
-      "insert log",
+      "error_log",
       "javascript",
       "javascriptreact",
       "keybindings",
+      "laravel",
       "log management",
-      "log manager",
       "log panel",
-      "log snippet",
+      "multi-language",
+      "nodejs",
+      "php",
+      "print_r",
       "productivity",
-      "tool",
       "typescript",
-      "typescriptreact"
+      "typescriptreact",
+      "var_dump",
+      "vue",
+      "wordpress"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.9.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.10.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5543,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025111403",
-    "last_updated": "2025-11-14T23:06:10.643Z",
+    "latest_version": "0.34.2025111702",
+    "last_updated": "2025-11-17T04:37:26.33Z",
     "version_history": [
+      {
+        "version": "0.34.2025111702",
+        "lastUpdated": "2025-11-17T04:37:26.33Z"
+      },
       {
         "version": "0.34.2025111403",
         "lastUpdated": "2025-11-14T23:06:10.643Z"
@@ -5621,10 +5631,6 @@
       {
         "version": "0.33.2025103102",
         "lastUpdated": "2025-10-31T15:12:16.987Z"
-      },
-      {
-        "version": "0.33.2025103101",
-        "lastUpdated": "2025-10-31T04:25:19.13Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5660,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111403/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5946,9 +5952,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025111404",
-    "last_updated": "2025-11-14T04:18:25.313Z",
+    "latest_version": "0.123.2025111704",
+    "last_updated": "2025-11-17T04:19:36.007Z",
     "version_history": [
+      {
+        "version": "0.123.2025111704",
+        "lastUpdated": "2025-11-17T04:19:36.007Z"
+      },
       {
         "version": "0.123.2025111404",
         "lastUpdated": "2025-11-14T04:18:25.313Z"
@@ -6024,15 +6034,11 @@
       {
         "version": "0.121.2025102004",
         "lastUpdated": "2025-10-20T04:20:43.01Z"
-      },
-      {
-        "version": "0.121.2025101604",
-        "lastUpdated": "2025-10-16T04:29:27.713Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -17347,9 +17353,13 @@
     "extension_name": "vscjava.vscode-java-pack",
     "display_name": "Extension Pack for Java",
     "short_description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
-    "latest_version": "0.30.2025111100",
-    "last_updated": "2025-11-12T02:17:22.83Z",
+    "latest_version": "0.30.2025111702",
+    "last_updated": "2025-11-17T03:05:33.43Z",
     "version_history": [
+      {
+        "version": "0.30.2025111702",
+        "lastUpdated": "2025-11-17T03:05:33.43Z"
+      },
       {
         "version": "0.30.2025111100",
         "lastUpdated": "2025-11-12T02:17:22.83Z"
@@ -17365,6 +17375,10 @@
       {
         "version": "0.30.2025092800",
         "lastUpdated": "2025-09-28T02:32:43.853Z"
+      },
+      {
+        "version": "0.30.5",
+        "lastUpdated": "2025-11-17T03:06:13.54Z"
       },
       {
         "version": "0.30.4",
@@ -17421,19 +17435,11 @@
       {
         "version": "0.29.2",
         "lastUpdated": "2025-06-03T06:11:59.43Z"
-      },
-      {
-        "version": "0.29.1",
-        "lastUpdated": "2025-05-26T02:54:49.383Z"
-      },
-      {
-        "version": "0.29.0",
-        "lastUpdated": "2024-08-13T02:32:59.077Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Extension Packs"],
     "tags": ["debugger", "java", "junit", "keybindings", "maven", "spring"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025111100/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-pack/0.30.2025111702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack"
   },
   {
