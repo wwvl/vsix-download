@@ -4244,9 +4244,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.1404",
-    "last_updated": "2025-11-14T09:15:01.63Z",
+    "latest_version": "2025.11.1804",
+    "last_updated": "2025-11-18T09:15:53.04Z",
     "version_history": [
+      {
+        "version": "2025.11.1804",
+        "lastUpdated": "2025-11-18T09:15:53.04Z"
+      },
       {
         "version": "2025.11.1404",
         "lastUpdated": "2025-11-14T09:15:01.63Z"
@@ -4322,15 +4326,11 @@
       {
         "version": "2025.10.3005",
         "lastUpdated": "2025-10-30T09:15:42.723Z"
-      },
-      {
-        "version": "2025.10.2702",
-        "lastUpdated": "2025-10-27T07:04:47.15Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5549,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025111702",
-    "last_updated": "2025-11-17T04:37:26.33Z",
+    "latest_version": "0.34.2025111803",
+    "last_updated": "2025-11-18T07:26:52.767Z",
     "version_history": [
+      {
+        "version": "0.34.2025111803",
+        "lastUpdated": "2025-11-18T07:26:52.767Z"
+      },
       {
         "version": "0.34.2025111702",
         "lastUpdated": "2025-11-17T04:37:26.33Z"
@@ -5627,10 +5631,6 @@
       {
         "version": "0.33.2025110305",
         "lastUpdated": "2025-11-03T04:31:53.56Z"
-      },
-      {
-        "version": "0.33.2025103102",
-        "lastUpdated": "2025-10-31T15:12:16.987Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5666,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111702/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111803/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5952,9 +5952,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025111704",
-    "last_updated": "2025-11-17T04:19:36.007Z",
+    "latest_version": "0.123.2025111804",
+    "last_updated": "2025-11-18T07:22:18.33Z",
     "version_history": [
+      {
+        "version": "0.123.2025111804",
+        "lastUpdated": "2025-11-18T07:22:18.33Z"
+      },
       {
         "version": "0.123.2025111704",
         "lastUpdated": "2025-11-17T04:19:36.007Z"
@@ -6030,15 +6034,11 @@
       {
         "version": "0.121.2025102104",
         "lastUpdated": "2025-10-21T04:22:00.52Z"
-      },
-      {
-        "version": "0.121.2025102004",
-        "lastUpdated": "2025-10-20T04:20:43.01Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -10102,9 +10102,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.19.2025111701",
-    "last_updated": "2025-11-17T10:51:35.853Z",
+    "latest_version": "2025.19.2025111801",
+    "last_updated": "2025-11-18T10:59:57.093Z",
     "version_history": [
+      {
+        "version": "2025.19.2025111801",
+        "lastUpdated": "2025-11-18T10:59:57.093Z"
+      },
       {
         "version": "2025.19.2025111701",
         "lastUpdated": "2025-11-17T10:51:35.853Z"
@@ -10180,10 +10184,6 @@
       {
         "version": "2025.13.2025080801",
         "lastUpdated": "2025-08-08T10:47:19.49Z"
-      },
-      {
-        "version": "2025.12.0",
-        "lastUpdated": "2025-08-07T20:40:12.747Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10206,7 +10206,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025111701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025111801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -15889,9 +15889,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.10.11186059",
-    "last_updated": "2025-11-05T07:47:35.397Z",
+    "latest_version": "3.11.12411249",
+    "last_updated": "2025-11-18T10:00:32.277Z",
     "version_history": [
+      {
+        "version": "3.11.12411249",
+        "lastUpdated": "2025-11-18T10:00:32.277Z"
+      },
       {
         "version": "3.10.11186059",
         "lastUpdated": "2025-11-05T07:47:35.397Z"
@@ -15967,10 +15971,6 @@
       {
         "version": "3.1.14",
         "lastUpdated": "2025-05-12T16:09:12.353Z"
-      },
-      {
-        "version": "3.1.13",
-        "lastUpdated": "2025-05-09T10:08:19.583Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -15999,7 +15999,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.10.11186059/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.11.12411249/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
@@ -17296,6 +17296,10 @@
         "lastUpdated": "2025-09-28T02:34:47.827Z"
       },
       {
+        "version": "0.26.5",
+        "lastUpdated": "2025-11-18T07:45:11.83Z"
+      },
+      {
         "version": "0.26.4",
         "lastUpdated": "2025-11-12T02:39:06.523Z"
       },
@@ -17338,10 +17342,6 @@
       {
         "version": "0.24.0",
         "lastUpdated": "2024-07-24T08:03:50.213Z"
-      },
-      {
-        "version": "0.23.2024070900",
-        "lastUpdated": "2024-07-10T07:36:49.973Z"
       }
     ],
     "categories": ["Other"],
@@ -17539,9 +17539,13 @@
     "extension_name": "vscjava.vscode-maven",
     "display_name": "Maven for Java",
     "short_description": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
-    "latest_version": "0.44.2025110601",
-    "last_updated": "2025-11-06T02:15:08.96Z",
+    "latest_version": "0.44.2025111808",
+    "last_updated": "2025-11-18T11:29:17.657Z",
     "version_history": [
+      {
+        "version": "0.44.2025111808",
+        "lastUpdated": "2025-11-18T11:29:17.657Z"
+      },
       {
         "version": "0.44.2025110601",
         "lastUpdated": "2025-11-06T02:15:08.96Z"
@@ -17617,15 +17621,11 @@
       {
         "version": "0.41.2023041503",
         "lastUpdated": "2023-04-15T03:09:42.227Z"
-      },
-      {
-        "version": "0.41.2023041103",
-        "lastUpdated": "2023-04-11T03:20:00.777Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["Java", "Maven"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2025110601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.44.2025111808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven"
   },
   {
