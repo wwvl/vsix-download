@@ -2929,9 +2929,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.123.20251113",
-    "last_updated": "2025-11-13T12:54:32.12Z",
+    "latest_version": "3.123.20251118",
+    "last_updated": "2025-11-18T16:32:27.99Z",
     "version_history": [
+      {
+        "version": "3.123.20251118",
+        "lastUpdated": "2025-11-18T16:32:27.99Z"
+      },
       {
         "version": "3.123.20251113",
         "lastUpdated": "2025-11-13T12:54:32.12Z"
@@ -3007,15 +3011,11 @@
       {
         "version": "3.119.20250901",
         "lastUpdated": "2025-09-01T10:08:14.957Z"
-      },
-      {
-        "version": "3.118.2",
-        "lastUpdated": "2025-09-19T09:17:08.573Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251113/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251118/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -8773,9 +8773,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.19.2",
-    "last_updated": "2025-10-08T18:54:13.257Z",
+    "latest_version": "1.20.0",
+    "last_updated": "2025-11-18T15:35:24.7Z",
     "version_history": [
+      {
+        "version": "1.20.0",
+        "lastUpdated": "2025-11-18T15:35:24.7Z"
+      },
       {
         "version": "1.19.2",
         "lastUpdated": "2025-10-08T18:54:13.257Z"
@@ -8827,7 +8831,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.19.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.20.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -9544,9 +9548,13 @@
     "extension_name": "ms-mssql.mssql",
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
-    "latest_version": "1.36.0",
-    "last_updated": "2025-09-12T13:07:15.397Z",
+    "latest_version": "1.37.0",
+    "last_updated": "2025-11-18T16:51:44.993Z",
     "version_history": [
+      {
+        "version": "1.37.0",
+        "lastUpdated": "2025-11-18T16:51:44.993Z"
+      },
       {
         "version": "1.36.0",
         "lastUpdated": "2025-09-12T13:07:15.397Z"
@@ -9622,15 +9630,11 @@
       {
         "version": "1.22.1",
         "lastUpdated": "2024-01-10T23:41:52.95Z"
-      },
-      {
-        "version": "1.22.0",
-        "lastUpdated": "2023-11-08T18:35:50.017Z"
       }
     ],
     "categories": ["Programming Languages", "Azure"],
     "tags": ["Azure SQL Database", "chat-participant", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL database in Fabric", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.36.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.37.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
@@ -10860,9 +10864,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.122.2025111415",
-    "last_updated": "2025-11-14T15:24:51.727Z",
+    "latest_version": "0.122.2025111815",
+    "last_updated": "2025-11-18T15:20:41.307Z",
     "version_history": [
+      {
+        "version": "0.122.2025111815",
+        "lastUpdated": "2025-11-18T15:20:41.307Z"
+      },
       {
         "version": "0.122.2025111415",
         "lastUpdated": "2025-11-14T15:24:51.727Z"
@@ -10938,15 +10946,11 @@
       {
         "version": "0.120.0",
         "lastUpdated": "2025-05-08T20:06:59.99Z"
-      },
-      {
-        "version": "0.119.2025033120",
-        "lastUpdated": "2025-03-31T20:51:24.277Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.122.2025111415/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.122.2025111815/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -12223,9 +12227,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.26.0",
-    "last_updated": "2025-11-13T06:41:20.16Z",
+    "latest_version": "0.26.1",
+    "last_updated": "2025-11-18T15:48:01.81Z",
     "version_history": [
+      {
+        "version": "0.26.1",
+        "lastUpdated": "2025-11-18T15:48:01.81Z"
+      },
       {
         "version": "0.26.0",
         "lastUpdated": "2025-11-13T06:41:20.16Z"
@@ -12301,15 +12309,11 @@
       {
         "version": "0.17.2025071705",
         "lastUpdated": "2025-07-17T08:29:32.177Z"
-      },
-      {
-        "version": "0.16.1",
-        "lastUpdated": "2025-07-09T06:19:25.917Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-models", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -13934,6 +13938,10 @@
         "lastUpdated": "2025-10-31T08:28:52.99Z"
       },
       {
+        "version": "1.48.0",
+        "lastUpdated": "2025-11-18T17:29:54.253Z"
+      },
+      {
         "version": "1.47.2025103008",
         "lastUpdated": "2025-10-30T08:26:26.68Z"
       },
@@ -13976,14 +13984,10 @@
       {
         "version": "1.47.2025101108",
         "lastUpdated": "2025-10-11T08:26:14.033Z"
-      },
-      {
-        "version": "1.47.2025101008",
-        "lastUpdated": "2025-10-10T08:27:18.85Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
-    "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
+    "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111408/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
@@ -14211,9 +14215,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.32.1",
-    "last_updated": "2025-11-15T01:15:56.05Z",
+    "latest_version": "3.33.0",
+    "last_updated": "2025-11-18T17:39:57.753Z",
     "version_history": [
+      {
+        "version": "3.33.0",
+        "lastUpdated": "2025-11-18T17:39:57.753Z"
+      },
       {
         "version": "3.32.1",
         "lastUpdated": "2025-11-15T01:15:56.05Z"
@@ -14289,15 +14297,11 @@
       {
         "version": "3.28.16",
         "lastUpdated": "2025-10-10T04:04:57.75Z"
-      },
-      {
-        "version": "3.28.15",
-        "lastUpdated": "2025-10-03T14:41:14.1Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.32.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.33.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -16055,9 +16059,13 @@
     "extension_name": "timonwong.shellcheck",
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
-    "latest_version": "0.38.4",
-    "last_updated": "2025-11-17T13:43:54.283Z",
+    "latest_version": "0.38.5",
+    "last_updated": "2025-11-18T17:45:49.83Z",
     "version_history": [
+      {
+        "version": "0.38.5",
+        "lastUpdated": "2025-11-18T17:45:49.83Z"
+      },
       {
         "version": "0.38.4",
         "lastUpdated": "2025-11-17T13:43:54.283Z"
@@ -16133,15 +16141,11 @@
       {
         "version": "0.32.6",
         "lastUpdated": "2023-06-06T21:14:11.037Z"
-      },
-      {
-        "version": "0.32.5",
-        "lastUpdated": "2023-04-25T02:42:36.747Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["bash", "bats", "dash", "ksh", "lint", "linter", "posix", "sh", "shell", "shellcheck-output", "shellcheckrc", "shellscript", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/timonwong/vsextensions/shellcheck/0.38.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck"
   },
   {
