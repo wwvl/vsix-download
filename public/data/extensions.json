@@ -2929,9 +2929,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.123.20251118",
-    "last_updated": "2025-11-18T16:40:02.94Z",
+    "latest_version": "3.123.20251119",
+    "last_updated": "2025-11-19T15:49:33.15Z",
     "version_history": [
+      {
+        "version": "3.123.20251119",
+        "lastUpdated": "2025-11-19T15:49:33.15Z"
+      },
       {
         "version": "3.123.20251118",
         "lastUpdated": "2025-11-18T16:40:02.94Z"
@@ -3007,15 +3011,11 @@
       {
         "version": "3.119.20250903",
         "lastUpdated": "2025-09-03T12:36:07.073Z"
-      },
-      {
-        "version": "3.119.20250901",
-        "lastUpdated": "2025-09-01T10:08:14.957Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251118/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251119/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -5980,6 +5980,10 @@
         "lastUpdated": "2025-11-12T18:34:40.567Z"
       },
       {
+        "version": "0.122.1",
+        "lastUpdated": "2025-11-19T16:35:08.413Z"
+      },
+      {
         "version": "0.122.0",
         "lastUpdated": "2025-11-12T18:35:30.747Z"
       },
@@ -6030,10 +6034,6 @@
       {
         "version": "0.121.2025102304",
         "lastUpdated": "2025-10-23T04:28:56.78Z"
-      },
-      {
-        "version": "0.121.2025102204",
-        "lastUpdated": "2025-10-22T04:26:37.067Z"
       }
     ],
     "categories": ["AI", "Chat"],
@@ -13437,9 +13437,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "6.19.0",
-    "last_updated": "2025-11-05T13:32:27.49Z",
+    "latest_version": "7.0.0",
+    "last_updated": "2025-11-19T12:48:57.657Z",
     "version_history": [
+      {
+        "version": "7.0.0",
+        "lastUpdated": "2025-11-19T12:48:57.657Z"
+      },
       {
         "version": "6.19.0",
         "lastUpdated": "2025-11-05T13:32:27.49Z"
@@ -13515,15 +13519,11 @@
       {
         "version": "6.8.2",
         "lastUpdated": "2025-05-16T17:01:48.79Z"
-      },
-      {
-        "version": "6.8.1",
-        "lastUpdated": "2025-05-15T20:01:37.477Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/6.19.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/7.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -14308,9 +14308,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2684",
-    "last_updated": "2025-11-18T00:58:20.44Z",
+    "latest_version": "0.4.2687",
+    "last_updated": "2025-11-19T13:34:57.96Z",
     "version_history": [
+      {
+        "version": "0.4.2687",
+        "lastUpdated": "2025-11-19T13:34:57.96Z"
+      },
       {
         "version": "0.4.2684",
         "lastUpdated": "2025-11-18T00:58:20.44Z"
@@ -14386,15 +14390,11 @@
       {
         "version": "0.4.2663",
         "lastUpdated": "2025-10-31T00:56:58.073Z"
-      },
-      {
-        "version": "0.4.2662",
-        "lastUpdated": "2025-10-30T00:55:43.313Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2684/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2687/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -15188,9 +15188,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.25.0",
-    "last_updated": "2025-11-13T17:47:00.58Z",
+    "latest_version": "0.25.1",
+    "last_updated": "2025-11-19T15:39:45.52Z",
     "version_history": [
+      {
+        "version": "0.25.1",
+        "lastUpdated": "2025-11-19T15:39:45.52Z"
+      },
       {
         "version": "0.25.0",
         "lastUpdated": "2025-11-13T17:47:00.58Z"
@@ -15266,15 +15270,11 @@
       {
         "version": "0.13.0",
         "lastUpdated": "2025-06-27T13:24:54.807Z"
-      },
-      {
-        "version": "0.12.1",
-        "lastUpdated": "2025-05-26T13:24:34.287Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.25.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.25.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
