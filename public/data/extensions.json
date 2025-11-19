@@ -1166,9 +1166,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.5.6",
-    "last_updated": "2025-11-11T09:30:10.763Z",
+    "latest_version": "66.5.7",
+    "last_updated": "2025-11-19T06:34:52.563Z",
     "version_history": [
+      {
+        "version": "66.5.7",
+        "lastUpdated": "2025-11-19T06:34:52.563Z"
+      },
       {
         "version": "66.5.6",
         "lastUpdated": "2025-11-11T09:30:10.763Z"
@@ -1244,15 +1248,11 @@
       {
         "version": "66.1.1",
         "lastUpdated": "2025-05-08T10:10:41.67Z"
-      },
-      {
-        "version": "66.1.0",
-        "lastUpdated": "2025-05-04T13:57:29.583Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -1445,12 +1445,20 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.648.0",
-    "last_updated": "2025-11-18T03:43:46.637Z",
+    "latest_version": "0.650.0",
+    "last_updated": "2025-11-19T07:37:37.477Z",
     "version_history": [
+      {
+        "version": "0.650.0",
+        "lastUpdated": "2025-11-19T07:37:37.477Z"
+      },
       {
         "version": "0.648.0",
         "lastUpdated": "2025-11-18T03:43:46.637Z"
+      },
+      {
+        "version": "0.647.1",
+        "lastUpdated": "2025-11-19T07:23:07.95Z"
       },
       {
         "version": "0.647.0",
@@ -1467,6 +1475,10 @@
       {
         "version": "0.633.0",
         "lastUpdated": "2025-11-07T22:52:39.14Z"
+      },
+      {
+        "version": "0.631.4",
+        "lastUpdated": "2025-11-19T07:52:16.123Z"
       },
       {
         "version": "0.631.3",
@@ -1515,18 +1527,6 @@
       {
         "version": "0.616.0",
         "lastUpdated": "2025-10-28T19:08:58.967Z"
-      },
-      {
-        "version": "0.615.0",
-        "lastUpdated": "2025-10-28T18:29:29.69Z"
-      },
-      {
-        "version": "0.613.0",
-        "lastUpdated": "2025-10-28T01:27:39.427Z"
-      },
-      {
-        "version": "0.612.0",
-        "lastUpdated": "2025-10-28T00:50:24.96Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.648.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.650.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5549,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025111803",
-    "last_updated": "2025-11-18T07:26:52.767Z",
+    "latest_version": "0.34.2025111901",
+    "last_updated": "2025-11-19T07:29:27.287Z",
     "version_history": [
+      {
+        "version": "0.34.2025111901",
+        "lastUpdated": "2025-11-19T07:29:27.287Z"
+      },
       {
         "version": "0.34.2025111803",
         "lastUpdated": "2025-11-18T07:26:52.767Z"
@@ -5627,10 +5631,6 @@
       {
         "version": "0.33.2025110401",
         "lastUpdated": "2025-11-04T04:31:52.49Z"
-      },
-      {
-        "version": "0.33.2025110305",
-        "lastUpdated": "2025-11-03T04:31:53.56Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5666,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111803/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025111901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5952,9 +5952,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025111804",
-    "last_updated": "2025-11-18T07:22:18.33Z",
+    "latest_version": "0.123.2025111904",
+    "last_updated": "2025-11-19T07:18:22.92Z",
     "version_history": [
+      {
+        "version": "0.123.2025111904",
+        "lastUpdated": "2025-11-19T07:18:22.92Z"
+      },
       {
         "version": "0.123.2025111804",
         "lastUpdated": "2025-11-18T07:22:18.33Z"
@@ -6030,15 +6034,11 @@
       {
         "version": "0.121.2025102204",
         "lastUpdated": "2025-10-22T04:26:37.067Z"
-      },
-      {
-        "version": "0.121.2025102104",
-        "lastUpdated": "2025-10-21T04:22:00.52Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025111904/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -6336,6 +6336,139 @@
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.58.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
+  },
+  {
+    "extension_name": "GoogleCloudTools.cloudcode",
+    "display_name": "Google Cloud Code",
+    "short_description": "Tools for Google Cloud",
+    "latest_version": "2.37.0",
+    "last_updated": "2025-10-07T00:01:44.11Z",
+    "version_history": [
+      {
+        "version": "2.37.0",
+        "lastUpdated": "2025-10-07T00:01:44.11Z"
+      },
+      {
+        "version": "2.36.0",
+        "lastUpdated": "2025-08-07T21:14:41.87Z"
+      },
+      {
+        "version": "2.32.0",
+        "lastUpdated": "2025-07-23T01:20:16.473Z"
+      },
+      {
+        "version": "2.31.1",
+        "lastUpdated": "2025-05-29T00:17:31.85Z"
+      },
+      {
+        "version": "2.31.0",
+        "lastUpdated": "2025-05-28T01:33:13.573Z"
+      },
+      {
+        "version": "2.30.0",
+        "lastUpdated": "2025-05-15T00:31:47.703Z"
+      },
+      {
+        "version": "2.29.0",
+        "lastUpdated": "2025-04-28T21:29:54.707Z"
+      },
+      {
+        "version": "2.28.0",
+        "lastUpdated": "2025-03-19T20:46:38.84Z"
+      },
+      {
+        "version": "2.27.0",
+        "lastUpdated": "2025-02-20T06:37:36.71Z"
+      },
+      {
+        "version": "2.26.0",
+        "lastUpdated": "2025-02-11T07:15:42.86Z"
+      },
+      {
+        "version": "2.25.0",
+        "lastUpdated": "2025-01-22T21:26:06.13Z"
+      },
+      {
+        "version": "2.24.0",
+        "lastUpdated": "2025-01-09T10:25:45.857Z"
+      },
+      {
+        "version": "2.23.0",
+        "lastUpdated": "2024-12-10T22:50:42.373Z"
+      },
+      {
+        "version": "2.22.0",
+        "lastUpdated": "2024-12-04T23:12:30.797Z"
+      },
+      {
+        "version": "2.21.0",
+        "lastUpdated": "2024-11-15T04:49:22.87Z"
+      },
+      {
+        "version": "2.20.2",
+        "lastUpdated": "2024-11-09T00:53:47.033Z"
+      },
+      {
+        "version": "2.20.1",
+        "lastUpdated": "2024-11-07T23:12:59.42Z"
+      },
+      {
+        "version": "2.20.0",
+        "lastUpdated": "2024-10-30T19:35:16.067Z"
+      },
+      {
+        "version": "2.19.0",
+        "lastUpdated": "2024-10-16T13:28:40.517Z"
+      },
+      {
+        "version": "2.18.2",
+        "lastUpdated": "2024-10-09T15:17:05.117Z"
+      }
+    ],
+    "categories": ["Snippets", "Linters", "Debuggers"],
+    "tags": [
+      "AI Assistant",
+      "Apigee",
+      "Artifact Registry",
+      "BigQuery Datasets",
+      "BigQuery Notebooks",
+      "Cloud Build",
+      "Cloud Functions",
+      "Cloud Run",
+      "Cloud SDK",
+      "Cloud Storage",
+      "Code Completion",
+      "Code Generation",
+      "Compute Engine",
+      "Container Registry",
+      "Containers",
+      "Dataproc",
+      "debuggers",
+      "Docker",
+      "Duet",
+      "Duet AI",
+      "GCE",
+      "GCF",
+      "gcloud",
+      "GCP",
+      "GCS",
+      "Gemini Code Assist",
+      "Google",
+      "Google Cloud",
+      "ignore",
+      "json",
+      "k8s",
+      "knative",
+      "Kubernetes",
+      "LLM",
+      "Log",
+      "Minikube",
+      "Secret Manager",
+      "Skaffold",
+      "snippet"
+    ],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GoogleCloudTools/vsextensions/cloudcode/2.37.0/vspackage",
+    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode"
   },
   {
     "extension_name": "GraphQL.vscode-graphql-syntax",
@@ -8641,11 +8774,11 @@
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
     "latest_version": "1.20.0",
-    "last_updated": "2025-11-18T15:35:24.7Z",
+    "last_updated": "2025-11-18T18:38:25.82Z",
     "version_history": [
       {
         "version": "1.20.0",
-        "lastUpdated": "2025-11-18T15:35:24.7Z"
+        "lastUpdated": "2025-11-18T18:38:25.82Z"
       },
       {
         "version": "1.19.2",
@@ -8798,9 +8931,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.106.2025111209",
-    "last_updated": "2025-11-12T09:29:29.44Z",
+    "latest_version": "1.107.2025111909",
+    "last_updated": "2025-11-19T12:28:00.433Z",
     "version_history": [
+      {
+        "version": "1.107.2025111909",
+        "lastUpdated": "2025-11-19T12:28:00.433Z"
+      },
       {
         "version": "1.106.2025111209",
         "lastUpdated": "2025-11-12T09:29:29.44Z"
@@ -8876,15 +9013,11 @@
       {
         "version": "1.102.2025070209",
         "lastUpdated": "2025-07-02T09:17:26.363Z"
-      },
-      {
-        "version": "1.102.2025062509",
-        "lastUpdated": "2025-06-25T09:17:43.23Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.106.2025111209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.107.2025111909/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -12095,11 +12228,11 @@
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
     "latest_version": "0.26.2",
-    "last_updated": "2025-11-19T05:35:43.117Z",
+    "last_updated": "2025-11-19T08:42:15.333Z",
     "version_history": [
       {
         "version": "0.26.2",
-        "lastUpdated": "2025-11-19T05:35:43.117Z"
+        "lastUpdated": "2025-11-19T08:42:15.333Z"
       },
       {
         "version": "0.26.1",
@@ -13769,9 +13902,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.48.2025111408",
-    "last_updated": "2025-11-14T08:27:38.93Z",
+    "latest_version": "1.48.2025111908",
+    "last_updated": "2025-11-19T11:29:12.403Z",
     "version_history": [
+      {
+        "version": "1.48.2025111908",
+        "lastUpdated": "2025-11-19T11:29:12.403Z"
+      },
       {
         "version": "1.48.2025111408",
         "lastUpdated": "2025-11-14T08:27:38.93Z"
@@ -13847,24 +13984,24 @@
       {
         "version": "1.47.2025101408",
         "lastUpdated": "2025-10-14T08:28:13.903Z"
-      },
-      {
-        "version": "1.47.2025101108",
-        "lastUpdated": "2025-10-11T08:26:14.033Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
-    "tags": ["Gradle Kotlin DSL", "gradle-kotlin-dsl", "java", "Java Properties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111408/vspackage",
+    "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025101508",
-    "last_updated": "2025-10-15T08:15:12.94Z",
+    "latest_version": "1.20.2025111908",
+    "last_updated": "2025-11-19T11:12:27.963Z",
     "version_history": [
+      {
+        "version": "1.20.2025111908",
+        "lastUpdated": "2025-11-19T11:12:27.963Z"
+      },
       {
         "version": "1.20.2025101508",
         "lastUpdated": "2025-10-15T08:15:12.94Z"
@@ -13940,15 +14077,11 @@
       {
         "version": "1.9.1",
         "lastUpdated": "2022-07-13T11:33:06.057Z"
-      },
-      {
-        "version": "1.8.0",
-        "lastUpdated": "2022-06-09T11:02:05.263Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025101508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025111908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -14082,9 +14215,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.33.0",
-    "last_updated": "2025-11-18T17:39:57.753Z",
+    "latest_version": "3.33.1",
+    "last_updated": "2025-11-19T08:11:27.34Z",
     "version_history": [
+      {
+        "version": "3.33.1",
+        "lastUpdated": "2025-11-19T08:11:27.34Z"
+      },
       {
         "version": "3.33.0",
         "lastUpdated": "2025-11-18T17:39:57.753Z"
@@ -14160,15 +14297,11 @@
       {
         "version": "3.28.17",
         "lastUpdated": "2025-10-15T23:15:38.77Z"
-      },
-      {
-        "version": "3.28.16",
-        "lastUpdated": "2025-10-10T04:04:57.75Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.33.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.33.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
@@ -16838,9 +16971,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025111800",
-    "last_updated": "2025-11-18T01:06:58.77Z",
+    "latest_version": "2.0.2025111911",
+    "last_updated": "2025-11-19T12:24:20.09Z",
     "version_history": [
+      {
+        "version": "2.0.2025111911",
+        "lastUpdated": "2025-11-19T12:24:20.09Z"
+      },
       {
         "version": "2.0.2025111800",
         "lastUpdated": "2025-11-18T01:06:58.77Z"
@@ -16916,10 +17053,6 @@
       {
         "version": "2.0.2025101600",
         "lastUpdated": "2025-10-16T01:16:38.97Z"
-      },
-      {
-        "version": "2.0.2025101400",
-        "lastUpdated": "2025-10-14T01:26:32.013Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -16938,7 +17071,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025111800/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025111911/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
