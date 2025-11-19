@@ -2930,11 +2930,11 @@
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
     "latest_version": "3.123.20251118",
-    "last_updated": "2025-11-18T16:32:27.99Z",
+    "last_updated": "2025-11-18T16:40:02.94Z",
     "version_history": [
       {
         "version": "3.123.20251118",
-        "lastUpdated": "2025-11-18T16:32:27.99Z"
+        "lastUpdated": "2025-11-18T16:40:02.94Z"
       },
       {
         "version": "3.123.20251113",
@@ -8774,11 +8774,11 @@
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
     "latest_version": "1.20.0",
-    "last_updated": "2025-11-18T15:35:24.7Z",
+    "last_updated": "2025-11-18T18:38:25.82Z",
     "version_history": [
       {
         "version": "1.20.0",
-        "lastUpdated": "2025-11-18T15:35:24.7Z"
+        "lastUpdated": "2025-11-18T18:38:25.82Z"
       },
       {
         "version": "1.19.2",
@@ -9549,11 +9549,11 @@
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
     "latest_version": "1.37.0",
-    "last_updated": "2025-11-18T16:51:44.993Z",
+    "last_updated": "2025-11-18T19:54:41.19Z",
     "version_history": [
       {
         "version": "1.37.0",
-        "lastUpdated": "2025-11-18T16:51:44.993Z"
+        "lastUpdated": "2025-11-18T19:54:41.19Z"
       },
       {
         "version": "1.36.0",
@@ -12041,9 +12041,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251117",
-    "last_updated": "2025-11-18T03:15:15.29Z",
+    "latest_version": "6.0.20251118",
+    "last_updated": "2025-11-19T00:23:54.813Z",
     "version_history": [
+      {
+        "version": "6.0.20251118",
+        "lastUpdated": "2025-11-19T00:23:54.813Z"
+      },
       {
         "version": "6.0.20251117",
         "lastUpdated": "2025-11-18T03:15:15.29Z"
@@ -12119,15 +12123,11 @@
       {
         "version": "6.0.20251029",
         "lastUpdated": "2025-10-30T00:15:54.33Z"
-      },
-      {
-        "version": "6.0.20251028",
-        "lastUpdated": "2025-10-29T00:18:16.24Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251117/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251118/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13939,7 +13939,7 @@
       },
       {
         "version": "1.48.0",
-        "lastUpdated": "2025-11-18T17:29:54.253Z"
+        "lastUpdated": "2025-11-18T20:40:16.02Z"
       },
       {
         "version": "1.47.2025103008",
@@ -14609,9 +14609,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.37.1",
-    "last_updated": "2025-11-14T02:03:27.843Z",
+    "latest_version": "3.38.1",
+    "last_updated": "2025-11-18T22:49:42.303Z",
     "version_history": [
+      {
+        "version": "3.38.1",
+        "lastUpdated": "2025-11-18T22:49:42.303Z"
+      },
+      {
+        "version": "3.38.0",
+        "lastUpdated": "2025-11-18T20:37:25.577Z"
+      },
       {
         "version": "3.37.1",
         "lastUpdated": "2025-11-14T02:03:27.843Z"
@@ -14683,19 +14691,11 @@
       {
         "version": "3.32.1",
         "lastUpdated": "2025-09-28T07:28:29.77Z"
-      },
-      {
-        "version": "3.32.0",
-        "lastUpdated": "2025-09-26T18:15:03.577Z"
-      },
-      {
-        "version": "3.31.1",
-        "lastUpdated": "2025-09-25T06:42:13.65Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.37.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.38.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16060,11 +16060,11 @@
     "display_name": "ShellCheck",
     "short_description": "Integrates ShellCheck into VS Code, a linter for Shell scripts.",
     "latest_version": "0.38.5",
-    "last_updated": "2025-11-18T17:45:49.83Z",
+    "last_updated": "2025-11-18T20:43:33.243Z",
     "version_history": [
       {
         "version": "0.38.5",
-        "lastUpdated": "2025-11-18T17:45:49.83Z"
+        "lastUpdated": "2025-11-18T20:43:33.243Z"
       },
       {
         "version": "0.38.4",
