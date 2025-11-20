@@ -1457,6 +1457,10 @@
         "lastUpdated": "2025-11-18T03:43:46.637Z"
       },
       {
+        "version": "0.647.2",
+        "lastUpdated": "2025-11-19T22:42:33.233Z"
+      },
+      {
         "version": "0.647.1",
         "lastUpdated": "2025-11-19T07:23:07.95Z"
       },
@@ -1523,10 +1527,6 @@
       {
         "version": "0.618.0",
         "lastUpdated": "2025-10-29T02:05:33.573Z"
-      },
-      {
-        "version": "0.616.0",
-        "lastUpdated": "2025-10-28T19:08:58.967Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -3487,9 +3487,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.62.18106",
-    "last_updated": "2025-11-16T17:04:44.22Z",
+    "latest_version": "1.62.18122",
+    "last_updated": "2025-11-19T20:11:17.913Z",
     "version_history": [
+      {
+        "version": "1.62.18122",
+        "lastUpdated": "2025-11-19T20:11:17.913Z"
+      },
       {
         "version": "1.62.18106",
         "lastUpdated": "2025-11-16T17:04:44.22Z"
@@ -3565,15 +3569,11 @@
       {
         "version": "1.60.17920",
         "lastUpdated": "2025-09-21T18:06:21.387Z"
-      },
-      {
-        "version": "1.60.17917",
-        "lastUpdated": "2025-09-19T20:02:05.333Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18106/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.62.18122/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -4244,9 +4244,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.1804",
-    "last_updated": "2025-11-18T09:15:53.04Z",
+    "latest_version": "2025.11.1911",
+    "last_updated": "2025-11-19T19:37:33.607Z",
     "version_history": [
+      {
+        "version": "2025.11.1911",
+        "lastUpdated": "2025-11-19T19:37:33.607Z"
+      },
       {
         "version": "2025.11.1804",
         "lastUpdated": "2025-11-18T09:15:53.04Z"
@@ -4322,15 +4326,11 @@
       {
         "version": "2025.10.3105",
         "lastUpdated": "2025-10-31T09:15:17.2Z"
-      },
-      {
-        "version": "2025.10.3005",
-        "lastUpdated": "2025-10-30T09:15:42.723Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.1911/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5640,6 +5640,7 @@
       "c#",
       "c++",
       "chat-participant",
+      "chatReplay",
       "codex",
       "co-pilot",
       "debuggers",
@@ -8773,9 +8774,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.20.0",
-    "last_updated": "2025-11-18T18:38:25.82Z",
+    "latest_version": "1.20.1",
+    "last_updated": "2025-11-19T23:12:19.37Z",
     "version_history": [
+      {
+        "version": "1.20.1",
+        "lastUpdated": "2025-11-19T23:12:19.37Z"
+      },
       {
         "version": "1.20.0",
         "lastUpdated": "2025-11-18T18:38:25.82Z"
@@ -8831,7 +8836,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.20.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.20.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -9024,9 +9029,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.81.7",
-    "last_updated": "2025-11-13T03:21:20.74Z",
+    "latest_version": "1.82.3",
+    "last_updated": "2025-11-19T22:49:59.063Z",
     "version_history": [
+      {
+        "version": "1.82.3",
+        "lastUpdated": "2025-11-19T22:49:59.063Z"
+      },
       {
         "version": "1.81.7",
         "lastUpdated": "2025-11-13T03:21:20.74Z"
@@ -9102,24 +9111,24 @@
       {
         "version": "1.30.44",
         "lastUpdated": "2025-07-11T16:33:11.36Z"
-      },
-      {
-        "version": "1.30.35",
-        "lastUpdated": "2025-07-09T18:51:42.333Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.81.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.82.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.101.21",
-    "last_updated": "2025-11-13T01:14:32.79Z",
+    "latest_version": "2.102.30",
+    "last_updated": "2025-11-20T01:08:02.017Z",
     "version_history": [
+      {
+        "version": "2.102.30",
+        "lastUpdated": "2025-11-20T01:08:02.017Z"
+      },
       {
         "version": "2.101.21",
         "lastUpdated": "2025-11-13T01:14:32.79Z"
@@ -9195,10 +9204,6 @@
       {
         "version": "2.84.18",
         "lastUpdated": "2025-06-26T20:53:09.183Z"
-      },
-      {
-        "version": "2.83.5",
-        "lastUpdated": "2025-06-17T13:21:50.397Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9206,7 +9211,7 @@
       ".NET",
       ".NET Core",
       "ASP.NET",
-      "ASP.NET Razor",
+      "ASP.NETRazor",
       "aspnetcorerazor",
       "C#",
       "color-theme",
@@ -9221,7 +9226,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.101.21/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.102.30/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -10217,9 +10222,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.9.103",
-    "last_updated": "2025-11-19T04:27:06.153Z",
+    "latest_version": "2025.9.104",
+    "last_updated": "2025-11-19T23:30:16.877Z",
     "version_history": [
+      {
+        "version": "2025.9.104",
+        "lastUpdated": "2025-11-19T23:30:16.877Z"
+      },
       {
         "version": "2025.9.103",
         "lastUpdated": "2025-11-19T04:27:06.153Z"
@@ -10295,15 +10304,11 @@
       {
         "version": "2025.6.101",
         "lastUpdated": "2025-07-03T00:51:42.333Z"
-      },
-      {
-        "version": "2025.6.100",
-        "lastUpdated": "2025-06-19T21:22:22.953Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.9.103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.9.104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -12041,9 +12046,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251118",
-    "last_updated": "2025-11-19T00:23:54.813Z",
+    "latest_version": "6.0.20251119",
+    "last_updated": "2025-11-20T00:24:40.473Z",
     "version_history": [
+      {
+        "version": "6.0.20251119",
+        "lastUpdated": "2025-11-20T00:24:40.473Z"
+      },
       {
         "version": "6.0.20251118",
         "lastUpdated": "2025-11-19T00:23:54.813Z"
@@ -12119,15 +12128,11 @@
       {
         "version": "6.0.20251030",
         "lastUpdated": "2025-10-31T00:21:36.23Z"
-      },
-      {
-        "version": "6.0.20251029",
-        "lastUpdated": "2025-10-30T00:15:54.33Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251118/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251119/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -13902,9 +13907,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.48.2025111908",
-    "last_updated": "2025-11-19T11:29:12.403Z",
+    "latest_version": "1.49.0",
+    "last_updated": "2025-11-19T18:49:45.65Z",
     "version_history": [
+      {
+        "version": "1.49.0",
+        "lastUpdated": "2025-11-19T18:49:45.65Z"
+      },
       {
         "version": "1.48.2025111908",
         "lastUpdated": "2025-11-19T11:29:12.403Z"
@@ -13980,15 +13989,11 @@
       {
         "version": "1.47.2025101508",
         "lastUpdated": "2025-10-15T08:30:46.013Z"
-      },
-      {
-        "version": "1.47.2025101408",
-        "lastUpdated": "2025-10-14T08:28:13.903Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.48.2025111908/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.49.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -14308,9 +14313,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2687",
-    "last_updated": "2025-11-19T13:34:57.96Z",
+    "latest_version": "0.4.2688",
+    "last_updated": "2025-11-20T00:58:58.98Z",
     "version_history": [
+      {
+        "version": "0.4.2688",
+        "lastUpdated": "2025-11-20T00:58:58.98Z"
+      },
       {
         "version": "0.4.2687",
         "lastUpdated": "2025-11-19T13:34:57.96Z"
@@ -14386,15 +14395,11 @@
       {
         "version": "0.4.2664",
         "lastUpdated": "2025-11-01T00:59:38.973Z"
-      },
-      {
-        "version": "0.4.2663",
-        "lastUpdated": "2025-10-31T00:56:58.073Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2687/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2688/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14516,9 +14521,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "65.4.0",
-    "last_updated": "2025-11-13T16:45:22.393Z",
+    "latest_version": "65.5.0",
+    "last_updated": "2025-11-19T19:37:26.45Z",
     "version_history": [
+      {
+        "version": "65.5.0",
+        "lastUpdated": "2025-11-19T19:37:26.45Z"
+      },
       {
         "version": "65.4.0",
         "lastUpdated": "2025-11-13T16:45:22.393Z"
@@ -14594,15 +14603,11 @@
       {
         "version": "63.16.3",
         "lastUpdated": "2025-06-05T22:00:02.85Z"
-      },
-      {
-        "version": "63.15.1",
-        "lastUpdated": "2025-05-29T18:12:08.383Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -16971,9 +16976,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025111911",
-    "last_updated": "2025-11-19T12:24:20.09Z",
+    "latest_version": "2.0.2025112000",
+    "last_updated": "2025-11-20T01:05:47.297Z",
     "version_history": [
+      {
+        "version": "2.0.2025112000",
+        "lastUpdated": "2025-11-20T01:05:47.297Z"
+      },
       {
         "version": "2.0.2025111911",
         "lastUpdated": "2025-11-19T12:24:20.09Z"
@@ -17012,7 +17021,7 @@
       },
       {
         "version": "2.0.2025103110",
-        "lastUpdated": "2025-10-31T10:55:17.733Z"
+        "lastUpdated": "2025-11-19T19:18:06.453Z"
       },
       {
         "version": "2.0.2025103013",
@@ -17049,10 +17058,6 @@
       {
         "version": "2.0.2025101708",
         "lastUpdated": "2025-10-17T09:22:44.147Z"
-      },
-      {
-        "version": "2.0.2025101600",
-        "lastUpdated": "2025-10-16T01:16:38.97Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17071,7 +17076,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025111911/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025112000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
