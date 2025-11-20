@@ -1166,9 +1166,13 @@
     "extension_name": "antfu.unocss",
     "display_name": "UnoCSS",
     "short_description": "UnoCSS for VS Code",
-    "latest_version": "66.5.7",
-    "last_updated": "2025-11-19T06:34:52.563Z",
+    "latest_version": "66.5.9",
+    "last_updated": "2025-11-20T16:55:40.26Z",
     "version_history": [
+      {
+        "version": "66.5.9",
+        "lastUpdated": "2025-11-20T16:55:40.26Z"
+      },
       {
         "version": "66.5.7",
         "lastUpdated": "2025-11-19T06:34:52.563Z"
@@ -1244,15 +1248,11 @@
       {
         "version": "66.1.2",
         "lastUpdated": "2025-05-15T03:18:02.837Z"
-      },
-      {
-        "version": "66.1.1",
-        "lastUpdated": "2025-05-08T10:10:41.67Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/antfu/vsextensions/unocss/66.5.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=antfu.unocss"
   },
   {
@@ -13126,9 +13126,13 @@
     "extension_name": "PKief.material-icon-theme",
     "display_name": "Material Icon Theme",
     "short_description": "Material Design Icons for Visual Studio Code",
-    "latest_version": "5.28.0",
-    "last_updated": "2025-10-23T16:09:13.543Z",
+    "latest_version": "5.29.0",
+    "last_updated": "2025-11-20T16:41:28.73Z",
     "version_history": [
+      {
+        "version": "5.29.0",
+        "lastUpdated": "2025-11-20T16:41:28.73Z"
+      },
       {
         "version": "5.28.0",
         "lastUpdated": "2025-10-23T16:09:13.543Z"
@@ -13204,15 +13208,11 @@
       {
         "version": "5.13.0",
         "lastUpdated": "2024-11-05T20:50:36.073Z"
-      },
-      {
-        "version": "5.12.0",
-        "lastUpdated": "2024-10-23T10:10:29.143Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["customization", "icons", "icon-theme", "material", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.28.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/PKief/vsextensions/material-icon-theme/5.29.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"
   },
   {
