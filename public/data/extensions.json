@@ -2221,9 +2221,13 @@
     "extension_name": "charliermarsh.ruff",
     "display_name": "Ruff",
     "short_description": "A Visual Studio Code extension with support for the Ruff linter and formatter.",
-    "latest_version": "2025.28.0",
-    "last_updated": "2025-10-07T19:31:01.64Z",
+    "latest_version": "2025.30.0",
+    "last_updated": "2025-11-21T15:30:26.18Z",
     "version_history": [
+      {
+        "version": "2025.30.0",
+        "lastUpdated": "2025-11-21T15:30:26.18Z"
+      },
       {
         "version": "2025.28.0",
         "lastUpdated": "2025-10-07T19:31:01.64Z"
@@ -2299,15 +2303,11 @@
       {
         "version": "2024.50.0",
         "lastUpdated": "2024-09-20T11:51:28.457Z"
-      },
-      {
-        "version": "2024.48.0",
-        "lastUpdated": "2024-09-10T18:56:14.293Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["formatting", "linting", "python", "ruff"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.28.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/charliermarsh/vsextensions/ruff/2025.30.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff"
   },
   {
@@ -5859,9 +5859,13 @@
     "extension_name": "GitHub.vscode-github-actions",
     "display_name": "GitHub Actions",
     "short_description": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code",
-    "latest_version": "0.28.0",
-    "last_updated": "2025-10-02T20:06:31.6Z",
+    "latest_version": "0.28.1",
+    "last_updated": "2025-11-21T14:43:57.667Z",
     "version_history": [
+      {
+        "version": "0.28.1",
+        "lastUpdated": "2025-11-21T14:43:57.667Z"
+      },
       {
         "version": "0.28.0",
         "lastUpdated": "2025-10-02T20:06:31.6Z"
@@ -5937,15 +5941,11 @@
       {
         "version": "0.24.4",
         "lastUpdated": "2022-10-27T03:47:02.18Z"
-      },
-      {
-        "version": "0.24.2",
-        "lastUpdated": "2022-08-01T16:45:05.963Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["GitHub Actions Workflow", "github-actions-workflow"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.28.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.28.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions"
   },
   {
