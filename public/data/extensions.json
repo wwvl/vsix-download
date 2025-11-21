@@ -4244,9 +4244,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.2004",
-    "last_updated": "2025-11-20T09:15:37.23Z",
+    "latest_version": "2025.11.2104",
+    "last_updated": "2025-11-21T09:17:00.163Z",
     "version_history": [
+      {
+        "version": "2025.11.2104",
+        "lastUpdated": "2025-11-21T09:17:00.163Z"
+      },
       {
         "version": "2025.11.2004",
         "lastUpdated": "2025-11-20T09:15:37.23Z"
@@ -4322,15 +4326,11 @@
       {
         "version": "2025.11.204",
         "lastUpdated": "2025-11-02T09:15:12.883Z"
-      },
-      {
-        "version": "2025.11.105",
-        "lastUpdated": "2025-11-01T09:15:09.017Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.2004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.2104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13906,9 +13906,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.50.2025112008",
-    "last_updated": "2025-11-20T08:35:26.347Z",
+    "latest_version": "1.50.2025112110",
+    "last_updated": "2025-11-21T10:29:43.133Z",
     "version_history": [
+      {
+        "version": "1.50.2025112110",
+        "lastUpdated": "2025-11-21T10:29:43.133Z"
+      },
       {
         "version": "1.50.2025112008",
         "lastUpdated": "2025-11-20T08:35:26.347Z"
@@ -13984,15 +13988,11 @@
       {
         "version": "1.47.2025101708",
         "lastUpdated": "2025-10-17T08:28:19.613Z"
-      },
-      {
-        "version": "1.47.2025101608",
-        "lastUpdated": "2025-10-16T08:30:03.163Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.50.2025112008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.50.2025112110/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
