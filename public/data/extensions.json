@@ -12045,9 +12045,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251121",
-    "last_updated": "2025-11-22T00:16:55.99Z",
+    "latest_version": "6.0.20251122",
+    "last_updated": "2025-11-23T00:21:35.71Z",
     "version_history": [
+      {
+        "version": "6.0.20251122",
+        "lastUpdated": "2025-11-23T00:21:35.71Z"
+      },
       {
         "version": "6.0.20251121",
         "lastUpdated": "2025-11-22T00:16:55.99Z"
@@ -12123,15 +12127,11 @@
       {
         "version": "6.0.20251102",
         "lastUpdated": "2025-11-03T00:25:30.013Z"
-      },
-      {
-        "version": "6.0.20251101",
-        "lastUpdated": "2025-11-02T00:12:25.823Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251121/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251122/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14312,9 +14312,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2690",
-    "last_updated": "2025-11-22T00:57:33.68Z",
+    "latest_version": "0.4.2691",
+    "last_updated": "2025-11-23T01:03:48.32Z",
     "version_history": [
+      {
+        "version": "0.4.2691",
+        "lastUpdated": "2025-11-23T01:03:48.32Z"
+      },
       {
         "version": "0.4.2690",
         "lastUpdated": "2025-11-22T00:57:33.68Z"
@@ -14390,15 +14394,11 @@
       {
         "version": "0.4.2668",
         "lastUpdated": "2025-11-04T00:57:01.227Z"
-      },
-      {
-        "version": "0.4.2666",
-        "lastUpdated": "2025-11-03T00:58:43.637Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2690/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2691/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -18263,9 +18263,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.1.4",
-    "last_updated": "2025-11-15T17:58:55.09Z",
+    "latest_version": "3.1.5",
+    "last_updated": "2025-11-22T20:06:16.353Z",
     "version_history": [
+      {
+        "version": "3.1.5",
+        "lastUpdated": "2025-11-22T20:06:16.353Z"
+      },
       {
         "version": "3.1.4",
         "lastUpdated": "2025-11-15T17:58:55.09Z"
@@ -18341,15 +18345,11 @@
       {
         "version": "2.2.2",
         "lastUpdated": "2025-02-15T16:37:18.513Z"
-      },
-      {
-        "version": "2.2.0",
-        "lastUpdated": "2024-12-23T20:12:11.75Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
