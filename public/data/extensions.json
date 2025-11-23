@@ -8165,9 +8165,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.4.14",
-    "last_updated": "2025-11-14T09:22:01.03Z",
+    "latest_version": "1.4.15",
+    "last_updated": "2025-11-23T02:40:38.3Z",
     "version_history": [
+      {
+        "version": "1.4.15",
+        "lastUpdated": "2025-11-23T02:40:38.3Z"
+      },
       {
         "version": "1.4.14",
         "lastUpdated": "2025-11-14T09:22:01.03Z"
@@ -8243,10 +8247,6 @@
       {
         "version": "1.3.3",
         "lastUpdated": "2025-09-29T13:09:12.093Z"
-      },
-      {
-        "version": "1.3.1",
-        "lastUpdated": "2025-09-28T14:31:42.49Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8280,7 +8280,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.14/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.15/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
