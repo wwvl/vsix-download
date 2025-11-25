@@ -4244,9 +4244,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.2404",
-    "last_updated": "2025-11-24T09:17:26.643Z",
+    "latest_version": "2025.11.2504",
+    "last_updated": "2025-11-25T09:17:39.06Z",
     "version_history": [
+      {
+        "version": "2025.11.2504",
+        "lastUpdated": "2025-11-25T09:17:39.06Z"
+      },
       {
         "version": "2025.11.2404",
         "lastUpdated": "2025-11-24T09:17:26.643Z"
@@ -4322,15 +4326,11 @@
       {
         "version": "2025.11.404",
         "lastUpdated": "2025-11-04T09:17:48.913Z"
-      },
-      {
-        "version": "2025.11.304",
-        "lastUpdated": "2025-11-03T09:17:11.653Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.2404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.2504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -12231,9 +12231,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.26.2",
-    "last_updated": "2025-11-19T08:42:15.333Z",
+    "latest_version": "0.26.3",
+    "last_updated": "2025-11-25T11:33:09.87Z",
     "version_history": [
+      {
+        "version": "0.26.3",
+        "lastUpdated": "2025-11-25T11:33:09.87Z"
+      },
       {
         "version": "0.26.2",
         "lastUpdated": "2025-11-19T08:42:15.333Z"
@@ -12309,15 +12313,11 @@
       {
         "version": "0.18.0",
         "lastUpdated": "2025-07-31T09:18:51.093Z"
-      },
-      {
-        "version": "0.17.2025072306",
-        "lastUpdated": "2025-07-23T07:38:53.667Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-models", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -13906,9 +13906,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.50.2025112208",
-    "last_updated": "2025-11-22T08:27:39.513Z",
+    "latest_version": "1.50.2025112508",
+    "last_updated": "2025-11-25T08:28:30.623Z",
     "version_history": [
+      {
+        "version": "1.50.2025112508",
+        "lastUpdated": "2025-11-25T08:28:30.623Z"
+      },
       {
         "version": "1.50.2025112208",
         "lastUpdated": "2025-11-22T08:27:39.513Z"
@@ -13984,15 +13988,11 @@
       {
         "version": "1.47.2025101808",
         "lastUpdated": "2025-10-18T08:27:14.203Z"
-      },
-      {
-        "version": "1.47.2025101715",
-        "lastUpdated": "2025-10-17T15:46:02.567Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.50.2025112208/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.50.2025112508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
@@ -18765,9 +18765,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.493",
-    "last_updated": "2025-11-16T22:12:46.467Z",
+    "latest_version": "1.0.495",
+    "last_updated": "2025-11-25T08:18:31.433Z",
     "version_history": [
+      {
+        "version": "1.0.495",
+        "lastUpdated": "2025-11-25T08:18:31.433Z"
+      },
       {
         "version": "1.0.493",
         "lastUpdated": "2025-11-16T22:12:46.467Z"
@@ -18843,15 +18847,11 @@
       {
         "version": "1.0.471",
         "lastUpdated": "2025-09-15T22:10:35.19Z"
-      },
-      {
-        "version": "1.0.470",
-        "lastUpdated": "2025-09-10T06:37:58.877Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.493/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.495/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
