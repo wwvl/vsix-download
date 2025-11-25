@@ -1453,6 +1453,10 @@
         "lastUpdated": "2025-11-21T22:44:50.757Z"
       },
       {
+        "version": "0.654.1",
+        "lastUpdated": "2025-11-25T00:59:32.337Z"
+      },
+      {
         "version": "0.654.0",
         "lastUpdated": "2025-11-20T18:06:40.523Z"
       },
@@ -1523,10 +1527,6 @@
       {
         "version": "0.621.1",
         "lastUpdated": "2025-11-03T21:49:16.317Z"
-      },
-      {
-        "version": "0.621.0",
-        "lastUpdated": "2025-10-29T20:45:44.85Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -10221,9 +10221,13 @@
     "extension_name": "ms-python.vscode-pylance",
     "display_name": "Pylance",
     "short_description": "A performant, feature-rich language server for Python in VS Code",
-    "latest_version": "2025.9.104",
-    "last_updated": "2025-11-19T23:30:16.877Z",
+    "latest_version": "2025.10.1",
+    "last_updated": "2025-11-24T22:20:06.553Z",
     "version_history": [
+      {
+        "version": "2025.10.1",
+        "lastUpdated": "2025-11-24T22:20:06.553Z"
+      },
       {
         "version": "2025.9.104",
         "lastUpdated": "2025-11-19T23:30:16.877Z"
@@ -10299,15 +10303,11 @@
       {
         "version": "2025.6.102",
         "lastUpdated": "2025-07-10T22:36:09.247Z"
-      },
-      {
-        "version": "2025.6.101",
-        "lastUpdated": "2025-07-03T00:51:42.333Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["json", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.9.104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/vscode-pylance/2025.10.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
   },
   {
@@ -12045,9 +12045,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251123",
-    "last_updated": "2025-11-24T00:19:49.807Z",
+    "latest_version": "6.0.20251124",
+    "last_updated": "2025-11-25T00:22:09.817Z",
     "version_history": [
+      {
+        "version": "6.0.20251124",
+        "lastUpdated": "2025-11-25T00:22:09.817Z"
+      },
       {
         "version": "6.0.20251123",
         "lastUpdated": "2025-11-24T00:19:49.807Z"
@@ -12123,15 +12127,11 @@
       {
         "version": "6.0.20251104",
         "lastUpdated": "2025-11-05T00:20:37.91Z"
-      },
-      {
-        "version": "6.0.20251103",
-        "lastUpdated": "2025-11-04T00:18:10.04Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251123/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251124/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14219,9 +14219,13 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.34.1",
-    "last_updated": "2025-11-23T18:44:13.993Z",
+    "latest_version": "3.34.2",
+    "last_updated": "2025-11-24T22:24:55.81Z",
     "version_history": [
+      {
+        "version": "3.34.2",
+        "lastUpdated": "2025-11-24T22:24:55.81Z"
+      },
       {
         "version": "3.34.1",
         "lastUpdated": "2025-11-23T18:44:13.993Z"
@@ -14297,24 +14301,24 @@
       {
         "version": "3.29.3",
         "lastUpdated": "2025-10-28T17:08:25.927Z"
-      },
-      {
-        "version": "3.29.2",
-        "lastUpdated": "2025-10-27T19:13:55.39Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.34.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.34.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2692",
-    "last_updated": "2025-11-24T01:01:49.187Z",
+    "latest_version": "0.4.2694",
+    "last_updated": "2025-11-25T00:58:37.73Z",
     "version_history": [
+      {
+        "version": "0.4.2694",
+        "lastUpdated": "2025-11-25T00:58:37.73Z"
+      },
       {
         "version": "0.4.2692",
         "lastUpdated": "2025-11-24T01:01:49.187Z"
@@ -14390,15 +14394,11 @@
       {
         "version": "0.4.2670",
         "lastUpdated": "2025-11-06T00:56:47.303Z"
-      },
-      {
-        "version": "0.4.2669",
-        "lastUpdated": "2025-11-05T00:58:20.79Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2692/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2694/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14613,9 +14613,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.38.1",
-    "last_updated": "2025-11-18T22:49:42.303Z",
+    "latest_version": "3.38.2",
+    "last_updated": "2025-11-24T20:47:01.943Z",
     "version_history": [
+      {
+        "version": "3.38.2",
+        "lastUpdated": "2025-11-24T20:47:01.943Z"
+      },
       {
         "version": "3.38.1",
         "lastUpdated": "2025-11-18T22:49:42.303Z"
@@ -14691,15 +14695,11 @@
       {
         "version": "3.32.2",
         "lastUpdated": "2025-09-29T18:10:40.5Z"
-      },
-      {
-        "version": "3.32.1",
-        "lastUpdated": "2025-09-28T07:28:29.77Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.38.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.38.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -16975,9 +16975,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025112200",
-    "last_updated": "2025-11-22T01:10:25.31Z",
+    "latest_version": "2.0.2025112500",
+    "last_updated": "2025-11-25T01:03:22.38Z",
     "version_history": [
+      {
+        "version": "2.0.2025112500",
+        "lastUpdated": "2025-11-25T01:03:22.38Z"
+      },
       {
         "version": "2.0.2025112200",
         "lastUpdated": "2025-11-22T01:10:25.31Z"
@@ -17053,10 +17057,6 @@
       {
         "version": "2.0.2025102100",
         "lastUpdated": "2025-10-21T01:48:59.35Z"
-      },
-      {
-        "version": "2.0.2025101800",
-        "lastUpdated": "2025-10-18T01:42:09.27Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17075,7 +17075,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025112200/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025112500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
