@@ -5347,10 +5347,6 @@
         "lastUpdated": "2025-11-24T14:19:53.827Z"
       },
       {
-        "version": "1.18.1",
-        "lastUpdated": "2025-11-24T12:12:15.99Z"
-      },
-      {
         "version": "1.18.0",
         "lastUpdated": "2025-11-17T11:33:56.087Z"
       },
@@ -5421,6 +5417,10 @@
       {
         "version": "1.16.12",
         "lastUpdated": "2024-03-04T20:19:50.833Z"
+      },
+      {
+        "version": "1.16.11",
+        "lastUpdated": "2024-02-28T20:10:03.04Z"
       }
     ],
     "categories": ["Other"],
@@ -5549,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025112401",
-    "last_updated": "2025-11-24T04:29:26.173Z",
+    "latest_version": "0.34.2025112501",
+    "last_updated": "2025-11-25T04:28:07.803Z",
     "version_history": [
+      {
+        "version": "0.34.2025112501",
+        "lastUpdated": "2025-11-25T04:28:07.803Z"
+      },
       {
         "version": "0.34.2025112401",
         "lastUpdated": "2025-11-24T04:29:26.173Z"
@@ -5627,10 +5631,6 @@
       {
         "version": "0.33.2025110606",
         "lastUpdated": "2025-11-07T00:30:47.053Z"
-      },
-      {
-        "version": "0.33.2025110604",
-        "lastUpdated": "2025-11-06T21:55:59.31Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5666,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025112401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025112501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5952,9 +5952,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025112404",
-    "last_updated": "2025-11-24T04:18:48.2Z",
+    "latest_version": "0.123.2025112504",
+    "last_updated": "2025-11-25T04:26:08.757Z",
     "version_history": [
+      {
+        "version": "0.123.2025112504",
+        "lastUpdated": "2025-11-25T04:26:08.757Z"
+      },
       {
         "version": "0.123.2025112404",
         "lastUpdated": "2025-11-24T04:18:48.2Z"
@@ -6030,15 +6034,11 @@
       {
         "version": "0.121.2025103010",
         "lastUpdated": "2025-10-30T10:20:27.873Z"
-      },
-      {
-        "version": "0.121.2025102418",
-        "lastUpdated": "2025-10-24T19:09:11.2Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025112404/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025112504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -11952,9 +11952,13 @@
     "extension_name": "ms-vscode.vscode-serial-monitor",
     "display_name": "Serial Monitor",
     "short_description": "Send and receive text from serial ports.",
-    "latest_version": "0.13.251110001",
-    "last_updated": "2025-11-10T03:16:14.783Z",
+    "latest_version": "0.13.251125001",
+    "last_updated": "2025-11-25T03:12:39.497Z",
     "version_history": [
+      {
+        "version": "0.13.251125001",
+        "lastUpdated": "2025-11-25T03:12:39.497Z"
+      },
       {
         "version": "0.13.251110001",
         "lastUpdated": "2025-11-10T03:16:14.783Z"
@@ -12030,15 +12034,11 @@
       {
         "version": "0.13.250915001",
         "lastUpdated": "2025-09-15T03:09:29.81Z"
-      },
-      {
-        "version": "0.13.250914001",
-        "lastUpdated": "2025-09-14T03:02:18.227Z"
       }
     ],
     "categories": ["Visualization", "Testing"],
     "tags": ["embedded", "monitor", "port", "serial"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251110001/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-serial-monitor/0.13.251125001/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor"
   },
   {
@@ -17175,9 +17175,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025111107",
-    "last_updated": "2025-11-12T05:31:28.47Z",
+    "latest_version": "0.58.2025111205",
+    "last_updated": "2025-11-25T05:35:14.863Z",
     "version_history": [
+      {
+        "version": "0.58.2025111205",
+        "lastUpdated": "2025-11-25T05:35:14.863Z"
+      },
       {
         "version": "0.58.2025111107",
         "lastUpdated": "2025-11-12T05:31:28.47Z"
@@ -17253,15 +17257,11 @@
       {
         "version": "0.57.2024041008",
         "lastUpdated": "2024-04-10T09:03:32.553Z"
-      },
-      {
-        "version": "0.57.0",
-        "lastUpdated": "2024-03-26T05:04:57.26Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025111107/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025111205/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
