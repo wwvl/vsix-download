@@ -13935,6 +13935,10 @@
         "lastUpdated": "2025-11-20T08:35:26.347Z"
       },
       {
+        "version": "1.50.0",
+        "lastUpdated": "2025-11-26T13:26:36.843Z"
+      },
+      {
         "version": "1.49.0",
         "lastUpdated": "2025-11-19T18:49:45.65Z"
       },
@@ -13989,10 +13993,6 @@
       {
         "version": "1.47.2025102508",
         "lastUpdated": "2025-10-25T08:34:00.847Z"
-      },
-      {
-        "version": "1.47.2025102308",
-        "lastUpdated": "2025-10-23T08:32:40.08Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
