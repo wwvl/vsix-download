@@ -2929,9 +2929,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.123.20251119",
-    "last_updated": "2025-11-19T15:49:33.15Z",
+    "latest_version": "3.123.20251127",
+    "last_updated": "2025-11-27T19:16:11.953Z",
     "version_history": [
+      {
+        "version": "3.123.20251127",
+        "lastUpdated": "2025-11-27T19:16:11.953Z"
+      },
       {
         "version": "3.123.20251119",
         "lastUpdated": "2025-11-19T15:49:33.15Z"
@@ -3007,15 +3011,11 @@
       {
         "version": "3.119.20250909",
         "lastUpdated": "2025-09-09T10:11:29.533Z"
-      },
-      {
-        "version": "3.119.20250903",
-        "lastUpdated": "2025-09-03T12:36:07.073Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251119/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251127/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -12049,9 +12049,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251126",
-    "last_updated": "2025-11-27T00:13:45.163Z",
+    "latest_version": "6.0.20251127",
+    "last_updated": "2025-11-28T00:13:02.21Z",
     "version_history": [
+      {
+        "version": "6.0.20251127",
+        "lastUpdated": "2025-11-28T00:13:02.21Z"
+      },
       {
         "version": "6.0.20251126",
         "lastUpdated": "2025-11-27T00:13:45.163Z"
@@ -12127,15 +12131,11 @@
       {
         "version": "6.0.20251107",
         "lastUpdated": "2025-11-08T00:18:08.227Z"
-      },
-      {
-        "version": "6.0.20251106",
-        "lastUpdated": "2025-11-07T00:21:06.84Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251126/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251127/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14316,9 +14316,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2697",
-    "last_updated": "2025-11-27T00:57:52.873Z",
+    "latest_version": "0.4.2698",
+    "last_updated": "2025-11-28T00:57:05.197Z",
     "version_history": [
+      {
+        "version": "0.4.2698",
+        "lastUpdated": "2025-11-28T00:57:05.197Z"
+      },
       {
         "version": "0.4.2697",
         "lastUpdated": "2025-11-27T00:57:52.873Z"
@@ -14394,15 +14398,11 @@
       {
         "version": "0.4.2674",
         "lastUpdated": "2025-11-10T00:58:12.183Z"
-      },
-      {
-        "version": "0.4.2673",
-        "lastUpdated": "2025-11-09T00:59:16.22Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2697/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2698/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
