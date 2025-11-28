@@ -3487,9 +3487,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.63.18152",
-    "last_updated": "2025-11-27T13:46:32.233Z",
+    "latest_version": "1.63.18155",
+    "last_updated": "2025-11-28T15:40:16.62Z",
     "version_history": [
+      {
+        "version": "1.63.18155",
+        "lastUpdated": "2025-11-28T15:40:16.62Z"
+      },
       {
         "version": "1.63.18152",
         "lastUpdated": "2025-11-27T13:46:32.233Z"
@@ -3565,15 +3569,11 @@
       {
         "version": "1.62.17977",
         "lastUpdated": "2025-10-14T21:09:03.877Z"
-      },
-      {
-        "version": "1.62.17969",
-        "lastUpdated": "2025-10-09T13:23:52.28Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.63.18152/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.63.18155/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -16732,9 +16732,13 @@
     "extension_name": "vitest.explorer",
     "display_name": "Vitest",
     "short_description": "A Vite-native testing framework. It's fast!",
-    "latest_version": "1.32.1",
-    "last_updated": "2025-10-24T19:29:59.06Z",
+    "latest_version": "1.34.0",
+    "last_updated": "2025-11-28T17:52:42.273Z",
     "version_history": [
+      {
+        "version": "1.34.0",
+        "lastUpdated": "2025-11-28T17:52:42.273Z"
+      },
       {
         "version": "1.32.1",
         "lastUpdated": "2025-10-24T19:29:59.06Z"
@@ -16810,15 +16814,11 @@
       {
         "version": "1.22.1",
         "lastUpdated": "2025-06-14T11:30:55.873Z"
-      },
-      {
-        "version": "1.22.0",
-        "lastUpdated": "2025-06-14T09:26:17.153Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["javascript", "test", "typescript", "vitest", "Vitest Snapshot", "vitest-snapshot"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.32.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vitest/vsextensions/explorer/1.34.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vitest.explorer"
   },
   {
@@ -18656,9 +18656,13 @@
     "extension_name": "WakaTime.vscode-wakatime",
     "display_name": "WakaTime",
     "short_description": "Metrics, insights, and time tracking automatically generated from your programming activity.",
-    "latest_version": "25.4.0",
-    "last_updated": "2025-10-24T13:53:41.397Z",
+    "latest_version": "25.5.0",
+    "last_updated": "2025-11-28T16:20:43.193Z",
     "version_history": [
+      {
+        "version": "25.5.0",
+        "lastUpdated": "2025-11-28T16:20:43.193Z"
+      },
       {
         "version": "25.4.0",
         "lastUpdated": "2025-10-24T13:53:41.397Z"
@@ -18734,10 +18738,6 @@
       {
         "version": "25.0.0",
         "lastUpdated": "2024-12-20T08:45:13.613Z"
-      },
-      {
-        "version": "24.9.2",
-        "lastUpdated": "2024-12-05T13:07:18.187Z"
       }
     ],
     "categories": ["Visualization", "Education"],
@@ -18762,7 +18762,7 @@
       "wakatime",
       "worktime"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.4.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WakaTime/vsextensions/vscode-wakatime/25.5.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime"
   },
   {
