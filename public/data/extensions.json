@@ -18769,9 +18769,17 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.496",
-    "last_updated": "2025-11-26T08:23:10.483Z",
+    "latest_version": "1.0.498",
+    "last_updated": "2025-11-29T09:01:51.82Z",
     "version_history": [
+      {
+        "version": "1.0.498",
+        "lastUpdated": "2025-11-29T09:01:51.82Z"
+      },
+      {
+        "version": "1.0.497",
+        "lastUpdated": "2025-11-29T08:39:56.133Z"
+      },
       {
         "version": "1.0.496",
         "lastUpdated": "2025-11-26T08:23:10.483Z"
@@ -18843,19 +18851,11 @@
       {
         "version": "1.0.476",
         "lastUpdated": "2025-09-30T00:39:05.253Z"
-      },
-      {
-        "version": "1.0.475",
-        "lastUpdated": "2025-09-25T05:23:52.397Z"
-      },
-      {
-        "version": "1.0.472",
-        "lastUpdated": "2025-09-17T01:42:37.653Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.496/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.498/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
