@@ -2929,9 +2929,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.123.20251127",
-    "last_updated": "2025-11-27T19:16:11.953Z",
+    "latest_version": "3.125.20251201",
+    "last_updated": "2025-12-01T12:41:36.177Z",
     "version_history": [
+      {
+        "version": "3.125.20251201",
+        "lastUpdated": "2025-12-01T12:41:36.177Z"
+      },
+      {
+        "version": "3.124.0",
+        "lastUpdated": "2025-12-01T12:36:12.263Z"
+      },
       {
         "version": "3.123.20251127",
         "lastUpdated": "2025-11-27T19:16:11.953Z"
@@ -3003,28 +3011,28 @@
       {
         "version": "3.119.20250918",
         "lastUpdated": "2025-09-18T11:18:33.273Z"
-      },
-      {
-        "version": "3.119.20250917",
-        "lastUpdated": "2025-09-17T12:59:03.33Z"
-      },
-      {
-        "version": "3.119.20250909",
-        "lastUpdated": "2025-09-09T10:11:29.533Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.123.20251127/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.123.20251030",
-    "last_updated": "2025-10-30T12:49:05.733Z",
+    "latest_version": "3.125.20251201",
+    "last_updated": "2025-12-01T12:41:42.867Z",
     "version_history": [
+      {
+        "version": "3.125.20251201",
+        "lastUpdated": "2025-12-01T12:41:42.867Z"
+      },
+      {
+        "version": "3.124.0",
+        "lastUpdated": "2025-12-01T12:41:02.553Z"
+      },
       {
         "version": "3.123.20251030",
         "lastUpdated": "2025-10-30T12:49:05.733Z"
@@ -3096,19 +3104,11 @@
       {
         "version": "3.107.20250303",
         "lastUpdated": "2025-03-03T17:29:07.18Z"
-      },
-      {
-        "version": "3.106.0",
-        "lastUpdated": "2025-03-03T17:27:18.11Z"
-      },
-      {
-        "version": "3.105.20250203",
-        "lastUpdated": "2025-02-03T14:59:17.303Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.123.20251030/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.125.20251201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -10114,9 +10114,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.19.2025112401",
-    "last_updated": "2025-11-24T10:52:18.6Z",
+    "latest_version": "2025.19.2025120101",
+    "last_updated": "2025-12-01T10:59:22.833Z",
     "version_history": [
+      {
+        "version": "2025.19.2025120101",
+        "lastUpdated": "2025-12-01T10:59:22.833Z"
+      },
       {
         "version": "2025.19.2025112401",
         "lastUpdated": "2025-11-24T10:52:18.6Z"
@@ -10192,10 +10196,6 @@
       {
         "version": "2025.13.2025081501",
         "lastUpdated": "2025-08-15T10:52:57.99Z"
-      },
-      {
-        "version": "2025.13.2025081401",
-        "lastUpdated": "2025-08-14T10:55:24.163Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10218,7 +10218,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025112401/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.19.2025120101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -16979,9 +16979,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.0.2025112900",
-    "last_updated": "2025-11-29T01:06:06.233Z",
+    "latest_version": "2.0.2025120108",
+    "last_updated": "2025-12-01T08:50:03.89Z",
     "version_history": [
+      {
+        "version": "2.0.2025120108",
+        "lastUpdated": "2025-12-01T08:50:03.89Z"
+      },
       {
         "version": "2.0.2025112900",
         "lastUpdated": "2025-11-29T01:06:06.233Z"
@@ -17057,10 +17061,6 @@
       {
         "version": "2.0.2025102800",
         "lastUpdated": "2025-10-28T01:15:32.733Z"
-      },
-      {
-        "version": "2.0.2025102500",
-        "lastUpdated": "2025-10-25T01:16:12.29Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17079,7 +17079,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025112900/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.0.2025120108/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
