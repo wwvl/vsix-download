@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.20.2",
-    "last_updated": "2025-11-13T13:30:35.777Z",
+    "latest_version": "3.21.0",
+    "last_updated": "2025-12-01T13:08:18.267Z",
     "version_history": [
+      {
+        "version": "3.21.0",
+        "lastUpdated": "2025-12-01T13:08:18.267Z"
+      },
       {
         "version": "3.20.2",
         "lastUpdated": "2025-11-13T13:30:35.777Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.13.0",
         "lastUpdated": "2025-08-15T11:46:33.03Z"
-      },
-      {
-        "version": "3.12.4",
-        "lastUpdated": "2025-07-31T11:44:25.383Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.20.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.21.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -2105,9 +2105,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automated logging for JavaScript, TypeScript, and PHP. Insert, manage, and clean log messages with AST-powered precision.",
-    "latest_version": "3.10.3",
-    "last_updated": "2025-11-26T11:36:49.15Z",
+    "latest_version": "3.11.0",
+    "last_updated": "2025-12-01T14:41:07.04Z",
     "version_history": [
+      {
+        "version": "3.11.0",
+        "lastUpdated": "2025-12-01T14:41:07.04Z"
+      },
       {
         "version": "3.10.3",
         "lastUpdated": "2025-11-26T11:36:49.15Z"
@@ -2183,10 +2187,6 @@
       {
         "version": "3.6.0",
         "lastUpdated": "2025-09-04T23:33:29.837Z"
-      },
-      {
-        "version": "3.5.0",
-        "lastUpdated": "2025-08-19T00:51:04.603Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2214,7 +2214,7 @@
       "vue",
       "wordpress"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.10.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.11.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -2938,7 +2938,7 @@
       },
       {
         "version": "3.124.0",
-        "lastUpdated": "2025-12-01T12:36:12.263Z"
+        "lastUpdated": "2025-12-01T12:43:43.053Z"
       },
       {
         "version": "3.123.20251127",
@@ -4475,9 +4475,13 @@
     "extension_name": "esbenp.prettier-vscode",
     "display_name": "Prettier - Code formatter",
     "short_description": "Code formatter using prettier",
-    "latest_version": "11.0.0",
-    "last_updated": "2024-08-14T15:16:38.6Z",
+    "latest_version": "11.0.1",
+    "last_updated": "2025-12-01T14:44:40.197Z",
     "version_history": [
+      {
+        "version": "11.0.1",
+        "lastUpdated": "2025-12-01T14:44:40.197Z"
+      },
       {
         "version": "11.0.0",
         "lastUpdated": "2024-08-14T15:16:38.6Z"
@@ -4553,10 +4557,6 @@
       {
         "version": "9.5.0",
         "lastUpdated": "2022-03-29T00:25:08.8Z"
-      },
-      {
-        "version": "9.4.0",
-        "lastUpdated": "2022-03-25T14:43:10.11Z"
       }
     ],
     "categories": ["Formatters"],
@@ -4595,7 +4595,7 @@
       "yaml",
       "yml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/esbenp/vsextensions/prettier-vscode/11.0.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/esbenp/vsextensions/prettier-vscode/11.0.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
   },
   {
@@ -5549,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025120101",
-    "last_updated": "2025-12-01T04:34:19.72Z",
+    "latest_version": "0.34.2025120102",
+    "last_updated": "2025-12-01T14:42:48.047Z",
     "version_history": [
+      {
+        "version": "0.34.2025120102",
+        "lastUpdated": "2025-12-01T14:42:48.047Z"
+      },
       {
         "version": "0.34.2025120101",
         "lastUpdated": "2025-12-01T04:34:19.72Z"
@@ -5627,10 +5631,6 @@
       {
         "version": "0.33.2025111102",
         "lastUpdated": "2025-11-11T15:29:33.357Z"
-      },
-      {
-        "version": "0.33.2025111003",
-        "lastUpdated": "2025-11-10T23:11:02.88Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5666,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025120101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025120102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9236,9 +9236,13 @@
     "extension_name": "ms-dotnettools.vscode-dotnet-runtime",
     "display_name": ".NET Install Tool",
     "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
-    "latest_version": "2.3.9",
-    "last_updated": "2025-08-25T16:40:40.2Z",
+    "latest_version": "2.4.1",
+    "last_updated": "2025-12-01T18:16:06.777Z",
     "version_history": [
+      {
+        "version": "2.4.1",
+        "lastUpdated": "2025-12-01T18:16:06.777Z"
+      },
       {
         "version": "2.3.9",
         "lastUpdated": "2025-08-25T16:40:40.2Z"
@@ -9314,15 +9318,11 @@
       {
         "version": "2.1.7",
         "lastUpdated": "2024-09-30T23:29:34.817Z"
-      },
-      {
-        "version": "2.1.6",
-        "lastUpdated": "2024-09-23T23:36:46.13Z"
       }
     ],
     "categories": ["Other"],
     "tags": [".NET", ".NET Core", "dotnet", "Extension Authoring", "runtime"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.3.9/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/vscode-dotnet-runtime/2.4.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
   },
   {
@@ -13037,9 +13037,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vs code extension",
-    "latest_version": "1.30.0",
-    "last_updated": "2025-11-24T11:17:23.197Z",
+    "latest_version": "1.31.0",
+    "last_updated": "2025-12-01T15:20:21.477Z",
     "version_history": [
+      {
+        "version": "1.31.0",
+        "lastUpdated": "2025-12-01T15:20:21.477Z"
+      },
       {
         "version": "1.30.0",
         "lastUpdated": "2025-11-24T11:17:23.197Z"
@@ -13115,15 +13119,11 @@
       {
         "version": "1.11.2",
         "lastUpdated": "2025-08-12T05:00:07.217Z"
-      },
-      {
-        "version": "1.11.1",
-        "lastUpdated": "2025-08-09T10:06:08.71Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.30.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.31.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
