@@ -2929,12 +2929,20 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.125.20251201",
-    "last_updated": "2025-12-01T12:41:36.177Z",
+    "latest_version": "3.125.20251202",
+    "last_updated": "2025-12-02T12:24:35.287Z",
     "version_history": [
+      {
+        "version": "3.125.20251202",
+        "lastUpdated": "2025-12-02T12:24:35.287Z"
+      },
       {
         "version": "3.125.20251201",
         "lastUpdated": "2025-12-01T12:41:36.177Z"
+      },
+      {
+        "version": "3.124.1",
+        "lastUpdated": "2025-12-02T11:55:34.09Z"
       },
       {
         "version": "3.124.0",
@@ -3003,19 +3011,11 @@
       {
         "version": "3.119.20250925",
         "lastUpdated": "2025-09-25T17:35:04.877Z"
-      },
-      {
-        "version": "3.119.20250923",
-        "lastUpdated": "2025-09-23T14:41:47.627Z"
-      },
-      {
-        "version": "3.119.20250918",
-        "lastUpdated": "2025-09-18T11:18:33.273Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251202/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -9928,9 +9928,13 @@
     "extension_name": "ms-python.mypy-type-checker",
     "display_name": "Mypy Type Checker",
     "short_description": "Type checking support for Python files using Mypy.",
-    "latest_version": "2025.3.12581007",
-    "last_updated": "2025-09-15T10:17:38.143Z",
+    "latest_version": "2025.3.13361010",
+    "last_updated": "2025-12-02T10:19:55.84Z",
     "version_history": [
+      {
+        "version": "2025.3.13361010",
+        "lastUpdated": "2025-12-02T10:19:55.84Z"
+      },
       {
         "version": "2025.3.12581007",
         "lastUpdated": "2025-09-15T10:17:38.143Z"
@@ -10006,15 +10010,11 @@
       {
         "version": "2024.0.0",
         "lastUpdated": "2024-09-05T21:54:14.83Z"
-      },
-      {
-        "version": "2023.9.12421015",
-        "lastUpdated": "2024-08-29T10:23:14.85Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["mypy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.12581007/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.13361010/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker"
   },
   {
@@ -13910,9 +13910,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2025113008",
-    "last_updated": "2025-11-30T08:28:56.837Z",
+    "latest_version": "1.51.2025120208",
+    "last_updated": "2025-12-02T08:26:37.553Z",
     "version_history": [
+      {
+        "version": "1.51.2025120208",
+        "lastUpdated": "2025-12-02T08:26:37.553Z"
+      },
       {
         "version": "1.51.2025113008",
         "lastUpdated": "2025-11-30T08:28:56.837Z"
@@ -13988,24 +13992,24 @@
       {
         "version": "1.48.2025103108",
         "lastUpdated": "2025-10-31T08:28:52.99Z"
-      },
-      {
-        "version": "1.48.0",
-        "lastUpdated": "2025-11-18T20:40:16.02Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025113008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025120208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025112808",
-    "last_updated": "2025-11-28T08:14:26.193Z",
+    "latest_version": "1.20.2025120208",
+    "last_updated": "2025-12-02T08:15:03.563Z",
     "version_history": [
+      {
+        "version": "1.20.2025120208",
+        "lastUpdated": "2025-12-02T08:15:03.563Z"
+      },
       {
         "version": "1.20.2025112808",
         "lastUpdated": "2025-11-28T08:14:26.193Z"
@@ -14081,15 +14085,11 @@
       {
         "version": "1.11.0",
         "lastUpdated": "2023-01-09T08:21:44.34Z"
-      },
-      {
-        "version": "1.10.1",
-        "lastUpdated": "2022-08-29T13:38:40.917Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
-    "tags": ["autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025112808/vspackage",
+    "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025120208/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -15431,9 +15431,13 @@
     "extension_name": "sumneko.lua",
     "display_name": "Lua",
     "short_description": "Lua Language Server coded by Lua",
-    "latest_version": "3.15.0",
-    "last_updated": "2025-06-25T10:22:41.283Z",
+    "latest_version": "3.16.0",
+    "last_updated": "2025-12-02T07:10:32.937Z",
     "version_history": [
+      {
+        "version": "3.16.0",
+        "lastUpdated": "2025-12-02T07:10:32.937Z"
+      },
       {
         "version": "3.15.0",
         "lastUpdated": "2025-06-25T10:22:41.283Z"
@@ -15509,15 +15513,11 @@
       {
         "version": "3.10.3",
         "lastUpdated": "2024-08-08T10:25:48.43Z"
-      },
-      {
-        "version": "3.10.2",
-        "lastUpdated": "2024-08-07T05:37:45.76Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters"],
     "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.15.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.16.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
   },
   {
