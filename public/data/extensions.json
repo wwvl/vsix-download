@@ -4244,9 +4244,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.11.3004",
-    "last_updated": "2025-11-30T09:15:06.03Z",
+    "latest_version": "2025.12.304",
+    "last_updated": "2025-12-03T09:18:11Z",
     "version_history": [
+      {
+        "version": "2025.12.304",
+        "lastUpdated": "2025-12-03T09:18:11Z"
+      },
       {
         "version": "2025.11.3004",
         "lastUpdated": "2025-11-30T09:15:06.03Z"
@@ -4322,15 +4326,11 @@
       {
         "version": "2025.11.804",
         "lastUpdated": "2025-11-08T09:15:05.917Z"
-      },
-      {
-        "version": "2025.11.704",
-        "lastUpdated": "2025-11-07T09:15:28.05Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.11.3004/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8939,9 +8939,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.107.2025112609",
-    "last_updated": "2025-11-26T09:22:20.9Z",
+    "latest_version": "1.107.2025120309",
+    "last_updated": "2025-12-03T09:16:10.823Z",
     "version_history": [
+      {
+        "version": "1.107.2025120309",
+        "lastUpdated": "2025-12-03T09:16:10.823Z"
+      },
       {
         "version": "1.107.2025112609",
         "lastUpdated": "2025-11-26T09:22:20.9Z"
@@ -9017,15 +9021,11 @@
       {
         "version": "1.102.2025071609",
         "lastUpdated": "2025-07-16T09:21:04.903Z"
-      },
-      {
-        "version": "1.102.2025070909",
-        "lastUpdated": "2025-07-09T09:17:39.637Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.107.2025112609/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.107.2025120309/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9835,9 +9835,13 @@
     "extension_name": "ms-python.flake8",
     "display_name": "Flake8",
     "short_description": "Linting support for Python files using Flake8.",
-    "latest_version": "2025.3.12271016",
-    "last_updated": "2025-08-15T10:28:34.5Z",
+    "latest_version": "2025.3.13371015",
+    "last_updated": "2025-12-03T10:29:07.51Z",
     "version_history": [
+      {
+        "version": "2025.3.13371015",
+        "lastUpdated": "2025-12-03T10:29:07.51Z"
+      },
       {
         "version": "2025.3.12271016",
         "lastUpdated": "2025-08-15T10:28:34.5Z"
@@ -9913,24 +9917,24 @@
       {
         "version": "2023.13.10591841",
         "lastUpdated": "2024-02-28T18:51:28.557Z"
-      },
-      {
-        "version": "2023.13.10582022",
-        "lastUpdated": "2024-02-27T20:31:57.78Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["flake8", "ini", "linters", "linting", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.12271016/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/flake8/2025.3.13371015/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.flake8"
   },
   {
     "extension_name": "ms-python.mypy-type-checker",
     "display_name": "Mypy Type Checker",
     "short_description": "Type checking support for Python files using Mypy.",
-    "latest_version": "2025.3.13361010",
-    "last_updated": "2025-12-02T10:19:55.84Z",
+    "latest_version": "2025.3.13371016",
+    "last_updated": "2025-12-03T10:28:24.07Z",
     "version_history": [
+      {
+        "version": "2025.3.13371016",
+        "lastUpdated": "2025-12-03T10:28:24.07Z"
+      },
       {
         "version": "2025.3.13361010",
         "lastUpdated": "2025-12-02T10:19:55.84Z"
@@ -10006,15 +10010,11 @@
       {
         "version": "2024.1.12601012",
         "lastUpdated": "2024-09-16T10:21:25.323Z"
-      },
-      {
-        "version": "2024.0.0",
-        "lastUpdated": "2024-09-05T21:54:14.83Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["mypy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.13361010/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/mypy-type-checker/2025.3.13371016/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker"
   },
   {
