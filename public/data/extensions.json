@@ -5549,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025120202",
-    "last_updated": "2025-12-02T04:30:33.61Z",
+    "latest_version": "0.34.2025120301",
+    "last_updated": "2025-12-03T04:27:01.607Z",
     "version_history": [
+      {
+        "version": "0.34.2025120301",
+        "lastUpdated": "2025-12-03T04:27:01.607Z"
+      },
       {
         "version": "0.34.2025120202",
         "lastUpdated": "2025-12-02T04:30:33.61Z"
@@ -5627,10 +5631,6 @@
       {
         "version": "0.34.2025111202",
         "lastUpdated": "2025-11-12T18:21:08.297Z"
-      },
-      {
-        "version": "0.33.2025111103",
-        "lastUpdated": "2025-11-11T19:44:56.873Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5666,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025120202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025120301/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5952,9 +5952,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025120204",
-    "last_updated": "2025-12-02T04:29:01.087Z",
+    "latest_version": "0.123.2025120304",
+    "last_updated": "2025-12-03T04:23:08.703Z",
     "version_history": [
+      {
+        "version": "0.123.2025120304",
+        "lastUpdated": "2025-12-03T04:23:08.703Z"
+      },
       {
         "version": "0.123.2025120204",
         "lastUpdated": "2025-12-02T04:29:01.087Z"
@@ -6030,15 +6034,11 @@
       {
         "version": "0.121.2025110604",
         "lastUpdated": "2025-11-06T04:20:46.227Z"
-      },
-      {
-        "version": "0.121.2025110514",
-        "lastUpdated": "2025-11-05T15:00:50.263Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025120204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025120304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -18769,9 +18769,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.499",
-    "last_updated": "2025-12-01T22:13:19.243Z",
+    "latest_version": "1.0.500",
+    "last_updated": "2025-12-03T02:55:42.567Z",
     "version_history": [
+      {
+        "version": "1.0.500",
+        "lastUpdated": "2025-12-03T02:55:42.567Z"
+      },
       {
         "version": "1.0.499",
         "lastUpdated": "2025-12-01T22:13:19.243Z"
@@ -18847,15 +18851,11 @@
       {
         "version": "1.0.479",
         "lastUpdated": "2025-09-30T22:49:24.83Z"
-      },
-      {
-        "version": "1.0.478",
-        "lastUpdated": "2025-09-30T03:58:48.797Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.499/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
