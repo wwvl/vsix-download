@@ -5549,9 +5549,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.34.2025120301",
-    "last_updated": "2025-12-03T04:27:01.607Z",
+    "latest_version": "0.34.2025120302",
+    "last_updated": "2025-12-03T20:35:03.13Z",
     "version_history": [
+      {
+        "version": "0.34.2025120302",
+        "lastUpdated": "2025-12-03T20:35:03.13Z"
+      },
       {
         "version": "0.34.2025120301",
         "lastUpdated": "2025-12-03T04:27:01.607Z"
@@ -5627,10 +5631,6 @@
       {
         "version": "0.34.2025111301",
         "lastUpdated": "2025-11-13T04:36:28.563Z"
-      },
-      {
-        "version": "0.34.2025111202",
-        "lastUpdated": "2025-11-12T18:21:08.297Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5666,7 +5666,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025120301/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.34.2025120302/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9032,9 +9032,13 @@
     "extension_name": "ms-dotnettools.csdevkit",
     "display_name": "C# Dev Kit",
     "short_description": "Official C# extension from Microsoft",
-    "latest_version": "1.82.3",
-    "last_updated": "2025-11-19T22:49:59.063Z",
+    "latest_version": "1.83.5",
+    "last_updated": "2025-12-04T00:16:00.797Z",
     "version_history": [
+      {
+        "version": "1.83.5",
+        "lastUpdated": "2025-12-04T00:16:00.797Z"
+      },
       {
         "version": "1.82.3",
         "lastUpdated": "2025-11-19T22:49:59.063Z"
@@ -9110,24 +9114,24 @@
       {
         "version": "1.40.25",
         "lastUpdated": "2025-07-16T22:37:39.553Z"
-      },
-      {
-        "version": "1.30.44",
-        "lastUpdated": "2025-07-11T16:33:11.36Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Testing"],
     "tags": ["asp.net", "c#", "csharp", "devkit", "dotnet", "json", "keybindings"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.82.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/1.83.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit"
   },
   {
     "extension_name": "ms-dotnettools.csharp",
     "display_name": "C#",
     "short_description": "Base language support for C#",
-    "latest_version": "2.102.30",
-    "last_updated": "2025-11-20T01:08:02.017Z",
+    "latest_version": "2.103.33",
+    "last_updated": "2025-12-03T22:46:51.257Z",
     "version_history": [
+      {
+        "version": "2.103.33",
+        "lastUpdated": "2025-12-03T22:46:51.257Z"
+      },
       {
         "version": "2.102.30",
         "lastUpdated": "2025-11-20T01:08:02.017Z"
@@ -9203,10 +9207,6 @@
       {
         "version": "2.84.19",
         "lastUpdated": "2025-07-02T01:04:51.117Z"
-      },
-      {
-        "version": "2.84.18",
-        "lastUpdated": "2025-06-26T20:53:09.183Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers"],
@@ -9229,7 +9229,7 @@
       "theme",
       "xaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.102.30/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csharp/2.103.33/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp"
   },
   {
@@ -11305,9 +11305,13 @@
     "extension_name": "ms-vscode.cpptools",
     "display_name": "C/C++",
     "short_description": "C/C++ IntelliSense, debugging, and code browsing.",
-    "latest_version": "1.29.1",
-    "last_updated": "2025-11-24T16:12:18.4Z",
+    "latest_version": "1.29.2",
+    "last_updated": "2025-12-03T22:48:53.133Z",
     "version_history": [
+      {
+        "version": "1.29.2",
+        "lastUpdated": "2025-12-03T22:48:53.133Z"
+      },
       {
         "version": "1.29.1",
         "lastUpdated": "2025-11-24T16:12:18.4Z"
@@ -11383,15 +11387,11 @@
       {
         "version": "1.26.1",
         "lastUpdated": "2025-05-23T16:30:41.657Z"
-      },
-      {
-        "version": "1.26.0",
-        "lastUpdated": "2025-05-22T02:12:31.473Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["C", "C++", "cpp", "cuda-cpp", "debuggers", "IntelliSense", "json", "keybindings", "Microsoft", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.29.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/cpptools/1.29.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
   },
   {
@@ -12049,9 +12049,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251202",
-    "last_updated": "2025-12-03T00:15:02.007Z",
+    "latest_version": "6.0.20251203",
+    "last_updated": "2025-12-04T00:15:23.74Z",
     "version_history": [
+      {
+        "version": "6.0.20251203",
+        "lastUpdated": "2025-12-04T00:15:23.74Z"
+      },
       {
         "version": "6.0.20251202",
         "lastUpdated": "2025-12-03T00:15:02.007Z"
@@ -12127,15 +12131,11 @@
       {
         "version": "6.0.20251114",
         "lastUpdated": "2025-11-15T00:24:01.687Z"
-      },
-      {
-        "version": "6.0.20251112",
-        "lastUpdated": "2025-11-13T00:16:36.79Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14316,9 +14316,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2704",
-    "last_updated": "2025-12-03T00:58:44.51Z",
+    "latest_version": "0.4.2705",
+    "last_updated": "2025-12-04T01:01:38.78Z",
     "version_history": [
+      {
+        "version": "0.4.2705",
+        "lastUpdated": "2025-12-04T01:01:38.78Z"
+      },
       {
         "version": "0.4.2704",
         "lastUpdated": "2025-12-03T00:58:44.51Z"
@@ -14394,15 +14398,11 @@
       {
         "version": "0.4.2681",
         "lastUpdated": "2025-11-16T00:57:36.82Z"
-      },
-      {
-        "version": "0.4.2680",
-        "lastUpdated": "2025-11-15T00:56:36.783Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2705/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
