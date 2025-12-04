@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.21.0",
-    "last_updated": "2025-12-01T13:08:18.267Z",
+    "latest_version": "3.21.1",
+    "last_updated": "2025-12-04T02:16:23.07Z",
     "version_history": [
+      {
+        "version": "3.21.1",
+        "lastUpdated": "2025-12-04T02:16:23.07Z"
+      },
       {
         "version": "3.21.0",
         "lastUpdated": "2025-12-01T13:08:18.267Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.13.1",
         "lastUpdated": "2025-08-16T13:19:42.46Z"
-      },
-      {
-        "version": "3.13.0",
-        "lastUpdated": "2025-08-15T11:46:33.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1705,7 +1705,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.21.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.21.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5952,9 +5952,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.123.2025120304",
-    "last_updated": "2025-12-03T04:23:08.703Z",
+    "latest_version": "0.123.2025120404",
+    "last_updated": "2025-12-04T04:19:03.997Z",
     "version_history": [
+      {
+        "version": "0.123.2025120404",
+        "lastUpdated": "2025-12-04T04:19:03.997Z"
+      },
       {
         "version": "0.123.2025120304",
         "lastUpdated": "2025-12-03T04:23:08.703Z"
@@ -6030,15 +6034,11 @@
       {
         "version": "0.121.2025110613",
         "lastUpdated": "2025-11-06T13:17:42.317Z"
-      },
-      {
-        "version": "0.121.2025110604",
-        "lastUpdated": "2025-11-06T04:20:46.227Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025120304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.123.2025120404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -14524,9 +14524,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "65.6.0",
-    "last_updated": "2025-11-26T02:17:01.083Z",
+    "latest_version": "65.7.0",
+    "last_updated": "2025-12-04T01:50:52.243Z",
     "version_history": [
+      {
+        "version": "65.7.0",
+        "lastUpdated": "2025-12-04T01:50:52.243Z"
+      },
       {
         "version": "65.6.0",
         "lastUpdated": "2025-11-26T02:17:01.083Z"
@@ -14602,24 +14606,24 @@
       {
         "version": "64.1.0",
         "lastUpdated": "2025-06-18T21:56:14.75Z"
-      },
-      {
-        "version": "64.0.3",
-        "lastUpdated": "2025-06-13T21:04:26.653Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.6.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.7.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.39.2",
-    "last_updated": "2025-12-02T19:05:41.863Z",
+    "latest_version": "3.40.0",
+    "last_updated": "2025-12-04T05:12:31.02Z",
     "version_history": [
+      {
+        "version": "3.40.0",
+        "lastUpdated": "2025-12-04T05:12:31.02Z"
+      },
       {
         "version": "3.39.2",
         "lastUpdated": "2025-12-02T19:05:41.863Z"
@@ -14695,15 +14699,11 @@
       {
         "version": "3.32.7",
         "lastUpdated": "2025-10-08T23:34:29.81Z"
-      },
-      {
-        "version": "3.32.6",
-        "lastUpdated": "2025-10-01T23:46:29.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.39.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.40.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
@@ -15901,9 +15901,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "3.12.12929358",
-    "last_updated": "2025-11-26T08:00:36.667Z",
+    "latest_version": "4.0.14035588",
+    "last_updated": "2025-12-04T02:56:47.053Z",
     "version_history": [
+      {
+        "version": "4.0.14035588",
+        "lastUpdated": "2025-12-04T02:56:47.053Z"
+      },
       {
         "version": "3.12.12929358",
         "lastUpdated": "2025-11-26T08:00:36.667Z"
@@ -15979,10 +15983,6 @@
       {
         "version": "3.1.16",
         "lastUpdated": "2025-05-14T10:27:56Z"
-      },
-      {
-        "version": "3.1.15",
-        "lastUpdated": "2025-05-13T15:06:37.053Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -16011,7 +16011,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/3.12.12929358/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/4.0.14035588/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
