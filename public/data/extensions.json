@@ -5557,6 +5557,10 @@
         "lastUpdated": "2025-12-05T04:37:45Z"
       },
       {
+        "version": "0.34.2025120502",
+        "lastUpdated": "2025-12-05T11:36:52.77Z"
+      },
+      {
         "version": "0.34.2025120406",
         "lastUpdated": "2025-12-04T23:58:53.38Z"
       },
@@ -5627,10 +5631,6 @@
       {
         "version": "0.34.2025111803",
         "lastUpdated": "2025-11-18T07:26:52.767Z"
-      },
-      {
-        "version": "0.34.2025111702",
-        "lastUpdated": "2025-11-17T04:37:26.33Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -10779,9 +10779,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.433.0",
-    "last_updated": "2025-11-13T21:40:02.04Z",
+    "latest_version": "0.435.0",
+    "last_updated": "2025-12-05T08:14:59.687Z",
     "version_history": [
+      {
+        "version": "0.435.0",
+        "lastUpdated": "2025-12-05T08:14:59.687Z"
+      },
       {
         "version": "0.433.0",
         "lastUpdated": "2025-11-13T21:40:02.04Z"
@@ -10857,15 +10861,11 @@
       {
         "version": "0.417.0",
         "lastUpdated": "2025-06-12T17:29:55.633Z"
-      },
-      {
-        "version": "0.416.0",
-        "lastUpdated": "2025-06-05T15:19:14.247Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.433.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.435.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -13910,9 +13910,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2025120408",
-    "last_updated": "2025-12-04T08:31:29.057Z",
+    "latest_version": "1.51.2025120508",
+    "last_updated": "2025-12-05T08:26:26.327Z",
     "version_history": [
+      {
+        "version": "1.51.2025120508",
+        "lastUpdated": "2025-12-05T08:26:26.327Z"
+      },
       {
         "version": "1.51.2025120408",
         "lastUpdated": "2025-12-04T08:31:29.057Z"
@@ -13988,15 +13992,11 @@
       {
         "version": "1.48.2025110708",
         "lastUpdated": "2025-11-07T08:26:38.923Z"
-      },
-      {
-        "version": "1.48.2025110408",
-        "lastUpdated": "2025-11-04T08:27:53.69Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025120408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025120508/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
