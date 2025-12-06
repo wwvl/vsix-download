@@ -4244,9 +4244,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.510",
-    "last_updated": "2025-12-05T15:14:14.61Z",
+    "latest_version": "2025.12.604",
+    "last_updated": "2025-12-06T09:16:36.99Z",
     "version_history": [
+      {
+        "version": "2025.12.604",
+        "lastUpdated": "2025-12-06T09:16:36.99Z"
+      },
       {
         "version": "2025.12.510",
         "lastUpdated": "2025-12-05T15:14:14.61Z"
@@ -4322,15 +4326,11 @@
       {
         "version": "2025.11.1016",
         "lastUpdated": "2025-11-10T21:57:56.117Z"
-      },
-      {
-        "version": "2025.11.1014",
-        "lastUpdated": "2025-11-10T20:02:51.27Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.510/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
