@@ -14316,9 +14316,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2708",
-    "last_updated": "2025-12-07T01:02:14.057Z",
+    "latest_version": "0.4.2709",
+    "last_updated": "2025-12-07T14:55:57.22Z",
     "version_history": [
+      {
+        "version": "0.4.2709",
+        "lastUpdated": "2025-12-07T14:55:57.22Z"
+      },
       {
         "version": "0.4.2708",
         "lastUpdated": "2025-12-07T01:02:14.057Z"
@@ -14394,15 +14398,11 @@
       {
         "version": "0.4.2688",
         "lastUpdated": "2025-11-20T00:58:58.98Z"
-      },
-      {
-        "version": "0.4.2687",
-        "lastUpdated": "2025-11-19T13:34:57.96Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -18267,9 +18267,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.1.6",
-    "last_updated": "2025-12-05T23:16:21.427Z",
+    "latest_version": "3.1.7",
+    "last_updated": "2025-12-07T18:06:00.3Z",
     "version_history": [
+      {
+        "version": "3.1.7",
+        "lastUpdated": "2025-12-07T18:06:00.3Z"
+      },
       {
         "version": "3.1.6",
         "lastUpdated": "2025-12-05T23:16:21.427Z"
@@ -18345,15 +18349,11 @@
       {
         "version": "2.2.6",
         "lastUpdated": "2025-03-01T10:01:02.04Z"
-      },
-      {
-        "version": "2.2.4",
-        "lastUpdated": "2025-02-23T09:07:46.057Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.6/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.7/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
