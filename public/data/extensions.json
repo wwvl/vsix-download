@@ -3216,6 +3216,10 @@
         "lastUpdated": "2025-11-13T19:50:57.077Z"
       },
       {
+        "version": "3.0.20",
+        "lastUpdated": "2025-12-08T08:30:19.183Z"
+      },
+      {
         "version": "3.0.19",
         "lastUpdated": "2025-09-01T11:11:10.57Z"
       },
@@ -3286,10 +3290,6 @@
       {
         "version": "2.3.0",
         "lastUpdated": "2022-12-05T09:01:31.697Z"
-      },
-      {
-        "version": "2.2.6",
-        "lastUpdated": "2022-07-05T10:01:53.773Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
@@ -3301,9 +3301,13 @@
     "extension_name": "denoland.vscode-deno",
     "display_name": "Deno",
     "short_description": "A language server client for Deno.",
-    "latest_version": "3.46.1",
-    "last_updated": "2025-10-21T18:09:58.167Z",
+    "latest_version": "3.47.0",
+    "last_updated": "2025-12-08T10:53:16.173Z",
     "version_history": [
+      {
+        "version": "3.47.0",
+        "lastUpdated": "2025-12-08T10:53:16.173Z"
+      },
       {
         "version": "3.46.1",
         "lastUpdated": "2025-10-21T18:09:58.167Z"
@@ -3379,15 +3383,11 @@
       {
         "version": "3.40.0",
         "lastUpdated": "2024-09-10T12:13:11.73Z"
-      },
-      {
-        "version": "3.39.0",
-        "lastUpdated": "2024-09-02T16:15:35.81Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Debuggers", "Formatters"],
     "tags": ["debuggers", "deno", "javascript", "javascriptreact", "json", "jsonc", "markdown", "typescript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.46.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/denoland/vsextensions/vscode-deno/3.47.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno"
   },
   {
@@ -12235,9 +12235,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.26.3",
-    "last_updated": "2025-11-25T11:33:09.87Z",
+    "latest_version": "0.26.4",
+    "last_updated": "2025-12-08T10:20:20.73Z",
     "version_history": [
+      {
+        "version": "0.26.4",
+        "lastUpdated": "2025-12-08T10:20:20.73Z"
+      },
       {
         "version": "0.26.3",
         "lastUpdated": "2025-11-25T11:33:09.87Z"
@@ -12313,15 +12317,11 @@
       {
         "version": "0.18.1",
         "lastUpdated": "2025-08-05T17:21:30.2Z"
-      },
-      {
-        "version": "0.18.0",
-        "lastUpdated": "2025-07-31T09:18:51.093Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-models", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -12899,9 +12899,13 @@
     "extension_name": "Oracle.oracle-java",
     "display_name": "Java",
     "short_description": "Java Platform Extension for Visual Studio Code",
-    "latest_version": "24.1.2",
-    "last_updated": "2025-09-30T18:33:10.92Z",
+    "latest_version": "25.0.0",
+    "last_updated": "2025-12-08T07:22:24.713Z",
     "version_history": [
+      {
+        "version": "25.0.0",
+        "lastUpdated": "2025-12-08T07:22:24.713Z"
+      },
       {
         "version": "24.1.2",
         "lastUpdated": "2025-09-30T18:33:10.92Z"
@@ -12957,7 +12961,7 @@
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["debuggers", "Gradle", "jackpot-hint", "java", "Java Hints", "java properties", "javascript", "JDK", "json", "junit", "keybindings", "Maven", "multiroot", "multi-root ready", "OpenJDK"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/24.1.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Oracle/vsextensions/oracle-java/25.0.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Oracle.oracle-java"
   },
   {
@@ -13037,9 +13041,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "oxc vs code extension",
-    "latest_version": "1.31.0",
-    "last_updated": "2025-12-01T15:20:21.477Z",
+    "latest_version": "1.32.0",
+    "last_updated": "2025-12-08T12:10:15.213Z",
     "version_history": [
+      {
+        "version": "1.32.0",
+        "lastUpdated": "2025-12-08T12:10:15.213Z"
+      },
       {
         "version": "1.31.0",
         "lastUpdated": "2025-12-01T15:20:21.477Z"
@@ -13115,15 +13123,11 @@
       {
         "version": "1.12.0",
         "lastUpdated": "2025-08-17T04:24:32.093Z"
-      },
-      {
-        "version": "1.11.2",
-        "lastUpdated": "2025-08-12T05:00:07.217Z"
       }
     ],
     "categories": ["Linters"],
     "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.31.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.32.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -15431,9 +15435,13 @@
     "extension_name": "sumneko.lua",
     "display_name": "Lua",
     "short_description": "Lua Language Server coded by Lua",
-    "latest_version": "3.16.0",
-    "last_updated": "2025-12-02T07:10:32.937Z",
+    "latest_version": "3.16.1",
+    "last_updated": "2025-12-08T06:37:27.793Z",
     "version_history": [
+      {
+        "version": "3.16.1",
+        "lastUpdated": "2025-12-08T06:37:27.793Z"
+      },
       {
         "version": "3.16.0",
         "lastUpdated": "2025-12-02T07:10:32.937Z"
@@ -15509,15 +15517,11 @@
       {
         "version": "3.10.4",
         "lastUpdated": "2024-08-16T12:09:07.143Z"
-      },
-      {
-        "version": "3.10.3",
-        "lastUpdated": "2024-08-08T10:25:48.43Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters"],
     "tags": ["EmmyLua", "IntelliSense", "json", "jsonc", "lua"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.16.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sumneko/vsextensions/lua/3.16.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sumneko.lua"
   },
   {
@@ -17551,9 +17555,13 @@
     "extension_name": "vscjava.vscode-maven",
     "display_name": "Maven for Java",
     "short_description": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
-    "latest_version": "0.45.0",
-    "last_updated": "2025-11-24T03:20:44.8Z",
+    "latest_version": "0.45.2025120808",
+    "last_updated": "2025-12-08T08:41:43.74Z",
     "version_history": [
+      {
+        "version": "0.45.2025120808",
+        "lastUpdated": "2025-12-08T08:41:43.74Z"
+      },
       {
         "version": "0.45.0",
         "lastUpdated": "2025-11-24T03:20:44.8Z"
@@ -17629,15 +17637,11 @@
       {
         "version": "0.41.2023072103",
         "lastUpdated": "2023-07-21T03:10:36.913Z"
-      },
-      {
-        "version": "0.41.2023042103",
-        "lastUpdated": "2023-04-21T03:10:14.68Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["Java", "Maven"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.45.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-maven/0.45.2025120808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven"
   },
   {
