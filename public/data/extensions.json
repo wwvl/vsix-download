@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.22.1",
-    "last_updated": "2025-12-09T03:50:22.343Z",
+    "latest_version": "3.22.2",
+    "last_updated": "2025-12-09T12:17:24.05Z",
     "version_history": [
+      {
+        "version": "3.22.2",
+        "lastUpdated": "2025-12-09T12:17:24.05Z"
+      },
       {
         "version": "3.22.1",
         "lastUpdated": "2025-12-09T03:50:22.343Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.15.0",
         "lastUpdated": "2025-09-01T11:16:46.95Z"
-      },
-      {
-        "version": "3.14.2",
-        "lastUpdated": "2025-08-26T07:55:05.517Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1706,7 +1706,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.22.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.22.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -2930,9 +2930,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.125.20251202",
-    "last_updated": "2025-12-02T12:24:35.287Z",
+    "latest_version": "3.125.20251209",
+    "last_updated": "2025-12-09T12:01:54.32Z",
     "version_history": [
+      {
+        "version": "3.125.20251209",
+        "lastUpdated": "2025-12-09T12:01:54.32Z"
+      },
       {
         "version": "3.125.20251202",
         "lastUpdated": "2025-12-02T12:24:35.287Z"
@@ -3008,15 +3012,11 @@
       {
         "version": "3.119.20250929",
         "lastUpdated": "2025-09-29T11:17:02.783Z"
-      },
-      {
-        "version": "3.119.20250925",
-        "lastUpdated": "2025-09-25T17:35:04.877Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251202/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251209/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.604",
-    "last_updated": "2025-12-06T09:16:36.99Z",
+    "latest_version": "2025.12.904",
+    "last_updated": "2025-12-09T09:18:11.39Z",
     "version_history": [
+      {
+        "version": "2025.12.904",
+        "lastUpdated": "2025-12-09T09:18:11.39Z"
+      },
       {
         "version": "2025.12.604",
         "lastUpdated": "2025-12-06T09:16:36.99Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.11.1104",
         "lastUpdated": "2025-11-11T09:15:41.16Z"
-      },
-      {
-        "version": "2025.11.1016",
-        "lastUpdated": "2025-11-10T21:57:56.117Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.904/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9238,11 +9238,11 @@
     "display_name": ".NET Install Tool",
     "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
     "latest_version": "3.0.0",
-    "last_updated": "2025-12-08T17:58:29.453Z",
+    "last_updated": "2025-12-08T17:52:53.703Z",
     "version_history": [
       {
         "version": "3.0.0",
-        "lastUpdated": "2025-12-08T17:58:29.453Z"
+        "lastUpdated": "2025-12-08T17:52:53.703Z"
       },
       {
         "version": "2.4.1",
@@ -13915,9 +13915,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2025120508",
-    "last_updated": "2025-12-05T08:26:26.327Z",
+    "latest_version": "1.51.2025120908",
+    "last_updated": "2025-12-09T08:31:56.56Z",
     "version_history": [
+      {
+        "version": "1.51.2025120908",
+        "lastUpdated": "2025-12-09T08:31:56.56Z"
+      },
       {
         "version": "1.51.2025120508",
         "lastUpdated": "2025-12-05T08:26:26.327Z"
@@ -13993,15 +13997,11 @@
       {
         "version": "1.48.2025111108",
         "lastUpdated": "2025-11-11T08:25:56.463Z"
-      },
-      {
-        "version": "1.48.2025110708",
-        "lastUpdated": "2025-11-07T08:26:38.923Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025120508/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025120908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
