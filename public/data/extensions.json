@@ -1570,9 +1570,13 @@
     "extension_name": "BaiduComate.comate",
     "display_name": "文心快码 ( Baidu Comate )",
     "short_description": "Coding mate, Pair you create. Your AI Coding Assistant with Autocomplete & Chat for Java, Go, JS, Python & more",
-    "latest_version": "3.22.0",
-    "last_updated": "2025-12-08T14:55:09.36Z",
+    "latest_version": "3.22.1",
+    "last_updated": "2025-12-09T03:50:22.343Z",
     "version_history": [
+      {
+        "version": "3.22.1",
+        "lastUpdated": "2025-12-09T03:50:22.343Z"
+      },
       {
         "version": "3.22.0",
         "lastUpdated": "2025-12-08T14:55:09.36Z"
@@ -1648,10 +1652,6 @@
       {
         "version": "3.14.2",
         "lastUpdated": "2025-08-26T07:55:05.517Z"
-      },
-      {
-        "version": "3.14.0",
-        "lastUpdated": "2025-08-25T07:40:00.203Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -1706,7 +1706,7 @@
       "编码助手",
       "自动编程"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.22.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/BaiduComate/vsextensions/comate/3.22.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=BaiduComate.comate"
   },
   {
@@ -5550,9 +5550,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.35.2025120804",
-    "last_updated": "2025-12-09T00:43:59.98Z",
+    "latest_version": "0.35.2025120901",
+    "last_updated": "2025-12-09T03:20:43.297Z",
     "version_history": [
+      {
+        "version": "0.35.2025120901",
+        "lastUpdated": "2025-12-09T03:20:43.297Z"
+      },
       {
         "version": "0.35.2025120804",
         "lastUpdated": "2025-12-09T00:43:59.98Z"
@@ -5628,10 +5632,6 @@
       {
         "version": "0.34.2025112401",
         "lastUpdated": "2025-11-24T04:29:26.173Z"
-      },
-      {
-        "version": "0.34.2025112102",
-        "lastUpdated": "2025-11-21T04:27:14.133Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5667,7 +5667,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.35.2025120804/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.35.2025120901/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -9238,11 +9238,11 @@
     "display_name": ".NET Install Tool",
     "short_description": "This extension installs and manages different versions of the .NET SDK and Runtime.",
     "latest_version": "3.0.0",
-    "last_updated": "2025-12-08T17:52:53.703Z",
+    "last_updated": "2025-12-08T17:58:29.453Z",
     "version_history": [
       {
         "version": "3.0.0",
-        "lastUpdated": "2025-12-08T17:52:53.703Z"
+        "lastUpdated": "2025-12-08T17:58:29.453Z"
       },
       {
         "version": "2.4.1",
@@ -17184,9 +17184,13 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025111205",
-    "last_updated": "2025-11-25T05:35:14.863Z",
+    "latest_version": "0.58.2025112507",
+    "last_updated": "2025-12-09T05:35:04.503Z",
     "version_history": [
+      {
+        "version": "0.58.2025112507",
+        "lastUpdated": "2025-12-09T05:35:04.503Z"
+      },
       {
         "version": "0.58.2025111205",
         "lastUpdated": "2025-11-25T05:35:14.863Z"
@@ -17262,15 +17266,11 @@
       {
         "version": "0.57.2024061805",
         "lastUpdated": "2024-06-18T06:17:25.233Z"
-      },
-      {
-        "version": "0.57.2024041008",
-        "lastUpdated": "2024-04-10T09:03:32.553Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
     "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025111205/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025112507/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
@@ -17564,6 +17564,10 @@
         "lastUpdated": "2025-12-08T08:41:43.74Z"
       },
       {
+        "version": "0.45.1",
+        "lastUpdated": "2025-12-09T02:15:59.81Z"
+      },
+      {
         "version": "0.45.0",
         "lastUpdated": "2025-11-24T03:20:44.8Z"
       },
@@ -17634,10 +17638,6 @@
       {
         "version": "0.41.2023072203",
         "lastUpdated": "2023-07-22T03:22:05.03Z"
-      },
-      {
-        "version": "0.41.2023072103",
-        "lastUpdated": "2023-07-21T03:10:36.913Z"
       }
     ],
     "categories": ["Programming Languages"],
@@ -18272,9 +18272,13 @@
     "extension_name": "Vue.volar",
     "display_name": "Vue (Official)",
     "short_description": "Language Support for Vue",
-    "latest_version": "3.1.7",
-    "last_updated": "2025-12-07T18:06:00.3Z",
+    "latest_version": "3.1.8",
+    "last_updated": "2025-12-09T02:47:04.483Z",
     "version_history": [
+      {
+        "version": "3.1.8",
+        "lastUpdated": "2025-12-09T02:47:04.483Z"
+      },
       {
         "version": "3.1.7",
         "lastUpdated": "2025-12-07T18:06:00.3Z"
@@ -18350,15 +18354,11 @@
       {
         "version": "2.2.8",
         "lastUpdated": "2025-03-02T10:33:01.907Z"
-      },
-      {
-        "version": "2.2.6",
-        "lastUpdated": "2025-03-01T10:01:02.04Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["html", "jade", "json", "markdown", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Vue/vsextensions/volar/3.1.8/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar"
   },
   {
