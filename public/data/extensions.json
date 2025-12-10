@@ -1352,9 +1352,13 @@
     "extension_name": "astro-build.astro-vscode",
     "display_name": "Astro",
     "short_description": "Language support for Astro",
-    "latest_version": "2.16.4",
-    "last_updated": "2025-12-09T16:29:21.35Z",
+    "latest_version": "2.16.5",
+    "last_updated": "2025-12-10T13:57:26.25Z",
     "version_history": [
+      {
+        "version": "2.16.5",
+        "lastUpdated": "2025-12-10T13:57:26.25Z"
+      },
       {
         "version": "2.16.4",
         "lastUpdated": "2025-12-09T16:29:21.35Z"
@@ -1430,15 +1434,11 @@
       {
         "version": "2.10.1",
         "lastUpdated": "2024-05-15T13:43:19.717Z"
-      },
-      {
-        "version": "2.10.0",
-        "lastUpdated": "2024-05-15T12:16:48.51Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
     "tags": ["astro", "javascript", "node", "react", "snippet", "Static site generator", "svelte", "typescript", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.16.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/astro-build/vsextensions/astro-vscode/2.16.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode"
   },
   {
@@ -2106,9 +2106,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automated logging for JavaScript, TypeScript, and PHP. Insert, manage, and clean log messages with AST-powered precision.",
-    "latest_version": "3.11.0",
-    "last_updated": "2025-12-01T14:41:07.04Z",
+    "latest_version": "3.12.0",
+    "last_updated": "2025-12-10T14:37:52.403Z",
     "version_history": [
+      {
+        "version": "3.12.0",
+        "lastUpdated": "2025-12-10T14:37:52.403Z"
+      },
       {
         "version": "3.11.0",
         "lastUpdated": "2025-12-01T14:41:07.04Z"
@@ -2184,10 +2188,6 @@
       {
         "version": "3.7.0",
         "lastUpdated": "2025-09-17T22:25:58.05Z"
-      },
-      {
-        "version": "3.6.0",
-        "lastUpdated": "2025-09-04T23:33:29.837Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2215,7 +2215,7 @@
       "vue",
       "wordpress"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.11.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.12.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5586,6 +5586,10 @@
         "lastUpdated": "2025-12-05T04:37:45Z"
       },
       {
+        "version": "0.35.0",
+        "lastUpdated": "2025-12-10T17:26:59.467Z"
+      },
+      {
         "version": "0.34.2025120502",
         "lastUpdated": "2025-12-05T11:36:52.77Z"
       },
@@ -5628,10 +5632,6 @@
       {
         "version": "0.34.2025112602",
         "lastUpdated": "2025-11-26T04:28:57.88Z"
-      },
-      {
-        "version": "0.34.2025112502",
-        "lastUpdated": "2025-11-25T17:53:21.633Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -14529,9 +14529,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "65.7.0",
-    "last_updated": "2025-12-04T01:50:52.243Z",
+    "latest_version": "65.8.1",
+    "last_updated": "2025-12-10T15:46:13.733Z",
     "version_history": [
+      {
+        "version": "65.8.1",
+        "lastUpdated": "2025-12-10T15:46:13.733Z"
+      },
       {
         "version": "65.7.0",
         "lastUpdated": "2025-12-04T01:50:52.243Z"
@@ -14607,15 +14611,11 @@
       {
         "version": "64.2.1",
         "lastUpdated": "2025-06-25T23:35:26.503Z"
-      },
-      {
-        "version": "64.1.0",
-        "lastUpdated": "2025-06-18T21:56:14.75Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.7.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.8.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
@@ -15201,9 +15201,13 @@
     "extension_name": "SpecStory.specstory-vscode",
     "display_name": "SpecStory",
     "short_description": "Save, export, search and share AI chat history from GitHub Copilot and Cursor",
-    "latest_version": "0.27.0",
-    "last_updated": "2025-12-02T15:20:50.433Z",
+    "latest_version": "0.27.1",
+    "last_updated": "2025-12-10T14:46:38.8Z",
     "version_history": [
+      {
+        "version": "0.27.1",
+        "lastUpdated": "2025-12-10T14:46:38.8Z"
+      },
       {
         "version": "0.27.0",
         "lastUpdated": "2025-12-02T15:20:50.433Z"
@@ -15279,15 +15283,11 @@
       {
         "version": "0.17.0",
         "lastUpdated": "2025-07-24T09:58:26.933Z"
-      },
-      {
-        "version": "0.16.0",
-        "lastUpdated": "2025-07-23T13:38:31.607Z"
       }
     ],
     "categories": ["Other"],
     "tags": [],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.27.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/SpecStory/vsextensions/specstory-vscode/0.27.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=SpecStory.specstory-vscode"
   },
   {
