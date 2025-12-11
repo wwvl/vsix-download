@@ -5550,9 +5550,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.36.2025121101",
-    "last_updated": "2025-12-11T04:26:24.4Z",
+    "latest_version": "0.36.2025121102",
+    "last_updated": "2025-12-11T16:55:16.067Z",
     "version_history": [
+      {
+        "version": "0.36.2025121102",
+        "lastUpdated": "2025-12-11T16:55:16.067Z"
+      },
       {
         "version": "0.36.2025121101",
         "lastUpdated": "2025-12-11T04:26:24.4Z"
@@ -5628,10 +5632,6 @@
       {
         "version": "0.34.2025120101",
         "lastUpdated": "2025-12-01T04:34:19.72Z"
-      },
-      {
-        "version": "0.34.2025112801",
-        "lastUpdated": "2025-11-28T04:33:24.04Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5667,7 +5667,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121101/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121102/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -10873,9 +10873,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.122.2025111815",
-    "last_updated": "2025-11-18T15:20:41.307Z",
+    "latest_version": "0.123.2025121115",
+    "last_updated": "2025-12-11T15:24:10.19Z",
     "version_history": [
+      {
+        "version": "0.123.2025121115",
+        "lastUpdated": "2025-12-11T15:24:10.19Z"
+      },
       {
         "version": "0.122.2025111815",
         "lastUpdated": "2025-11-18T15:20:41.307Z"
@@ -10951,15 +10955,11 @@
       {
         "version": "0.120.2025050115",
         "lastUpdated": "2025-05-01T15:21:21.12Z"
-      },
-      {
-        "version": "0.120.2025040915",
-        "lastUpdated": "2025-04-09T15:19:16.25Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.122.2025111815/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.123.2025121115/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
@@ -14529,9 +14529,13 @@
     "extension_name": "salesforce.salesforcedx-vscode-lwc",
     "display_name": "Lightning Web Components",
     "short_description": "Provides code-editing features for Lightning Web Components",
-    "latest_version": "65.8.1",
-    "last_updated": "2025-12-10T15:46:13.733Z",
+    "latest_version": "65.8.2",
+    "last_updated": "2025-12-11T18:26:07.823Z",
     "version_history": [
+      {
+        "version": "65.8.2",
+        "lastUpdated": "2025-12-11T18:26:07.823Z"
+      },
       {
         "version": "65.8.1",
         "lastUpdated": "2025-12-10T15:46:13.733Z"
@@ -14607,15 +14611,11 @@
       {
         "version": "64.3.0",
         "lastUpdated": "2025-07-03T14:00:35.857Z"
-      },
-      {
-        "version": "64.2.1",
-        "lastUpdated": "2025-06-25T23:35:26.503Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["debuggers", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.8.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/salesforce/vsextensions/salesforcedx-vscode-lwc/65.8.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-lwc"
   },
   {
