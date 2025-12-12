@@ -5550,9 +5550,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.36.2025121103",
-    "last_updated": "2025-12-11T20:13:56.723Z",
+    "latest_version": "0.36.2025121201",
+    "last_updated": "2025-12-12T04:39:04.517Z",
     "version_history": [
+      {
+        "version": "0.36.2025121201",
+        "lastUpdated": "2025-12-12T04:39:04.517Z"
+      },
       {
         "version": "0.36.2025121103",
         "lastUpdated": "2025-12-11T20:13:56.723Z"
@@ -5628,10 +5632,6 @@
       {
         "version": "0.34.2025120202",
         "lastUpdated": "2025-12-02T04:30:33.61Z"
-      },
-      {
-        "version": "0.34.2025120102",
-        "lastUpdated": "2025-12-01T14:42:48.047Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5667,7 +5667,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5953,9 +5953,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.125.2025121104",
-    "last_updated": "2025-12-11T04:21:33.307Z",
+    "latest_version": "0.125.2025121204",
+    "last_updated": "2025-12-12T04:29:42.977Z",
     "version_history": [
+      {
+        "version": "0.125.2025121204",
+        "lastUpdated": "2025-12-12T04:29:42.977Z"
+      },
       {
         "version": "0.125.2025121104",
         "lastUpdated": "2025-12-11T04:21:33.307Z"
@@ -6031,15 +6035,11 @@
       {
         "version": "0.123.2025111404",
         "lastUpdated": "2025-11-14T04:18:25.313Z"
-      },
-      {
-        "version": "0.123.2025111304",
-        "lastUpdated": "2025-11-13T04:29:36.51Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -12236,9 +12236,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.26.4",
-    "last_updated": "2025-12-08T10:20:20.73Z",
+    "latest_version": "0.26.5",
+    "last_updated": "2025-12-12T06:09:47.81Z",
     "version_history": [
+      {
+        "version": "0.26.5",
+        "lastUpdated": "2025-12-12T06:09:47.81Z"
+      },
       {
         "version": "0.26.4",
         "lastUpdated": "2025-12-08T10:20:20.73Z"
@@ -12314,15 +12318,11 @@
       {
         "version": "0.18.2",
         "lastUpdated": "2025-08-06T05:17:42.81Z"
-      },
-      {
-        "version": "0.18.1",
-        "lastUpdated": "2025-08-05T17:21:30.2Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-models", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.26.5/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -18774,9 +18774,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.500",
-    "last_updated": "2025-12-03T02:55:42.567Z",
+    "latest_version": "1.0.501",
+    "last_updated": "2025-12-12T02:42:42.44Z",
     "version_history": [
+      {
+        "version": "1.0.501",
+        "lastUpdated": "2025-12-12T02:42:42.44Z"
+      },
       {
         "version": "1.0.500",
         "lastUpdated": "2025-12-03T02:55:42.567Z"
@@ -18852,15 +18856,11 @@
       {
         "version": "1.0.480",
         "lastUpdated": "2025-10-01T03:01:44.587Z"
-      },
-      {
-        "version": "1.0.479",
-        "lastUpdated": "2025-09-30T22:49:24.83Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.500/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
