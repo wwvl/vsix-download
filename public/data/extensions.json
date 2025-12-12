@@ -2930,9 +2930,13 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.125.20251209",
-    "last_updated": "2025-12-09T12:01:54.32Z",
+    "latest_version": "3.125.20251212",
+    "last_updated": "2025-12-12T12:34:45.79Z",
     "version_history": [
+      {
+        "version": "3.125.20251212",
+        "lastUpdated": "2025-12-12T12:34:45.79Z"
+      },
       {
         "version": "3.125.20251209",
         "lastUpdated": "2025-12-09T12:01:54.32Z"
@@ -3008,15 +3012,11 @@
       {
         "version": "3.120.0",
         "lastUpdated": "2025-09-30T09:49:02.013Z"
-      },
-      {
-        "version": "3.119.20250929",
-        "lastUpdated": "2025-09-29T11:17:02.783Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251209/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251212/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1104",
-    "last_updated": "2025-12-11T09:18:00.283Z",
+    "latest_version": "2025.12.1204",
+    "last_updated": "2025-12-12T09:18:21.047Z",
     "version_history": [
+      {
+        "version": "2025.12.1204",
+        "lastUpdated": "2025-12-12T09:18:21.047Z"
+      },
       {
         "version": "2025.12.1104",
         "lastUpdated": "2025-12-11T09:18:00.283Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.11.1304",
         "lastUpdated": "2025-11-13T09:16:06.613Z"
-      },
-      {
-        "version": "2025.11.1215",
-        "lastUpdated": "2025-11-12T20:12:41.77Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1204/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9743,9 +9743,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.17.2025121103",
-    "last_updated": "2025-12-11T20:19:04.343Z",
+    "latest_version": "2025.17.2025121201",
+    "last_updated": "2025-12-12T10:43:31.89Z",
     "version_history": [
+      {
+        "version": "2025.17.2025121201",
+        "lastUpdated": "2025-12-12T10:43:31.89Z"
+      },
       {
         "version": "2025.17.2025121103",
         "lastUpdated": "2025-12-11T20:19:04.343Z"
@@ -9821,15 +9825,11 @@
       {
         "version": "2025.11.2025072201",
         "lastUpdated": "2025-07-22T10:34:52.057Z"
-      },
-      {
-        "version": "2025.11.2025070101",
-        "lastUpdated": "2025-07-01T10:42:09.53Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.17.2025121103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.17.2025121201/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -13729,9 +13729,13 @@
     "extension_name": "redhat.ansible",
     "display_name": "Ansible",
     "short_description": "Ansible language support",
-    "latest_version": "25.12.1",
-    "last_updated": "2025-12-04T14:43:37.937Z",
+    "latest_version": "25.12.2",
+    "last_updated": "2025-12-12T07:57:55.513Z",
     "version_history": [
+      {
+        "version": "25.12.2",
+        "lastUpdated": "2025-12-12T07:57:55.513Z"
+      },
       {
         "version": "25.12.1",
         "lastUpdated": "2025-12-04T14:43:37.937Z"
@@ -13807,15 +13811,11 @@
       {
         "version": "24.9.5080763",
         "lastUpdated": "2024-08-19T17:52:41.01Z"
-      },
-      {
-        "version": "24.9.3355634",
-        "lastUpdated": "2024-07-30T21:47:57.057Z"
       }
     ],
     "categories": ["Programming Languages", "Linters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "json", "keybindings", "validation", "yaml", "yml"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.12.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/ansible/25.12.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.ansible"
   },
   {
