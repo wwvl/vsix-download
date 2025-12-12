@@ -2106,9 +2106,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automated logging for JavaScript, TypeScript, and PHP. Insert, manage, and clean log messages with AST-powered precision.",
-    "latest_version": "3.12.0",
-    "last_updated": "2025-12-10T14:37:52.403Z",
+    "latest_version": "3.12.1",
+    "last_updated": "2025-12-12T15:52:47.35Z",
     "version_history": [
+      {
+        "version": "3.12.1",
+        "lastUpdated": "2025-12-12T15:52:47.35Z"
+      },
       {
         "version": "3.12.0",
         "lastUpdated": "2025-12-10T14:37:52.403Z"
@@ -2184,10 +2188,6 @@
       {
         "version": "3.7.1",
         "lastUpdated": "2025-09-28T00:46:51.29Z"
-      },
-      {
-        "version": "3.7.0",
-        "lastUpdated": "2025-09-17T22:25:58.05Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2215,7 +2215,7 @@
       "vue",
       "wordpress"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.12.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.12.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -5550,9 +5550,17 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.36.2025121201",
-    "last_updated": "2025-12-12T04:39:04.517Z",
+    "latest_version": "0.36.2025121203",
+    "last_updated": "2025-12-12T18:18:45.39Z",
     "version_history": [
+      {
+        "version": "0.36.2025121203",
+        "lastUpdated": "2025-12-12T18:18:45.39Z"
+      },
+      {
+        "version": "0.36.2025121202",
+        "lastUpdated": "2025-12-12T15:50:26.15Z"
+      },
       {
         "version": "0.36.2025121201",
         "lastUpdated": "2025-12-12T04:39:04.517Z"
@@ -5624,14 +5632,6 @@
       {
         "version": "0.34.2025120302",
         "lastUpdated": "2025-12-03T20:35:03.13Z"
-      },
-      {
-        "version": "0.34.2025120301",
-        "lastUpdated": "2025-12-03T04:27:01.607Z"
-      },
-      {
-        "version": "0.34.2025120202",
-        "lastUpdated": "2025-12-02T04:30:33.61Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5667,7 +5667,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121203/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5953,9 +5953,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.125.2025121204",
-    "last_updated": "2025-12-12T04:29:42.977Z",
+    "latest_version": "0.125.2025121213",
+    "last_updated": "2025-12-12T14:04:50.73Z",
     "version_history": [
+      {
+        "version": "0.125.2025121213",
+        "lastUpdated": "2025-12-12T14:04:50.73Z"
+      },
       {
         "version": "0.125.2025121204",
         "lastUpdated": "2025-12-12T04:29:42.977Z"
@@ -6031,15 +6035,11 @@
       {
         "version": "0.123.2025111704",
         "lastUpdated": "2025-11-17T04:19:36.007Z"
-      },
-      {
-        "version": "0.123.2025111404",
-        "lastUpdated": "2025-11-14T04:18:25.313Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121213/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
