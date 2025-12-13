@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1204",
-    "last_updated": "2025-12-12T09:18:21.047Z",
+    "latest_version": "2025.12.1304",
+    "last_updated": "2025-12-13T09:16:32.09Z",
     "version_history": [
+      {
+        "version": "2025.12.1304",
+        "lastUpdated": "2025-12-13T09:16:32.09Z"
+      },
       {
         "version": "2025.12.1204",
         "lastUpdated": "2025-12-12T09:18:21.047Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.11.1404",
         "lastUpdated": "2025-11-14T09:15:01.63Z"
-      },
-      {
-        "version": "2025.11.1304",
-        "lastUpdated": "2025-11-13T09:16:06.613Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1204/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1304/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -14008,9 +14008,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025120408",
-    "last_updated": "2025-12-04T08:15:32.98Z",
+    "latest_version": "1.20.2025121308",
+    "last_updated": "2025-12-13T08:13:04.957Z",
     "version_history": [
+      {
+        "version": "1.20.2025121308",
+        "lastUpdated": "2025-12-13T08:13:04.957Z"
+      },
       {
         "version": "1.20.2025120408",
         "lastUpdated": "2025-12-04T08:15:32.98Z"
@@ -14086,15 +14090,11 @@
       {
         "version": "1.12.0",
         "lastUpdated": "2023-03-08T09:57:51.52Z"
-      },
-      {
-        "version": "1.11.10112022",
-        "lastUpdated": "2022-10-11T11:05:07.933Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025120408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025121308/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
