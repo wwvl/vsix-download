@@ -8166,9 +8166,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.4.19",
-    "last_updated": "2025-12-10T06:39:46.63Z",
+    "latest_version": "1.4.99",
+    "last_updated": "2025-12-16T15:45:25.193Z",
     "version_history": [
+      {
+        "version": "1.4.99",
+        "lastUpdated": "2025-12-16T15:45:25.193Z"
+      },
       {
         "version": "1.4.19",
         "lastUpdated": "2025-12-10T06:39:46.63Z"
@@ -8244,10 +8248,6 @@
       {
         "version": "1.3.7",
         "lastUpdated": "2025-10-13T14:27:35.47Z"
-      },
-      {
-        "version": "1.3.6",
-        "lastUpdated": "2025-10-13T14:28:35.137Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8281,7 +8281,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.19/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.4.99/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -9557,9 +9557,13 @@
     "extension_name": "ms-mssql.mssql",
     "display_name": "SQL Server (mssql)",
     "short_description": "Design and optimize schemas for SQL Server, Azure SQL, and SQL Database in Fabric using a modern, lightweight extension built for developers",
-    "latest_version": "1.37.1",
-    "last_updated": "2025-12-02T21:22:40.56Z",
+    "latest_version": "1.38.0",
+    "last_updated": "2025-12-16T18:14:58Z",
     "version_history": [
+      {
+        "version": "1.38.0",
+        "lastUpdated": "2025-12-16T18:14:58Z"
+      },
       {
         "version": "1.37.1",
         "lastUpdated": "2025-12-02T21:22:40.56Z"
@@ -9635,15 +9639,11 @@
       {
         "version": "1.24.0",
         "lastUpdated": "2024-09-04T17:31:00.59Z"
-      },
-      {
-        "version": "1.23.0",
-        "lastUpdated": "2024-07-31T20:21:17.863Z"
       }
     ],
     "categories": ["Programming Languages", "Azure"],
     "tags": ["Azure SQL Database", "chat-participant", "keybindings", "MSSQL", "multi-root ready", "snippet", "SQL", "SQL database in Fabric", "SQL Server", "SQL Server Execution Plan", "sqlplan"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.37.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-mssql/vsextensions/mssql/1.38.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
   },
   {
@@ -10873,9 +10873,13 @@
     "extension_name": "ms-vscode-remote.remote-ssh",
     "display_name": "Remote - SSH",
     "short_description": "Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.",
-    "latest_version": "0.123.2025121115",
-    "last_updated": "2025-12-11T15:24:10.19Z",
+    "latest_version": "0.123.2025121615",
+    "last_updated": "2025-12-16T15:18:17.94Z",
     "version_history": [
+      {
+        "version": "0.123.2025121615",
+        "lastUpdated": "2025-12-16T15:18:17.94Z"
+      },
       {
         "version": "0.123.2025121115",
         "lastUpdated": "2025-12-11T15:24:10.19Z"
@@ -10951,15 +10955,11 @@
       {
         "version": "0.120.2025050601",
         "lastUpdated": "2025-05-06T02:26:24.447Z"
-      },
-      {
-        "version": "0.120.2025050115",
-        "lastUpdated": "2025-05-01T15:21:21.12Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["chat-participant", "remote", "remote development", "remote-menu", "ssh"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.123.2025121115/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-ssh/0.123.2025121615/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh"
   },
   {
