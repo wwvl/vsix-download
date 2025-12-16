@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1519",
-    "last_updated": "2025-12-16T00:17:05.923Z",
+    "latest_version": "2025.12.1604",
+    "last_updated": "2025-12-16T09:18:38.767Z",
     "version_history": [
+      {
+        "version": "2025.12.1604",
+        "lastUpdated": "2025-12-16T09:18:38.767Z"
+      },
       {
         "version": "2025.12.1519",
         "lastUpdated": "2025-12-16T00:17:05.923Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.11.2104",
         "lastUpdated": "2025-11-21T09:17:00.163Z"
-      },
-      {
-        "version": "2025.11.2004",
-        "lastUpdated": "2025-11-20T09:15:37.23Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1519/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -9743,9 +9743,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.17.2025121501",
-    "last_updated": "2025-12-15T23:00:32.487Z",
+    "latest_version": "2025.17.2025121601",
+    "last_updated": "2025-12-16T10:41:37.367Z",
     "version_history": [
+      {
+        "version": "2025.17.2025121601",
+        "lastUpdated": "2025-12-16T10:41:37.367Z"
+      },
       {
         "version": "2025.17.2025121501",
         "lastUpdated": "2025-12-15T23:00:32.487Z"
@@ -9821,15 +9825,11 @@
       {
         "version": "2025.11.2025072901",
         "lastUpdated": "2025-07-29T10:38:32.423Z"
-      },
-      {
-        "version": "2025.11.2025072801",
-        "lastUpdated": "2025-07-28T10:41:29.307Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.17.2025121501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.17.2025121601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -14008,9 +14008,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025121308",
-    "last_updated": "2025-12-13T08:13:04.957Z",
+    "latest_version": "1.20.2025121608",
+    "last_updated": "2025-12-16T08:16:41.607Z",
     "version_history": [
+      {
+        "version": "1.20.2025121608",
+        "lastUpdated": "2025-12-16T08:16:41.607Z"
+      },
       {
         "version": "1.20.2025121308",
         "lastUpdated": "2025-12-13T08:13:04.957Z"
@@ -14086,15 +14090,11 @@
       {
         "version": "1.12.1",
         "lastUpdated": "2023-03-08T11:22:44.423Z"
-      },
-      {
-        "version": "1.12.0",
-        "lastUpdated": "2023-03-08T09:57:51.52Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025121308/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025121608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -17184,9 +17184,17 @@
     "extension_name": "vscjava.vscode-java-debug",
     "display_name": "Debugger for Java",
     "short_description": "A lightweight Java debugger for Visual Studio Code",
-    "latest_version": "0.58.2025112507",
-    "last_updated": "2025-12-09T05:35:04.503Z",
+    "latest_version": "0.58.2025121609",
+    "last_updated": "2025-12-16T09:29:21.313Z",
     "version_history": [
+      {
+        "version": "0.58.2025121609",
+        "lastUpdated": "2025-12-16T09:29:21.313Z"
+      },
+      {
+        "version": "0.58.2025121107",
+        "lastUpdated": "2025-12-16T08:45:06.543Z"
+      },
       {
         "version": "0.58.2025112507",
         "lastUpdated": "2025-12-09T05:35:04.503Z"
@@ -17258,19 +17266,11 @@
       {
         "version": "0.58.2",
         "lastUpdated": "2025-04-28T05:20:09.757Z"
-      },
-      {
-        "version": "0.58.1",
-        "lastUpdated": "2024-10-31T08:34:52.273Z"
-      },
-      {
-        "version": "0.58.0",
-        "lastUpdated": "2024-06-27T04:22:39.563Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers"],
-    "tags": ["debug", "debugger", "debuggers", "debugging", "java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025112507/vspackage",
+    "tags": ["debug", "debugger", "debuggers", "debugging", "java", "language-model-tools", "tools"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-debug/0.58.2025121609/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
   },
   {
