@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1617",
-    "last_updated": "2025-12-16T22:18:21.52Z",
+    "latest_version": "2025.12.1704",
+    "last_updated": "2025-12-17T09:19:01.94Z",
     "version_history": [
+      {
+        "version": "2025.12.1704",
+        "lastUpdated": "2025-12-17T09:19:01.94Z"
+      },
       {
         "version": "2025.12.1617",
         "lastUpdated": "2025-12-16T22:18:21.52Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.11.2604",
         "lastUpdated": "2025-11-26T09:16:48.52Z"
-      },
-      {
-        "version": "2025.11.2504",
-        "lastUpdated": "2025-11-25T09:17:39.06Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1617/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8944,9 +8944,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.107.2025121009",
-    "last_updated": "2025-12-10T09:25:31.277Z",
+    "latest_version": "1.108.2025121709",
+    "last_updated": "2025-12-17T09:20:25.16Z",
     "version_history": [
+      {
+        "version": "1.108.2025121709",
+        "lastUpdated": "2025-12-17T09:20:25.16Z"
+      },
       {
         "version": "1.107.2025121009",
         "lastUpdated": "2025-12-10T09:25:31.277Z"
@@ -9022,15 +9026,11 @@
       {
         "version": "1.103.2025080609",
         "lastUpdated": "2025-08-06T09:24:19.6Z"
-      },
-      {
-        "version": "1.103.2025072309",
-        "lastUpdated": "2025-07-23T09:18:46.65Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.107.2025121009/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.108.2025121709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -9747,9 +9747,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.18.0",
-    "last_updated": "2025-12-16T19:22:32.377Z",
+    "latest_version": "2025.19.2025121701",
+    "last_updated": "2025-12-17T10:54:37.37Z",
     "version_history": [
+      {
+        "version": "2025.19.2025121701",
+        "lastUpdated": "2025-12-17T10:54:37.37Z"
+      },
       {
         "version": "2025.18.0",
         "lastUpdated": "2025-12-16T19:22:32.377Z"
@@ -9825,15 +9829,11 @@
       {
         "version": "2025.13.2025091201",
         "lastUpdated": "2025-09-12T10:39:21.113Z"
-      },
-      {
-        "version": "2025.13.2025090502",
-        "lastUpdated": "2025-09-05T20:49:39.66Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.18.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.19.2025121701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10119,9 +10119,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.21.2025121601",
-    "last_updated": "2025-12-16T18:42:31.827Z",
+    "latest_version": "2025.21.2025121701",
+    "last_updated": "2025-12-17T11:00:13.333Z",
     "version_history": [
+      {
+        "version": "2025.21.2025121701",
+        "lastUpdated": "2025-12-17T11:00:13.333Z"
+      },
       {
         "version": "2025.21.2025121601",
         "lastUpdated": "2025-12-16T18:42:31.827Z"
@@ -10197,10 +10201,6 @@
       {
         "version": "2025.14.0",
         "lastUpdated": "2025-09-11T18:38:20.033Z"
-      },
-      {
-        "version": "2025.13.2025090201",
-        "lastUpdated": "2025-09-02T10:50:42.243Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10223,7 +10223,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2025121601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2025121701/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
