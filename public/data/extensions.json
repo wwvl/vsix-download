@@ -648,127 +648,6 @@
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=alfredbirk.tailwind-documentation"
   },
   {
-    "extension_name": "Alibaba-Cloud.tongyi-lingma",
-    "display_name": "Lingma - Alibaba Cloud AI Coding Assistant",
-    "short_description": "Type Less, Code More",
-    "latest_version": "2.5.17",
-    "last_updated": "2025-07-24T14:02:42.827Z",
-    "version_history": [
-      {
-        "version": "2.5.17",
-        "lastUpdated": "2025-07-24T14:02:42.827Z"
-      },
-      {
-        "version": "2.5.16",
-        "lastUpdated": "2025-07-18T14:36:05.763Z"
-      },
-      {
-        "version": "2.5.15",
-        "lastUpdated": "2025-07-10T14:39:48.98Z"
-      },
-      {
-        "version": "2.5.14",
-        "lastUpdated": "2025-06-27T14:42:53.3Z"
-      },
-      {
-        "version": "2.5.13",
-        "lastUpdated": "2025-06-19T15:52:43.693Z"
-      },
-      {
-        "version": "2.5.12",
-        "lastUpdated": "2025-06-12T15:04:41.263Z"
-      },
-      {
-        "version": "2.5.11",
-        "lastUpdated": "2025-06-12T13:33:46.87Z"
-      },
-      {
-        "version": "2.5.9",
-        "lastUpdated": "2025-06-05T14:13:53.017Z"
-      },
-      {
-        "version": "2.5.8",
-        "lastUpdated": "2025-05-29T14:20:22.333Z"
-      },
-      {
-        "version": "2.5.7",
-        "lastUpdated": "2025-05-22T15:27:52.55Z"
-      },
-      {
-        "version": "2.5.6",
-        "lastUpdated": "2025-05-16T13:37:45.7Z"
-      },
-      {
-        "version": "2.5.5",
-        "lastUpdated": "2025-05-15T14:26:56.67Z"
-      },
-      {
-        "version": "2.5.4",
-        "lastUpdated": "2025-05-12T13:26:26.79Z"
-      },
-      {
-        "version": "2.5.3",
-        "lastUpdated": "2025-05-09T13:29:30.513Z"
-      },
-      {
-        "version": "2.5.2",
-        "lastUpdated": "2025-05-06T11:48:46.6Z"
-      },
-      {
-        "version": "2.5.1",
-        "lastUpdated": "2025-05-05T05:04:05.72Z"
-      },
-      {
-        "version": "2.5.0",
-        "lastUpdated": "2025-04-30T15:54:34.813Z"
-      },
-      {
-        "version": "2.3.0",
-        "lastUpdated": "2025-04-18T13:49:06.257Z"
-      },
-      {
-        "version": "2.2.2",
-        "lastUpdated": "2025-04-10T13:52:18.247Z"
-      },
-      {
-        "version": "2.2.1",
-        "lastUpdated": "2025-04-01T13:01:11.77Z"
-      }
-    ],
-    "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
-    "tags": [
-      "ai coding assistant",
-      "AI 自动编程",
-      "aliyun",
-      "autocoding",
-      "autocomplete",
-      "c#",
-      "chatglm",
-      "code generation",
-      "codegen",
-      "go",
-      "inline completion",
-      "java",
-      "javascript",
-      "keybindings",
-      "lingma",
-      "php",
-      "python",
-      "tongyi",
-      "tongyilingma",
-      "tongyiqianwen",
-      "typescript",
-      "灵码",
-      "编码助手",
-      "通义",
-      "通义千问",
-      "通义灵码",
-      "阿里云"
-    ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Alibaba-Cloud/vsextensions/tongyi-lingma/2.5.17/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Alibaba-Cloud.tongyi-lingma"
-  },
-  {
     "extension_name": "aminer.codegeex",
     "display_name": "CodeGeeX: AI Coding Assistant",
     "short_description": "CodeGeeX is an AI-based coding assistant, which can suggest code in the current or following lines.  It is powered by a large-scale multilingual code generation model with 13 billion parameters, pretrained on a large code corpus of more than 20 programming languages.",
@@ -1445,9 +1324,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.688.0",
-    "last_updated": "2025-12-16T02:16:12.323Z",
+    "latest_version": "0.691.0",
+    "last_updated": "2025-12-16T20:15:43.443Z",
     "version_history": [
+      {
+        "version": "0.691.0",
+        "lastUpdated": "2025-12-16T20:15:43.443Z"
+      },
       {
         "version": "0.688.0",
         "lastUpdated": "2025-12-16T02:16:12.323Z"
@@ -1459,6 +1342,10 @@
       {
         "version": "0.658.0",
         "lastUpdated": "2025-11-21T22:44:50.757Z"
+      },
+      {
+        "version": "0.654.3",
+        "lastUpdated": "2025-12-16T22:04:09.96Z"
       },
       {
         "version": "0.654.2",
@@ -1519,14 +1406,6 @@
       {
         "version": "0.631.2",
         "lastUpdated": "2025-11-12T05:48:26.467Z"
-      },
-      {
-        "version": "0.631.1",
-        "lastUpdated": "2025-11-12T05:31:23.33Z"
-      },
-      {
-        "version": "0.631.0",
-        "lastUpdated": "2025-11-06T19:14:47.443Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1442,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.688.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.691.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -4245,9 +4124,17 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1604",
-    "last_updated": "2025-12-16T09:18:38.767Z",
+    "latest_version": "2025.12.1617",
+    "last_updated": "2025-12-16T22:18:21.52Z",
     "version_history": [
+      {
+        "version": "2025.12.1617",
+        "lastUpdated": "2025-12-16T22:18:21.52Z"
+      },
+      {
+        "version": "2025.12.1616",
+        "lastUpdated": "2025-12-16T21:16:36.23Z"
+      },
       {
         "version": "2025.12.1604",
         "lastUpdated": "2025-12-16T09:18:38.767Z"
@@ -4319,19 +4206,11 @@
       {
         "version": "2025.11.2504",
         "lastUpdated": "2025-11-25T09:17:39.06Z"
-      },
-      {
-        "version": "2025.11.2404",
-        "lastUpdated": "2025-11-24T09:17:26.643Z"
-      },
-      {
-        "version": "2025.11.2104",
-        "lastUpdated": "2025-11-21T09:17:00.163Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1617/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8774,9 +8653,13 @@
     "extension_name": "ms-azuretools.vscode-azurefunctions",
     "display_name": "Azure Functions",
     "short_description": "An Azure Functions extension for Visual Studio Code.",
-    "latest_version": "1.20.2",
-    "last_updated": "2025-11-25T19:21:02.87Z",
+    "latest_version": "1.20.3",
+    "last_updated": "2025-12-16T21:22:25.857Z",
     "version_history": [
+      {
+        "version": "1.20.3",
+        "lastUpdated": "2025-12-16T21:22:25.857Z"
+      },
       {
         "version": "1.20.2",
         "lastUpdated": "2025-11-25T19:21:02.87Z"
@@ -8840,7 +8723,7 @@
     ],
     "categories": ["Azure"],
     "tags": ["Azure", "Functions", "json", "multi-root ready", "serverless"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.20.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-azuretools/vsextensions/vscode-azurefunctions/1.20.3/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions"
   },
   {
@@ -9743,9 +9626,13 @@
     "extension_name": "ms-python.debugpy",
     "display_name": "Python Debugger",
     "short_description": "Python Debugger extension using debugpy.",
-    "latest_version": "2025.17.2025121601",
-    "last_updated": "2025-12-16T10:41:37.367Z",
+    "latest_version": "2025.18.0",
+    "last_updated": "2025-12-16T19:22:32.377Z",
     "version_history": [
+      {
+        "version": "2025.18.0",
+        "lastUpdated": "2025-12-16T19:22:32.377Z"
+      },
       {
         "version": "2025.17.2025121601",
         "lastUpdated": "2025-12-16T10:41:37.367Z"
@@ -9821,15 +9708,11 @@
       {
         "version": "2025.13.2025090502",
         "lastUpdated": "2025-09-05T20:49:39.66Z"
-      },
-      {
-        "version": "2025.11.2025072901",
-        "lastUpdated": "2025-07-29T10:38:32.423Z"
       }
     ],
     "categories": ["Debuggers"],
     "tags": ["debugger", "debuggers", "debugpy", "python"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.17.2025121601/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/debugpy/2025.18.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
   },
   {
@@ -10115,9 +9998,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.21.2025121501",
-    "last_updated": "2025-12-15T10:57:38.703Z",
+    "latest_version": "2025.21.2025121601",
+    "last_updated": "2025-12-16T18:42:31.827Z",
     "version_history": [
+      {
+        "version": "2025.21.2025121601",
+        "lastUpdated": "2025-12-16T18:42:31.827Z"
+      },
       {
         "version": "2025.21.2025121501",
         "lastUpdated": "2025-12-15T10:57:38.703Z"
@@ -10193,10 +10080,6 @@
       {
         "version": "2025.13.2025090201",
         "lastUpdated": "2025-09-02T10:50:42.243Z"
-      },
-      {
-        "version": "2025.13.2025090101",
-        "lastUpdated": "2025-09-01T10:45:27.027Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10219,7 +10102,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2025121501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2025121601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -12050,9 +11933,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251215",
-    "last_updated": "2025-12-16T00:45:53.48Z",
+    "latest_version": "6.0.20251216",
+    "last_updated": "2025-12-17T00:15:36.277Z",
     "version_history": [
+      {
+        "version": "6.0.20251216",
+        "lastUpdated": "2025-12-17T00:15:36.277Z"
+      },
       {
         "version": "6.0.20251215",
         "lastUpdated": "2025-12-16T00:45:53.48Z"
@@ -12128,15 +12015,11 @@
       {
         "version": "6.0.20251127",
         "lastUpdated": "2025-11-28T00:13:02.21Z"
-      },
-      {
-        "version": "6.0.20251126",
-        "lastUpdated": "2025-11-27T00:13:45.163Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251215/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251216/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14228,9 +14111,17 @@
     "extension_name": "RooVeterinaryInc.roo-cline",
     "display_name": "Roo Code",
     "short_description": "A whole dev team of AI agents in your editor.",
-    "latest_version": "3.36.7",
-    "last_updated": "2025-12-15T14:54:39.143Z",
+    "latest_version": "3.36.9",
+    "last_updated": "2025-12-16T21:23:45.773Z",
     "version_history": [
+      {
+        "version": "3.36.9",
+        "lastUpdated": "2025-12-16T21:23:45.773Z"
+      },
+      {
+        "version": "3.36.8",
+        "lastUpdated": "2025-12-16T20:51:47.223Z"
+      },
       {
         "version": "3.36.7",
         "lastUpdated": "2025-12-15T14:54:39.143Z"
@@ -14302,28 +14193,24 @@
       {
         "version": "3.34.5",
         "lastUpdated": "2025-11-26T05:59:49.227Z"
-      },
-      {
-        "version": "3.34.4",
-        "lastUpdated": "2025-11-25T20:35:18.337Z"
-      },
-      {
-        "version": "3.34.3",
-        "lastUpdated": "2025-11-25T15:31:33.03Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "ai", "autonomous", "chatgpt", "claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "roo code", "roocode", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.36.7/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/RooVeterinaryInc/vsextensions/roo-cline/3.36.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
   },
   {
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2720",
-    "last_updated": "2025-12-16T01:00:07.213Z",
+    "latest_version": "0.4.2721",
+    "last_updated": "2025-12-17T01:00:20.87Z",
     "version_history": [
+      {
+        "version": "0.4.2721",
+        "lastUpdated": "2025-12-17T01:00:20.87Z"
+      },
       {
         "version": "0.4.2720",
         "lastUpdated": "2025-12-16T01:00:07.213Z"
@@ -14399,15 +14286,11 @@
       {
         "version": "0.4.2699",
         "lastUpdated": "2025-11-29T00:57:57.55Z"
-      },
-      {
-        "version": "0.4.2698",
-        "lastUpdated": "2025-11-28T00:57:05.197Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2720/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2721/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -14622,9 +14505,17 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.42.0",
-    "last_updated": "2025-12-12T23:36:24.447Z",
+    "latest_version": "3.44.0",
+    "last_updated": "2025-12-16T22:23:49.743Z",
     "version_history": [
+      {
+        "version": "3.44.0",
+        "lastUpdated": "2025-12-16T22:23:49.743Z"
+      },
+      {
+        "version": "3.43.1",
+        "lastUpdated": "2025-12-16T21:45:34.037Z"
+      },
       {
         "version": "3.42.0",
         "lastUpdated": "2025-12-12T23:36:24.447Z"
@@ -14696,19 +14587,11 @@
       {
         "version": "3.35.0",
         "lastUpdated": "2025-10-31T02:02:36.563Z"
-      },
-      {
-        "version": "3.34.1",
-        "lastUpdated": "2025-10-27T21:21:20.31Z"
-      },
-      {
-        "version": "3.34.0",
-        "lastUpdated": "2025-10-23T02:54:51.997Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.42.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.44.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
