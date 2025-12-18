@@ -1445,9 +1445,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.691.0",
-    "last_updated": "2025-12-16T20:15:43.443Z",
+    "latest_version": "0.696.0",
+    "last_updated": "2025-12-18T00:22:27.513Z",
     "version_history": [
+      {
+        "version": "0.696.0",
+        "lastUpdated": "2025-12-18T00:22:27.513Z"
+      },
       {
         "version": "0.691.0",
         "lastUpdated": "2025-12-16T20:15:43.443Z"
@@ -1523,10 +1527,6 @@
       {
         "version": "0.631.3",
         "lastUpdated": "2025-11-17T21:37:03.8Z"
-      },
-      {
-        "version": "0.631.2",
-        "lastUpdated": "2025-11-12T05:48:26.467Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.691.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.696.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1712",
-    "last_updated": "2025-12-17T17:34:24.39Z",
+    "latest_version": "2025.12.1714",
+    "last_updated": "2025-12-17T19:33:53.12Z",
     "version_history": [
+      {
+        "version": "2025.12.1714",
+        "lastUpdated": "2025-12-17T19:33:53.12Z"
+      },
       {
         "version": "2025.12.1712",
         "lastUpdated": "2025-12-17T17:34:24.39Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.11.2704",
         "lastUpdated": "2025-11-27T09:18:31.647Z"
-      },
-      {
-        "version": "2025.11.2623",
-        "lastUpdated": "2025-11-27T04:20:00.127Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1712/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1714/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5626,12 +5626,12 @@
         "lastUpdated": "2025-12-05T04:37:45Z"
       },
       {
-        "version": "0.35.0",
-        "lastUpdated": "2025-12-10T17:26:59.467Z"
+        "version": "0.35.1",
+        "lastUpdated": "2025-12-17T19:13:03.31Z"
       },
       {
-        "version": "0.34.2025120502",
-        "lastUpdated": "2025-12-05T11:36:52.77Z"
+        "version": "0.35.0",
+        "lastUpdated": "2025-12-10T17:26:59.467Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -6249,9 +6249,13 @@
     "extension_name": "Google.geminicodeassist",
     "display_name": "Gemini Code Assist",
     "short_description": "AI-assisted development powered by Gemini",
-    "latest_version": "2.63.1",
-    "last_updated": "2025-12-12T22:12:45.873Z",
+    "latest_version": "2.64.0",
+    "last_updated": "2025-12-17T19:43:08.347Z",
     "version_history": [
+      {
+        "version": "2.64.0",
+        "lastUpdated": "2025-12-17T19:43:08.347Z"
+      },
       {
         "version": "2.63.1",
         "lastUpdated": "2025-12-12T22:12:45.873Z"
@@ -6327,15 +6331,11 @@
       {
         "version": "2.45.1",
         "lastUpdated": "2025-08-19T00:57:03.963Z"
-      },
-      {
-        "version": "2.45.0",
-        "lastUpdated": "2025-08-14T23:47:12.83Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
     "tags": ["AI Assistant", "Chat", "Code Assist", "Code Completion", "Code Generation", "Duet", "Gemini", "Google", "ignore", "keybindings", "LLM", "Log", "Pair Programmer"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.63.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Google/vsextensions/geminicodeassist/2.64.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist"
   },
   {
@@ -12054,9 +12054,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251216",
-    "last_updated": "2025-12-17T00:15:36.277Z",
+    "latest_version": "6.0.20251217",
+    "last_updated": "2025-12-18T00:16:45.377Z",
     "version_history": [
+      {
+        "version": "6.0.20251217",
+        "lastUpdated": "2025-12-18T00:16:45.377Z"
+      },
       {
         "version": "6.0.20251216",
         "lastUpdated": "2025-12-17T00:15:36.277Z"
@@ -12132,15 +12136,11 @@
       {
         "version": "6.0.20251128",
         "lastUpdated": "2025-11-29T00:12:07.99Z"
-      },
-      {
-        "version": "6.0.20251127",
-        "lastUpdated": "2025-11-28T00:13:02.21Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251216/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251217/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14325,9 +14325,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2721",
-    "last_updated": "2025-12-17T01:00:20.87Z",
+    "latest_version": "0.4.2722",
+    "last_updated": "2025-12-18T00:55:19.173Z",
     "version_history": [
+      {
+        "version": "0.4.2722",
+        "lastUpdated": "2025-12-18T00:55:19.173Z"
+      },
       {
         "version": "0.4.2721",
         "lastUpdated": "2025-12-17T01:00:20.87Z"
@@ -14403,15 +14407,11 @@
       {
         "version": "0.4.2700",
         "lastUpdated": "2025-11-30T01:02:42.453Z"
-      },
-      {
-        "version": "0.4.2699",
-        "lastUpdated": "2025-11-29T00:57:57.55Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2721/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2722/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16988,9 +16988,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.1.2025121600",
-    "last_updated": "2025-12-16T01:04:34.747Z",
+    "latest_version": "2.1.2025121800",
+    "last_updated": "2025-12-18T00:54:11.543Z",
     "version_history": [
+      {
+        "version": "2.1.2025121800",
+        "lastUpdated": "2025-12-18T00:54:11.543Z"
+      },
       {
         "version": "2.1.2025121600",
         "lastUpdated": "2025-12-16T01:04:34.747Z"
@@ -17066,10 +17070,6 @@
       {
         "version": "2.0.2025110800",
         "lastUpdated": "2025-11-08T01:02:51.377Z"
-      },
-      {
-        "version": "2.0.2025110600",
-        "lastUpdated": "2025-11-06T01:03:27.69Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17088,7 +17088,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.1.2025121600/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.1.2025121800/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
