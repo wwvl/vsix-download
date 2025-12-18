@@ -3116,9 +3116,17 @@
     "extension_name": "DavidAnson.vscode-markdownlint",
     "display_name": "markdownlint",
     "short_description": "Markdown linting and style checking for Visual Studio Code",
-    "latest_version": "0.60.0",
-    "last_updated": "2025-05-27T01:23:51.017Z",
+    "latest_version": "0.61.1",
+    "last_updated": "2025-12-18T04:25:50.35Z",
     "version_history": [
+      {
+        "version": "0.61.1",
+        "lastUpdated": "2025-12-18T04:25:50.35Z"
+      },
+      {
+        "version": "0.61.0",
+        "lastUpdated": "2025-12-18T04:01:44.39Z"
+      },
       {
         "version": "0.60.0",
         "lastUpdated": "2025-05-27T01:23:51.017Z"
@@ -3190,19 +3198,11 @@
       {
         "version": "0.46.0",
         "lastUpdated": "2022-01-31T03:19:36.583Z"
-      },
-      {
-        "version": "0.45.0",
-        "lastUpdated": "2021-10-29T05:46:55.663Z"
-      },
-      {
-        "version": "0.44.4",
-        "lastUpdated": "2021-10-03T19:14:06.47Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
     "tags": ["CommonMark", "json", "lint", "linters", "markdown", "md", "multi-root ready", "snippet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.60.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DavidAnson/vsextensions/vscode-markdownlint/0.61.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint"
   },
   {
@@ -5550,9 +5550,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.36.2025121701",
-    "last_updated": "2025-12-17T04:28:08.263Z",
+    "latest_version": "0.36.2025121801",
+    "last_updated": "2025-12-18T04:27:55.473Z",
     "version_history": [
+      {
+        "version": "0.36.2025121801",
+        "lastUpdated": "2025-12-18T04:27:55.473Z"
+      },
       {
         "version": "0.36.2025121701",
         "lastUpdated": "2025-12-17T04:28:08.263Z"
@@ -5628,10 +5632,6 @@
       {
         "version": "0.35.1",
         "lastUpdated": "2025-12-17T19:13:03.31Z"
-      },
-      {
-        "version": "0.35.0",
-        "lastUpdated": "2025-12-10T17:26:59.467Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5667,7 +5667,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121701/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121801/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5953,9 +5953,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.125.2025121704",
-    "last_updated": "2025-12-17T04:21:35.327Z",
+    "latest_version": "0.125.2025121804",
+    "last_updated": "2025-12-18T04:22:01.513Z",
     "version_history": [
+      {
+        "version": "0.125.2025121804",
+        "lastUpdated": "2025-12-18T04:22:01.513Z"
+      },
       {
         "version": "0.125.2025121704",
         "lastUpdated": "2025-12-17T04:21:35.327Z"
@@ -6031,15 +6035,11 @@
       {
         "version": "0.123.2025112504",
         "lastUpdated": "2025-11-25T04:26:08.757Z"
-      },
-      {
-        "version": "0.123.2025112404",
-        "lastUpdated": "2025-11-24T04:18:48.2Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
