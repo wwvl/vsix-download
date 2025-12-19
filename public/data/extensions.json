@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.1817",
-    "last_updated": "2025-12-18T22:49:17.187Z",
+    "latest_version": "2025.12.1904",
+    "last_updated": "2025-12-19T09:18:24.46Z",
     "version_history": [
+      {
+        "version": "2025.12.1904",
+        "lastUpdated": "2025-12-19T09:18:24.46Z"
+      },
       {
         "version": "2025.12.1817",
         "lastUpdated": "2025-12-18T22:49:17.187Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.12.404",
         "lastUpdated": "2025-12-04T09:17:55.917Z"
-      },
-      {
-        "version": "2025.12.304",
-        "lastUpdated": "2025-12-03T09:18:11Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1817/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.1904/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13454,9 +13454,13 @@
     "extension_name": "Prisma.prisma",
     "display_name": "Prisma",
     "short_description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.",
-    "latest_version": "31.3.0",
-    "last_updated": "2025-12-17T15:47:38.987Z",
+    "latest_version": "31.3.4",
+    "last_updated": "2025-12-19T12:20:32.637Z",
     "version_history": [
+      {
+        "version": "31.3.4",
+        "lastUpdated": "2025-12-19T12:20:32.637Z"
+      },
       {
         "version": "31.3.0",
         "lastUpdated": "2025-12-17T15:47:38.987Z"
@@ -13532,15 +13536,11 @@
       {
         "version": "6.10.0",
         "lastUpdated": "2025-06-17T16:57:11.127Z"
-      },
-      {
-        "version": "6.9.1",
-        "lastUpdated": "2025-06-11T16:16:19.433Z"
       }
     ],
     "categories": ["Programming Languages"],
     "tags": ["linters", "prisma"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/31.3.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Prisma/vsextensions/prisma/31.3.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Prisma.prisma"
   },
   {
@@ -13826,9 +13826,13 @@
     "extension_name": "redhat.fabric8-analytics",
     "display_name": "Red Hat Dependency Analytics",
     "short_description": "Provides insights on security vulnerabilities in your application dependencies.",
-    "latest_version": "0.10.1",
-    "last_updated": "2025-09-11T12:14:20.903Z",
+    "latest_version": "0.10.2",
+    "last_updated": "2025-12-19T09:34:37.813Z",
     "version_history": [
+      {
+        "version": "0.10.2",
+        "lastUpdated": "2025-12-19T09:34:37.813Z"
+      },
       {
         "version": "0.10.1",
         "lastUpdated": "2025-09-11T12:14:20.903Z"
@@ -13904,15 +13908,11 @@
       {
         "version": "0.3.3",
         "lastUpdated": "2021-05-06T15:36:37.097Z"
-      },
-      {
-        "version": "0.3.2",
-        "lastUpdated": "2021-02-10T12:28:01.227Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["CVE", "dependency scan", "java", "multi-root ready", "Node", "Security", "vulnerability"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/fabric8-analytics/0.10.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/fabric8-analytics/0.10.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics"
   },
   {
@@ -14012,9 +14012,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025121808",
-    "last_updated": "2025-12-18T08:15:02.17Z",
+    "latest_version": "1.20.2025121908",
+    "last_updated": "2025-12-19T08:14:17.347Z",
     "version_history": [
+      {
+        "version": "1.20.2025121908",
+        "lastUpdated": "2025-12-19T08:14:17.347Z"
+      },
       {
         "version": "1.20.2025121808",
         "lastUpdated": "2025-12-18T08:15:02.17Z"
@@ -14090,15 +14094,11 @@
       {
         "version": "1.13.0",
         "lastUpdated": "2023-05-22T16:26:01.84Z"
-      },
-      {
-        "version": "1.12.2",
-        "lastUpdated": "2023-03-20T08:34:23.17Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025121808/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025121908/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
