@@ -8166,9 +8166,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.5.3",
-    "last_updated": "2025-12-18T16:00:58.17Z",
+    "latest_version": "1.5.4",
+    "last_updated": "2025-12-20T11:28:13.387Z",
     "version_history": [
+      {
+        "version": "1.5.4",
+        "lastUpdated": "2025-12-20T11:28:13.387Z"
+      },
       {
         "version": "1.5.3",
         "lastUpdated": "2025-12-18T16:00:58.17Z"
@@ -8244,10 +8248,6 @@
       {
         "version": "1.4.0",
         "lastUpdated": "2025-10-21T13:39:29.993Z"
-      },
-      {
-        "version": "1.3.9",
-        "lastUpdated": "2025-10-20T15:16:44.973Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8281,7 +8281,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.5.3/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.5.4/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -14626,9 +14626,13 @@
     "extension_name": "saoudrizwan.claude-dev",
     "display_name": "Cline",
     "short_description": "Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way.",
-    "latest_version": "3.45.0",
-    "last_updated": "2025-12-17T17:06:13.507Z",
+    "latest_version": "3.45.1",
+    "last_updated": "2025-12-20T15:25:14.787Z",
     "version_history": [
+      {
+        "version": "3.45.1",
+        "lastUpdated": "2025-12-20T15:25:14.787Z"
+      },
       {
         "version": "3.45.0",
         "lastUpdated": "2025-12-17T17:06:13.507Z"
@@ -14704,15 +14708,11 @@
       {
         "version": "3.37.0",
         "lastUpdated": "2025-11-13T20:52:34.89Z"
-      },
-      {
-        "version": "3.36.1",
-        "lastUpdated": "2025-11-07T03:16:02.28Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Education", "Testing", "AI", "Chat"],
     "tags": ["agent", "AI", "autonomous", "chatgpt", "Claude", "cline", "coding", "dev", "keybindings", "llama", "mcp", "openrouter", "sonnet"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.45.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/saoudrizwan/vsextensions/claude-dev/3.45.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
   },
   {
