@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2025.12.2104",
-    "last_updated": "2025-12-21T09:16:11.857Z",
+    "latest_version": "2025.12.2404",
+    "last_updated": "2025-12-24T09:16:27.35Z",
     "version_history": [
+      {
+        "version": "2025.12.2404",
+        "lastUpdated": "2025-12-24T09:16:27.35Z"
+      },
       {
         "version": "2025.12.2104",
         "lastUpdated": "2025-12-21T09:16:11.857Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.12.904",
         "lastUpdated": "2025-12-09T09:18:11.39Z"
-      },
-      {
-        "version": "2025.12.604",
-        "lastUpdated": "2025-12-06T09:16:36.99Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.2104/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2025.12.2404/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8944,9 +8944,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.108.2025121709",
-    "last_updated": "2025-12-17T09:20:25.16Z",
+    "latest_version": "1.108.2025122409",
+    "last_updated": "2025-12-24T09:25:24.753Z",
     "version_history": [
+      {
+        "version": "1.108.2025122409",
+        "lastUpdated": "2025-12-24T09:25:24.753Z"
+      },
       {
         "version": "1.108.2025121709",
         "lastUpdated": "2025-12-17T09:20:25.16Z"
@@ -9022,15 +9026,11 @@
       {
         "version": "1.103.2025081309",
         "lastUpdated": "2025-08-13T09:30:32.493Z"
-      },
-      {
-        "version": "1.103.2025080609",
-        "lastUpdated": "2025-08-06T09:24:19.6Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.108.2025121709/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.108.2025122409/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -12055,11 +12055,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "6.0.20251223",
-    "last_updated": "2025-12-24T00:14:01.703Z",
+    "last_updated": "2025-12-24T00:09:44.203Z",
     "version_history": [
       {
         "version": "6.0.20251223",
-        "lastUpdated": "2025-12-24T00:14:01.703Z"
+        "lastUpdated": "2025-12-24T00:09:44.203Z"
       },
       {
         "version": "6.0.20251222",
