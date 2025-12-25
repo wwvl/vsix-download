@@ -2106,9 +2106,13 @@
     "extension_name": "ChakrounAnas.turbo-console-log",
     "display_name": "Turbo Console Log",
     "short_description": "Automated logging for JavaScript, TypeScript, and PHP. Insert, manage, and clean log messages with AST-powered precision.",
-    "latest_version": "3.12.1",
-    "last_updated": "2025-12-12T15:52:47.35Z",
+    "latest_version": "3.12.2",
+    "last_updated": "2025-12-24T20:59:11.297Z",
     "version_history": [
+      {
+        "version": "3.12.2",
+        "lastUpdated": "2025-12-24T20:59:11.297Z"
+      },
       {
         "version": "3.12.1",
         "lastUpdated": "2025-12-12T15:52:47.35Z"
@@ -2184,10 +2188,6 @@
       {
         "version": "3.7.2",
         "lastUpdated": "2025-09-29T00:36:51.133Z"
-      },
-      {
-        "version": "3.7.1",
-        "lastUpdated": "2025-09-28T00:46:51.29Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Debuggers", "Visualization"],
@@ -2215,7 +2215,7 @@
       "vue",
       "wordpress"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.12.1/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ChakrounAnas/vsextensions/turbo-console-log/3.12.2/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log"
   },
   {
@@ -12054,12 +12054,16 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251223",
-    "last_updated": "2025-12-24T00:09:44.203Z",
+    "latest_version": "6.0.20251224",
+    "last_updated": "2025-12-25T00:14:42.35Z",
     "version_history": [
       {
+        "version": "6.0.20251224",
+        "lastUpdated": "2025-12-25T00:14:42.35Z"
+      },
+      {
         "version": "6.0.20251223",
-        "lastUpdated": "2025-12-24T00:09:44.203Z"
+        "lastUpdated": "2025-12-24T00:14:01.703Z"
       },
       {
         "version": "6.0.20251222",
@@ -12132,15 +12136,11 @@
       {
         "version": "6.0.20251205",
         "lastUpdated": "2025-12-06T00:12:42Z"
-      },
-      {
-        "version": "6.0.20251204",
-        "lastUpdated": "2025-12-05T00:23:50.79Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251223/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251224/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14325,9 +14325,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2729",
-    "last_updated": "2025-12-24T00:58:55.97Z",
+    "latest_version": "0.4.2730",
+    "last_updated": "2025-12-25T00:57:46.5Z",
     "version_history": [
+      {
+        "version": "0.4.2730",
+        "lastUpdated": "2025-12-25T00:57:46.5Z"
+      },
       {
         "version": "0.4.2729",
         "lastUpdated": "2025-12-24T00:58:55.97Z"
@@ -14403,15 +14407,11 @@
       {
         "version": "0.4.2708",
         "lastUpdated": "2025-12-07T01:02:14.057Z"
-      },
-      {
-        "version": "0.4.2707",
-        "lastUpdated": "2025-12-06T00:57:19.27Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2729/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2730/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -16988,9 +16988,13 @@
     "extension_name": "vmware.vscode-spring-boot",
     "display_name": "Spring Boot Tools",
     "short_description": "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.",
-    "latest_version": "2.1.2025122300",
-    "last_updated": "2025-12-23T00:58:17.763Z",
+    "latest_version": "2.1.2025122500",
+    "last_updated": "2025-12-25T00:57:34.71Z",
     "version_history": [
+      {
+        "version": "2.1.2025122500",
+        "lastUpdated": "2025-12-25T00:57:34.71Z"
+      },
       {
         "version": "2.1.2025122300",
         "lastUpdated": "2025-12-23T00:58:17.763Z"
@@ -17066,10 +17070,6 @@
       {
         "version": "2.0.2025111500",
         "lastUpdated": "2025-11-15T01:09:10.44Z"
-      },
-      {
-        "version": "2.0.2025111300",
-        "lastUpdated": "2025-11-13T01:05:11.36Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "AI", "Chat"],
@@ -17088,7 +17088,7 @@
       "spring-boot-properties-yaml",
       "spring-factories"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.1.2025122300/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vmware/vsextensions/vscode-spring-boot/2.1.2025122500/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vmware.vscode-spring-boot"
   },
   {
@@ -17741,99 +17741,6 @@
     "tags": [],
     "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-boot-dashboard/0.14.2025041702/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard"
-  },
-  {
-    "extension_name": "vscjava.vscode-spring-initializr",
-    "display_name": "Spring Initializr Java Support",
-    "short_description": "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.",
-    "latest_version": "0.12.0",
-    "last_updated": "2025-11-14T02:19:21.45Z",
-    "version_history": [
-      {
-        "version": "0.12.0",
-        "lastUpdated": "2025-11-14T02:19:21.45Z"
-      },
-      {
-        "version": "0.11.2025062607",
-        "lastUpdated": "2025-06-26T07:47:23.89Z"
-      },
-      {
-        "version": "0.11.2025051201",
-        "lastUpdated": "2025-05-13T01:57:53.14Z"
-      },
-      {
-        "version": "0.11.2024112703",
-        "lastUpdated": "2024-11-27T08:07:34.837Z"
-      },
-      {
-        "version": "0.11.2024072912",
-        "lastUpdated": "2024-07-30T01:59:02.297Z"
-      },
-      {
-        "version": "0.11.2023070103",
-        "lastUpdated": "2023-07-01T03:08:40.95Z"
-      },
-      {
-        "version": "0.11.2023041103",
-        "lastUpdated": "2023-04-11T03:20:07.453Z"
-      },
-      {
-        "version": "0.11.2023031603",
-        "lastUpdated": "2023-03-16T03:08:00.2Z"
-      },
-      {
-        "version": "0.11.2023030203",
-        "lastUpdated": "2023-03-02T03:06:54.64Z"
-      },
-      {
-        "version": "0.11.2023013003",
-        "lastUpdated": "2023-01-30T03:07:34.923Z"
-      },
-      {
-        "version": "0.11.2023011003",
-        "lastUpdated": "2023-01-10T03:10:09.673Z"
-      },
-      {
-        "version": "0.11.2023010403",
-        "lastUpdated": "2023-01-04T03:06:19.417Z"
-      },
-      {
-        "version": "0.11.2022122403",
-        "lastUpdated": "2022-12-24T03:06:36.953Z"
-      },
-      {
-        "version": "0.11.2022122304",
-        "lastUpdated": "2022-12-23T04:50:18.693Z"
-      },
-      {
-        "version": "0.11.2022122303",
-        "lastUpdated": "2022-12-23T03:04:04.51Z"
-      },
-      {
-        "version": "0.11.2022090703",
-        "lastUpdated": "2022-09-09T02:20:21.47Z"
-      },
-      {
-        "version": "0.11.2",
-        "lastUpdated": "2023-01-09T05:31:23.987Z"
-      },
-      {
-        "version": "0.11.1",
-        "lastUpdated": "2022-11-03T09:22:29.93Z"
-      },
-      {
-        "version": "0.11.0",
-        "lastUpdated": "2022-09-05T08:10:42.103Z"
-      },
-      {
-        "version": "0.10.2022080203",
-        "lastUpdated": "2022-08-02T03:05:42.863Z"
-      }
-    ],
-    "categories": ["Other"],
-    "tags": ["java"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-spring-initializr/0.12.0/vspackage",
-    "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr"
   },
   {
     "extension_name": "vscode-icons-team.vscode-icons",
