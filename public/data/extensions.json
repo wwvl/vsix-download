@@ -17281,9 +17281,13 @@
     "extension_name": "vscjava.vscode-java-dependency",
     "display_name": "Project Manager for Java",
     "short_description": "Manage Java projects in Visual Studio Code",
-    "latest_version": "0.26.2025102904",
-    "last_updated": "2025-10-29T05:18:59.52Z",
+    "latest_version": "0.27.0",
+    "last_updated": "2025-12-26T09:10:19.737Z",
     "version_history": [
+      {
+        "version": "0.27.0",
+        "lastUpdated": "2025-12-26T09:10:19.737Z"
+      },
       {
         "version": "0.26.2025102904",
         "lastUpdated": "2025-10-29T05:18:59.52Z"
@@ -17359,15 +17363,11 @@
       {
         "version": "0.24.1",
         "lastUpdated": "2024-11-06T01:30:17.007Z"
-      },
-      {
-        "version": "0.24.0",
-        "lastUpdated": "2024-07-24T08:03:50.213Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["explorer", "java", "keybindings", "project"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.26.2025102904/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-dependency/0.27.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency"
   },
   {
