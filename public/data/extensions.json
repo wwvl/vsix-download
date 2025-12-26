@@ -3488,9 +3488,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.63.18228",
-    "last_updated": "2025-12-19T14:13:37.087Z",
+    "latest_version": "1.63.18249",
+    "last_updated": "2025-12-26T13:48:42.04Z",
     "version_history": [
+      {
+        "version": "1.63.18249",
+        "lastUpdated": "2025-12-26T13:48:42.04Z"
+      },
       {
         "version": "1.63.18228",
         "lastUpdated": "2025-12-19T14:13:37.087Z"
@@ -3566,15 +3570,11 @@
       {
         "version": "1.62.18042",
         "lastUpdated": "2025-10-30T21:47:45.153Z"
-      },
-      {
-        "version": "1.62.18037",
-        "lastUpdated": "2025-10-30T12:30:52.85Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.63.18228/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.63.18249/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -8164,11 +8164,15 @@
   },
   {
     "extension_name": "MarsCode.marscode-extension",
-    "display_name": "TRAE AI (formerly MarsCode): Coding Assistant",
+    "display_name": "TRAE AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.5.4",
-    "last_updated": "2025-12-20T19:23:52.957Z",
+    "latest_version": "1.5.9",
+    "last_updated": "2025-12-26T15:03:50.617Z",
     "version_history": [
+      {
+        "version": "1.5.9",
+        "lastUpdated": "2025-12-26T15:03:50.617Z"
+      },
       {
         "version": "1.5.4",
         "lastUpdated": "2025-12-20T19:23:52.957Z"
@@ -8244,10 +8248,6 @@
       {
         "version": "1.4.1",
         "lastUpdated": "2025-10-23T15:28:20.697Z"
-      },
-      {
-        "version": "1.4.0",
-        "lastUpdated": "2025-10-21T13:39:29.993Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8281,7 +8281,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.5.4/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.5.9/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
