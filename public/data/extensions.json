@@ -2930,9 +2930,17 @@
     "extension_name": "Dart-Code.dart-code",
     "display_name": "Dart",
     "short_description": "Dart language support and debugger for Visual Studio Code.",
-    "latest_version": "3.125.20251218",
-    "last_updated": "2025-12-18T12:18:39.113Z",
+    "latest_version": "3.127.20251229",
+    "last_updated": "2025-12-29T12:17:00.607Z",
     "version_history": [
+      {
+        "version": "3.127.20251229",
+        "lastUpdated": "2025-12-29T12:17:00.607Z"
+      },
+      {
+        "version": "3.126.0",
+        "lastUpdated": "2025-12-29T12:16:37.623Z"
+      },
       {
         "version": "3.125.20251218",
         "lastUpdated": "2025-12-18T12:18:39.113Z"
@@ -3004,28 +3012,28 @@
       {
         "version": "3.121.20251021",
         "lastUpdated": "2025-10-21T17:00:38.203Z"
-      },
-      {
-        "version": "3.121.20250930",
-        "lastUpdated": "2025-09-30T09:49:21.527Z"
-      },
-      {
-        "version": "3.120.1",
-        "lastUpdated": "2025-10-21T17:36:12.24Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters", "Testing"],
     "tags": ["dart", "debuggers", "flutter", "fuchsia", "keybindings", "language-model-tools", "multi-root ready", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.125.20251218/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/dart-code/3.127.20251229/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code"
   },
   {
     "extension_name": "Dart-Code.flutter",
     "display_name": "Flutter",
     "short_description": "Flutter support and debugger for Visual Studio Code.",
-    "latest_version": "3.125.20251201",
-    "last_updated": "2025-12-01T12:41:42.867Z",
+    "latest_version": "3.127.20251229",
+    "last_updated": "2025-12-29T12:12:32.88Z",
     "version_history": [
+      {
+        "version": "3.127.20251229",
+        "lastUpdated": "2025-12-29T12:12:32.88Z"
+      },
+      {
+        "version": "3.126.0",
+        "lastUpdated": "2025-12-29T12:11:40.89Z"
+      },
       {
         "version": "3.125.20251201",
         "lastUpdated": "2025-12-01T12:41:42.867Z"
@@ -3097,19 +3105,11 @@
       {
         "version": "3.109.20250401",
         "lastUpdated": "2025-04-01T14:09:04.41Z"
-      },
-      {
-        "version": "3.108.0",
-        "lastUpdated": "2025-04-01T09:28:15.27Z"
-      },
-      {
-        "version": "3.107.20250303",
-        "lastUpdated": "2025-03-03T17:29:07.18Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Debuggers", "Formatters"],
     "tags": ["android", "dart", "flutter", "ios", "mobile"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.125.20251201/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Dart-Code/vsextensions/flutter/3.127.20251229/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter"
   },
   {
@@ -13045,10 +13045,14 @@
   {
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
-    "short_description": "oxc vs code extension",
-    "latest_version": "1.34.0",
-    "last_updated": "2025-12-19T02:40:13.087Z",
+    "short_description": "Oxlint and Oxfmt editor integration",
+    "latest_version": "1.36.0",
+    "last_updated": "2025-12-29T09:30:55.74Z",
     "version_history": [
+      {
+        "version": "1.36.0",
+        "lastUpdated": "2025-12-29T09:30:55.74Z"
+      },
       {
         "version": "1.34.0",
         "lastUpdated": "2025-12-19T02:40:13.087Z"
@@ -13124,15 +13128,11 @@
       {
         "version": "1.15.0",
         "lastUpdated": "2025-09-11T09:53:33.59Z"
-      },
-      {
-        "version": "1.14.0",
-        "lastUpdated": "2025-08-30T12:42:05.56Z"
       }
     ],
-    "categories": ["Linters"],
-    "tags": ["astro", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.34.0/vspackage",
+    "categories": ["Linters", "Formatters"],
+    "tags": ["astro", "formatter", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "oxfmt", "oxlint", "svelte", "typescript", "typescriptreact", "vue"],
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.36.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
