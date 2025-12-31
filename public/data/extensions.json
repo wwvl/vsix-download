@@ -15910,9 +15910,13 @@
     "extension_name": "tencent-cloud.coding-copilot",
     "display_name": "Tencent Cloud CodeBuddy",
     "short_description": "Your AI pair programmer",
-    "latest_version": "4.1.14589586",
-    "last_updated": "2025-12-15T07:09:54.38Z",
+    "latest_version": "4.2.16150775",
+    "last_updated": "2025-12-31T03:04:29.84Z",
     "version_history": [
+      {
+        "version": "4.2.16150775",
+        "lastUpdated": "2025-12-31T03:04:29.84Z"
+      },
       {
         "version": "4.1.14589586",
         "lastUpdated": "2025-12-15T07:09:54.38Z"
@@ -15988,10 +15992,6 @@
       {
         "version": "3.1.18",
         "lastUpdated": "2025-05-28T03:19:46.813Z"
-      },
-      {
-        "version": "3.1.17",
-        "lastUpdated": "2025-05-23T12:09:20.783Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -16020,7 +16020,7 @@
       "腾讯云代码助手 CodeBuddy",
       "腾讯代码助手CodeBuddy"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/4.1.14589586/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/tencent-cloud/vsextensions/coding-copilot/4.2.16150775/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=tencent-cloud.coding-copilot"
   },
   {
