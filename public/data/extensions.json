@@ -12055,11 +12055,11 @@
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
     "latest_version": "6.0.20251231",
-    "last_updated": "2026-01-01T00:20:28.147Z",
+    "last_updated": "2026-01-01T00:15:33.227Z",
     "version_history": [
       {
         "version": "6.0.20251231",
-        "lastUpdated": "2026-01-01T00:20:28.147Z"
+        "lastUpdated": "2026-01-01T00:15:33.227Z"
       },
       {
         "version": "6.0.20251230",
