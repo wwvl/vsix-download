@@ -12054,9 +12054,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20251231",
-    "last_updated": "2026-01-01T00:20:28.147Z",
+    "latest_version": "6.0.20260101",
+    "last_updated": "2026-01-02T00:20:07.573Z",
     "version_history": [
+      {
+        "version": "6.0.20260101",
+        "lastUpdated": "2026-01-02T00:20:07.573Z"
+      },
       {
         "version": "6.0.20251231",
         "lastUpdated": "2026-01-01T00:20:28.147Z"
@@ -12132,15 +12136,11 @@
       {
         "version": "6.0.20251213",
         "lastUpdated": "2025-12-14T00:14:27.54Z"
-      },
-      {
-        "version": "6.0.20251212",
-        "lastUpdated": "2025-12-13T00:23:49.587Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20251231/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20260101/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14325,9 +14325,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2738",
-    "last_updated": "2026-01-01T01:03:42.45Z",
+    "latest_version": "0.4.2739",
+    "last_updated": "2026-01-02T01:02:32.63Z",
     "version_history": [
+      {
+        "version": "0.4.2739",
+        "lastUpdated": "2026-01-02T01:02:32.63Z"
+      },
       {
         "version": "0.4.2738",
         "lastUpdated": "2026-01-01T01:03:42.45Z"
@@ -14403,15 +14407,11 @@
       {
         "version": "0.4.2717",
         "lastUpdated": "2025-12-14T01:03:46.85Z"
-      },
-      {
-        "version": "0.4.2716",
-        "lastUpdated": "2025-12-13T00:59:13.48Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2738/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2739/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
@@ -18778,9 +18778,13 @@
     "extension_name": "WallabyJs.console-ninja",
     "display_name": "Console Ninja",
     "short_description": "JavaScript console.log output and runtime errors right next to your code.",
-    "latest_version": "1.0.501",
-    "last_updated": "2025-12-12T02:42:42.44Z",
+    "latest_version": "1.0.504",
+    "last_updated": "2026-01-01T23:36:25.08Z",
     "version_history": [
+      {
+        "version": "1.0.504",
+        "lastUpdated": "2026-01-01T23:36:25.08Z"
+      },
       {
         "version": "1.0.501",
         "lastUpdated": "2025-12-12T02:42:42.44Z"
@@ -18856,15 +18860,11 @@
       {
         "version": "1.0.481",
         "lastUpdated": "2025-10-01T03:33:46.91Z"
-      },
-      {
-        "version": "1.0.480",
-        "lastUpdated": "2025-10-01T03:01:44.587Z"
       }
     ],
     "categories": ["Debuggers", "AI", "Chat"],
     "tags": ["chat-participant", "debugger", "javascript", "keybindings", "language-model-tools", "typescript"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/WallabyJs/vsextensions/console-ninja/1.0.504/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja"
   },
   {
