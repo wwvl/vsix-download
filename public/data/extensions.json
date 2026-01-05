@@ -1445,9 +1445,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.708.0",
-    "last_updated": "2025-12-23T18:53:59.34Z",
+    "latest_version": "0.722.0",
+    "last_updated": "2026-01-05T17:48:59.547Z",
     "version_history": [
+      {
+        "version": "0.722.0",
+        "lastUpdated": "2026-01-05T17:48:59.547Z"
+      },
       {
         "version": "0.708.0",
         "lastUpdated": "2025-12-23T18:53:59.34Z"
@@ -1523,10 +1527,6 @@
       {
         "version": "0.647.1",
         "lastUpdated": "2025-11-19T07:23:07.95Z"
-      },
-      {
-        "version": "0.647.0",
-        "lastUpdated": "2025-11-18T00:57:55.01Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.708.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.722.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
@@ -5860,9 +5860,13 @@
     "extension_name": "GitHub.vscode-github-actions",
     "display_name": "GitHub Actions",
     "short_description": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code",
-    "latest_version": "0.29.0",
-    "last_updated": "2026-01-04T21:27:57.54Z",
+    "latest_version": "0.29.1",
+    "last_updated": "2026-01-05T15:28:37.5Z",
     "version_history": [
+      {
+        "version": "0.29.1",
+        "lastUpdated": "2026-01-05T15:28:37.5Z"
+      },
       {
         "version": "0.29.0",
         "lastUpdated": "2026-01-04T21:27:57.54Z"
@@ -5938,15 +5942,11 @@
       {
         "version": "0.25.2",
         "lastUpdated": "2023-03-23T22:44:15.26Z"
-      },
-      {
-        "version": "0.25.1",
-        "lastUpdated": "2023-03-22T22:06:24.377Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["GitHub Actions Workflow", "github-actions-workflow"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.29.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.29.1/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions"
   },
   {
@@ -13046,9 +13046,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "Oxlint and Oxfmt editor integration",
-    "latest_version": "1.36.0",
-    "last_updated": "2025-12-29T09:30:55.74Z",
+    "latest_version": "1.37.0",
+    "last_updated": "2026-01-05T14:07:21.287Z",
     "version_history": [
+      {
+        "version": "1.37.0",
+        "lastUpdated": "2026-01-05T14:07:21.287Z"
+      },
       {
         "version": "1.36.0",
         "lastUpdated": "2025-12-29T09:30:55.74Z"
@@ -13124,15 +13128,11 @@
       {
         "version": "1.16.0",
         "lastUpdated": "2025-09-16T20:13:26.887Z"
-      },
-      {
-        "version": "1.15.0",
-        "lastUpdated": "2025-09-11T09:53:33.59Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
     "tags": ["astro", "formatter", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "oxfmt", "oxlint", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.36.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.37.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
