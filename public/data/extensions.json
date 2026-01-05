@@ -5550,9 +5550,13 @@
     "extension_name": "GitHub.copilot-chat",
     "display_name": "GitHub Copilot Chat",
     "short_description": "AI chat features powered by Copilot",
-    "latest_version": "0.36.2025121901",
-    "last_updated": "2025-12-19T04:30:55.78Z",
+    "latest_version": "0.36.2026010502",
+    "last_updated": "2026-01-05T08:38:42.127Z",
     "version_history": [
+      {
+        "version": "0.36.2026010502",
+        "lastUpdated": "2026-01-05T08:38:42.127Z"
+      },
       {
         "version": "0.36.2025121901",
         "lastUpdated": "2025-12-19T04:30:55.78Z"
@@ -5628,10 +5632,6 @@
       {
         "version": "0.35.2025120504",
         "lastUpdated": "2025-12-05T22:40:50.45Z"
-      },
-      {
-        "version": "0.35.2025120501",
-        "lastUpdated": "2025-12-05T04:37:45Z"
       }
     ],
     "categories": ["Programming Languages", "Machine Learning", "AI", "Chat"],
@@ -5667,7 +5667,7 @@
       "tools",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2025121901/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/copilot-chat/0.36.2026010502/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat"
   },
   {
@@ -5953,9 +5953,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.125.2025121915",
-    "last_updated": "2025-12-19T15:33:21.473Z",
+    "latest_version": "0.125.2026010510",
+    "last_updated": "2026-01-05T10:58:47.773Z",
     "version_history": [
+      {
+        "version": "0.125.2026010510",
+        "lastUpdated": "2026-01-05T10:58:47.773Z"
+      },
       {
         "version": "0.125.2025121915",
         "lastUpdated": "2025-12-19T15:33:21.473Z"
@@ -6031,15 +6035,11 @@
       {
         "version": "0.123.2025112804",
         "lastUpdated": "2025-11-28T04:26:55.45Z"
-      },
-      {
-        "version": "0.123.2025112704",
-        "lastUpdated": "2025-11-27T04:18:37.38Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2025121915/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2026010510/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -8167,11 +8167,11 @@
     "display_name": "TRAE AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
     "latest_version": "1.5.11",
-    "last_updated": "2026-01-04T15:31:13.393Z",
+    "last_updated": "2026-01-04T15:46:48.423Z",
     "version_history": [
       {
         "version": "1.5.11",
-        "lastUpdated": "2026-01-04T15:31:13.393Z"
+        "lastUpdated": "2026-01-04T15:46:48.423Z"
       },
       {
         "version": "1.5.9",
@@ -10119,9 +10119,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.21.2025121801",
-    "last_updated": "2025-12-18T10:52:12.027Z",
+    "latest_version": "2025.21.2026010501",
+    "last_updated": "2026-01-05T10:55:10.653Z",
     "version_history": [
+      {
+        "version": "2025.21.2026010501",
+        "lastUpdated": "2026-01-05T10:55:10.653Z"
+      },
       {
         "version": "2025.21.2025121801",
         "lastUpdated": "2025-12-18T10:52:12.027Z"
@@ -10197,10 +10201,6 @@
       {
         "version": "2025.15.2025092001",
         "lastUpdated": "2025-09-20T19:18:07.387Z"
-      },
-      {
-        "version": "2025.15.2025091901",
-        "lastUpdated": "2025-09-19T10:44:21.773Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10223,7 +10223,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2025121801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2026010501/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -10784,9 +10784,13 @@
     "extension_name": "ms-vscode-remote.remote-containers",
     "display_name": "Dev Containers",
     "short_description": "Open any folder or repository inside a Docker container and take advantage of Visual Studio Code's full feature set.",
-    "latest_version": "0.435.0",
-    "last_updated": "2025-12-05T08:14:59.687Z",
+    "latest_version": "0.436.0",
+    "last_updated": "2026-01-05T10:49:28.873Z",
     "version_history": [
+      {
+        "version": "0.436.0",
+        "lastUpdated": "2026-01-05T10:49:28.873Z"
+      },
       {
         "version": "0.435.0",
         "lastUpdated": "2025-12-05T08:14:59.687Z"
@@ -10862,15 +10866,11 @@
       {
         "version": "0.419.0",
         "lastUpdated": "2025-06-30T13:31:21.423Z"
-      },
-      {
-        "version": "0.418.0",
-        "lastUpdated": "2025-06-12T15:08:58.24Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["containers", "continueOn", "dev container", "devcontainer", "development container", "docker", "json", "jsonc", "remote", "remote development", "remote-menu"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.435.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode-remote/vsextensions/remote-containers/0.436.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers"
   },
   {
@@ -13919,9 +13919,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2025123108",
-    "last_updated": "2025-12-31T08:26:40.727Z",
+    "latest_version": "1.51.2026010511",
+    "last_updated": "2026-01-05T11:23:27.7Z",
     "version_history": [
+      {
+        "version": "1.51.2026010511",
+        "lastUpdated": "2026-01-05T11:23:27.7Z"
+      },
       {
         "version": "1.51.2025123108",
         "lastUpdated": "2025-12-31T08:26:40.727Z"
@@ -13997,15 +14001,11 @@
       {
         "version": "1.50.2025112008",
         "lastUpdated": "2025-11-20T08:35:26.347Z"
-      },
-      {
-        "version": "1.50.0",
-        "lastUpdated": "2025-11-26T13:26:36.843Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2025123108/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2026010511/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
