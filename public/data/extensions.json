@@ -3488,9 +3488,13 @@
     "extension_name": "DEVSENSE.composer-php-vscode",
     "display_name": "Composer",
     "short_description": "All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.",
-    "latest_version": "1.64.18270",
-    "last_updated": "2025-12-30T16:08:26.223Z",
+    "latest_version": "1.64.18284",
+    "last_updated": "2026-01-04T22:11:10.94Z",
     "version_history": [
+      {
+        "version": "1.64.18284",
+        "lastUpdated": "2026-01-04T22:11:10.94Z"
+      },
       {
         "version": "1.64.18270",
         "lastUpdated": "2025-12-30T16:08:26.223Z"
@@ -3566,15 +3570,11 @@
       {
         "version": "1.62.18062",
         "lastUpdated": "2025-11-04T14:22:37.293Z"
-      },
-      {
-        "version": "1.62.18056",
-        "lastUpdated": "2025-11-02T16:44:28.837Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Visualization"],
     "tags": ["codelens", "commands", "composer", "json", "packagist", "php", "php tools", "schema", "tools", "validation"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.64.18270/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/DEVSENSE/vsextensions/composer-php-vscode/1.64.18284/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode"
   },
   {
@@ -5860,9 +5860,13 @@
     "extension_name": "GitHub.vscode-github-actions",
     "display_name": "GitHub Actions",
     "short_description": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code",
-    "latest_version": "0.28.2",
-    "last_updated": "2025-12-08T22:39:25.747Z",
+    "latest_version": "0.29.0",
+    "last_updated": "2026-01-04T21:27:57.54Z",
     "version_history": [
+      {
+        "version": "0.29.0",
+        "lastUpdated": "2026-01-04T21:27:57.54Z"
+      },
       {
         "version": "0.28.2",
         "lastUpdated": "2025-12-08T22:39:25.747Z"
@@ -5938,15 +5942,11 @@
       {
         "version": "0.25.1",
         "lastUpdated": "2023-03-22T22:06:24.377Z"
-      },
-      {
-        "version": "0.25.0",
-        "lastUpdated": "2023-03-21T22:25:38.817Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["GitHub Actions Workflow", "github-actions-workflow"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.28.2/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-github-actions/0.29.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions"
   },
   {
@@ -12054,9 +12054,13 @@
     "extension_name": "ms-vscode.vscode-typescript-next",
     "display_name": "JavaScript and TypeScript Nightly",
     "short_description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
-    "latest_version": "6.0.20260103",
-    "last_updated": "2026-01-04T00:18:30.467Z",
+    "latest_version": "6.0.20260104",
+    "last_updated": "2026-01-05T00:16:14.693Z",
     "version_history": [
+      {
+        "version": "6.0.20260104",
+        "lastUpdated": "2026-01-05T00:16:14.693Z"
+      },
       {
         "version": "6.0.20260103",
         "lastUpdated": "2026-01-04T00:18:30.467Z"
@@ -12132,15 +12136,11 @@
       {
         "version": "6.0.20251216",
         "lastUpdated": "2025-12-17T00:15:36.277Z"
-      },
-      {
-        "version": "6.0.20251215",
-        "lastUpdated": "2025-12-16T00:45:53.48Z"
       }
     ],
     "categories": ["Other"],
     "tags": ["JavaScript", "javascriptreact", "js", "nightly", "ts", "TypeScript", "typescriptreact"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20260103/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-vscode/vsextensions/vscode-typescript-next/6.0.20260104/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next"
   },
   {
@@ -14325,9 +14325,13 @@
     "extension_name": "rust-lang.rust-analyzer",
     "display_name": "rust-analyzer",
     "short_description": "Rust language support for Visual Studio Code",
-    "latest_version": "0.4.2741",
-    "last_updated": "2026-01-04T01:04:24.89Z",
+    "latest_version": "0.4.2742",
+    "last_updated": "2026-01-05T01:06:16.783Z",
     "version_history": [
+      {
+        "version": "0.4.2742",
+        "lastUpdated": "2026-01-05T01:06:16.783Z"
+      },
       {
         "version": "0.4.2741",
         "lastUpdated": "2026-01-04T01:04:24.89Z"
@@ -14403,15 +14407,11 @@
       {
         "version": "0.4.2721",
         "lastUpdated": "2025-12-17T01:00:20.87Z"
-      },
-      {
-        "version": "0.4.2720",
-        "lastUpdated": "2025-12-16T01:00:07.213Z"
       }
     ],
     "categories": ["Programming Languages", "Formatters"],
     "tags": ["json", "keybindings", "ra_syntax_tree", "rs", "rust"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2741/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/rust-lang/vsextensions/rust-analyzer/0.4.2742/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer"
   },
   {
