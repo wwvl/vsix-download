@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2026.1.304",
-    "last_updated": "2026-01-03T09:13:53.56Z",
+    "latest_version": "2026.1.604",
+    "last_updated": "2026-01-06T09:16:56.153Z",
     "version_history": [
+      {
+        "version": "2026.1.604",
+        "lastUpdated": "2026-01-06T09:16:56.153Z"
+      },
       {
         "version": "2026.1.304",
         "lastUpdated": "2026-01-03T09:13:53.56Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.12.1204",
         "lastUpdated": "2025-12-12T09:18:21.047Z"
-      },
-      {
-        "version": "2025.12.1104",
-        "lastUpdated": "2025-12-11T09:18:00.283Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2026.1.304/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2026.1.604/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -8166,9 +8166,13 @@
     "extension_name": "MarsCode.marscode-extension",
     "display_name": "TRAE AI: Coding Assistant",
     "short_description": "Code and Innovate Faster with AI",
-    "latest_version": "1.5.11",
-    "last_updated": "2026-01-04T15:46:48.423Z",
+    "latest_version": "1.5.12",
+    "last_updated": "2026-01-06T10:01:15.68Z",
     "version_history": [
+      {
+        "version": "1.5.12",
+        "lastUpdated": "2026-01-06T10:01:15.68Z"
+      },
       {
         "version": "1.5.11",
         "lastUpdated": "2026-01-04T15:46:48.423Z"
@@ -8244,10 +8248,6 @@
       {
         "version": "1.4.5",
         "lastUpdated": "2025-10-30T15:50:49.643Z"
-      },
-      {
-        "version": "1.4.2",
-        "lastUpdated": "2025-10-26T14:35:31.667Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education"],
@@ -8281,7 +8281,7 @@
       "typescript",
       "豆包"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.5.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MarsCode/vsextensions/marscode-extension/1.5.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MarsCode.marscode-extension"
   },
   {
@@ -9985,6 +9985,10 @@
         "lastUpdated": "2025-03-13T10:22:42.977Z"
       },
       {
+        "version": "2025.3.10061014",
+        "lastUpdated": "2026-01-06T10:28:12.66Z"
+      },
+      {
         "version": "2025.2.0",
         "lastUpdated": "2025-03-05T18:30:41.82Z"
       },
@@ -10011,10 +10015,6 @@
       {
         "version": "2024.2.0",
         "lastUpdated": "2025-02-06T21:27:38.993Z"
-      },
-      {
-        "version": "2024.1.13171012",
-        "lastUpdated": "2024-11-12T10:49:03.54Z"
       }
     ],
     "categories": ["Programming Languages", "Linters", "Formatters"],
@@ -10119,9 +10119,13 @@
     "extension_name": "ms-python.python",
     "display_name": "Python",
     "short_description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.",
-    "latest_version": "2025.21.2026010501",
-    "last_updated": "2026-01-05T10:55:10.653Z",
+    "latest_version": "2025.21.2026010601",
+    "last_updated": "2026-01-06T11:00:02.283Z",
     "version_history": [
+      {
+        "version": "2025.21.2026010601",
+        "lastUpdated": "2026-01-06T11:00:02.283Z"
+      },
       {
         "version": "2025.21.2026010501",
         "lastUpdated": "2026-01-05T10:55:10.653Z"
@@ -10197,10 +10201,6 @@
       {
         "version": "2025.15.2025092201",
         "lastUpdated": "2025-09-22T10:47:37.37Z"
-      },
-      {
-        "version": "2025.15.2025092001",
-        "lastUpdated": "2025-09-20T19:18:07.387Z"
       }
     ],
     "categories": ["Programming Languages", "Debuggers", "Data Science", "Machine Learning"],
@@ -10223,7 +10223,7 @@
       "unittest",
       "yaml"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2026010501/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/2025.21.2026010601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
   },
   {
@@ -10471,9 +10471,13 @@
     "extension_name": "ms-toolsai.jupyter",
     "display_name": "Jupyter",
     "short_description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.",
-    "latest_version": "2025.10.2025121801",
-    "last_updated": "2025-12-18T09:51:41.49Z",
+    "latest_version": "2025.10.2026010601",
+    "last_updated": "2026-01-06T09:58:06.363Z",
     "version_history": [
+      {
+        "version": "2025.10.2026010601",
+        "lastUpdated": "2026-01-06T09:58:06.363Z"
+      },
       {
         "version": "2025.10.2025121801",
         "lastUpdated": "2025-12-18T09:51:41.49Z"
@@ -10549,15 +10553,11 @@
       {
         "version": "2025.8.2025080601",
         "lastUpdated": "2025-08-06T13:47:18.05Z"
-      },
-      {
-        "version": "2025.8.0",
-        "lastUpdated": "2025-09-10T18:59:03.877Z"
       }
     ],
     "categories": ["Extension Packs", "Data Science", "Machine Learning", "Visualization", "Notebooks"],
     "tags": ["debuggers", "interactive", "julia", "jupyter", "keybindings", "language-model-tools", "multi-root ready", "notebook", "notebookKernelJupyterNotebook", "python", "raw", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.10.2025121801/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-toolsai/vsextensions/jupyter/2025.10.2026010601/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
   },
   {
@@ -12240,9 +12240,13 @@
     "extension_name": "ms-windows-ai-studio.windows-ai-studio",
     "display_name": "AI Toolkit for Visual Studio Code",
     "short_description": "AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.",
-    "latest_version": "0.27.2025121904",
-    "last_updated": "2025-12-19T06:20:59.033Z",
+    "latest_version": "0.28.0",
+    "last_updated": "2026-01-06T10:03:22.95Z",
     "version_history": [
+      {
+        "version": "0.28.0",
+        "lastUpdated": "2026-01-06T10:03:22.95Z"
+      },
       {
         "version": "0.27.2025121904",
         "lastUpdated": "2025-12-19T06:20:59.033Z"
@@ -12318,15 +12322,11 @@
       {
         "version": "0.19.2025080707",
         "lastUpdated": "2025-08-07T09:04:34.403Z"
-      },
-      {
-        "version": "0.18.3",
-        "lastUpdated": "2025-08-08T07:27:25.83Z"
       }
     ],
     "categories": ["Azure", "Data Science", "Machine Learning", "AI", "Chat"],
     "tags": ["ai", "Azure", "Chat", "Data Science", "language-models", "language-model-tools", "LLM", "Machine Learning", "models", "studio", "tools", "windows"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.27.2025121904/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-windows-ai-studio/vsextensions/windows-ai-studio/0.28.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio"
   },
   {
@@ -13046,9 +13046,13 @@
     "extension_name": "oxc.oxc-vscode",
     "display_name": "Oxc",
     "short_description": "Oxlint and Oxfmt editor integration",
-    "latest_version": "1.37.0",
-    "last_updated": "2026-01-05T14:07:21.287Z",
+    "latest_version": "1.38.0",
+    "last_updated": "2026-01-06T10:09:13.96Z",
     "version_history": [
+      {
+        "version": "1.38.0",
+        "lastUpdated": "2026-01-06T10:09:13.96Z"
+      },
       {
         "version": "1.37.0",
         "lastUpdated": "2026-01-05T14:07:21.287Z"
@@ -13124,15 +13128,11 @@
       {
         "version": "1.17.0",
         "lastUpdated": "2025-09-23T20:56:06.37Z"
-      },
-      {
-        "version": "1.16.0",
-        "lastUpdated": "2025-09-16T20:13:26.887Z"
       }
     ],
     "categories": ["Linters", "Formatters"],
     "tags": ["astro", "formatter", "javascript", "javascriptreact", "json", "jsonc", "linter", "oxc", "oxfmt", "oxlint", "svelte", "typescript", "typescriptreact", "vue"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.37.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/oxc/vsextensions/oxc-vscode/1.38.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=oxc.oxc-vscode"
   },
   {
@@ -13919,9 +13919,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2026010511",
-    "last_updated": "2026-01-05T11:23:27.7Z",
+    "latest_version": "1.51.2026010608",
+    "last_updated": "2026-01-06T08:28:56.763Z",
     "version_history": [
+      {
+        "version": "1.51.2026010608",
+        "lastUpdated": "2026-01-06T08:28:56.763Z"
+      },
       {
         "version": "1.51.2026010511",
         "lastUpdated": "2026-01-05T11:23:27.7Z"
@@ -13983,6 +13987,10 @@
         "lastUpdated": "2025-11-27T08:29:58.847Z"
       },
       {
+        "version": "1.51.0",
+        "lastUpdated": "2026-01-06T09:19:05.103Z"
+      },
+      {
         "version": "1.50.2025112608",
         "lastUpdated": "2025-11-26T08:28:44.233Z"
       },
@@ -13993,28 +14001,24 @@
       {
         "version": "1.50.2025112208",
         "lastUpdated": "2025-11-22T08:27:39.513Z"
-      },
-      {
-        "version": "1.50.2025112110",
-        "lastUpdated": "2025-11-21T10:29:43.133Z"
-      },
-      {
-        "version": "1.50.2025112008",
-        "lastUpdated": "2025-11-20T08:35:26.347Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2026010511/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2026010608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2025122008",
-    "last_updated": "2025-12-20T08:13:55.64Z",
+    "latest_version": "1.20.2026010608",
+    "last_updated": "2026-01-06T08:15:51.313Z",
     "version_history": [
+      {
+        "version": "1.20.2026010608",
+        "lastUpdated": "2026-01-06T08:15:51.313Z"
+      },
       {
         "version": "1.20.2025122008",
         "lastUpdated": "2025-12-20T08:13:55.64Z"
@@ -14090,15 +14094,11 @@
       {
         "version": "1.15.0",
         "lastUpdated": "2024-06-07T06:02:23.36Z"
-      },
-      {
-        "version": "1.14.0",
-        "lastUpdated": "2023-07-19T14:52:58.59Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2025122008/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2026010608/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
@@ -17467,9 +17467,13 @@
     "extension_name": "vscjava.vscode-java-test",
     "display_name": "Test Runner for Java",
     "short_description": "Run and debug JUnit or TestNG test cases.",
-    "latest_version": "0.43.2025120408",
-    "last_updated": "2025-12-04T08:48:41.757Z",
+    "latest_version": "0.44.0",
+    "last_updated": "2026-01-06T09:13:50.937Z",
     "version_history": [
+      {
+        "version": "0.44.0",
+        "lastUpdated": "2026-01-06T09:13:50.937Z"
+      },
       {
         "version": "0.43.2025120408",
         "lastUpdated": "2025-12-04T08:48:41.757Z"
@@ -17545,15 +17549,11 @@
       {
         "version": "0.40.2024011806",
         "lastUpdated": "2024-01-18T08:01:33.467Z"
-      },
-      {
-        "version": "0.40.2023122104",
-        "lastUpdated": "2023-12-21T05:22:00.067Z"
       }
     ],
     "categories": ["Testing"],
     "tags": ["debug", "java", "junit", "test", "testng"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-test/0.43.2025120408/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/vscjava/vsextensions/vscode-java-test/0.44.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test"
   },
   {
