@@ -15071,9 +15071,17 @@
     "extension_name": "sourcegraph.cody-ai",
     "display_name": "Cody: AI Code Assistant",
     "short_description": "Sourcegraph’s AI code assistant goes beyond individual dev productivity, helping enterprises achieve consistency and quality at scale with AI. & codebase context to help you write code faster. Cody brings you autocomplete, chat, and commands, so you can generate code, write unit tests, create docs, ",
-    "latest_version": "1.134.0",
-    "last_updated": "2025-12-17T16:18:12.413Z",
+    "latest_version": "1.137.1767714000",
+    "last_updated": "2026-01-06T15:46:01.943Z",
     "version_history": [
+      {
+        "version": "1.137.1767714000",
+        "lastUpdated": "2026-01-06T15:46:01.943Z"
+      },
+      {
+        "version": "1.136.0",
+        "lastUpdated": "2026-01-06T14:48:23.56Z"
+      },
       {
         "version": "1.134.0",
         "lastUpdated": "2025-12-17T16:18:12.413Z"
@@ -15145,14 +15153,6 @@
       {
         "version": "1.123.1756452963",
         "lastUpdated": "2025-08-29T07:42:04.983Z"
-      },
-      {
-        "version": "1.122.0",
-        "lastUpdated": "2025-08-28T01:33:23.483Z"
-      },
-      {
-        "version": "1.121.1755212357",
-        "lastUpdated": "2025-08-14T23:04:45.753Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "Education", "AI", "Chat"],
@@ -15198,7 +15198,7 @@
       "test",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.134.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/sourcegraph/vsextensions/cody-ai/1.137.1767714000/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai"
   },
   {
