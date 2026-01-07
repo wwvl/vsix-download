@@ -5953,9 +5953,13 @@
     "extension_name": "GitHub.vscode-pull-request-github",
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
-    "latest_version": "0.125.2026010704",
-    "last_updated": "2026-01-07T04:26:19.117Z",
+    "latest_version": "0.125.2026010717",
+    "last_updated": "2026-01-07T17:44:07.77Z",
     "version_history": [
+      {
+        "version": "0.125.2026010717",
+        "lastUpdated": "2026-01-07T17:44:07.77Z"
+      },
       {
         "version": "0.125.2026010704",
         "lastUpdated": "2026-01-07T04:26:19.117Z"
@@ -6031,15 +6035,11 @@
       {
         "version": "0.123.2025120304",
         "lastUpdated": "2025-12-03T04:23:08.703Z"
-      },
-      {
-        "version": "0.123.2025120204",
-        "lastUpdated": "2025-12-02T04:29:01.087Z"
       }
     ],
     "categories": ["AI", "Chat"],
     "tags": ["chat-participant", "keybindings", "language-model-tools", "tools"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2026010704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GitHub/vsextensions/vscode-pull-request-github/0.125.2026010717/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
   },
   {
@@ -13919,9 +13919,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2026010608",
-    "last_updated": "2026-01-06T08:28:56.763Z",
+    "latest_version": "1.51.2026010716",
+    "last_updated": "2026-01-07T16:34:38.66Z",
     "version_history": [
+      {
+        "version": "1.51.2026010716",
+        "lastUpdated": "2026-01-07T16:34:38.66Z"
+      },
       {
         "version": "1.51.2026010608",
         "lastUpdated": "2026-01-06T08:28:56.763Z"
@@ -13997,15 +14001,11 @@
       {
         "version": "1.50.2025112508",
         "lastUpdated": "2025-11-25T08:28:30.623Z"
-      },
-      {
-        "version": "1.50.2025112208",
-        "lastUpdated": "2025-11-22T08:27:39.513Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2026010608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2026010716/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
