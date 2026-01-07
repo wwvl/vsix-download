@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2026.1.604",
-    "last_updated": "2026-01-06T09:16:56.153Z",
+    "latest_version": "2026.1.704",
+    "last_updated": "2026-01-07T09:18:37.827Z",
     "version_history": [
+      {
+        "version": "2026.1.704",
+        "lastUpdated": "2026-01-07T09:18:37.827Z"
+      },
       {
         "version": "2026.1.604",
         "lastUpdated": "2026-01-06T09:16:56.153Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.12.1304",
         "lastUpdated": "2025-12-13T09:16:32.09Z"
-      },
-      {
-        "version": "2025.12.1204",
-        "lastUpdated": "2025-12-12T09:18:21.047Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2026.1.604/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2026.1.704/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -5954,11 +5954,11 @@
     "display_name": "GitHub Pull Requests",
     "short_description": "Pull Request and Issue Provider for GitHub",
     "latest_version": "0.125.2026010704",
-    "last_updated": "2026-01-07T04:23:23.527Z",
+    "last_updated": "2026-01-07T04:26:19.117Z",
     "version_history": [
       {
         "version": "0.125.2026010704",
-        "lastUpdated": "2026-01-07T04:23:23.527Z"
+        "lastUpdated": "2026-01-07T04:26:19.117Z"
       },
       {
         "version": "0.125.2026010604",
@@ -8681,9 +8681,13 @@
     "extension_name": "monokai.theme-monokai-pro-vscode",
     "display_name": "Monokai Pro",
     "short_description": "✨ Professional dark & light theme + icon pack, from the author of the original Monokai color scheme.",
-    "latest_version": "2.0.11",
-    "last_updated": "2025-12-18T09:43:42.827Z",
+    "latest_version": "2.0.12",
+    "last_updated": "2026-01-07T12:37:55.263Z",
     "version_history": [
+      {
+        "version": "2.0.12",
+        "lastUpdated": "2026-01-07T12:37:55.263Z"
+      },
       {
         "version": "2.0.11",
         "lastUpdated": "2025-12-18T09:43:42.827Z"
@@ -8759,15 +8763,11 @@
       {
         "version": "1.1.21",
         "lastUpdated": "2022-08-27T15:10:05.6Z"
-      },
-      {
-        "version": "1.1.20",
-        "lastUpdated": "2022-01-19T19:04:02.587Z"
       }
     ],
     "categories": ["Themes"],
     "tags": ["beautiful functionality", "color-theme", "dark", "focus", "icons", "icon-theme", "light", "theme"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.11/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/monokai/vsextensions/theme-monokai-pro-vscode/2.0.12/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode"
   },
   {
@@ -8944,9 +8944,13 @@
     "extension_name": "MS-CEINTL.vscode-language-pack-zh-hans",
     "display_name": "Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code",
     "short_description": "Language pack extension for Chinese (Simplified)",
-    "latest_version": "1.108.2025123109",
-    "last_updated": "2025-12-31T09:28:33.977Z",
+    "latest_version": "1.108.2026010709",
+    "last_updated": "2026-01-07T09:25:32.133Z",
     "version_history": [
+      {
+        "version": "1.108.2026010709",
+        "lastUpdated": "2026-01-07T09:25:32.133Z"
+      },
       {
         "version": "1.108.2025123109",
         "lastUpdated": "2025-12-31T09:28:33.977Z"
@@ -9022,15 +9026,11 @@
       {
         "version": "1.104.2025082709",
         "lastUpdated": "2025-08-27T09:19:44.607Z"
-      },
-      {
-        "version": "1.104.2025082016",
-        "lastUpdated": "2025-08-20T16:57:00.747Z"
       }
     ],
     "categories": ["Language Packs"],
     "tags": ["lp-zh-cn", "中文(简体)"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.108.2025123109/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-zh-hans/1.108.2026010709/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans"
   },
   {
@@ -14012,9 +14012,13 @@
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2026010608",
-    "last_updated": "2026-01-06T08:15:51.313Z",
+    "latest_version": "1.20.2026010708",
+    "last_updated": "2026-01-07T08:14:31.96Z",
     "version_history": [
+      {
+        "version": "1.20.2026010708",
+        "lastUpdated": "2026-01-07T08:14:31.96Z"
+      },
       {
         "version": "1.20.2026010608",
         "lastUpdated": "2026-01-06T08:15:51.313Z"
@@ -14090,15 +14094,11 @@
       {
         "version": "1.16.0",
         "lastUpdated": "2025-02-09T14:36:49.7Z"
-      },
-      {
-        "version": "1.15.0",
-        "lastUpdated": "2024-06-07T06:02:23.36Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2026010608/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2026010708/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
