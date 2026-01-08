@@ -4245,9 +4245,13 @@
     "extension_name": "eamodio.gitlens",
     "display_name": "GitLens — Git supercharged",
     "short_description": "Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more",
-    "latest_version": "2026.1.704",
-    "last_updated": "2026-01-07T09:18:37.827Z",
+    "latest_version": "2026.1.804",
+    "last_updated": "2026-01-08T09:18:19.26Z",
     "version_history": [
+      {
+        "version": "2026.1.804",
+        "lastUpdated": "2026-01-08T09:18:19.26Z"
+      },
       {
         "version": "2026.1.704",
         "lastUpdated": "2026-01-07T09:18:37.827Z"
@@ -4323,15 +4327,11 @@
       {
         "version": "2025.12.1404",
         "lastUpdated": "2025-12-14T09:15:13.51Z"
-      },
-      {
-        "version": "2025.12.1304",
-        "lastUpdated": "2025-12-13T09:16:32.09Z"
       }
     ],
     "categories": ["SCM Providers"],
     "tags": ["annotation", "blame", "git", "gitlens", "keybindings", "log", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2026.1.704/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/eamodio/vsextensions/gitlens/2026.1.804/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"
   },
   {
@@ -13919,9 +13919,13 @@
     "extension_name": "redhat.java",
     "display_name": "Language Support for Java(TM) by Red Hat",
     "short_description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
-    "latest_version": "1.51.2026010716",
-    "last_updated": "2026-01-07T16:34:38.66Z",
+    "latest_version": "1.52.2026010808",
+    "last_updated": "2026-01-08T08:28:21.237Z",
     "version_history": [
+      {
+        "version": "1.52.2026010808",
+        "lastUpdated": "2026-01-08T08:28:21.237Z"
+      },
       {
         "version": "1.51.2026010716",
         "lastUpdated": "2026-01-07T16:34:38.66Z"
@@ -13997,24 +14001,24 @@
       {
         "version": "1.50.2025112608",
         "lastUpdated": "2025-11-26T08:28:44.233Z"
-      },
-      {
-        "version": "1.50.2025112508",
-        "lastUpdated": "2025-11-25T08:28:30.623Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["GradleKotlinDSL", "gradle-kotlin-dsl", "java", "JavaProperties", "java-properties", "json", "keybindings", "linters", "multi-root ready"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.51.2026010716/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/java/1.52.2026010808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
   },
   {
     "extension_name": "redhat.vscode-yaml",
     "display_name": "YAML",
     "short_description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
-    "latest_version": "1.20.2026010708",
-    "last_updated": "2026-01-07T08:14:31.96Z",
+    "latest_version": "1.20.2026010808",
+    "last_updated": "2026-01-08T08:14:58.693Z",
     "version_history": [
+      {
+        "version": "1.20.2026010808",
+        "lastUpdated": "2026-01-08T08:14:58.693Z"
+      },
       {
         "version": "1.20.2026010708",
         "lastUpdated": "2026-01-07T08:14:31.96Z"
@@ -14090,15 +14094,11 @@
       {
         "version": "1.17.0",
         "lastUpdated": "2025-03-05T19:16:43.1Z"
-      },
-      {
-        "version": "1.16.0",
-        "lastUpdated": "2025-02-09T14:36:49.7Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Linters", "Formatters"],
     "tags": ["ansible", "ansible-jinja", "autocompletion", "dockercompose", "github-actions-workflow", "kubernetes", "validation", "yaml", "yaml-textmate", "yaml-tmlanguage"],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2026010708/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/redhat/vsextensions/vscode-yaml/1.20.2026010808/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml"
   },
   {
