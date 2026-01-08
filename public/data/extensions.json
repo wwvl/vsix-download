@@ -1445,9 +1445,13 @@
     "extension_name": "augment.vscode-augment",
     "display_name": "Augment Code: AI Coding Agent for JavaScript, Go, TypeScript, Python & more",
     "short_description": "Augment is an AI copilot with a superior context engine and agents that truly understand your codebase—from a single line to 100M lines. Tackle complex architectures and legacy systems with reliable answers, context-aware code actions, and instant comprehension.",
-    "latest_version": "0.730.0",
-    "last_updated": "2026-01-07T23:12:20.05Z",
+    "latest_version": "0.731.0",
+    "last_updated": "2026-01-08T03:18:19.317Z",
     "version_history": [
+      {
+        "version": "0.731.0",
+        "lastUpdated": "2026-01-08T03:18:19.317Z"
+      },
       {
         "version": "0.730.0",
         "lastUpdated": "2026-01-07T23:12:20.05Z"
@@ -1523,10 +1527,6 @@
       {
         "version": "0.650.0",
         "lastUpdated": "2025-11-19T07:37:37.477Z"
-      },
-      {
-        "version": "0.648.0",
-        "lastUpdated": "2025-11-18T03:43:46.637Z"
       }
     ],
     "categories": ["Programming Languages", "Snippets", "Machine Learning", "AI", "Chat"],
@@ -1563,7 +1563,7 @@
       "swift",
       "typescript"
     ],
-    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.730.0/vspackage",
+    "download_url": "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/augment/vsextensions/vscode-augment/0.731.0/vspackage",
     "marketplace_url": "https://marketplace.visualstudio.com/items?itemName=augment.vscode-augment"
   },
   {
